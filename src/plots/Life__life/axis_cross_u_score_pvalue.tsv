@@ -1,0 +1,8 @@
+rel_role	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	1.0	0.0	0.0	0.003	0.009	0.0	0.0	Life__life	30
+adaptation_topic	0.0	1.0	0.016	0.16	0.364	0.198	0.016	Life__life	25
+free_topic	0.0	0.016	1.0	0.014	0.053	0.002	0.009	Life__life	131
+location_comment	0.003	0.16	0.014	1.0	0.093	0.049	0.009	Life__life	10
+location_topic	0.009	0.364	0.053	0.093	1.0	0.162	0.049	Life__life	12
+taxongroup_comment	0.0	0.198	0.002	0.049	0.162	1.0	0.013	Life__life	33
+taxongroup_topic	0.0	0.016	0.009	0.009	0.049	0.013	1.0	Life__life	63

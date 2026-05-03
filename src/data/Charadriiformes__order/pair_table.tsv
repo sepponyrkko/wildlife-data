@@ -1,0 +1,934 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Atl-79fc_107_puffin-7	Atl-79fc_107_ocean-19	Atl-79fc_107_puffin-7_4634	107	Atl-79fc_107_ocean-19_4530	107	0	puffin	open ocean	100.0
+location	Bur-dc3c_212_curlew-43	Bur-dc3c_212_heathlands-9	Bur-dc3c_212_curlew-43_4925	212	Bur-dc3c_212_heathlands-9_4518	212	0	stone curlew	heathland	100.0
+location	Atl-79fc_278_puffin-4	Atl-79fc_278_ocean-11	Atl-79fc_278_puffin-4_4634	278	Atl-79fc_278_ocean-11_4530	278	0	puffin	open ocean	100.0
+location	Atl-79fc_16_puffin-18	Atl-79fc_16_ocean-9	Atl-79fc_16_puffin-18_4634	16	Atl-79fc_16_ocean-9_4530	16	0	puffin	open ocean	100.0
+location	Gre-0f9b_52_gull-6	Gre-0f9b_52_estuaries-22	Gre-0f9b_52_gull-6_5043	52	Gre-0f9b_52_estuaries-22_4517	52	0	great black-backed gull	estuaries	100.0
+location	Pie-a5d9_26_avocets-32	Pie-a5d9_26_water-22	Pie-a5d9_26_avocets-32_5345	26	Pie-a5d9_26_water-22_4512	26	0	avocet	brackish water	100.0
+location	Pie-a5d9_26_avocets-32	Pie-a5d9_26_water-7	Pie-a5d9_26_avocets-32_5345	26	Pie-a5d9_26_water-7_4512	26	0	avocet	brackish water	100.0
+location	Oys-0cbb_26_oystercatchers-37	Oys-0cbb_26_estuaries-17	Oys-0cbb_26_oystercatchers-37_4920	26	Oys-0cbb_26_estuaries-17_4517	26	0	oystercatcher	estuaries	100.0
+location	Gre-0f9b_52_gull-6	Gre-0f9b_52_wetland-28	Gre-0f9b_52_gull-6_5043	52	Gre-0f9b_52_wetland-28_4542	52	0	great black-backed gull	wetlands	100.0
+location	Red-d827_2_knot-3	Red-d827_2_tundra-19	Red-d827_2_knot-3_5402	2	Red-d827_2_tundra-19_4539	2	0	knot	tundra	100.0
+location	Red-d827_135_knots-2	Red-d827_135_tundra-18	Red-d827_135_knots-2_5402	135	Red-d827_135_tundra-18_4539	135	0	knot	tundra	100.0
+location	Oys-0cbb_26_oystercatchers-5	Oys-0cbb_26_estuaries-17	Oys-0cbb_26_oystercatchers-5_4920	26	Oys-0cbb_26_estuaries-17_4517	26	0	oystercatcher	estuaries	100.0
+location	Atl-79fc_234_skua-14	Atl-79fc_234_tundra-6	Atl-79fc_234_skua-14_1553	234	Atl-79fc_234_tundra-6_4539	234	0	Arctic skua	tundra	100.0
+location	Gre-0f9b_52_gull-6	Gre-0f9b_52_lakes-33	Gre-0f9b_52_gull-6_5043	52	Gre-0f9b_52_lakes-33_4522	52	0	great black-backed gull	lakes and ponds	66.0
+location	Pie-a5d9_25_avocet-2	Pie-a5d9_26_water-22	Pie-a5d9_25_avocet-2_5345	25	Pie-a5d9_26_water-22_4512	26	1	avocet	brackish water	50.0
+location	Aukb31c_7_guillemots-13	Aukb31c_6_ocean-7	Aukb31c_7_guillemots-13_4809	7	Aukb31c_6_ocean-7_4530	6	1	guillemot	open ocean	50.0
+location	Pie-a5d9_25_avocet-2	Pie-a5d9_26_water-7	Pie-a5d9_25_avocet-2_5345	25	Pie-a5d9_26_water-7_4512	26	1	avocet	brackish water	50.0
+location	Chada27_4_lapwings-13	Chada27_5_farmland-21	Chada27_4_lapwings-13_3884	4	Chada27_5_farmland-21_4509	5	1	lapwing	farmland	50.0
+location	Bur-dc3c_211_curlew-12	Bur-dc3c_212_heathlands-9	Bur-dc3c_211_curlew-12_4925	211	Bur-dc3c_212_heathlands-9_4518	212	1	stone curlew	heathland	50.0
+location	Bur-dc3c_213_curlews-8	Bur-dc3c_212_heathlands-9	Bur-dc3c_213_curlews-8_4925	213	Bur-dc3c_212_heathlands-9_4518	212	1	stone curlew	heathland	50.0
+location	Aukb31c_7_puffins-11	Aukb31c_6_ocean-7	Aukb31c_7_puffins-11_4634	7	Aukb31c_6_ocean-7_4530	6	1	puffin	open ocean	50.0
+location	Atl-79fc_106_puffin-2	Atl-79fc_107_ocean-19	Atl-79fc_106_puffin-2_4634	106	Atl-79fc_107_ocean-19_4530	107	1	puffin	open ocean	50.0
+location	Ter-7888_42_auks-26	Ter-7888_41_coastal-7	Ter-7888_42_auks-26_4045	42	Ter-7888_41_coastal-7_4514	41	1	auks	coastal	50.0
+location	Bur-dc3c_213_curlews-42	Bur-dc3c_212_heathlands-9	Bur-dc3c_213_curlews-42_4925	213	Bur-dc3c_212_heathlands-9_4518	212	1	stone curlew	heathland	50.0
+location	Eur-19c7_54_oystercatcher-13	Eur-19c7_55_estuary-27	Eur-19c7_54_oystercatcher-13_4920	54	Eur-19c7_55_estuary-27_4517	55	1	oystercatcher	estuaries	50.0
+location	Atl-79fc_15_Puffins-1	Atl-79fc_16_ocean-9	Atl-79fc_15_Puffins-1_1582	15	Atl-79fc_16_ocean-9_4530	16	1	Puffin	open ocean	50.0
+location	Tun-4bf6_72_jaegers-21	Tun-4bf6_71_tundra-7	Tun-4bf6_72_jaegers-21_4627	72	Tun-4bf6_71_tundra-7_4539	71	1	parasitic jaeger	tundra	41.5
+location	Bur-dc3c_97_curlews-4	Bur-dc3c_99_farmland-3	Bur-dc3c_97_curlews-4_4925	97	Bur-dc3c_99_farmland-3_4509	99	2	stone curlew	farmland	33.333
+location	Aukb31c_8_guillemots-6	Aukb31c_6_ocean-7	Aukb31c_8_guillemots-6_4497	8	Aukb31c_6_ocean-7_4530	6	2	guillemots	open ocean	33.333
+location	Bur-dc3c_214_curlew-5	Bur-dc3c_212_heathlands-9	Bur-dc3c_214_curlew-5_4925	214	Bur-dc3c_212_heathlands-9_4518	212	2	stone curlew	heathland	33.333
+location	Atl-79fc_101_puffins-7	Atl-79fc_103_ocean-12	Atl-79fc_101_puffins-7_4634	101	Atl-79fc_103_ocean-12_4530	103	2	puffin	open ocean	33.333
+location	Atl-79fc_276_puffin-2	Atl-79fc_278_ocean-11	Atl-79fc_276_puffin-2_4634	276	Atl-79fc_278_ocean-11_4530	278	2	puffin	open ocean	33.333
+location	Atl-79fc_109_puffin-2	Atl-79fc_107_ocean-19	Atl-79fc_109_puffin-2_4634	109	Atl-79fc_107_ocean-19_4530	107	2	puffin	open ocean	33.333
+location	Sno-0a8f_405_parasiticus-34	Sno-0a8f_403_tundra-6	Sno-0a8f_405_parasiticus-34_1554	405	Sno-0a8f_403_tundra-6_4539	403	2	Stercorarius parasiticus	tundra	29.0
+location	Eur-19c7_57_oystercatcher-2	Eur-19c7_55_estuary-27	Eur-19c7_57_oystercatcher-2_2166	57	Eur-19c7_55_estuary-27_4517	55	2	Eurasian oystercatcher	estuaries	27.667
+location	Sno-0a8f_405_jaegers-71	Sno-0a8f_403_tundra-6	Sno-0a8f_405_jaegers-71_4627	405	Sno-0a8f_403_tundra-6_4539	403	2	parasitic jaeger	tundra	27.667
+location	Sno-0a8f_405_jaegers-31	Sno-0a8f_403_tundra-6	Sno-0a8f_405_jaegers-31_4627	405	Sno-0a8f_403_tundra-6_4539	403	2	parasitic jaeger	tundra	27.667
+location	Eur-19c7_53_oystercatcher-2	Eur-19c7_55_estuary-27	Eur-19c7_53_oystercatcher-2_2166	53	Eur-19c7_55_estuary-27_4517	55	2	Eurasian oystercatcher	estuaries	27.667
+location	Coa-44f0_176_puffins-9	Coa-44f0_173_coastal-12	Coa-44f0_176_puffins-9_4634	176	Coa-44f0_173_coastal-12_4514	173	3	puffin	coastal	25.0
+location	Atl-79fc_231_gull-53	Atl-79fc_234_tundra-6	Atl-79fc_231_gull-53_5093	231	Atl-79fc_234_tundra-6_4539	234	3	herring gull	tundra	25.0
+location	Atl-79fc_231_gull-36	Atl-79fc_234_tundra-6	Atl-79fc_231_gull-36_2527	231	Atl-79fc_234_tundra-6_4539	234	3	Herring gull	tundra	25.0
+location	Atl-79fc_231_gull-42	Atl-79fc_234_tundra-6	Atl-79fc_231_gull-42_2527	231	Atl-79fc_234_tundra-6_4539	234	3	Herring gull	tundra	25.0
+location	Atl-79fc_106_puffin-2	Atl-79fc_103_ocean-12	Atl-79fc_106_puffin-2_4634	106	Atl-79fc_103_ocean-12_4530	103	3	puffin	open ocean	25.0
+location	Bur-dc3c_96_curlew-21	Bur-dc3c_99_farmland-3	Bur-dc3c_96_curlew-21_4925	96	Bur-dc3c_99_farmland-3_4509	99	3	stone curlew	farmland	25.0
+location	Oys-0cbb_29_oystercatcher-5	Oys-0cbb_26_estuaries-17	Oys-0cbb_29_oystercatcher-5_2166	29	Oys-0cbb_26_estuaries-17_4517	26	3	Eurasian oystercatcher	estuaries	20.75
+location	Oys-0cbb_29_oystercatcher-18	Oys-0cbb_26_estuaries-17	Oys-0cbb_29_oystercatcher-18_2166	29	Oys-0cbb_26_estuaries-17_4517	26	3	Eurasian oystercatcher	estuaries	20.75
+location	Eur-19c7_40_oystercatcher-2	Eur-19c7_37_estuaries-33	Eur-19c7_40_oystercatcher-2_2166	40	Eur-19c7_37_estuaries-33_4517	37	3	Eurasian oystercatcher	estuaries	20.75
+location	Eur-19c7_58_oystercatcher-2	Eur-19c7_55_estuary-27	Eur-19c7_58_oystercatcher-2_2166	58	Eur-19c7_55_estuary-27_4517	55	3	Eurasian oystercatcher	estuaries	20.75
+location	Eur-19c7_34_oystercatcher-2	Eur-19c7_37_estuaries-33	Eur-19c7_34_oystercatcher-2_2166	34	Eur-19c7_37_estuaries-33_4517	37	3	Eurasian oystercatcher	estuaries	20.75
+location	Pie-a5d9_25_avocet-2	Pie-a5d9_28_water-9	Pie-a5d9_25_avocet-2_3073	25	Pie-a5d9_28_water-9_4512	28	3	Pied avocet	brackish water	20.75
+location	Gul-1ea1_51_gulls-6	Gul-1ea1_53_wetlands-6	Gul-1ea1_51_gulls-6_5043	51	Gul-1ea1_53_wetlands-6_4542	53	2	great black-backed gull	wetlands	20.0
+location	Gul-1ea1_51_gull-36	Gul-1ea1_53_wetlands-6	Gul-1ea1_51_gull-36_5043	51	Gul-1ea1_53_wetlands-6_4542	53	2	great black-backed gull	wetlands	20.0
+location	Chada27_1_lapwings-3	Chada27_5_farmland-21	Chada27_1_lapwings-3_3884	1	Chada27_5_farmland-21_4509	5	4	lapwing	farmland	20.0
+location	Atl-79fc_107_puffin-7	Atl-79fc_103_ocean-12	Atl-79fc_107_puffin-7_4634	107	Atl-79fc_103_ocean-12_4530	103	4	puffin	open ocean	20.0
+location	Bur-dc3c_216_curlews-12	Bur-dc3c_212_heathlands-9	Bur-dc3c_216_curlews-12_4925	216	Bur-dc3c_212_heathlands-9_4518	212	4	stone curlew	heathland	20.0
+location	Gul-1ea1_51_gulls-21	Gul-1ea1_53_wetlands-6	Gul-1ea1_51_gulls-21_5043	51	Gul-1ea1_53_wetlands-6_4542	53	2	great black-backed gull	wetlands	20.0
+location	Gre-0f9b_57_gull-10	Gre-0f9b_52_estuaries-22	Gre-0f9b_57_gull-10_5043	57	Gre-0f9b_52_estuaries-22_4517	52	5	great black-backed gull	estuaries	16.667
+location	Gre-0f9b_57_gull-10	Gre-0f9b_52_wetland-28	Gre-0f9b_57_gull-10_5043	57	Gre-0f9b_52_wetland-28_4542	52	5	great black-backed gull	wetlands	16.667
+location	Bur-dc3c_156_curlews-4	Bur-dc3c_151_farmland-14	Bur-dc3c_156_curlews-4_4925	156	Bur-dc3c_151_farmland-14_4509	151	5	stone curlew	farmland	16.667
+location	Eur-19c7_33_oystercatcher-3	Eur-19c7_37_estuaries-33	Eur-19c7_33_oystercatcher-3_2166	33	Eur-19c7_37_estuaries-33_4517	37	4	Eurasian oystercatcher	estuaries	16.6
+location	Eur-19c7_33_oystercatcher-12	Eur-19c7_37_estuaries-33	Eur-19c7_33_oystercatcher-12_2166	33	Eur-19c7_37_estuaries-33_4517	37	4	Eurasian oystercatcher	estuaries	16.6
+location	Pie-a5d9_32_avocet-3	Pie-a5d9_28_water-9	Pie-a5d9_32_avocet-3_5346	32	Pie-a5d9_28_water-9_4512	28	4	pied avocet	brackish water	16.6
+location	Tun-4bf6_72_jaegers-21	Tun-4bf6_76_tundra-4	Tun-4bf6_72_jaegers-21_4627	72	Tun-4bf6_76_tundra-4_4539	76	4	parasitic jaeger	tundra	16.6
+location	Sno-0a8f_405_parasiticus-34	Sno-0a8f_400_tundra-54	Sno-0a8f_405_parasiticus-34_1554	405	Sno-0a8f_400_tundra-54_4539	400	5	Stercorarius parasiticus	tundra	14.5
+location	Atl-79fc_22_skua-9	Atl-79fc_16_ocean-9	Atl-79fc_22_skua-9_1553	22	Atl-79fc_16_ocean-9_4530	16	6	Arctic skua	open ocean	14.286
+location	Gre-0f9b_58_gull-5	Gre-0f9b_52_estuaries-22	Gre-0f9b_58_gull-5_5043	58	Gre-0f9b_52_estuaries-22_4517	52	6	great black-backed gull	estuaries	14.286
+location	Gre-0f9b_58_gull-5	Gre-0f9b_52_wetland-28	Gre-0f9b_58_gull-5_5043	58	Gre-0f9b_52_wetland-28_4542	52	6	great black-backed gull	wetlands	14.286
+location	Tun-4bf6_72_jaegers-21	Tun-4bf6_67_Tundra-1	Tun-4bf6_72_jaegers-21_4627	72	Tun-4bf6_67_Tundra-1_1379	67	5	parasitic jaeger	Tundra	13.833
+location	Tun-4bf6_72_jaegers-21	Tun-4bf6_77_Tundra-1	Tun-4bf6_72_jaegers-21_4627	72	Tun-4bf6_77_Tundra-1_1379	77	5	parasitic jaeger	Tundra	13.833
+location	Sno-0a8f_405_jaegers-31	Sno-0a8f_400_tundra-54	Sno-0a8f_405_jaegers-31_4627	405	Sno-0a8f_400_tundra-54_4539	400	5	parasitic jaeger	tundra	13.833
+location	Sno-0a8f_405_jaegers-71	Sno-0a8f_400_tundra-54	Sno-0a8f_405_jaegers-71_4627	405	Sno-0a8f_400_tundra-54_4539	400	5	parasitic jaeger	tundra	13.833
+location	Biv-02de_272_oystercatcher-6	Biv-02de_265_lakes-22	Biv-02de_272_oystercatcher-6_4920	272	Biv-02de_265_lakes-22_4522	265	7	oystercatcher	lakes and ponds	12.5
+location	Per-145f_217_kittiwakes-18	Per-145f_210_tundra-26	Per-145f_217_kittiwakes-18_4693	217	Per-145f_210_tundra-26_4539	210	7	kittiwake	tundra	12.5
+location	Sno-0a8f_405_parasiticus-34	Sno-0a8f_399_tundra-30	Sno-0a8f_405_parasiticus-34_1554	405	Sno-0a8f_399_tundra-30_4539	399	6	Stercorarius parasiticus	tundra	12.429
+location	Tun-4bf6_72_jaegers-21	Tun-4bf6_78_tundra-2	Tun-4bf6_72_jaegers-21_4627	72	Tun-4bf6_78_tundra-2_4539	78	6	parasitic jaeger	tundra	11.857
+location	Sno-0a8f_405_jaegers-31	Sno-0a8f_399_tundra-30	Sno-0a8f_405_jaegers-31_4627	405	Sno-0a8f_399_tundra-30_4539	399	6	parasitic jaeger	tundra	11.857
+location	Sno-0a8f_405_jaegers-71	Sno-0a8f_399_tundra-30	Sno-0a8f_405_jaegers-71_4627	405	Sno-0a8f_399_tundra-30_4539	399	6	parasitic jaeger	tundra	11.857
+location	Par-ce5c_40_jaeger-3	Par-ce5c_34_tundra-5	Par-ce5c_40_jaeger-3_4627	40	Par-ce5c_34_tundra-5_4539	34	6	parasitic jaeger	tundra	11.857
+location	Pie-a5d9_32_avocet-3	Pie-a5d9_26_water-7	Pie-a5d9_32_avocet-3_5346	32	Pie-a5d9_26_water-7_4512	26	6	pied avocet	brackish water	11.857
+location	Pie-a5d9_32_avocet-3	Pie-a5d9_26_water-22	Pie-a5d9_32_avocet-3_5346	32	Pie-a5d9_26_water-22_4512	26	6	pied avocet	brackish water	11.857
+location	Pie-a5d9_34_avocet-3	Pie-a5d9_28_water-9	Pie-a5d9_34_avocet-3_5346	34	Pie-a5d9_28_water-9_4512	28	6	pied avocet	brackish water	11.857
+location	Ste-6e04_136_kittiwakes-30	Ste-6e04_144_tundra-21	Ste-6e04_136_kittiwakes-30_4693	136	Ste-6e04_144_tundra-21_4539	144	8	kittiwake	tundra	11.111
+location	Coa-44f0_181_oystercatchers-13	Coa-44f0_173_coastal-12	Coa-44f0_181_oystercatchers-13_4920	181	Coa-44f0_173_coastal-12_4514	173	8	oystercatcher	coastal	11.111
+location	Gre-0f9b_57_gull-10	Gre-0f9b_52_lakes-33	Gre-0f9b_57_gull-10_5043	57	Gre-0f9b_52_lakes-33_4522	52	5	great black-backed gull	lakes and ponds	11.0
+location	Tun-4bf6_72_jaegers-21	Tun-4bf6_65_Tundra-1	Tun-4bf6_72_jaegers-21_4627	72	Tun-4bf6_65_Tundra-1_1379	65	7	parasitic jaeger	Tundra	10.375
+location	Atl-79fc_229_gull-35	Atl-79fc_234_tundra-6	Atl-79fc_229_gull-35_5175	229	Atl-79fc_234_tundra-6_4539	234	5	lesser black-backed gull	tundra	10.0
+location	Ste-6e04_136_tridactyla-33	Ste-6e04_144_tundra-21	Ste-6e04_136_tridactyla-33_1707	136	Ste-6e04_144_tundra-21_4539	144	8	Rissa tridactyla	tundra	9.667
+location	Pie-a5d9_34_avocet-3	Pie-a5d9_26_water-22	Pie-a5d9_34_avocet-3_5346	34	Pie-a5d9_26_water-22_4512	26	8	pied avocet	brackish water	9.222
+location	Bur-dc3c_143_curlews-4	Bur-dc3c_151_farmland-14	Bur-dc3c_143_curlews-4_2175	143	Bur-dc3c_151_farmland-14_4509	151	8	Eurasian stone curlew	farmland	9.222
+location	Pie-a5d9_34_avocet-3	Pie-a5d9_26_water-7	Pie-a5d9_34_avocet-3_5346	34	Pie-a5d9_26_water-7_4512	26	8	pied avocet	brackish water	9.222
+location	Atl-79fc_27_guillemots-13	Atl-79fc_16_ocean-9	Atl-79fc_27_guillemots-13_4809	27	Atl-79fc_16_ocean-9_4530	16	11	guillemot	open ocean	8.333
+location	Pie-a5d9_17_avocet-3	Pie-a5d9_26_water-22	Pie-a5d9_17_avocet-3_5346	17	Pie-a5d9_26_water-22_4512	26	9	pied avocet	brackish water	8.3
+location	Pie-a5d9_17_avocet-3	Pie-a5d9_26_water-7	Pie-a5d9_17_avocet-3_5346	17	Pie-a5d9_26_water-7_4512	26	9	pied avocet	brackish water	8.3
+location	Coa-44f0_181_oystercatchers-13	Coa-44f0_193_coastal-9	Coa-44f0_181_oystercatchers-13_4920	181	Coa-44f0_193_coastal-9_1353	193	12	oystercatcher	Coastal	7.692
+location	Tun-4bf6_72_jaegers-21	Tun-4bf6_62_Tundra-1	Tun-4bf6_72_jaegers-21_4627	72	Tun-4bf6_62_Tundra-1_1379	62	10	parasitic jaeger	Tundra	7.545
+location	Bur-dc3c_109_curlews-24	Bur-dc3c_99_farmland-3	Bur-dc3c_109_curlews-24_2175	109	Bur-dc3c_99_farmland-3_4509	99	10	Eurasian stone curlew	farmland	7.545
+location	Gre-0f9b_58_gull-5	Gre-0f9b_52_lakes-33	Gre-0f9b_58_gull-5_2427	58	Gre-0f9b_52_lakes-33_4522	52	6	Great black-backed gull	lakes and ponds	7.543
+location	Atl-79fc_265_Puffin-2	Atl-79fc_278_ocean-11	Atl-79fc_265_Puffin-2_1582	265	Atl-79fc_278_ocean-11_4530	278	13	Puffin	open ocean	7.143
+location	Tun-4bf6_72_jaegers-21	Tun-4bf6_61_Tundra-1	Tun-4bf6_72_jaegers-21_4627	72	Tun-4bf6_61_Tundra-1_1379	61	11	parasitic jaeger	Tundra	6.917
+location	Pie-a5d9_17_avocet-3	Pie-a5d9_28_water-9	Pie-a5d9_17_avocet-3_5346	17	Pie-a5d9_28_water-9_4512	28	11	pied avocet	brackish water	6.917
+location	Bur-dc3c_88_curlews-4	Bur-dc3c_99_farmland-3	Bur-dc3c_88_curlews-4_2175	88	Bur-dc3c_99_farmland-3_4509	99	11	Eurasian stone curlew	farmland	6.917
+location	Ste-6e04_136_gulls-39	Ste-6e04_144_tundra-21	Ste-6e04_136_gulls-39_5175	136	Ste-6e04_144_tundra-21_4539	144	8	lesser black-backed gull	tundra	6.667
+location	Gre-0f9b_43_gull-5	Gre-0f9b_52_estuaries-22	Gre-0f9b_43_gull-5_5175	43	Gre-0f9b_52_estuaries-22_4517	52	9	lesser black-backed gull	estuaries	6.0
+location	Ste-6e04_135_gulls-12	Ste-6e04_144_tundra-21	Ste-6e04_135_gulls-12_5175	135	Ste-6e04_144_tundra-21_4539	144	9	lesser black-backed gull	tundra	6.0
+location	Bur-dc3c_91_curlews-7	Bur-dc3c_99_farmland-3	Bur-dc3c_91_curlews-7_2175	91	Bur-dc3c_99_farmland-3_4509	99	8	Eurasian stone curlew	farmland	6.0
+location	Atl-79fc_2_arctica-6	Atl-79fc_16_ocean-9	Atl-79fc_2_arctica-6_1583	2	Atl-79fc_16_ocean-9_4530	16	14	Fratercula arctica	open ocean	5.8
+location	Pte-62aa_500_puffin-6	Pte-62aa_517_coastal-5	Pte-62aa_500_puffin-6_4634	500	Pte-62aa_517_coastal-5_4514	517	17	puffin	coastal	5.556
+location	Bur-dc3c_195_curlew-27	Bur-dc3c_212_heathlands-9	Bur-dc3c_195_curlew-27_2173	195	Bur-dc3c_212_heathlands-9_4518	212	17	Stone curlew	heathland	5.556
+location	Coa-44f0_176_puffins-9	Coa-44f0_193_coastal-9	Coa-44f0_176_puffins-9_4634	176	Coa-44f0_193_coastal-9_1353	193	17	puffin	Coastal	5.556
+location	Bur-dc3c_195_curlews-4	Bur-dc3c_212_heathlands-9	Bur-dc3c_195_curlews-4_2173	195	Bur-dc3c_212_heathlands-9_4518	212	17	Stone curlew	heathland	5.556
+location	Oys-0cbb_12_pie-20	Oys-0cbb_26_estuaries-17	Oys-0cbb_12_pie-20_4922	12	Oys-0cbb_26_estuaries-17_4517	26	14	sea pie	estuaries	5.533
+location	Adé-beeb_150_skuas-3	Adé-beeb_161_coastal-8	Adé-beeb_150_skuas-3_3385	150	Adé-beeb_161_coastal-8_1353	161	11	South polar skua	Coastal	5.5
+location	Gre-0f9b_43_gull-5	Gre-0f9b_52_lakes-33	Gre-0f9b_43_gull-5_2427	43	Gre-0f9b_52_lakes-33_4522	52	9	Great black-backed gull	lakes and ponds	5.28
+location	Red-d827_153_Knot-4	Red-d827_135_tundra-18	Red-d827_153_Knot-4_3193	153	Red-d827_135_tundra-18_4539	135	18	Knot	tundra	5.263
+location	Red-d827_153_Knot-4	Red-d827_134_tundra-10	Red-d827_153_Knot-4_3193	153	Red-d827_134_tundra-10_4539	134	19	Knot	tundra	5.0
+location	Red-d827_154_Knot-11	Red-d827_135_tundra-18	Red-d827_154_Knot-11_3193	154	Red-d827_135_tundra-18_4539	135	19	Knot	tundra	5.0
+location	Red-d827_154_Knot-11	Red-d827_134_tundra-10	Red-d827_154_Knot-11_3193	154	Red-d827_134_tundra-10_4539	134	20	Knot	tundra	4.762
+location	Coa-44f0_176_puffins-9	Coa-44f0_155_coastal-13	Coa-44f0_176_puffins-9_4634	176	Coa-44f0_155_coastal-13_1353	155	21	puffin	Coastal	4.545
+location	Red-d827_156_Knot-18	Red-d827_135_tundra-18	Red-d827_156_Knot-18_3193	156	Red-d827_135_tundra-18_4539	135	21	Knot	tundra	4.545
+location	Red-d827_156_Knot-7	Red-d827_135_tundra-18	Red-d827_156_Knot-7_3193	156	Red-d827_135_tundra-18_4539	135	21	Knot	tundra	4.545
+location	Bur-dc3c_110_curlews-5	Bur-dc3c_99_farmland-3	Bur-dc3c_110_curlews-5_2175	110	Bur-dc3c_99_farmland-3_4509	99	11	Eurasian stone curlew	farmland	4.5
+location	Gre-0f9b_63_gulls-40	Gre-0f9b_52_lakes-33	Gre-0f9b_63_gulls-40_2427	63	Gre-0f9b_52_lakes-33_4522	52	11	Great black-backed gull	lakes and ponds	4.4
+location	Gre-0f9b_63_gulls-21	Gre-0f9b_52_lakes-33	Gre-0f9b_63_gulls-21_2427	63	Gre-0f9b_52_lakes-33_4522	52	11	Great black-backed gull	lakes and ponds	4.4
+location	Bur-dc3c_133_curlews-4	Bur-dc3c_151_farmland-14	Bur-dc3c_133_curlews-4_2175	133	Bur-dc3c_151_farmland-14_4509	151	18	Eurasian stone curlew	farmland	4.368
+location	Ter-7888_64_tern-12	Ter-7888_41_coastal-7	Ter-7888_64_tern-12_4628	64	Ter-7888_41_coastal-7_4514	41	23	arctic tern	coastal	4.167
+location	Ter-7888_64_tern-9	Ter-7888_41_coastal-7	Ter-7888_64_tern-9_4628	64	Ter-7888_41_coastal-7_1353	41	23	arctic tern	Coastal	4.167
+location	Whi-b4c3_391_Charadrius-42	Whi-b4c3_368_wetlands-39	Whi-b4c3_391_Charadrius-42_971	391	Whi-b4c3_368_wetlands-39_4542	368	23	Charadrius	wetlands	4.167
+location	Coa-44f0_176_puffins-9	Coa-44f0_153_coastal-4	Coa-44f0_176_puffins-9_4634	176	Coa-44f0_153_coastal-4_1353	153	23	puffin	Coastal	4.167
+location	Bur-dc3c_139_curlews-4	Bur-dc3c_151_farmland-14	Bur-dc3c_139_curlews-4_2175	139	Bur-dc3c_151_farmland-14_4509	151	12	Eurasian stone curlew	farmland	4.154
+location	Gre-0f9b_63_gulls-40	Gre-0f9b_52_estuaries-22	Gre-0f9b_63_gulls-40_2429	63	Gre-0f9b_52_estuaries-22_4517	52	11	Greater black-backed gull	estuaries	4.083
+location	Gre-0f9b_63_gulls-21	Gre-0f9b_52_estuaries-22	Gre-0f9b_63_gulls-21_2429	63	Gre-0f9b_52_estuaries-22_4517	52	11	Greater black-backed gull	estuaries	4.083
+location	Biv-02de_272_oystercatcher-6	Biv-02de_248_zone-8	Biv-02de_272_oystercatcher-6_4920	272	Biv-02de_248_zone-8_4521	248	24	oystercatcher	intertidal zone	4.0
+location	Pal-0383_58_Alcidae-25	Pal-0383_34_coastal-10	Pal-0383_58_Alcidae-25_477	58	Pal-0383_34_coastal-10_1353	34	24	Alcidae	Coastal	4.0
+location	Pal-0383_58_auks-23	Pal-0383_34_coastal-10	Pal-0383_58_auks-23_4045	58	Pal-0383_34_coastal-10_1353	34	24	auks	Coastal	4.0
+location	Biv-02de_273_gull-3	Biv-02de_248_zone-8	Biv-02de_273_gull-3_5093	273	Biv-02de_248_zone-8_4521	248	25	herring gull	intertidal zone	3.846
+location	Coa-44f0_181_oystercatchers-13	Coa-44f0_206_coastal-33	Coa-44f0_181_oystercatchers-13_4920	181	Coa-44f0_206_coastal-33_1353	206	25	oystercatcher	Coastal	3.846
+location	Oys-0cbb_1_Oystercatcher-1	Oys-0cbb_26_estuaries-17	Oys-0cbb_1_Oystercatcher-1_2163	1	Oys-0cbb_26_estuaries-17_4517	26	25	Oystercatcher	estuaries	3.846
+location	Par-ce5c_56_parasiticus-6	Par-ce5c_34_tundra-5	Par-ce5c_56_parasiticus-6_1554	56	Par-ce5c_34_tundra-5_4539	34	22	Stercorarius parasiticus	tundra	3.783
+location	Gre-0f9b_65_gulls-8	Gre-0f9b_52_lakes-33	Gre-0f9b_65_gulls-8_2427	65	Gre-0f9b_52_lakes-33_4522	52	13	Great black-backed gull	lakes and ponds	3.771
+location	Coa-44f0_181_oystercatchers-13	Coa-44f0_155_coastal-13	Coa-44f0_181_oystercatchers-13_4920	181	Coa-44f0_155_coastal-13_1353	155	26	oystercatcher	Coastal	3.704
+location	Whi-b4c3_391_hiaticula-43	Whi-b4c3_368_wetlands-39	Whi-b4c3_391_hiaticula-43_107	391	Whi-b4c3_368_wetlands-39_4542	368	23	Charadrius hiaticula	wetlands	3.625
+location	Ter-7888_68_terns-2	Ter-7888_41_coastal-7	Ter-7888_68_terns-2_4628	68	Ter-7888_41_coastal-7_1353	41	27	arctic tern	Coastal	3.571
+location	Coa-44f0_176_puffins-9	Coa-44f0_149_coastal-4	Coa-44f0_176_puffins-9_4634	176	Coa-44f0_149_coastal-4_1353	149	27	puffin	Coastal	3.571
+location	Gre-0f9b_65_gulls-8	Gre-0f9b_52_estuaries-22	Gre-0f9b_65_gulls-8_2429	65	Gre-0f9b_52_estuaries-22_4517	52	13	Greater black-backed gull	estuaries	3.5
+location	Sno-0a8f_405_parasiticus-34	Sno-0a8f_381_tundra-16	Sno-0a8f_405_parasiticus-34_1554	405	Sno-0a8f_381_tundra-16_4539	381	24	Stercorarius parasiticus	tundra	3.48
+location	Coa-44f0_181_oystercatchers-13	Coa-44f0_153_coastal-4	Coa-44f0_181_oystercatchers-13_4920	181	Coa-44f0_153_coastal-4_1353	153	28	oystercatcher	Coastal	3.448
+location	Sno-0a8f_405_parasiticus-34	Sno-0a8f_380_tundra-18	Sno-0a8f_405_parasiticus-34_1554	405	Sno-0a8f_380_tundra-18_4539	380	25	Stercorarius parasiticus	tundra	3.346
+location	Coa-44f0_176_puffins-9	Coa-44f0_206_coastal-33	Coa-44f0_176_puffins-9_4634	176	Coa-44f0_206_coastal-33_4514	206	30	puffin	coastal	3.226
+location	Red-d827_162_canutus-6	Red-d827_135_tundra-18	Red-d827_162_canutus-6_3194	162	Red-d827_135_tundra-18_4539	135	27	Calidris canutus	tundra	3.107
+location	Coa-44f0_181_oystercatchers-13	Coa-44f0_149_coastal-4	Coa-44f0_181_oystercatchers-13_4920	181	Coa-44f0_149_coastal-4_4514	149	32	oystercatcher	coastal	3.03
+location	Bas-63b2_67_knots-12	Bas-63b2_35_coastal-6	Bas-63b2_67_knots-12_5402	67	Bas-63b2_35_coastal-6_4514	35	32	knot	coastal	3.03
+location	Red-d827_162_canutus-6	Red-d827_134_tundra-10	Red-d827_162_canutus-6_3194	162	Red-d827_134_tundra-10_4539	134	28	Calidris canutus	tundra	3.0
+location	Gre-0f9b_19_gull-5	Gre-0f9b_52_estuaries-22	Gre-0f9b_19_gull-5_5093	19	Gre-0f9b_52_estuaries-22_4517	52	33	herring gull	estuaries	2.941
+location	Gre-0f9b_19_gull-15	Gre-0f9b_52_estuaries-22	Gre-0f9b_19_gull-15_2527	19	Gre-0f9b_52_estuaries-22_4517	52	33	Herring gull	estuaries	2.941
+location	Nea-9375_55_auks-18	Nea-9375_21_coastal-13	Nea-9375_55_auks-18_4045	55	Nea-9375_21_coastal-13_1353	21	34	auks	Coastal	2.857
+location	Nea-9375_55_Alcidae-20	Nea-9375_21_coastal-13	Nea-9375_55_Alcidae-20_477	55	Nea-9375_21_coastal-13_1353	21	34	Alcidae	Coastal	2.857
+location	Eur-1ed4_124_lapwing-33	Eur-1ed4_90_marshes-11	Eur-1ed4_124_lapwing-33_3884	124	Eur-1ed4_90_marshes-11_3807	90	34	lapwing	marsh	2.857
+location	Gre-0f9b_87_gulls-10	Gre-0f9b_52_estuaries-22	Gre-0f9b_87_gulls-10_5093	87	Gre-0f9b_52_estuaries-22_4517	52	35	herring gull	estuaries	2.778
+location	Whi-b4c3_391_plover-40	Whi-b4c3_368_wetlands-39	Whi-b4c3_391_plover-40_3872	391	Whi-b4c3_368_wetlands-39_4542	368	23	little ringed plover	wetlands	2.75
+location	Sno-0a8f_155_gull-25	Sno-0a8f_176_tundra-7	Sno-0a8f_155_gull-25_5175	155	Sno-0a8f_176_tundra-7_4539	176	21	lesser black-backed gull	tundra	2.727
+location	Ani-ab87_78_skimmer-24	Ani-ab87_40_zone-14	Ani-ab87_78_skimmer-24_5478	78	Ani-ab87_40_zone-14_4521	40	38	skimmers	intertidal zone	2.564
+location	Pel-a6d1_160_murres-10	Pel-a6d1_192_coastal-15	Pel-a6d1_160_murres-10_4811	160	Pel-a6d1_192_coastal-15_1353	192	32	common murre	Coastal	2.515
+location	Atl-79fc_236_uriae-6	Atl-79fc_278_ocean-11	Atl-79fc_236_uriae-6_4496	236	Atl-79fc_278_ocean-11_4530	278	42	uria	open ocean	2.326
+location	Atl-79fc_236_guillemot-3	Atl-79fc_278_ocean-11	Atl-79fc_236_guillemot-3_4809	236	Atl-79fc_278_ocean-11_4530	278	42	guillemot	open ocean	2.326
+location	Bur-dc3c_195_curlews-4	Bur-dc3c_151_farmland-14	Bur-dc3c_195_curlews-4_2173	195	Bur-dc3c_151_farmland-14_4509	151	44	Stone curlew	farmland	2.222
+location	Bur-dc3c_195_curlew-27	Bur-dc3c_151_farmland-14	Bur-dc3c_195_curlew-27_2173	195	Bur-dc3c_151_farmland-14_4509	151	44	Stone curlew	farmland	2.222
+location	Atl-79fc_234_skua-14	Atl-79fc_278_ocean-11	Atl-79fc_234_skua-14_1553	234	Atl-79fc_278_ocean-11_4530	278	44	Arctic skua	open ocean	2.222
+location	Gre-0f9b_76_gulls-23	Gre-0f9b_52_lakes-33	Gre-0f9b_76_gulls-23_2427	76	Gre-0f9b_52_lakes-33_4522	52	24	Great black-backed gull	lakes and ponds	2.112
+location	Atl-79fc_231_gull-53	Atl-79fc_278_ocean-11	Atl-79fc_231_gull-53_5093	231	Atl-79fc_278_ocean-11_4530	278	47	herring gull	open ocean	2.083
+location	Atl-79fc_231_gull-36	Atl-79fc_278_ocean-11	Atl-79fc_231_gull-36_5093	231	Atl-79fc_278_ocean-11_4530	278	47	herring gull	open ocean	2.083
+location	Atl-79fc_231_gull-42	Atl-79fc_278_ocean-11	Atl-79fc_231_gull-42_5093	231	Atl-79fc_278_ocean-11_4530	278	47	herring gull	open ocean	2.083
+location	Gre-0f9b_93_argentatus-17	Gre-0f9b_52_estuaries-22	Gre-0f9b_93_argentatus-17_2528	93	Gre-0f9b_52_estuaries-22_4517	52	41	Larus argentatus	estuaries	2.071
+location	Gre-0f9b_77_gulls-12	Gre-0f9b_52_lakes-33	Gre-0f9b_77_gulls-12_2427	77	Gre-0f9b_52_lakes-33_4522	52	25	Great black-backed gull	lakes and ponds	2.031
+location	Atl-79fc_229_gull-35	Atl-79fc_278_ocean-11	Atl-79fc_229_gull-35_5043	229	Atl-79fc_278_ocean-11_4530	278	49	great black-backed gull	open ocean	2.0
+location	Gre-0f9b_76_gulls-23	Gre-0f9b_52_estuaries-22	Gre-0f9b_76_gulls-23_2429	76	Gre-0f9b_52_estuaries-22_4517	52	24	Greater black-backed gull	estuaries	1.96
+location	Pel-a6d1_160_murres-10	Pel-a6d1_118_coastal-16	Pel-a6d1_160_murres-10_1946	160	Pel-a6d1_118_coastal-16_1353	118	42	Common murre	Coastal	1.93
+location	Biv-02de_273_gull-3	Biv-02de_329_zone-32	Biv-02de_273_gull-3_2527	273	Biv-02de_329_zone-32_4521	329	56	Herring gull	intertidal zone	1.754
+location	Biv-02de_272_oystercatcher-6	Biv-02de_329_zone-32	Biv-02de_272_oystercatcher-6_4920	272	Biv-02de_329_zone-32_4521	329	57	oystercatcher	intertidal zone	1.724
+location	Sno-0a8f_405_parasiticus-34	Sno-0a8f_457_tundra-15	Sno-0a8f_405_parasiticus-34_1554	405	Sno-0a8f_457_tundra-15_4539	457	52	Stercorarius parasiticus	tundra	1.642
+location	Sno-0a8f_155_gull-25	Sno-0a8f_218_coastal-11	Sno-0a8f_155_gull-25_5043	155	Sno-0a8f_218_coastal-11_1353	218	63	great black-backed gull	Coastal	1.562
+location	Per-145f_217_kittiwakes-18	Per-145f_149_tundra-7	Per-145f_217_kittiwakes-18_4693	217	Per-145f_149_tundra-7_4539	149	68	kittiwake	tundra	1.449
+location	Ter-7888_110_tern-9	Ter-7888_41_coastal-7	Ter-7888_110_tern-9_1557	110	Ter-7888_41_coastal-7_4514	41	69	Arctic tern	coastal	1.429
+location	Sno-0a8f_155_gull-25	Sno-0a8f_196_tundra-31	Sno-0a8f_155_gull-25_2705	155	Sno-0a8f_196_tundra-31_4539	196	41	Lesser black-backed gull	tundra	1.429
+location	Atl-79fc_27_guillemots-13	Atl-79fc_103_ocean-12	Atl-79fc_27_guillemots-13_4497	27	Atl-79fc_103_ocean-12_4530	103	76	guillemots	open ocean	1.299
+location	Per-145f_217_kittiwakes-18	Per-145f_140_tundra-28	Per-145f_217_kittiwakes-18_4693	217	Per-145f_140_tundra-28_4539	140	77	kittiwake	tundra	1.282
+location	Atl-79fc_27_guillemots-13	Atl-79fc_107_ocean-19	Atl-79fc_27_guillemots-13_4497	27	Atl-79fc_107_ocean-19_4530	107	80	guillemots	open ocean	1.235
+location	Atl-79fc_22_skua-9	Atl-79fc_103_ocean-12	Atl-79fc_22_skua-9_1553	22	Atl-79fc_103_ocean-12_4530	103	81	Arctic skua	open ocean	1.22
+location	Biv-02de_273_gull-3	Biv-02de_357_estuaries-20	Biv-02de_273_gull-3_2527	273	Biv-02de_357_estuaries-20_4517	357	84	Herring gull	estuaries	1.176
+location	Atl-79fc_22_skua-9	Atl-79fc_107_ocean-19	Atl-79fc_22_skua-9_1553	22	Atl-79fc_107_ocean-19_4530	107	85	Arctic skua	open ocean	1.163
+location	Bur-dc3c_195_curlew-27	Bur-dc3c_99_farmland-3	Bur-dc3c_195_curlew-27_2173	195	Bur-dc3c_99_farmland-3_4509	99	96	Stone curlew	farmland	1.031
+location	Bur-dc3c_195_curlews-4	Bur-dc3c_99_farmland-3	Bur-dc3c_195_curlews-4_2173	195	Bur-dc3c_99_farmland-3_4509	99	96	Stone curlew	farmland	1.031
+location	Ter-7888_138_terns-14	Ter-7888_41_coastal-7	Ter-7888_138_terns-14_1557	138	Ter-7888_41_coastal-7_4514	41	97	Arctic tern	coastal	1.02
+adaptation	Atl-79fc_234_skua-14	Atl-79fc_234_predator-22	Atl-79fc_234_skua-14_1553	234	Atl-79fc_234_predator-22_359	234	0	Arctic skua	Predator	100.0
+adaptation	Atl-79fc_231_gull-42	Atl-79fc_231_predator-12	Atl-79fc_231_gull-42_2527	231	Atl-79fc_231_predator-12_3977	231	0	Herring gull	predator	100.0
+adaptation	Bir-ebe4_324_auks-8	Bir-ebe4_324_predators-24	Bir-ebe4_324_auks-8_4045	324	Bir-ebe4_324_predators-24_3977	324	0	auks	predator	100.0
+adaptation	Atl-79fc_234_auks-37	Atl-79fc_234_predator-22	Atl-79fc_234_auks-37_4045	234	Atl-79fc_234_predator-22_3977	234	0	auks	predator	100.0
+adaptation	Eur-35e8_143_gulls-19	Eur-35e8_143_predators-9	Eur-35e8_143_gulls-19_5043	143	Eur-35e8_143_predators-9_359	143	0	great black-backed gull	Predator	100.0
+adaptation	Nor-4d51_286_gull-16	Nor-4d51_286_Predators-1	Nor-4d51_286_gull-16_5043	286	Nor-4d51_286_Predators-1_359	286	0	great black-backed gull	Predator	100.0
+adaptation	Atl-79fc_229_gull-35	Atl-79fc_229_predators-24	Atl-79fc_229_gull-35_5043	229	Atl-79fc_229_predators-24_359	229	0	great black-backed gull	Predator	100.0
+adaptation	Nor-4d51_286_gull-12	Nor-4d51_286_Predators-1	Nor-4d51_286_gull-12_5043	286	Nor-4d51_286_Predators-1_359	286	0	great black-backed gull	Predator	100.0
+adaptation	Eur-35e8_143_gulls-3	Eur-35e8_143_predators-9	Eur-35e8_143_gulls-3_5043	143	Eur-35e8_143_predators-9_3977	143	0	great black-backed gull	predator	100.0
+adaptation	Atl-79fc_231_gull-36	Atl-79fc_231_predator-12	Atl-79fc_231_gull-36_5093	231	Atl-79fc_231_predator-12_359	231	0	herring gull	Predator	100.0
+adaptation	Atl-79fc_231_gull-53	Atl-79fc_231_predator-12	Atl-79fc_231_gull-53_5093	231	Atl-79fc_231_predator-12_359	231	0	herring gull	Predator	100.0
+adaptation	Eur-35e8_93_gull-34	Eur-35e8_93_predator-28	Eur-35e8_93_gull-34_5093	93	Eur-35e8_93_predator-28_359	93	0	herring gull	Predator	100.0
+adaptation	Arc-b4f2_23_tern-2	Arc-b4f2_23_migration-6	Arc-b4f2_23_tern-2_4628	23	Arc-b4f2_23_migration-6_3781	23	0	arctic tern	migration	100.0
+adaptation	Arc93ca_7_tern-3	Arc93ca_7_migration-11	Arc93ca_7_tern-3_4628	7	Arc93ca_7_migration-11_1	7	0	arctic tern	Migration	100.0
+adaptation	Ani-ab87_60_tern-3	Ani-ab87_60_migration-7	Ani-ab87_60_tern-3_4628	60	Ani-ab87_60_migration-7_1	60	0	arctic tern	Migration	100.0
+adaptation	Hum-85c3_347_tern-14	Hum-85c3_347_migration-43	Hum-85c3_347_tern-14_4628	347	Hum-85c3_347_migration-43_1	347	0	arctic tern	Migration	100.0
+adaptation	Arc93ca_16_terns-2	Arc93ca_16_migration-9	Arc93ca_16_terns-2_4628	16	Arc93ca_16_migration-9_1	16	0	arctic tern	Migration	100.0
+adaptation	Arc-b4f2_27_tern-3	Arc-b4f2_27_migration-8	Arc-b4f2_27_tern-3_4628	27	Arc-b4f2_27_migration-8_1	27	0	arctic tern	Migration	100.0
+adaptation	Ter-7888_68_terns-2	Ter-7888_68_migrations-21	Ter-7888_68_terns-2_4628	68	Ter-7888_68_migrations-21_1	68	0	arctic tern	Migration	100.0
+adaptation	Bir-ebe4_360_terns-16	Bir-ebe4_360_migrations-11	Bir-ebe4_360_terns-16_4628	360	Bir-ebe4_360_migrations-11_1	360	0	arctic tern	Migration	100.0
+adaptation	Bir-ebe4_360_terns-16	Bir-ebe4_360_migrations-5	Bir-ebe4_360_terns-16_4628	360	Bir-ebe4_360_migrations-5_1	360	0	arctic tern	Migration	100.0
+adaptation	Rig-c8bd_230_knots-18	Rig-c8bd_230_migration-42	Rig-c8bd_230_knots-18_5402	230	Rig-c8bd_230_migration-42_3781	230	0	knot	migration	100.0
+adaptation	Red-d827_102_knot-16	Red-d827_102_migration-40	Red-d827_102_knot-16_5402	102	Red-d827_102_migration-40_3781	102	0	knot	migration	100.0
+adaptation	Red-d827_117_knots-20	Red-d827_117_migration-21	Red-d827_117_knots-20_5402	117	Red-d827_117_migration-21_3781	117	0	knot	migration	100.0
+adaptation	Red-d827_65_knots-11	Red-d827_65_migration-9	Red-d827_65_knots-11_5402	65	Red-d827_65_migration-9_3781	65	0	knot	migration	100.0
+adaptation	Red-d827_117_knots-35	Red-d827_117_migration-21	Red-d827_117_knots-35_5402	117	Red-d827_117_migration-21_3781	117	0	knot	migration	100.0
+adaptation	Red-d827_55_knots-2	Red-d827_55_migration-9	Red-d827_55_knots-2_5402	55	Red-d827_55_migration-9_3781	55	0	knot	migration	100.0
+adaptation	Red-d827_110_knots-2	Red-d827_110_migration-9	Red-d827_110_knots-2_5402	110	Red-d827_110_migration-9_3781	110	0	knot	migration	100.0
+adaptation	Red-d827_18_knot-2	Red-d827_18_migration-6	Red-d827_18_knot-2_5402	18	Red-d827_18_migration-6_3781	18	0	knot	migration	100.0
+adaptation	Red-d827_106_knots-3	Red-d827_106_migration-6	Red-d827_106_knots-3_5402	106	Red-d827_106_migration-6_3781	106	0	knot	migration	100.0
+adaptation	Red-d827_104_knots-25	Red-d827_104_migration-44	Red-d827_104_knots-25_5402	104	Red-d827_104_migration-44_3781	104	0	knot	migration	100.0
+adaptation	Red-d827_20_knot-3	Red-d827_20_migrations-9	Red-d827_20_knot-3_5402	20	Red-d827_20_migrations-9_3781	20	0	knot	migration	100.0
+adaptation	Red-d827_57_knot-32	Red-d827_57_migration-28	Red-d827_57_knot-32_5402	57	Red-d827_57_migration-28_3781	57	0	knot	migration	100.0
+adaptation	Eur-19c7_34_oystercatcher-2	Eur-19c7_34_migration-6	Eur-19c7_34_oystercatcher-2_4920	34	Eur-19c7_34_migration-6_1	34	0	oystercatcher	Migration	100.0
+adaptation	Eur-4cd1_27_curlews-24	Eur-4cd1_27_nocturnal-8	Eur-4cd1_27_curlews-24_4925	27	Eur-4cd1_27_nocturnal-8_3967	27	0	stone curlew	nocturnal	100.0
+adaptation	Eur-4cd1_27_curlew-5	Eur-4cd1_27_nocturnal-8	Eur-4cd1_27_curlew-5_4925	27	Eur-4cd1_27_nocturnal-8_3967	27	0	stone curlew	nocturnal	100.0
+adaptation	Red-d827_97_knot-17	Red-d827_97_migrations-38	Red-d827_97_knot-17_5402	97	Red-d827_97_migrations-38_3781	97	0	knot	migration	100.0
+adaptation	Bla-8d51_112_kittiwake-7	Bla-8d51_112_predators-2	Bla-8d51_112_kittiwake-7_4693	112	Bla-8d51_112_predators-2_359	112	0	kittiwake	Predator	100.0
+adaptation	Bla-8d51_80_kittiwakes-5	Bla-8d51_80_predators-17	Bla-8d51_80_kittiwakes-5_4693	80	Bla-8d51_80_predators-17_359	80	0	kittiwake	Predator	100.0
+adaptation	Tun-4bf6_72_jaegers-21	Tun-4bf6_72_predators-4	Tun-4bf6_72_jaegers-21_4627	72	Tun-4bf6_72_predators-4_3977	72	0	parasitic jaeger	predator	83.0
+adaptation	Chi-cf82_31_skua-14	Chi-cf82_31_predators-31	Chi-cf82_31_skua-14_5501	31	Chi-cf82_31_predators-31_359	31	0	south polar skua	Predator	66.0
+adaptation	Chi-cf82_31_skua-6	Chi-cf82_31_predators-31	Chi-cf82_31_skua-6_5501	31	Chi-cf82_31_predators-31_3977	31	0	south polar skua	predator	66.0
+adaptation	Gre-0f9b_124_gull-15	Gre-0f9b_124_predator-21	Gre-0f9b_124_gull-15_2427	124	Gre-0f9b_124_predator-21_359	124	0	Great black-backed gull	Predator	60.0
+adaptation	Eur-4cd1_12_curlew-16	Eur-4cd1_12_nocturnal-7	Eur-4cd1_12_curlew-16_2175	12	Eur-4cd1_12_nocturnal-7_3967	12	0	Eurasian stone curlew	nocturnal	54.0
+adaptation	Gre-0f9b_2_gull-6	Gre-0f9b_3_scavenger-28	Gre-0f9b_2_gull-6_5043	2	Gre-0f9b_3_scavenger-28_3979	3	1	great black-backed gull	scavenger	50.0
+adaptation	Eur-35e8_4_gulls-4	Eur-35e8_5_scavengers-21	Eur-35e8_4_gulls-4_5093	4	Eur-35e8_5_scavengers-21_3979	5	1	herring gull	scavenger	50.0
+adaptation	Eur-35e8_6_gull-3	Eur-35e8_5_scavengers-21	Eur-35e8_6_gull-3_2527	6	Eur-35e8_5_scavengers-21_3979	5	1	Herring gull	scavenger	50.0
+adaptation	Atl-79fc_22_skua-9	Atl-79fc_21_predators-9	Atl-79fc_22_skua-9_1553	22	Atl-79fc_21_predators-9_3977	21	1	Arctic skua	predator	50.0
+adaptation	Azh-4750_14_skimmers-7	Azh-4750_15_predator-36	Azh-4750_14_skimmers-7_5478	14	Azh-4750_15_predator-36_359	15	1	skimmers	Predator	50.0
+adaptation	Eur-19c7_35_oystercatcher-2	Eur-19c7_34_migration-6	Eur-19c7_35_oystercatcher-2_4920	35	Eur-19c7_34_migration-6_1	34	1	oystercatcher	Migration	50.0
+adaptation	Eur-19c7_33_oystercatcher-12	Eur-19c7_34_migration-6	Eur-19c7_33_oystercatcher-12_4920	33	Eur-19c7_34_migration-6_1	34	1	oystercatcher	Migration	50.0
+adaptation	Eur-19c7_33_oystercatcher-3	Eur-19c7_34_migration-6	Eur-19c7_33_oystercatcher-3_4920	33	Eur-19c7_34_migration-6_1	34	1	oystercatcher	Migration	50.0
+adaptation	Dra-48f6_121_skimmers-18	Dra-48f6_122_predators-63	Dra-48f6_121_skimmers-18_5478	121	Dra-48f6_122_predators-63_359	122	1	skimmers	Predator	50.0
+adaptation	Bla-8d51_145_kittiwakes-34	Bla-8d51_144_predators-25	Bla-8d51_145_kittiwakes-34_4693	145	Bla-8d51_144_predators-25_359	144	1	kittiwake	Predator	50.0
+adaptation	Bla-8d51_145_kittiwakes-16	Bla-8d51_144_predators-25	Bla-8d51_145_kittiwakes-16_4693	145	Bla-8d51_144_predators-25_3977	144	1	kittiwake	predator	50.0
+adaptation	Skif7b3_9_skimmer-19	Skif7b3_10_social-31	Skif7b3_9_skimmer-19_5478	9	Skif7b3_10_social-31_3788	10	1	skimmers	social	50.0
+adaptation	Eur398f_7_curlews-8	Eur398f_6_display-3	Eur398f_7_curlews-8_4925	7	Eur398f_6_display-3_3951	6	1	stone curlew	courtship display	50.0
+adaptation	Eur-4cd1_11_curlew-5	Eur-4cd1_12_nocturnal-7	Eur-4cd1_11_curlew-5_4925	11	Eur-4cd1_12_nocturnal-7_3967	12	1	stone curlew	nocturnal	50.0
+adaptation	Bur-dc3c_49_curlew-19	Bur-dc3c_48_nocturnal-18	Bur-dc3c_49_curlew-19_4925	49	Bur-dc3c_48_nocturnal-18_3967	48	1	stone curlew	nocturnal	50.0
+adaptation	Bla-8d51_79_Kittiwake-1	Bla-8d51_80_predators-17	Bla-8d51_79_Kittiwake-1_1706	79	Bla-8d51_80_predators-17_3977	80	1	Kittiwake	predator	50.0
+adaptation	Bla-8d51_113_Kittiwake-1	Bla-8d51_112_predators-2	Bla-8d51_113_Kittiwake-1_1706	113	Bla-8d51_112_predators-2_359	112	1	Kittiwake	Predator	50.0
+adaptation	Sto-b927_17_curlew-3	Sto-b927_18_nocturnal-4	Sto-b927_17_curlew-3_2173	17	Sto-b927_18_nocturnal-4_3967	18	1	Stone curlew	nocturnal	50.0
+adaptation	Sno-0a8f_497_paradisaea-12	Sno-0a8f_498_predators-29	Sno-0a8f_497_paradisaea-12_1558	497	Sno-0a8f_498_predators-29_359	498	1	Sterna paradisaea	Predator	43.5
+adaptation	Sno-0a8f_497_paradisaea-12	Sno-0a8f_498_predators-11	Sno-0a8f_497_paradisaea-12_1558	497	Sno-0a8f_498_predators-11_359	498	1	Sterna paradisaea	Predator	43.5
+adaptation	Par-ce5c_40_jaeger-3	Par-ce5c_41_migration-25	Par-ce5c_40_jaeger-3_4627	40	Par-ce5c_41_migration-25_3781	41	1	parasitic jaeger	migration	41.5
+adaptation	Par-ce5c_40_jaeger-3	Par-ce5c_41_migration-12	Par-ce5c_40_jaeger-3_4627	40	Par-ce5c_41_migration-12_3781	41	1	parasitic jaeger	migration	41.5
+adaptation	Par-ce5c_40_jaeger-3	Par-ce5c_41_migration-5	Par-ce5c_40_jaeger-3_4627	40	Par-ce5c_41_migration-5_3781	41	1	parasitic jaeger	migration	41.5
+adaptation	Tun-4bf6_72_jaegers-21	Tun-4bf6_71_predator-5	Tun-4bf6_72_jaegers-21_4627	72	Tun-4bf6_71_predator-5_3977	71	1	parasitic jaeger	predator	41.5
+adaptation	Eur-35e8_129_gulls-18	Eur-35e8_128_predators-70	Eur-35e8_129_gulls-18_2705	129	Eur-35e8_128_predators-70_359	128	1	Lesser black-backed gull	Predator	40.0
+adaptation	Eur-35e8_129_gull-4	Eur-35e8_128_predators-70	Eur-35e8_129_gull-4_2705	129	Eur-35e8_128_predators-70_359	128	1	Lesser black-backed gull	Predator	40.0
+adaptation	Eur-35e8_129_gulls-12	Eur-35e8_128_predators-70	Eur-35e8_129_gulls-12_2705	129	Eur-35e8_128_predators-70_359	128	1	Lesser black-backed gull	Predator	40.0
+adaptation	Ter-7888_91_skimmers-32	Ter-7888_93_predators-16	Ter-7888_91_skimmers-32_5478	91	Ter-7888_93_predators-16_3977	93	2	skimmers	predator	33.333
+adaptation	Bla-8d51_142_kittiwakes-3	Bla-8d51_144_predators-25	Bla-8d51_142_kittiwakes-3_4693	142	Bla-8d51_144_predators-25_359	144	2	kittiwake	Predator	33.333
+adaptation	Atl-79fc_236_guillemot-3	Atl-79fc_234_predator-22	Atl-79fc_236_guillemot-3_4809	236	Atl-79fc_234_predator-22_359	234	2	guillemot	Predator	33.333
+adaptation	Wal-8f46_149_guillemot-14	Wal-8f46_151_Predators-5	Wal-8f46_149_guillemot-14_4809	149	Wal-8f46_151_Predators-5_359	151	2	guillemot	Predator	33.333
+adaptation	Skif7b3_8_skimmer-5	Skif7b3_10_social-31	Skif7b3_8_skimmer-5_5478	8	Skif7b3_10_social-31_3788	10	2	skimmers	social	33.333
+adaptation	Bir-ebe4_306_auks-27	Bir-ebe4_304_predators-22	Bir-ebe4_306_auks-27_4045	306	Bir-ebe4_304_predators-22_359	304	2	auks	Predator	33.333
+adaptation	Bla-8d51_126_kittiwakes-26	Bla-8d51_128_predators-16	Bla-8d51_126_kittiwakes-26_4693	126	Bla-8d51_128_predators-16_3977	128	2	kittiwake	predator	33.333
+adaptation	Bla-8d51_146_kittiwakes-12	Bla-8d51_144_predators-25	Bla-8d51_146_kittiwakes-12_4693	146	Bla-8d51_144_predators-25_3977	144	2	kittiwake	predator	33.333
+adaptation	Bla-8d51_114_kittiwake-4	Bla-8d51_112_predators-2	Bla-8d51_114_kittiwake-4_4693	114	Bla-8d51_112_predators-2_3977	112	2	kittiwake	predator	33.333
+adaptation	Eur398f_8_curlew-5	Eur398f_6_display-3	Eur398f_8_curlew-5_4925	8	Eur398f_6_display-3_3951	6	2	stone curlew	courtship display	33.333
+adaptation	Gre-0f9b_5_gull-7	Gre-0f9b_3_scavenger-28	Gre-0f9b_5_gull-7_5043	5	Gre-0f9b_3_scavenger-28_3979	3	2	great black-backed gull	scavenger	33.333
+adaptation	Atl40c4_16_puffins-2	Atl40c4_14_Colonial-1	Atl40c4_16_puffins-2_4634	16	Atl40c4_14_Colonial-1_322	14	2	puffin	Colonial	33.333
+adaptation	Gre-0f9b_1_gull-5	Gre-0f9b_3_scavenger-28	Gre-0f9b_1_gull-5_2427	1	Gre-0f9b_3_scavenger-28_3979	3	2	Great black-backed gull	scavenger	33.333
+adaptation	Eur398f_4_curlew-9	Eur398f_6_display-3	Eur398f_4_curlew-9_4925	4	Eur398f_6_display-3_3951	6	2	stone curlew	courtship display	33.333
+adaptation	Emp-5971_145_skua-4	Emp-5971_144_predator-12	Emp-5971_145_skua-4_3385	145	Emp-5971_144_predator-12_359	144	1	South polar skua	Predator	33.0
+adaptation	Sku-9981_30_parasiticus-21	Sku-9981_28_predators-2	Sku-9981_30_parasiticus-21_1554	30	Sku-9981_28_predators-2_359	28	2	Stercorarius parasiticus	Predator	29.0
+adaptation	Sno-0a8f_497_paradisaea-12	Sno-0a8f_499_predators-18	Sno-0a8f_497_paradisaea-12_1558	497	Sno-0a8f_499_predators-18_3977	499	2	Sterna paradisaea	predator	29.0
+adaptation	Sku-9981_30_jaeger-18	Sku-9981_28_predators-2	Sku-9981_30_jaeger-18_4627	30	Sku-9981_28_predators-2_3977	28	2	parasitic jaeger	predator	27.667
+adaptation	Par-ce5c_2_jaeger-3	Par-ce5c_4_migration-12	Par-ce5c_2_jaeger-3_4627	2	Par-ce5c_4_migration-12_1	4	2	parasitic jaeger	Migration	27.667
+adaptation	Tun-4bf6_72_jaegers-21	Tun-4bf6_74_predators-4	Tun-4bf6_72_jaegers-21_4627	72	Tun-4bf6_74_predators-4_3977	74	2	parasitic jaeger	predator	27.667
+adaptation	Eur-35e8_2_gull-12	Eur-35e8_5_scavengers-21	Eur-35e8_2_gull-12_2527	2	Eur-35e8_5_scavengers-21_3979	5	3	Herring gull	scavenger	25.0
+adaptation	Dra-48f6_251_skimmer-21	Dra-48f6_248_predators-10	Dra-48f6_251_skimmer-21_5478	251	Dra-48f6_248_predators-10_3977	248	3	skimmers	predator	25.0
+adaptation	Sku-9981_31_skimmers-12	Sku-9981_28_predators-2	Sku-9981_31_skimmers-12_5478	31	Sku-9981_28_predators-2_3977	28	3	skimmers	predator	25.0
+adaptation	Eur-35e8_2_gull-4	Eur-35e8_5_scavengers-21	Eur-35e8_2_gull-4_2527	2	Eur-35e8_5_scavengers-21_3979	5	3	Herring gull	scavenger	25.0
+adaptation	Bla-8d51_131_Kittiwake-9	Bla-8d51_128_predators-16	Bla-8d51_131_Kittiwake-9_1706	131	Bla-8d51_128_predators-16_359	128	3	Kittiwake	Predator	25.0
+adaptation	Atl40c4_11_puffin-4	Atl40c4_14_Colonial-1	Atl40c4_11_puffin-4_4634	11	Atl40c4_14_Colonial-1_322	14	3	puffin	Colonial	25.0
+adaptation	Atl40c4_17_puffins-23	Atl40c4_14_Colonial-1	Atl40c4_17_puffins-23_4634	17	Atl40c4_14_Colonial-1_322	14	3	puffin	Colonial	25.0
+adaptation	Atl-79fc_234_skua-14	Atl-79fc_231_predator-12	Atl-79fc_234_skua-14_1553	234	Atl-79fc_231_predator-12_359	231	3	Arctic skua	Predator	25.0
+adaptation	Atl-79fc_234_auks-37	Atl-79fc_231_predator-12	Atl-79fc_234_auks-37_4045	234	Atl-79fc_231_predator-12_3977	231	3	auks	predator	25.0
+adaptation	Ter-7888_138_terns-14	Ter-7888_135_predators-4	Ter-7888_138_terns-14_1557	138	Ter-7888_135_predators-4_3977	135	3	Arctic tern	predator	25.0
+adaptation	Arc-b4f2_58_tern-3	Arc-b4f2_55_predators-21	Arc-b4f2_58_tern-3_4628	58	Arc-b4f2_55_predators-21_3977	55	3	arctic tern	predator	25.0
+adaptation	Wal-8f46_149_guillemot-14	Wal-8f46_152_predators-16	Wal-8f46_149_guillemot-14_4809	149	Wal-8f46_152_predators-16_359	152	3	guillemot	Predator	25.0
+adaptation	Sku-9981_31_auks-9	Sku-9981_28_predators-2	Sku-9981_31_auks-9_4045	31	Sku-9981_28_predators-2_359	28	3	auks	Predator	25.0
+adaptation	Gre-0f9b_6_gull-5	Gre-0f9b_3_scavenger-28	Gre-0f9b_6_gull-5_2427	6	Gre-0f9b_3_scavenger-28_3979	3	3	Great black-backed gull	scavenger	25.0
+adaptation	Emp-5971_145_skua-4	Emp-5971_143_predators-5	Emp-5971_145_skua-4_5501	145	Emp-5971_143_predators-5_359	143	2	south polar skua	Predator	22.0
+adaptation	Emp-5971_145_skua-4	Emp-5971_147_predators-4	Emp-5971_145_skua-4_5501	145	Emp-5971_147_predators-4_359	147	2	south polar skua	Predator	22.0
+adaptation	Chi-cf82_31_skua-6	Chi-cf82_29_predator-3	Chi-cf82_31_skua-6_5501	31	Chi-cf82_29_predator-3_359	29	2	south polar skua	Predator	22.0
+adaptation	Chi-cf82_31_skua-14	Chi-cf82_29_predator-3	Chi-cf82_31_skua-14_5501	31	Chi-cf82_29_predator-3_359	29	2	south polar skua	Predator	22.0
+adaptation	Dra-48f6_251_skimmer-21	Dra-48f6_247_Predators-3	Dra-48f6_251_skimmer-21_5478	251	Dra-48f6_247_Predators-3_359	247	4	skimmers	Predator	20.0
+adaptation	Eur-35e8_1_gull-3	Eur-35e8_5_scavengers-21	Eur-35e8_1_gull-3_2527	1	Eur-35e8_5_scavengers-21_3979	5	4	Herring gull	scavenger	20.0
+adaptation	Bla-8d51_116_Kittiwake-1	Bla-8d51_112_predators-2	Bla-8d51_116_Kittiwake-1_1706	116	Bla-8d51_112_predators-2_359	112	4	Kittiwake	Predator	20.0
+adaptation	Eur-35e8_9_gull-12	Eur-35e8_5_scavengers-21	Eur-35e8_9_gull-12_2527	9	Eur-35e8_5_scavengers-21_3979	5	4	Herring gull	scavenger	20.0
+adaptation	Eur-35e8_9_gull-6	Eur-35e8_5_scavengers-21	Eur-35e8_9_gull-6_2527	9	Eur-35e8_5_scavengers-21_3979	5	4	Herring gull	scavenger	20.0
+adaptation	Eur398f_2_curlews-2	Eur398f_6_display-3	Eur398f_2_curlews-2_2173	2	Eur398f_6_display-3_3951	6	4	Stone curlew	courtship display	20.0
+adaptation	Atl40c4_18_puffins-5	Atl40c4_14_Colonial-1	Atl40c4_18_puffins-5_4634	18	Atl40c4_14_Colonial-1_322	14	4	puffin	Colonial	20.0
+adaptation	Sno-0a8f_497_paradisaea-12	Sno-0a8f_501_predators-6	Sno-0a8f_497_paradisaea-12_1558	497	Sno-0a8f_501_predators-6_3977	501	4	Sterna paradisaea	predator	17.4
+adaptation	Sno-0a8f_405_parasiticus-34	Sno-0a8f_409_predator-15	Sno-0a8f_405_parasiticus-34_1554	405	Sno-0a8f_409_predator-15_3977	409	4	Stercorarius parasiticus	predator	17.4
+adaptation	Atl-79fc_234_skua-14	Atl-79fc_229_predators-24	Atl-79fc_234_skua-14_1553	234	Atl-79fc_229_predators-24_3977	229	5	Arctic skua	predator	16.667
+adaptation	Arc-b4f2_60_tern-6	Arc-b4f2_55_predators-21	Arc-b4f2_60_tern-6_1557	60	Arc-b4f2_55_predators-21_359	55	5	Arctic tern	Predator	16.667
+adaptation	Atl-79fc_234_auks-37	Atl-79fc_229_predators-24	Atl-79fc_234_auks-37_4045	234	Atl-79fc_229_predators-24_3977	229	5	auks	predator	16.667
+adaptation	Atl40c4_19_puffin-12	Atl40c4_14_Colonial-1	Atl40c4_19_puffin-12_4634	19	Atl40c4_14_Colonial-1_322	14	5	puffin	Colonial	16.667
+adaptation	Ter-7888_42_skimmers-21	Ter-7888_37_social-26	Ter-7888_42_skimmers-21_5478	42	Ter-7888_37_social-26_3788	37	5	skimmers	social	16.667
+adaptation	Atl-79fc_236_guillemot-3	Atl-79fc_231_predator-12	Atl-79fc_236_guillemot-3_4809	236	Atl-79fc_231_predator-12_359	231	5	guillemot	Predator	16.667
+adaptation	Ter-7888_3_skimmers-15	Ter-7888_8_predators-13	Ter-7888_3_skimmers-15_5478	3	Ter-7888_8_predators-13_3977	8	5	skimmers	predator	16.667
+adaptation	Wal-8f46_149_guillemot-14	Wal-8f46_154_predators-16	Wal-8f46_149_guillemot-14_4809	149	Wal-8f46_154_predators-16_359	154	5	guillemot	Predator	16.667
+adaptation	Atl40c4_19_puffin-3	Atl40c4_14_Colonial-1	Atl40c4_19_puffin-3_4634	19	Atl40c4_14_Colonial-1_322	14	5	puffin	Colonial	16.667
+adaptation	Tun-4bf6_72_jaegers-21	Tun-4bf6_68_predators-7	Tun-4bf6_72_jaegers-21_4627	72	Tun-4bf6_68_predators-7_359	68	4	parasitic jaeger	Predator	16.6
+adaptation	Sno-0a8f_405_jaegers-31	Sno-0a8f_409_predator-15	Sno-0a8f_405_jaegers-31_4627	405	Sno-0a8f_409_predator-15_359	409	4	parasitic jaeger	Predator	16.6
+adaptation	Sno-0a8f_405_jaegers-71	Sno-0a8f_409_predator-15	Sno-0a8f_405_jaegers-71_4627	405	Sno-0a8f_409_predator-15_3977	409	4	parasitic jaeger	predator	16.6
+taxongroup	Auk-a4a3_62_Alcidae-16	Auk-a4a3_62_Aves-14	Auk-a4a3_62_Alcidae-16_477	62	Auk-a4a3_62_Aves-14_380	62	0	Alcidae	Aves	100.0
+taxongroup	Atl-79fc_231_gull-53	Atl-79fc_231_gull-53	Atl-79fc_231_gull-53_5093	231	Atl-79fc_231_gull-53_4363	231	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_58_gulls-5	Eur-35e8_58_birds-17	Eur-35e8_58_gulls-5_5093	58	Eur-35e8_58_birds-17_3995	58	0	herring gull	birds	100.0
+taxongroup	Eur-35e8_123_gull-4	Eur-35e8_123_birds-22	Eur-35e8_123_gull-4_5093	123	Eur-35e8_123_birds-22_3995	123	0	herring gull	birds	100.0
+taxongroup	Eur-35e8_134_gulls-34	Eur-35e8_134_bird-53	Eur-35e8_134_gulls-34_5093	134	Eur-35e8_134_bird-53_3995	134	0	herring gull	birds	100.0
+taxongroup	Eur-35e8_123_gull-4	Eur-35e8_123_bird-11	Eur-35e8_123_gull-4_5093	123	Eur-35e8_123_bird-11_3995	123	0	herring gull	birds	100.0
+taxongroup	Eur-35e8_134_gulls-9	Eur-35e8_134_bird-53	Eur-35e8_134_gulls-9_5093	134	Eur-35e8_134_bird-53_3995	134	0	herring gull	birds	100.0
+taxongroup	Eur-35e8_138_gull-4	Eur-35e8_138_bird-12	Eur-35e8_138_gull-4_5093	138	Eur-35e8_138_bird-12_3995	138	0	herring gull	birds	100.0
+taxongroup	Gul-1ea1_13_gull-24	Gul-1ea1_13_birds-11	Gul-1ea1_13_gull-24_5093	13	Gul-1ea1_13_birds-11_3995	13	0	herring gull	birds	100.0
+taxongroup	Gul-1ea1_13_gulls-5	Gul-1ea1_13_birds-11	Gul-1ea1_13_gulls-5_5093	13	Gul-1ea1_13_birds-11_3995	13	0	herring gull	birds	100.0
+taxongroup	Herd93f_7_gulls-2	Herd93f_7_birds-20	Herd93f_7_gulls-2_5093	7	Herd93f_7_birds-20_3995	7	0	herring gull	birds	100.0
+taxongroup	Eur-35e8_64_gulls-2	Eur-35e8_64_birds-7	Eur-35e8_64_gulls-2_5093	64	Eur-35e8_64_birds-7_3995	64	0	herring gull	birds	100.0
+taxongroup	Gul-1ea1_19_gull-14	Gul-1ea1_19_gull-14	Gul-1ea1_19_gull-14_5093	19	Gul-1ea1_19_gull-14_4363	19	0	herring gull	gulls	100.0
+taxongroup	Atl-79fc_231_gull-53	Atl-79fc_231_gull-36	Atl-79fc_231_gull-53_5093	231	Atl-79fc_231_gull-36_4363	231	0	herring gull	gulls	100.0
+taxongroup	Atl-79fc_231_gull-53	Atl-79fc_231_gull-42	Atl-79fc_231_gull-53_5093	231	Atl-79fc_231_gull-42_4363	231	0	herring gull	gulls	100.0
+taxongroup	Ani-57f1_298_gull-48	Ani-57f1_298_gull-48	Ani-57f1_298_gull-48_5093	298	Ani-57f1_298_gull-48_4363	298	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_2_gull-12	Eur-35e8_2_gull-4	Eur-35e8_2_gull-12_5093	2	Eur-35e8_2_gull-4_4363	2	0	herring gull	gulls	100.0
+taxongroup	Atl-79fc_231_gull-36	Atl-79fc_231_gull-42	Atl-79fc_231_gull-36_5093	231	Atl-79fc_231_gull-42_4363	231	0	herring gull	gulls	100.0
+taxongroup	Atl-79fc_231_gull-36	Atl-79fc_231_gull-36	Atl-79fc_231_gull-36_5093	231	Atl-79fc_231_gull-36_4363	231	0	herring gull	gulls	100.0
+taxongroup	Atl-79fc_231_gull-42	Atl-79fc_231_gull-42	Atl-79fc_231_gull-42_5093	231	Atl-79fc_231_gull-42_4363	231	0	herring gull	gulls	100.0
+taxongroup	Atl-79fc_231_gull-36	Atl-79fc_231_gull-53	Atl-79fc_231_gull-36_5093	231	Atl-79fc_231_gull-53_4363	231	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_60_gull-19	Eur-35e8_60_gull-4	Eur-35e8_60_gull-19_5093	60	Eur-35e8_60_gull-4_4363	60	0	herring gull	gulls	100.0
+taxongroup	Atl-79fc_231_gull-42	Atl-79fc_231_gull-36	Atl-79fc_231_gull-42_5093	231	Atl-79fc_231_gull-36_4363	231	0	herring gull	gulls	100.0
+taxongroup	Biv-02de_273_gull-3	Biv-02de_273_gull-3	Biv-02de_273_gull-3_5093	273	Biv-02de_273_gull-3_4363	273	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_9_gull-6	Eur-35e8_9_gull-6	Eur-35e8_9_gull-6_5093	9	Eur-35e8_9_gull-6_4363	9	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_37_gull-3	Eur-35e8_37_gull-3	Eur-35e8_37_gull-3_5093	37	Eur-35e8_37_gull-3_4363	37	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_33_gulls-14	Eur-35e8_33_gulls-14	Eur-35e8_33_gulls-14_5093	33	Eur-35e8_33_gulls-14_4363	33	0	herring gull	gulls	100.0
+taxongroup	Atl-79fc_231_gull-42	Atl-79fc_231_gull-53	Atl-79fc_231_gull-42_5093	231	Atl-79fc_231_gull-53_4363	231	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_16_gull-3	Eur-35e8_16_gull-3	Eur-35e8_16_gull-3_5093	16	Eur-35e8_16_gull-3_4363	16	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_161_gull-3	Eur-35e8_161_gull-3	Eur-35e8_161_gull-3_5093	161	Eur-35e8_161_gull-3_4363	161	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_33_gulls-14	Eur-35e8_33_birds-2	Eur-35e8_33_gulls-14_5093	33	Eur-35e8_33_birds-2_3995	33	0	herring gull	birds	100.0
+taxongroup	Atl-79fc_231_gull-36	Atl-79fc_231_bird-17	Atl-79fc_231_gull-36_5093	231	Atl-79fc_231_bird-17_3995	231	0	herring gull	birds	100.0
+taxongroup	Atl-79fc_231_gull-42	Atl-79fc_231_bird-17	Atl-79fc_231_gull-42_5093	231	Atl-79fc_231_bird-17_3995	231	0	herring gull	birds	100.0
+taxongroup	Atl-79fc_231_gull-53	Atl-79fc_231_bird-17	Atl-79fc_231_gull-53_5093	231	Atl-79fc_231_bird-17_3995	231	0	herring gull	birds	100.0
+taxongroup	Gre-0f9b_76_gulls-23	Gre-0f9b_76_birds-7	Gre-0f9b_76_gulls-23_4363	76	Gre-0f9b_76_birds-7_3995	76	0	gulls	birds	100.0
+taxongroup	Gre-0f9b_118_gulls-40	Gre-0f9b_118_birds-27	Gre-0f9b_118_gulls-40_4363	118	Gre-0f9b_118_birds-27_3995	118	0	gulls	birds	100.0
+taxongroup	Greb693_7_gull-13	Greb693_7_birds-18	Greb693_7_gull-13_4363	7	Greb693_7_birds-18_3995	7	0	gulls	birds	100.0
+taxongroup	Ful-93ab_32_gulls-6	Ful-93ab_32_birds-2	Ful-93ab_32_gulls-6_4363	32	Ful-93ab_32_birds-2_3995	32	0	gulls	birds	100.0
+taxongroup	Ful-93ab_12_gull-19	Ful-93ab_12_birds-24	Ful-93ab_12_gull-19_4363	12	Ful-93ab_12_birds-24_3995	12	0	gulls	birds	100.0
+taxongroup	Fer-bbf9_48_gulls-9	Fer-bbf9_48_birds-21	Fer-bbf9_48_gulls-9_4363	48	Fer-bbf9_48_birds-21_3995	48	0	gulls	birds	100.0
+taxongroup	Gre-0f9b_115_gulls-14	Gre-0f9b_115_birds-27	Gre-0f9b_115_gulls-14_4363	115	Gre-0f9b_115_birds-27_3995	115	0	gulls	birds	100.0
+taxongroup	Whi-b4c3_390_gulls-18	Whi-b4c3_390_shorebird-14	Whi-b4c3_390_gulls-18_4363	390	Whi-b4c3_390_shorebird-14_4767	390	0	gulls	shorebirds	100.0
+taxongroup	Sho-fcec_74_gulls-28	Sho-fcec_74_shorebirds-23	Sho-fcec_74_gulls-28_4363	74	Sho-fcec_74_shorebirds-23_4767	74	0	gulls	shorebirds	100.0
+taxongroup	Lar-0c9b_16_gulls-26	Lar-0c9b_16_shorebirds-12	Lar-0c9b_16_gulls-26_4363	16	Lar-0c9b_16_shorebirds-12_4767	16	0	gulls	shorebirds	100.0
+taxongroup	Lar-0c9b_16_gulls-26	Lar-0c9b_16_shorebirds-30	Lar-0c9b_16_gulls-26_4363	16	Lar-0c9b_16_shorebirds-30_4767	16	0	gulls	shorebirds	100.0
+taxongroup	Ani-57f1_298_gull-48	Ani-57f1_298_animal-11	Ani-57f1_298_gull-48_5093	298	Ani-57f1_298_animal-11_44	298	0	herring gull	Animals	100.0
+taxongroup	Eur-35e8_2_gull-4	Eur-35e8_2_gull-12	Eur-35e8_2_gull-4_5093	2	Eur-35e8_2_gull-12_4363	2	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_2_gull-12	Eur-35e8_2_gull-12	Eur-35e8_2_gull-12_5093	2	Eur-35e8_2_gull-12_4363	2	0	herring gull	gulls	100.0
+taxongroup	Pal-0383_58_Alcidae-25	Pal-0383_58_bird-7	Pal-0383_58_Alcidae-25_477	58	Pal-0383_58_bird-7_381	58	0	Alcidae	Birds	100.0
+taxongroup	Gul-1ea1_13_gull-24	Gul-1ea1_13_gulls-5	Gul-1ea1_13_gull-24_5093	13	Gul-1ea1_13_gulls-5_4363	13	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_143_gulls-3	Eur-35e8_143_gulls-3	Eur-35e8_143_gulls-3_5093	143	Eur-35e8_143_gulls-3_4363	143	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_115_gulls-7	Eur-35e8_115_gulls-7	Eur-35e8_115_gulls-7_5093	115	Eur-35e8_115_gulls-7_4363	115	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_115_gulls-7	Eur-35e8_115_gulls-3	Eur-35e8_115_gulls-7_5093	115	Eur-35e8_115_gulls-3_4363	115	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_143_gulls-19	Eur-35e8_143_gulls-19	Eur-35e8_143_gulls-19_5093	143	Eur-35e8_143_gulls-19_4363	143	0	herring gull	gulls	100.0
+taxongroup	Gul2ec9_3_gull-2	Gul2ec9_3_gull-25	Gul2ec9_3_gull-2_5093	3	Gul2ec9_3_gull-25_4363	3	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_13_gull-9	Eur-35e8_13_gull-9	Eur-35e8_13_gull-9_5093	13	Eur-35e8_13_gull-9_4363	13	0	herring gull	gulls	100.0
+taxongroup	Gul2ec9_3_gulls-14	Gul2ec9_3_gull-19	Gul2ec9_3_gulls-14_5093	3	Gul2ec9_3_gull-19_4363	3	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_13_gull-9	Eur-35e8_13_gull-3	Eur-35e8_13_gull-9_5093	13	Eur-35e8_13_gull-3_4363	13	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_13_gull-3	Eur-35e8_13_gull-9	Eur-35e8_13_gull-3_5093	13	Eur-35e8_13_gull-9_4363	13	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_13_gull-3	Eur-35e8_13_gull-3	Eur-35e8_13_gull-3_5093	13	Eur-35e8_13_gull-3_4363	13	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_60_gull-19	Eur-35e8_60_gull-19	Eur-35e8_60_gull-19_5093	60	Eur-35e8_60_gull-19_4363	60	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_138_gull-4	Eur-35e8_138_gull-4	Eur-35e8_138_gull-4_5093	138	Eur-35e8_138_gull-4_4363	138	0	herring gull	gulls	100.0
+taxongroup	Gul-1ea1_13_gull-24	Gul-1ea1_13_gull-24	Gul-1ea1_13_gull-24_5093	13	Gul-1ea1_13_gull-24_4363	13	0	herring gull	gulls	100.0
+taxongroup	Gul-1ea1_13_gulls-5	Gul-1ea1_13_gulls-5	Gul-1ea1_13_gulls-5_5093	13	Gul-1ea1_13_gulls-5_4363	13	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_1_gull-3	Eur-35e8_1_gull-3	Eur-35e8_1_gull-3_5093	1	Eur-35e8_1_gull-3_4363	1	0	herring gull	gulls	100.0
+taxongroup	Gul-1ea1_13_gulls-5	Gul-1ea1_13_gull-24	Gul-1ea1_13_gulls-5_5093	13	Gul-1ea1_13_gull-24_4363	13	0	herring gull	gulls	100.0
+taxongroup	Gul2ec9_3_gull-2	Gul2ec9_3_gulls-14	Gul2ec9_3_gull-2_5093	3	Gul2ec9_3_gulls-14_4363	3	0	herring gull	gulls	100.0
+taxongroup	Gul2ec9_3_gull-2	Gul2ec9_3_gull-2	Gul2ec9_3_gull-2_5093	3	Gul2ec9_3_gull-2_4363	3	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_134_gulls-9	Eur-35e8_134_gulls-9	Eur-35e8_134_gulls-9_5093	134	Eur-35e8_134_gulls-9_4363	134	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_134_gulls-9	Eur-35e8_134_gulls-34	Eur-35e8_134_gulls-9_5093	134	Eur-35e8_134_gulls-34_4363	134	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_60_gull-4	Eur-35e8_60_gull-4	Eur-35e8_60_gull-4_5093	60	Eur-35e8_60_gull-4_4363	60	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_115_gulls-3	Eur-35e8_115_gulls-7	Eur-35e8_115_gulls-3_5093	115	Eur-35e8_115_gulls-7_4363	115	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_85_gulls-3	Eur-35e8_85_gulls-3	Eur-35e8_85_gulls-3_5093	85	Eur-35e8_85_gulls-3_4363	85	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_93_gull-34	Eur-35e8_93_gull-34	Eur-35e8_93_gull-34_5093	93	Eur-35e8_93_gull-34_4363	93	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_92_gulls-3	Eur-35e8_92_gull-50	Eur-35e8_92_gulls-3_5093	92	Eur-35e8_92_gull-50_4363	92	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_92_gulls-3	Eur-35e8_92_gulls-3	Eur-35e8_92_gulls-3_5093	92	Eur-35e8_92_gulls-3_4363	92	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_70_gull-3	Eur-35e8_70_gull-3	Eur-35e8_70_gull-3_5093	70	Eur-35e8_70_gull-3_4363	70	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_66_gull-4	Eur-35e8_66_gull-4	Eur-35e8_66_gull-4_5093	66	Eur-35e8_66_gull-4_4363	66	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_143_gulls-3	Eur-35e8_143_gulls-19	Eur-35e8_143_gulls-3_5093	143	Eur-35e8_143_gulls-19_4363	143	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_117_gull-3	Eur-35e8_117_gull-3	Eur-35e8_117_gull-3_5093	117	Eur-35e8_117_gull-3_4363	117	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_144_gull-3	Eur-35e8_144_gull-3	Eur-35e8_144_gull-3_5093	144	Eur-35e8_144_gull-3_4363	144	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_123_gull-4	Eur-35e8_123_gull-4	Eur-35e8_123_gull-4_5093	123	Eur-35e8_123_gull-4_4363	123	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_19_gull-15	Eur-35e8_19_gull-15	Eur-35e8_19_gull-15_5093	19	Eur-35e8_19_gull-15_4363	19	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_4_gulls-4	Eur-35e8_4_gulls-4	Eur-35e8_4_gulls-4_5093	4	Eur-35e8_4_gulls-4_4363	4	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_38_gull-5	Eur-35e8_38_gull-5	Eur-35e8_38_gull-5_5093	38	Eur-35e8_38_gull-5_4363	38	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_146_gull-3	Eur-35e8_146_gull-3	Eur-35e8_146_gull-3_5093	146	Eur-35e8_146_gull-3_4363	146	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_31_gull-10	Eur-35e8_31_gull-10	Eur-35e8_31_gull-10_5093	31	Eur-35e8_31_gull-10_4363	31	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_2_gull-4	Eur-35e8_2_gull-4	Eur-35e8_2_gull-4_5093	2	Eur-35e8_2_gull-4_4363	2	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_57_gulls-4	Eur-35e8_57_gulls-4	Eur-35e8_57_gulls-4_5093	57	Eur-35e8_57_gulls-4_4363	57	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_60_gull-4	Eur-35e8_60_gull-19	Eur-35e8_60_gull-4_5093	60	Eur-35e8_60_gull-19_4363	60	0	herring gull	gulls	100.0
+taxongroup	Gre-0f9b_19_gull-5	Gre-0f9b_19_gull-15	Gre-0f9b_19_gull-5_5093	19	Gre-0f9b_19_gull-15_4363	19	0	herring gull	gulls	100.0
+taxongroup	Gre-0f9b_19_gull-5	Gre-0f9b_19_gull-5	Gre-0f9b_19_gull-5_5093	19	Gre-0f9b_19_gull-5_4363	19	0	herring gull	gulls	100.0
+taxongroup	Gre-0f9b_19_gull-15	Gre-0f9b_19_gull-5	Gre-0f9b_19_gull-15_5093	19	Gre-0f9b_19_gull-5_4363	19	0	herring gull	gulls	100.0
+taxongroup	Gre-0f9b_87_gulls-10	Gre-0f9b_87_gulls-10	Gre-0f9b_87_gulls-10_5093	87	Gre-0f9b_87_gulls-10_4363	87	0	herring gull	gulls	100.0
+taxongroup	Gre-0f9b_19_gull-15	Gre-0f9b_19_gull-15	Gre-0f9b_19_gull-15_5093	19	Gre-0f9b_19_gull-15_4363	19	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_57_gulls-11	Eur-35e8_57_gulls-11	Eur-35e8_57_gulls-11_5093	57	Eur-35e8_57_gulls-11_4363	57	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_58_gulls-5	Eur-35e8_58_gulls-5	Eur-35e8_58_gulls-5_5093	58	Eur-35e8_58_gulls-5_4363	58	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_57_gulls-4	Eur-35e8_57_gulls-11	Eur-35e8_57_gulls-4_5093	57	Eur-35e8_57_gulls-11_4363	57	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_104_gulls-3	Eur-35e8_104_gulls-3	Eur-35e8_104_gulls-3_5093	104	Eur-35e8_104_gulls-3_4363	104	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_57_gulls-11	Eur-35e8_57_gulls-4	Eur-35e8_57_gulls-11_5093	57	Eur-35e8_57_gulls-4_4363	57	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_143_gulls-19	Eur-35e8_143_gulls-3	Eur-35e8_143_gulls-19_5093	143	Eur-35e8_143_gulls-3_4363	143	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_134_gulls-34	Eur-35e8_134_gulls-9	Eur-35e8_134_gulls-34_5093	134	Eur-35e8_134_gulls-9_4363	134	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_56_gull-3	Eur-35e8_56_gull-3	Eur-35e8_56_gull-3_5093	56	Eur-35e8_56_gull-3_4363	56	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_52_gull-20	Eur-35e8_52_gull-20	Eur-35e8_52_gull-20_5093	52	Eur-35e8_52_gull-20_4363	52	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_115_gulls-3	Eur-35e8_115_gulls-3	Eur-35e8_115_gulls-3_5093	115	Eur-35e8_115_gulls-3_4363	115	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_51_gull-3	Eur-35e8_51_gull-3	Eur-35e8_51_gull-3_5093	51	Eur-35e8_51_gull-3_4363	51	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_145_gull-3	Eur-35e8_145_gull-3	Eur-35e8_145_gull-3_5093	145	Eur-35e8_145_gull-3_4363	145	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_134_gulls-34	Eur-35e8_134_gulls-34	Eur-35e8_134_gulls-34_5093	134	Eur-35e8_134_gulls-34_4363	134	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_124_gull-19	Eur-35e8_124_gull-19	Eur-35e8_124_gull-19_5093	124	Eur-35e8_124_gull-19_4363	124	0	herring gull	gulls	100.0
+taxongroup	Gre-0f9b_77_gulls-12	Gre-0f9b_77_birds-5	Gre-0f9b_77_gulls-12_4363	77	Gre-0f9b_77_birds-5_3995	77	0	gulls	birds	100.0
+taxongroup	Gre-0f9b_77_gulls-12	Gre-0f9b_77_bird-34	Gre-0f9b_77_gulls-12_4363	77	Gre-0f9b_77_bird-34_3995	77	0	gulls	birds	100.0
+taxongroup	Gre-0f9b_86_gulls-21	Gre-0f9b_86_birds-16	Gre-0f9b_86_gulls-21_4363	86	Gre-0f9b_86_birds-16_3995	86	0	gulls	birds	100.0
+taxongroup	Orc-02f3_165_gulls-19	Orc-02f3_165_birds-25	Orc-02f3_165_gulls-19_4363	165	Orc-02f3_165_birds-25_381	165	0	gulls	Birds	100.0
+taxongroup	Ste-6e04_134_gulls-19	Ste-6e04_134_birds-2	Ste-6e04_134_gulls-19_4363	134	Ste-6e04_134_birds-2_381	134	0	gulls	Birds	100.0
+taxongroup	Sno-0a8f_460_gulls-46	Sno-0a8f_460_bird-8	Sno-0a8f_460_gulls-46_4363	460	Sno-0a8f_460_bird-8_381	460	0	gulls	Birds	100.0
+taxongroup	Sku-9981_13_gulls-23	Sku-9981_13_birds-30	Sku-9981_13_gulls-23_4363	13	Sku-9981_13_birds-30_381	13	0	gulls	Birds	100.0
+taxongroup	Sku-9981_13_gulls-23	Sku-9981_13_birds-17	Sku-9981_13_gulls-23_4363	13	Sku-9981_13_birds-17_381	13	0	gulls	Birds	100.0
+taxongroup	Sho-fcec_74_gulls-28	Sho-fcec_74_birds-7	Sho-fcec_74_gulls-28_4363	74	Sho-fcec_74_birds-7_381	74	0	gulls	Birds	100.0
+taxongroup	Roc-2376_182_gulls-26	Roc-2376_182_birds-2	Roc-2376_182_gulls-26_4363	182	Roc-2376_182_birds-2_381	182	0	gulls	Birds	100.0
+taxongroup	Mac-6b1c_80_gull-14	Mac-6b1c_80_birds-36	Mac-6b1c_80_gull-14_4363	80	Mac-6b1c_80_birds-36_381	80	0	gulls	Birds	100.0
+taxongroup	Pel-a6d1_158_gulls-32	Pel-a6d1_158_bird-3	Pel-a6d1_158_gulls-32_4363	158	Pel-a6d1_158_bird-3_381	158	0	gulls	Birds	100.0
+taxongroup	Red-1eff_79_gulls-24	Red-1eff_79_birds-2	Red-1eff_79_gulls-24_4363	79	Red-1eff_79_birds-2_381	79	0	gulls	Birds	100.0
+taxongroup	Pro-41d6_139_gulls-6	Pro-41d6_139_birds-10	Pro-41d6_139_gulls-6_4363	139	Pro-41d6_139_birds-10_381	139	0	gulls	Birds	100.0
+taxongroup	Par-ce5c_44_gulls-49	Par-ce5c_44_birds-15	Par-ce5c_44_gulls-49_4363	44	Par-ce5c_44_birds-15_381	44	0	gulls	Birds	100.0
+taxongroup	Par-ce5c_44_gulls-49	Par-ce5c_44_birds-46	Par-ce5c_44_gulls-49_4363	44	Par-ce5c_44_birds-46_381	44	0	gulls	Birds	100.0
+taxongroup	Par-ce5c_44_gulls-49	Par-ce5c_44_bird-2	Par-ce5c_44_gulls-49_4363	44	Par-ce5c_44_bird-2_381	44	0	gulls	Birds	100.0
+taxongroup	Nor-182d_24_gull-20	Nor-182d_24_birds-25	Nor-182d_24_gull-20_4363	24	Nor-182d_24_birds-25_381	24	0	gulls	Birds	100.0
+taxongroup	Gre-0f9b_76_gulls-23	Gre-0f9b_76_birds-102	Gre-0f9b_76_gulls-23_4363	76	Gre-0f9b_76_birds-102_3995	76	0	gulls	birds	100.0
+taxongroup	Gul2ec9_7_gull-7	Gul2ec9_7_Birds-1	Gul2ec9_7_gull-7_4363	7	Gul2ec9_7_Birds-1_381	7	0	gulls	Birds	100.0
+taxongroup	Les-bc96_53_gull-17	Les-bc96_53_Birds-7	Les-bc96_53_gull-17_4363	53	Les-bc96_53_Birds-7_381	53	0	gulls	Birds	100.0
+taxongroup	Les-bc96_43_gulls-7	Les-bc96_43_birds-34	Les-bc96_43_gulls-7_4363	43	Les-bc96_43_birds-34_381	43	0	gulls	Birds	100.0
+taxongroup	Gul2ec9_14_gulls-16	Gul2ec9_14_birds-4	Gul2ec9_14_gulls-16_4363	14	Gul2ec9_14_birds-4_381	14	0	gulls	Birds	100.0
+taxongroup	Pen-9962_222_gulls-9	Pen-9962_222_birds-2	Pen-9962_222_gulls-9_4363	222	Pen-9962_222_birds-2_381	222	0	gulls	Birds	100.0
+taxongroup	Hoo-4a1d_64_gulls-8	Hoo-4a1d_64_birds-14	Hoo-4a1d_64_gulls-8_4363	64	Hoo-4a1d_64_birds-14_381	64	0	gulls	Birds	100.0
+taxongroup	Her-b7fc_2_gull-2	Her-b7fc_2_birds-9	Her-b7fc_2_gull-2_4363	2	Her-b7fc_2_birds-9_381	2	0	gulls	Birds	100.0
+taxongroup	Gul-1ea1_113_gull-8	Gul-1ea1_113_bird-4	Gul-1ea1_113_gull-8_4363	113	Gul-1ea1_113_bird-4_381	113	0	gulls	Birds	100.0
+taxongroup	Gul-1ea1_95_gulls-14	Gul-1ea1_95_birds-21	Gul-1ea1_95_gulls-14_4363	95	Gul-1ea1_95_birds-21_381	95	0	gulls	Birds	100.0
+taxongroup	Gul-1ea1_46_gull-2	Gul-1ea1_46_birds-8	Gul-1ea1_46_gull-2_4363	46	Gul-1ea1_46_birds-8_381	46	0	gulls	Birds	100.0
+taxongroup	Gul-1ea1_60_gulls-5	Gul-1ea1_60_birds-52	Gul-1ea1_60_gulls-5_4363	60	Gul-1ea1_60_birds-52_381	60	0	gulls	Birds	100.0
+taxongroup	Ter-7888_44_gulls-40	Ter-7888_44_birds-28	Ter-7888_44_gulls-40_4363	44	Ter-7888_44_birds-28_381	44	0	gulls	Birds	100.0
+taxongroup	Sno-0a8f_460_gulls-46	Sno-0a8f_460_birds-12	Sno-0a8f_460_gulls-46_4363	460	Sno-0a8f_460_birds-12_381	460	0	gulls	Birds	100.0
+taxongroup	Sno-0a8f_432_gull-82	Sno-0a8f_432_birds-71	Sno-0a8f_432_gull-82_4363	432	Sno-0a8f_432_birds-71_381	432	0	gulls	Birds	100.0
+taxongroup	Too-567c_343_gulls-25	Too-567c_343_birds-11	Too-567c_343_gulls-25_4363	343	Too-567c_343_birds-11_381	343	0	gulls	Birds	100.0
+taxongroup	Com-c2c9_2_guillemot-9	Com-c2c9_2_auk-21	Com-c2c9_2_guillemot-9_4497	2	Com-c2c9_2_auk-21_4045	2	0	guillemots	auks	100.0
+taxongroup	Auk-a4a3_28_guillemots-37	Auk-a4a3_28_auks-5	Auk-a4a3_28_guillemots-37_4497	28	Auk-a4a3_28_auks-5_4045	28	0	guillemots	auks	100.0
+taxongroup	Atl-79fc_27_guillemots-13	Atl-79fc_27_auks-16	Atl-79fc_27_guillemots-13_4497	27	Atl-79fc_27_auks-16_4045	27	0	guillemots	auks	100.0
+taxongroup	Atl-79fc_27_guillemots-13	Atl-79fc_27_auk-5	Atl-79fc_27_guillemots-13_4497	27	Atl-79fc_27_auk-5_4045	27	0	guillemots	auks	100.0
+taxongroup	Auk-a4a3_8_guillemots-15	Auk-a4a3_8_auk-25	Auk-a4a3_8_guillemots-15_4497	8	Auk-a4a3_8_auk-25_4045	8	0	guillemots	auks	100.0
+taxongroup	Auk-a4a3_50_guillemots-54	Auk-a4a3_50_auks-3	Auk-a4a3_50_guillemots-54_4497	50	Auk-a4a3_50_auks-3_4045	50	0	guillemots	auks	100.0
+taxongroup	Auk-a4a3_69_guillemot-41	Auk-a4a3_69_auk-59	Auk-a4a3_69_guillemot-41_4497	69	Auk-a4a3_69_auk-59_4045	69	0	guillemots	auks	100.0
+taxongroup	Auk-a4a3_69_guillemot-41	Auk-a4a3_69_auk-67	Auk-a4a3_69_guillemot-41_4497	69	Auk-a4a3_69_auk-67_4045	69	0	guillemots	auks	100.0
+taxongroup	Auk-a4a3_69_guillemot-41	Auk-a4a3_69_auks-33	Auk-a4a3_69_guillemot-41_4497	69	Auk-a4a3_69_auks-33_4045	69	0	guillemots	auks	100.0
+taxongroup	Auk-a4a3_69_guillemot-53	Auk-a4a3_69_auk-59	Auk-a4a3_69_guillemot-53_4497	69	Auk-a4a3_69_auk-59_4045	69	0	guillemots	auks	100.0
+taxongroup	Auk-a4a3_69_guillemot-53	Auk-a4a3_69_auk-67	Auk-a4a3_69_guillemot-53_4497	69	Auk-a4a3_69_auk-67_4045	69	0	guillemots	auks	100.0
+taxongroup	Auk-a4a3_69_guillemot-53	Auk-a4a3_69_auks-33	Auk-a4a3_69_guillemot-53_4497	69	Auk-a4a3_69_auks-33_4045	69	0	guillemots	auks	100.0
+taxongroup	Auk-a4a3_50_guillemots-54	Auk-a4a3_50_auks-44	Auk-a4a3_50_guillemots-54_4497	50	Auk-a4a3_50_auks-44_4045	50	0	guillemots	auks	100.0
+taxongroup	Din-756f_423_guillemot-15	Din-756f_423_bird-5	Din-756f_423_guillemot-15_4497	423	Din-756f_423_bird-5_3995	423	0	guillemots	birds	100.0
+taxongroup	Auk-a4a3_31_guillemot-32	Auk-a4a3_31_birds-4	Auk-a4a3_31_guillemot-32_4497	31	Auk-a4a3_31_birds-4_3995	31	0	guillemots	birds	100.0
+taxongroup	Gul-1ea1_113_gull-8	Gul-1ea1_113_animal-32	Gul-1ea1_113_gull-8_4363	113	Gul-1ea1_113_animal-32_44	113	0	gulls	Animals	100.0
+taxongroup	Gul-1ea1_77_gulls-11	Gul-1ea1_77_animals-17	Gul-1ea1_77_gulls-11_4363	77	Gul-1ea1_77_animals-17_44	77	0	gulls	Animals	100.0
+taxongroup	Gre-0f9b_91_gulls-4	Gre-0f9b_91_animals-14	Gre-0f9b_91_gulls-4_4363	91	Gre-0f9b_91_animals-14_44	91	0	gulls	Animals	100.0
+taxongroup	Gre-0f9b_73_gull-28	Gre-0f9b_73_animals-4	Gre-0f9b_73_gull-28_4363	73	Gre-0f9b_73_animals-4_44	73	0	gulls	Animals	100.0
+taxongroup	Whi-b4c3_362_gulls-47	Whi-b4c3_362_birds-41	Whi-b4c3_362_gulls-47_4363	362	Whi-b4c3_362_birds-41_381	362	0	gulls	Birds	100.0
+taxongroup	Whi-b4c3_362_gulls-47	Whi-b4c3_362_birds-10	Whi-b4c3_362_gulls-47_4363	362	Whi-b4c3_362_birds-10_381	362	0	gulls	Birds	100.0
+taxongroup	Whi-b4c3_364_gulls-30	Whi-b4c3_364_birds-20	Whi-b4c3_364_gulls-30_4363	364	Whi-b4c3_364_birds-20_381	364	0	gulls	Birds	100.0
+taxongroup	Whi-b4c3_270_gulls-17	Whi-b4c3_270_birds-13	Whi-b4c3_270_gulls-17_4363	270	Whi-b4c3_270_birds-13_381	270	0	gulls	Birds	100.0
+taxongroup	Sno-0a8f_432_gull-82	Sno-0a8f_432_birds-6	Sno-0a8f_432_gull-82_4363	432	Sno-0a8f_432_birds-6_381	432	0	gulls	Birds	100.0
+taxongroup	Too-567c_343_gulls-25	Too-567c_343_birds-33	Too-567c_343_gulls-25_4363	343	Too-567c_343_birds-33_381	343	0	gulls	Birds	100.0
+taxongroup	Too-567c_556_gull-17	Too-567c_556_bird-26	Too-567c_556_gull-17_4363	556	Too-567c_556_bird-26_381	556	0	gulls	Birds	100.0
+taxongroup	Too-567c_546_gulls-10	Too-567c_546_birds-3	Too-567c_546_gulls-10_4363	546	Too-567c_546_birds-3_381	546	0	gulls	Birds	100.0
+taxongroup	Gul-1ea1_68_gulls-14	Gul-1ea1_68_birds-6	Gul-1ea1_68_gulls-14_4363	68	Gul-1ea1_68_birds-6_381	68	0	gulls	Birds	100.0
+taxongroup	Gre-0f9b_74_gulls-18	Gre-0f9b_74_birds-23	Gre-0f9b_74_gulls-18_4363	74	Gre-0f9b_74_birds-23_3995	74	0	gulls	birds	100.0
+taxongroup	Ter-7888_3_gulls-13	Ter-7888_3_Laridae-10	Ter-7888_3_gulls-13_4363	3	Ter-7888_3_Laridae-10_624	3	0	gulls	Laridae	100.0
+taxongroup	Eur-35e8_94_gull-5	Eur-35e8_94_gull-5	Eur-35e8_94_gull-5_5093	94	Eur-35e8_94_gull-5_4363	94	0	herring gull	gulls	100.0
+taxongroup	Gul2ec9_3_gulls-14	Gul2ec9_3_gull-25	Gul2ec9_3_gulls-14_5093	3	Gul2ec9_3_gull-25_4363	3	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_73_gull-4	Eur-35e8_73_gull-4	Eur-35e8_73_gull-4_5093	73	Eur-35e8_73_gull-4_4363	73	0	herring gull	gulls	100.0
+taxongroup	Sno-0a8f_405_oystercatchers-69	Sno-0a8f_405_Haematopus-26	Sno-0a8f_405_oystercatchers-69_4920	405	Sno-0a8f_405_Haematopus-26_1062	405	0	oystercatcher	Haematopus	100.0
+taxongroup	Lit-ab57_2_plover-4	Lit-ab57_2_Charadrius-6	Lit-ab57_2_plover-4_3872	2	Lit-ab57_2_Charadrius-6_971	2	0	little ringed plover	Charadrius	100.0
+taxongroup	Biv-02de_272_oystercatcher-6	Biv-02de_272_Birds-1	Biv-02de_272_oystercatcher-6_4920	272	Biv-02de_272_Birds-1_381	272	0	oystercatcher	Birds	100.0
+taxongroup	Eur-19c7_26_oystercatchers-6	Eur-19c7_26_birds-27	Eur-19c7_26_oystercatchers-6_4920	26	Eur-19c7_26_birds-27_381	26	0	oystercatcher	Birds	100.0
+taxongroup	Eur-19c7_2_oystercatcher-14	Eur-19c7_2_bird-30	Eur-19c7_2_oystercatcher-14_4920	2	Eur-19c7_2_bird-30_381	2	0	oystercatcher	Birds	100.0
+taxongroup	Sno-0a8f_405_oystercatchers-69	Sno-0a8f_405_birds-60	Sno-0a8f_405_oystercatchers-69_4920	405	Sno-0a8f_405_birds-60_381	405	0	oystercatcher	Birds	100.0
+taxongroup	Sno-0a8f_405_oystercatchers-69	Sno-0a8f_405_bird-52	Sno-0a8f_405_oystercatchers-69_4920	405	Sno-0a8f_405_bird-52_381	405	0	oystercatcher	Birds	100.0
+taxongroup	Eur-19c7_2_oystercatcher-3	Eur-19c7_2_bird-30	Eur-19c7_2_oystercatcher-3_4920	2	Eur-19c7_2_bird-30_381	2	0	oystercatcher	Birds	100.0
+taxongroup	Cha-662a_23_oystercatchers-8	Cha-662a_23_Haematopodidae-6	Cha-662a_23_oystercatchers-8_4920	23	Cha-662a_23_Haematopodidae-6_732	23	0	oystercatcher	Haematopodidae	100.0
+taxongroup	Wad-b1c9_21_oystercatchers-8	Wad-b1c9_21_Haematopodidae-6	Wad-b1c9_21_oystercatchers-8_4920	21	Wad-b1c9_21_Haematopodidae-6_732	21	0	oystercatcher	Haematopodidae	100.0
+taxongroup	Oys-0cbb_7_oystercatcher-32	Oys-0cbb_7_Haematopus-3	Oys-0cbb_7_oystercatcher-32_4920	7	Oys-0cbb_7_Haematopus-3_1062	7	0	oystercatcher	Haematopus	100.0
+taxongroup	Oys-0cbb_2_oystercatchers-2	Oys-0cbb_2_Haematopus-19	Oys-0cbb_2_oystercatchers-2_4920	2	Oys-0cbb_2_Haematopus-19_1062	2	0	oystercatcher	Haematopus	100.0
+taxongroup	Oys-0cbb_8_oystercatcher-30	Oys-0cbb_8_Haematopus-4	Oys-0cbb_8_oystercatcher-30_4920	8	Oys-0cbb_8_Haematopus-4_1062	8	0	oystercatcher	Haematopus	100.0
+taxongroup	Eur-19c7_15_oystercatcher-50	Eur-19c7_15_Haematopus-27	Eur-19c7_15_oystercatcher-50_4920	15	Eur-19c7_15_Haematopus-27_1062	15	0	oystercatcher	Haematopus	100.0
+taxongroup	Van-164f_42_lapwing-15	Van-164f_42_Vanellus-23	Van-164f_42_lapwing-15_3884	42	Van-164f_42_Vanellus-23_1333	42	0	lapwing	Vanellus	100.0
+taxongroup	Eur-bc75_319_oystercatcher-54	Eur-bc75_319_shorebirds-2	Eur-bc75_319_oystercatcher-54_4920	319	Eur-bc75_319_shorebirds-2_4767	319	0	oystercatcher	shorebirds	100.0
+taxongroup	Cha-25f8_2_plovers-7	Cha-25f8_2_bird-2	Cha-25f8_2_plovers-7_4066	2	Cha-25f8_2_bird-2_381	2	0	plovers and lapwings	Birds	100.0
+taxongroup	Lap-54e3_16_plover-40	Lap-54e3_16_bird-42	Lap-54e3_16_plover-40_4066	16	Lap-54e3_16_bird-42_381	16	0	plovers and lapwings	Birds	100.0
+taxongroup	Lap-54e3_16_plovers-32	Lap-54e3_16_bird-42	Lap-54e3_16_plovers-32_4066	16	Lap-54e3_16_bird-42_381	16	0	plovers and lapwings	Birds	100.0
+taxongroup	Puf-9e52_68_puffins-7	Puf-9e52_68_animal-4	Puf-9e52_68_puffins-7_4634	68	Puf-9e52_68_animal-4_44	68	0	puffin	Animals	100.0
+taxongroup	Lit-ab57_2_plover-12	Lit-ab57_2_Charadrius-6	Lit-ab57_2_plover-12_3872	2	Lit-ab57_2_Charadrius-6_971	2	0	little ringed plover	Charadrius	100.0
+taxongroup	Nor-e9b2_2_lapwing-3	Nor-e9b2_2_vanellus-6	Nor-e9b2_2_lapwing-3_3884	2	Nor-e9b2_2_vanellus-6_4500	2	0	lapwing	vanellus	100.0
+taxongroup	Nor-e9b2_5_lapwing-3	Nor-e9b2_5_vanellus-28	Nor-e9b2_5_lapwing-3_3884	5	Nor-e9b2_5_vanellus-28_4500	5	0	lapwing	vanellus	100.0
+taxongroup	Chada27_1_lapwings-3	Chada27_1_shorebirds-10	Chada27_1_lapwings-3_3884	1	Chada27_1_shorebirds-10_4767	1	0	lapwing	shorebirds	100.0
+taxongroup	Van-164f_57_lapwing-2	Van-164f_57_Vanellus-4	Van-164f_57_lapwing-2_3884	57	Van-164f_57_Vanellus-4_1333	57	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_37_lapwing-17	Van-164f_37_Vanellus-10	Van-164f_37_lapwing-17_3884	37	Van-164f_37_Vanellus-10_1333	37	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_34_lapwing-4	Van-164f_34_Vanellus-6	Van-164f_34_lapwing-4_3884	34	Van-164f_34_Vanellus-6_1333	34	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_8_lapwing-12	Van-164f_8_Vanellus-8	Van-164f_8_lapwing-12_3884	8	Van-164f_8_Vanellus-8_1333	8	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_33_lapwing-2	Van-164f_33_Vanellus-13	Van-164f_33_lapwing-2_3884	33	Van-164f_33_Vanellus-13_1333	33	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_2_lapwings-11	Van-164f_2_Vanellus-1	Van-164f_2_lapwings-11_3884	2	Van-164f_2_Vanellus-1_1333	2	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_8_lapwing-6	Van-164f_8_Vanellus-8	Van-164f_8_lapwing-6_3884	8	Van-164f_8_Vanellus-8_1333	8	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_19_lapwing-9	Van-164f_19_Vanellus-1	Van-164f_19_lapwing-9_3884	19	Van-164f_19_Vanellus-1_1333	19	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_55_lapwing-4	Van-164f_55_Vanellus-11	Van-164f_55_lapwing-4_3884	55	Van-164f_55_Vanellus-11_1333	55	0	lapwing	Vanellus	100.0
+taxongroup	Spe-2571_86_lapwings-25	Spe-2571_86_birds-21	Spe-2571_86_lapwings-25_3884	86	Spe-2571_86_birds-21_3995	86	0	lapwing	birds	100.0
+taxongroup	Cha-25f8_11_lapwing-24	Cha-25f8_11_bird-10	Cha-25f8_11_lapwing-24_3884	11	Cha-25f8_11_bird-10_3995	11	0	lapwing	birds	100.0
+taxongroup	Lap-54e3_6_lapwing-39	Lap-54e3_6_bird-32	Lap-54e3_6_lapwing-39_3884	6	Lap-54e3_6_bird-32_3995	6	0	lapwing	birds	100.0
+taxongroup	Cha-25f8_13_lapwing-28	Cha-25f8_13_birds-7	Cha-25f8_13_lapwing-28_3884	13	Cha-25f8_13_birds-7_3995	13	0	lapwing	birds	100.0
+taxongroup	Cha-25f8_2_lapwings-12	Cha-25f8_2_bird-2	Cha-25f8_2_lapwings-12_3884	2	Cha-25f8_2_bird-2_3995	2	0	lapwing	birds	100.0
+taxongroup	Cha-25f8_11_lapwing-36	Cha-25f8_11_bird-10	Cha-25f8_11_lapwing-36_3884	11	Cha-25f8_11_bird-10_3995	11	0	lapwing	birds	100.0
+taxongroup	Eur-35e8_84_lapwings-41	Eur-35e8_84_birds-10	Eur-35e8_84_lapwings-41_3884	84	Eur-35e8_84_birds-10_3995	84	0	lapwing	birds	100.0
+taxongroup	Spe-2571_86_lapwings-25	Spe-2571_86_birds-12	Spe-2571_86_lapwings-25_3884	86	Spe-2571_86_birds-12_3995	86	0	lapwing	birds	100.0
+taxongroup	Nor-e9b2_12_lapwing-3	Nor-e9b2_12_bird-13	Nor-e9b2_12_lapwing-3_3884	12	Nor-e9b2_12_bird-13_3995	12	0	lapwing	birds	100.0
+taxongroup	Nor-e9b2_2_lapwing-3	Nor-e9b2_2_bird-39	Nor-e9b2_2_lapwing-3_3884	2	Nor-e9b2_2_bird-39_3995	2	0	lapwing	birds	100.0
+taxongroup	Nor-e9b2_49_lapwings-11	Nor-e9b2_49_birds-16	Nor-e9b2_49_lapwings-11_3884	49	Nor-e9b2_49_birds-16_3995	49	0	lapwing	birds	100.0
+taxongroup	Nor-e9b2_63_lapwing-3	Nor-e9b2_63_bird-12	Nor-e9b2_63_lapwing-3_3884	63	Nor-e9b2_63_bird-12_3995	63	0	lapwing	birds	100.0
+taxongroup	Nor-e9b2_67_lapwing-22	Nor-e9b2_67_bird-2	Nor-e9b2_67_lapwing-22_3884	67	Nor-e9b2_67_bird-2_3995	67	0	lapwing	birds	100.0
+taxongroup	Nor-e9b2_67_lapwing-17	Nor-e9b2_67_bird-2	Nor-e9b2_67_lapwing-17_3884	67	Nor-e9b2_67_bird-2_3995	67	0	lapwing	birds	100.0
+taxongroup	Lap-54e3_16_lapwings-34	Lap-54e3_16_bird-42	Lap-54e3_16_lapwings-34_3884	16	Lap-54e3_16_bird-42_3995	16	0	lapwing	birds	100.0
+taxongroup	Cha-25f8_2_lapwings-12	Cha-25f8_2_plovers-7	Cha-25f8_2_lapwings-12_3884	2	Cha-25f8_2_plovers-7_4066	2	0	lapwing	plovers and lapwings	100.0
+taxongroup	Lap-54e3_16_lapwings-34	Lap-54e3_16_plovers-32	Lap-54e3_16_lapwings-34_3884	16	Lap-54e3_16_plovers-32_4066	16	0	lapwing	plovers and lapwings	100.0
+taxongroup	Lap-54e3_16_lapwings-34	Lap-54e3_16_plover-40	Lap-54e3_16_lapwings-34_3884	16	Lap-54e3_16_plover-40_4066	16	0	lapwing	plovers and lapwings	100.0
+taxongroup	Coa-44f0_176_puffins-9	Coa-44f0_176_animals-2	Coa-44f0_176_puffins-9_4634	176	Coa-44f0_176_animals-2_44	176	0	puffin	Animals	100.0
+taxongroup	Puf-9e52_11_puffin-5	Puf-9e52_11_birds-26	Puf-9e52_11_puffin-5_4634	11	Puf-9e52_11_birds-26_381	11	0	puffin	Birds	100.0
+taxongroup	Sku-9981_13_puffins-21	Sku-9981_13_birds-17	Sku-9981_13_puffins-21_4634	13	Sku-9981_13_birds-17_381	13	0	puffin	Birds	100.0
+taxongroup	Auk-a4a3_50_puffins-21	Auk-a4a3_50_auks-44	Auk-a4a3_50_puffins-21_4634	50	Auk-a4a3_50_auks-44_4045	50	0	puffin	auks	100.0
+taxongroup	Auk-a4a3_50_puffins-21	Auk-a4a3_50_auks-3	Auk-a4a3_50_puffins-21_4634	50	Auk-a4a3_50_auks-3_4045	50	0	puffin	auks	100.0
+taxongroup	Puf-9e52_11_puffin-43	Puf-9e52_11_birds-26	Puf-9e52_11_puffin-43_4634	11	Puf-9e52_11_birds-26_3995	11	0	puffin	birds	100.0
+taxongroup	Sku-9981_13_puffins-21	Sku-9981_13_birds-30	Sku-9981_13_puffins-21_4634	13	Sku-9981_13_birds-30_3995	13	0	puffin	birds	100.0
+taxongroup	Pen-9962_140_puffins-6	Pen-9962_140_birds-12	Pen-9962_140_puffins-6_4634	140	Pen-9962_140_birds-12_3995	140	0	puffin	birds	100.0
+taxongroup	Aukb31c_7_puffins-11	Aukb31c_7_birds-4	Aukb31c_7_puffins-11_4634	7	Aukb31c_7_birds-4_3995	7	0	puffin	birds	100.0
+taxongroup	Hoo-4a1d_64_puffins-31	Hoo-4a1d_64_birds-14	Hoo-4a1d_64_puffins-31_4634	64	Hoo-4a1d_64_birds-14_3995	64	0	puffin	birds	100.0
+taxongroup	Puf-9e52_86_puffin-3	Puf-9e52_86_bird-7	Puf-9e52_86_puffin-3_4634	86	Puf-9e52_86_bird-7_3995	86	0	puffin	birds	100.0
+taxongroup	Puf-9e52_34_puffins-2	Puf-9e52_34_birds-14	Puf-9e52_34_puffins-2_4634	34	Puf-9e52_34_birds-14_3995	34	0	puffin	birds	100.0
+taxongroup	Cha27d2_3_puffins-11	Cha27d2_3_birds-3	Cha27d2_3_puffins-11_4634	3	Cha27d2_3_birds-3_3995	3	0	puffin	birds	100.0
+taxongroup	Bur-08d7_27_puffins-5	Bur-08d7_27_birds-3	Bur-08d7_27_puffins-5_4634	27	Bur-08d7_27_birds-3_3995	27	0	puffin	birds	100.0
+taxongroup	Gre-0f9b_76_puffins-68	Gre-0f9b_76_birds-102	Gre-0f9b_76_puffins-68_4634	76	Gre-0f9b_76_birds-102_3995	76	0	puffin	birds	100.0
+taxongroup	Gre-0f9b_76_puffins-68	Gre-0f9b_76_birds-7	Gre-0f9b_76_puffins-68_4634	76	Gre-0f9b_76_birds-7_3995	76	0	puffin	birds	100.0
+taxongroup	Lit-ab57_5_plover-27	Lit-ab57_5_bird-18	Lit-ab57_5_plover-27_4286	5	Lit-ab57_5_bird-18_381	5	0	ringed plovers	Birds	100.0
+taxongroup	Cha-8593_19_plover-32	Cha-8593_19_Charadriidae-7	Cha-8593_19_plover-32_4286	19	Cha-8593_19_Charadriidae-7_524	19	0	ringed plovers	Charadriidae	100.0
+taxongroup	Cha-8593_19_plover-29	Cha-8593_19_Charadriidae-7	Cha-8593_19_plover-29_4286	19	Cha-8593_19_Charadriidae-7_524	19	0	ringed plovers	Charadriidae	100.0
+taxongroup	Cha-8593_19_plover-35	Cha-8593_19_Charadriidae-7	Cha-8593_19_plover-35_4286	19	Cha-8593_19_Charadriidae-7_524	19	0	ringed plovers	Charadriidae	100.0
+taxongroup	Ryn-0da4_10_skimmer-3	Ryn-0da4_10_bird-14	Ryn-0da4_10_skimmer-3_5478	10	Ryn-0da4_10_bird-14_381	10	0	skimmers	Birds	100.0
+taxongroup	Ryn-0da4_31_Skimmer-1	Ryn-0da4_31_Bird-6	Ryn-0da4_31_Skimmer-1_5478	31	Ryn-0da4_31_Bird-6_381	31	0	skimmers	Birds	100.0
+taxongroup	Ryn-0da4_2_skimmers-2	Ryn-0da4_2_birds-13	Ryn-0da4_2_skimmers-2_5478	2	Ryn-0da4_2_birds-13_381	2	0	skimmers	Birds	100.0
+taxongroup	Bir-5aa1_118_skimmers-32	Bir-5aa1_118_birds-16	Bir-5aa1_118_skimmers-32_5478	118	Bir-5aa1_118_birds-16_381	118	0	skimmers	Birds	100.0
+taxongroup	Lar-0c9b_7_skimmers-24	Lar-0c9b_7_Rynchopidae-30	Lar-0c9b_7_skimmers-24_5478	7	Lar-0c9b_7_Rynchopidae-30_785	7	0	skimmers	Rynchopidae	100.0
+taxongroup	Auk-a4a3_71_puffin-65	Auk-a4a3_71_auks-76	Auk-a4a3_71_puffin-65_4634	71	Auk-a4a3_71_auks-76_4045	71	0	puffin	auks	100.0
+taxongroup	Auk-a4a3_71_puffin-70	Auk-a4a3_71_auks-76	Auk-a4a3_71_puffin-70_4634	71	Auk-a4a3_71_auks-76_4045	71	0	puffin	auks	100.0
+taxongroup	Aukb31c_7_puffins-11	Aukb31c_7_auk-9	Aukb31c_7_puffins-11_4634	7	Aukb31c_7_auk-9_4045	7	0	puffin	auks	100.0
+taxongroup	Puf-9e52_15_puffin-21	Puf-9e52_15_Fratercula-3	Puf-9e52_15_puffin-21_4634	15	Puf-9e52_15_Fratercula-3_1228	15	0	puffin	Fratercula	100.0
+taxongroup	Puf-9e52_21_puffin-26	Puf-9e52_21_Fratercula-22	Puf-9e52_21_puffin-26_4634	21	Puf-9e52_21_Fratercula-22_1228	21	0	puffin	Fratercula	100.0
+taxongroup	Sno-0a8f_451_puffins-56	Sno-0a8f_451_Fratercula-34	Sno-0a8f_451_puffins-56_4634	451	Sno-0a8f_451_Fratercula-34_1228	451	0	puffin	Fratercula	100.0
+taxongroup	Puf-9e52_21_puffin-26	Puf-9e52_21_Fratercula-13	Puf-9e52_21_puffin-26_4634	21	Puf-9e52_21_Fratercula-13_1228	21	0	puffin	Fratercula	100.0
+taxongroup	Puf-9e52_17_puffin-23	Puf-9e52_17_Fratercula-15	Puf-9e52_17_puffin-23_4634	17	Puf-9e52_17_Fratercula-15_1228	17	0	puffin	Fratercula	100.0
+taxongroup	Auk-a4a3_71_puffin-70	Auk-a4a3_71_Fratercula-58	Auk-a4a3_71_puffin-70_4634	71	Auk-a4a3_71_Fratercula-58_1228	71	0	puffin	Fratercula	100.0
+taxongroup	Auk-a4a3_71_puffin-70	Auk-a4a3_71_Fratercula-67	Auk-a4a3_71_puffin-70_4634	71	Auk-a4a3_71_Fratercula-67_1228	71	0	puffin	Fratercula	100.0
+taxongroup	Auk-a4a3_71_puffin-65	Auk-a4a3_71_Fratercula-72	Auk-a4a3_71_puffin-65_4634	71	Auk-a4a3_71_Fratercula-72_1228	71	0	puffin	Fratercula	100.0
+taxongroup	Auk-a4a3_71_puffin-65	Auk-a4a3_71_Fratercula-67	Auk-a4a3_71_puffin-65_4634	71	Auk-a4a3_71_Fratercula-67_1228	71	0	puffin	Fratercula	100.0
+taxongroup	Auk-a4a3_71_puffin-65	Auk-a4a3_71_Fratercula-62	Auk-a4a3_71_puffin-65_4634	71	Auk-a4a3_71_Fratercula-62_1228	71	0	puffin	Fratercula	100.0
+taxongroup	Auk-a4a3_71_puffin-70	Auk-a4a3_71_Fratercula-72	Auk-a4a3_71_puffin-70_4634	71	Auk-a4a3_71_Fratercula-72_1228	71	0	puffin	Fratercula	100.0
+taxongroup	Gre-0f9b_76_puffins-68	Gre-0f9b_76_Fratercula-70	Gre-0f9b_76_puffins-68_4634	76	Gre-0f9b_76_Fratercula-70_1228	76	0	puffin	Fratercula	100.0
+taxongroup	Auk-a4a3_71_puffin-65	Auk-a4a3_71_Fratercula-58	Auk-a4a3_71_puffin-65_4634	71	Auk-a4a3_71_Fratercula-58_1228	71	0	puffin	Fratercula	100.0
+taxongroup	Auk-a4a3_71_puffin-70	Auk-a4a3_71_Fratercula-62	Auk-a4a3_71_puffin-70_4634	71	Auk-a4a3_71_Fratercula-62_1228	71	0	puffin	Fratercula	100.0
+taxongroup	Puf-816d_25_puffin-32	Puf-816d_25_auk-35	Puf-816d_25_puffin-32_4634	25	Puf-816d_25_auk-35_4045	25	0	puffin	auks	100.0
+taxongroup	Van-164f_39_lapwing-4	Van-164f_39_Vanellus-6	Van-164f_39_lapwing-4_3884	39	Van-164f_39_Vanellus-6_1333	39	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_42_lapwing-21	Van-164f_42_Vanellus-10	Van-164f_42_lapwing-21_3884	42	Van-164f_42_Vanellus-10_1333	42	0	lapwing	Vanellus	100.0
+taxongroup	Gul2ec9_3_gull-25	Gul2ec9_3_gull-19	Gul2ec9_3_gull-25_5093	3	Gul2ec9_3_gull-19_4363	3	0	herring gull	gulls	100.0
+taxongroup	Lese75c_6_gulls-8	Lese75c_6_gulls-8	Lese75c_6_gulls-8_5093	6	Lese75c_6_gulls-8_4363	6	0	herring gull	gulls	100.0
+taxongroup	Les-bc96_34_gull-14	Les-bc96_34_gull-14	Les-bc96_34_gull-14_5093	34	Les-bc96_34_gull-14_4363	34	0	herring gull	gulls	100.0
+taxongroup	Les-bc96_37_gulls-18	Les-bc96_37_gulls-18	Les-bc96_37_gulls-18_5093	37	Les-bc96_37_gulls-18_4363	37	0	herring gull	gulls	100.0
+taxongroup	Les-bc96_18_gull-6	Les-bc96_18_gull-12	Les-bc96_18_gull-6_5093	18	Les-bc96_18_gull-12_4363	18	0	herring gull	gulls	100.0
+taxongroup	Les-bc96_17_gull-6	Les-bc96_17_gull-6	Les-bc96_17_gull-6_5093	17	Les-bc96_17_gull-6_4363	17	0	herring gull	gulls	100.0
+taxongroup	Les-bc96_41_gulls-18	Les-bc96_41_gulls-18	Les-bc96_41_gulls-18_5093	41	Les-bc96_41_gulls-18_4363	41	0	herring gull	gulls	100.0
+taxongroup	Les-bc96_33_gulls-5	Les-bc96_33_gulls-5	Les-bc96_33_gulls-5_5093	33	Les-bc96_33_gulls-5_4363	33	0	herring gull	gulls	100.0
+taxongroup	Les-bc96_18_gull-12	Les-bc96_18_gull-6	Les-bc96_18_gull-12_5093	18	Les-bc96_18_gull-6_4363	18	0	herring gull	gulls	100.0
+taxongroup	Les-bc96_17_gull-6	Les-bc96_17_gull-13	Les-bc96_17_gull-6_5093	17	Les-bc96_17_gull-13_4363	17	0	herring gull	gulls	100.0
+taxongroup	Les-bc96_17_gull-13	Les-bc96_17_gull-13	Les-bc96_17_gull-13_5093	17	Les-bc96_17_gull-13_4363	17	0	herring gull	gulls	100.0
+taxongroup	Les-bc96_17_gull-13	Les-bc96_17_gull-6	Les-bc96_17_gull-13_5093	17	Les-bc96_17_gull-6_4363	17	0	herring gull	gulls	100.0
+taxongroup	Les-bc96_18_gull-12	Les-bc96_18_gull-12	Les-bc96_18_gull-12_5093	18	Les-bc96_18_gull-12_4363	18	0	herring gull	gulls	100.0
+taxongroup	Les-bc96_18_gull-6	Les-bc96_18_gull-6	Les-bc96_18_gull-6_5093	18	Les-bc96_18_gull-6_4363	18	0	herring gull	gulls	100.0
+taxongroup	Too-567c_516_gull-7	Too-567c_516_gull-7	Too-567c_516_gull-7_5093	516	Too-567c_516_gull-7_4363	516	0	herring gull	gulls	100.0
+taxongroup	Per-145f_217_kittiwakes-18	Per-145f_217_birds-15	Per-145f_217_kittiwakes-18_4693	217	Per-145f_217_birds-15_381	217	0	kittiwake	Birds	100.0
+taxongroup	Van-164f_42_lapwing-2	Van-164f_42_Vanellus-10	Van-164f_42_lapwing-2_3884	42	Van-164f_42_Vanellus-10_1333	42	0	lapwing	Vanellus	100.0
+taxongroup	Taw-0bfd_113_kittiwake-22	Taw-0bfd_113_birds-5	Taw-0bfd_113_kittiwake-22_4693	113	Taw-0bfd_113_birds-5_381	113	0	kittiwake	Birds	100.0
+taxongroup	Bla-8d51_8_kittiwake-5	Bla-8d51_8_bird-9	Bla-8d51_8_kittiwake-5_4693	8	Bla-8d51_8_bird-9_381	8	0	kittiwake	Birds	100.0
+taxongroup	Bla-8d51_175_kittiwake-10	Bla-8d51_175_Birds-1	Bla-8d51_175_kittiwake-10_4693	175	Bla-8d51_175_Birds-1_381	175	0	kittiwake	Birds	100.0
+taxongroup	Kit-1cd4_5_kittiwake-16	Kit-1cd4_5_Rissa-4	Kit-1cd4_5_kittiwake-16_4693	5	Kit-1cd4_5_Rissa-4_1088	5	0	kittiwake	Rissa	100.0
+taxongroup	Kit-1cd4_3_kittiwake-46	Kit-1cd4_3_Rissa-30	Kit-1cd4_3_kittiwake-46_4693	3	Kit-1cd4_3_Rissa-30_1088	3	0	kittiwake	Rissa	100.0
+taxongroup	Kit-1cd4_2_kittiwakes-2	Kit-1cd4_2_Rissa-5	Kit-1cd4_2_kittiwakes-2_4693	2	Kit-1cd4_2_Rissa-5_1088	2	0	kittiwake	Rissa	100.0
+taxongroup	Kit-1cd4_2_kittiwake-33	Kit-1cd4_2_Rissa-25	Kit-1cd4_2_kittiwake-33_4693	2	Kit-1cd4_2_Rissa-25_1088	2	0	kittiwake	Rissa	100.0
+taxongroup	Lar-0c9b_28_kittiwakes-12	Lar-0c9b_28_Rissa-10	Lar-0c9b_28_kittiwakes-12_4693	28	Lar-0c9b_28_Rissa-10_1088	28	0	kittiwake	Rissa	100.0
+taxongroup	Kit-1cd4_3_kittiwake-40	Kit-1cd4_3_Rissa-30	Kit-1cd4_3_kittiwake-40_4693	3	Kit-1cd4_3_Rissa-30_1088	3	0	kittiwake	Rissa	100.0
+taxongroup	Kit-1cd4_2_kittiwakes-2	Kit-1cd4_2_Rissa-35	Kit-1cd4_2_kittiwakes-2_4693	2	Kit-1cd4_2_Rissa-35_1088	2	0	kittiwake	Rissa	100.0
+taxongroup	Kit-1cd4_2_kittiwake-33	Kit-1cd4_2_Rissa-35	Kit-1cd4_2_kittiwake-33_4693	2	Kit-1cd4_2_Rissa-35_1088	2	0	kittiwake	Rissa	100.0
+taxongroup	Ste-6e04_136_kittiwakes-30	Ste-6e04_136_Rissa-32	Ste-6e04_136_kittiwakes-30_4693	136	Ste-6e04_136_Rissa-32_1088	136	0	kittiwake	Rissa	100.0
+taxongroup	Kit-1cd4_2_kittiwake-33	Kit-1cd4_2_Rissa-5	Kit-1cd4_2_kittiwake-33_4693	2	Kit-1cd4_2_Rissa-5_1088	2	0	kittiwake	Rissa	100.0
+taxongroup	Eur-35e8_76_gull-3	Eur-35e8_76_gull-3	Eur-35e8_76_gull-3_5093	76	Eur-35e8_76_gull-3_4363	76	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_92_gull-50	Eur-35e8_92_gulls-3	Eur-35e8_92_gull-50_5093	92	Eur-35e8_92_gulls-3_4363	92	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_62_gull-3	Eur-35e8_62_gull-3	Eur-35e8_62_gull-3_5093	62	Eur-35e8_62_gull-3_4363	62	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_88_gull-7	Eur-35e8_88_gull-7	Eur-35e8_88_gull-7_5093	88	Eur-35e8_88_gull-7_4363	88	0	herring gull	gulls	100.0
+taxongroup	Gul2ec9_3_gull-2	Gul2ec9_3_gull-19	Gul2ec9_3_gull-2_5093	3	Gul2ec9_3_gull-19_4363	3	0	herring gull	gulls	100.0
+taxongroup	Gul2ec9_3_gull-19	Gul2ec9_3_gull-19	Gul2ec9_3_gull-19_5093	3	Gul2ec9_3_gull-19_4363	3	0	herring gull	gulls	100.0
+taxongroup	Gul2ec9_3_gull-19	Gul2ec9_3_gull-25	Gul2ec9_3_gull-19_5093	3	Gul2ec9_3_gull-25_4363	3	0	herring gull	gulls	100.0
+taxongroup	Gul2ec9_3_gull-19	Gul2ec9_3_gull-2	Gul2ec9_3_gull-19_5093	3	Gul2ec9_3_gull-2_4363	3	0	herring gull	gulls	100.0
+taxongroup	Gul2ec9_3_gull-19	Gul2ec9_3_gulls-14	Gul2ec9_3_gull-19_5093	3	Gul2ec9_3_gulls-14_4363	3	0	herring gull	gulls	100.0
+taxongroup	Gul2ec9_3_gull-25	Gul2ec9_3_gull-25	Gul2ec9_3_gull-25_5093	3	Gul2ec9_3_gull-25_4363	3	0	herring gull	gulls	100.0
+taxongroup	Gul2ec9_3_gulls-14	Gul2ec9_3_gull-2	Gul2ec9_3_gulls-14_5093	3	Gul2ec9_3_gull-2_4363	3	0	herring gull	gulls	100.0
+taxongroup	Gul2ec9_3_gulls-14	Gul2ec9_3_gulls-14	Gul2ec9_3_gulls-14_5093	3	Gul2ec9_3_gulls-14_4363	3	0	herring gull	gulls	100.0
+taxongroup	Gul2ec9_3_gull-25	Gul2ec9_3_gulls-14	Gul2ec9_3_gull-25_5093	3	Gul2ec9_3_gulls-14_4363	3	0	herring gull	gulls	100.0
+taxongroup	Gul2ec9_3_gull-25	Gul2ec9_3_gull-2	Gul2ec9_3_gull-25_5093	3	Gul2ec9_3_gull-2_4363	3	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_95_gull-7	Eur-35e8_95_gull-7	Eur-35e8_95_gull-7_5093	95	Eur-35e8_95_gull-7_4363	95	0	herring gull	gulls	100.0
+taxongroup	Her-b7fc_4_gull-3	Her-b7fc_4_gull-13	Her-b7fc_4_gull-3_5093	4	Her-b7fc_4_gull-13_4363	4	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_98_gull-3	Eur-35e8_98_gull-3	Eur-35e8_98_gull-3_5093	98	Eur-35e8_98_gull-3_4363	98	0	herring gull	gulls	100.0
+taxongroup	Herd93f_7_gulls-2	Herd93f_7_gulls-2	Herd93f_7_gulls-2_5093	7	Herd93f_7_gulls-2_4363	7	0	herring gull	gulls	100.0
+taxongroup	Herd93f_10_gulls-7	Herd93f_10_gulls-7	Herd93f_10_gulls-7_5093	10	Herd93f_10_gulls-7_4363	10	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_90_gulls-4	Eur-35e8_90_gulls-4	Eur-35e8_90_gulls-4_5093	90	Eur-35e8_90_gulls-4_4363	90	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_82_gull-3	Eur-35e8_82_gull-3	Eur-35e8_82_gull-3_5093	82	Eur-35e8_82_gull-3_4363	82	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_92_gull-50	Eur-35e8_92_gull-50	Eur-35e8_92_gull-50_5093	92	Eur-35e8_92_gull-50_4363	92	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_64_gulls-2	Eur-35e8_64_gulls-2	Eur-35e8_64_gulls-2_5093	64	Eur-35e8_64_gulls-2_4363	64	0	herring gull	gulls	100.0
+taxongroup	Her-b7fc_4_gull-13	Her-b7fc_4_gull-13	Her-b7fc_4_gull-13_5093	4	Her-b7fc_4_gull-13_4363	4	0	herring gull	gulls	100.0
+taxongroup	Her-b7fc_4_gull-13	Her-b7fc_4_gull-3	Her-b7fc_4_gull-13_5093	4	Her-b7fc_4_gull-3_4363	4	0	herring gull	gulls	100.0
+taxongroup	Her-b7fc_1_gull-2	Her-b7fc_1_gull-2	Her-b7fc_1_gull-2_5093	1	Her-b7fc_1_gull-2_4363	1	0	herring gull	gulls	100.0
+taxongroup	Her-b7fc_4_gull-3	Her-b7fc_4_gull-3	Her-b7fc_4_gull-3_5093	4	Her-b7fc_4_gull-3_4363	4	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_87_gulls-3	Eur-35e8_87_gulls-3	Eur-35e8_87_gulls-3_5093	87	Eur-35e8_87_gulls-3_4363	87	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_9_gull-6	Eur-35e8_9_gull-12	Eur-35e8_9_gull-6_5093	9	Eur-35e8_9_gull-12_4363	9	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_9_gull-12	Eur-35e8_9_gull-12	Eur-35e8_9_gull-12_5093	9	Eur-35e8_9_gull-12_4363	9	0	herring gull	gulls	100.0
+taxongroup	Eur-35e8_9_gull-12	Eur-35e8_9_gull-6	Eur-35e8_9_gull-12_5093	9	Eur-35e8_9_gull-6_4363	9	0	herring gull	gulls	100.0
+taxongroup	Kit-1cd4_2_kittiwake-23	Kit-1cd4_2_Rissa-35	Kit-1cd4_2_kittiwake-23_4693	2	Kit-1cd4_2_Rissa-35_1088	2	0	kittiwake	Rissa	100.0
+taxongroup	Kit-1cd4_2_kittiwake-23	Kit-1cd4_2_Rissa-5	Kit-1cd4_2_kittiwake-23_4693	2	Kit-1cd4_2_Rissa-5_1088	2	0	kittiwake	Rissa	100.0
+taxongroup	Kit-1cd4_2_kittiwake-23	Kit-1cd4_2_Rissa-25	Kit-1cd4_2_kittiwake-23_4693	2	Kit-1cd4_2_Rissa-25_1088	2	0	kittiwake	Rissa	100.0
+taxongroup	Cha-25f8_2_lapwings-12	Cha-25f8_2_Charadriidae-4	Cha-25f8_2_lapwings-12_3884	2	Cha-25f8_2_Charadriidae-4_524	2	0	lapwing	Charadriidae	100.0
+taxongroup	Bir-5aa1_125_lapwings-3	Bir-5aa1_125_Plovers-1	Bir-5aa1_125_lapwings-3_3884	125	Bir-5aa1_125_Plovers-1_525	125	0	lapwing	Plovers and lapwings	100.0
+taxongroup	Chada27_1_lapwings-3	Chada27_1_Plovers-1	Chada27_1_lapwings-3_3884	1	Chada27_1_Plovers-1_525	1	0	lapwing	Plovers and lapwings	100.0
+taxongroup	Bir-ebe4_263_lapwing-32	Bir-ebe4_263_Vanellus-34	Bir-ebe4_263_lapwing-32_3884	263	Bir-ebe4_263_Vanellus-34_1333	263	0	lapwing	Vanellus	100.0
+taxongroup	Lap-54e3_10_lapwings-15	Lap-54e3_10_Vanellus-27	Lap-54e3_10_lapwings-15_3884	10	Lap-54e3_10_Vanellus-27_1333	10	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_54_lapwing-2	Van-164f_54_Vanellus-7	Van-164f_54_lapwing-2_3884	54	Van-164f_54_Vanellus-7_1333	54	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_42_lapwing-15	Van-164f_42_Vanellus-10	Van-164f_42_lapwing-15_3884	42	Van-164f_42_Vanellus-10_1333	42	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_42_lapwing-21	Van-164f_42_Vanellus-23	Van-164f_42_lapwing-21_3884	42	Van-164f_42_Vanellus-23_1333	42	0	lapwing	Vanellus	100.0
+taxongroup	Lap-54e3_30_lapwing-8	Lap-54e3_30_Vanellus-15	Lap-54e3_30_lapwing-8_3884	30	Lap-54e3_30_Vanellus-15_1333	30	0	lapwing	Vanellus	100.0
+taxongroup	Nor-e9b2_7_lapwing-11	Nor-e9b2_7_Vanellus-4	Nor-e9b2_7_lapwing-11_3884	7	Nor-e9b2_7_Vanellus-4_1333	7	0	lapwing	Vanellus	100.0
+taxongroup	Nor-e9b2_2_lapwing-3	Nor-e9b2_2_Vanellus-5	Nor-e9b2_2_lapwing-3_3884	2	Nor-e9b2_2_Vanellus-5_1333	2	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_38_lapwing-4	Van-164f_38_Vanellus-11	Van-164f_38_lapwing-4_3884	38	Van-164f_38_Vanellus-11_1333	38	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_51_lapwing-2	Van-164f_51_Vanellus-4	Van-164f_51_lapwing-2_3884	51	Van-164f_51_Vanellus-4_1333	51	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_50_lapwing-5	Van-164f_50_Vanellus-12	Van-164f_50_lapwing-5_3884	50	Van-164f_50_Vanellus-12_1333	50	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_48_lapwing-4	Van-164f_48_Vanellus-6	Van-164f_48_lapwing-4_3884	48	Van-164f_48_Vanellus-6_1333	48	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_58_lapwing-2	Van-164f_58_Vanellus-4	Van-164f_58_lapwing-2_3884	58	Van-164f_58_Vanellus-4_1333	58	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_45_lapwing-4	Van-164f_45_Vanellus-6	Van-164f_45_lapwing-4_3884	45	Van-164f_45_Vanellus-6_1333	45	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_42_lapwing-8	Van-164f_42_Vanellus-23	Van-164f_42_lapwing-8_3884	42	Van-164f_42_Vanellus-23_1333	42	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_42_lapwing-8	Van-164f_42_Vanellus-10	Van-164f_42_lapwing-8_3884	42	Van-164f_42_Vanellus-10_1333	42	0	lapwing	Vanellus	100.0
+taxongroup	Van-164f_42_lapwing-2	Van-164f_42_Vanellus-23	Van-164f_42_lapwing-2_3884	42	Van-164f_42_Vanellus-23_1333	42	0	lapwing	Vanellus	100.0
+taxongroup	Kit-1cd4_2_kittiwakes-2	Kit-1cd4_2_Rissa-25	Kit-1cd4_2_kittiwakes-2_4693	2	Kit-1cd4_2_Rissa-25_1088	2	0	kittiwake	Rissa	100.0
+taxongroup	Bla-8d51_173_kittiwake-31	Bla-8d51_173_Rissa-5	Bla-8d51_173_kittiwake-31_4693	173	Bla-8d51_173_Rissa-5_1088	173	0	kittiwake	Rissa	100.0
+taxongroup	Bla-8d51_53_kittiwake-14	Bla-8d51_53_Rissa-9	Bla-8d51_53_kittiwake-14_4693	53	Bla-8d51_53_Rissa-9_1088	53	0	kittiwake	Rissa	100.0
+taxongroup	Bla-8d51_44_kittiwake-5	Bla-8d51_44_Rissa-13	Bla-8d51_44_kittiwake-5_4693	44	Bla-8d51_44_Rissa-13_1088	44	0	kittiwake	Rissa	100.0
+taxongroup	Bla-8d51_2_kittiwake-5	Bla-8d51_2_Rissa-7	Bla-8d51_2_kittiwake-5_4693	2	Bla-8d51_2_Rissa-7_1088	2	0	kittiwake	Rissa	100.0
+taxongroup	Bla-8d51_173_kittiwake-15	Bla-8d51_173_Rissa-17	Bla-8d51_173_kittiwake-15_4693	173	Bla-8d51_173_Rissa-17_1088	173	0	kittiwake	Rissa	100.0
+taxongroup	Bla-8d51_173_kittiwake-15	Bla-8d51_173_Rissa-5	Bla-8d51_173_kittiwake-15_4693	173	Bla-8d51_173_Rissa-5_1088	173	0	kittiwake	Rissa	100.0
+taxongroup	Bla-8d51_173_kittiwake-31	Bla-8d51_173_Rissa-17	Bla-8d51_173_kittiwake-31_4693	173	Bla-8d51_173_Rissa-17_1088	173	0	kittiwake	Rissa	100.0
+taxongroup	Bla-8d51_13_kittiwakes-8	Bla-8d51_13_laridae-5	Bla-8d51_13_kittiwakes-8_4693	13	Bla-8d51_13_laridae-5_4121	13	0	kittiwake	laridae	100.0
+taxongroup	Red-d827_97_knot-17	Red-d827_97_animal-11	Red-d827_97_knot-17_5402	97	Red-d827_97_animal-11_44	97	0	knot	Animals	100.0
+taxongroup	Red34d8_3_knots-6	Red34d8_3_birds-24	Red34d8_3_knots-6_5402	3	Red34d8_3_birds-24_381	3	0	knot	Birds	100.0
+taxongroup	Red-d827_20_knot-3	Red-d827_20_bird-12	Red-d827_20_knot-3_5402	20	Red-d827_20_bird-12_381	20	0	knot	Birds	100.0
+taxongroup	Red-d827_139_knot-10	Red-d827_139_birds-22	Red-d827_139_knot-10_5402	139	Red-d827_139_birds-22_381	139	0	knot	Birds	100.0
+taxongroup	Red-d827_159_knots-13	Red-d827_159_shorebirds-16	Red-d827_159_knots-13_5402	159	Red-d827_159_shorebirds-16_4767	159	0	knot	shorebirds	100.0
+taxongroup	Red-d827_98_knots-2	Red-d827_98_shorebirds-11	Red-d827_98_knots-2_5402	98	Red-d827_98_shorebirds-11_4767	98	0	knot	shorebirds	100.0
+taxongroup	Red-d827_2_knot-3	Red-d827_2_shorebird-15	Red-d827_2_knot-3_5402	2	Red-d827_2_shorebird-15_4767	2	0	knot	shorebirds	100.0
+taxongroup	Com-c2c9_2_guillemot-12	Com-c2c9_2_auk-21	Com-c2c9_2_guillemot-12_4497	2	Com-c2c9_2_auk-21_4045	2	0	guillemots	auks	100.0
+taxongroup	Eur-35e8_6_gull-3	Eur-35e8_6_gull-3	Eur-35e8_6_gull-3_2527	6	Eur-35e8_6_gull-3_4363	6	0	Herring gull	gulls	100.0
+taxongroup	Kit-1cd4_18_Kittiwakes-1	Kit-1cd4_18_birds-5	Kit-1cd4_18_Kittiwakes-1_1706	18	Kit-1cd4_18_birds-5_381	18	0	Kittiwake	Birds	100.0
+taxongroup	Bla-8d51_131_Kittiwake-9	Bla-8d51_131_bird-16	Bla-8d51_131_Kittiwake-9_1706	131	Bla-8d51_131_bird-16_381	131	0	Kittiwake	Birds	100.0
+taxongroup	Bla-8d51_91_Kittiwakes-1	Bla-8d51_91_birds-6	Bla-8d51_91_Kittiwakes-1_1706	91	Bla-8d51_91_birds-6_381	91	0	Kittiwake	Birds	100.0
+taxongroup	Red-d827_153_Knot-4	Red-d827_153_Birds-14	Red-d827_153_Knot-4_3193	153	Red-d827_153_Birds-14_381	153	0	Knot	Birds	100.0
+taxongroup	Red-d827_159_Knot-18	Red-d827_159_shorebirds-16	Red-d827_159_Knot-18_3193	159	Red-d827_159_shorebirds-16_4767	159	0	Knot	shorebirds	100.0
+taxongroup	Lap-54e3_2_Lapwings-1	Lap-54e3_2_birds-13	Lap-54e3_2_Lapwings-1_196	2	Lap-54e3_2_birds-13_381	2	0	Lapwing	Birds	100.0
+taxongroup	Skif7b3_10_Larus-16	Skif7b3_10_birds-32	Skif7b3_10_Larus-16_1097	10	Skif7b3_10_birds-32_381	10	0	Larus	Birds	100.0
+taxongroup	Her-b7fc_2_Larus-13	Her-b7fc_2_birds-9	Her-b7fc_2_Larus-13_1097	2	Her-b7fc_2_birds-9_381	2	0	Larus	Birds	100.0
+taxongroup	Skif7b3_10_Larus-16	Skif7b3_10_shorebirds-6	Skif7b3_10_Larus-16_1097	10	Skif7b3_10_shorebirds-6_4767	10	0	Larus	shorebirds	100.0
+taxongroup	Les-bc96_47_gulls-13	Les-bc96_47_Larus-23	Les-bc96_47_gulls-13_2705	47	Les-bc96_47_Larus-23_1097	47	0	Lesser black-backed gull	Larus	100.0
+taxongroup	Les-bc96_47_gulls-13	Les-bc96_47_Larus-20	Les-bc96_47_gulls-13_2705	47	Les-bc96_47_Larus-20_1097	47	0	Lesser black-backed gull	Larus	100.0
+taxongroup	Les-bc96_47_gull-5	Les-bc96_47_Larus-23	Les-bc96_47_gull-5_2705	47	Les-bc96_47_Larus-23_1097	47	0	Lesser black-backed gull	Larus	100.0
+taxongroup	Les-bc96_47_gulls-13	Les-bc96_47_gulls-13	Les-bc96_47_gulls-13_2705	47	Les-bc96_47_gulls-13_4363	47	0	Lesser black-backed gull	gulls	100.0
+taxongroup	Cha-8593_2_Charadrius-1	Cha-8593_2_birds-12	Cha-8593_2_Charadrius-1_971	2	Cha-8593_2_birds-12_3995	2	0	Charadrius	birds	100.0
+taxongroup	Com-8f07_45_Charadrius-36	Com-8f07_45_Birds-28	Com-8f07_45_Charadrius-36_971	45	Com-8f07_45_Birds-28_381	45	0	Charadrius	Birds	100.0
+taxongroup	Com-8f07_45_Charadrius-33	Com-8f07_45_Birds-28	Com-8f07_45_Charadrius-33_971	45	Com-8f07_45_Birds-28_381	45	0	Charadrius	Birds	100.0
+taxongroup	Com-8f07_3_Charadrius-4	Com-8f07_3_bird-13	Com-8f07_3_Charadrius-4_971	3	Com-8f07_3_bird-13_381	3	0	Charadrius	Birds	100.0
+taxongroup	Cha-8593_3_Charadrius-4	Cha-8593_3_bird-13	Cha-8593_3_Charadrius-4_971	3	Cha-8593_3_bird-13_381	3	0	Charadrius	Birds	100.0
+taxongroup	Cha-662a_2_Charadrius-5	Cha-662a_2_birds-23	Cha-662a_2_Charadrius-5_971	2	Cha-662a_2_birds-23_381	2	0	Charadrius	Birds	100.0
+taxongroup	Cha-662a_2_Charadrius-5	Cha-662a_2_Charadriidae-12	Cha-662a_2_Charadrius-5_971	2	Cha-662a_2_Charadriidae-12_524	2	0	Charadrius	Charadriidae	100.0
+taxongroup	Cha-8593_19_Charadrius-18	Cha-8593_19_Charadriidae-7	Cha-8593_19_Charadrius-18_971	19	Cha-8593_19_Charadriidae-7_524	19	0	Charadrius	Charadriidae	100.0
+taxongroup	Cha-662a_2_Charadrius-5	Cha-662a_2_Charadriiformes-1	Cha-662a_2_Charadrius-5_971	2	Cha-662a_2_Charadriiformes-1_1861	2	0	Charadrius	Charadriiformes	100.0
+taxongroup	Lit-ab57_3_Charadrius-4	Lit-ab57_3_bird-13	Lit-ab57_3_Charadrius-4_971	3	Lit-ab57_3_bird-13_3995	3	0	Charadrius	birds	100.0
+taxongroup	Whi-b4c3_391_Charadrius-42	Whi-b4c3_391_shorebirds-2	Whi-b4c3_391_Charadrius-42_971	391	Whi-b4c3_391_shorebirds-2_4767	391	0	Charadrius	shorebirds	100.0
+taxongroup	Eur-35e8_109_gulls-11	Eur-35e8_109_gulls-11	Eur-35e8_109_gulls-11_2427	109	Eur-35e8_109_gulls-11_4363	109	0	Great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_133_gull-5	Gre-0f9b_133_gull-5	Gre-0f9b_133_gull-5_2427	133	Gre-0f9b_133_gull-5_4363	133	0	Great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_114_gull-12	Gre-0f9b_114_gull-12	Gre-0f9b_114_gull-12_2427	114	Gre-0f9b_114_gull-12_4363	114	0	Great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_92_gull-5	Gre-0f9b_92_gull-5	Gre-0f9b_92_gull-5_2427	92	Gre-0f9b_92_gull-5_4363	92	0	Great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_152_gull-5	Gre-0f9b_152_gull-5	Gre-0f9b_152_gull-5_2427	152	Gre-0f9b_152_gull-5_4363	152	0	Great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_118_gulls-40	Gre-0f9b_118_gulls-40	Gre-0f9b_118_gulls-40_2427	118	Gre-0f9b_118_gulls-40_4363	118	0	Great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_112_gull-5	Gre-0f9b_112_gull-5	Gre-0f9b_112_gull-5_2427	112	Gre-0f9b_112_gull-5_4363	112	0	Great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_1_gull-5	Gre-0f9b_1_gull-5	Gre-0f9b_1_gull-5_2427	1	Gre-0f9b_1_gull-5_4363	1	0	Great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_6_gull-5	Gre-0f9b_6_gull-5	Gre-0f9b_6_gull-5_2427	6	Gre-0f9b_6_gull-5_4363	6	0	Great black-backed gull	gulls	100.0
+taxongroup	Cha-25f8_40_Charadriidae-9	Cha-25f8_40_shorebirds-13	Cha-25f8_40_Charadriidae-9_524	40	Cha-25f8_40_shorebirds-13_4767	40	0	Charadriidae	shorebirds	100.0
+taxongroup	Cha-662a_2_Charadriidae-12	Cha-662a_2_birds-23	Cha-662a_2_Charadriidae-12_524	2	Cha-662a_2_birds-23_3995	2	0	Charadriidae	birds	100.0
+taxongroup	Cha-25f8_40_Charadriidae-9	Cha-25f8_40_Bird-6	Cha-25f8_40_Charadriidae-9_524	40	Cha-25f8_40_Bird-6_3995	40	0	Charadriidae	birds	100.0
+taxongroup	Thi-b492_2_Alcidae-22	Thi-b492_2_bird-16	Thi-b492_2_Alcidae-22_477	2	Thi-b492_2_bird-16_381	2	0	Alcidae	Birds	100.0
+taxongroup	Arc-b4f2_106_terns-5	Arc-b4f2_106_animals-14	Arc-b4f2_106_terns-5_1557	106	Arc-b4f2_106_animals-14_44	106	0	Arctic tern	Animals	100.0
+taxongroup	Arc93ca_16_terns-2	Arc93ca_16_bird-12	Arc93ca_16_terns-2_1557	16	Arc93ca_16_bird-12_381	16	0	Arctic tern	Birds	100.0
+taxongroup	Ani-ab87_60_tern-3	Ani-ab87_60_bird-11	Ani-ab87_60_tern-3_1557	60	Ani-ab87_60_bird-11_381	60	0	Arctic tern	Birds	100.0
+taxongroup	Arc-b4f2_30_tern-16	Arc-b4f2_30_bird-5	Arc-b4f2_30_tern-16_1557	30	Arc-b4f2_30_bird-5_381	30	0	Arctic tern	Birds	100.0
+taxongroup	Arc-b4f2_14_terns-2	Arc-b4f2_14_birds-7	Arc-b4f2_14_terns-2_1557	14	Arc-b4f2_14_birds-7_381	14	0	Arctic tern	Birds	100.0
+taxongroup	Arc-b4f2_8_terns-2	Arc-b4f2_8_birds-6	Arc-b4f2_8_terns-2_1557	8	Arc-b4f2_8_birds-6_381	8	0	Arctic tern	Birds	100.0
+taxongroup	Arc-b4f2_93_terns-2	Arc-b4f2_93_birds-7	Arc-b4f2_93_terns-2_1557	93	Arc-b4f2_93_birds-7_381	93	0	Arctic tern	Birds	100.0
+taxongroup	Arc-b4f2_43_tern-3	Arc-b4f2_43_bird-8	Arc-b4f2_43_tern-3_1557	43	Arc-b4f2_43_bird-8_381	43	0	Arctic tern	Birds	100.0
+taxongroup	Arc-b4f2_60_tern-6	Arc-b4f2_60_Sterna-17	Arc-b4f2_60_tern-6_1557	60	Arc-b4f2_60_Sterna-17_1290	60	0	Arctic tern	Sterna	100.0
+taxongroup	Arc-b4f2_60_tern-6	Arc-b4f2_60_Sterna-14	Arc-b4f2_60_tern-6_1557	60	Arc-b4f2_60_Sterna-14_1290	60	0	Arctic tern	Sterna	100.0
+taxongroup	Auk-a4a3_62_Auk-12	Auk-a4a3_62_Aves-14	Auk-a4a3_62_Auk-12_478	62	Auk-a4a3_62_Aves-14_380	62	0	Auks	Aves	100.0
+taxongroup	Cha-25f8_2_Charadriidae-4	Cha-25f8_2_bird-2	Cha-25f8_2_Charadriidae-4_524	2	Cha-25f8_2_bird-2_381	2	0	Charadriidae	Birds	100.0
+taxongroup	Cha-662a_2_Charadriidae-12	Cha-662a_2_Charadriiformes-1	Cha-662a_2_Charadriidae-12_524	2	Cha-662a_2_Charadriiformes-1_1861	2	0	Charadriidae	Charadriiformes	100.0
+taxongroup	Les-bc96_28_gulls-13	Les-bc96_28_gulls-13	Les-bc96_28_gulls-13_2427	28	Les-bc96_28_gulls-13_4363	28	0	Great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_18_gull-5	Gre-0f9b_18_gull-5	Gre-0f9b_18_gull-5_2427	18	Gre-0f9b_18_gull-5_4363	18	0	Great black-backed gull	gulls	100.0
+taxongroup	Thi-b492_95_Guillemot-14	Thi-b492_95_Guillemot-14	Thi-b492_95_Guillemot-14_1943	95	Thi-b492_95_Guillemot-14_1329	95	0	Guillemot	Guillemots	100.0
+taxongroup	Gui-7864_13_Guillemot-1	Gui-7864_13_Guillemot-1	Gui-7864_13_Guillemot-1_1943	13	Gui-7864_13_Guillemot-1_1329	13	0	Guillemot	Guillemots	100.0
+taxongroup	Gul-1ea1_73_Gulls-1	Gul-1ea1_73_birds-29	Gul-1ea1_73_Gulls-1_1098	73	Gul-1ea1_73_birds-29_381	73	0	Gulls	Birds	100.0
+taxongroup	Gul-1ea1_2_Gulls-1	Gul-1ea1_2_Laridae-12	Gul-1ea1_2_Gulls-1_1098	2	Gul-1ea1_2_Laridae-12_624	2	0	Gulls	Laridae	100.0
+taxongroup	Les-bc96_47_gull-5	Les-bc96_47_Larus-20	Les-bc96_47_gull-5_2705	47	Les-bc96_47_Larus-20_1097	47	0	Lesser black-backed gull	Larus	100.0
+taxongroup	Les-bc96_47_gulls-13	Les-bc96_47_gull-5	Les-bc96_47_gulls-13_2705	47	Les-bc96_47_gull-5_4363	47	0	Lesser black-backed gull	gulls	100.0
+taxongroup	Atl-79fc_27_guillemots-13	Atl-79fc_27_Alcidae-8	Atl-79fc_27_guillemots-13_4497	27	Atl-79fc_27_Alcidae-8_477	27	0	guillemots	Alcidae	100.0
+taxongroup	Lar-388a_12_gull-10	Lar-388a_12_gull-10	Lar-388a_12_gull-10_5043	12	Lar-388a_12_gull-10_4363	12	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_110_gulls-6	Gre-0f9b_110_gulls-40	Gre-0f9b_110_gulls-6_5043	110	Gre-0f9b_110_gulls-40_4363	110	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_58_gull-5	Gre-0f9b_58_gull-5	Gre-0f9b_58_gull-5_5043	58	Gre-0f9b_58_gull-5_4363	58	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_110_gulls-6	Gre-0f9b_110_gulls-6	Gre-0f9b_110_gulls-6_5043	110	Gre-0f9b_110_gulls-6_4363	110	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_24_gull-16	Gre-0f9b_24_gull-16	Gre-0f9b_24_gull-16_5043	24	Gre-0f9b_24_gull-16_4363	24	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_2_gull-6	Gre-0f9b_2_gull-6	Gre-0f9b_2_gull-6_5043	2	Gre-0f9b_2_gull-6_4363	2	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_127_gull-28	Gre-0f9b_127_gull-28	Gre-0f9b_127_gull-28_5043	127	Gre-0f9b_127_gull-28_4363	127	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_110_gulls-40	Gre-0f9b_110_gulls-40	Gre-0f9b_110_gulls-40_5043	110	Gre-0f9b_110_gulls-40_4363	110	0	great black-backed gull	gulls	100.0
+taxongroup	Gul-1ea1_24_gull-33	Gul-1ea1_24_gull-8	Gul-1ea1_24_gull-33_5043	24	Gul-1ea1_24_gull-8_4363	24	0	great black-backed gull	gulls	100.0
+taxongroup	Gul-1ea1_24_gull-8	Gul-1ea1_24_gull-8	Gul-1ea1_24_gull-8_5043	24	Gul-1ea1_24_gull-8_4363	24	0	great black-backed gull	gulls	100.0
+taxongroup	Gul-1ea1_24_gull-33	Gul-1ea1_24_gull-33	Gul-1ea1_24_gull-33_5043	24	Gul-1ea1_24_gull-33_4363	24	0	great black-backed gull	gulls	100.0
+taxongroup	Gul-1ea1_24_gull-8	Gul-1ea1_24_gull-33	Gul-1ea1_24_gull-8_5043	24	Gul-1ea1_24_gull-33_4363	24	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_160_gull-19	Gre-0f9b_160_gull-19	Gre-0f9b_160_gull-19_5043	160	Gre-0f9b_160_gull-19_4363	160	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_5_gull-7	Gre-0f9b_5_gull-7	Gre-0f9b_5_gull-7_5043	5	Gre-0f9b_5_gull-7_4363	5	0	great black-backed gull	gulls	100.0
+taxongroup	Lar307d_14_gull-16	Lar307d_14_gull-16	Lar307d_14_gull-16_5043	14	Lar307d_14_gull-16_4363	14	0	great black-backed gull	gulls	100.0
+taxongroup	Com-8f07_15_plover-4	Com-8f07_15_plover-4	Com-8f07_15_plover-4_3842	15	Com-8f07_15_plover-4_4286	15	0	common ringed plover	ringed plovers	100.0
+taxongroup	Lar307d_14_gull-9	Lar307d_14_gull-16	Lar307d_14_gull-9_5043	14	Lar307d_14_gull-16_4363	14	0	great black-backed gull	gulls	100.0
+taxongroup	Lar307d_14_gull-9	Lar307d_14_gull-9	Lar307d_14_gull-9_5043	14	Lar307d_14_gull-9_4363	14	0	great black-backed gull	gulls	100.0
+taxongroup	Sno-0a8f_155_gull-25	Sno-0a8f_155_gull-25	Sno-0a8f_155_gull-25_5043	155	Sno-0a8f_155_gull-25_4363	155	0	great black-backed gull	gulls	100.0
+taxongroup	Lar307d_14_gull-16	Lar307d_14_gull-9	Lar307d_14_gull-16_5043	14	Lar307d_14_gull-9_4363	14	0	great black-backed gull	gulls	100.0
+taxongroup	Nor-4d51_286_gull-12	Nor-4d51_286_gull-12	Nor-4d51_286_gull-12_5043	286	Nor-4d51_286_gull-12_4363	286	0	great black-backed gull	gulls	100.0
+taxongroup	Nor-4d51_286_gull-16	Nor-4d51_286_gull-16	Nor-4d51_286_gull-16_5043	286	Nor-4d51_286_gull-16_4363	286	0	great black-backed gull	gulls	100.0
+taxongroup	Nor-4d51_286_gull-16	Nor-4d51_286_gull-12	Nor-4d51_286_gull-16_5043	286	Nor-4d51_286_gull-12_4363	286	0	great black-backed gull	gulls	100.0
+taxongroup	Nor-4d51_286_gull-12	Nor-4d51_286_gull-16	Nor-4d51_286_gull-12_5043	286	Nor-4d51_286_gull-16_4363	286	0	great black-backed gull	gulls	100.0
+taxongroup	Les-bc96_24_gull-10	Les-bc96_24_gull-10	Les-bc96_24_gull-10_5043	24	Les-bc96_24_gull-10_4363	24	0	great black-backed gull	gulls	100.0
+taxongroup	Man-c4c9_98_gull-27	Man-c4c9_98_gull-27	Man-c4c9_98_gull-27_5043	98	Man-c4c9_98_gull-27_4363	98	0	great black-backed gull	gulls	100.0
+taxongroup	Man-c4c9_98_gull-27	Man-c4c9_98_gulls-18	Man-c4c9_98_gull-27_5043	98	Man-c4c9_98_gulls-18_4363	98	0	great black-backed gull	gulls	100.0
+taxongroup	Man-c4c9_98_gulls-18	Man-c4c9_98_gulls-18	Man-c4c9_98_gulls-18_5043	98	Man-c4c9_98_gulls-18_4363	98	0	great black-backed gull	gulls	100.0
+taxongroup	Man-c4c9_98_gulls-18	Man-c4c9_98_gull-27	Man-c4c9_98_gulls-18_5043	98	Man-c4c9_98_gull-27_4363	98	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_63_gulls-40	Gre-0f9b_63_gulls-21	Gre-0f9b_63_gulls-40_5043	63	Gre-0f9b_63_gulls-21_4363	63	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_132_gull-5	Gre-0f9b_132_gull-5	Gre-0f9b_132_gull-5_5043	132	Gre-0f9b_132_gull-5_4363	132	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_76_gulls-23	Gre-0f9b_76_gulls-23	Gre-0f9b_76_gulls-23_5043	76	Gre-0f9b_76_gulls-23_4363	76	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_63_gulls-21	Gre-0f9b_63_gulls-40	Gre-0f9b_63_gulls-21_5043	63	Gre-0f9b_63_gulls-40_4363	63	0	great black-backed gull	gulls	100.0
+taxongroup	Atl-79fc_229_gull-35	Atl-79fc_229_bird-57	Atl-79fc_229_gull-35_5043	229	Atl-79fc_229_bird-57_381	229	0	great black-backed gull	Birds	100.0
+taxongroup	Atl-79fc_229_gull-35	Atl-79fc_229_birds-7	Atl-79fc_229_gull-35_5043	229	Atl-79fc_229_birds-7_381	229	0	great black-backed gull	Birds	100.0
+taxongroup	Gre-0f9b_24_gull-5	Gre-0f9b_24_gull-16	Gre-0f9b_24_gull-5_5043	24	Gre-0f9b_24_gull-16_4363	24	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_65_gulls-8	Gre-0f9b_65_gulls-8	Gre-0f9b_65_gulls-8_5043	65	Gre-0f9b_65_gulls-8_4363	65	0	great black-backed gull	gulls	100.0
+taxongroup	Atl-79fc_229_gull-35	Atl-79fc_229_gull-35	Atl-79fc_229_gull-35_5043	229	Atl-79fc_229_gull-35_4363	229	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_110_gulls-40	Gre-0f9b_110_gulls-6	Gre-0f9b_110_gulls-40_5043	110	Gre-0f9b_110_gulls-6_4363	110	0	great black-backed gull	gulls	100.0
+taxongroup	Greb693_8_gull-6	Greb693_8_gull-6	Greb693_8_gull-6_5043	8	Greb693_8_gull-6_4363	8	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_57_gull-10	Gre-0f9b_57_gull-10	Gre-0f9b_57_gull-10_5043	57	Gre-0f9b_57_gull-10_4363	57	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_52_gull-6	Gre-0f9b_52_gull-6	Gre-0f9b_52_gull-6_5043	52	Gre-0f9b_52_gull-6_4363	52	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_24_gull-16	Gre-0f9b_24_gull-5	Gre-0f9b_24_gull-16_5043	24	Gre-0f9b_24_gull-5_4363	24	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_134_gull-5	Gre-0f9b_134_gull-5	Gre-0f9b_134_gull-5_5043	134	Gre-0f9b_134_gull-5_4363	134	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_126_gull-8	Gre-0f9b_126_gull-8	Gre-0f9b_126_gull-8_5043	126	Gre-0f9b_126_gull-8_4363	126	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_77_gulls-12	Gre-0f9b_77_gulls-12	Gre-0f9b_77_gulls-12_5043	77	Gre-0f9b_77_gulls-12_4363	77	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_63_gulls-21	Gre-0f9b_63_gulls-21	Gre-0f9b_63_gulls-21_5043	63	Gre-0f9b_63_gulls-21_4363	63	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_125_gull-5	Gre-0f9b_125_gull-5	Gre-0f9b_125_gull-5_5043	125	Gre-0f9b_125_gull-5_4363	125	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_63_gulls-40	Gre-0f9b_63_gulls-40	Gre-0f9b_63_gulls-40_5043	63	Gre-0f9b_63_gulls-40_4363	63	0	great black-backed gull	gulls	100.0
+taxongroup	Gre-0f9b_24_gull-5	Gre-0f9b_24_gull-5	Gre-0f9b_24_gull-5_5043	24	Gre-0f9b_24_gull-5_4363	24	0	great black-backed gull	gulls	100.0
+taxongroup	Thi-b492_20_guillemots-100	Thi-b492_20_guillemots-100	Thi-b492_20_guillemots-100_4809	20	Thi-b492_20_guillemots-100_4497	20	0	guillemot	guillemots	100.0
+taxongroup	Thi-b492_7_guillemot-4	Thi-b492_7_guillemot-4	Thi-b492_7_guillemot-4_4809	7	Thi-b492_7_guillemot-4_4497	7	0	guillemot	guillemots	100.0
+taxongroup	Thi-b492_130_guillemot-18	Thi-b492_130_guillemot-18	Thi-b492_130_guillemot-18_4809	130	Thi-b492_130_guillemot-18_4497	130	0	guillemot	guillemots	100.0
+taxongroup	Thi-b492_2_guillemot-9	Thi-b492_2_guillemot-9	Thi-b492_2_guillemot-9_4809	2	Thi-b492_2_guillemot-9_4497	2	0	guillemot	guillemots	100.0
+taxongroup	Thi0a82_8_guillemots-10	Thi0a82_8_guillemots-17	Thi0a82_8_guillemots-10_4809	8	Thi0a82_8_guillemots-17_4497	8	0	guillemot	guillemots	100.0
+taxongroup	Thi0a82_7_guillemots-10	Thi0a82_7_guillemots-10	Thi0a82_7_guillemots-10_4809	7	Thi0a82_7_guillemots-10_4497	7	0	guillemot	guillemots	100.0
+taxongroup	Thi0a82_4_guillemots-4	Thi0a82_4_guillemots-4	Thi0a82_4_guillemots-4_4809	4	Thi0a82_4_guillemots-4_4497	4	0	guillemot	guillemots	100.0
+taxongroup	Thi-b492_84_guillemot-3	Thi-b492_84_guillemot-3	Thi-b492_84_guillemot-3_4809	84	Thi-b492_84_guillemot-3_4497	84	0	guillemot	guillemots	100.0
+taxongroup	Thi0a82_8_guillemots-17	Thi0a82_8_guillemots-17	Thi0a82_8_guillemots-17_4809	8	Thi0a82_8_guillemots-17_4497	8	0	guillemot	guillemots	100.0
+taxongroup	Thi0a82_10_guillemot-5	Thi0a82_10_guillemot-12	Thi0a82_10_guillemot-5_4809	10	Thi0a82_10_guillemot-12_4497	10	0	guillemot	guillemots	100.0
+taxongroup	Thi0a82_2_guillemot-10	Thi0a82_2_guillemot-10	Thi0a82_2_guillemot-10_4809	2	Thi0a82_2_guillemot-10_4497	2	0	guillemot	guillemots	100.0
+taxongroup	Thi0a82_10_guillemot-12	Thi0a82_10_guillemot-5	Thi0a82_10_guillemot-12_4809	10	Thi0a82_10_guillemot-5_4497	10	0	guillemot	guillemots	100.0
+taxongroup	Gui-7864_4_guillemots-18	Gui-7864_4_guillemots-18	Gui-7864_4_guillemots-18_4809	4	Gui-7864_4_guillemots-18_4497	4	0	guillemot	guillemots	100.0
+taxongroup	Gui-7864_22_guillemot-14	Gui-7864_22_guillemot-14	Gui-7864_22_guillemot-14_4809	22	Gui-7864_22_guillemot-14_4497	22	0	guillemot	guillemots	100.0
+taxongroup	Gui-7864_22_guillemot-14	Gui-7864_22_guillemot-9	Gui-7864_22_guillemot-14_4809	22	Gui-7864_22_guillemot-9_4497	22	0	guillemot	guillemots	100.0
+taxongroup	Gui-7864_16_guillemot-5	Gui-7864_16_guillemot-5	Gui-7864_16_guillemot-5_4809	16	Gui-7864_16_guillemot-5_4497	16	0	guillemot	guillemots	100.0
+taxongroup	Gui-7864_16_guillemot-5	Gui-7864_16_guillemot-16	Gui-7864_16_guillemot-5_4809	16	Gui-7864_16_guillemot-16_4497	16	0	guillemot	guillemots	100.0
+taxongroup	Gui-7864_22_guillemot-9	Gui-7864_22_guillemot-9	Gui-7864_22_guillemot-9_4809	22	Gui-7864_22_guillemot-9_4497	22	0	guillemot	guillemots	100.0
+taxongroup	Gui-7864_22_guillemot-9	Gui-7864_22_guillemot-2	Gui-7864_22_guillemot-9_4809	22	Gui-7864_22_guillemot-2_4497	22	0	guillemot	guillemots	100.0
+taxongroup	Gui-7864_22_guillemot-9	Gui-7864_22_guillemot-14	Gui-7864_22_guillemot-9_4809	22	Gui-7864_22_guillemot-14_4497	22	0	guillemot	guillemots	100.0
+taxongroup	Gui-7864_22_guillemot-2	Gui-7864_22_guillemot-9	Gui-7864_22_guillemot-2_4809	22	Gui-7864_22_guillemot-9_4497	22	0	guillemot	guillemots	100.0
+taxongroup	Gui-7864_22_guillemot-2	Gui-7864_22_guillemot-2	Gui-7864_22_guillemot-2_4809	22	Gui-7864_22_guillemot-2_4497	22	0	guillemot	guillemots	100.0
+taxongroup	Gui-7864_22_guillemot-2	Gui-7864_22_guillemot-14	Gui-7864_22_guillemot-2_4809	22	Gui-7864_22_guillemot-14_4497	22	0	guillemot	guillemots	100.0
+taxongroup	Gui-7864_16_guillemot-16	Gui-7864_16_guillemot-5	Gui-7864_16_guillemot-16_4809	16	Gui-7864_16_guillemot-5_4497	16	0	guillemot	guillemots	100.0
+taxongroup	Gui-7864_22_guillemot-14	Gui-7864_22_guillemot-2	Gui-7864_22_guillemot-14_4809	22	Gui-7864_22_guillemot-2_4497	22	0	guillemot	guillemots	100.0
+taxongroup	Gui-7864_16_guillemot-16	Gui-7864_16_guillemot-16	Gui-7864_16_guillemot-16_4809	16	Gui-7864_16_guillemot-16_4497	16	0	guillemot	guillemots	100.0
+taxongroup	Din-756f_423_guillemot-15	Din-756f_423_guillemot-15	Din-756f_423_guillemot-15_4809	423	Din-756f_423_guillemot-15_4497	423	0	guillemot	guillemots	100.0
+taxongroup	Atl-79fc_236_guillemot-3	Atl-79fc_236_uriae-6	Atl-79fc_236_guillemot-3_4809	236	Atl-79fc_236_uriae-6_4496	236	0	guillemot	uria	100.0
+taxongroup	Thi-b492_8_guillemot-17	Thi-b492_8_guillemot-17	Thi-b492_8_guillemot-17_4809	8	Thi-b492_8_guillemot-17_4497	8	0	guillemot	guillemots	100.0
+taxongroup	Thi-b492_12_guillemot-11	Thi-b492_12_guillemot-11	Thi-b492_12_guillemot-11_4809	12	Thi-b492_12_guillemot-11_4497	12	0	guillemot	guillemots	100.0
+taxongroup	Thi-b492_2_guillemot-9	Thi-b492_2_Alcidae-22	Thi-b492_2_guillemot-9_4809	2	Thi-b492_2_Alcidae-22_477	2	0	guillemot	Alcidae	100.0
+taxongroup	Thi0a82_10_guillemot-12	Thi0a82_10_guillemot-12	Thi0a82_10_guillemot-12_4809	10	Thi0a82_10_guillemot-12_4497	10	0	guillemot	guillemots	100.0
+taxongroup	Thi-b492_130_guillemot-18	Thi-b492_130_bird-14	Thi-b492_130_guillemot-18_4809	130	Thi-b492_130_bird-14_381	130	0	guillemot	Birds	100.0
+taxongroup	Thi-b492_2_guillemot-9	Thi-b492_2_bird-16	Thi-b492_2_guillemot-9_4809	2	Thi-b492_2_bird-16_381	2	0	guillemot	Birds	100.0
+taxongroup	Thi-b492_20_guillemots-100	Thi-b492_20_birds-70	Thi-b492_20_guillemots-100_4809	20	Thi-b492_20_birds-70_381	20	0	guillemot	Birds	100.0
+taxongroup	Thi0a82_4_guillemots-4	Thi0a82_4_birds-11	Thi0a82_4_guillemots-4_4809	4	Thi0a82_4_birds-11_381	4	0	guillemot	Birds	100.0
+taxongroup	Wal-8f46_149_guillemot-14	Wal-8f46_149_Uria-16	Wal-8f46_149_guillemot-14_4809	149	Wal-8f46_149_Uria-16_1328	149	0	guillemot	Uria	100.0
+taxongroup	Thi-b492_130_guillemot-18	Thi-b492_130_Uria-20	Thi-b492_130_guillemot-18_4809	130	Thi-b492_130_Uria-20_1328	130	0	guillemot	Uria	100.0
+taxongroup	Thi-b492_2_guillemot-9	Thi-b492_2_Uria-11	Thi-b492_2_guillemot-9_4809	2	Thi-b492_2_Uria-11_1328	2	0	guillemot	Uria	100.0
+taxongroup	Gui-7864_4_guillemots-18	Gui-7864_4_Uria-5	Gui-7864_4_guillemots-18_4809	4	Gui-7864_4_Uria-5_1328	4	0	guillemot	Uria	100.0
+taxongroup	Gui-7864_16_guillemot-5	Gui-7864_16_Uria-7	Gui-7864_16_guillemot-5_4809	16	Gui-7864_16_Uria-7_1328	16	0	guillemot	Uria	100.0
+taxongroup	Gui-7864_16_guillemot-16	Gui-7864_16_Uria-18	Gui-7864_16_guillemot-16_4809	16	Gui-7864_16_Uria-18_1328	16	0	guillemot	Uria	100.0
+taxongroup	Gui-7864_16_guillemot-5	Gui-7864_16_Uria-18	Gui-7864_16_guillemot-5_4809	16	Gui-7864_16_Uria-18_1328	16	0	guillemot	Uria	100.0
+taxongroup	Gui-7864_16_guillemot-16	Gui-7864_16_Uria-7	Gui-7864_16_guillemot-16_4809	16	Gui-7864_16_Uria-7_1328	16	0	guillemot	Uria	100.0
+taxongroup	Uri-6f48_24_guillemots-2	Uri-6f48_24_Uria-1	Uri-6f48_24_guillemots-2_4809	24	Uri-6f48_24_Uria-1_1328	24	0	guillemot	Uria	100.0
+taxongroup	Thi-b492_2_guillemot-9	Thi-b492_2_auk-19	Thi-b492_2_guillemot-9_4809	2	Thi-b492_2_auk-19_4045	2	0	guillemot	auks	100.0
+taxongroup	Atl-79fc_236_guillemot-3	Atl-79fc_236_guillemot-3	Atl-79fc_236_guillemot-3_4809	236	Atl-79fc_236_guillemot-3_4497	236	0	guillemot	guillemots	100.0
+taxongroup	Wal-8f46_149_guillemot-14	Wal-8f46_149_guillemot-14	Wal-8f46_149_guillemot-14_4809	149	Wal-8f46_149_guillemot-14_4497	149	0	guillemot	guillemots	100.0
+taxongroup	Uri-6f48_24_guillemots-2	Uri-6f48_24_guillemots-2	Uri-6f48_24_guillemots-2_4809	24	Uri-6f48_24_guillemots-2_4497	24	0	guillemot	guillemots	100.0
+taxongroup	Uri170e_5_guillemot-14	Uri170e_5_guillemot-14	Uri170e_5_guillemot-14_4809	5	Uri170e_5_guillemot-14_4497	5	0	guillemot	guillemots	100.0
+taxongroup	Thi0a82_8_guillemots-10	Thi0a82_8_guillemots-10	Thi0a82_8_guillemots-10_4809	8	Thi0a82_8_guillemots-10_4497	8	0	guillemot	guillemots	100.0
+taxongroup	Thi0a82_8_guillemots-17	Thi0a82_8_guillemots-10	Thi0a82_8_guillemots-17_4809	8	Thi0a82_8_guillemots-10_4497	8	0	guillemot	guillemots	100.0
+taxongroup	Thi0a82_10_guillemot-5	Thi0a82_10_guillemot-5	Thi0a82_10_guillemot-5_4809	10	Thi0a82_10_guillemot-5_4497	10	0	guillemot	guillemots	100.0
+taxongroup	Com-8f07_1_plover-3	Com-8f07_1_plover-3	Com-8f07_1_plover-3_3842	1	Com-8f07_1_plover-3_4286	1	0	common ringed plover	ringed plovers	100.0
+taxongroup	Les-bc96_47_gull-5	Les-bc96_47_gulls-13	Les-bc96_47_gull-5_2705	47	Les-bc96_47_gulls-13_4363	47	0	Lesser black-backed gull	gulls	100.0
+taxongroup	Com-8f07_23_plover-3	Com-8f07_23_plover-3	Com-8f07_23_plover-3_3842	23	Com-8f07_23_plover-3_4286	23	0	common ringed plover	ringed plovers	100.0
+taxongroup	Auk-a4a3_11_auk-4	Auk-a4a3_11_bird-26	Auk-a4a3_11_auk-4_4045	11	Auk-a4a3_11_bird-26_381	11	0	auks	Birds	100.0
+taxongroup	Auk-a4a3_57_auk-14	Auk-a4a3_57_bird-46	Auk-a4a3_57_auk-14_4045	57	Auk-a4a3_57_bird-46_381	57	0	auks	Birds	100.0
+taxongroup	Auk-a4a3_11_auk-28	Auk-a4a3_11_bird-26	Auk-a4a3_11_auk-28_4045	11	Auk-a4a3_11_bird-26_381	11	0	auks	Birds	100.0
+taxongroup	Bir-5aa1_118_auks-18	Bir-5aa1_118_birds-16	Bir-5aa1_118_auks-18_4045	118	Bir-5aa1_118_birds-16_381	118	0	auks	Birds	100.0
+taxongroup	Auk-a4a3_38_auks-5	Auk-a4a3_38_birds-33	Auk-a4a3_38_auks-5_4045	38	Auk-a4a3_38_birds-33_381	38	0	auks	Birds	100.0
+taxongroup	Auk-a4a3_2_auk-2	Auk-a4a3_2_bird-7	Auk-a4a3_2_auk-2_4045	2	Auk-a4a3_2_bird-7_381	2	0	auks	Birds	100.0
+taxongroup	Atl-79fc_284_auks-20	Atl-79fc_284_birds-3	Atl-79fc_284_auks-20_4045	284	Atl-79fc_284_birds-3_381	284	0	auks	Birds	100.0
+taxongroup	Aukb31c_7_auk-9	Aukb31c_7_birds-4	Aukb31c_7_auk-9_4045	7	Aukb31c_7_birds-4_381	7	0	auks	Birds	100.0
+taxongroup	Bir-ebe4_306_auks-27	Bir-ebe4_306_birds-24	Bir-ebe4_306_auks-27_4045	306	Bir-ebe4_306_birds-24_381	306	0	auks	Birds	100.0
+taxongroup	Pal-0383_58_auks-23	Pal-0383_58_bird-7	Pal-0383_58_auks-23_4045	58	Pal-0383_58_bird-7_381	58	0	auks	Birds	100.0
+taxongroup	Pen-9962_15_auk-24	Pen-9962_15_bird-34	Pen-9962_15_auk-24_4045	15	Pen-9962_15_bird-34_381	15	0	auks	Birds	100.0
+taxongroup	Auk-a4a3_69_Uria-55	Auk-a4a3_69_auk-67	Auk-a4a3_69_Uria-55_1328	69	Auk-a4a3_69_auk-67_4045	69	0	Uria	auks	100.0
+taxongroup	Auk-a4a3_69_Uria-43	Auk-a4a3_69_auks-33	Auk-a4a3_69_Uria-43_1328	69	Auk-a4a3_69_auks-33_4045	69	0	Uria	auks	100.0
+taxongroup	Auk-a4a3_69_Uria-36	Auk-a4a3_69_auks-33	Auk-a4a3_69_Uria-36_1328	69	Auk-a4a3_69_auks-33_4045	69	0	Uria	auks	100.0
+taxongroup	Les-bc96_47_gull-5	Les-bc96_47_gull-5	Les-bc96_47_gull-5_2705	47	Les-bc96_47_gull-5_4363	47	0	Lesser black-backed gull	gulls	100.0
+taxongroup	Chada27_1_Plovers-1	Chada27_1_shorebirds-10	Chada27_1_Plovers-1_525	1	Chada27_1_shorebirds-10_4767	1	0	Plovers and lapwings	shorebirds	100.0
+taxongroup	Puf-9e52_2_Puffins-1	Puf-9e52_2_bird-15	Puf-9e52_2_Puffins-1_1582	2	Puf-9e52_2_bird-15_381	2	0	Puffin	Birds	100.0
+taxongroup	Puf-9e52_2_Puffins-1	Puf-9e52_2_Fratercula-17	Puf-9e52_2_Puffins-1_1582	2	Puf-9e52_2_Fratercula-17_1228	2	0	Puffin	Fratercula	100.0
+taxongroup	Atl-79fc_229_Stercorarius-45	Atl-79fc_229_birds-7	Atl-79fc_229_Stercorarius-45_1279	229	Atl-79fc_229_birds-7_381	229	0	Stercorarius	Birds	100.0
+taxongroup	Atl-79fc_229_Stercorarius-45	Atl-79fc_229_bird-57	Atl-79fc_229_Stercorarius-45_1279	229	Atl-79fc_229_bird-57_381	229	0	Stercorarius	Birds	100.0
+taxongroup	Sno-0a8f_405_Stercorarius-33	Sno-0a8f_405_birds-60	Sno-0a8f_405_Stercorarius-33_1279	405	Sno-0a8f_405_birds-60_381	405	0	Stercorarius	Birds	100.0
+taxongroup	Sno-0a8f_405_Stercorarius-33	Sno-0a8f_405_bird-52	Sno-0a8f_405_Stercorarius-33_1279	405	Sno-0a8f_405_bird-52_381	405	0	Stercorarius	Birds	100.0
+taxongroup	Sku-9981_7_Stercorarius-4	Sku-9981_7_birds-19	Sku-9981_7_Stercorarius-4_1279	7	Sku-9981_7_birds-19_381	7	0	Stercorarius	Birds	100.0
+taxongroup	Par-ce5c_10_Stercorarius-4	Par-ce5c_10_birds-19	Par-ce5c_10_Stercorarius-4_1279	10	Par-ce5c_10_birds-19_381	10	0	Stercorarius	Birds	100.0
+taxongroup	Eur-bc75_319_Stercorarius-66	Eur-bc75_319_shorebirds-2	Eur-bc75_319_Stercorarius-66_1279	319	Eur-bc75_319_shorebirds-2_4767	319	0	Stercorarius	shorebirds	100.0
+taxongroup	Com-c2c9_2_Uria-15	Com-c2c9_2_auk-21	Com-c2c9_2_Uria-15_1328	2	Com-c2c9_2_auk-21_4045	2	0	Uria	auks	100.0
+taxongroup	Auk-a4a3_28_Uria-25	Auk-a4a3_28_auks-5	Auk-a4a3_28_Uria-25_1328	28	Auk-a4a3_28_auks-5_4045	28	0	Uria	auks	100.0
+taxongroup	Gui-7864_8_Uria-6	Gui-7864_8_auk-19	Gui-7864_8_Uria-6_1328	8	Gui-7864_8_auk-19_4045	8	0	Uria	auks	100.0
+taxongroup	Auk-a4a3_69_Uria-55	Auk-a4a3_69_auks-33	Auk-a4a3_69_Uria-55_1328	69	Auk-a4a3_69_auks-33_4045	69	0	Uria	auks	100.0
+taxongroup	Auk-a4a3_69_Uria-43	Auk-a4a3_69_auk-59	Auk-a4a3_69_Uria-43_1328	69	Auk-a4a3_69_auk-59_4045	69	0	Uria	auks	100.0
+taxongroup	Auk-a4a3_69_Uria-43	Auk-a4a3_69_auk-67	Auk-a4a3_69_Uria-43_1328	69	Auk-a4a3_69_auk-67_4045	69	0	Uria	auks	100.0
+taxongroup	Auk-a4a3_69_Uria-55	Auk-a4a3_69_auk-59	Auk-a4a3_69_Uria-55_1328	69	Auk-a4a3_69_auk-59_4045	69	0	Uria	auks	100.0
+taxongroup	Auk-a4a3_69_Uria-36	Auk-a4a3_69_auk-59	Auk-a4a3_69_Uria-36_1328	69	Auk-a4a3_69_auk-59_4045	69	0	Uria	auks	100.0
+taxongroup	Auk-a4a3_69_Uria-36	Auk-a4a3_69_auk-67	Auk-a4a3_69_Uria-36_1328	69	Auk-a4a3_69_auk-67_4045	69	0	Uria	auks	100.0
+taxongroup	Pen-9962_25_auk-24	Pen-9962_25_birds-2	Pen-9962_25_auk-24_4045	25	Pen-9962_25_birds-2_381	25	0	auks	Birds	100.0
+taxongroup	Pen-9962_180_auk-3	Pen-9962_180_bird-27	Pen-9962_180_auk-3_4045	180	Pen-9962_180_bird-27_381	180	0	auks	Birds	100.0
+taxongroup	Thi-b492_51_auks-4	Thi-b492_51_birds-7	Thi-b492_51_auks-4_4045	51	Thi-b492_51_birds-7_381	51	0	auks	Birds	100.0
+taxongroup	Pie-a5d9_13_avocet-8	Pie-a5d9_13_Recurvirostra-14	Pie-a5d9_13_avocet-8_5345	13	Pie-a5d9_13_Recurvirostra-14_916	13	0	avocet	Recurvirostra	100.0
+taxongroup	Rec-ce8e_3_avocets-10	Rec-ce8e_3_birds-7	Rec-ce8e_3_avocets-10_5345	3	Rec-ce8e_3_birds-7_3995	3	0	avocet	birds	100.0
+taxongroup	Avo-7fae_15_avocet-3	Avo-7fae_15_Birds-15	Avo-7fae_15_avocet-3_5345	15	Avo-7fae_15_Birds-15_3995	15	0	avocet	birds	100.0
+taxongroup	Rec-ce8e_7_avocets-4	Rec-ce8e_7_bird-18	Rec-ce8e_7_avocets-4_5345	7	Rec-ce8e_7_bird-18_3995	7	0	avocet	birds	100.0
+taxongroup	Pie-a5d9_8_avocet-3	Pie-a5d9_8_bird-9	Pie-a5d9_8_avocet-3_5345	8	Pie-a5d9_8_bird-9_3995	8	0	avocet	birds	100.0
+taxongroup	Pie-a5d9_26_avocets-32	Pie-a5d9_26_birds-2	Pie-a5d9_26_avocets-32_5345	26	Pie-a5d9_26_birds-2_3995	26	0	avocet	birds	100.0
+taxongroup	Pie-a5d9_41_avocet-16	Pie-a5d9_41_Birds-13	Pie-a5d9_41_avocet-16_5345	41	Pie-a5d9_41_Birds-13_3995	41	0	avocet	birds	100.0
+taxongroup	Com-8f07_50_plover-17	Com-8f07_50_Charadrius-5	Com-8f07_50_plover-17_3842	50	Com-8f07_50_Charadrius-5_971	50	0	common ringed plover	Charadrius	100.0
+taxongroup	Com-8f07_2_plover-7	Com-8f07_2_Charadrius-9	Com-8f07_2_plover-7_3842	2	Com-8f07_2_Charadrius-9_971	2	0	common ringed plover	Charadrius	100.0
+taxongroup	Com-8f07_2_plover-4	Com-8f07_2_Charadrius-9	Com-8f07_2_plover-4_3842	2	Com-8f07_2_Charadrius-9_971	2	0	common ringed plover	Charadrius	100.0
+taxongroup	Com-8f07_2_plover-15	Com-8f07_2_Charadrius-9	Com-8f07_2_plover-15_3842	2	Com-8f07_2_Charadrius-9_971	2	0	common ringed plover	Charadrius	100.0
+taxongroup	Lit-ab57_5_plover-27	Lit-ab57_5_plover-27	Lit-ab57_5_plover-27_3842	5	Lit-ab57_5_plover-27_4286	5	0	common ringed plover	ringed plovers	100.0
+taxongroup	Com-8f07_13_plover-3	Com-8f07_13_plover-3	Com-8f07_13_plover-3_3842	13	Com-8f07_13_plover-3_4286	13	0	common ringed plover	ringed plovers	100.0
+taxongroup	Com-8f07_50_plover-17	Com-8f07_50_plover-17	Com-8f07_50_plover-17_3842	50	Com-8f07_50_plover-17_4286	50	0	common ringed plover	ringed plovers	100.0
+taxongroup	Com-8f07_43_plover-3	Com-8f07_43_plover-3	Com-8f07_43_plover-3_3842	43	Com-8f07_43_plover-3_4286	43	0	common ringed plover	ringed plovers	100.0
+taxongroup	Com-8f07_41_plover-3	Com-8f07_41_plover-3	Com-8f07_41_plover-3_3842	41	Com-8f07_41_plover-3_4286	41	0	common ringed plover	ringed plovers	100.0
+taxongroup	Com-8f07_39_plover-3	Com-8f07_39_plover-3	Com-8f07_39_plover-3_3842	39	Com-8f07_39_plover-3_4286	39	0	common ringed plover	ringed plovers	100.0
+taxongroup	Com-8f07_2_plover-7	Com-8f07_2_plover-7	Com-8f07_2_plover-7_3842	2	Com-8f07_2_plover-7_4286	2	0	common ringed plover	ringed plovers	100.0
+taxongroup	Com-8f07_2_plover-4	Com-8f07_2_plover-7	Com-8f07_2_plover-4_3842	2	Com-8f07_2_plover-7_4286	2	0	common ringed plover	ringed plovers	100.0
+taxongroup	Com-8f07_2_plover-7	Com-8f07_2_plover-4	Com-8f07_2_plover-7_3842	2	Com-8f07_2_plover-4_4286	2	0	common ringed plover	ringed plovers	100.0
+taxongroup	Com-8f07_2_plover-7	Com-8f07_2_plover-15	Com-8f07_2_plover-7_3842	2	Com-8f07_2_plover-15_4286	2	0	common ringed plover	ringed plovers	100.0
+taxongroup	Com-8f07_2_plover-4	Com-8f07_2_plover-4	Com-8f07_2_plover-4_3842	2	Com-8f07_2_plover-4_4286	2	0	common ringed plover	ringed plovers	100.0
+taxongroup	Com-8f07_2_plover-15	Com-8f07_2_plover-7	Com-8f07_2_plover-15_3842	2	Com-8f07_2_plover-7_4286	2	0	common ringed plover	ringed plovers	100.0
+taxongroup	Com-8f07_2_plover-15	Com-8f07_2_plover-4	Com-8f07_2_plover-15_3842	2	Com-8f07_2_plover-4_4286	2	0	common ringed plover	ringed plovers	100.0
+taxongroup	Com-8f07_2_plover-15	Com-8f07_2_plover-15	Com-8f07_2_plover-15_3842	2	Com-8f07_2_plover-15_4286	2	0	common ringed plover	ringed plovers	100.0
+taxongroup	Com-8f07_27_plover-3	Com-8f07_27_plover-3	Com-8f07_27_plover-3_3842	27	Com-8f07_27_plover-3_4286	27	0	common ringed plover	ringed plovers	100.0
+taxongroup	Pie-a5d9_8_avocet-3	Pie-a5d9_8_Recurvirostra-34	Pie-a5d9_8_avocet-3_5345	8	Pie-a5d9_8_Recurvirostra-34_916	8	0	avocet	Recurvirostra	100.0
+taxongroup	Pie-a5d9_44_avocet-16	Pie-a5d9_44_Recurvirostra-5	Pie-a5d9_44_avocet-16_5345	44	Pie-a5d9_44_Recurvirostra-5_916	44	0	avocet	Recurvirostra	100.0
+taxongroup	Thi-b492_56_auks-17	Thi-b492_56_birds-10	Thi-b492_56_auks-17_4045	56	Thi-b492_56_birds-10_381	56	0	auks	Birds	100.0
+taxongroup	Pie-a5d9_43_avocet-8	Pie-a5d9_43_Recurvirostra-5	Pie-a5d9_43_avocet-8_5345	43	Pie-a5d9_43_Recurvirostra-5_916	43	0	avocet	Recurvirostra	100.0
+taxongroup	Thi-b492_2_auk-19	Thi-b492_2_bird-16	Thi-b492_2_auk-19_4045	2	Thi-b492_2_bird-16_381	2	0	auks	Birds	100.0
+taxongroup	Auk-a4a3_37_auks-4	Auk-a4a3_37_shorebird-62	Auk-a4a3_37_auks-4_4045	37	Auk-a4a3_37_shorebird-62_4767	37	0	auks	shorebirds	100.0
+taxongroup	Avo-7fae_17_avocet-29	Avo-7fae_17_Recurvirostra-31	Avo-7fae_17_avocet-29_5345	17	Avo-7fae_17_Recurvirostra-31_916	17	0	avocet	Recurvirostra	100.0
+taxongroup	Avo-7fae_2_avocets-5	Avo-7fae_2_Recurvirostra-10	Avo-7fae_2_avocets-5_5345	2	Avo-7fae_2_Recurvirostra-10_916	2	0	avocet	Recurvirostra	100.0
+taxongroup	Avo-7fae_17_avocet-29	Avo-7fae_17_Recurvirostra-3	Avo-7fae_17_avocet-29_5345	17	Avo-7fae_17_Recurvirostra-3_916	17	0	avocet	Recurvirostra	100.0

@@ -1,0 +1,952 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Art-6267_126_camels-24	Art-6267_126_deserts-29	Art-6267_126_camels-24_1623	126	Art-6267_126_deserts-29_34	126	0	Bactrian camel	Desert	100.0
+location	Art-6267_126_guanacos-32	Art-6267_126_mountain-44	Art-6267_126_guanacos-32_5071	126	Art-6267_126_mountain-44_4527	126	0	guanaco	mountains	100.0
+location	Mus-840b_32_deer-20	Mus-840b_32_tundra-11	Mus-840b_32_deer-20_5398	32	Mus-840b_32_tundra-11_4539	32	0	red deer	tundra	100.0
+location	Rei-38eb_22_reindeer-8	Rei-38eb_22_taiga-17	Rei-38eb_22_reindeer-8_5413	22	Rei-38eb_22_taiga-17_4534	22	0	reindeer	taiga	100.0
+location	Rei-38eb_378_reindeer-5	Rei-38eb_378_taiga-12	Rei-38eb_378_reindeer-5_5413	378	Rei-38eb_378_taiga-12_4534	378	0	reindeer	taiga	100.0
+location	Tai-3286_120_reindeer-30	Tai-3286_120_taiga-2	Tai-3286_120_reindeer-30_5413	120	Tai-3286_120_taiga-2_4534	120	0	reindeer	taiga	100.0
+location	Rei-38eb_144_reindeer-40	Rei-38eb_144_tundra-54	Rei-38eb_144_reindeer-40_5413	144	Rei-38eb_144_tundra-54_4539	144	0	reindeer	tundra	100.0
+location	Nom-aef8_8_reindeer-11	Nom-aef8_8_tundra-9	Nom-aef8_8_reindeer-11_5413	8	Nom-aef8_8_tundra-9_4539	8	0	reindeer	tundra	100.0
+location	Mus-840b_32_reindeer-13	Mus-840b_32_tundra-11	Mus-840b_32_reindeer-13_5413	32	Mus-840b_32_tundra-11_4539	32	0	reindeer	tundra	100.0
+location	Rei-38eb_78_reindeer-8	Rei-38eb_78_tundra-15	Rei-38eb_78_reindeer-8_5413	78	Rei-38eb_78_tundra-15_4539	78	0	reindeer	tundra	100.0
+location	Rei-38eb_480_Reindeer-1	Rei-38eb_480_tundra-19	Rei-38eb_480_Reindeer-1_3215	480	Rei-38eb_480_tundra-19_4539	480	0	Reindeer	tundra	100.0
+location	Rei-38eb_289_Reindeer-1	Rei-38eb_289_tundra-14	Rei-38eb_289_Reindeer-1_3215	289	Rei-38eb_289_tundra-14_4539	289	0	Reindeer	tundra	100.0
+location	Rei-38eb_144_reindeer-55	Rei-38eb_144_tundra-54	Rei-38eb_144_reindeer-55_5413	144	Rei-38eb_144_tundra-54_4539	144	0	reindeer	tundra	100.0
+location	Rei-38eb_168_reindeer-28	Rei-38eb_168_tundra-27	Rei-38eb_168_reindeer-28_5413	168	Rei-38eb_168_tundra-27_4539	168	0	reindeer	tundra	100.0
+location	Rei-38eb_145_reindeer-18	Rei-38eb_145_tundra-22	Rei-38eb_145_reindeer-18_5413	145	Rei-38eb_145_tundra-22_4539	145	0	reindeer	tundra	100.0
+location	Rei-38eb_74_reindeer-16	Rei-38eb_74_tundra-15	Rei-38eb_74_reindeer-16_5413	74	Rei-38eb_74_tundra-15_4539	74	0	reindeer	tundra	100.0
+location	Rei-38eb_168_reindeer-39	Rei-38eb_168_tundra-27	Rei-38eb_168_reindeer-39_5413	168	Rei-38eb_168_tundra-27_4539	168	0	reindeer	tundra	100.0
+location	Rei-38eb_145_reindeer-10	Rei-38eb_145_tundra-22	Rei-38eb_145_reindeer-10_5413	145	Rei-38eb_145_tundra-22_4539	145	0	reindeer	tundra	100.0
+location	Rei-38eb_144_reindeer-55	Rei-38eb_144_tundra-2	Rei-38eb_144_reindeer-55_5413	144	Rei-38eb_144_tundra-2_4539	144	0	reindeer	tundra	100.0
+location	Rei-38eb_144_reindeer-3	Rei-38eb_144_tundra-2	Rei-38eb_144_reindeer-3_5413	144	Rei-38eb_144_tundra-2_4539	144	0	reindeer	tundra	100.0
+location	Rei-38eb_101_reindeer-13	Rei-38eb_101_tundra-8	Rei-38eb_101_reindeer-13_5413	101	Rei-38eb_101_tundra-8_4539	101	0	reindeer	tundra	100.0
+location	Rei-38eb_378_reindeer-5	Rei-38eb_378_tundra-4	Rei-38eb_378_reindeer-5_5413	378	Rei-38eb_378_tundra-4_4539	378	0	reindeer	tundra	100.0
+location	Rei-38eb_378_reindeer-5	Rei-38eb_378_tundra-17	Rei-38eb_378_reindeer-5_5413	378	Rei-38eb_378_tundra-17_4539	378	0	reindeer	tundra	100.0
+location	Rei-38eb_144_reindeer-40	Rei-38eb_144_tundra-2	Rei-38eb_144_reindeer-40_5413	144	Rei-38eb_144_tundra-2_4539	144	0	reindeer	tundra	100.0
+location	Rei-38eb_570_reindeer-6	Rei-38eb_570_tundra-5	Rei-38eb_570_reindeer-6_5413	570	Rei-38eb_570_tundra-5_4539	570	0	reindeer	tundra	100.0
+location	Mus-840b_41_deer-51	Mus-840b_41_tundra-16	Mus-840b_41_deer-51_5398	41	Mus-840b_41_tundra-16_4539	41	0	red deer	tundra	100.0
+location	Pum-f726_49_guanaco-16	Pum-f726_49_mountain-18	Pum-f726_49_guanaco-16_5071	49	Pum-f726_49_mountain-18_4527	49	0	guanaco	mountains	100.0
+location	Rei-38eb_145_reindeer-23	Rei-38eb_145_tundra-22	Rei-38eb_145_reindeer-23_5413	145	Rei-38eb_145_tundra-22_4539	145	0	reindeer	tundra	100.0
+location	Cam-1690_117_camel-6	Cam-1690_117_deserts-26	Cam-1690_117_camel-6_4869	117	Cam-1690_117_deserts-26_3805	117	0	dromedary camel	desert	100.0
+location	Dro-9dd9_254_camels-2	Dro-9dd9_254_desert-9	Dro-9dd9_254_camels-2_4272	254	Dro-9dd9_254_desert-9_3805	254	0	camels	desert	100.0
+location	Mam-3742_280_camels-7	Mam-3742_280_desert-2	Mam-3742_280_camels-7_4272	280	Mam-3742_280_desert-2_3805	280	0	camels	desert	100.0
+location	Cam1e51_16_camels-10	Cam1e51_16_desert-15	Cam1e51_16_camels-10_4272	16	Cam1e51_16_desert-15_3805	16	0	camels	desert	100.0
+location	Dro-9dd9_249_camels-3	Dro-9dd9_249_desert-20	Dro-9dd9_249_camels-3_4272	249	Dro-9dd9_249_desert-20_3805	249	0	camels	desert	100.0
+location	Cam1e51_20_camels-3	Cam1e51_20_desert-9	Cam1e51_20_camels-3_4272	20	Cam1e51_20_desert-9_3805	20	0	camels	desert	100.0
+location	Bac-9099_52_camels-2	Bac-9099_52_desert-19	Bac-9099_52_camels-2_4272	52	Bac-9099_52_desert-19_3805	52	0	camels	desert	100.0
+location	Cam-1690_57_camels-7	Cam-1690_57_desert-19	Cam-1690_57_camels-7_4272	57	Cam-1690_57_desert-19_3805	57	0	camels	desert	100.0
+location	Cam-1690_4_Camels-1	Cam-1690_4_desert-9	Cam-1690_4_Camels-1_4272	4	Cam-1690_4_desert-9_3805	4	0	camels	desert	100.0
+location	Bac-9099_115_camels-10	Bac-9099_115_deserts-20	Bac-9099_115_camels-10_4272	115	Bac-9099_115_deserts-20_3805	115	0	camels	desert	100.0
+location	Cam-1690_49_Camels-1	Cam-1690_49_desert-15	Cam-1690_49_Camels-1_4272	49	Cam-1690_49_desert-15_3805	49	0	camels	desert	100.0
+location	Cam-1690_145_camels-6	Cam-1690_145_desert-73	Cam-1690_145_camels-6_4272	145	Cam-1690_145_desert-73_3805	145	0	camels	desert	100.0
+location	Rei-38eb_424_reindeer-3	Rei-38eb_424_tundra-31	Rei-38eb_424_reindeer-3_5413	424	Rei-38eb_424_tundra-31_4539	424	0	reindeer	tundra	100.0
+location	Rei-38eb_75_reindeer-7	Rei-38eb_75_tundra-6	Rei-38eb_75_reindeer-7_5413	75	Rei-38eb_75_tundra-6_4539	75	0	reindeer	tundra	100.0
+location	Tun-c63e_39_reindeer-20	Tun-c63e_39_tundra-6	Tun-c63e_39_reindeer-20_5413	39	Tun-c63e_39_tundra-6_4539	39	0	reindeer	tundra	100.0
+location	Rei-38eb_477_reindeer-24	Rei-38eb_477_tundra-7	Rei-38eb_477_reindeer-24_5413	477	Rei-38eb_477_tundra-7_4539	477	0	reindeer	tundra	100.0
+location	Cam-1690_117_Camelus-8	Cam-1690_117_deserts-26	Cam-1690_117_Camelus-8_951	117	Cam-1690_117_deserts-26_34	117	0	Camelus	Desert	100.0
+location	Rei-38eb_33_reindeer-8	Rei-38eb_33_tundra-7	Rei-38eb_33_reindeer-8_5413	33	Rei-38eb_33_tundra-7_4539	33	0	reindeer	tundra	100.0
+location	Tun-c63e_17_reindeer-13	Tun-c63e_17_tundra-3	Tun-c63e_17_reindeer-13_5413	17	Tun-c63e_17_tundra-3_4539	17	0	reindeer	tundra	100.0
+location	Sno-0a8f_380_reindeer-22	Sno-0a8f_380_tundra-18	Sno-0a8f_380_reindeer-22_5413	380	Sno-0a8f_380_tundra-18_4539	380	0	reindeer	tundra	100.0
+location	Rei-38eb_551_reindeer-37	Rei-38eb_551_tundra-8	Rei-38eb_551_reindeer-37_5413	551	Rei-38eb_551_tundra-8_4539	551	0	reindeer	tundra	100.0
+location	Rei-38eb_22_reindeer-8	Rei-38eb_22_tundra-13	Rei-38eb_22_reindeer-8_5413	22	Rei-38eb_22_tundra-13_4539	22	0	reindeer	tundra	100.0
+location	Rei-38eb_166_reindeer-20	Rei-38eb_166_tundra-19	Rei-38eb_166_reindeer-20_5413	166	Rei-38eb_166_tundra-19_4539	166	0	reindeer	tundra	100.0
+location	Rei-38eb_148_reindeer-30	Rei-38eb_148_tundra-29	Rei-38eb_148_reindeer-30_5413	148	Rei-38eb_148_tundra-29_4539	148	0	reindeer	tundra	100.0
+location	Rei-38eb_551_reindeer-9	Rei-38eb_551_tundra-8	Rei-38eb_551_reindeer-9_5413	551	Rei-38eb_551_tundra-8_4539	551	0	reindeer	tundra	100.0
+location	Rei-38eb_34_reindeer-12	Rei-38eb_34_tundra-6	Rei-38eb_34_reindeer-12_5413	34	Rei-38eb_34_tundra-6_4539	34	0	reindeer	tundra	100.0
+location	Rei-38eb_551_reindeer-24	Rei-38eb_551_tundra-8	Rei-38eb_551_reindeer-24_5413	551	Rei-38eb_551_tundra-8_4539	551	0	reindeer	tundra	100.0
+location	Rei-38eb_136_reindeer-16	Rei-38eb_136_tundra-15	Rei-38eb_136_reindeer-16_5413	136	Rei-38eb_136_tundra-15_4539	136	0	reindeer	tundra	100.0
+location	Rei-38eb_453_reindeer-26	Rei-38eb_453_tundra-3	Rei-38eb_453_reindeer-26_5413	453	Rei-38eb_453_tundra-3_4539	453	0	reindeer	tundra	100.0
+location	Rei-38eb_453_reindeer-4	Rei-38eb_453_tundra-25	Rei-38eb_453_reindeer-4_5413	453	Rei-38eb_453_tundra-25_4539	453	0	reindeer	tundra	100.0
+location	Rei-38eb_453_reindeer-4	Rei-38eb_453_tundra-3	Rei-38eb_453_reindeer-4_5413	453	Rei-38eb_453_tundra-3_4539	453	0	reindeer	tundra	100.0
+location	Rei-38eb_477_reindeer-18	Rei-38eb_477_tundra-7	Rei-38eb_477_reindeer-18_5413	477	Rei-38eb_477_tundra-7_4539	477	0	reindeer	tundra	100.0
+location	Rei-38eb_49_reindeer-3	Rei-38eb_49_tundra-2	Rei-38eb_49_reindeer-3_5413	49	Rei-38eb_49_tundra-2_4539	49	0	reindeer	tundra	100.0
+location	Rei-38eb_2_reindeer-2	Rei-38eb_2_tundra-24	Rei-38eb_2_reindeer-2_5413	2	Rei-38eb_2_tundra-24_4539	2	0	reindeer	tundra	100.0
+location	Rei-38eb_34_reindeer-7	Rei-38eb_34_tundra-6	Rei-38eb_34_reindeer-7_5413	34	Rei-38eb_34_tundra-6_4539	34	0	reindeer	tundra	100.0
+location	Rei-38eb_36_reindeer-3	Rei-38eb_36_tundra-2	Rei-38eb_36_reindeer-3_5413	36	Rei-38eb_36_tundra-2_4539	36	0	reindeer	tundra	100.0
+location	Rei-38eb_453_reindeer-26	Rei-38eb_453_tundra-25	Rei-38eb_453_reindeer-26_5413	453	Rei-38eb_453_tundra-25_4539	453	0	reindeer	tundra	100.0
+location	Rei-38eb_144_reindeer-3	Rei-38eb_144_tundra-54	Rei-38eb_144_reindeer-3_5413	144	Rei-38eb_144_tundra-54_4539	144	0	reindeer	tundra	100.0
+location	Rei-38eb_480_reindeer-20	Rei-38eb_480_tundra-19	Rei-38eb_480_reindeer-20_5413	480	Rei-38eb_480_tundra-19_4539	480	0	reindeer	tundra	100.0
+location	Tai-3286_120_tarandus-28	Tai-3286_120_taiga-2	Tai-3286_120_tarandus-28_3216	120	Tai-3286_120_taiga-2_4534	120	0	Rangifer tarandus	taiga	87.0
+location	Cam-1690_117_dromedarius-9	Cam-1690_117_deserts-26	Cam-1690_117_dromedarius-9_2060	117	Cam-1690_117_deserts-26_3805	117	0	Camelus dromedarius	desert	87.0
+location	Rei-38eb_91_caribou-13	Rei-38eb_91_tundra-8	Rei-38eb_91_caribou-13_5414	91	Rei-38eb_91_tundra-8_4539	91	0	caribou	tundra	83.0
+location	Rei-38eb_75_caribou-12	Rei-38eb_75_tundra-6	Rei-38eb_75_caribou-12_5414	75	Rei-38eb_75_tundra-6_4539	75	0	caribou	tundra	83.0
+location	Rei-38eb_168_caribou-17	Rei-38eb_168_tundra-27	Rei-38eb_168_caribou-17_5414	168	Rei-38eb_168_tundra-27_4539	168	0	caribou	tundra	83.0
+location	Rei-38eb_19_caribou-59	Rei-38eb_19_tundra-40	Rei-38eb_19_caribou-59_5414	19	Rei-38eb_19_tundra-40_4539	19	0	caribou	tundra	83.0
+location	Rei-38eb_2_caribou-4	Rei-38eb_2_tundra-24	Rei-38eb_2_caribou-4_5414	2	Rei-38eb_2_tundra-24_4539	2	0	caribou	tundra	83.0
+location	Rei-38eb_93_caribou-11	Rei-38eb_93_tundra-21	Rei-38eb_93_caribou-11_5414	93	Rei-38eb_93_tundra-21_4539	93	0	caribou	tundra	83.0
+location	Rei-38eb_144_caribou-19	Rei-38eb_144_tundra-54	Rei-38eb_144_caribou-19_5414	144	Rei-38eb_144_tundra-54_4539	144	0	caribou	tundra	83.0
+location	Rei-38eb_374_caribou-5	Rei-38eb_374_tundra-29	Rei-38eb_374_caribou-5_5414	374	Rei-38eb_374_tundra-29_4539	374	0	caribou	tundra	83.0
+location	Rei-38eb_18_caribou-6	Rei-38eb_18_tundra-21	Rei-38eb_18_caribou-6_5414	18	Rei-38eb_18_tundra-21_4539	18	0	caribou	tundra	83.0
+location	Rei-38eb_19_caribou-78	Rei-38eb_19_tundra-54	Rei-38eb_19_caribou-78_5414	19	Rei-38eb_19_tundra-54_4539	19	0	caribou	tundra	83.0
+location	Rei-38eb_77_caribou-33	Rei-38eb_77_tundra-32	Rei-38eb_77_caribou-33_5414	77	Rei-38eb_77_tundra-32_4539	77	0	caribou	tundra	83.0
+location	Rei-38eb_19_caribou-26	Rei-38eb_19_tundra-54	Rei-38eb_19_caribou-26_5414	19	Rei-38eb_19_tundra-54_4539	19	0	caribou	tundra	83.0
+location	Rei-38eb_93_caribou-26	Rei-38eb_93_tundra-21	Rei-38eb_93_caribou-26_5414	93	Rei-38eb_93_tundra-21_4539	93	0	caribou	tundra	83.0
+location	Rei-38eb_144_caribou-60	Rei-38eb_144_tundra-2	Rei-38eb_144_caribou-60_5414	144	Rei-38eb_144_tundra-2_4539	144	0	caribou	tundra	83.0
+location	Rei-38eb_148_caribou-27	Rei-38eb_148_tundra-29	Rei-38eb_148_caribou-27_5414	148	Rei-38eb_148_tundra-29_4539	148	0	caribou	tundra	83.0
+location	Rei-38eb_144_caribou-64	Rei-38eb_144_tundra-2	Rei-38eb_144_caribou-64_5414	144	Rei-38eb_144_tundra-2_4539	144	0	caribou	tundra	83.0
+location	Rei-38eb_144_caribou-64	Rei-38eb_144_tundra-54	Rei-38eb_144_caribou-64_5414	144	Rei-38eb_144_tundra-54_4539	144	0	caribou	tundra	83.0
+location	Rei-38eb_19_caribou-26	Rei-38eb_19_tundra-40	Rei-38eb_19_caribou-26_5414	19	Rei-38eb_19_tundra-40_4539	19	0	caribou	tundra	83.0
+location	Rei-38eb_19_caribou-59	Rei-38eb_19_tundra-54	Rei-38eb_19_caribou-59_5414	19	Rei-38eb_19_tundra-54_4539	19	0	caribou	tundra	83.0
+location	Rei-38eb_93_caribou-14	Rei-38eb_93_tundra-21	Rei-38eb_93_caribou-14_5414	93	Rei-38eb_93_tundra-21_4539	93	0	caribou	tundra	83.0
+location	Rei-38eb_168_caribou-41	Rei-38eb_168_tundra-27	Rei-38eb_168_caribou-41_5414	168	Rei-38eb_168_tundra-27_4539	168	0	caribou	tundra	83.0
+location	Dee-529a_36_caribou-4	Dee-529a_36_tundra-9	Dee-529a_36_caribou-4_5414	36	Dee-529a_36_tundra-9_4539	36	0	caribou	tundra	83.0
+location	Rei-38eb_144_caribou-19	Rei-38eb_144_tundra-2	Rei-38eb_144_caribou-19_5414	144	Rei-38eb_144_tundra-2_4539	144	0	caribou	tundra	83.0
+location	Rei-38eb_19_caribou-78	Rei-38eb_19_taiga-44	Rei-38eb_19_caribou-78_5414	19	Rei-38eb_19_taiga-44_4534	19	0	caribou	taiga	83.0
+location	Rei-38eb_112_caribou-6	Rei-38eb_112_tundra-5	Rei-38eb_112_caribou-6_5414	112	Rei-38eb_112_tundra-5_4539	112	0	caribou	tundra	83.0
+location	Rei-38eb_19_caribou-59	Rei-38eb_19_taiga-44	Rei-38eb_19_caribou-59_5414	19	Rei-38eb_19_taiga-44_4534	19	0	caribou	taiga	83.0
+location	Tai-3286_120_caribou-34	Tai-3286_120_taiga-2	Tai-3286_120_caribou-34_5414	120	Tai-3286_120_taiga-2_4534	120	0	caribou	taiga	83.0
+location	Dee-529a_36_caribou-4	Dee-529a_36_taiga-20	Dee-529a_36_caribou-4_5414	36	Dee-529a_36_taiga-20_4534	36	0	caribou	taiga	83.0
+location	Dee-529a_36_caribou-4	Dee-529a_36_taiga-11	Dee-529a_36_caribou-4_5414	36	Dee-529a_36_taiga-11_4534	36	0	caribou	taiga	83.0
+location	Rei-38eb_19_caribou-114	Rei-38eb_19_taiga-44	Rei-38eb_19_caribou-114_5414	19	Rei-38eb_19_taiga-44_4534	19	0	caribou	taiga	83.0
+location	Rei-38eb_18_caribou-6	Rei-38eb_18_taiga-23	Rei-38eb_18_caribou-6_5414	18	Rei-38eb_18_taiga-23_4534	18	0	caribou	taiga	83.0
+location	Rei-38eb_19_caribou-26	Rei-38eb_19_taiga-44	Rei-38eb_19_caribou-26_5414	19	Rei-38eb_19_taiga-44_4534	19	0	caribou	taiga	83.0
+location	Rei-38eb_374_caribou-5	Rei-38eb_374_taiga-19	Rei-38eb_374_caribou-5_5414	374	Rei-38eb_374_taiga-19_4534	374	0	caribou	taiga	83.0
+location	Rei-38eb_19_caribou-114	Rei-38eb_19_tundra-54	Rei-38eb_19_caribou-114_5414	19	Rei-38eb_19_tundra-54_4539	19	0	caribou	tundra	83.0
+location	Rei-38eb_144_caribou-60	Rei-38eb_144_tundra-54	Rei-38eb_144_caribou-60_5414	144	Rei-38eb_144_tundra-54_4539	144	0	caribou	tundra	83.0
+location	Rei-38eb_19_caribou-114	Rei-38eb_19_tundra-40	Rei-38eb_19_caribou-114_5414	19	Rei-38eb_19_tundra-40_4539	19	0	caribou	tundra	83.0
+location	Rei-38eb_19_caribou-78	Rei-38eb_19_tundra-40	Rei-38eb_19_caribou-78_5414	19	Rei-38eb_19_tundra-40_4539	19	0	caribou	tundra	83.0
+location	Rei-38eb_94_caribou-7	Rei-38eb_94_tundra-6	Rei-38eb_94_caribou-7_5414	94	Rei-38eb_94_tundra-6_4539	94	0	caribou	tundra	83.0
+location	Rei-38eb_50_Reindeer-1	Rei-38eb_49_tundra-2	Rei-38eb_50_Reindeer-1_3215	50	Rei-38eb_49_tundra-2_4539	49	1	Reindeer	tundra	50.0
+location	Afr-7a1b_122_hippopotamus-3	Afr-7a1b_121_rainforest-20	Afr-7a1b_122_hippopotamus-3_5095	122	Afr-7a1b_121_rainforest-20_3811	121	1	hippopotamus	rainforest	50.0
+location	Elk-a58a_208_deer-12	Elk-a58a_207_tundra-19	Elk-a58a_208_deer-12_5398	208	Elk-a58a_207_tundra-19_4539	207	1	red deer	tundra	50.0
+location	Bac-9099_116_camel-2	Bac-9099_115_deserts-20	Bac-9099_116_camel-2_1623	116	Bac-9099_115_deserts-20_3805	115	1	Bactrian camel	desert	50.0
+location	Sik-94e7_102_deer-2	Sik-94e7_103_parklands-13	Sik-94e7_102_deer-2_236	102	Sik-94e7_103_parklands-13_4529	103	1	Sika deer	parkland	50.0
+location	Rei-38eb_7_Reindeer-1	Rei-38eb_6_tundra-2	Rei-38eb_7_Reindeer-1_3215	7	Rei-38eb_6_tundra-2_4539	6	1	Reindeer	tundra	50.0
+location	Rei-38eb_107_Reindeer-1	Rei-38eb_108_tundra-8	Rei-38eb_107_Reindeer-1_3215	107	Rei-38eb_108_tundra-8_4539	108	1	Reindeer	tundra	50.0
+location	Rei-38eb_393_Reindeer-1	Rei-38eb_392_taiga-16	Rei-38eb_393_Reindeer-1_3215	393	Rei-38eb_392_taiga-16_4534	392	1	Reindeer	taiga	50.0
+location	Rei-38eb_1_Reindeer-1	Rei-38eb_2_tundra-24	Rei-38eb_1_Reindeer-1_3215	1	Rei-38eb_2_tundra-24_4539	2	1	Reindeer	tundra	50.0
+location	Rei-38eb_393_Reindeer-1	Rei-38eb_392_tundra-14	Rei-38eb_393_Reindeer-1_3215	393	Rei-38eb_392_tundra-14_4539	392	1	Reindeer	tundra	50.0
+location	Cam-4bd8_150_giraffes-17	Cam-4bd8_151_desert-24	Cam-4bd8_150_giraffes-17_2366	150	Cam-4bd8_151_desert-24_3805	151	1	Giraffe	desert	50.0
+location	Dro-9dd9_29_Camelus-9	Dro-9dd9_30_desert-39	Dro-9dd9_29_Camelus-9_951	29	Dro-9dd9_30_desert-39_3805	30	1	Camelus	desert	50.0
+location	Camcd08_3_guanacos-16	Camcd08_2_Mountain-1	Camcd08_3_guanacos-16_5071	3	Camcd08_2_Mountain-1_4527	2	1	guanaco	mountains	50.0
+location	Afr-7a1b_122_hippopotamus-3	Afr-7a1b_121_rainforests-6	Afr-7a1b_122_hippopotamus-3_5095	122	Afr-7a1b_121_rainforests-6_3811	121	1	hippopotamus	rainforest	50.0
+location	Tun-c63e_40_reindeer-4	Tun-c63e_41_Tundra-1	Tun-c63e_40_reindeer-4_5413	40	Tun-c63e_41_Tundra-1_1379	41	1	reindeer	Tundra	50.0
+location	Tai-3286_121_elk-22	Tai-3286_122_taiga-15	Tai-3286_121_elk-22_4897	121	Tai-3286_122_taiga-15_4534	122	1	elk	taiga	50.0
+location	Tai-3286_121_elk-22	Tai-3286_120_taiga-2	Tai-3286_121_elk-22_4897	121	Tai-3286_120_taiga-2_4534	120	1	elk	taiga	50.0
+location	Dee-529a_59_elk-26	Dee-529a_58_taiga-23	Dee-529a_59_elk-26_4897	59	Dee-529a_58_taiga-23_4534	58	1	elk	taiga	50.0
+location	Dro-9dd9_29_dromedarius-10	Dro-9dd9_30_desert-39	Dro-9dd9_29_dromedarius-10_2060	29	Dro-9dd9_30_desert-39_3805	30	1	Camelus dromedarius	desert	43.5
+location	Tai-3286_120_tarandus-28	Tai-3286_119_taiga-4	Tai-3286_120_tarandus-28_3216	120	Tai-3286_119_taiga-4_4534	119	1	Rangifer tarandus	taiga	43.5
+location	Rei-38eb_478_Caribou-5	Rei-38eb_477_tundra-7	Rei-38eb_478_Caribou-5_3217	478	Rei-38eb_477_tundra-7_4539	477	1	Caribou	tundra	41.5
+location	Rei-38eb_478_Caribou-22	Rei-38eb_477_tundra-7	Rei-38eb_478_Caribou-22_3217	478	Rei-38eb_477_tundra-7_4539	477	1	Caribou	tundra	41.5
+location	Rei-38eb_398_Caribou-1	Rei-38eb_397_tundra-18	Rei-38eb_398_Caribou-1_3217	398	Rei-38eb_397_tundra-18_4539	397	1	Caribou	tundra	41.5
+location	Tun-c63e_40_caribou-6	Tun-c63e_41_Tundra-1	Tun-c63e_40_caribou-6_5414	40	Tun-c63e_41_Tundra-1_1379	41	1	caribou	Tundra	41.5
+location	Rei-38eb_398_Caribou-1	Rei-38eb_397_taiga-20	Rei-38eb_398_Caribou-1_3217	398	Rei-38eb_397_taiga-20_4534	397	1	Caribou	taiga	41.5
+location	Cam-1690_2_Camelus-30	Cam-1690_4_desert-9	Cam-1690_2_Camelus-30_951	2	Cam-1690_4_desert-9_3805	4	2	Camelus	desert	33.333
+location	Cam-1690_2_camelus-7	Cam-1690_4_desert-9	Cam-1690_2_camelus-7_4271	2	Cam-1690_4_desert-9_3805	4	2	camelus	desert	33.333
+location	Tun-c63e_39_reindeer-20	Tun-c63e_41_Tundra-1	Tun-c63e_39_reindeer-20_5413	39	Tun-c63e_41_Tundra-1_1379	41	2	reindeer	Tundra	33.333
+location	Dro-9dd9_32_Camelus-32	Dro-9dd9_30_desert-39	Dro-9dd9_32_Camelus-32_951	32	Dro-9dd9_30_desert-39_3805	30	2	Camelus	desert	33.333
+location	Dro0ff4_12_camel-9	Dro0ff4_14_desert-7	Dro0ff4_12_camel-9_4652	12	Dro0ff4_14_desert-7_3805	14	2	bactrian camel	desert	33.333
+location	Gra-bd0d_35_Hippopotamus-1	Gra-bd0d_34_rivers-2	Gra-bd0d_35_Hippopotamus-1_2534	35	Gra-bd0d_34_rivers-2_4533	34	1	Hippopotamus	rivers and streams	33.0
+location	Tai-3286_120_tarandus-28	Tai-3286_118_taiga-4	Tai-3286_120_tarandus-28_3216	120	Tai-3286_118_taiga-4_4534	118	2	Rangifer tarandus	taiga	29.0
+location	Tai-3286_120_tarandus-28	Tai-3286_122_taiga-15	Tai-3286_120_tarandus-28_3216	120	Tai-3286_122_taiga-15_4534	122	2	Rangifer tarandus	taiga	29.0
+location	Rei-38eb_478_Caribou-5	Rei-38eb_480_tundra-19	Rei-38eb_478_Caribou-5_3217	478	Rei-38eb_480_tundra-19_4539	480	2	Caribou	tundra	27.667
+location	Rei-38eb_478_Caribou-22	Rei-38eb_480_tundra-19	Rei-38eb_478_Caribou-22_3217	478	Rei-38eb_480_tundra-19_4539	480	2	Caribou	tundra	27.667
+location	Dee-529a_61_deer-6	Dee-529a_58_taiga-23	Dee-529a_61_deer-6_5398	61	Dee-529a_58_taiga-23_4534	58	3	red deer	taiga	25.0
+location	Sik-94e7_100_deer-2	Sik-94e7_103_parklands-13	Sik-94e7_100_deer-2_236	100	Sik-94e7_103_parklands-13_4529	103	3	Sika deer	parkland	25.0
+location	Dee-529a_61_deer-15	Dee-529a_58_taiga-23	Dee-529a_61_deer-15_5398	61	Dee-529a_58_taiga-23_4534	58	3	red deer	taiga	25.0
+location	Mus-840b_41_deer-51	Mus-840b_38_tundra-39	Mus-840b_41_deer-51_5398	41	Mus-840b_38_tundra-39_4539	38	3	red deer	tundra	25.0
+location	Bac8c43_7_camel-3	Bac8c43_10_desert-18	Bac8c43_7_camel-3_4652	7	Bac8c43_10_desert-18_3805	10	3	bactrian camel	desert	25.0
+location	Afr-7a1b_122_hippopotamus-3	Afr-7a1b_119_rainforests-4	Afr-7a1b_122_hippopotamus-3_5095	122	Afr-7a1b_119_rainforests-4_3811	119	3	hippopotamus	rainforest	25.0
+location	Sik-94e7_106_deer-27	Sik-94e7_103_parklands-13	Sik-94e7_106_deer-27_5398	106	Sik-94e7_103_parklands-13_4529	103	3	red deer	parkland	25.0
+location	Rei-38eb_139_tarandus-11	Rei-38eb_136_tundra-15	Rei-38eb_139_tarandus-11_3216	139	Rei-38eb_136_tundra-15_4539	136	3	Rangifer tarandus	tundra	21.75
+location	Rei-38eb_14_Reindeer-1	Rei-38eb_18_taiga-23	Rei-38eb_14_Reindeer-1_3215	14	Rei-38eb_18_taiga-23_4534	18	4	Reindeer	taiga	20.0
+location	Rei-38eb_393_Reindeer-1	Rei-38eb_397_taiga-20	Rei-38eb_393_Reindeer-1_3215	393	Rei-38eb_397_taiga-20_4534	397	4	Reindeer	taiga	20.0
+location	Dro-9dd9_295_camel-9	Dro-9dd9_299_desert-9	Dro-9dd9_295_camel-9_4869	295	Dro-9dd9_299_desert-9_3805	299	4	dromedary camel	desert	20.0
+location	Rei-38eb_382_Reindeer-1	Rei-38eb_378_taiga-12	Rei-38eb_382_Reindeer-1_3215	382	Rei-38eb_378_taiga-12_4534	378	4	Reindeer	taiga	20.0
+location	Dee-529a_50_deer-16	Dee-529a_46_parklands-7	Dee-529a_50_deer-16_5431	50	Dee-529a_46_parklands-7_4529	46	4	roe deer	parkland	20.0
+location	Dee-529a_30_Deer-1	Dee-529a_26_forest-11	Dee-529a_30_Deer-1_5398	30	Dee-529a_26_forest-11_4536	26	4	red deer	coniferous forest	20.0
+location	Afr-7a1b_122_hippopotamus-3	Afr-7a1b_118_rainforests-4	Afr-7a1b_122_hippopotamus-3_5095	122	Afr-7a1b_118_rainforests-4_3811	118	4	hippopotamus	rainforest	20.0
+location	Sik-94e7_99_deer-24	Sik-94e7_103_parklands-13	Sik-94e7_99_deer-24_3900	99	Sik-94e7_103_parklands-13_4529	103	4	sika deer	parkland	20.0
+location	Dee-529a_30_deer-23	Dee-529a_26_forest-16	Dee-529a_30_deer-23_5398	30	Dee-529a_26_forest-16_4536	26	4	red deer	coniferous forest	20.0
+location	Dee-529a_30_deer-23	Dee-529a_26_forest-11	Dee-529a_30_deer-23_5398	30	Dee-529a_26_forest-11_4536	26	4	red deer	coniferous forest	20.0
+location	Dee-529a_30_deer-23	Dee-529a_26_forest-22	Dee-529a_30_deer-23_5398	30	Dee-529a_26_forest-22_4536	26	4	red deer	coniferous forest	20.0
+location	Dee-529a_30_deer-33	Dee-529a_26_forest-16	Dee-529a_30_deer-33_5398	30	Dee-529a_26_forest-16_4536	26	4	red deer	coniferous forest	20.0
+location	Dee-529a_30_deer-33	Dee-529a_26_forest-22	Dee-529a_30_deer-33_5398	30	Dee-529a_26_forest-22_4536	26	4	red deer	coniferous forest	20.0
+location	Dee-529a_50_deer-20	Dee-529a_46_parklands-7	Dee-529a_50_deer-20_5431	50	Dee-529a_46_parklands-7_4529	46	4	roe deer	parkland	20.0
+location	Dee-529a_30_deer-33	Dee-529a_26_forest-11	Dee-529a_30_deer-33_5398	30	Dee-529a_26_forest-11_4536	26	4	red deer	coniferous forest	20.0
+location	Tun-c63e_40_reindeer-4	Tun-c63e_44_Tundra-1	Tun-c63e_40_reindeer-4_5413	40	Tun-c63e_44_Tundra-1_1379	44	4	reindeer	Tundra	20.0
+location	Dee-529a_30_Deer-1	Dee-529a_26_forest-22	Dee-529a_30_Deer-1_5398	30	Dee-529a_26_forest-22_4536	26	4	red deer	coniferous forest	20.0
+location	Dee-529a_30_Deer-1	Dee-529a_26_forest-16	Dee-529a_30_Deer-1_5398	30	Dee-529a_26_forest-16_4536	26	4	red deer	coniferous forest	20.0
+location	Dee-529a_50_deer-13	Dee-529a_46_parklands-7	Dee-529a_50_deer-13_5398	50	Dee-529a_46_parklands-7_4529	46	4	red deer	parkland	20.0
+location	Tai-3286_120_tarandus-28	Tai-3286_124_taiga-6	Tai-3286_120_tarandus-28_3216	120	Tai-3286_124_taiga-6_4534	124	4	Rangifer tarandus	taiga	17.4
+location	Tai-3286_120_tarandus-28	Tai-3286_124_taiga-40	Tai-3286_120_tarandus-28_3216	120	Tai-3286_124_taiga-40_4534	124	4	Rangifer tarandus	taiga	17.4
+location	Dro-9dd9_25_Camelus-6	Dro-9dd9_30_desert-39	Dro-9dd9_25_Camelus-6_951	25	Dro-9dd9_30_desert-39_3805	30	5	Camelus	desert	16.667
+location	Rei-38eb_69_deer-16	Rei-38eb_74_tundra-15	Rei-38eb_69_deer-16_5431	69	Rei-38eb_74_tundra-15_4539	74	5	roe deer	tundra	16.667
+location	Sik-94e7_86_deer-12	Sik-94e7_81_farmlands-28	Sik-94e7_86_deer-12_3900	86	Sik-94e7_81_farmlands-28_4509	81	5	sika deer	farmland	16.667
+location	Rei-38eb_69_deer-31	Rei-38eb_74_tundra-15	Rei-38eb_69_deer-31_5431	69	Rei-38eb_74_tundra-15_4539	74	5	roe deer	tundra	16.667
+location	Sik-94e7_108_deer-16	Sik-94e7_103_parklands-13	Sik-94e7_108_deer-16_3900	108	Sik-94e7_103_parklands-13_4529	103	5	sika deer	parkland	16.667
+location	Sik-94e7_98_deer-25	Sik-94e7_103_parklands-13	Sik-94e7_98_deer-25_3900	98	Sik-94e7_103_parklands-13_4529	103	5	sika deer	parkland	16.667
+location	Sik-94e7_98_deer-6	Sik-94e7_103_parklands-13	Sik-94e7_98_deer-6_3900	98	Sik-94e7_103_parklands-13_4529	103	5	sika deer	parkland	16.667
+location	Art-6267_131_giraffe-2	Art-6267_126_deserts-29	Art-6267_131_giraffe-2_5013	131	Art-6267_126_deserts-29_3805	126	5	giraffe	desert	16.667
+location	Art-6267_131_giraffe-16	Art-6267_126_deserts-29	Art-6267_131_giraffe-16_2366	131	Art-6267_126_deserts-29_34	126	5	Giraffe	Desert	16.667
+location	Rei-38eb_14_Reindeer-1	Rei-38eb_19_taiga-44	Rei-38eb_14_Reindeer-1_3215	14	Rei-38eb_19_taiga-44_4534	19	5	Reindeer	taiga	16.667
+location	Dro0ff4_12_camel-9	Dro0ff4_17_desert-4	Dro0ff4_12_camel-9_4652	12	Dro0ff4_17_desert-4_34	17	5	bactrian camel	Desert	16.667
+location	Mun-f4cc_16_deer-10	Mun-f4cc_11_rainforests-9	Mun-f4cc_16_deer-10_5411	16	Mun-f4cc_11_rainforests-9_3811	11	5	muntjac deer	rainforest	16.667
+location	Tun-c63e_39_reindeer-20	Tun-c63e_44_Tundra-1	Tun-c63e_39_reindeer-20_5413	39	Tun-c63e_44_Tundra-1_1379	44	5	reindeer	Tundra	16.667
+location	Rei-38eb_383_Reindeer-1	Rei-38eb_378_taiga-12	Rei-38eb_383_Reindeer-1_3215	383	Rei-38eb_378_taiga-12_4534	378	5	Reindeer	taiga	16.667
+location	Tun-c63e_17_reindeer-13	Tun-c63e_12_Tundra-1	Tun-c63e_17_reindeer-13_5413	17	Tun-c63e_12_Tundra-1_1379	12	5	reindeer	Tundra	16.667
+location	Tun-c63e_40_caribou-6	Tun-c63e_44_Tundra-1	Tun-c63e_40_caribou-6_5414	40	Tun-c63e_44_Tundra-1_1379	44	4	caribou	Tundra	16.6
+location	Gra-bd0d_37_hippopotamus-30	Gra-bd0d_34_rivers-2	Gra-bd0d_37_hippopotamus-30_5095	37	Gra-bd0d_34_rivers-2_4533	34	3	hippopotamus	rivers and streams	16.5
+location	Tai-3286_120_tarandus-28	Tai-3286_115_taiga-9	Tai-3286_120_tarandus-28_3216	120	Tai-3286_115_taiga-9_4534	115	5	Rangifer tarandus	taiga	14.5
+location	Rei-38eb_139_tarandus-11	Rei-38eb_144_tundra-2	Rei-38eb_139_tarandus-11_3216	139	Rei-38eb_144_tundra-2_4539	144	5	Rangifer tarandus	tundra	14.5
+location	Rei-38eb_139_tarandus-11	Rei-38eb_144_tundra-54	Rei-38eb_139_tarandus-11_3216	139	Rei-38eb_144_tundra-54_4539	144	5	Rangifer tarandus	tundra	14.5
+location	Tai-3286_120_tarandus-28	Tai-3286_125_taiga-5	Tai-3286_120_tarandus-28_3216	120	Tai-3286_125_taiga-5_4534	125	5	Rangifer tarandus	taiga	14.5
+location	Sik-94e7_87_deer-18	Sik-94e7_81_farmlands-28	Sik-94e7_87_deer-18_3900	87	Sik-94e7_81_farmlands-28_4509	81	6	sika deer	farmland	14.286
+location	Rei-38eb_69_deer-31	Rei-38eb_75_tundra-6	Rei-38eb_69_deer-31_5431	69	Rei-38eb_75_tundra-6_4539	75	6	roe deer	tundra	14.286
+location	Rei-38eb_69_deer-16	Rei-38eb_75_tundra-6	Rei-38eb_69_deer-16_5431	69	Rei-38eb_75_tundra-6_4539	75	6	roe deer	tundra	14.286
+location	Dee-529a_30_deer-23	Dee-529a_36_taiga-20	Dee-529a_30_deer-23_5398	30	Dee-529a_36_taiga-20_4534	36	6	red deer	taiga	14.286
+location	Mus-840b_32_deer-20	Mus-840b_38_tundra-39	Mus-840b_32_deer-20_5398	32	Mus-840b_38_tundra-39_4539	38	6	red deer	tundra	14.286
+location	Dee-529a_30_deer-33	Dee-529a_24_tundra-11	Dee-529a_30_deer-33_5398	30	Dee-529a_24_tundra-11_4539	24	6	red deer	tundra	14.286
+location	Sik-94e7_75_deer-2	Sik-94e7_81_farmlands-28	Sik-94e7_75_deer-2_236	75	Sik-94e7_81_farmlands-28_4509	81	6	Sika deer	farmland	14.286
+location	Sik-94e7_109_deer-13	Sik-94e7_103_parklands-13	Sik-94e7_109_deer-13_3900	109	Sik-94e7_103_parklands-13_4529	103	6	sika deer	parkland	14.286
+adaptation	Rei-38eb_492_Reindeer-1	Rei-38eb_492_migrations-27	Rei-38eb_492_Reindeer-1_3215	492	Rei-38eb_492_migrations-27_1	492	0	Reindeer	Migration	100.0
+adaptation	Cam-1690_117_camel-6	Cam-1690_117_social-34	Cam-1690_117_camel-6_4869	117	Cam-1690_117_social-34_3788	117	0	dromedary camel	social	100.0
+adaptation	Gir-04d2_21_Giraffe-1	Gir-04d2_21_dimorphism-5	Gir-04d2_21_Giraffe-1_2366	21	Gir-04d2_21_dimorphism-5_14	21	0	Giraffe	Sexual dimorphism	100.0
+adaptation	Ani-ab87_85_reindeer-7	Ani-ab87_85_migrations-14	Ani-ab87_85_reindeer-7_5413	85	Ani-ab87_85_migrations-14_3781	85	0	reindeer	migration	100.0
+adaptation	Cam-4bd8_115_giraffes-4	Cam-4bd8_115_camouflage-34	Cam-4bd8_115_giraffes-4_2366	115	Cam-4bd8_115_camouflage-34_3947	115	0	Giraffe	camouflage	100.0
+adaptation	Gir-cc25_73_giraffe-15	Gir-cc25_73_camouflage-67	Gir-cc25_73_giraffe-15_2366	73	Gir-cc25_73_camouflage-67_3947	73	0	Giraffe	camouflage	100.0
+adaptation	Gir-427d_94_giraffes-4	Gir-427d_94_camouflage-29	Gir-427d_94_giraffes-4_2366	94	Gir-427d_94_camouflage-29_3947	94	0	Giraffe	camouflage	100.0
+adaptation	Gir-04d2_6_giraffe-7	Gir-04d2_6_dimorphism-16	Gir-04d2_6_giraffe-7_5013	6	Gir-04d2_6_dimorphism-16_14	6	0	giraffe	Sexual dimorphism	100.0
+adaptation	Ani-ab87_85_reindeer-7	Ani-ab87_85_migrations-5	Ani-ab87_85_reindeer-7_5413	85	Ani-ab87_85_migrations-5_3781	85	0	reindeer	migration	100.0
+adaptation	Gir-cc25_81_giraffes-12	Gir-cc25_81_social-2	Gir-cc25_81_giraffes-12_2366	81	Gir-cc25_81_social-2_3788	81	0	Giraffe	social	100.0
+adaptation	Gir-427d_221_giraffes-7	Gir-427d_221_social-11	Gir-427d_221_giraffes-7_2366	221	Gir-427d_221_social-11_3788	221	0	Giraffe	social	100.0
+adaptation	Gir-427d_217_Giraffe-1	Gir-427d_217_Social-7	Gir-427d_217_Giraffe-1_2366	217	Gir-427d_217_Social-7_3788	217	0	Giraffe	social	100.0
+adaptation	Rei-38eb_370_reindeer-32	Rei-38eb_370_migrations-24	Rei-38eb_370_reindeer-32_5413	370	Rei-38eb_370_migrations-24_3781	370	0	reindeer	migration	100.0
+adaptation	Rei-38eb_558_reindeer-6	Rei-38eb_558_migration-21	Rei-38eb_558_reindeer-6_5413	558	Rei-38eb_558_migration-21_3781	558	0	reindeer	migration	100.0
+adaptation	Dee-529a_89_reindeer-23	Dee-529a_89_dimorphism-2	Dee-529a_89_reindeer-23_5413	89	Dee-529a_89_dimorphism-2_14	89	0	reindeer	Sexual dimorphism	100.0
+adaptation	Rei-38eb_370_reindeer-32	Rei-38eb_370_migration-4	Rei-38eb_370_reindeer-32_5413	370	Rei-38eb_370_migration-4_3781	370	0	reindeer	migration	100.0
+adaptation	Rei-38eb_34_reindeer-7	Rei-38eb_34_migration-42	Rei-38eb_34_reindeer-7_5413	34	Rei-38eb_34_migration-42_3781	34	0	reindeer	migration	100.0
+adaptation	Rei-38eb_34_reindeer-12	Rei-38eb_34_migration-42	Rei-38eb_34_reindeer-12_5413	34	Rei-38eb_34_migration-42_3781	34	0	reindeer	migration	100.0
+adaptation	Rei-38eb_75_reindeer-7	Rei-38eb_75_migration-33	Rei-38eb_75_reindeer-7_5413	75	Rei-38eb_75_migration-33_3781	75	0	reindeer	migration	100.0
+adaptation	Rei-38eb_425_reindeer-15	Rei-38eb_425_migration-13	Rei-38eb_425_reindeer-15_5413	425	Rei-38eb_425_migration-13_3781	425	0	reindeer	migration	100.0
+adaptation	Rei5e90_9_Reindeer-1	Rei5e90_9_migration-2	Rei5e90_9_Reindeer-1_3215	9	Rei5e90_9_migration-2_3781	9	0	Reindeer	migration	100.0
+adaptation	Eur-6423_171_deer-7	Eur-6423_171_social-10	Eur-6423_171_deer-7_3855	171	Eur-6423_171_social-10_3788	171	0	fallow deer	social	100.0
+adaptation	Iri-77a8_75_elk-10	Iri-77a8_75_dimorphism-15	Iri-77a8_75_elk-10_4897	75	Iri-77a8_75_dimorphism-15_3791	75	0	elk	sexual dimorphism	100.0
+adaptation	Iri-77a8_75_elk-21	Iri-77a8_75_dimorphism-15	Iri-77a8_75_elk-21_4897	75	Iri-77a8_75_dimorphism-15_3791	75	0	elk	sexual dimorphism	100.0
+adaptation	Iri-77a8_75_elk-10	Iri-77a8_75_social-5	Iri-77a8_75_elk-10_4897	75	Iri-77a8_75_social-5_3788	75	0	elk	social	100.0
+adaptation	Iri-77a8_75_elk-21	Iri-77a8_75_social-5	Iri-77a8_75_elk-21_4897	75	Iri-77a8_75_social-5_3788	75	0	elk	social	100.0
+adaptation	Sik-94e7_48_deer-2	Sik-94e7_48_nocturnal-22	Sik-94e7_48_deer-2_236	48	Sik-94e7_48_nocturnal-22_3967	48	0	Sika deer	nocturnal	100.0
+adaptation	Sno-0a8f_380_reindeer-22	Sno-0a8f_380_herbivorous-2	Sno-0a8f_380_reindeer-22_5413	380	Sno-0a8f_380_herbivorous-2_3784	380	0	reindeer	herbivorous	100.0
+adaptation	Elk-a58a_146_elk-13	Elk-a58a_146_migration-14	Elk-a58a_146_elk-13_4897	146	Elk-a58a_146_migration-14_3781	146	0	elk	migration	100.0
+adaptation	Her-8d89_180_elk-23	Her-8d89_180_herbivorous-7	Her-8d89_180_elk-23_4897	180	Her-8d89_180_herbivorous-7_3784	180	0	elk	herbivorous	100.0
+adaptation	Ani6f2b_67_Reindeer-1	Ani6f2b_67_migration-2	Ani6f2b_67_Reindeer-1_3215	67	Ani6f2b_67_migration-2_3781	67	0	Reindeer	migration	100.0
+adaptation	Eur-6423_165_deer-22	Eur-6423_165_social-56	Eur-6423_165_deer-22_3855	165	Eur-6423_165_social-56_3788	165	0	fallow deer	social	100.0
+adaptation	Eur-6423_171_deer-2	Eur-6423_171_social-10	Eur-6423_171_deer-2_3855	171	Eur-6423_171_social-10_3788	171	0	fallow deer	social	100.0
+adaptation	Tai-3286_120_reindeer-30	Tai-3286_120_herbivorous-11	Tai-3286_120_reindeer-30_5413	120	Tai-3286_120_herbivorous-11_3784	120	0	reindeer	herbivorous	100.0
+adaptation	Tai-3286_120_tarandus-28	Tai-3286_120_herbivorous-11	Tai-3286_120_tarandus-28_3216	120	Tai-3286_120_herbivorous-11_3784	120	0	Rangifer tarandus	herbivorous	87.0
+adaptation	Cam-1690_117_dromedarius-9	Cam-1690_117_social-34	Cam-1690_117_dromedarius-9_2060	117	Cam-1690_117_social-34_3788	117	0	Camelus dromedarius	social	87.0
+adaptation	Rei-38eb_492_caribou-24	Rei-38eb_492_migrations-27	Rei-38eb_492_caribou-24_5414	492	Rei-38eb_492_migrations-27_1	492	0	caribou	Migration	83.0
+adaptation	Rei-38eb_153_caribou-35	Rei-38eb_153_migrations-39	Rei-38eb_153_caribou-35_5414	153	Rei-38eb_153_migrations-39_1	153	0	caribou	Migration	83.0
+adaptation	Rei-38eb_374_caribou-5	Rei-38eb_374_migrations-13	Rei-38eb_374_caribou-5_5414	374	Rei-38eb_374_migrations-13_3781	374	0	caribou	migration	83.0
+adaptation	Rei-38eb_375_caribou-11	Rei-38eb_375_migrations-2	Rei-38eb_375_caribou-11_5414	375	Rei-38eb_375_migrations-2_1	375	0	caribou	Migration	83.0
+adaptation	Rei-38eb_75_caribou-12	Rei-38eb_75_migration-33	Rei-38eb_75_caribou-12_5414	75	Rei-38eb_75_migration-33_1	75	0	caribou	Migration	83.0
+adaptation	Tai-3286_120_caribou-34	Tai-3286_120_herbivorous-11	Tai-3286_120_caribou-34_5414	120	Tai-3286_120_herbivorous-11_3784	120	0	caribou	herbivorous	83.0
+adaptation	Ott-886b_6_boars-23	Ott-886b_6_social-14	Ott-886b_6_boars-23_5634	6	Ott-886b_6_social-14_3788	6	0	boar	social	83.0
+adaptation	Eur-3123_127_boars-14	Eur-3123_127_social-3	Eur-3123_127_boars-14_5634	127	Eur-3123_127_social-3_3788	127	0	boar	social	83.0
+adaptation	Rei-38eb_234_caribou-11	Rei-38eb_234_social-8	Rei-38eb_234_caribou-11_5414	234	Rei-38eb_234_social-8_3788	234	0	caribou	social	83.0
+adaptation	Sno-0a8f_359_reindeer-37	Sno-0a8f_359_parts-43	Sno-0a8f_359_reindeer-37_5413	359	Sno-0a8f_359_parts-43_307	359	0	reindeer	Shedding body parts	66.0
+adaptation	Rei-38eb_530_caribou-4	Rei-38eb_530_parts-19	Rei-38eb_530_caribou-4_5414	530	Rei-38eb_530_parts-19_307	530	0	caribou	Shedding body parts	54.78
+adaptation	Iri-77a8_74_elk-8	Iri-77a8_75_dimorphism-15	Iri-77a8_74_elk-8_4897	74	Iri-77a8_75_dimorphism-15_14	75	1	elk	Sexual dimorphism	50.0
+adaptation	Iri-77a8_74_elk-38	Iri-77a8_75_dimorphism-15	Iri-77a8_74_elk-38_4897	74	Iri-77a8_75_dimorphism-15_3791	75	1	elk	sexual dimorphism	50.0
+adaptation	Dee-529a_90_elk-30	Dee-529a_89_dimorphism-2	Dee-529a_90_elk-30_4897	90	Dee-529a_89_dimorphism-2_3791	89	1	elk	sexual dimorphism	50.0
+adaptation	Iri-77a8_74_elk-38	Iri-77a8_75_social-5	Iri-77a8_74_elk-38_4897	74	Iri-77a8_75_social-5_3788	75	1	elk	social	50.0
+adaptation	Iri-77a8_74_elk-33	Iri-77a8_75_social-5	Iri-77a8_74_elk-33_4897	74	Iri-77a8_75_social-5_3788	75	1	elk	social	50.0
+adaptation	Iri-77a8_74_elk-8	Iri-77a8_75_social-5	Iri-77a8_74_elk-8_4897	74	Iri-77a8_75_social-5_3788	75	1	elk	social	50.0
+adaptation	Iri-77a8_76_elk-5	Iri-77a8_75_social-5	Iri-77a8_76_elk-5_4897	76	Iri-77a8_75_social-5_3788	75	1	elk	social	50.0
+adaptation	Elk-a58a_147_elk-10	Elk-a58a_146_migration-14	Elk-a58a_147_elk-10_4897	147	Elk-a58a_146_migration-14_3781	146	1	elk	migration	50.0
+adaptation	Wil-57af_116_boar-2	Wil-57af_117_Social-1	Wil-57af_116_boar-2_3682	116	Wil-57af_117_Social-1_3788	117	1	Wild boar	social	50.0
+adaptation	Elk-a58a_141_elk-16	Elk-a58a_142_migration-4	Elk-a58a_141_elk-16_4897	141	Elk-a58a_142_migration-4_3781	142	1	elk	migration	50.0
+adaptation	Tai-3286_121_elk-22	Tai-3286_120_herbivorous-11	Tai-3286_121_elk-22_4897	121	Tai-3286_120_herbivorous-11_3784	120	1	elk	herbivorous	50.0
+adaptation	Iri-77a8_76_elk-5	Iri-77a8_75_dimorphism-15	Iri-77a8_76_elk-5_4897	76	Iri-77a8_75_dimorphism-15_14	75	1	elk	Sexual dimorphism	50.0
+adaptation	Ani-57f1_73_deer-11	Ani-57f1_74_territorial-16	Ani-57f1_73_deer-11_5398	73	Ani-57f1_74_territorial-16_3985	74	1	red deer	territorial	50.0
+adaptation	Art-6267_148_giraffe-33	Art-6267_149_dimorphism-11	Art-6267_148_giraffe-33_5013	148	Art-6267_149_dimorphism-11_3791	149	1	giraffe	sexual dimorphism	50.0
+adaptation	Iri-77a8_74_elk-33	Iri-77a8_75_dimorphism-15	Iri-77a8_74_elk-33_4897	74	Iri-77a8_75_dimorphism-15_14	75	1	elk	Sexual dimorphism	50.0
+adaptation	Bac-9099_68_camels-2	Bac-9099_69_herbivorous-4	Bac-9099_68_camels-2_4272	68	Bac-9099_69_herbivorous-4_3784	69	1	camels	herbivorous	50.0
+adaptation	Mam-3742_435_deer-25	Mam-3742_434_social-23	Mam-3742_435_deer-25_5398	435	Mam-3742_434_social-23_3788	434	1	red deer	social	50.0
+adaptation	Eur-6423_164_deer-5	Eur-6423_165_social-56	Eur-6423_164_deer-5_3855	164	Eur-6423_165_social-56_3788	165	1	fallow deer	social	50.0
+adaptation	Nea-dd93_343_deer-16	Nea-dd93_342_herbivorous-56	Nea-dd93_343_deer-16_5398	343	Nea-dd93_342_herbivorous-56_3784	342	1	red deer	herbivorous	50.0
+adaptation	Eur-6423_166_deer-4	Eur-6423_165_social-56	Eur-6423_166_deer-4_3855	166	Eur-6423_165_social-56_3788	165	1	fallow deer	social	50.0
+adaptation	Her-8d89_181_giraffes-25	Her-8d89_180_herbivorous-7	Her-8d89_181_giraffes-25_5013	181	Her-8d89_180_herbivorous-7_3784	180	1	giraffe	herbivorous	50.0
+adaptation	Rei-38eb_557_Reindeer-1	Rei-38eb_558_migration-21	Rei-38eb_557_Reindeer-1_3215	557	Rei-38eb_558_migration-21_1	558	1	Reindeer	Migration	50.0
+adaptation	Rei-38eb_493_Reindeer-1	Rei-38eb_492_migrations-27	Rei-38eb_493_Reindeer-1_3215	493	Rei-38eb_492_migrations-27_1	492	1	Reindeer	Migration	50.0
+adaptation	Rei-38eb_491_Reindeer-1	Rei-38eb_492_migrations-27	Rei-38eb_491_Reindeer-1_3215	491	Rei-38eb_492_migrations-27_1	492	1	Reindeer	Migration	50.0
+adaptation	Rei-38eb_7_Reindeer-1	Rei-38eb_6_migration-18	Rei-38eb_7_Reindeer-1_3215	7	Rei-38eb_6_migration-18_1	6	1	Reindeer	Migration	50.0
+adaptation	Rei5e90_10_Reindeer-1	Rei5e90_9_migration-2	Rei5e90_10_Reindeer-1_3215	10	Rei5e90_9_migration-2_1	9	1	Reindeer	Migration	50.0
+adaptation	Rei5e90_22_Reindeer-1	Rei5e90_23_migration-3	Rei5e90_22_Reindeer-1_3215	22	Rei5e90_23_migration-3_1	23	1	Reindeer	Migration	50.0
+adaptation	Rei-38eb_233_reindeer-2	Rei-38eb_234_social-8	Rei-38eb_233_reindeer-2_5413	233	Rei-38eb_234_social-8_3788	234	1	reindeer	social	50.0
+adaptation	Com-597e_45_warthog-2	Com-597e_46_Social-1	Com-597e_45_warthog-2_5604	45	Com-597e_46_Social-1_3788	46	1	warthog	social	50.0
+adaptation	Com-597e_47_warthogs-2	Com-597e_46_Social-1	Com-597e_47_warthogs-2_5604	47	Com-597e_46_Social-1_3788	46	1	warthog	social	50.0
+adaptation	Sik-94e7_54_deer-3	Sik-94e7_55_territorial-4	Sik-94e7_54_deer-3_3900	54	Sik-94e7_55_territorial-4_3985	55	1	sika deer	territorial	50.0
+adaptation	Nea-dd93_343_reindeer-18	Nea-dd93_342_herbivorous-56	Nea-dd93_343_reindeer-18_5413	343	Nea-dd93_342_herbivorous-56_3784	342	1	reindeer	herbivorous	50.0
+adaptation	Elk-a58a_147_Elk-18	Elk-a58a_146_migration-14	Elk-a58a_147_Elk-18_2107	147	Elk-a58a_146_migration-14_3781	146	1	Elk	migration	50.0
+adaptation	Sik-94e7_47_deer-2	Sik-94e7_48_nocturnal-22	Sik-94e7_47_deer-2_236	47	Sik-94e7_48_nocturnal-22_3967	48	1	Sika deer	nocturnal	50.0
+adaptation	Rei-38eb_309_reindeer-6	Rei-38eb_308_communication-29	Rei-38eb_309_reindeer-6_5413	309	Rei-38eb_308_communication-29_3783	308	1	reindeer	acoustic communication	50.0
+adaptation	Rei-38eb_307_reindeer-24	Rei-38eb_308_communication-29	Rei-38eb_307_reindeer-24_5413	307	Rei-38eb_308_communication-29_3783	308	1	reindeer	acoustic communication	50.0
+adaptation	Rei-38eb_360_caribou-6	Rei-38eb_359_Social-1	Rei-38eb_360_caribou-6_5414	360	Rei-38eb_359_Social-1_3788	359	1	caribou	social	41.5
+adaptation	Rei-38eb_235_caribou-4	Rei-38eb_234_social-8	Rei-38eb_235_caribou-4_5414	235	Rei-38eb_234_social-8_3788	234	1	caribou	social	41.5
+adaptation	Rei-38eb_360_caribou-23	Rei-38eb_359_Social-1	Rei-38eb_360_caribou-23_5414	360	Rei-38eb_359_Social-1_3788	359	1	caribou	social	41.5
+adaptation	Tyr-70f1_308_Wapiti-5	Tyr-70f1_307_social-20	Tyr-70f1_308_Wapiti-5_2110	308	Tyr-70f1_307_social-20_3788	307	1	Wapiti	social	41.5
+adaptation	Ott-886b_6_boars-23	Ott-886b_7_social-26	Ott-886b_6_boars-23_5634	6	Ott-886b_7_social-26_3788	7	1	boar	social	41.5
+adaptation	Wil-57af_119_boars-2	Wil-57af_118_social-4	Wil-57af_119_boars-2_5634	119	Wil-57af_118_social-4_3788	118	1	boar	social	41.5
+adaptation	Eur-3123_128_boars-2	Eur-3123_127_social-3	Eur-3123_128_boars-2_5634	128	Eur-3123_127_social-3_3788	127	1	boar	social	41.5
+adaptation	Wil-57af_376_boar-21	Wil-57af_375_nocturnal-21	Wil-57af_376_boar-21_5634	376	Wil-57af_375_nocturnal-21_3967	375	1	boar	nocturnal	41.5
+adaptation	Wil-57af_374_boar-9	Wil-57af_375_nocturnal-21	Wil-57af_374_boar-9_5634	374	Wil-57af_375_nocturnal-21_3967	375	1	boar	nocturnal	41.5
+adaptation	Rei-38eb_360_caribou-18	Rei-38eb_359_Social-1	Rei-38eb_360_caribou-18_5414	360	Rei-38eb_359_Social-1_3788	359	1	caribou	social	41.5
+adaptation	Bac-9099_71_camels-10	Bac-9099_69_herbivorous-4	Bac-9099_71_camels-10_952	71	Bac-9099_69_herbivorous-4_3784	69	2	Camels	herbivorous	33.333
+adaptation	Wil-57af_116_boar-2	Wil-57af_118_social-4	Wil-57af_116_boar-2_5633	116	Wil-57af_118_social-4_3788	118	2	wild boar	social	33.333
+adaptation	Elk-a58a_144_Elk-1	Elk-a58a_146_migration-14	Elk-a58a_144_Elk-1_2107	144	Elk-a58a_146_migration-14_1	146	2	Elk	Migration	33.333
+adaptation	Wil-57af_465_boar-3	Wil-57af_467_nocturnal-6	Wil-57af_465_boar-3_5633	465	Wil-57af_467_nocturnal-6_3967	467	2	wild boar	nocturnal	33.333
+adaptation	Eur-6423_212_deer-14	Eur-6423_214_dimorphism-16	Eur-6423_212_deer-14_3855	212	Eur-6423_214_dimorphism-16_3791	214	2	fallow deer	sexual dimorphism	33.333
+adaptation	Com-597e_48_warthogs-2	Com-597e_46_Social-1	Com-597e_48_warthogs-2_5604	48	Com-597e_46_Social-1_3788	46	2	warthog	social	33.333
+adaptation	Elk-a58a_144_Elk-1	Elk-a58a_142_migration-4	Elk-a58a_144_Elk-1_2107	144	Elk-a58a_142_migration-4_3781	142	2	Elk	migration	33.333
+adaptation	Elk-a58a_148_Elk-1	Elk-a58a_146_migration-14	Elk-a58a_148_Elk-1_2107	148	Elk-a58a_146_migration-14_3781	146	2	Elk	migration	33.333
+adaptation	Com-597e_44_warthogs-2	Com-597e_46_Social-1	Com-597e_44_warthogs-2_5604	44	Com-597e_46_Social-1_3788	46	2	warthog	social	33.333
+adaptation	Iri-77a8_73_elk-27	Iri-77a8_75_social-5	Iri-77a8_73_elk-27_2603	73	Iri-77a8_75_social-5_3788	75	2	Irish elk	social	33.333
+adaptation	Mam-3742_435_deer-25	Mam-3742_437_Social-1	Mam-3742_435_deer-25_5398	435	Mam-3742_437_Social-1_3788	437	2	red deer	social	33.333
+adaptation	Iri-77a8_73_elk-27	Iri-77a8_75_dimorphism-15	Iri-77a8_73_elk-27_2603	73	Iri-77a8_75_dimorphism-15_3791	75	2	Irish elk	sexual dimorphism	33.333
+adaptation	Sau-89d2_91_giraffe-26	Sau-89d2_89_herbivorous-14	Sau-89d2_91_giraffe-26_5013	91	Sau-89d2_89_herbivorous-14_3784	89	2	giraffe	herbivorous	33.333
+adaptation	Dom-6f87_62_deer-3	Dom-6f87_60_social-7	Dom-6f87_62_deer-3_5398	62	Dom-6f87_60_social-7_3788	60	2	red deer	social	33.333
+adaptation	Ani-57f1_73_deer-11	Ani-57f1_71_social-21	Ani-57f1_73_deer-11_5398	73	Ani-57f1_71_social-21_3788	71	2	red deer	social	33.333
+adaptation	Igu-76d2_290_giraffe-20	Igu-76d2_288_herbivorous-17	Igu-76d2_290_giraffe-20_5013	290	Igu-76d2_288_herbivorous-17_3784	288	2	giraffe	herbivorous	33.333
+adaptation	Mam-3742_435_deer-25	Mam-3742_437_territorial-5	Mam-3742_435_deer-25_5398	435	Mam-3742_437_territorial-5_3985	437	2	red deer	territorial	33.333
+adaptation	Rei-38eb_357_Reindeer-1	Rei-38eb_359_Social-1	Rei-38eb_357_Reindeer-1_3215	357	Rei-38eb_359_Social-1_3788	359	2	Reindeer	social	33.333
+adaptation	Rei-38eb_310_reindeer-7	Rei-38eb_308_communication-29	Rei-38eb_310_reindeer-7_5413	310	Rei-38eb_308_communication-29_3783	308	2	reindeer	acoustic communication	33.333
+adaptation	Mace92d_22_deer-2	Mace92d_24_social-10	Mace92d_22_deer-2_236	22	Mace92d_24_social-10_3788	24	2	Sika deer	social	33.333
+adaptation	Dal-d353_75_Caribou-1	Dal-d353_77_migration-27	Dal-d353_75_Caribou-1_3217	75	Dal-d353_77_migration-27_1	77	2	Caribou	Migration	27.667
+adaptation	Rei5e90_25_Caribou-1	Rei5e90_23_migration-3	Rei5e90_25_Caribou-1_3217	25	Rei5e90_23_migration-3_1	23	2	Caribou	Migration	27.667
+adaptation	Eur-3123_131_Boars-1	Eur-3123_133_social-5	Eur-3123_131_Boars-1_3684	131	Eur-3123_133_social-5_3788	133	2	Boar	social	27.667
+adaptation	Tyr-9f97_522_Wapiti-16	Tyr-9f97_524_social-10	Tyr-9f97_522_Wapiti-16_2110	522	Tyr-9f97_524_social-10_3788	524	2	Wapiti	social	27.667
+adaptation	Rei-38eb_531_caribou-16	Rei-38eb_530_parts-19	Rei-38eb_531_caribou-16_5414	531	Rei-38eb_530_parts-19_3936	530	1	caribou	shedding body parts	27.39
+adaptation	Cam-5746_3_guanacos-27	Cam-5746_6_herbivorous-6	Cam-5746_3_guanacos-27_5071	3	Cam-5746_6_herbivorous-6_3784	6	3	guanaco	herbivorous	25.0
+adaptation	Dee-529a_92_deer-10	Dee-529a_89_dimorphism-2	Dee-529a_92_deer-10_3900	92	Dee-529a_89_dimorphism-2_3791	89	3	sika deer	sexual dimorphism	25.0
+adaptation	Dee-529a_92_deer-14	Dee-529a_89_dimorphism-2	Dee-529a_92_deer-14_3900	92	Dee-529a_89_dimorphism-2_14	89	3	sika deer	Sexual dimorphism	25.0
+adaptation	Sik-94e7_33_deer-8	Sik-94e7_30_dimorphism-20	Sik-94e7_33_deer-8_3900	33	Sik-94e7_30_dimorphism-20_14	30	3	sika deer	Sexual dimorphism	25.0
+adaptation	Rei-38eb_305_reindeer-9	Rei-38eb_308_communication-29	Rei-38eb_305_reindeer-9_5413	305	Rei-38eb_308_communication-29_3783	308	3	reindeer	acoustic communication	25.0
+adaptation	Wil-57af_470_boar-11	Wil-57af_467_nocturnal-6	Wil-57af_470_boar-11_5633	470	Wil-57af_467_nocturnal-6_3967	467	3	wild boar	nocturnal	25.0
+adaptation	Wil-57af_470_boar-23	Wil-57af_467_nocturnal-6	Wil-57af_470_boar-23_5633	470	Wil-57af_467_nocturnal-6_3967	467	3	wild boar	nocturnal	25.0
+adaptation	Com-597e_43_warthogs-5	Com-597e_46_Social-1	Com-597e_43_warthogs-5_5604	43	Com-597e_46_Social-1_3788	46	3	warthog	social	25.0
+adaptation	Sik-94e7_33_deer-60	Sik-94e7_30_dimorphism-20	Sik-94e7_33_deer-60_3900	33	Sik-94e7_30_dimorphism-20_3791	30	3	sika deer	sexual dimorphism	25.0
+adaptation	Eur-6423_211_deer-3	Eur-6423_214_dimorphism-16	Eur-6423_211_deer-3_3855	211	Eur-6423_214_dimorphism-16_3791	214	3	fallow deer	sexual dimorphism	25.0
+adaptation	Eur-6423_212_deer-14	Eur-6423_215_dimorphism-11	Eur-6423_212_deer-14_3855	212	Eur-6423_215_dimorphism-11_3791	215	3	fallow deer	sexual dimorphism	25.0
+adaptation	Cam-4bd8_150_giraffes-17	Cam-4bd8_147_Camouflage-1	Cam-4bd8_150_giraffes-17_5013	150	Cam-4bd8_147_Camouflage-1_319	147	3	giraffe	Camouflage	25.0
+adaptation	Bac-9099_66_camel-2	Bac-9099_69_herbivorous-4	Bac-9099_66_camel-2_1623	66	Bac-9099_69_herbivorous-4_3784	69	3	Bactrian camel	herbivorous	25.0
+adaptation	Cam-5746_3_camels-18	Cam-5746_6_herbivorous-6	Cam-5746_3_camels-18_952	3	Cam-5746_6_herbivorous-6_3784	6	3	Camels	herbivorous	25.0
+adaptation	Cam-5746_3_camels-14	Cam-5746_6_herbivorous-6	Cam-5746_3_camels-14_4272	3	Cam-5746_6_herbivorous-6_3784	6	3	camels	herbivorous	25.0
+adaptation	Elk-a58a_139_Elk-1	Elk-a58a_142_migration-4	Elk-a58a_139_Elk-1_2107	139	Elk-a58a_142_migration-4_3781	142	3	Elk	migration	25.0
+adaptation	Rei-38eb_311_Reindeer-1	Rei-38eb_308_communication-29	Rei-38eb_311_Reindeer-1_3215	311	Rei-38eb_308_communication-29_3783	308	3	Reindeer	acoustic communication	25.0
+adaptation	Rei-38eb_237_Reindeer-1	Rei-38eb_234_social-8	Rei-38eb_237_Reindeer-1_3215	237	Rei-38eb_234_social-8_3788	234	3	Reindeer	social	25.0
+adaptation	Cam-1690_189_camel-10	Cam-1690_192_social-28	Cam-1690_189_camel-10_4869	189	Cam-1690_192_social-28_3788	192	3	dromedary camel	social	25.0
+adaptation	Cam-5746_3_camels-11	Cam-5746_6_herbivorous-6	Cam-5746_3_camels-11_4272	3	Cam-5746_6_herbivorous-6_3784	6	3	camels	herbivorous	25.0
+adaptation	Mace92d_22_deer-2	Mace92d_25_Social-1	Mace92d_22_deer-2_236	22	Mace92d_25_Social-1_3788	25	3	Sika deer	social	25.0
+adaptation	Wil-57af_378_boar-9	Wil-57af_375_nocturnal-21	Wil-57af_378_boar-9_5634	378	Wil-57af_375_nocturnal-21_3967	375	3	boar	nocturnal	20.75
+adaptation	Eur-3123_131_Boars-1	Eur-3123_134_nocturnal-5	Eur-3123_131_Boars-1_3684	131	Eur-3123_134_nocturnal-5_3967	134	3	Boar	nocturnal	20.75
+adaptation	Wil-57af_378_boar-24	Wil-57af_375_nocturnal-21	Wil-57af_378_boar-24_5634	378	Wil-57af_375_nocturnal-21_3967	375	3	boar	nocturnal	20.75
+adaptation	Wil-57af_372_boar-16	Wil-57af_375_nocturnal-21	Wil-57af_372_boar-16_5634	372	Wil-57af_375_nocturnal-21_3967	375	3	boar	nocturnal	20.75
+adaptation	Bog-cdf9_49_caribou-10	Bog-cdf9_52_viviparous-5	Bog-cdf9_49_caribou-10_5414	49	Bog-cdf9_52_viviparous-5_3795	52	3	caribou	viviparous	20.75
+adaptation	Sik-94e7_54_deer-3	Sik-94e7_58_territorial-6	Sik-94e7_54_deer-3_3900	54	Sik-94e7_58_territorial-6_3985	58	4	sika deer	territorial	20.0
+adaptation	Mac-9f03_45_giraffes-20	Mac-9f03_41_herbivorous-14	Mac-9f03_45_giraffes-20_5013	45	Mac-9f03_41_herbivorous-14_3784	41	4	giraffe	herbivorous	20.0
+adaptation	Cam-1690_92_guanacos-41	Cam-1690_96_migration-48	Cam-1690_92_guanacos-41_5071	92	Cam-1690_96_migration-48_1	96	4	guanaco	Migration	20.0
+adaptation	Bac-9099_65_camels-5	Bac-9099_69_herbivorous-4	Bac-9099_65_camels-5_4272	65	Bac-9099_69_herbivorous-4_3784	69	4	camels	herbivorous	20.0
+adaptation	Mas-675c_40_hippopotamus-28	Mas-675c_44_herbivorous-14	Mas-675c_40_hippopotamus-28_5095	40	Mas-675c_44_herbivorous-14_3784	44	4	hippopotamus	herbivorous	20.0
+adaptation	Iri-77a8_71_elk-3	Iri-77a8_75_dimorphism-15	Iri-77a8_71_elk-3_2603	71	Iri-77a8_75_dimorphism-15_14	75	4	Irish elk	Sexual dimorphism	20.0
+adaptation	Sik-94e7_34_deer-14	Sik-94e7_30_dimorphism-20	Sik-94e7_34_deer-14_3900	34	Sik-94e7_30_dimorphism-20_3791	30	4	sika deer	sexual dimorphism	20.0
+adaptation	Dip-988a_3_hippopotamus-5	Dip-988a_7_herbivorous-36	Dip-988a_3_hippopotamus-5_5095	3	Dip-988a_7_herbivorous-36_3784	7	4	hippopotamus	herbivorous	20.0
+adaptation	Dee-529a_93_reindeer-3	Dee-529a_89_dimorphism-2	Dee-529a_93_reindeer-3_5413	93	Dee-529a_89_dimorphism-2_14	89	4	reindeer	Sexual dimorphism	20.0
+adaptation	Igu-76d2_292_giraffe-2	Igu-76d2_288_herbivorous-17	Igu-76d2_292_giraffe-2_5013	292	Igu-76d2_288_herbivorous-17_3784	288	4	giraffe	herbivorous	20.0
+adaptation	Camdcda_9_giraffe-7	Camdcda_5_Camouflage-1	Camdcda_9_giraffe-7_2366	9	Camdcda_5_Camouflage-1_319	5	4	Giraffe	Camouflage	20.0
+adaptation	Wil-57af_471_boar-33	Wil-57af_467_nocturnal-6	Wil-57af_471_boar-33_3682	471	Wil-57af_467_nocturnal-6_3967	467	4	Wild boar	nocturnal	20.0
+adaptation	Wil-57af_471_boar-8	Wil-57af_467_nocturnal-6	Wil-57af_471_boar-8_5633	471	Wil-57af_467_nocturnal-6_3967	467	4	wild boar	nocturnal	20.0
+adaptation	Eur-6423_211_deer-3	Eur-6423_215_dimorphism-11	Eur-6423_211_deer-3_3855	211	Eur-6423_215_dimorphism-11_3791	215	4	fallow deer	sexual dimorphism	20.0
+adaptation	Iri-77a8_79_elk-10	Iri-77a8_75_social-5	Iri-77a8_79_elk-10_2603	79	Iri-77a8_75_social-5_3788	75	4	Irish elk	social	20.0
+adaptation	Com-597e_42_warthog-6	Com-597e_46_Social-1	Com-597e_42_warthog-6_5604	42	Com-597e_46_Social-1_3788	46	4	warthog	social	20.0
+adaptation	Iri-77a8_71_elk-3	Iri-77a8_75_social-5	Iri-77a8_71_elk-3_2603	71	Iri-77a8_75_social-5_3788	75	4	Irish elk	social	20.0
+adaptation	Elk-a58a_146_elk-13	Elk-a58a_142_migration-4	Elk-a58a_146_elk-13_4897	146	Elk-a58a_142_migration-4_1	142	4	elk	Migration	20.0
+adaptation	Iri-77a8_79_elk-10	Iri-77a8_75_dimorphism-15	Iri-77a8_79_elk-10_2603	79	Iri-77a8_75_dimorphism-15_3791	75	4	Irish elk	sexual dimorphism	20.0
+adaptation	Elk-a58a_150_Elk-1	Elk-a58a_146_migration-14	Elk-a58a_150_Elk-1_4897	150	Elk-a58a_146_migration-14_3781	146	4	elk	migration	20.0
+adaptation	Rei-38eb_363_reindeer-11	Rei-38eb_359_Social-1	Rei-38eb_363_reindeer-11_5413	363	Rei-38eb_359_Social-1_3788	359	4	reindeer	social	20.0
+adaptation	Dee-529a_284_reindeer-5	Dee-529a_280_social-7	Dee-529a_284_reindeer-5_5413	284	Dee-529a_280_social-7_3788	280	4	reindeer	social	20.0
+adaptation	Rei-38eb_528_caribou-19	Rei-38eb_530_parts-19	Rei-38eb_528_caribou-19_5414	528	Rei-38eb_530_parts-19_307	530	2	caribou	Shedding body parts	18.26
+adaptation	Rei-38eb_532_caribou-31	Rei-38eb_530_parts-19	Rei-38eb_532_caribou-31_5414	532	Rei-38eb_530_parts-19_3936	530	2	caribou	shedding body parts	18.26
+adaptation	Rei-38eb_532_caribou-7	Rei-38eb_530_parts-19	Rei-38eb_532_caribou-7_5414	532	Rei-38eb_530_parts-19_3936	530	2	caribou	shedding body parts	18.26
+adaptation	Rei-38eb_532_caribou-21	Rei-38eb_530_parts-19	Rei-38eb_532_caribou-21_5414	532	Rei-38eb_530_parts-19_3936	530	2	caribou	shedding body parts	18.26
+adaptation	Rei-38eb_528_caribou-34	Rei-38eb_530_parts-19	Rei-38eb_528_caribou-34_5414	528	Rei-38eb_530_parts-19_307	530	2	caribou	Shedding body parts	18.26
+adaptation	Rei-38eb_532_caribou-40	Rei-38eb_530_parts-19	Rei-38eb_532_caribou-40_5414	532	Rei-38eb_530_parts-19_307	530	2	caribou	Shedding body parts	18.26
+adaptation	Rei-38eb_313_reindeer-13	Rei-38eb_308_communication-29	Rei-38eb_313_reindeer-13_5413	313	Rei-38eb_308_communication-29_3783	308	5	reindeer	acoustic communication	16.667
+adaptation	Iri-77a8_70_elk-2	Iri-77a8_75_dimorphism-15	Iri-77a8_70_elk-2_2603	70	Iri-77a8_75_dimorphism-15_3791	75	5	Irish elk	sexual dimorphism	16.667
+adaptation	Iri-77a8_70_elk-2	Iri-77a8_75_social-5	Iri-77a8_70_elk-2_2603	70	Iri-77a8_75_social-5_3788	75	5	Irish elk	social	16.667
+adaptation	Rei-38eb_364_reindeer-2	Rei-38eb_359_Social-1	Rei-38eb_364_reindeer-2_5413	364	Rei-38eb_359_Social-1_3788	359	5	reindeer	social	16.667
+adaptation	Wil-57af_462_boar-2	Wil-57af_467_nocturnal-6	Wil-57af_462_boar-2_3682	462	Wil-57af_467_nocturnal-6_3967	467	5	Wild boar	nocturnal	16.667
+adaptation	Rei-38eb_239_reindeer-12	Rei-38eb_234_social-8	Rei-38eb_239_reindeer-12_5413	239	Rei-38eb_234_social-8_3788	234	5	reindeer	social	16.667
+adaptation	Dee-529a_94_Deer-1	Dee-529a_89_dimorphism-2	Dee-529a_94_Deer-1_5398	94	Dee-529a_89_dimorphism-2_3791	89	5	red deer	sexual dimorphism	16.667
+adaptation	Elk-a58a_151_elk-14	Elk-a58a_146_migration-14	Elk-a58a_151_elk-14_4897	151	Elk-a58a_146_migration-14_1	146	5	elk	Migration	16.667
+adaptation	Elk-a58a_141_elk-16	Elk-a58a_146_migration-14	Elk-a58a_141_elk-16_4897	141	Elk-a58a_146_migration-14_1	146	5	elk	Migration	16.667
+adaptation	Pum-f726_49_guanaco-16	Pum-f726_44_social-4	Pum-f726_49_guanaco-16_5071	49	Pum-f726_44_social-4_3788	44	5	guanaco	social	16.667
+adaptation	Dee-529a_94_deer-14	Dee-529a_89_dimorphism-2	Dee-529a_94_deer-14_5398	94	Dee-529a_89_dimorphism-2_3791	89	5	red deer	sexual dimorphism	16.667
+adaptation	Elk-a58a_147_elk-10	Elk-a58a_142_migration-4	Elk-a58a_147_elk-10_4897	147	Elk-a58a_142_migration-4_1	142	5	elk	Migration	16.667
+adaptation	Cam-4bd8_150_giraffes-17	Cam-4bd8_155_Camouflage-1	Cam-4bd8_150_giraffes-17_2366	150	Cam-4bd8_155_Camouflage-1_319	155	5	Giraffe	Camouflage	16.667
+adaptation	Eur-3123_131_Boars-1	Eur-3123_127_social-3	Eur-3123_131_Boars-1_3684	131	Eur-3123_127_social-3_3788	127	4	Boar	social	16.6
+adaptation	Tyr-70f1_308_Wapiti-5	Tyr-70f1_312_social-34	Tyr-70f1_308_Wapiti-5_2110	308	Tyr-70f1_312_social-34_3788	312	4	Wapiti	social	16.6
+adaptation	Rei-38eb_533_Reindeer-1	Rei-38eb_530_parts-19	Rei-38eb_533_Reindeer-1_3215	533	Rei-38eb_530_parts-19_3936	530	3	Reindeer	shedding body parts	16.5
+adaptation	Com-597e_40_warthog-3	Com-597e_46_Social-1	Com-597e_40_warthog-3_5604	40	Com-597e_46_Social-1_3788	46	6	warthog	social	14.286
+adaptation	Sik-94e7_54_deer-3	Sik-94e7_48_nocturnal-22	Sik-94e7_54_deer-3_3900	54	Sik-94e7_48_nocturnal-22_3967	48	6	sika deer	nocturnal	14.286
+adaptation	Bac-9099_63_camels-2	Bac-9099_69_herbivorous-4	Bac-9099_63_camels-2_952	63	Bac-9099_69_herbivorous-4_3784	69	6	Camels	herbivorous	14.286
+adaptation	Sik-94e7_64_deer-3	Sik-94e7_58_territorial-6	Sik-94e7_64_deer-3_3900	64	Sik-94e7_58_territorial-6_3985	58	6	sika deer	territorial	14.286
+adaptation	Her-8d89_181_giraffes-25	Her-8d89_187_Herbivorous-6	Her-8d89_181_giraffes-25_2366	181	Her-8d89_187_Herbivorous-6_6	187	6	Giraffe	Herbivorous	14.286
+adaptation	Rei-38eb_240_reindeer-2	Rei-38eb_234_social-8	Rei-38eb_240_reindeer-2_5413	240	Rei-38eb_234_social-8_3788	234	6	reindeer	social	14.286
+adaptation	Sik-94e7_24_deer-9	Sik-94e7_30_dimorphism-20	Sik-94e7_24_deer-9_3900	24	Sik-94e7_30_dimorphism-20_3791	30	6	sika deer	sexual dimorphism	14.286
+adaptation	Sik-94e7_24_deer-3	Sik-94e7_30_dimorphism-20	Sik-94e7_24_deer-3_3900	24	Sik-94e7_30_dimorphism-20_14	30	6	sika deer	Sexual dimorphism	14.286
+adaptation	Cam-4bd8_119_giraffes-19	Cam-4bd8_125_Camouflage-1	Cam-4bd8_119_giraffes-19_2366	119	Cam-4bd8_125_Camouflage-1_319	125	6	Giraffe	Camouflage	14.286
+adaptation	Sik-94e7_64_deer-9	Sik-94e7_58_territorial-6	Sik-94e7_64_deer-9_3900	64	Sik-94e7_58_territorial-6_3985	58	6	sika deer	territorial	14.286
+adaptation	Rei-38eb_69_elk-22	Rei-38eb_75_migration-33	Rei-38eb_69_elk-22_4897	69	Rei-38eb_75_migration-33_3781	75	6	elk	migration	14.286
+adaptation	Cam-1690_90_guanacos-23	Cam-1690_96_migration-48	Cam-1690_90_guanacos-23_5071	90	Cam-1690_96_migration-48_1	96	6	guanaco	Migration	14.286
+adaptation	Ani-57f1_73_deer-11	Ani-57f1_79_social-12	Ani-57f1_73_deer-11_5398	73	Ani-57f1_79_social-12_3788	79	6	red deer	social	14.286
+adaptation	Rei-38eb_431_elk-33	Rei-38eb_425_migration-13	Rei-38eb_431_elk-33_4897	431	Rei-38eb_425_migration-13_3781	425	6	elk	migration	14.286
+adaptation	Eur-6423_208_deer-3	Eur-6423_214_dimorphism-16	Eur-6423_208_deer-3_3855	208	Eur-6423_214_dimorphism-16_3791	214	6	fallow deer	sexual dimorphism	14.286
+adaptation	Rei-38eb_302_Reindeer-1	Rei-38eb_308_communication-29	Rei-38eb_302_Reindeer-1_3215	302	Rei-38eb_308_communication-29_3783	308	6	Reindeer	acoustic communication	14.286
+adaptation	Rei-38eb_527_caribou-44	Rei-38eb_530_parts-19	Rei-38eb_527_caribou-44_5414	527	Rei-38eb_530_parts-19_307	530	3	caribou	Shedding body parts	13.695
+adaptation	Cam-4bd8_113_giraffes-5	Cam-4bd8_106_Camouflage-1	Cam-4bd8_113_giraffes-5_5013	113	Cam-4bd8_106_Camouflage-1_319	106	7	giraffe	Camouflage	12.5
+adaptation	Her-8d89_180_elk-23	Her-8d89_187_Herbivorous-6	Her-8d89_180_elk-23_4897	180	Her-8d89_187_Herbivorous-6_6	187	7	elk	Herbivorous	12.5
+adaptation	Com-597e_39_warthogs-4	Com-597e_46_Social-1	Com-597e_39_warthogs-4_5604	39	Com-597e_46_Social-1_3788	46	7	warthog	social	12.5
+adaptation	Eur-6423_208_deer-3	Eur-6423_215_dimorphism-11	Eur-6423_208_deer-3_3855	208	Eur-6423_215_dimorphism-11_3791	215	7	fallow deer	sexual dimorphism	12.5
+adaptation	Wil-57af_460_boars-20	Wil-57af_467_nocturnal-6	Wil-57af_460_boars-20_5633	460	Wil-57af_467_nocturnal-6_3967	467	7	wild boar	nocturnal	12.5
+adaptation	Wil-57af_474_boar-15	Wil-57af_467_nocturnal-6	Wil-57af_474_boar-15_5633	474	Wil-57af_467_nocturnal-6_3967	467	7	wild boar	nocturnal	12.5
+adaptation	Bac-9099_76_camels-2	Bac-9099_69_herbivorous-4	Bac-9099_76_camels-2_952	76	Bac-9099_69_herbivorous-4_3784	69	7	Camels	herbivorous	12.5
+adaptation	Dee-529a_126_reindeer-5	Dee-529a_119_social-17	Dee-529a_126_reindeer-5_5413	126	Dee-529a_119_social-17_3788	119	7	reindeer	social	12.5
+adaptation	Pèr-9953_55_deer-14	Pèr-9953_48_social-9	Pèr-9953_55_deer-14_5431	55	Pèr-9953_48_social-9_3788	48	7	roe deer	social	12.5
+adaptation	Pum-f726_49_guanaco-16	Pum-f726_42_social-12	Pum-f726_49_guanaco-16_5071	49	Pum-f726_42_social-12_3788	42	7	guanaco	social	12.5
+adaptation	Gre-e890_122_boars-24	Gre-e890_129_social-21	Gre-e890_122_boars-24_3682	122	Gre-e890_129_social-21_3788	129	7	Wild boar	social	12.5
+adaptation	Sik-94e7_48_deer-2	Sik-94e7_55_territorial-4	Sik-94e7_48_deer-2_236	48	Sik-94e7_55_territorial-4_3985	55	7	Sika deer	territorial	12.5
+adaptation	Sik-94e7_23_deer-2	Sik-94e7_30_dimorphism-20	Sik-94e7_23_deer-2_236	23	Sik-94e7_30_dimorphism-20_3791	30	7	Sika deer	sexual dimorphism	12.5
+adaptation	Rei-38eb_315_reindeer-14	Rei-38eb_308_communication-29	Rei-38eb_315_reindeer-14_5413	315	Rei-38eb_308_communication-29_3783	308	7	reindeer	acoustic communication	12.5
+adaptation	Pèr-9953_55_deer-10	Pèr-9953_48_social-9	Pèr-9953_55_deer-10_5431	55	Pèr-9953_48_social-9_3788	48	7	roe deer	social	12.5
+adaptation	Tyr-70f1_308_Wapiti-5	Tyr-70f1_314_social-44	Tyr-70f1_308_Wapiti-5_2110	308	Tyr-70f1_314_social-44_3788	314	6	Wapiti	social	11.857
+adaptation	Mam-3742_475_giraffes-13	Mam-3742_467_herbivorous-32	Mam-3742_475_giraffes-13_5013	475	Mam-3742_467_herbivorous-32_3784	467	8	giraffe	herbivorous	11.111
+taxongroup	Mam-3742_280_camels-7	Mam-3742_280_animal-23	Mam-3742_280_camels-7_952	280	Mam-3742_280_animal-23_44	280	0	Camels	Animals	100.0
+taxongroup	Dee-529a_4_reindeer-18	Dee-529a_4_deer-11	Dee-529a_4_reindeer-18_5413	4	Dee-529a_4_deer-11_4087	4	0	reindeer	deer	100.0
+taxongroup	Rei-38eb_550_reindeer-17	Rei-38eb_550_animals-39	Rei-38eb_550_reindeer-17_5413	550	Rei-38eb_550_animals-39_3812	550	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_58_reindeer-6	Rei-38eb_58_animal-13	Rei-38eb_58_reindeer-6_5413	58	Rei-38eb_58_animal-13_3812	58	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_588_reindeer-37	Rei-38eb_588_animal-5	Rei-38eb_588_reindeer-37_5413	588	Rei-38eb_588_animal-5_3812	588	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_37_reindeer-12	Rei-38eb_37_animals-30	Rei-38eb_37_reindeer-12_5413	37	Rei-38eb_37_animals-30_3812	37	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_275_reindeer-7	Rei-38eb_275_animals-5	Rei-38eb_275_reindeer-7_5413	275	Rei-38eb_275_animals-5_3812	275	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_596_reindeer-10	Rei-38eb_596_animals-13	Rei-38eb_596_reindeer-10_5413	596	Rei-38eb_596_animals-13_3812	596	0	reindeer	animals	100.0
+taxongroup	Art-6267_136_reindeer-21	Art-6267_136_deer-11	Art-6267_136_reindeer-21_5413	136	Art-6267_136_deer-11_4087	136	0	reindeer	deer	100.0
+taxongroup	Dee-529a_3_reindeer-36	Dee-529a_3_deer-47	Dee-529a_3_reindeer-36_5413	3	Dee-529a_3_deer-47_4087	3	0	reindeer	deer	100.0
+taxongroup	Cro-5646_326_reindeer-30	Cro-5646_326_deer-8	Cro-5646_326_reindeer-30_5413	326	Cro-5646_326_deer-8_4087	326	0	reindeer	deer	100.0
+taxongroup	Dee-529a_109_reindeer-10	Dee-529a_109_deer-48	Dee-529a_109_reindeer-10_5413	109	Dee-529a_109_deer-48_4087	109	0	reindeer	deer	100.0
+taxongroup	Dee-529a_3_reindeer-36	Dee-529a_3_deer-26	Dee-529a_3_reindeer-36_5413	3	Dee-529a_3_deer-26_4087	3	0	reindeer	deer	100.0
+taxongroup	Dee-529a_313_reindeer-19	Dee-529a_313_Deer-1	Dee-529a_313_reindeer-19_5413	313	Dee-529a_313_Deer-1_4087	313	0	reindeer	deer	100.0
+taxongroup	Dee-529a_109_reindeer-10	Dee-529a_109_deer-3	Dee-529a_109_reindeer-10_5413	109	Dee-529a_109_deer-3_4087	109	0	reindeer	deer	100.0
+taxongroup	Dee-529a_3_reindeer-36	Dee-529a_3_deer-22	Dee-529a_3_reindeer-36_5413	3	Dee-529a_3_deer-22_4087	3	0	reindeer	deer	100.0
+taxongroup	Mus-840b_32_reindeer-13	Mus-840b_32_deer-20	Mus-840b_32_reindeer-13_5413	32	Mus-840b_32_deer-20_4087	32	0	reindeer	deer	100.0
+taxongroup	Dee-529a_300_reindeer-27	Dee-529a_300_deer-4	Dee-529a_300_reindeer-27_5413	300	Dee-529a_300_deer-4_4087	300	0	reindeer	deer	100.0
+taxongroup	Dee-529a_4_reindeer-18	Dee-529a_4_deer-2	Dee-529a_4_reindeer-18_5413	4	Dee-529a_4_deer-2_4087	4	0	reindeer	deer	100.0
+taxongroup	Dee-529a_109_reindeer-10	Dee-529a_109_deer-61	Dee-529a_109_reindeer-10_5413	109	Dee-529a_109_deer-61_4087	109	0	reindeer	deer	100.0
+taxongroup	Dee-529a_3_reindeer-36	Dee-529a_3_deer-44	Dee-529a_3_reindeer-36_5413	3	Dee-529a_3_deer-44_4087	3	0	reindeer	deer	100.0
+taxongroup	Whi-b4c3_473_reindeer-23	Whi-b4c3_473_deer-20	Whi-b4c3_473_reindeer-23_5413	473	Whi-b4c3_473_deer-20_4087	473	0	reindeer	deer	100.0
+taxongroup	Eur-9931_185_reindeer-50	Eur-9931_185_deer-45	Eur-9931_185_reindeer-50_5413	185	Eur-9931_185_deer-45_4087	185	0	reindeer	deer	100.0
+taxongroup	Nea-dd93_382_reindeer-16	Nea-dd93_382_deer-19	Nea-dd93_382_reindeer-16_5413	382	Nea-dd93_382_deer-19_4087	382	0	reindeer	deer	100.0
+taxongroup	Nea-dd93_343_reindeer-18	Nea-dd93_343_deer-16	Nea-dd93_343_reindeer-18_5413	343	Nea-dd93_343_deer-16_4087	343	0	reindeer	deer	100.0
+taxongroup	Eur-9931_185_reindeer-50	Eur-9931_185_deer-48	Eur-9931_185_reindeer-50_5413	185	Eur-9931_185_deer-48_4087	185	0	reindeer	deer	100.0
+taxongroup	Iri-77a8_149_reindeer-14	Iri-77a8_149_deer-12	Iri-77a8_149_reindeer-14_5413	149	Iri-77a8_149_deer-12_4087	149	0	reindeer	deer	100.0
+taxongroup	Lyn-0465_60_reindeer-15	Lyn-0465_60_deer-13	Lyn-0465_60_reindeer-15_5413	60	Lyn-0465_60_deer-13_4087	60	0	reindeer	deer	100.0
+taxongroup	Lyn-0465_60_reindeer-15	Lyn-0465_60_deer-22	Lyn-0465_60_reindeer-15_5413	60	Lyn-0465_60_deer-22_4087	60	0	reindeer	deer	100.0
+taxongroup	Lyn-0465_60_reindeer-15	Lyn-0465_60_deer-18	Lyn-0465_60_reindeer-15_5413	60	Lyn-0465_60_deer-18_4087	60	0	reindeer	deer	100.0
+taxongroup	Rei-38eb_559_reindeer-3	Rei-38eb_559_animals-23	Rei-38eb_559_reindeer-3_5413	559	Rei-38eb_559_animals-23_3812	559	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_416_reindeer-8	Rei-38eb_416_animals-23	Rei-38eb_416_reindeer-8_5413	416	Rei-38eb_416_animals-23_3812	416	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_315_reindeer-14	Rei-38eb_315_animals-24	Rei-38eb_315_reindeer-14_5413	315	Rei-38eb_315_animals-24_3812	315	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_59_reindeer-16	Rei-38eb_59_animal-23	Rei-38eb_59_reindeer-16_5413	59	Rei-38eb_59_animal-23_3812	59	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_2_reindeer-2	Rei-38eb_2_deer-13	Rei-38eb_2_reindeer-2_5413	2	Rei-38eb_2_deer-13_563	2	0	reindeer	Deer	100.0
+taxongroup	Rei-38eb_546_reindeer-2	Rei-38eb_546_deer-8	Rei-38eb_546_reindeer-2_5413	546	Rei-38eb_546_deer-8_563	546	0	reindeer	Deer	100.0
+taxongroup	Pal-0383_60_reindeer-65	Pal-0383_60_deer-36	Pal-0383_60_reindeer-65_5413	60	Pal-0383_60_deer-36_563	60	0	reindeer	Deer	100.0
+taxongroup	Rei-38eb_431_reindeer-25	Rei-38eb_431_deer-4	Rei-38eb_431_reindeer-25_5413	431	Rei-38eb_431_deer-4_563	431	0	reindeer	Deer	100.0
+taxongroup	Rei-38eb_431_reindeer-25	Rei-38eb_431_deer-41	Rei-38eb_431_reindeer-25_5413	431	Rei-38eb_431_deer-41_563	431	0	reindeer	Deer	100.0
+taxongroup	Rei-38eb_588_reindeer-37	Rei-38eb_588_deer-2	Rei-38eb_588_reindeer-37_5413	588	Rei-38eb_588_deer-2_563	588	0	reindeer	Deer	100.0
+taxongroup	Roe-b5ac_40_reindeer-34	Roe-b5ac_40_deer-10	Roe-b5ac_40_reindeer-34_5413	40	Roe-b5ac_40_deer-10_563	40	0	reindeer	Deer	100.0
+taxongroup	Roe-b5ac_40_reindeer-34	Roe-b5ac_40_deer-2	Roe-b5ac_40_reindeer-34_5413	40	Roe-b5ac_40_deer-2_563	40	0	reindeer	Deer	100.0
+taxongroup	Tun-c63e_40_reindeer-4	Tun-c63e_40_animals-2	Tun-c63e_40_reindeer-4_5413	40	Tun-c63e_40_animals-2_3812	40	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_37_reindeer-5	Rei-38eb_37_animals-30	Rei-38eb_37_reindeer-5_5413	37	Rei-38eb_37_animals-30_3812	37	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_416_reindeer-30	Rei-38eb_416_animals-23	Rei-38eb_416_reindeer-30_5413	416	Rei-38eb_416_animals-23_3812	416	0	reindeer	animals	100.0
+taxongroup	Lyn-0465_60_reindeer-15	Lyn-0465_60_animals-8	Lyn-0465_60_reindeer-15_5413	60	Lyn-0465_60_animals-8_3812	60	0	reindeer	animals	100.0
+taxongroup	Mus-840b_120_reindeer-24	Mus-840b_120_animals-48	Mus-840b_120_reindeer-24_5413	120	Mus-840b_120_animals-48_3812	120	0	reindeer	animals	100.0
+taxongroup	Mus-840b_32_reindeer-13	Mus-840b_32_animal-6	Mus-840b_32_reindeer-13_5413	32	Mus-840b_32_animal-6_3812	32	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_550_reindeer-10	Rei-38eb_550_animals-39	Rei-38eb_550_reindeer-10_5413	550	Rei-38eb_550_animals-39_3812	550	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_550_reindeer-45	Rei-38eb_550_animals-39	Rei-38eb_550_reindeer-45_5413	550	Rei-38eb_550_animals-39_3812	550	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_59_reindeer-3	Rei-38eb_59_animal-23	Rei-38eb_59_reindeer-3_5413	59	Rei-38eb_59_animal-23_3812	59	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_416_reindeer-35	Rei-38eb_416_animals-23	Rei-38eb_416_reindeer-35_5413	416	Rei-38eb_416_animals-23_3812	416	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_370_reindeer-32	Rei-38eb_370_animals-19	Rei-38eb_370_reindeer-32_5413	370	Rei-38eb_370_animals-19_3812	370	0	reindeer	animals	100.0
+taxongroup	Pèr-9953_38_reindeer-16	Pèr-9953_38_animal-20	Pèr-9953_38_reindeer-16_5413	38	Pèr-9953_38_animal-20_3812	38	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_548_reindeer-2	Rei-38eb_548_animals-14	Rei-38eb_548_reindeer-2_5413	548	Rei-38eb_548_animals-14_3812	548	0	reindeer	animals	100.0
+taxongroup	Nom-aef8_8_reindeer-11	Nom-aef8_8_animals-21	Nom-aef8_8_reindeer-11_5413	8	Nom-aef8_8_animals-21_3812	8	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_37_reindeer-70	Rei-38eb_37_animals-30	Rei-38eb_37_reindeer-70_5413	37	Rei-38eb_37_animals-30_3812	37	0	reindeer	animals	100.0
+taxongroup	Rei-38eb_37_reindeer-42	Rei-38eb_37_animals-30	Rei-38eb_37_reindeer-42_5413	37	Rei-38eb_37_animals-30_3812	37	0	reindeer	animals	100.0
+taxongroup	Mas-675c_419_reindeer-29	Mas-675c_419_deer-65	Mas-675c_419_reindeer-29_5413	419	Mas-675c_419_deer-65_4087	419	0	reindeer	deer	100.0
+taxongroup	Nea-dd93_382_reindeer-16	Nea-dd93_382_deer-8	Nea-dd93_382_reindeer-16_5413	382	Nea-dd93_382_deer-8_4087	382	0	reindeer	deer	100.0
+taxongroup	Cam-1690_126_Camels-1	Cam-1690_126_animal-24	Cam-1690_126_Camels-1_952	126	Cam-1690_126_animal-24_44	126	0	Camels	Animals	100.0
+taxongroup	Roe-b5ac_75_deer-6	Roe-b5ac_75_deer-6	Roe-b5ac_75_deer-6_5431	75	Roe-b5ac_75_deer-6_563	75	0	roe deer	Deer	100.0
+taxongroup	Fal-8d5d_5_deer-11	Fal-8d5d_5_deer-11	Fal-8d5d_5_deer-11_5431	5	Fal-8d5d_5_deer-11_563	5	0	roe deer	Deer	100.0
+taxongroup	Pèr-9953_55_deer-10	Pèr-9953_55_deer-10	Pèr-9953_55_deer-10_5431	55	Pèr-9953_55_deer-10_563	55	0	roe deer	Deer	100.0
+taxongroup	Nea-dd93_370_deer-44	Nea-dd93_370_deer-15	Nea-dd93_370_deer-44_5431	370	Nea-dd93_370_deer-15_563	370	0	roe deer	Deer	100.0
+taxongroup	Nor-bda1_8_deer-49	Nor-bda1_8_deer-49	Nor-bda1_8_deer-49_5431	8	Nor-bda1_8_deer-49_563	8	0	roe deer	Deer	100.0
+taxongroup	Nea-dd93_370_deer-26	Nea-dd93_370_deer-15	Nea-dd93_370_deer-26_5431	370	Nea-dd93_370_deer-15_563	370	0	roe deer	Deer	100.0
+taxongroup	Lyn-0465_60_deer-18	Lyn-0465_60_deer-13	Lyn-0465_60_deer-18_5431	60	Lyn-0465_60_deer-13_563	60	0	roe deer	Deer	100.0
+taxongroup	Lyn-0465_60_deer-18	Lyn-0465_60_deer-18	Lyn-0465_60_deer-18_5431	60	Lyn-0465_60_deer-18_563	60	0	roe deer	Deer	100.0
+taxongroup	Lyn-0465_60_deer-18	Lyn-0465_60_deer-22	Lyn-0465_60_deer-18_5431	60	Lyn-0465_60_deer-22_563	60	0	roe deer	Deer	100.0
+taxongroup	Nea-dd93_370_deer-26	Nea-dd93_370_deer-26	Nea-dd93_370_deer-26_5431	370	Nea-dd93_370_deer-26_563	370	0	roe deer	Deer	100.0
+taxongroup	Nea-dd93_370_deer-26	Nea-dd93_370_deer-44	Nea-dd93_370_deer-26_5431	370	Nea-dd93_370_deer-44_563	370	0	roe deer	Deer	100.0
+taxongroup	Roe-b5ac_76_deer-4	Roe-b5ac_76_deer-4	Roe-b5ac_76_deer-4_5431	76	Roe-b5ac_76_deer-4_563	76	0	roe deer	Deer	100.0
+taxongroup	Roe-b5ac_10_deer-7	Roe-b5ac_10_deer-38	Roe-b5ac_10_deer-7_5431	10	Roe-b5ac_10_deer-38_563	10	0	roe deer	Deer	100.0
+taxongroup	Roe-b5ac_10_deer-7	Roe-b5ac_10_deer-7	Roe-b5ac_10_deer-7_5431	10	Roe-b5ac_10_deer-7_563	10	0	roe deer	Deer	100.0
+taxongroup	Lyn-0465_60_deer-22	Lyn-0465_60_deer-13	Lyn-0465_60_deer-22_5431	60	Lyn-0465_60_deer-13_563	60	0	roe deer	Deer	100.0
+taxongroup	Lyn-0465_60_deer-22	Lyn-0465_60_deer-18	Lyn-0465_60_deer-22_5431	60	Lyn-0465_60_deer-18_563	60	0	roe deer	Deer	100.0
+taxongroup	Nor-bda1_8_deer-49	Nor-bda1_8_deer-44	Nor-bda1_8_deer-49_5431	8	Nor-bda1_8_deer-44_563	8	0	roe deer	Deer	100.0
+taxongroup	Nor-bda1_8_deer-44	Nor-bda1_8_deer-44	Nor-bda1_8_deer-44_5431	8	Nor-bda1_8_deer-44_563	8	0	roe deer	Deer	100.0
+taxongroup	Nor-bda1_8_deer-44	Nor-bda1_8_deer-49	Nor-bda1_8_deer-44_5431	8	Nor-bda1_8_deer-49_563	8	0	roe deer	Deer	100.0
+taxongroup	Pèr-9953_55_deer-14	Pèr-9953_55_deer-14	Pèr-9953_55_deer-14_5431	55	Pèr-9953_55_deer-14_563	55	0	roe deer	Deer	100.0
+taxongroup	Nea-dd93_370_deer-15	Nea-dd93_370_deer-15	Nea-dd93_370_deer-15_5431	370	Nea-dd93_370_deer-15_563	370	0	roe deer	Deer	100.0
+taxongroup	Lyn-0465_60_deer-13	Lyn-0465_60_deer-13	Lyn-0465_60_deer-13_5431	60	Lyn-0465_60_deer-13_563	60	0	roe deer	Deer	100.0
+taxongroup	Lyn-0465_60_deer-13	Lyn-0465_60_deer-18	Lyn-0465_60_deer-13_5431	60	Lyn-0465_60_deer-18_563	60	0	roe deer	Deer	100.0
+taxongroup	Lyn-0465_60_deer-13	Lyn-0465_60_deer-22	Lyn-0465_60_deer-13_5431	60	Lyn-0465_60_deer-22_563	60	0	roe deer	Deer	100.0
+taxongroup	Lyn-0465_60_deer-22	Lyn-0465_60_deer-22	Lyn-0465_60_deer-22_5431	60	Lyn-0465_60_deer-22_563	60	0	roe deer	Deer	100.0
+taxongroup	Pèr-9953_55_deer-10	Pèr-9953_55_deer-14	Pèr-9953_55_deer-10_5431	55	Pèr-9953_55_deer-14_563	55	0	roe deer	Deer	100.0
+taxongroup	Pèr-9953_55_deer-14	Pèr-9953_55_deer-10	Pèr-9953_55_deer-14_5431	55	Pèr-9953_55_deer-10_563	55	0	roe deer	Deer	100.0
+taxongroup	Roe-b5ac_89_deer-3	Roe-b5ac_89_deer-3	Roe-b5ac_89_deer-3_5431	89	Roe-b5ac_89_deer-3_563	89	0	roe deer	Deer	100.0
+taxongroup	Nea-dd93_370_deer-44	Nea-dd93_370_deer-26	Nea-dd93_370_deer-44_5431	370	Nea-dd93_370_deer-26_563	370	0	roe deer	Deer	100.0
+taxongroup	Nea-dd93_370_deer-44	Nea-dd93_370_deer-44	Nea-dd93_370_deer-44_5431	370	Nea-dd93_370_deer-44_563	370	0	roe deer	Deer	100.0
+taxongroup	Nea-dd93_370_deer-15	Nea-dd93_370_deer-44	Nea-dd93_370_deer-15_5431	370	Nea-dd93_370_deer-44_563	370	0	roe deer	Deer	100.0
+taxongroup	Nea-dd93_370_deer-15	Nea-dd93_370_deer-26	Nea-dd93_370_deer-15_5431	370	Nea-dd93_370_deer-26_563	370	0	roe deer	Deer	100.0
+taxongroup	Rei-38eb_433_reindeer-30	Rei-38eb_433_deer-19	Rei-38eb_433_reindeer-30_5413	433	Rei-38eb_433_deer-19_4087	433	0	reindeer	deer	100.0
+taxongroup	Whi-b4c3_473_reindeer-23	Whi-b4c3_473_deer-30	Whi-b4c3_473_reindeer-23_5413	473	Whi-b4c3_473_deer-30_4087	473	0	reindeer	deer	100.0
+taxongroup	Ani-ab87_85_reindeer-7	Ani-ab87_85_mammals-2	Ani-ab87_85_reindeer-7_5413	85	Ani-ab87_85_mammals-2_3797	85	0	reindeer	mammals	100.0
+taxongroup	Tai-3286_120_reindeer-30	Tai-3286_120_mammals-12	Tai-3286_120_reindeer-30_5413	120	Tai-3286_120_mammals-12_3797	120	0	reindeer	mammals	100.0
+taxongroup	Nea-dd93_343_reindeer-18	Nea-dd93_343_mammals-12	Nea-dd93_343_reindeer-18_5413	343	Nea-dd93_343_mammals-12_3797	343	0	reindeer	mammals	100.0
+taxongroup	Sno-0a8f_380_reindeer-22	Sno-0a8f_380_mammal-15	Sno-0a8f_380_reindeer-22_5413	380	Sno-0a8f_380_mammal-15_3797	380	0	reindeer	mammals	100.0
+taxongroup	Lyn-0465_60_deer-18	Lyn-0465_60_animals-8	Lyn-0465_60_deer-18_5431	60	Lyn-0465_60_animals-8_44	60	0	roe deer	Animals	100.0
+taxongroup	Lyn-0465_60_deer-13	Lyn-0465_60_animals-8	Lyn-0465_60_deer-13_5431	60	Lyn-0465_60_animals-8_44	60	0	roe deer	Animals	100.0
+taxongroup	Lyn-0465_60_deer-22	Lyn-0465_60_animals-8	Lyn-0465_60_deer-22_5431	60	Lyn-0465_60_animals-8_44	60	0	roe deer	Animals	100.0
+taxongroup	Roe-b5ac_181_deer-3	Roe-b5ac_181_animals-19	Roe-b5ac_181_deer-3_5431	181	Roe-b5ac_181_animals-19_44	181	0	roe deer	Animals	100.0
+taxongroup	Roe-b5ac_149_deer-3	Roe-b5ac_149_animal-7	Roe-b5ac_149_deer-3_5431	149	Roe-b5ac_149_animal-7_44	149	0	roe deer	Animals	100.0
+taxongroup	Roe-b5ac_49_deer-15	Roe-b5ac_49_animals-5	Roe-b5ac_49_deer-15_5431	49	Roe-b5ac_49_animals-5_44	49	0	roe deer	Animals	100.0
+taxongroup	Roe-b5ac_102_deer-27	Roe-b5ac_102_animals-36	Roe-b5ac_102_deer-27_5431	102	Roe-b5ac_102_animals-36_44	102	0	roe deer	Animals	100.0
+taxongroup	Roe-b5ac_102_deer-7	Roe-b5ac_102_animals-36	Roe-b5ac_102_deer-7_5431	102	Roe-b5ac_102_animals-36_44	102	0	roe deer	Animals	100.0
+taxongroup	Rei-38eb_69_deer-31	Rei-38eb_69_Capreolus-18	Rei-38eb_69_deer-31_5431	69	Rei-38eb_69_Capreolus-18_958	69	0	roe deer	Capreolus	100.0
+taxongroup	Rei-38eb_69_deer-16	Rei-38eb_69_Capreolus-18	Rei-38eb_69_deer-16_5431	69	Rei-38eb_69_Capreolus-18_958	69	0	roe deer	Capreolus	100.0
+taxongroup	Eur-337a_76_deer-34	Eur-337a_76_deer-34	Eur-337a_76_deer-34_5431	76	Eur-337a_76_deer-34_563	76	0	roe deer	Deer	100.0
+taxongroup	Eur-337a_76_deer-34	Eur-337a_76_deer-41	Eur-337a_76_deer-34_5431	76	Eur-337a_76_deer-41_563	76	0	roe deer	Deer	100.0
+taxongroup	Eur-337a_76_deer-41	Eur-337a_76_deer-41	Eur-337a_76_deer-41_5431	76	Eur-337a_76_deer-41_563	76	0	roe deer	Deer	100.0
+taxongroup	Eur-337a_76_deer-41	Eur-337a_76_deer-34	Eur-337a_76_deer-41_5431	76	Eur-337a_76_deer-34_563	76	0	roe deer	Deer	100.0
+taxongroup	Red-5893_15_deer-21	Red-5893_15_deer-21	Red-5893_15_deer-21_5398	15	Red-5893_15_deer-21_4087	15	0	red deer	deer	100.0
+taxongroup	Sik6fbf_4_deer-5	Sik6fbf_4_deer-5	Sik6fbf_4_deer-5_5398	4	Sik6fbf_4_deer-5_4087	4	0	red deer	deer	100.0
+taxongroup	Sik-94e7_123_deer-2	Sik-94e7_123_deer-11	Sik-94e7_123_deer-2_5398	123	Sik-94e7_123_deer-11_4087	123	0	red deer	deer	100.0
+taxongroup	Sik-94e7_123_deer-11	Sik-94e7_123_deer-11	Sik-94e7_123_deer-11_5398	123	Sik-94e7_123_deer-11_4087	123	0	red deer	deer	100.0
+taxongroup	Roe-b5ac_168_deer-7	Roe-b5ac_168_deer-7	Roe-b5ac_168_deer-7_5398	168	Roe-b5ac_168_deer-7_4087	168	0	red deer	deer	100.0
+taxongroup	Red-5893_55_deer-29	Red-5893_55_deer-37	Red-5893_55_deer-29_5398	55	Red-5893_55_deer-37_4087	55	0	red deer	deer	100.0
+taxongroup	Red-5893_55_deer-29	Red-5893_55_deer-4	Red-5893_55_deer-29_5398	55	Red-5893_55_deer-4_4087	55	0	red deer	deer	100.0
+taxongroup	Red-5893_86_deer-22	Red-5893_86_deer-34	Red-5893_86_deer-22_5398	86	Red-5893_86_deer-34_4087	86	0	red deer	deer	100.0
+taxongroup	Red-5893_15_deer-3	Red-5893_15_deer-10	Red-5893_15_deer-3_5398	15	Red-5893_15_deer-10_4087	15	0	red deer	deer	100.0
+taxongroup	Red-5893_86_deer-34	Red-5893_86_deer-4	Red-5893_86_deer-34_5398	86	Red-5893_86_deer-4_4087	86	0	red deer	deer	100.0
+taxongroup	Red-5893_15_deer-10	Red-5893_15_deer-3	Red-5893_15_deer-10_5398	15	Red-5893_15_deer-3_4087	15	0	red deer	deer	100.0
+taxongroup	Red-5893_86_deer-4	Red-5893_86_deer-4	Red-5893_86_deer-4_5398	86	Red-5893_86_deer-4_4087	86	0	red deer	deer	100.0
+taxongroup	Red-5893_86_deer-4	Red-5893_86_deer-34	Red-5893_86_deer-4_5398	86	Red-5893_86_deer-34_4087	86	0	red deer	deer	100.0
+taxongroup	Red-5893_86_deer-4	Red-5893_86_deer-22	Red-5893_86_deer-4_5398	86	Red-5893_86_deer-22_4087	86	0	red deer	deer	100.0
+taxongroup	Red-5893_15_deer-21	Red-5893_15_deer-10	Red-5893_15_deer-21_5398	15	Red-5893_15_deer-10_4087	15	0	red deer	deer	100.0
+taxongroup	Red-5893_51_deer-3	Red-5893_51_deer-3	Red-5893_51_deer-3_5398	51	Red-5893_51_deer-3_4087	51	0	red deer	deer	100.0
+taxongroup	Red-5893_15_deer-21	Red-5893_15_deer-3	Red-5893_15_deer-21_5398	15	Red-5893_15_deer-3_4087	15	0	red deer	deer	100.0
+taxongroup	Red-5893_22_deer-3	Red-5893_22_deer-3	Red-5893_22_deer-3_5398	22	Red-5893_22_deer-3_4087	22	0	red deer	deer	100.0
+taxongroup	Red-5893_86_deer-22	Red-5893_86_deer-22	Red-5893_86_deer-22_5398	86	Red-5893_86_deer-22_4087	86	0	red deer	deer	100.0
+taxongroup	Red-5893_167_deer-57	Red-5893_167_deer-16	Red-5893_167_deer-57_5398	167	Red-5893_167_deer-16_4087	167	0	red deer	deer	100.0
+taxongroup	Red-5893_83_deer-15	Red-5893_83_deer-15	Red-5893_83_deer-15_5398	83	Red-5893_83_deer-15_4087	83	0	red deer	deer	100.0
+taxongroup	Red-5893_83_deer-15	Red-5893_83_deer-11	Red-5893_83_deer-15_5398	83	Red-5893_83_deer-11_4087	83	0	red deer	deer	100.0
+taxongroup	Red-5893_167_deer-57	Red-5893_167_deer-57	Red-5893_167_deer-57_5398	167	Red-5893_167_deer-57_4087	167	0	red deer	deer	100.0
+taxongroup	Red-5893_55_deer-29	Red-5893_55_deer-29	Red-5893_55_deer-29_5398	55	Red-5893_55_deer-29_4087	55	0	red deer	deer	100.0
+taxongroup	Red-5893_167_deer-16	Red-5893_167_deer-57	Red-5893_167_deer-16_5398	167	Red-5893_167_deer-57_4087	167	0	red deer	deer	100.0
+taxongroup	Red-5893_86_deer-34	Red-5893_86_deer-22	Red-5893_86_deer-34_5398	86	Red-5893_86_deer-22_4087	86	0	red deer	deer	100.0
+taxongroup	Red-5893_15_deer-3	Red-5893_15_deer-21	Red-5893_15_deer-3_5398	15	Red-5893_15_deer-21_4087	15	0	red deer	deer	100.0
+taxongroup	Red-5893_15_deer-3	Red-5893_15_deer-3	Red-5893_15_deer-3_5398	15	Red-5893_15_deer-3_4087	15	0	red deer	deer	100.0
+taxongroup	Sik-94e7_123_deer-20	Sik-94e7_123_deer-11	Sik-94e7_123_deer-20_5398	123	Sik-94e7_123_deer-11_4087	123	0	red deer	deer	100.0
+taxongroup	Sik-94e7_123_deer-20	Sik-94e7_123_deer-20	Sik-94e7_123_deer-20_5398	123	Sik-94e7_123_deer-20_4087	123	0	red deer	deer	100.0
+taxongroup	Sik-94e7_123_deer-2	Sik-94e7_123_deer-20	Sik-94e7_123_deer-2_5398	123	Sik-94e7_123_deer-20_4087	123	0	red deer	deer	100.0
+taxongroup	Sik-94e7_123_deer-2	Sik-94e7_123_deer-2	Sik-94e7_123_deer-2_5398	123	Sik-94e7_123_deer-2_4087	123	0	red deer	deer	100.0
+taxongroup	Wol-279e_137_deer-11	Wol-279e_137_deer-14	Wol-279e_137_deer-11_5398	137	Wol-279e_137_deer-14_4087	137	0	red deer	deer	100.0
+taxongroup	Wol-279e_137_deer-11	Wol-279e_137_deer-11	Wol-279e_137_deer-11_5398	137	Wol-279e_137_deer-11_4087	137	0	red deer	deer	100.0
+taxongroup	Wol-279e_137_deer-14	Wol-279e_137_deer-14	Wol-279e_137_deer-14_5398	137	Wol-279e_137_deer-14_4087	137	0	red deer	deer	100.0
+taxongroup	Wol-279e_137_deer-14	Wol-279e_137_deer-11	Wol-279e_137_deer-14_5398	137	Wol-279e_137_deer-11_4087	137	0	red deer	deer	100.0
+taxongroup	Wil-57af_416_deer-20	Wil-57af_416_deer-20	Wil-57af_416_deer-20_5398	416	Wil-57af_416_deer-20_4087	416	0	red deer	deer	100.0
+taxongroup	Whi-b4c3_473_deer-20	Whi-b4c3_473_deer-30	Whi-b4c3_473_deer-20_5398	473	Whi-b4c3_473_deer-30_4087	473	0	red deer	deer	100.0
+taxongroup	Whi-b4c3_473_deer-20	Whi-b4c3_473_deer-20	Whi-b4c3_473_deer-20_5398	473	Whi-b4c3_473_deer-20_4087	473	0	red deer	deer	100.0
+taxongroup	Whi-b4c3_781_deer-3	Whi-b4c3_781_deer-3	Whi-b4c3_781_deer-3_5398	781	Whi-b4c3_781_deer-3_4087	781	0	red deer	deer	100.0
+taxongroup	Whi-b4c3_473_deer-20	Whi-b4c3_473_deer-38	Whi-b4c3_473_deer-20_5398	473	Whi-b4c3_473_deer-38_4087	473	0	red deer	deer	100.0
+taxongroup	Whi-b4c3_473_deer-38	Whi-b4c3_473_deer-30	Whi-b4c3_473_deer-38_5398	473	Whi-b4c3_473_deer-30_4087	473	0	red deer	deer	100.0
+taxongroup	Whi-b4c3_473_deer-38	Whi-b4c3_473_deer-20	Whi-b4c3_473_deer-38_5398	473	Whi-b4c3_473_deer-20_4087	473	0	red deer	deer	100.0
+taxongroup	Whi-b4c3_476_deer-35	Whi-b4c3_476_deer-35	Whi-b4c3_476_deer-35_5398	476	Whi-b4c3_476_deer-35_4087	476	0	red deer	deer	100.0
+taxongroup	Whi-b4c3_473_deer-30	Whi-b4c3_473_deer-20	Whi-b4c3_473_deer-30_5398	473	Whi-b4c3_473_deer-20_4087	473	0	red deer	deer	100.0
+taxongroup	Whi-b4c3_473_deer-30	Whi-b4c3_473_deer-30	Whi-b4c3_473_deer-30_5398	473	Whi-b4c3_473_deer-30_4087	473	0	red deer	deer	100.0
+taxongroup	Whi-b4c3_473_deer-30	Whi-b4c3_473_deer-38	Whi-b4c3_473_deer-30_5398	473	Whi-b4c3_473_deer-38_4087	473	0	red deer	deer	100.0
+taxongroup	Whi-b4c3_473_deer-38	Whi-b4c3_473_deer-38	Whi-b4c3_473_deer-38_5398	473	Whi-b4c3_473_deer-38_4087	473	0	red deer	deer	100.0
+taxongroup	Sik-94e7_16_deer-35	Sik-94e7_16_deer-18	Sik-94e7_16_deer-35_5398	16	Sik-94e7_16_deer-18_4087	16	0	red deer	deer	100.0
+taxongroup	Sik-94e7_16_deer-35	Sik-94e7_16_deer-35	Sik-94e7_16_deer-35_5398	16	Sik-94e7_16_deer-35_4087	16	0	red deer	deer	100.0
+taxongroup	Sik-94e7_106_deer-27	Sik-94e7_106_deer-27	Sik-94e7_106_deer-27_5398	106	Sik-94e7_106_deer-27_4087	106	0	red deer	deer	100.0
+taxongroup	Sik-94e7_16_deer-18	Sik-94e7_16_deer-35	Sik-94e7_16_deer-18_5398	16	Sik-94e7_16_deer-35_4087	16	0	red deer	deer	100.0
+taxongroup	Sik-94e7_12_deer-15	Sik-94e7_12_deer-15	Sik-94e7_12_deer-15_5398	12	Sik-94e7_12_deer-15_4087	12	0	red deer	deer	100.0
+taxongroup	Sik-94e7_123_deer-20	Sik-94e7_123_deer-2	Sik-94e7_123_deer-20_5398	123	Sik-94e7_123_deer-2_4087	123	0	red deer	deer	100.0
+taxongroup	Sik-94e7_64_deer-9	Sik-94e7_64_deer-3	Sik-94e7_64_deer-9_5398	64	Sik-94e7_64_deer-3_4087	64	0	red deer	deer	100.0
+taxongroup	Sik-94e7_16_deer-18	Sik-94e7_16_deer-18	Sik-94e7_16_deer-18_5398	16	Sik-94e7_16_deer-18_4087	16	0	red deer	deer	100.0
+taxongroup	Sik-94e7_64_deer-3	Sik-94e7_64_deer-3	Sik-94e7_64_deer-3_5398	64	Sik-94e7_64_deer-3_4087	64	0	red deer	deer	100.0
+taxongroup	Sik-94e7_64_deer-3	Sik-94e7_64_deer-9	Sik-94e7_64_deer-3_5398	64	Sik-94e7_64_deer-9_4087	64	0	red deer	deer	100.0
+taxongroup	Sik-94e7_64_deer-9	Sik-94e7_64_deer-9	Sik-94e7_64_deer-9_5398	64	Sik-94e7_64_deer-9_4087	64	0	red deer	deer	100.0
+taxongroup	Red-5893_163_deer-11	Red-5893_163_deer-11	Red-5893_163_deer-11_5398	163	Red-5893_163_deer-11_4087	163	0	red deer	deer	100.0
+taxongroup	Red-5893_86_deer-34	Red-5893_86_deer-34	Red-5893_86_deer-34_5398	86	Red-5893_86_deer-34_4087	86	0	red deer	deer	100.0
+taxongroup	She-572b_155_deer-8	She-572b_155_deer-8	She-572b_155_deer-8_5398	155	She-572b_155_deer-8_4087	155	0	red deer	deer	100.0
+taxongroup	Red-5893_33_deer-4	Red-5893_33_deer-4	Red-5893_33_deer-4_5398	33	Red-5893_33_deer-4_4087	33	0	red deer	deer	100.0
+taxongroup	Red-5893_167_deer-16	Red-5893_167_deer-16	Red-5893_167_deer-16_5398	167	Red-5893_167_deer-16_4087	167	0	red deer	deer	100.0
+taxongroup	Red-5893_15_deer-10	Red-5893_15_deer-21	Red-5893_15_deer-10_5398	15	Red-5893_15_deer-21_4087	15	0	red deer	deer	100.0
+taxongroup	Red-5893_134_deer-4	Red-5893_134_deer-4	Red-5893_134_deer-4_5398	134	Red-5893_134_deer-4_4087	134	0	red deer	deer	100.0
+taxongroup	Red-5893_15_deer-10	Red-5893_15_deer-10	Red-5893_15_deer-10_5398	15	Red-5893_15_deer-10_4087	15	0	red deer	deer	100.0
+taxongroup	Red-5893_98_deer-8	Red-5893_98_deer-25	Red-5893_98_deer-8_5398	98	Red-5893_98_deer-25_4087	98	0	red deer	deer	100.0
+taxongroup	Red-5893_115_deer-4	Red-5893_115_deer-4	Red-5893_115_deer-4_5398	115	Red-5893_115_deer-4_4087	115	0	red deer	deer	100.0
+taxongroup	Red-5893_44_deer-33	Red-5893_44_deer-33	Red-5893_44_deer-33_5398	44	Red-5893_44_deer-33_4087	44	0	red deer	deer	100.0
+taxongroup	Red-5893_47_deer-5	Red-5893_47_deer-20	Red-5893_47_deer-5_5398	47	Red-5893_47_deer-20_4087	47	0	red deer	deer	100.0
+taxongroup	Red-5893_11_deer-19	Red-5893_11_deer-19	Red-5893_11_deer-19_5398	11	Red-5893_11_deer-19_4087	11	0	red deer	deer	100.0
+taxongroup	Red-5893_98_deer-25	Red-5893_98_deer-8	Red-5893_98_deer-25_5398	98	Red-5893_98_deer-8_4087	98	0	red deer	deer	100.0
+taxongroup	Red-5893_98_deer-25	Red-5893_98_deer-25	Red-5893_98_deer-25_5398	98	Red-5893_98_deer-25_4087	98	0	red deer	deer	100.0
+taxongroup	Red-5893_86_deer-22	Red-5893_86_deer-4	Red-5893_86_deer-22_5398	86	Red-5893_86_deer-4_4087	86	0	red deer	deer	100.0
+taxongroup	Red-5893_167_deer-16	Red-5893_167_mammal-32	Red-5893_167_deer-16_5398	167	Red-5893_167_mammal-32_3797	167	0	red deer	mammals	100.0
+taxongroup	Roe-b5ac_102_deer-27	Roe-b5ac_102_deer-7	Roe-b5ac_102_deer-27_5431	102	Roe-b5ac_102_deer-7_563	102	0	roe deer	Deer	100.0
+taxongroup	Rei-38eb_69_deer-31	Rei-38eb_69_deer-16	Rei-38eb_69_deer-31_5431	69	Rei-38eb_69_deer-16_563	69	0	roe deer	Deer	100.0
+taxongroup	Rei-38eb_69_deer-16	Rei-38eb_69_deer-31	Rei-38eb_69_deer-16_5431	69	Rei-38eb_69_deer-31_563	69	0	roe deer	Deer	100.0
+taxongroup	Roed39a_11_deer-3	Roed39a_11_deer-17	Roed39a_11_deer-3_5431	11	Roed39a_11_deer-17_4087	11	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_41_deer-3	Roe-b5ac_41_deer-3	Roe-b5ac_41_deer-3_5431	41	Roe-b5ac_41_deer-3_4087	41	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_41_deer-27	Roe-b5ac_41_deer-27	Roe-b5ac_41_deer-27_5431	41	Roe-b5ac_41_deer-27_4087	41	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_41_deer-3	Roe-b5ac_41_deer-27	Roe-b5ac_41_deer-3_5431	41	Roe-b5ac_41_deer-27_4087	41	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_2_deer-17	Roe-b5ac_2_deer-17	Roe-b5ac_2_deer-17_5431	2	Roe-b5ac_2_deer-17_4087	2	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_120_deer-22	Roe-b5ac_120_deer-3	Roe-b5ac_120_deer-22_5431	120	Roe-b5ac_120_deer-3_4087	120	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_134_deer-4	Roe-b5ac_134_deer-4	Roe-b5ac_134_deer-4_5431	134	Roe-b5ac_134_deer-4_4087	134	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_55_deer-8	Roe-b5ac_55_deer-8	Roe-b5ac_55_deer-8_5431	55	Roe-b5ac_55_deer-8_4087	55	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_55_deer-8	Roe-b5ac_55_deer-3	Roe-b5ac_55_deer-8_5431	55	Roe-b5ac_55_deer-3_4087	55	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_101_deer-10	Roe-b5ac_101_deer-10	Roe-b5ac_101_deer-10_5431	101	Roe-b5ac_101_deer-10_4087	101	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_43_deer-9	Roe-b5ac_43_deer-5	Roe-b5ac_43_deer-9_5431	43	Roe-b5ac_43_deer-5_4087	43	0	roe deer	deer	100.0
+taxongroup	Roed39a_11_deer-17	Roed39a_11_deer-17	Roed39a_11_deer-17_5431	11	Roed39a_11_deer-17_4087	11	0	roe deer	deer	100.0
+taxongroup	Roed39a_11_deer-3	Roed39a_11_deer-3	Roed39a_11_deer-3_5431	11	Roed39a_11_deer-3_4087	11	0	roe deer	deer	100.0
+taxongroup	Roed39a_16_deer-7	Roed39a_16_deer-7	Roed39a_16_deer-7_5431	16	Roed39a_16_deer-7_4087	16	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_62_deer-6	Roe-b5ac_62_deer-6	Roe-b5ac_62_deer-6_5431	62	Roe-b5ac_62_deer-6_4087	62	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_179_deer-26	Roe-b5ac_179_deer-26	Roe-b5ac_179_deer-26_5431	179	Roe-b5ac_179_deer-26_4087	179	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_126_deer-4	Roe-b5ac_126_deer-4	Roe-b5ac_126_deer-4_5431	126	Roe-b5ac_126_deer-4_4087	126	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_71_deer-7	Roe-b5ac_71_deer-7	Roe-b5ac_71_deer-7_5431	71	Roe-b5ac_71_deer-7_4087	71	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_120_deer-3	Roe-b5ac_120_deer-3	Roe-b5ac_120_deer-3_5431	120	Roe-b5ac_120_deer-3_4087	120	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_137_deer-3	Roe-b5ac_137_deer-3	Roe-b5ac_137_deer-3_5431	137	Roe-b5ac_137_deer-3_4087	137	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_102_deer-7	Roe-b5ac_102_deer-7	Roe-b5ac_102_deer-7_5431	102	Roe-b5ac_102_deer-7_4087	102	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_135_deer-9	Roe-b5ac_135_deer-9	Roe-b5ac_135_deer-9_5431	135	Roe-b5ac_135_deer-9_4087	135	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_120_deer-22	Roe-b5ac_120_deer-22	Roe-b5ac_120_deer-22_5431	120	Roe-b5ac_120_deer-22_4087	120	0	roe deer	deer	100.0
+taxongroup	Sik-94e7_2_deer-25	Sik-94e7_2_deer-19	Sik-94e7_2_deer-25_3900	2	Sik-94e7_2_deer-19_563	2	0	sika deer	Deer	100.0
+taxongroup	Sik-94e7_89_deer-5	Sik-94e7_89_deer-5	Sik-94e7_89_deer-5_3900	89	Sik-94e7_89_deer-5_563	89	0	sika deer	Deer	100.0
+taxongroup	Sik-94e7_88_deer-6	Sik-94e7_88_deer-6	Sik-94e7_88_deer-6_3900	88	Sik-94e7_88_deer-6_563	88	0	sika deer	Deer	100.0
+taxongroup	Sik-94e7_87_deer-18	Sik-94e7_87_deer-18	Sik-94e7_87_deer-18_3900	87	Sik-94e7_87_deer-18_563	87	0	sika deer	Deer	100.0
+taxongroup	Sik-94e7_133_deer-7	Sik-94e7_133_deer-7	Sik-94e7_133_deer-7_3900	133	Sik-94e7_133_deer-7_563	133	0	sika deer	Deer	100.0
+taxongroup	Roe-b5ac_26_deer-31	Roe-b5ac_26_deer-31	Roe-b5ac_26_deer-31_5431	26	Roe-b5ac_26_deer-31_4087	26	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_82_deer-16	Roe-b5ac_82_deer-16	Roe-b5ac_82_deer-16_5431	82	Roe-b5ac_82_deer-16_4087	82	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_98_deer-9	Roe-b5ac_98_deer-9	Roe-b5ac_98_deer-9_5431	98	Roe-b5ac_98_deer-9_4087	98	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_43_deer-9	Roe-b5ac_43_deer-9	Roe-b5ac_43_deer-9_5431	43	Roe-b5ac_43_deer-9_4087	43	0	roe deer	deer	100.0
+taxongroup	Roed39a_11_deer-17	Roed39a_11_deer-3	Roed39a_11_deer-17_5431	11	Roed39a_11_deer-3_4087	11	0	roe deer	deer	100.0
+taxongroup	Roed39a_3_deer-4	Roed39a_3_deer-4	Roed39a_3_deer-4_5431	3	Roed39a_3_deer-4_4087	3	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_2_deer-27	Roe-b5ac_2_deer-17	Roe-b5ac_2_deer-27_5431	2	Roe-b5ac_2_deer-17_4087	2	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_170_deer-14	Roe-b5ac_170_deer-14	Roe-b5ac_170_deer-14_5431	170	Roe-b5ac_170_deer-14_4087	170	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_50_deer-9	Roe-b5ac_50_deer-9	Roe-b5ac_50_deer-9_5431	50	Roe-b5ac_50_deer-9_4087	50	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_52_deer-14	Roe-b5ac_52_deer-14	Roe-b5ac_52_deer-14_5431	52	Roe-b5ac_52_deer-14_4087	52	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_2_deer-27	Roe-b5ac_2_deer-27	Roe-b5ac_2_deer-27_5431	2	Roe-b5ac_2_deer-27_4087	2	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_2_deer-27	Roe-b5ac_2_deer-3	Roe-b5ac_2_deer-27_5431	2	Roe-b5ac_2_deer-3_4087	2	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_2_deer-17	Roe-b5ac_2_deer-3	Roe-b5ac_2_deer-17_5431	2	Roe-b5ac_2_deer-3_4087	2	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_176_deer-13	Roe-b5ac_176_deer-13	Roe-b5ac_176_deer-13_5431	176	Roe-b5ac_176_deer-13_4087	176	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_55_deer-3	Roe-b5ac_55_deer-3	Roe-b5ac_55_deer-3_5431	55	Roe-b5ac_55_deer-3_4087	55	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_149_deer-3	Roe-b5ac_149_deer-3	Roe-b5ac_149_deer-3_5431	149	Roe-b5ac_149_deer-3_4087	149	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_18_deer-6	Roe-b5ac_18_deer-6	Roe-b5ac_18_deer-6_5431	18	Roe-b5ac_18_deer-6_4087	18	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_102_deer-7	Roe-b5ac_102_deer-27	Roe-b5ac_102_deer-7_5431	102	Roe-b5ac_102_deer-27_4087	102	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_55_deer-3	Roe-b5ac_55_deer-8	Roe-b5ac_55_deer-3_5431	55	Roe-b5ac_55_deer-8_4087	55	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_150_deer-7	Roe-b5ac_150_deer-7	Roe-b5ac_150_deer-7_5431	150	Roe-b5ac_150_deer-7_4087	150	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_112_deer-8	Roe-b5ac_112_deer-8	Roe-b5ac_112_deer-8_5431	112	Roe-b5ac_112_deer-8_4087	112	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_10_deer-38	Roe-b5ac_10_deer-38	Roe-b5ac_10_deer-38_5431	10	Roe-b5ac_10_deer-38_4087	10	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_90_deer-4	Roe-b5ac_90_deer-4	Roe-b5ac_90_deer-4_5431	90	Roe-b5ac_90_deer-4_4087	90	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_64_deer-3	Roe-b5ac_64_deer-3	Roe-b5ac_64_deer-3_5431	64	Roe-b5ac_64_deer-3_4087	64	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_68_deer-5	Roe-b5ac_68_deer-5	Roe-b5ac_68_deer-5_5431	68	Roe-b5ac_68_deer-5_4087	68	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_120_deer-3	Roe-b5ac_120_deer-22	Roe-b5ac_120_deer-3_5431	120	Roe-b5ac_120_deer-22_4087	120	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_41_deer-27	Roe-b5ac_41_deer-3	Roe-b5ac_41_deer-27_5431	41	Roe-b5ac_41_deer-3_4087	41	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_2_deer-17	Roe-b5ac_2_deer-27	Roe-b5ac_2_deer-17_5431	2	Roe-b5ac_2_deer-27_4087	2	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_9_deer-19	Roe-b5ac_9_deer-19	Roe-b5ac_9_deer-19_5431	9	Roe-b5ac_9_deer-19_4087	9	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_102_deer-27	Roe-b5ac_102_deer-27	Roe-b5ac_102_deer-27_5431	102	Roe-b5ac_102_deer-27_4087	102	0	roe deer	deer	100.0
+taxongroup	Sik-94e7_86_deer-12	Sik-94e7_86_deer-12	Sik-94e7_86_deer-12_3900	86	Sik-94e7_86_deer-12_563	86	0	sika deer	Deer	100.0
+taxongroup	Sik-94e7_2_deer-3	Sik-94e7_2_deer-19	Sik-94e7_2_deer-3_3900	2	Sik-94e7_2_deer-19_563	2	0	sika deer	Deer	100.0
+taxongroup	Sik-94e7_2_deer-3	Sik-94e7_2_deer-15	Sik-94e7_2_deer-3_3900	2	Sik-94e7_2_deer-15_563	2	0	sika deer	Deer	100.0
+taxongroup	Sik-94e7_2_deer-3	Sik-94e7_2_deer-25	Sik-94e7_2_deer-3_3900	2	Sik-94e7_2_deer-25_4087	2	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_98_deer-25	Sik-94e7_98_deer-25	Sik-94e7_98_deer-25_3900	98	Sik-94e7_98_deer-25_4087	98	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_95_deer-14	Sik-94e7_95_deer-14	Sik-94e7_95_deer-14_3900	95	Sik-94e7_95_deer-14_4087	95	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_94_deer-4	Sik-94e7_94_deer-4	Sik-94e7_94_deer-4_3900	94	Sik-94e7_94_deer-4_4087	94	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_33_deer-60	Sik-94e7_33_deer-8	Sik-94e7_33_deer-60_3900	33	Sik-94e7_33_deer-8_4087	33	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_33_deer-60	Sik-94e7_33_deer-60	Sik-94e7_33_deer-60_3900	33	Sik-94e7_33_deer-60_4087	33	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_2_deer-3	Sik-94e7_2_deer-3	Sik-94e7_2_deer-3_3900	2	Sik-94e7_2_deer-3_4087	2	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_54_deer-3	Sik-94e7_54_deer-3	Sik-94e7_54_deer-3_3900	54	Sik-94e7_54_deer-3_4087	54	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_17_deer-30	Sik-94e7_17_deer-30	Sik-94e7_17_deer-30_3900	17	Sik-94e7_17_deer-30_4087	17	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_14_deer-17	Sik-94e7_14_deer-17	Sik-94e7_14_deer-17_3900	14	Sik-94e7_14_deer-17_4087	14	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_34_deer-14	Sik-94e7_34_deer-14	Sik-94e7_34_deer-14_3900	34	Sik-94e7_34_deer-14_4087	34	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_2_deer-25	Sik-94e7_2_deer-3	Sik-94e7_2_deer-25_3900	2	Sik-94e7_2_deer-3_4087	2	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_33_deer-8	Sik-94e7_33_deer-60	Sik-94e7_33_deer-8_3900	33	Sik-94e7_33_deer-60_4087	33	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_33_deer-8	Sik-94e7_33_deer-8	Sik-94e7_33_deer-8_3900	33	Sik-94e7_33_deer-8_4087	33	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_98_deer-25	Sik-94e7_98_deer-6	Sik-94e7_98_deer-25_3900	98	Sik-94e7_98_deer-6_4087	98	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_98_deer-6	Sik-94e7_98_deer-25	Sik-94e7_98_deer-6_3900	98	Sik-94e7_98_deer-25_4087	98	0	sika deer	deer	100.0
+taxongroup	Ste-6e04_146_deer-20	Ste-6e04_146_deer-20	Ste-6e04_146_deer-20_3900	146	Ste-6e04_146_deer-20_4087	146	0	sika deer	deer	100.0
+taxongroup	Ste-6e04_207_deer-25	Ste-6e04_207_deer-25	Ste-6e04_207_deer-25_3900	207	Ste-6e04_207_deer-25_4087	207	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_9_deer-3	Sik-94e7_9_deer-3	Sik-94e7_9_deer-3_3900	9	Sik-94e7_9_deer-3_4087	9	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_99_deer-24	Sik-94e7_99_deer-24	Sik-94e7_99_deer-24_3900	99	Sik-94e7_99_deer-24_4087	99	0	sika deer	deer	100.0
+taxongroup	Sik-94e7_2_deer-25	Sik-94e7_2_deer-25	Sik-94e7_2_deer-25_3900	2	Sik-94e7_2_deer-25_563	2	0	sika deer	Deer	100.0
+taxongroup	Sik-94e7_121_deer-7	Sik-94e7_121_deer-7	Sik-94e7_121_deer-7_3900	121	Sik-94e7_121_deer-7_563	121	0	sika deer	Deer	100.0
+taxongroup	Sik-94e7_98_deer-6	Sik-94e7_98_deer-6	Sik-94e7_98_deer-6_3900	98	Sik-94e7_98_deer-6_563	98	0	sika deer	Deer	100.0
+taxongroup	Roe-b5ac_181_deer-3	Roe-b5ac_181_deer-3	Roe-b5ac_181_deer-3_5431	181	Roe-b5ac_181_deer-3_4087	181	0	roe deer	deer	100.0
+taxongroup	Roe-b5ac_2_deer-3	Roe-b5ac_2_deer-17	Roe-b5ac_2_deer-3_5431	2	Roe-b5ac_2_deer-17_4087	2	0	roe deer	deer	100.0
+taxongroup	Rei-38eb_69_deer-16	Rei-38eb_69_deer-16	Rei-38eb_69_deer-16_5431	69	Rei-38eb_69_deer-16_563	69	0	roe deer	Deer	100.0
+taxongroup	Roe-b5ac_10_deer-38	Roe-b5ac_10_deer-7	Roe-b5ac_10_deer-38_5431	10	Roe-b5ac_10_deer-7_563	10	0	roe deer	Deer	100.0
+taxongroup	Roe-b5ac_2_deer-3	Roe-b5ac_2_deer-27	Roe-b5ac_2_deer-3_5431	2	Roe-b5ac_2_deer-27_4087	2	0	roe deer	deer	100.0
+taxongroup	Rei-38eb_69_deer-31	Rei-38eb_69_deer-31	Rei-38eb_69_deer-31_5431	69	Rei-38eb_69_deer-31_563	69	0	roe deer	Deer	100.0
+taxongroup	Roe-b5ac_34_deer-4	Roe-b5ac_34_deer-4	Roe-b5ac_34_deer-4_5431	34	Roe-b5ac_34_deer-4_563	34	0	roe deer	Deer	100.0
+taxongroup	Roe-b5ac_2_deer-3	Roe-b5ac_2_deer-3	Roe-b5ac_2_deer-3_5431	2	Roe-b5ac_2_deer-3_563	2	0	roe deer	Deer	100.0
+taxongroup	Roe-b5ac_43_deer-5	Roe-b5ac_43_deer-5	Roe-b5ac_43_deer-5_5431	43	Roe-b5ac_43_deer-5_563	43	0	roe deer	Deer	100.0
+taxongroup	Roe-b5ac_43_deer-5	Roe-b5ac_43_deer-9	Roe-b5ac_43_deer-5_5431	43	Roe-b5ac_43_deer-9_563	43	0	roe deer	Deer	100.0
+taxongroup	Roe-b5ac_49_deer-15	Roe-b5ac_49_deer-15	Roe-b5ac_49_deer-15_5431	49	Roe-b5ac_49_deer-15_563	49	0	roe deer	Deer	100.0
+taxongroup	Eur-337a_76_deer-41	Eur-337a_76_capreolus-44	Eur-337a_76_deer-41_5431	76	Eur-337a_76_capreolus-44_4276	76	0	roe deer	capreolus	100.0
+taxongroup	Eur-337a_76_deer-34	Eur-337a_76_capreolus-44	Eur-337a_76_deer-34_5431	76	Eur-337a_76_capreolus-44_4276	76	0	roe deer	capreolus	100.0
+taxongroup	Roe-b5ac_2_deer-3	Roe-b5ac_2_capreolus-6	Roe-b5ac_2_deer-3_5431	2	Roe-b5ac_2_capreolus-6_4276	2	0	roe deer	capreolus	100.0
+taxongroup	Roe-b5ac_2_deer-27	Roe-b5ac_2_capreolus-6	Roe-b5ac_2_deer-27_5431	2	Roe-b5ac_2_capreolus-6_4276	2	0	roe deer	capreolus	100.0
+taxongroup	Roe-b5ac_2_deer-17	Roe-b5ac_2_capreolus-6	Roe-b5ac_2_deer-17_5431	2	Roe-b5ac_2_capreolus-6_4276	2	0	roe deer	capreolus	100.0
+taxongroup	Sik-94e7_123_deer-11	Sik-94e7_123_deer-20	Sik-94e7_123_deer-11_5398	123	Sik-94e7_123_deer-20_4087	123	0	red deer	deer	100.0
+taxongroup	Sik-94e7_123_deer-11	Sik-94e7_123_deer-2	Sik-94e7_123_deer-11_5398	123	Sik-94e7_123_deer-2_4087	123	0	red deer	deer	100.0
+taxongroup	Dee-529a_76_deer-4	Dee-529a_76_deer-4	Dee-529a_76_deer-4_5398	76	Dee-529a_76_deer-4_4087	76	0	red deer	deer	100.0
+taxongroup	Roe-b5ac_183_deer-2	Roe-b5ac_183_deer-2	Roe-b5ac_183_deer-2_3240	183	Roe-b5ac_183_deer-2_4087	183	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_1_deer-2	Roe-b5ac_1_deer-2	Roe-b5ac_1_deer-2_3240	1	Roe-b5ac_1_deer-2_563	1	0	Roe deer	Deer	100.0
+taxongroup	Roe-b5ac_67_deer-2	Roe-b5ac_67_deer-2	Roe-b5ac_67_deer-2_3240	67	Roe-b5ac_67_deer-2_563	67	0	Roe deer	Deer	100.0
+taxongroup	Roe-b5ac_111_deer-2	Roe-b5ac_111_deer-2	Roe-b5ac_111_deer-2_3240	111	Roe-b5ac_111_deer-2_563	111	0	Roe deer	Deer	100.0
+taxongroup	Roe-b5ac_121_deer-2	Roe-b5ac_121_deer-2	Roe-b5ac_121_deer-2_3240	121	Roe-b5ac_121_deer-2_563	121	0	Roe deer	Deer	100.0
+taxongroup	Roe-b5ac_63_deer-2	Roe-b5ac_63_deer-2	Roe-b5ac_63_deer-2_3240	63	Roe-b5ac_63_deer-2_563	63	0	Roe deer	Deer	100.0
+taxongroup	Roe-b5ac_182_deer-2	Roe-b5ac_182_deer-2	Roe-b5ac_182_deer-2_3240	182	Roe-b5ac_182_deer-2_4087	182	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_39_deer-2	Roe-b5ac_39_deer-2	Roe-b5ac_39_deer-2_3240	39	Roe-b5ac_39_deer-2_4087	39	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_30_deer-2	Roe-b5ac_30_deer-2	Roe-b5ac_30_deer-2_3240	30	Roe-b5ac_30_deer-2_4087	30	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_17_deer-2	Roe-b5ac_17_deer-2	Roe-b5ac_17_deer-2_3240	17	Roe-b5ac_17_deer-2_4087	17	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_174_deer-2	Roe-b5ac_174_deer-2	Roe-b5ac_174_deer-2_3240	174	Roe-b5ac_174_deer-2_4087	174	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_158_deer-2	Roe-b5ac_158_deer-2	Roe-b5ac_158_deer-2_3240	158	Roe-b5ac_158_deer-2_4087	158	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_54_deer-2	Roe-b5ac_54_deer-2	Roe-b5ac_54_deer-2_3240	54	Roe-b5ac_54_deer-2_4087	54	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_187_deer-2	Roe-b5ac_187_deer-2	Roe-b5ac_187_deer-2_3240	187	Roe-b5ac_187_deer-2_4087	187	0	Roe deer	deer	100.0
+taxongroup	Gra-bd0d_35_Hippopotamus-1	Gra-bd0d_35_animal-29	Gra-bd0d_35_Hippopotamus-1_2534	35	Gra-bd0d_35_animal-29_3812	35	0	Hippopotamus	animals	100.0
+taxongroup	Roe-b5ac_172_deer-2	Roe-b5ac_172_deer-2	Roe-b5ac_172_deer-2_3240	172	Roe-b5ac_172_deer-2_4087	172	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_148_deer-2	Roe-b5ac_148_deer-2	Roe-b5ac_148_deer-2_3240	148	Roe-b5ac_148_deer-2_4087	148	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_105_deer-2	Roe-b5ac_105_deer-2	Roe-b5ac_105_deer-2_3240	105	Roe-b5ac_105_deer-2_4087	105	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_87_deer-2	Roe-b5ac_87_deer-2	Roe-b5ac_87_deer-2_3240	87	Roe-b5ac_87_deer-2_4087	87	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_84_deer-2	Roe-b5ac_84_deer-2	Roe-b5ac_84_deer-2_3240	84	Roe-b5ac_84_deer-2_4087	84	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_100_deer-2	Roe-b5ac_100_deer-2	Roe-b5ac_100_deer-2_3240	100	Roe-b5ac_100_deer-2_4087	100	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_6_deer-2	Roe-b5ac_6_deer-2	Roe-b5ac_6_deer-2_3240	6	Roe-b5ac_6_deer-2_4087	6	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_104_deer-2	Roe-b5ac_104_deer-2	Roe-b5ac_104_deer-2_3240	104	Roe-b5ac_104_deer-2_4087	104	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_93_deer-2	Roe-b5ac_93_deer-2	Roe-b5ac_93_deer-2_3240	93	Roe-b5ac_93_deer-2_4087	93	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_42_deer-2	Roe-b5ac_42_deer-2	Roe-b5ac_42_deer-2_3240	42	Roe-b5ac_42_deer-2_4087	42	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_70_deer-2	Roe-b5ac_70_deer-2	Roe-b5ac_70_deer-2_3240	70	Roe-b5ac_70_deer-2_4087	70	0	Roe deer	deer	100.0
+taxongroup	Roe-b5ac_136_deer-2	Roe-b5ac_136_deer-2	Roe-b5ac_136_deer-2_3240	136	Roe-b5ac_136_deer-2_4087	136	0	Roe deer	deer	100.0
+taxongroup	Hip-aa4f_65_Hippopotamus-19	Hip-aa4f_65_hippopotamus-28	Hip-aa4f_65_Hippopotamus-19_2534	65	Hip-aa4f_65_hippopotamus-28_4345	65	0	Hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_65_Hippopotamus-36	Hip-aa4f_65_hippopotamus-28	Hip-aa4f_65_Hippopotamus-36_2534	65	Hip-aa4f_65_hippopotamus-28_4345	65	0	Hippopotamus	hippopotamus	100.0
+taxongroup	Hip-5f7c_39_Hippopotamus-2	Hip-5f7c_39_hippopotamus-9	Hip-5f7c_39_Hippopotamus-2_2534	39	Hip-5f7c_39_hippopotamus-9_4345	39	0	Hippopotamus	hippopotamus	100.0
+taxongroup	Rei-38eb_492_Reindeer-1	Rei-38eb_492_animals-15	Rei-38eb_492_Reindeer-1_3215	492	Rei-38eb_492_animals-15_44	492	0	Reindeer	Animals	100.0
+taxongroup	Rei-38eb_10_Reindeer-1	Rei-38eb_10_deer-7	Rei-38eb_10_Reindeer-1_3215	10	Rei-38eb_10_deer-7_563	10	0	Reindeer	Deer	100.0
+taxongroup	Rei5e90_32_Reindeer-1	Rei5e90_32_deer-5	Rei5e90_32_Reindeer-1_3215	32	Rei5e90_32_deer-5_563	32	0	Reindeer	Deer	100.0
+taxongroup	Roe-b5ac_144_deer-2	Roe-b5ac_144_deer-2	Roe-b5ac_144_deer-2_3240	144	Roe-b5ac_144_deer-2_563	144	0	Roe deer	Deer	100.0
+taxongroup	Roe-b5ac_125_deer-2	Roe-b5ac_125_deer-2	Roe-b5ac_125_deer-2_3240	125	Roe-b5ac_125_deer-2_563	125	0	Roe deer	Deer	100.0
+taxongroup	Sik-94e7_48_deer-2	Sik-94e7_48_deer-2	Sik-94e7_48_deer-2_236	48	Sik-94e7_48_deer-2_4087	48	0	Sika deer	deer	100.0
+taxongroup	Cam-1690_4_Camels-1	Cam-1690_4_animals-4	Cam-1690_4_Camels-1_4272	4	Cam-1690_4_animals-4_44	4	0	camels	Animals	100.0
+taxongroup	Nea-9375_44_camels-4	Nea-9375_44_Camelidae-2	Nea-9375_44_camels-4_4272	44	Nea-9375_44_Camelidae-2_505	44	0	camels	Camelidae	100.0
+taxongroup	Mam-3742_280_camels-7	Mam-3742_280_mammals-3	Mam-3742_280_camels-7_4272	280	Mam-3742_280_mammals-3_3797	280	0	camels	mammals	100.0
+taxongroup	Cam-1690_41_Camels-1	Cam-1690_41_mammals-17	Cam-1690_41_Camels-1_4272	41	Cam-1690_41_mammals-17_3797	41	0	camels	mammals	100.0
+taxongroup	Cam-1690_35_Camels-1	Cam-1690_35_mammals-18	Cam-1690_35_Camels-1_4272	35	Cam-1690_35_mammals-18_3797	35	0	camels	mammals	100.0
+taxongroup	Cam-1690_63_Camels-1	Cam-1690_63_mammals-29	Cam-1690_63_Camels-1_4272	63	Cam-1690_63_mammals-29_3797	63	0	camels	mammals	100.0
+taxongroup	Cam-1690_33_camels-5	Cam-1690_33_mammals-3	Cam-1690_33_camels-5_4272	33	Cam-1690_33_mammals-3_3797	33	0	camels	mammals	100.0
+taxongroup	Lil-43fd_158_deer-12	Lil-43fd_158_animals-7	Lil-43fd_158_deer-12_4087	158	Lil-43fd_158_animals-7_44	158	0	deer	Animals	100.0
+taxongroup	Kāk-e004_237_deer-8	Kāk-e004_237_animals-3	Kāk-e004_237_deer-8_4087	237	Kāk-e004_237_animals-3_44	237	0	deer	Animals	100.0
+taxongroup	Lio-60d2_455_deer-15	Lio-60d2_455_animals-11	Lio-60d2_455_deer-15_4087	455	Lio-60d2_455_animals-11_44	455	0	deer	Animals	100.0
+taxongroup	Eur-6423_44_deer-3	Eur-6423_44_animals-13	Eur-6423_44_deer-3_4087	44	Eur-6423_44_animals-13_44	44	0	deer	Animals	100.0
+taxongroup	Eur-6423_106_deer-18	Eur-6423_106_animals-33	Eur-6423_106_deer-18_4087	106	Eur-6423_106_animals-33_44	106	0	deer	Animals	100.0
+taxongroup	Fer-25f0_22_deer-5	Fer-25f0_22_animals-2	Fer-25f0_22_deer-5_4087	22	Fer-25f0_22_animals-2_44	22	0	deer	Animals	100.0
+taxongroup	Flo-23b8_34_deer-41	Flo-23b8_34_animals-14	Flo-23b8_34_deer-41_4087	34	Flo-23b8_34_animals-14_44	34	0	deer	Animals	100.0
+taxongroup	Eur-6423_104_deer-23	Eur-6423_104_animals-27	Eur-6423_104_deer-23_4087	104	Eur-6423_104_animals-27_44	104	0	deer	Animals	100.0
+taxongroup	Eur-6423_148_deer-6	Eur-6423_148_animals-14	Eur-6423_148_deer-6_4087	148	Eur-6423_148_animals-14_44	148	0	deer	Animals	100.0
+taxongroup	Dee-529a_264_Deer-1	Dee-529a_264_animal-6	Dee-529a_264_Deer-1_4087	264	Dee-529a_264_animal-6_44	264	0	deer	Animals	100.0
+taxongroup	Dee-529a_184_deer-33	Dee-529a_184_animals-20	Dee-529a_184_deer-33_4087	184	Dee-529a_184_animals-20_44	184	0	deer	Animals	100.0
+taxongroup	Dee-529a_57_deer-20	Dee-529a_57_animals-25	Dee-529a_57_deer-20_4087	57	Dee-529a_57_animals-25_44	57	0	deer	Animals	100.0
+taxongroup	Dee-529a_184_deer-2	Dee-529a_184_animals-20	Dee-529a_184_deer-2_4087	184	Dee-529a_184_animals-20_44	184	0	deer	Animals	100.0
+taxongroup	Sik-94e7_47_deer-2	Sik-94e7_47_deer-2	Sik-94e7_47_deer-2_236	47	Sik-94e7_47_deer-2_4087	47	0	Sika deer	deer	100.0
+taxongroup	Sik-94e7_140_deer-2	Sik-94e7_140_deer-2	Sik-94e7_140_deer-2_236	140	Sik-94e7_140_deer-2_4087	140	0	Sika deer	deer	100.0
+taxongroup	Sik-94e7_4_deer-2	Sik-94e7_4_deer-2	Sik-94e7_4_deer-2_236	4	Sik-94e7_4_deer-2_4087	4	0	Sika deer	deer	100.0
+taxongroup	Sik-94e7_126_deer-2	Sik-94e7_126_deer-2	Sik-94e7_126_deer-2_236	126	Sik-94e7_126_deer-2_563	126	0	Sika deer	Deer	100.0
+taxongroup	Sik-94e7_124_deer-2	Sik-94e7_124_deer-2	Sik-94e7_124_deer-2_236	124	Sik-94e7_124_deer-2_563	124	0	Sika deer	Deer	100.0
+taxongroup	Sik-94e7_128_deer-2	Sik-94e7_128_deer-2	Sik-94e7_128_deer-2_236	128	Sik-94e7_128_deer-2_563	128	0	Sika deer	Deer	100.0
+taxongroup	Sik-94e7_71_deer-2	Sik-94e7_71_deer-2	Sik-94e7_71_deer-2_236	71	Sik-94e7_71_deer-2_563	71	0	Sika deer	Deer	100.0
+taxongroup	Sik-94e7_75_deer-2	Sik-94e7_75_deer-2	Sik-94e7_75_deer-2_236	75	Sik-94e7_75_deer-2_563	75	0	Sika deer	Deer	100.0
+taxongroup	Sik-94e7_74_deer-2	Sik-94e7_74_deer-2	Sik-94e7_74_deer-2_236	74	Sik-94e7_74_deer-2_563	74	0	Sika deer	Deer	100.0
+taxongroup	Sik-94e7_70_deer-2	Sik-94e7_70_deer-2	Sik-94e7_70_deer-2_236	70	Sik-94e7_70_deer-2_563	70	0	Sika deer	Deer	100.0
+taxongroup	Sik-94e7_69_deer-2	Sik-94e7_69_deer-2	Sik-94e7_69_deer-2_236	69	Sik-94e7_69_deer-2_563	69	0	Sika deer	Deer	100.0
+taxongroup	Sik-94e7_100_deer-2	Sik-94e7_100_deer-2	Sik-94e7_100_deer-2_236	100	Sik-94e7_100_deer-2_563	100	0	Sika deer	Deer	100.0
+taxongroup	Sik-94e7_8_deer-2	Sik-94e7_8_deer-2	Sik-94e7_8_deer-2_236	8	Sik-94e7_8_deer-2_563	8	0	Sika deer	Deer	100.0
+taxongroup	Sik-94e7_135_deer-2	Sik-94e7_135_deer-2	Sik-94e7_135_deer-2_236	135	Sik-94e7_135_deer-2_563	135	0	Sika deer	Deer	100.0
+taxongroup	Sik-94e7_102_deer-2	Sik-94e7_102_deer-2	Sik-94e7_102_deer-2_236	102	Sik-94e7_102_deer-2_563	102	0	Sika deer	Deer	100.0
+taxongroup	Hip-aa4f_65_Hippopotamus-43	Hip-aa4f_65_hippopotamus-28	Hip-aa4f_65_Hippopotamus-43_2534	65	Hip-aa4f_65_hippopotamus-28_4345	65	0	Hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_272_Hippopotamus-12	Hip-aa4f_272_animal-23	Hip-aa4f_272_Hippopotamus-12_2534	272	Hip-aa4f_272_animal-23_3812	272	0	Hippopotamus	animals	100.0
+taxongroup	Chi-6eec_71_deer-8	Chi-6eec_71_animals-35	Chi-6eec_71_deer-8_4087	71	Chi-6eec_71_animals-35_44	71	0	deer	Animals	100.0
+taxongroup	Cap-8e74_7_deer-38	Cap-8e74_7_animal-6	Cap-8e74_7_deer-38_563	7	Cap-8e74_7_animal-6_44	7	0	Deer	Animals	100.0
+taxongroup	Ame-35ae_264_deer-33	Ame-35ae_264_animals-15	Ame-35ae_264_deer-33_563	264	Ame-35ae_264_animals-15_44	264	0	Deer	Animals	100.0
+taxongroup	Cet445b_5_deer-7	Cet445b_5_animal-10	Cet445b_5_deer-7_563	5	Cet445b_5_animal-10_44	5	0	Deer	Animals	100.0
+taxongroup	Asc-4810_255_deer-29	Asc-4810_255_animals-11	Asc-4810_255_deer-29_563	255	Asc-4810_255_animals-11_44	255	0	Deer	Animals	100.0
+taxongroup	And0de2_7_deer-15	And0de2_7_animals-9	And0de2_7_deer-15_563	7	And0de2_7_animals-9_44	7	0	Deer	Animals	100.0
+taxongroup	Bla-e03a_12_deer-32	Bla-e03a_12_animals-24	Bla-e03a_12_deer-32_563	12	Bla-e03a_12_animals-24_44	12	0	Deer	Animals	100.0
+taxongroup	Acc-0f45_128_deer-45	Acc-0f45_128_animals-52	Acc-0f45_128_deer-45_563	128	Acc-0f45_128_animals-52_44	128	0	Deer	Animals	100.0
+taxongroup	Bla-1ce3_201_deer-14	Bla-1ce3_201_Animals-1	Bla-1ce3_201_deer-14_563	201	Bla-1ce3_201_Animals-1_44	201	0	Deer	Animals	100.0
+taxongroup	Cam-5746_4_deer-21	Cam-5746_4_Artiodactyla-11	Cam-5746_4_deer-21_563	4	Cam-5746_4_Artiodactyla-11_2266	4	0	Deer	Artiodactyla	100.0
+taxongroup	Cam-5746_4_deer-21	Cam-5746_4_ungulates-6	Cam-5746_4_deer-21_563	4	Cam-5746_4_ungulates-6_2265	4	0	Deer	Even-toed ungulates	100.0
+taxongroup	Hip-aa4f_268_Hippopotamus-7	Hip-aa4f_268_animals-15	Hip-aa4f_268_Hippopotamus-7_2534	268	Hip-aa4f_268_animals-15_3812	268	0	Hippopotamus	animals	100.0
+taxongroup	Coy-1bf1_280_deer-17	Coy-1bf1_280_animals-37	Coy-1bf1_280_deer-17_563	280	Coy-1bf1_280_animals-37_3812	280	0	Deer	animals	100.0
+taxongroup	Cat-605b_250_deer-20	Cat-605b_250_animals-17	Cat-605b_250_deer-20_563	250	Cat-605b_250_animals-17_3812	250	0	Deer	animals	100.0
+taxongroup	Cap-8e74_40_deer-15	Cap-8e74_40_animals-5	Cap-8e74_40_deer-15_563	40	Cap-8e74_40_animals-5_3812	40	0	Deer	animals	100.0
+taxongroup	Cam-1690_117_Camelus-8	Cam-1690_117_animal-14	Cam-1690_117_Camelus-8_951	117	Cam-1690_117_animal-14_44	117	0	Camelus	Animals	100.0
+taxongroup	Eur-6423_2_Cervidae-32	Eur-6423_2_mammal-27	Eur-6423_2_Cervidae-32_562	2	Eur-6423_2_mammal-27_3797	2	0	Cervidae	mammals	100.0
+taxongroup	Hip-aa4f_268_Hippopotamus-7	Hip-aa4f_268_Hippopotamus-7	Hip-aa4f_268_Hippopotamus-7_2534	268	Hip-aa4f_268_Hippopotamus-7_1072	268	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_279_Hippopotamus-1	Hip-aa4f_279_Hippopotamus-1	Hip-aa4f_279_Hippopotamus-1_2534	279	Hip-aa4f_279_Hippopotamus-1_1072	279	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_116_Hippopotamus-4	Hip-aa4f_116_Hippopotamus-4	Hip-aa4f_116_Hippopotamus-4_2534	116	Hip-aa4f_116_Hippopotamus-4_1072	116	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_273_Hippopotamus-13	Hip-aa4f_273_Hippopotamus-13	Hip-aa4f_273_Hippopotamus-13_2534	273	Hip-aa4f_273_Hippopotamus-13_1072	273	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_65_Hippopotamus-43	Hip-aa4f_65_Hippopotamus-36	Hip-aa4f_65_Hippopotamus-43_2534	65	Hip-aa4f_65_Hippopotamus-36_1072	65	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_272_Hippopotamus-12	Hip-aa4f_272_Hippopotamus-12	Hip-aa4f_272_Hippopotamus-12_2534	272	Hip-aa4f_272_Hippopotamus-12_1072	272	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_267_Hippopotamus-2	Hip-aa4f_267_Hippopotamus-2	Hip-aa4f_267_Hippopotamus-2_2534	267	Hip-aa4f_267_Hippopotamus-2_1072	267	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_65_Hippopotamus-19	Hip-aa4f_65_Hippopotamus-19	Hip-aa4f_65_Hippopotamus-19_2534	65	Hip-aa4f_65_Hippopotamus-19_1072	65	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_65_Hippopotamus-19	Hip-aa4f_65_Hippopotamus-36	Hip-aa4f_65_Hippopotamus-19_2534	65	Hip-aa4f_65_Hippopotamus-36_1072	65	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_65_Hippopotamus-19	Hip-aa4f_65_Hippopotamus-43	Hip-aa4f_65_Hippopotamus-19_2534	65	Hip-aa4f_65_Hippopotamus-43_1072	65	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_1_Hippopotamus-1	Hip-aa4f_1_Hippopotamus-1	Hip-aa4f_1_Hippopotamus-1_2534	1	Hip-aa4f_1_Hippopotamus-1_1072	1	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_248_Hippopotamus-39	Hip-aa4f_248_Hippopotamus-39	Hip-aa4f_248_Hippopotamus-39_2534	248	Hip-aa4f_248_Hippopotamus-39_1072	248	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_115_Hippopotamus-1	Hip-aa4f_115_Hippopotamus-1	Hip-aa4f_115_Hippopotamus-1_2534	115	Hip-aa4f_115_Hippopotamus-1_1072	115	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_65_Hippopotamus-43	Hip-aa4f_65_Hippopotamus-19	Hip-aa4f_65_Hippopotamus-43_2534	65	Hip-aa4f_65_Hippopotamus-19_1072	65	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_275_Hippopotamus-1	Hip-aa4f_275_Hippopotamus-1	Hip-aa4f_275_Hippopotamus-1_2534	275	Hip-aa4f_275_Hippopotamus-1_1072	275	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_65_Hippopotamus-43	Hip-aa4f_65_Hippopotamus-43	Hip-aa4f_65_Hippopotamus-43_2534	65	Hip-aa4f_65_Hippopotamus-43_1072	65	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_65_Hippopotamus-36	Hip-aa4f_65_Hippopotamus-43	Hip-aa4f_65_Hippopotamus-36_2534	65	Hip-aa4f_65_Hippopotamus-43_1072	65	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_65_Hippopotamus-36	Hip-aa4f_65_Hippopotamus-19	Hip-aa4f_65_Hippopotamus-36_2534	65	Hip-aa4f_65_Hippopotamus-19_1072	65	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_65_Hippopotamus-36	Hip-aa4f_65_Hippopotamus-36	Hip-aa4f_65_Hippopotamus-36_2534	65	Hip-aa4f_65_Hippopotamus-36_1072	65	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-5f7c_52_Hippopotamus-5	Hip-5f7c_52_Hippopotamus-5	Hip-5f7c_52_Hippopotamus-5_2534	52	Hip-5f7c_52_Hippopotamus-5_1072	52	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-5f7c_46_Hippopotamus-2	Hip-5f7c_46_Hippopotamus-2	Hip-5f7c_46_Hippopotamus-2_2534	46	Hip-5f7c_46_Hippopotamus-2_1072	46	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-5f7c_39_Hippopotamus-2	Hip-5f7c_39_Hippopotamus-2	Hip-5f7c_39_Hippopotamus-2_2534	39	Hip-5f7c_39_Hippopotamus-2_1072	39	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-5f7c_49_Hippopotamus-5	Hip-5f7c_49_Hippopotamus-5	Hip-5f7c_49_Hippopotamus-5_2534	49	Hip-5f7c_49_Hippopotamus-5_1072	49	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-5f7c_57_Hippopotamus-14	Hip-5f7c_57_Hippopotamus-14	Hip-5f7c_57_Hippopotamus-14_2534	57	Hip-5f7c_57_Hippopotamus-14_1072	57	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-5f7c_5_Hippopotamus-30	Hip-5f7c_5_Hippopotamus-30	Hip-5f7c_5_Hippopotamus-30_2534	5	Hip-5f7c_5_Hippopotamus-30_1072	5	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-5f7c_62_Hippopotamus-1	Hip-5f7c_62_Hippopotamus-1	Hip-5f7c_62_Hippopotamus-1_2534	62	Hip-5f7c_62_Hippopotamus-1_1072	62	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Gra-bd0d_35_Hippopotamus-1	Gra-bd0d_35_Hippopotamus-1	Gra-bd0d_35_Hippopotamus-1_2534	35	Gra-bd0d_35_Hippopotamus-1_1072	35	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Per-930d_220_Hippopotamus-25	Per-930d_220_Hippopotamus-25	Per-930d_220_Hippopotamus-25_2534	220	Per-930d_220_Hippopotamus-25_1072	220	0	Hippopotamus	Hippopotamus	100.0
+taxongroup	Dee-529a_81_Deer-1	Dee-529a_81_artiodactyla-9	Dee-529a_81_Deer-1_563	81	Dee-529a_81_artiodactyla-9_4967	81	0	Deer	artiodactyla	100.0
+taxongroup	Art-6267_227_deer-9	Art-6267_227_artiodactyla-2	Art-6267_227_deer-9_563	227	Art-6267_227_artiodactyla-2_4967	227	0	Deer	artiodactyla	100.0
+taxongroup	Jagf699_11_deer-18	Jagf699_11_mammals-15	Jagf699_11_deer-18_563	11	Jagf699_11_mammals-15_3797	11	0	Deer	mammals	100.0
+taxongroup	Gir-cc25_2_deer-16	Gir-cc25_2_mammals-9	Gir-cc25_2_deer-16_563	2	Gir-cc25_2_mammals-9_3797	2	0	Deer	mammals	100.0
+taxongroup	Har-b746_92_deer-9	Har-b746_92_mammals-2	Har-b746_92_deer-9_563	92	Har-b746_92_mammals-2_3797	92	0	Deer	mammals	100.0
+taxongroup	Eur-0e00_28_deer-43	Eur-0e00_28_mammals-5	Eur-0e00_28_deer-43_563	28	Eur-0e00_28_mammals-5_3797	28	0	Deer	mammals	100.0
+taxongroup	Eur-6423_2_deer-16	Eur-6423_2_mammal-27	Eur-6423_2_deer-16_563	2	Eur-6423_2_mammal-27_3797	2	0	Deer	mammals	100.0
+taxongroup	Eur-6423_2_deer-4	Eur-6423_2_mammal-27	Eur-6423_2_deer-4_563	2	Eur-6423_2_mammal-27_3797	2	0	Deer	mammals	100.0
+taxongroup	Eur-6423_2_deer-20	Eur-6423_2_mammal-27	Eur-6423_2_deer-20_563	2	Eur-6423_2_mammal-27_3797	2	0	Deer	mammals	100.0
+taxongroup	Cro-0859_132_deer-40	Cro-0859_132_mammals-34	Cro-0859_132_deer-40_563	132	Cro-0859_132_mammals-34_3797	132	0	Deer	mammals	100.0
+taxongroup	Cou-56f5_112_deer-13	Cou-56f5_112_mammals-4	Cou-56f5_112_deer-13_563	112	Cou-56f5_112_mammals-4_3797	112	0	Deer	mammals	100.0
+taxongroup	Cou-56f5_112_deer-8	Cou-56f5_112_mammals-4	Cou-56f5_112_deer-8_563	112	Cou-56f5_112_mammals-4_3797	112	0	Deer	mammals	100.0
+taxongroup	Com-0bc9_123_deer-34	Com-0bc9_123_mammals-30	Com-0bc9_123_deer-34_563	123	Com-0bc9_123_mammals-30_3797	123	0	Deer	mammals	100.0
+taxongroup	Cer349a_1_deer-6	Cer349a_1_mammals-12	Cer349a_1_deer-6_563	1	Cer349a_1_mammals-12_3797	1	0	Deer	mammals	100.0
+taxongroup	Bla-30a4_34_deer-14	Bla-30a4_34_mammals-11	Bla-30a4_34_deer-14_563	34	Bla-30a4_34_mammals-11_3797	34	0	Deer	mammals	100.0
+taxongroup	Asc-4810_255_deer-29	Asc-4810_255_mammals-26	Asc-4810_255_deer-29_563	255	Asc-4810_255_mammals-26_3797	255	0	Deer	mammals	100.0
+taxongroup	Ant-f3cd_58_deer-4	Ant-f3cd_58_mammals-8	Ant-f3cd_58_deer-4_563	58	Ant-f3cd_58_mammals-8_3797	58	0	Deer	mammals	100.0
+taxongroup	Ani-161e_244_deer-7	Ani-161e_244_mammals-3	Ani-161e_244_deer-7_563	244	Ani-161e_244_mammals-3_3797	244	0	Deer	mammals	100.0
+taxongroup	Ame-d5c4_32_deer-31	Ame-d5c4_32_mammals-25	Ame-d5c4_32_deer-31_563	32	Ame-d5c4_32_mammals-25_3797	32	0	Deer	mammals	100.0
+taxongroup	Dee-529a_32_deer-2	Dee-529a_32_deer-2	Dee-529a_32_deer-2_140	32	Dee-529a_32_deer-2_563	32	0	Fallow deer	Deer	100.0
+taxongroup	Dee-529a_76_deer-4	Dee-529a_76_deer-7	Dee-529a_76_deer-4_5398	76	Dee-529a_76_deer-7_4087	76	0	red deer	deer	100.0
+taxongroup	Hip-5f7c_41_hippopotamus-4	Hip-5f7c_41_hippopotamus-4	Hip-5f7c_41_hippopotamus-4_5095	41	Hip-5f7c_41_hippopotamus-4_4345	41	0	hippopotamus	hippopotamus	100.0
+taxongroup	Dee-529a_76_deer-7	Dee-529a_76_deer-12	Dee-529a_76_deer-7_5398	76	Dee-529a_76_deer-12_563	76	0	red deer	Deer	100.0
+taxongroup	Dee-529a_76_deer-7	Dee-529a_76_deer-4	Dee-529a_76_deer-7_5398	76	Dee-529a_76_deer-4_563	76	0	red deer	Deer	100.0
+taxongroup	Dee-529a_76_deer-7	Dee-529a_76_deer-7	Dee-529a_76_deer-7_5398	76	Dee-529a_76_deer-7_563	76	0	red deer	Deer	100.0
+taxongroup	Hip-5f7c_43_hippopotamus-3	Hip-5f7c_43_hippopotamus-3	Hip-5f7c_43_hippopotamus-3_5095	43	Hip-5f7c_43_hippopotamus-3_4345	43	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-b9f2_26_hippopotamus-6	Hip-b9f2_26_hippopotamus-6	Hip-b9f2_26_hippopotamus-6_5095	26	Hip-b9f2_26_hippopotamus-6_4345	26	0	hippopotamus	hippopotamus	100.0
+taxongroup	Gra-bd0d_37_hippopotamus-30	Gra-bd0d_37_hippopotamus-30	Gra-bd0d_37_hippopotamus-30_5095	37	Gra-bd0d_37_hippopotamus-30_4345	37	0	hippopotamus	hippopotamus	100.0
+taxongroup	Ele-d1e7_70_hippopotamus-13	Ele-d1e7_70_hippopotamus-13	Ele-d1e7_70_hippopotamus-13_5095	70	Ele-d1e7_70_hippopotamus-13_4345	70	0	hippopotamus	hippopotamus	100.0
+taxongroup	Art-6267_152_hippopotamus-17	Art-6267_152_hippopotamus-17	Art-6267_152_hippopotamus-17_5095	152	Art-6267_152_hippopotamus-17_4345	152	0	hippopotamus	hippopotamus	100.0
+taxongroup	Ele-f6cf_537_hippopotamus-19	Ele-f6cf_537_hippopotamus-19	Ele-f6cf_537_hippopotamus-19_5095	537	Ele-f6cf_537_hippopotamus-19_4345	537	0	hippopotamus	hippopotamus	100.0
+taxongroup	Dip-988a_3_hippopotamus-5	Dip-988a_3_hippopotamus-5	Dip-988a_3_hippopotamus-5_5095	3	Dip-988a_3_hippopotamus-5_4345	3	0	hippopotamus	hippopotamus	100.0
+taxongroup	Bar-5142_25_hippopotamus-17	Bar-5142_25_hippopotamus-17	Bar-5142_25_hippopotamus-17_5095	25	Bar-5142_25_hippopotamus-17_4345	25	0	hippopotamus	hippopotamus	100.0
+taxongroup	Art-6267_305_hippopotamus-12	Art-6267_305_hippopotamus-12	Art-6267_305_hippopotamus-12_5095	305	Art-6267_305_hippopotamus-12_4345	305	0	hippopotamus	hippopotamus	100.0
+taxongroup	Art-6267_92_hippopotamus-21	Art-6267_92_hippopotamus-21	Art-6267_92_hippopotamus-21_5095	92	Art-6267_92_hippopotamus-21_4345	92	0	hippopotamus	hippopotamus	100.0
+taxongroup	Art-6267_148_hippopotamus-6	Art-6267_148_hippopotamus-6	Art-6267_148_hippopotamus-6_5095	148	Art-6267_148_hippopotamus-6_4345	148	0	hippopotamus	hippopotamus	100.0
+taxongroup	Afr-7a1b_122_hippopotamus-3	Afr-7a1b_122_hippopotamus-3	Afr-7a1b_122_hippopotamus-3_5095	122	Afr-7a1b_122_hippopotamus-3_4345	122	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_59_hippopotamus-5	Hip-aa4f_59_hippopotamus-5	Hip-aa4f_59_hippopotamus-5_5095	59	Hip-aa4f_59_hippopotamus-5_4345	59	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_69_hippopotamus-2	Hip-aa4f_69_hippopotamus-2	Hip-aa4f_69_hippopotamus-2_5095	69	Hip-aa4f_69_hippopotamus-2_4345	69	0	hippopotamus	hippopotamus	100.0
+taxongroup	Ele-d1e7_67_hippopotamus-18	Ele-d1e7_67_hippopotamus-18	Ele-d1e7_67_hippopotamus-18_5095	67	Ele-d1e7_67_hippopotamus-18_4345	67	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_153_hippopotamus-2	Hip-aa4f_153_mammals-16	Hip-aa4f_153_hippopotamus-2_5095	153	Hip-aa4f_153_mammals-16_3797	153	0	hippopotamus	mammals	100.0
+taxongroup	Hip-aa4f_5_hippopotamus-7	Hip-aa4f_5_mammal-13	Hip-aa4f_5_hippopotamus-7_5095	5	Hip-aa4f_5_mammal-13_3797	5	0	hippopotamus	mammals	100.0
+taxongroup	Bar-5142_25_hippopotamus-17	Bar-5142_25_mammals-12	Bar-5142_25_hippopotamus-17_5095	25	Bar-5142_25_mammals-12_3797	25	0	hippopotamus	mammals	100.0
+taxongroup	Red-5893_167_deer-16	Red-5893_167_animals-43	Red-5893_167_deer-16_5398	167	Red-5893_167_animals-43_44	167	0	red deer	Animals	100.0
+taxongroup	Red-5893_167_deer-57	Red-5893_167_animals-43	Red-5893_167_deer-57_5398	167	Red-5893_167_animals-43_44	167	0	red deer	Animals	100.0
+taxongroup	Red-5893_98_deer-8	Red-5893_98_animal-42	Red-5893_98_deer-8_5398	98	Red-5893_98_animal-42_44	98	0	red deer	Animals	100.0
+taxongroup	Red-5893_98_deer-8	Red-5893_98_animal-17	Red-5893_98_deer-8_5398	98	Red-5893_98_animal-17_44	98	0	red deer	Animals	100.0
+taxongroup	Sik-94e7_123_deer-2	Sik-94e7_123_Cervus-31	Sik-94e7_123_deer-2_5398	123	Sik-94e7_123_Cervus-31_968	123	0	red deer	Cervus	100.0
+taxongroup	Sik-94e7_123_deer-20	Sik-94e7_123_Cervus-31	Sik-94e7_123_deer-20_5398	123	Sik-94e7_123_Cervus-31_968	123	0	red deer	Cervus	100.0
+taxongroup	Sik-94e7_123_deer-11	Sik-94e7_123_Cervus-31	Sik-94e7_123_deer-11_5398	123	Sik-94e7_123_Cervus-31_968	123	0	red deer	Cervus	100.0
+taxongroup	Dee-529a_61_deer-15	Dee-529a_61_deer-15	Dee-529a_61_deer-15_5398	61	Dee-529a_61_deer-15_563	61	0	red deer	Deer	100.0
+taxongroup	Dee-529a_79_deer-18	Dee-529a_79_deer-18	Dee-529a_79_deer-18_5398	79	Dee-529a_79_deer-18_563	79	0	red deer	Deer	100.0
+taxongroup	Red-5893_115_deer-4	Red-5893_115_deer-11	Red-5893_115_deer-4_5398	115	Red-5893_115_deer-11_563	115	0	red deer	Deer	100.0
+taxongroup	Red-5893_44_deer-33	Red-5893_44_deer-27	Red-5893_44_deer-33_5398	44	Red-5893_44_deer-27_563	44	0	red deer	Deer	100.0
+taxongroup	Dee-529a_76_deer-4	Dee-529a_76_deer-12	Dee-529a_76_deer-4_5398	76	Dee-529a_76_deer-12_563	76	0	red deer	Deer	100.0
+taxongroup	Red-5893_98_deer-8	Red-5893_98_deer-8	Red-5893_98_deer-8_5398	98	Red-5893_98_deer-8_4087	98	0	red deer	deer	100.0
+taxongroup	Red-5893_47_deer-20	Red-5893_47_deer-20	Red-5893_47_deer-20_5398	47	Red-5893_47_deer-20_4087	47	0	red deer	deer	100.0
+taxongroup	Dee-529a_61_deer-15	Dee-529a_61_deer-6	Dee-529a_61_deer-15_5398	61	Dee-529a_61_deer-6_4087	61	0	red deer	deer	100.0
+taxongroup	Dee-529a_76_deer-12	Dee-529a_76_deer-12	Dee-529a_76_deer-12_5398	76	Dee-529a_76_deer-12_4087	76	0	red deer	deer	100.0
+taxongroup	Dee-529a_76_deer-12	Dee-529a_76_deer-4	Dee-529a_76_deer-12_5398	76	Dee-529a_76_deer-4_4087	76	0	red deer	deer	100.0
+taxongroup	Hip-5f7c_44_hippopotamus-10	Hip-5f7c_44_hippopotamus-10	Hip-5f7c_44_hippopotamus-10_5095	44	Hip-5f7c_44_hippopotamus-10_4345	44	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-5f7c_6_hippopotamus-3	Hip-5f7c_6_hippopotamus-3	Hip-5f7c_6_hippopotamus-3_5095	6	Hip-5f7c_6_hippopotamus-3_4345	6	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-5f7c_39_hippopotamus-9	Hip-5f7c_39_hippopotamus-9	Hip-5f7c_39_hippopotamus-9_5095	39	Hip-5f7c_39_hippopotamus-9_4345	39	0	hippopotamus	hippopotamus	100.0
+taxongroup	Eur-0e00_28_deer-43	Eur-0e00_28_deer-43	Eur-0e00_28_deer-43_3855	28	Eur-0e00_28_deer-43_563	28	0	fallow deer	Deer	100.0
+taxongroup	Dee-529a_52_deer-5	Dee-529a_52_deer-5	Dee-529a_52_deer-5_3855	52	Dee-529a_52_deer-5_563	52	0	fallow deer	Deer	100.0
+taxongroup	Dee-529a_110_deer-11	Dee-529a_110_deer-11	Dee-529a_110_deer-11_3855	110	Dee-529a_110_deer-11_563	110	0	fallow deer	Deer	100.0
+taxongroup	Dee-529a_110_deer-11	Dee-529a_110_deer-28	Dee-529a_110_deer-11_3855	110	Dee-529a_110_deer-28_563	110	0	fallow deer	Deer	100.0
+taxongroup	Dee-529a_110_deer-28	Dee-529a_110_deer-28	Dee-529a_110_deer-28_3855	110	Dee-529a_110_deer-28_563	110	0	fallow deer	Deer	100.0
+taxongroup	Dee-529a_110_deer-28	Dee-529a_110_deer-11	Dee-529a_110_deer-28_3855	110	Dee-529a_110_deer-11_563	110	0	fallow deer	Deer	100.0
+taxongroup	Hip-aa4f_243_hippopotamus-19	Hip-aa4f_243_hippopotamus-19	Hip-aa4f_243_hippopotamus-19_5095	243	Hip-aa4f_243_hippopotamus-19_4345	243	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_65_hippopotamus-28	Hip-aa4f_65_hippopotamus-28	Hip-aa4f_65_hippopotamus-28_5095	65	Hip-aa4f_65_hippopotamus-28_4345	65	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-29	Hip-aa4f_2_hippopotamus-36	Hip-aa4f_2_hippopotamus-29_5095	2	Hip-aa4f_2_hippopotamus-36_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-29	Hip-aa4f_2_hippopotamus-2	Hip-aa4f_2_hippopotamus-29_5095	2	Hip-aa4f_2_hippopotamus-2_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-2	Hip-aa4f_2_hippopotamus-29	Hip-aa4f_2_hippopotamus-2_5095	2	Hip-aa4f_2_hippopotamus-29_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-29	Hip-aa4f_2_hippopotamus-29	Hip-aa4f_2_hippopotamus-29_5095	2	Hip-aa4f_2_hippopotamus-29_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_63_hippopotamus-22	Hip-aa4f_63_hippopotamus-22	Hip-aa4f_63_hippopotamus-22_5095	63	Hip-aa4f_63_hippopotamus-22_4345	63	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_291_hippopotamus-8	Hip-aa4f_291_hippopotamus-8	Hip-aa4f_291_hippopotamus-8_5095	291	Hip-aa4f_291_hippopotamus-8_4345	291	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_112_hippopotamus-4	Hip-aa4f_112_hippopotamus-4	Hip-aa4f_112_hippopotamus-4_5095	112	Hip-aa4f_112_hippopotamus-4_4345	112	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_22_hippopotamus-3	Hip-aa4f_22_hippopotamus-3	Hip-aa4f_22_hippopotamus-3_5095	22	Hip-aa4f_22_hippopotamus-3_4345	22	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_22_hippopotamus-3	Hip-aa4f_22_hippopotamus-7	Hip-aa4f_22_hippopotamus-3_5095	22	Hip-aa4f_22_hippopotamus-7_4345	22	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_153_hippopotamus-2	Hip-aa4f_153_hippopotamus-2	Hip-aa4f_153_hippopotamus-2_5095	153	Hip-aa4f_153_hippopotamus-2_4345	153	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_254_hippopotamus-14	Hip-aa4f_254_hippopotamus-14	Hip-aa4f_254_hippopotamus-14_5095	254	Hip-aa4f_254_hippopotamus-14_4345	254	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_22_hippopotamus-7	Hip-aa4f_22_hippopotamus-3	Hip-aa4f_22_hippopotamus-7_5095	22	Hip-aa4f_22_hippopotamus-3_4345	22	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_22_hippopotamus-7	Hip-aa4f_22_hippopotamus-7	Hip-aa4f_22_hippopotamus-7_5095	22	Hip-aa4f_22_hippopotamus-7_4345	22	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-2	Hip-aa4f_2_hippopotamus-2	Hip-aa4f_2_hippopotamus-2_5095	2	Hip-aa4f_2_hippopotamus-2_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-2	Hip-aa4f_2_hippopotamus-32	Hip-aa4f_2_hippopotamus-2_5095	2	Hip-aa4f_2_hippopotamus-32_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-36	Hip-aa4f_2_hippopotamus-36	Hip-aa4f_2_hippopotamus-36_5095	2	Hip-aa4f_2_hippopotamus-36_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-36	Hip-aa4f_2_hippopotamus-32	Hip-aa4f_2_hippopotamus-36_5095	2	Hip-aa4f_2_hippopotamus-32_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-36	Hip-aa4f_2_hippopotamus-2	Hip-aa4f_2_hippopotamus-36_5095	2	Hip-aa4f_2_hippopotamus-2_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-36	Hip-aa4f_2_hippopotamus-29	Hip-aa4f_2_hippopotamus-36_5095	2	Hip-aa4f_2_hippopotamus-29_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-32	Hip-aa4f_2_hippopotamus-36	Hip-aa4f_2_hippopotamus-32_5095	2	Hip-aa4f_2_hippopotamus-36_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-2	Hip-aa4f_2_hippopotamus-36	Hip-aa4f_2_hippopotamus-2_5095	2	Hip-aa4f_2_hippopotamus-36_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_5_hippopotamus-7	Hip-aa4f_5_hippopotamus-7	Hip-aa4f_5_hippopotamus-7_5095	5	Hip-aa4f_5_hippopotamus-7_4345	5	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_18_hippopotamus-4	Hip-aa4f_18_hippopotamus-4	Hip-aa4f_18_hippopotamus-4_5095	18	Hip-aa4f_18_hippopotamus-4_4345	18	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-32	Hip-aa4f_2_hippopotamus-2	Hip-aa4f_2_hippopotamus-32_5095	2	Hip-aa4f_2_hippopotamus-2_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-32	Hip-aa4f_2_hippopotamus-32	Hip-aa4f_2_hippopotamus-32_5095	2	Hip-aa4f_2_hippopotamus-32_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-32	Hip-aa4f_2_hippopotamus-29	Hip-aa4f_2_hippopotamus-32_5095	2	Hip-aa4f_2_hippopotamus-29_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Hip-aa4f_2_hippopotamus-29	Hip-aa4f_2_hippopotamus-32	Hip-aa4f_2_hippopotamus-29_5095	2	Hip-aa4f_2_hippopotamus-32_4345	2	0	hippopotamus	hippopotamus	100.0
+taxongroup	Sho-489b_89_hippopotamus-4	Sho-489b_89_hippopotamus-4	Sho-489b_89_hippopotamus-4_5095	89	Sho-489b_89_hippopotamus-4_4345	89	0	hippopotamus	hippopotamus	100.0
+taxongroup	Chi-6eec_59_deer-18	Chi-6eec_59_deer-18	Chi-6eec_59_deer-18_3855	59	Chi-6eec_59_deer-18_563	59	0	fallow deer	Deer	100.0
+taxongroup	Mas-675c_40_hippopotamus-28	Mas-675c_40_hippopotamus-28	Mas-675c_40_hippopotamus-28_5095	40	Mas-675c_40_hippopotamus-28_4345	40	0	hippopotamus	hippopotamus	100.0
+taxongroup	Smi-7190_122_hippopotamus-8	Smi-7190_122_animals-5	Smi-7190_122_hippopotamus-8_5095	122	Smi-7190_122_animals-5_44	122	0	hippopotamus	Animals	100.0
+taxongroup	Hip-aa4f_69_hippopotamus-2	Hip-aa4f_69_animals-13	Hip-aa4f_69_hippopotamus-2_5095	69	Hip-aa4f_69_animals-13_44	69	0	hippopotamus	Animals	100.0
+taxongroup	Ele-d1e7_67_hippopotamus-18	Ele-d1e7_67_animals-11	Ele-d1e7_67_hippopotamus-18_5095	67	Ele-d1e7_67_animals-11_44	67	0	hippopotamus	Animals	100.0
+taxongroup	Ele-d1e7_67_hippopotamus-18	Ele-d1e7_67_animal-49	Ele-d1e7_67_hippopotamus-18_5095	67	Ele-d1e7_67_animal-49_44	67	0	hippopotamus	Animals	100.0
+taxongroup	Ele-f6cf_537_hippopotamus-19	Ele-f6cf_537_animals-27	Ele-f6cf_537_hippopotamus-19_5095	537	Ele-f6cf_537_animals-27_44	537	0	hippopotamus	Animals	100.0
+taxongroup	Hip-aa4f_22_hippopotamus-7	Hip-aa4f_22_Hippopotamidae-16	Hip-aa4f_22_hippopotamus-7_5095	22	Hip-aa4f_22_Hippopotamidae-16_631	22	0	hippopotamus	Hippopotamidae	100.0
+taxongroup	Hip-aa4f_22_hippopotamus-3	Hip-aa4f_22_Hippopotamidae-16	Hip-aa4f_22_hippopotamus-3_5095	22	Hip-aa4f_22_Hippopotamidae-16_631	22	0	hippopotamus	Hippopotamidae	100.0
+taxongroup	Hip-aa4f_65_hippopotamus-28	Hip-aa4f_65_Hippopotamus-36	Hip-aa4f_65_hippopotamus-28_5095	65	Hip-aa4f_65_Hippopotamus-36_1072	65	0	hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_65_hippopotamus-28	Hip-aa4f_65_Hippopotamus-19	Hip-aa4f_65_hippopotamus-28_5095	65	Hip-aa4f_65_Hippopotamus-19_1072	65	0	hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_65_hippopotamus-28	Hip-aa4f_65_Hippopotamus-43	Hip-aa4f_65_hippopotamus-28_5095	65	Hip-aa4f_65_Hippopotamus-43_1072	65	0	hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-5f7c_39_hippopotamus-9	Hip-5f7c_39_Hippopotamus-2	Hip-5f7c_39_hippopotamus-9_5095	39	Hip-5f7c_39_Hippopotamus-2_1072	39	0	hippopotamus	Hippopotamus	100.0
+taxongroup	Hip-aa4f_3_hippopotamus-19	Hip-aa4f_3_hippopotamus-19	Hip-aa4f_3_hippopotamus-19_5095	3	Hip-aa4f_3_hippopotamus-19_4345	3	0	hippopotamus	hippopotamus	100.0
+taxongroup	Whi-53ef_61_hippopotamus-9	Whi-53ef_61_hippopotamus-9	Whi-53ef_61_hippopotamus-9_5095	61	Whi-53ef_61_hippopotamus-9_4345	61	0	hippopotamus	hippopotamus	100.0
+taxongroup	Smi-7190_122_hippopotamus-8	Smi-7190_122_hippopotamus-8	Smi-7190_122_hippopotamus-8_5095	122	Smi-7190_122_hippopotamus-8_4345	122	0	hippopotamus	hippopotamus	100.0
+taxongroup	Pla-6ae4_8_hippopotamus-11	Pla-6ae4_8_hippopotamus-11	Pla-6ae4_8_hippopotamus-11_5095	8	Pla-6ae4_8_hippopotamus-11_4345	8	0	hippopotamus	hippopotamus	100.0

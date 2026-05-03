@@ -1,0 +1,8 @@
+,token,token_form,concept_uri,arcpath,lemma,upos,widx,feat,elongation_x,elongation_y,group,relrole,comp_id,N_tokens
+10,Eng-0a3a_63_farmland-26,farmland,Arable_land#habitat,case>,from,ADP,25,case> from,-0.2774485328643766,-0.04253241414271407,Life__life,location_comment,1,3
+10,Tai-3286_75_grassland-20,grassland,Temperate_grasslands_savannas_and_shrublands#habitat,case>,into,ADP,18,case> ...,-0.3055019781665245,-0.08881033335568507,Life__life,location_comment,1,3
+2,Sea-a5d2_87_ocean-6,ocean,Pelagic#habitat,case>,in,ADP,3,case> in,-0.25638632317888244,-0.008430099178034396,Life__life,location_comment,1,3
+3,Sea-a5d2_87_ocean-6,ocean,Pelagic#habitat,det>,the,DET,4,det> the,0.27604996052228814,-0.003306009707356391,Life__life,location_comment,1,3
+7,Che-369e_341_farmlands-28,farmlands,Arable_land#habitat,case>,such,ADJ,25,case> ...,-0.464402311880984,-0.12526405856802963,Life__life,location_comment,0,2
+9,Che-369e_341_farmlands-28,farmlands,Arable_land#habitat,amod>,Namibian,ADJ,27,amod> ...,-0.46173050856048636,0.08685728454952417,Life__life,location_comment,0,2
+5,Urb173e_11_farmlands-10,farmlands,Arable_land#habitat,case>,from,ADP,9,case> from,-0.36506126426637603,0.016481152701335114,Life__life,location_comment,0,2

@@ -1,0 +1,8 @@
+rel_role	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	1.0	0.0	0.007	0.0	0.0	0.027	0.0	Insect__class	108
+adaptation_topic	0.0	1.0	0.0	0.0	0.014	0.0	0.0	Insect__class	124
+free_topic	0.007	0.0	1.0	0.0	0.0	0.0	0.001	Insect__class	950
+location_comment	0.0	0.0	0.0	1.0	0.0	0.0	0.0	Insect__class	79
+location_topic	0.0	0.014	0.0	0.0	1.0	0.0	0.0	Insect__class	97
+taxongroup_comment	0.027	0.0	0.0	0.0	0.0	1.0	0.0	Insect__class	449
+taxongroup_topic	0.0	0.0	0.001	0.0	0.0	0.0	1.0	Insect__class	458

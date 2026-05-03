@@ -1,0 +1,731 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Bur-98f9_77_pythons-2	Bur-98f9_77_rainforest-6	Bur-98f9_77_pythons-2_4445	77	Bur-98f9_77_rainforest-6_3811	77	0	python	rainforest	100.0
+location	Gra-2e39_80_snake-13	Gra-2e39_80_marshes-16	Gra-2e39_80_snake-13_148	80	Gra-2e39_80_marshes-16_3807	80	0	Grass snake	marsh	100.0
+location	Gra-2e39_80_snake-8	Gra-2e39_80_marshes-16	Gra-2e39_80_snake-8_3859	80	Gra-2e39_80_marshes-16_3807	80	0	grass snake	marsh	100.0
+location	Boi-e3d6_12_snake-44	Boi-e3d6_12_mangrove-43	Boi-e3d6_12_snake-44_4713	12	Boi-e3d6_12_mangrove-43_4524	12	0	mangrove snake	mangroves	83.0
+location	Boi-9f0e_2_snake-8	Boi-9f0e_2_mangrove-7	Boi-9f0e_2_snake-8_4713	2	Boi-9f0e_2_mangrove-7_4524	2	0	mangrove snake	mangroves	83.0
+location	Boi-e3d6_12_snake-13	Boi-e3d6_12_mangrove-43	Boi-e3d6_12_snake-13_4713	12	Boi-e3d6_12_mangrove-43_4524	12	0	mangrove snake	mangroves	83.0
+location	Boi-e3d6_12_snake-27	Boi-e3d6_12_mangrove-43	Boi-e3d6_12_snake-27_4713	12	Boi-e3d6_12_mangrove-43_4524	12	0	mangrove snake	mangroves	83.0
+location	Boi-e3d6_12_snake-41	Boi-e3d6_12_mangrove-43	Boi-e3d6_12_snake-41_4713	12	Boi-e3d6_12_mangrove-43_4524	12	0	mangrove snake	mangroves	83.0
+location	Sna-dfa9_251_snake-11	Sna-dfa9_251_mangrove-10	Sna-dfa9_251_snake-11_4713	251	Sna-dfa9_251_mangrove-10_4524	251	0	mangrove snake	mangroves	83.0
+location	Sna-dfa9_251_snakes-2	Sna-dfa9_251_mangrove-10	Sna-dfa9_251_snakes-2_4713	251	Sna-dfa9_251_mangrove-10_4524	251	0	mangrove snake	mangroves	83.0
+location	Boi-9f0e_2_snake-25	Boi-9f0e_2_mangrove-7	Boi-9f0e_2_snake-25_4713	2	Boi-9f0e_2_mangrove-7_4524	2	0	mangrove snake	mangroves	83.0
+location	Boi-9f0e_38_snake-9	Boi-9f0e_38_rainforests-19	Boi-9f0e_38_snake-9_4713	38	Boi-9f0e_38_rainforests-19_3811	38	0	mangrove snake	rainforest	83.0
+location	Boi-9f0e_2_snake-15	Boi-9f0e_2_mangrove-7	Boi-9f0e_2_snake-15_4713	2	Boi-9f0e_2_mangrove-7_4524	2	0	mangrove snake	mangroves	83.0
+location	Boi-9f0e_38_snake-9	Boi-9f0e_38_swamps-24	Boi-9f0e_38_snake-9_4713	38	Boi-9f0e_38_swamps-24_3808	38	0	mangrove snake	swamp	83.0
+location	Boi-9f0e_38_snake-9	Boi-9f0e_38_mangrove-8	Boi-9f0e_38_snake-9_4713	38	Boi-9f0e_38_mangrove-8_4524	38	0	mangrove snake	mangroves	83.0
+location	Bla-d6a7_13_krait-8	Bla-d6a7_13_reef-29	Bla-d6a7_13_krait-8_4677	13	Bla-d6a7_13_reef-29_4532	13	0	black-banded sea krait	reefs	80.0
+location	Bla-d6a7_13_krait-25	Bla-d6a7_13_reef-29	Bla-d6a7_13_krait-25_4677	13	Bla-d6a7_13_reef-29_4532	13	0	black-banded sea krait	reefs	80.0
+location	The6675_2_snakes-3	The6675_2_mountains-18	The6675_2_snakes-3_3504	2	The6675_2_mountains-18_4527	2	0	Tibetan spring snake	mountains	66.0
+location	Boia907_4_snake-5	Boia907_4_mangroves-23	Boia907_4_snake-5_4711	4	Boia907_4_mangroves-23_4524	4	0	mangrove cat snake	mangroves	66.0
+location	Cen-cfeb_128_python-7	Cen-cfeb_129_rainforest-6	Cen-cfeb_128_python-7_1240	128	Cen-cfeb_129_rainforest-6_3811	129	1	Python	rainforest	50.0
+location	Cen-cfeb_130_python-5	Cen-cfeb_129_rainforest-6	Cen-cfeb_130_python-5_1240	130	Cen-cfeb_129_rainforest-6_3811	129	1	Python	rainforest	50.0
+location	Cro-5646_352_Python-47	Cro-5646_351_rainforest-3	Cro-5646_352_Python-47_1240	352	Cro-5646_351_rainforest-3_3811	351	1	Python	rainforest	50.0
+location	Gra-2e39_81_snake-2	Gra-2e39_80_marshes-16	Gra-2e39_81_snake-2_3859	81	Gra-2e39_80_marshes-16_3807	80	1	grass snake	marsh	50.0
+location	Yel-2b33_17_anaconda-6	Yel-2b33_18_swamps-8	Yel-2b33_17_anaconda-6_121	17	Yel-2b33_18_swamps-8_3808	18	1	Yellow anaconda	swamp	50.0
+location	Cen-cfeb_60_python-5	Cen-cfeb_61_swamps-18	Cen-cfeb_60_python-5_4445	60	Cen-cfeb_61_swamps-18_3808	61	1	python	swamp	50.0
+location	Yel-2b33_17_anaconda-6	Yel-2b33_18_rivers-21	Yel-2b33_17_anaconda-6_121	17	Yel-2b33_18_rivers-21_4533	18	1	Yellow anaconda	rivers and streams	50.0
+location	Ind-afd0_22_python-3	Ind-afd0_23_swamps-13	Ind-afd0_22_python-3_4445	22	Ind-afd0_23_swamps-13_3808	23	1	python	swamp	50.0
+location	Bur-98f9_76_python-2	Bur-98f9_77_rainforest-6	Bur-98f9_76_python-2_4445	76	Bur-98f9_77_rainforest-6_3811	77	1	python	rainforest	50.0
+location	Cro-5646_352_python-45	Cro-5646_351_rainforest-3	Cro-5646_352_python-45_4445	352	Cro-5646_351_rainforest-3_3811	351	1	python	rainforest	50.0
+location	Yel-2b33_17_anaconda-6	Yel-2b33_18_marshes-10	Yel-2b33_17_anaconda-6_121	17	Yel-2b33_18_marshes-10_3807	18	1	Yellow anaconda	marsh	50.0
+location	Boa-7d46_57_constrictors-2	Boa-7d46_56_rivers-8	Boa-7d46_57_constrictors-2_1737	57	Boa-7d46_56_rivers-8_4533	56	1	Boa constrictor	rivers and streams	50.0
+location	Boi-9f0e_37_dendrophila-2	Boi-9f0e_38_rainforests-19	Boi-9f0e_37_dendrophila-2_1742	37	Boi-9f0e_38_rainforests-19_3811	38	1	Boiga dendrophila	rainforest	43.5
+location	Boi-9f0e_37_dendrophila-2	Boi-9f0e_38_swamps-24	Boi-9f0e_37_dendrophila-2_1742	37	Boi-9f0e_38_swamps-24_3808	38	1	Boiga dendrophila	swamp	43.5
+location	Boi-9f0e_37_dendrophila-2	Boi-9f0e_38_mangrove-8	Boi-9f0e_37_dendrophila-2_1742	37	Boi-9f0e_38_mangrove-8_4524	38	1	Boiga dendrophila	mangroves	43.5
+location	Boi-9f0e_39_dendrophila-2	Boi-9f0e_38_mangrove-8	Boi-9f0e_39_dendrophila-2_1742	39	Boi-9f0e_38_mangrove-8_4524	38	1	Boiga dendrophila	mangroves	43.5
+location	Boi-9f0e_39_dendrophila-2	Boi-9f0e_38_swamps-24	Boi-9f0e_39_dendrophila-2_1742	39	Boi-9f0e_38_swamps-24_3808	38	1	Boiga dendrophila	swamp	43.5
+location	Boi-9f0e_39_dendrophila-2	Boi-9f0e_38_rainforests-19	Boi-9f0e_39_dendrophila-2_1742	39	Boi-9f0e_38_rainforests-19_3811	38	1	Boiga dendrophila	rainforest	43.5
+location	Bla-d6a7_4_erabu-15	Bla-d6a7_5_reef-6	Bla-d6a7_4_erabu-15_4678	4	Bla-d6a7_5_reef-6_4532	5	1	erabu	reefs	41.5
+location	Moo-69c5_27_viper-7	Moo-69c5_28_moorlands-9	Moo-69c5_27_viper-7_278	27	Moo-69c5_28_moorlands-9_4526	28	1	Common viper	moorland	41.5
+location	Bla-d6a7_13_krait-25	Bla-d6a7_12_reef-12	Bla-d6a7_13_krait-25_4677	13	Bla-d6a7_12_reef-12_4532	12	1	black-banded sea krait	reefs	40.0
+location	Bla-d6a7_13_krait-8	Bla-d6a7_12_reef-12	Bla-d6a7_13_krait-8_4677	13	Bla-d6a7_12_reef-12_4532	12	1	black-banded sea krait	reefs	40.0
+location	Gra-2e39_78_snake-2	Gra-2e39_80_marshes-16	Gra-2e39_78_snake-2_3859	78	Gra-2e39_80_marshes-16_3807	80	2	grass snake	marsh	33.333
+location	Add-f0f0_68_snake-12	Add-f0f0_70_hedgerows-40	Add-f0f0_68_snake-12_3859	68	Add-f0f0_70_hedgerows-40_4519	70	2	grass snake	hedgerows	33.333
+location	Gra-2e39_82_snake-2	Gra-2e39_80_marshes-16	Gra-2e39_82_snake-2_3859	82	Gra-2e39_80_marshes-16_3807	80	2	grass snake	marsh	33.333
+location	Cen-cfeb_63_python-4	Cen-cfeb_61_swamps-18	Cen-cfeb_63_python-4_1240	63	Cen-cfeb_61_swamps-18_3808	61	2	Python	swamp	33.333
+location	Cen-cfeb_59_pythons-3	Cen-cfeb_61_swamps-18	Cen-cfeb_59_pythons-3_4445	59	Cen-cfeb_61_swamps-18_3808	61	2	python	swamp	33.333
+location	Add-f0f0_68_snake-8	Add-f0f0_70_hedgerows-40	Add-f0f0_68_snake-8_3859	68	Add-f0f0_70_hedgerows-40_4519	70	2	grass snake	hedgerows	33.333
+location	Boa-7d46_57_constrictors-2	Boa-7d46_55_rainforest-8	Boa-7d46_57_constrictors-2_1737	57	Boa-7d46_55_rainforest-8_3811	55	2	Boa constrictor	rainforest	33.333
+location	Boa-7d46_58_constrictor-2	Boa-7d46_56_rivers-8	Boa-7d46_58_constrictor-2_1737	58	Boa-7d46_56_rivers-8_4533	56	2	Boa constrictor	rivers and streams	33.333
+location	Bur-98f9_55_pythons-14	Bur-98f9_54_forest-12	Bur-98f9_55_pythons-14_1240	55	Bur-98f9_54_forest-12_1378	54	1	Python	Tropical coniferous forest	33.0
+location	Bur-98f9_53_pythons-2	Bur-98f9_54_forest-12	Bur-98f9_53_pythons-2_1240	53	Bur-98f9_54_forest-12_4538	54	1	Python	tropical coniferous forest	33.0
+location	The6675_1_snakes-3	The6675_2_mountains-18	The6675_1_snakes-3_3504	1	The6675_2_mountains-18_4527	2	1	Tibetan spring snake	mountains	33.0
+location	Boi-9f0e_72_dendrophila-3	Boi-9f0e_74_Mangrove-5	Boi-9f0e_72_dendrophila-3_1742	72	Boi-9f0e_74_Mangrove-5_1363	74	2	Boiga dendrophila	Mangroves	29.0
+location	Sho-489b_124_snakes-17	Sho-489b_126_wetlands-9	Sho-489b_124_snakes-17_3861	124	Sho-489b_126_wetlands-9_4542	126	2	water snake	wetlands	27.667
+location	Moo-69c5_27_viper-7	Moo-69c5_29_moorland-2	Moo-69c5_27_viper-7_278	27	Moo-69c5_29_moorland-2_4526	29	2	Common viper	moorland	27.667
+location	Moo-69c5_27_viper-7	Moo-69c5_25_moorlands-5	Moo-69c5_27_viper-7_278	27	Moo-69c5_25_moorlands-5_4526	25	2	Common viper	moorland	27.667
+location	Bur-98f9_57_pythons-14	Bur-98f9_55_marsh-3	Bur-98f9_57_pythons-14_211	57	Bur-98f9_55_marsh-3_3807	55	2	Burmese python	marsh	27.667
+location	Cen-cfeb_58_python-18	Cen-cfeb_61_swamps-18	Cen-cfeb_58_python-18_1241	58	Cen-cfeb_61_swamps-18_3808	61	3	Pythons	swamp	25.0
+location	Rai-7e47_50_constrictors-23	Rai-7e47_53_rainforest-11	Rai-7e47_50_constrictors-23_4709	50	Rai-7e47_53_rainforest-11_3811	53	3	boa constrictor	rainforest	25.0
+location	Ind-afd0_26_python-2	Ind-afd0_23_swamps-13	Ind-afd0_26_python-2_1241	26	Ind-afd0_23_swamps-13_3808	23	3	Pythons	swamp	25.0
+location	Ind-afd0_20_python-2	Ind-afd0_23_swamps-13	Ind-afd0_20_python-2_1241	20	Ind-afd0_23_swamps-13_3808	23	3	Pythons	swamp	25.0
+location	Gra-2e39_77_snake-3	Gra-2e39_80_marshes-16	Gra-2e39_77_snake-3_3859	77	Gra-2e39_80_marshes-16_3807	80	3	grass snake	marsh	25.0
+location	Boa-7d46_57_constrictors-2	Boa-7d46_54_rainforests-14	Boa-7d46_57_constrictors-2_1737	57	Boa-7d46_54_rainforests-14_3811	54	3	Boa constrictor	rainforest	25.0
+location	Add-f0f0_68_snake-8	Add-f0f0_71_wetlands-5	Add-f0f0_68_snake-8_3859	68	Add-f0f0_71_wetlands-5_4542	71	3	grass snake	wetlands	25.0
+location	Gra-2e39_83_snake-2	Gra-2e39_80_marshes-16	Gra-2e39_83_snake-2_3859	83	Gra-2e39_80_marshes-16_3807	80	3	grass snake	marsh	25.0
+location	Boa-7d46_59_constrictors-2	Boa-7d46_56_rivers-8	Boa-7d46_59_constrictors-2_1737	59	Boa-7d46_56_rivers-8_4533	56	3	Boa constrictor	rivers and streams	25.0
+location	Add-f0f0_68_snake-12	Add-f0f0_71_wetlands-5	Add-f0f0_68_snake-12_148	68	Add-f0f0_71_wetlands-5_4542	71	3	Grass snake	wetlands	25.0
+location	Boa-7d46_51_constrictor-7	Boa-7d46_54_rainforests-14	Boa-7d46_51_constrictor-7_1737	51	Boa-7d46_54_rainforests-14_3811	54	3	Boa constrictor	rainforest	25.0
+location	Boa-7d46_58_constrictor-2	Boa-7d46_55_rainforest-8	Boa-7d46_58_constrictor-2_1737	58	Boa-7d46_55_rainforest-8_3811	55	3	Boa constrictor	rainforest	25.0
+location	Bur-98f9_52_python-14	Bur-98f9_54_forest-12	Bur-98f9_52_python-14_1240	52	Bur-98f9_54_forest-12_4538	54	2	Python	tropical coniferous forest	22.0
+location	Cen-cfeb_131_python-5	Cen-cfeb_129_rainforest-6	Cen-cfeb_131_python-5_207	131	Cen-cfeb_129_rainforest-6_3811	129	2	Indian rock python	rainforest	22.0
+location	Boi-9f0e_41_dendrophila-2	Boi-9f0e_38_swamps-24	Boi-9f0e_41_dendrophila-2_1742	41	Boi-9f0e_38_swamps-24_3808	38	3	Boiga dendrophila	swamp	21.75
+location	Boi-9f0e_41_dendrophila-2	Boi-9f0e_38_rainforests-19	Boi-9f0e_41_dendrophila-2_1742	41	Boi-9f0e_38_rainforests-19_3811	38	3	Boiga dendrophila	rainforest	21.75
+location	Boi-9f0e_41_dendrophila-2	Boi-9f0e_38_mangrove-8	Boi-9f0e_41_dendrophila-2_1742	41	Boi-9f0e_38_mangrove-8_4524	38	3	Boiga dendrophila	mangroves	21.75
+location	Bur-98f9_74_python-7	Bur-98f9_77_rainforest-6	Bur-98f9_74_python-7_211	74	Bur-98f9_77_rainforest-6_3811	77	3	Burmese python	rainforest	20.75
+location	Ind-afd0_26_python-2	Ind-afd0_23_marshes-15	Ind-afd0_26_python-2_212	26	Ind-afd0_23_marshes-15_3807	23	3	Indian python	marsh	20.75
+location	Ind-afd0_20_python-2	Ind-afd0_23_marshes-15	Ind-afd0_20_python-2_212	20	Ind-afd0_23_marshes-15_3807	23	3	Indian python	marsh	20.75
+location	Add-f0f0_76_Adder-1	Add-f0f0_72_wetlands-22	Add-f0f0_76_Adder-1_275	76	Add-f0f0_72_wetlands-22_4542	72	4	Adder	wetlands	20.0
+location	Ame-c3c3_35_python-3	Ame-c3c3_39_rainforests-9	Ame-c3c3_35_python-3_2869	35	Ame-c3c3_39_rainforests-9_3811	39	4	Amethystine python	rainforest	20.0
+location	San-6e1f_35_taipan-22	San-6e1f_39_desert-14	San-6e1f_35_taipan-22_5126	35	San-6e1f_39_desert-14_3805	39	4	inland taipan	desert	20.0
+location	Add-f0f0_68_snake-8	Add-f0f0_72_wetlands-22	Add-f0f0_68_snake-8_3859	68	Add-f0f0_72_wetlands-22_4542	72	4	grass snake	wetlands	20.0
+location	Add-f0f0_68_snake-12	Add-f0f0_72_wetlands-22	Add-f0f0_68_snake-12_3859	68	Add-f0f0_72_wetlands-22_4542	72	4	grass snake	wetlands	20.0
+location	Bla-d6a7_2_krait-6	Bla-d6a7_5_reef-6	Bla-d6a7_2_krait-6_4677	2	Bla-d6a7_5_reef-6_4532	5	3	black-banded sea krait	reefs	20.0
+location	Ame-c3c3_43_python-6	Ame-c3c3_39_rainforests-9	Ame-c3c3_43_python-6_5244	43	Ame-c3c3_39_rainforests-9_3811	39	4	amethystine python	rainforest	20.0
+location	Add-f0f0_76_Adder-1	Add-f0f0_71_wetlands-5	Add-f0f0_76_Adder-1_275	76	Add-f0f0_71_wetlands-5_4542	71	5	Adder	wetlands	16.667
+location	Boa-7d46_51_constrictor-7	Boa-7d46_56_rivers-8	Boa-7d46_51_constrictor-7_1737	51	Boa-7d46_56_rivers-8_4533	56	5	Boa constrictor	rivers and streams	16.667
+location	Boa-7d46_61_constrictors-7	Boa-7d46_56_rivers-8	Boa-7d46_61_constrictors-7_4709	61	Boa-7d46_56_rivers-8_4533	56	5	boa constrictor	rivers and streams	16.667
+location	Rai-7e47_50_constrictors-23	Rai-7e47_55_Rainforest-1	Rai-7e47_50_constrictors-23_4709	50	Rai-7e47_55_Rainforest-1_42	55	5	boa constrictor	Rainforest	16.667
+location	Add-f0f0_77_adders-16	Add-f0f0_72_wetlands-22	Add-f0f0_77_adders-16_3918	77	Add-f0f0_72_wetlands-22_4542	72	5	adder	wetlands	16.667
+location	Bur-98f9_81_python-11	Bur-98f9_77_rainforest-6	Bur-98f9_81_python-11_211	81	Bur-98f9_77_rainforest-6_3811	77	4	Burmese python	rainforest	16.6
+location	Moo-69c5_27_viper-7	Moo-69c5_31_Moorland-1	Moo-69c5_27_viper-7_278	27	Moo-69c5_31_Moorland-1_4526	31	4	Common viper	moorland	16.6
+location	Bla-d6a7_4_erabu-15	Bla-d6a7_8_reef-14	Bla-d6a7_4_erabu-15_4678	4	Bla-d6a7_8_reef-14_4532	8	4	erabu	reefs	16.6
+location	Bur-98f9_57_pythons-14	Bur-98f9_54_forest-12	Bur-98f9_57_pythons-14_4445	57	Bur-98f9_54_forest-12_1378	54	3	python	Tropical coniferous forest	16.5
+location	Bur-98f9_51_python-10	Bur-98f9_54_forest-12	Bur-98f9_51_python-10_4446	51	Bur-98f9_54_forest-12_1378	54	3	pythons	Tropical coniferous forest	16.5
+location	Add-f0f0_68_snake-8	Add-f0f0_71_lakes-23	Add-f0f0_68_snake-8_3859	68	Add-f0f0_71_lakes-23_4522	71	3	grass snake	lakes and ponds	16.5
+location	Add-f0f0_68_snake-12	Add-f0f0_71_lakes-23	Add-f0f0_68_snake-12_3859	68	Add-f0f0_71_lakes-23_4522	71	3	grass snake	lakes and ponds	16.5
+location	Boi-9f0e_7_dendrophila-2	Boi-9f0e_2_mangrove-7	Boi-9f0e_7_dendrophila-2_1742	7	Boi-9f0e_2_mangrove-7_4524	2	5	Boiga dendrophila	mangroves	14.5
+location	Boi-9f0e_44_snake-26	Boi-9f0e_38_swamps-24	Boi-9f0e_44_snake-26_4711	44	Boi-9f0e_38_swamps-24_3808	38	6	mangrove cat snake	swamp	14.286
+location	Boa-7d46_61_constrictors-7	Boa-7d46_55_rainforest-8	Boa-7d46_61_constrictors-7_4709	61	Boa-7d46_55_rainforest-8_3811	55	6	boa constrictor	rainforest	14.286
+location	Boi-9f0e_44_snake-7	Boi-9f0e_38_swamps-24	Boi-9f0e_44_snake-7_4711	44	Boi-9f0e_38_swamps-24_3808	38	6	mangrove cat snake	swamp	14.286
+location	Cen-cfeb_67_pythons-3	Cen-cfeb_61_swamps-18	Cen-cfeb_67_pythons-3_3151	67	Cen-cfeb_61_swamps-18_3808	61	6	African rock python	swamp	14.286
+location	Cen-cfeb_67_python-9	Cen-cfeb_61_swamps-18	Cen-cfeb_67_python-9_3151	67	Cen-cfeb_61_swamps-18_3808	61	6	African rock python	swamp	14.286
+location	Add-f0f0_77_adders-16	Add-f0f0_71_wetlands-5	Add-f0f0_77_adders-16_3918	77	Add-f0f0_71_wetlands-5_4542	71	6	adder	wetlands	14.286
+location	Boi-9f0e_44_snake-7	Boi-9f0e_38_rainforests-19	Boi-9f0e_44_snake-7_4711	44	Boi-9f0e_38_rainforests-19_3811	38	6	mangrove cat snake	rainforest	14.286
+location	Boi-9f0e_44_snake-26	Boi-9f0e_38_rainforests-19	Boi-9f0e_44_snake-26_4711	44	Boi-9f0e_38_rainforests-19_3811	38	6	mangrove cat snake	rainforest	14.286
+location	Moo-69c5_27_viper-7	Moo-69c5_32_moorland-3	Moo-69c5_27_viper-7_3919	27	Moo-69c5_32_moorland-3_4526	32	5	common viper	moorland	13.833
+location	Bur-98f9_50_python-15	Bur-98f9_55_marsh-3	Bur-98f9_50_python-15_211	50	Bur-98f9_55_marsh-3_3807	55	5	Burmese python	marsh	13.833
+location	Bur-98f9_50_python-15	Bur-98f9_54_forest-12	Bur-98f9_50_python-15_4445	50	Bur-98f9_54_forest-12_1378	54	4	python	Tropical coniferous forest	13.2
+location	Cen-cfeb_65_python-4	Cen-cfeb_61_swamps-18	Cen-cfeb_65_python-4_3151	65	Cen-cfeb_61_swamps-18_3808	61	4	African rock python	swamp	13.2
+location	Cen-cfeb_57_python-8	Cen-cfeb_61_swamps-18	Cen-cfeb_57_python-8_207	57	Cen-cfeb_61_swamps-18_3808	61	4	Indian rock python	swamp	13.2
+location	Bur-98f9_58_Python-15	Bur-98f9_54_forest-12	Bur-98f9_58_Python-15_4446	58	Bur-98f9_54_forest-12_4538	54	4	pythons	tropical coniferous forest	13.2
+location	Cro-5646_352_python-45	Cro-5646_356_rainforest-11	Cro-5646_352_python-45_207	352	Cro-5646_356_rainforest-11_3811	356	4	Indian rock python	rainforest	13.2
+location	Bur-98f9_58_python-5	Bur-98f9_54_forest-12	Bur-98f9_58_python-5_4446	58	Bur-98f9_54_forest-12_1378	54	4	pythons	Tropical coniferous forest	13.2
+location	Cro-5646_352_Python-47	Cro-5646_356_rainforest-11	Cro-5646_352_Python-47_207	352	Cro-5646_356_rainforest-11_3811	356	4	Indian rock python	rainforest	13.2
+location	Boa-7d46_61_constrictors-7	Boa-7d46_54_rainforests-14	Boa-7d46_61_constrictors-7_4709	61	Boa-7d46_54_rainforests-14_3811	54	7	boa constrictor	rainforest	12.5
+location	Bot-5a32_62_lance-16	Bot-5a32_69_rainforest-5	Bot-5a32_62_lance-16_1761	62	Bot-5a32_69_rainforest-5_3811	69	7	Fer-de-lance	rainforest	12.5
+location	Boi-9f0e_45_snakes-18	Boi-9f0e_38_swamps-24	Boi-9f0e_45_snakes-18_4711	45	Boi-9f0e_38_swamps-24_3808	38	7	mangrove cat snake	swamp	12.5
+location	Boi-9f0e_45_snakes-18	Boi-9f0e_38_rainforests-19	Boi-9f0e_45_snakes-18_4711	45	Boi-9f0e_38_rainforests-19_3811	38	7	mangrove cat snake	rainforest	12.5
+location	Ind-afd0_17_pythons-5	Ind-afd0_23_swamps-13	Ind-afd0_17_pythons-5_212	17	Ind-afd0_23_swamps-13_3808	23	6	Indian python	swamp	11.857
+location	Bur-98f9_34_python-8	Bur-98f9_28_marshes-6	Bur-98f9_34_python-8_211	34	Bur-98f9_28_marshes-6_3807	28	6	Burmese python	marsh	11.857
+location	Bur-98f9_49_pythons-24	Bur-98f9_55_marsh-3	Bur-98f9_49_pythons-24_211	49	Bur-98f9_55_marsh-3_3807	55	6	Burmese python	marsh	11.857
+location	Bur-98f9_34_pythons-30	Bur-98f9_28_marshes-6	Bur-98f9_34_pythons-30_211	34	Bur-98f9_28_marshes-6_3807	28	6	Burmese python	marsh	11.857
+location	Ind-afd0_17_pythons-5	Ind-afd0_23_marshes-15	Ind-afd0_17_pythons-5_212	17	Ind-afd0_23_marshes-15_3807	23	6	Indian python	marsh	11.857
+location	Boi-9f0e_46_snake-28	Boi-9f0e_38_swamps-24	Boi-9f0e_46_snake-28_4711	46	Boi-9f0e_38_swamps-24_3808	38	8	mangrove cat snake	swamp	11.111
+location	Boi-9f0e_46_snake-28	Boi-9f0e_38_rainforests-19	Boi-9f0e_46_snake-28_4711	46	Boi-9f0e_38_rainforests-19_3811	38	8	mangrove cat snake	rainforest	11.111
+location	Add-f0f0_79_viper-3	Add-f0f0_72_wetlands-22	Add-f0f0_79_viper-3_3919	79	Add-f0f0_72_wetlands-22_4542	72	7	common viper	wetlands	10.375
+location	Sho-489b_119_snakes-12	Sho-489b_126_wetlands-9	Sho-489b_119_snakes-12_3861	119	Sho-489b_126_wetlands-9_4542	126	7	water snake	wetlands	10.375
+location	Moo-69c5_27_viper-7	Moo-69c5_20_Moorland-1	Moo-69c5_27_viper-7_278	27	Moo-69c5_20_Moorland-1_1365	20	7	Common viper	Moorland	10.375
+location	Ame-c3c3_30_python-11	Ame-c3c3_39_rainforests-9	Ame-c3c3_30_python-11_5244	30	Ame-c3c3_39_rainforests-9_3811	39	9	amethystine python	rainforest	10.0
+location	Bot-5a32_64_lance-10	Bot-5a32_69_rainforest-5	Bot-5a32_64_lance-10_4723	64	Bot-5a32_69_rainforest-5_3811	69	5	fer-de-lance	rainforest	10.0
+location	Boa-7d46_65_constrictors-6	Boa-7d46_56_rivers-8	Boa-7d46_65_constrictors-6_4709	65	Boa-7d46_56_rivers-8_4533	56	9	boa constrictor	rivers and streams	10.0
+location	Ame-c3c3_30_python-4	Ame-c3c3_39_rainforests-9	Ame-c3c3_30_python-4_5244	30	Ame-c3c3_39_rainforests-9_3811	39	9	amethystine python	rainforest	10.0
+location	Rai-7e47_50_constrictors-23	Rai-7e47_41_rainforest-13	Rai-7e47_50_constrictors-23_4709	50	Rai-7e47_41_rainforest-13_3811	41	9	boa constrictor	rainforest	10.0
+location	Ind-afd0_31_python-2	Ind-afd0_23_marshes-15	Ind-afd0_31_python-2_212	31	Ind-afd0_23_marshes-15_3807	23	8	Indian python	marsh	9.222
+location	Ind-afd0_31_python-2	Ind-afd0_23_swamps-13	Ind-afd0_31_python-2_212	31	Ind-afd0_23_swamps-13_3808	23	8	Indian python	swamp	9.222
+location	Sto-c148_154_snake-39	Sto-c148_162_marshes-11	Sto-c148_154_snake-39_3861	154	Sto-c148_162_marshes-11_3807	162	8	water snake	marsh	9.222
+location	Add-f0f0_79_viper-3	Add-f0f0_71_wetlands-5	Add-f0f0_79_viper-3_278	79	Add-f0f0_71_wetlands-5_4542	71	8	Common viper	wetlands	9.222
+location	Ind-afd0_15_python-7	Ind-afd0_23_swamps-13	Ind-afd0_15_python-7_211	15	Ind-afd0_23_swamps-13_3808	23	8	Burmese python	swamp	9.222
+location	Bla-d6a7_4_erabu-15	Bla-d6a7_12_reef-12	Bla-d6a7_4_erabu-15_4678	4	Bla-d6a7_12_reef-12_4532	12	8	erabu	reefs	9.222
+location	Bur-98f9_49_pythons-24	Bur-98f9_54_forest-12	Bur-98f9_49_pythons-24_211	49	Bur-98f9_54_forest-12_4538	54	5	Burmese python	tropical coniferous forest	9.13
+location	Tre-008a_41_python-22	Tre-008a_31_rainforests-7	Tre-008a_41_python-22_5244	41	Tre-008a_31_rainforests-7_3811	31	10	amethystine python	rainforest	9.091
+location	Boa-7d46_65_constrictors-6	Boa-7d46_55_rainforest-8	Boa-7d46_65_constrictors-6_4709	65	Boa-7d46_55_rainforest-8_3811	55	10	boa constrictor	rainforest	9.091
+location	Boi-9f0e_47_dendrophila-2	Boi-9f0e_38_swamps-24	Boi-9f0e_47_dendrophila-2_1742	47	Boi-9f0e_38_swamps-24_3808	38	9	Boiga dendrophila	swamp	8.7
+location	Boi-9f0e_47_dendrophila-2	Boi-9f0e_38_mangrove-8	Boi-9f0e_47_dendrophila-2_1742	47	Boi-9f0e_38_mangrove-8_4524	38	9	Boiga dendrophila	mangroves	8.7
+location	Boi-9f0e_47_dendrophila-2	Boi-9f0e_38_rainforests-19	Boi-9f0e_47_dendrophila-2_1742	47	Boi-9f0e_38_rainforests-19_3811	38	9	Boiga dendrophila	rainforest	8.7
+location	Bot-5a32_63_lance-11	Bot-5a32_69_rainforest-5	Bot-5a32_63_lance-11_4723	63	Bot-5a32_69_rainforest-5_3811	69	6	fer-de-lance	rainforest	8.571
+location	Boa-7d46_65_constrictors-6	Boa-7d46_54_rainforests-14	Boa-7d46_65_constrictors-6_4709	65	Boa-7d46_54_rainforests-14_3811	54	11	boa constrictor	rainforest	8.333
+location	Add-f0f0_60_Adder-1	Add-f0f0_71_wetlands-5	Add-f0f0_60_Adder-1_275	60	Add-f0f0_71_wetlands-5_4542	71	11	Adder	wetlands	8.333
+location	Bla-d6a7_4_erabu-15	Bla-d6a7_13_reef-29	Bla-d6a7_4_erabu-15_4678	4	Bla-d6a7_13_reef-29_4532	13	9	erabu	reefs	8.3
+location	Bur-98f9_37_python-18	Bur-98f9_28_marshes-6	Bur-98f9_37_python-18_212	37	Bur-98f9_28_marshes-6_3807	28	9	Indian python	marsh	8.3
+location	Bur-98f9_37_python-21	Bur-98f9_28_marshes-6	Bur-98f9_37_python-21_212	37	Bur-98f9_28_marshes-6_3807	28	9	Indian python	marsh	8.3
+location	Bur-98f9_37_python-9	Bur-98f9_28_marshes-6	Bur-98f9_37_python-9_212	37	Bur-98f9_28_marshes-6_3807	28	9	Indian python	marsh	8.3
+location	Bot-5a32_62_lance-16	Bot-5a32_69_forest-20	Bot-5a32_62_lance-16_1761	62	Bot-5a32_69_forest-20_1378	69	7	Fer-de-lance	Tropical coniferous forest	8.25
+location	Bot-5a32_62_lance-16	Bot-5a32_69_forest-23	Bot-5a32_62_lance-16_1761	62	Bot-5a32_69_forest-23_1378	69	7	Fer-de-lance	Tropical coniferous forest	8.25
+location	Boi-9f0e_48_dendrophila-2	Boi-9f0e_38_mangrove-8	Boi-9f0e_48_dendrophila-2_1742	48	Boi-9f0e_38_mangrove-8_4524	38	10	Boiga dendrophila	mangroves	7.909
+location	Boi-9f0e_48_dendrophila-2	Boi-9f0e_38_rainforests-19	Boi-9f0e_48_dendrophila-2_1742	48	Boi-9f0e_38_rainforests-19_3811	38	10	Boiga dendrophila	rainforest	7.909
+location	Boi-9f0e_48_dendrophila-2	Boi-9f0e_38_swamps-24	Boi-9f0e_48_dendrophila-2_1742	48	Boi-9f0e_38_swamps-24_3808	38	10	Boiga dendrophila	swamp	7.909
+location	Yel-2b33_6_anaconda-2	Yel-2b33_18_marshes-10	Yel-2b33_6_anaconda-2_121	6	Yel-2b33_18_marshes-10_3807	18	12	Yellow anaconda	marsh	7.692
+location	Yel-2b33_6_anaconda-2	Yel-2b33_18_rivers-21	Yel-2b33_6_anaconda-2_121	6	Yel-2b33_18_rivers-21_4533	18	12	Yellow anaconda	rivers and streams	7.692
+location	Add-f0f0_60_Adder-1	Add-f0f0_72_wetlands-22	Add-f0f0_60_Adder-1_275	60	Add-f0f0_72_wetlands-22_4542	72	12	Adder	wetlands	7.692
+location	Yel-2b33_6_anaconda-2	Yel-2b33_18_swamps-8	Yel-2b33_6_anaconda-2_121	6	Yel-2b33_18_swamps-8_3808	18	12	Yellow anaconda	swamp	7.692
+location	Boi-9f0e_13_dendrophila-2	Boi-9f0e_2_mangrove-7	Boi-9f0e_13_dendrophila-2_1742	13	Boi-9f0e_2_mangrove-7_4524	2	11	Boiga dendrophila	mangroves	7.25
+location	Rai-7e47_50_constrictors-23	Rai-7e47_63_Rainforest-1	Rai-7e47_50_constrictors-23_4709	50	Rai-7e47_63_Rainforest-1_42	63	13	boa constrictor	Rainforest	7.143
+location	Yel-2b33_31_anaconda-3	Yel-2b33_18_marshes-10	Yel-2b33_31_anaconda-3_3849	31	Yel-2b33_18_marshes-10_3807	18	13	yellow anaconda	marsh	7.143
+location	Yel-2b33_31_anaconda-3	Yel-2b33_18_rivers-21	Yel-2b33_31_anaconda-3_3849	31	Yel-2b33_18_rivers-21_4533	18	13	yellow anaconda	rivers and streams	7.143
+location	Yel-2b33_31_anaconda-3	Yel-2b33_18_swamps-8	Yel-2b33_31_anaconda-3_121	31	Yel-2b33_18_swamps-8_3808	18	13	Yellow anaconda	swamp	7.143
+location	Bur-98f9_66_pythons-3	Bur-98f9_77_rainforest-6	Bur-98f9_66_pythons-3_211	66	Bur-98f9_77_rainforest-6_3811	77	11	Burmese python	rainforest	6.917
+location	Bot-5a32_62_vipers-29	Bot-5a32_69_rainforest-5	Bot-5a32_62_vipers-29_1756	62	Bot-5a32_69_rainforest-5_3811	69	7	Eyelash pit viper	rainforest	6.75
+location	Rai-7e47_50_constrictors-23	Rai-7e47_64_rainforests-16	Rai-7e47_50_constrictors-23_4709	50	Rai-7e47_64_rainforests-16_3811	64	14	boa constrictor	rainforest	6.667
+location	Add-f0f0_86_adder-27	Add-f0f0_72_wetlands-22	Add-f0f0_86_adder-27_3918	86	Add-f0f0_72_wetlands-22_4542	72	14	adder	wetlands	6.667
+location	Bot-5a32_64_lance-10	Bot-5a32_69_forest-23	Bot-5a32_64_lance-10_1761	64	Bot-5a32_69_forest-23_4538	69	5	Fer-de-lance	tropical coniferous forest	6.6
+location	Bot-5a32_64_lance-10	Bot-5a32_69_forest-20	Bot-5a32_64_lance-10_1761	64	Bot-5a32_69_forest-20_4538	69	5	Fer-de-lance	tropical coniferous forest	6.6
+location	Bur-98f9_65_pythons-15	Bur-98f9_77_rainforest-6	Bur-98f9_65_pythons-15_211	65	Bur-98f9_77_rainforest-6_3811	77	12	Burmese python	rainforest	6.385
+location	Bur-98f9_65_python-7	Bur-98f9_77_rainforest-6	Bur-98f9_65_python-7_211	65	Bur-98f9_77_rainforest-6_3811	77	12	Burmese python	rainforest	6.385
+location	Boa-7d46_71_constrictors-3	Boa-7d46_56_rivers-8	Boa-7d46_71_constrictors-3_4709	71	Boa-7d46_56_rivers-8_4533	56	15	boa constrictor	rivers and streams	6.25
+location	Add-f0f0_87_Adder-1	Add-f0f0_72_wetlands-22	Add-f0f0_87_Adder-1_275	87	Add-f0f0_72_wetlands-22_4542	72	15	Adder	wetlands	6.25
+location	Add-f0f0_86_adder-27	Add-f0f0_71_wetlands-5	Add-f0f0_86_adder-27_3918	86	Add-f0f0_71_wetlands-5_4542	71	15	adder	wetlands	6.25
+location	Bur-98f9_64_pythons-15	Bur-98f9_77_rainforest-6	Bur-98f9_64_pythons-15_211	64	Bur-98f9_77_rainforest-6_3811	77	13	Burmese python	rainforest	5.929
+location	Yel-2b33_2_anaconda-3	Yel-2b33_18_rivers-21	Yel-2b33_2_anaconda-3_3849	2	Yel-2b33_18_rivers-21_4533	18	16	yellow anaconda	rivers and streams	5.882
+location	Add-f0f0_87_Adder-1	Add-f0f0_71_wetlands-5	Add-f0f0_87_Adder-1_275	87	Add-f0f0_71_wetlands-5_4542	71	16	Adder	wetlands	5.882
+location	Yel-2b33_2_anaconda-3	Yel-2b33_18_swamps-8	Yel-2b33_2_anaconda-3_121	2	Yel-2b33_18_swamps-8_3808	18	16	Yellow anaconda	swamp	5.882
+location	Yel-2b33_2_anaconda-3	Yel-2b33_18_marshes-10	Yel-2b33_2_anaconda-3_3849	2	Yel-2b33_18_marshes-10_3807	18	16	yellow anaconda	marsh	5.882
+location	Bot-5a32_63_lance-11	Bot-5a32_69_forest-20	Bot-5a32_63_lance-11_1761	63	Bot-5a32_69_forest-20_4538	69	6	Fer-de-lance	tropical coniferous forest	5.657
+location	Bot-5a32_63_lance-11	Bot-5a32_69_forest-23	Bot-5a32_63_lance-11_1761	63	Bot-5a32_69_forest-23_4538	69	6	Fer-de-lance	tropical coniferous forest	5.657
+location	Boa-7d46_73_constrictor-4	Boa-7d46_56_rivers-8	Boa-7d46_73_constrictor-4_4709	73	Boa-7d46_56_rivers-8_4533	56	17	boa constrictor	rivers and streams	5.556
+location	Boa-7d46_39_constrictors-5	Boa-7d46_56_rivers-8	Boa-7d46_39_constrictors-5_4709	39	Boa-7d46_56_rivers-8_4533	56	17	boa constrictor	rivers and streams	5.556
+location	Tri-5b33_98_snakes-19	Tri-5b33_81_hedgerows-14	Tri-5b33_98_snakes-19_148	98	Tri-5b33_81_hedgerows-14_4519	81	17	Grass snake	hedgerows	5.556
+location	Tri-5b33_98_snake-24	Tri-5b33_81_hedgerows-14	Tri-5b33_98_snake-24_3859	98	Tri-5b33_81_hedgerows-14_4519	81	17	grass snake	hedgerows	5.556
+location	Sna-dfa9_398_pythons-23	Sna-dfa9_415_Rainforest-32	Sna-dfa9_398_pythons-23_1240	398	Sna-dfa9_415_Rainforest-32_42	415	17	Python	Rainforest	5.556
+location	Rai-7e47_50_constrictors-23	Rai-7e47_33_Rainforest-1	Rai-7e47_50_constrictors-23_4709	50	Rai-7e47_33_Rainforest-1_42	33	17	boa constrictor	Rainforest	5.556
+location	Moo-69c5_27_viper-7	Moo-69c5_13_Heathland-1	Moo-69c5_27_viper-7_3919	27	Moo-69c5_13_Heathland-1_1357	13	14	common viper	Heathland	5.533
+location	Bur-98f9_91_python-7	Bur-98f9_77_rainforest-6	Bur-98f9_91_python-7_211	91	Bur-98f9_77_rainforest-6_3811	77	14	Burmese python	rainforest	5.533
+location	Yel-2b33_36_anaconda-6	Yel-2b33_18_rivers-21	Yel-2b33_36_anaconda-6_3849	36	Yel-2b33_18_rivers-21_4533	18	18	yellow anaconda	rivers and streams	5.263
+location	Yel-2b33_36_anaconda-6	Yel-2b33_18_swamps-8	Yel-2b33_36_anaconda-6_121	36	Yel-2b33_18_swamps-8_3808	18	18	Yellow anaconda	swamp	5.263
+location	Pri-2545_353_lance-18	Pri-2545_371_rainforests-7	Pri-2545_353_lance-18_4723	353	Pri-2545_371_rainforests-7_3811	371	18	fer-de-lance	rainforest	5.263
+location	Yel-2b33_36_anaconda-6	Yel-2b33_18_marshes-10	Yel-2b33_36_anaconda-6_121	36	Yel-2b33_18_marshes-10_3807	18	18	Yellow anaconda	marsh	5.263
+location	Moo-69c5_27_viper-7	Moo-69c5_12_moorland-2	Moo-69c5_27_viper-7_3919	27	Moo-69c5_12_moorland-2_1365	12	15	common viper	Moorland	5.188
+location	Yel-2b33_37_anaconda-29	Yel-2b33_18_rivers-21	Yel-2b33_37_anaconda-29_121	37	Yel-2b33_18_rivers-21_4533	18	19	Yellow anaconda	rivers and streams	5.0
+location	Yel-2b33_37_anaconda-29	Yel-2b33_18_marshes-10	Yel-2b33_37_anaconda-29_121	37	Yel-2b33_18_marshes-10_3807	18	19	Yellow anaconda	marsh	5.0
+location	Yel-2b33_37_anaconda-29	Yel-2b33_18_swamps-8	Yel-2b33_37_anaconda-29_121	37	Yel-2b33_18_swamps-8_3808	18	19	Yellow anaconda	swamp	5.0
+location	Add-f0f0_91_Adders-1	Add-f0f0_72_wetlands-22	Add-f0f0_91_Adders-1_275	91	Add-f0f0_72_wetlands-22_4542	72	19	Adder	wetlands	5.0
+location	Ame-c3c3_20_python-10	Ame-c3c3_39_rainforests-9	Ame-c3c3_20_python-10_5244	20	Ame-c3c3_39_rainforests-9_3811	39	19	amethystine python	rainforest	5.0
+location	Bur-98f9_64_pythons-15	Bur-98f9_54_forest-12	Bur-98f9_64_pythons-15_211	64	Bur-98f9_54_forest-12_1378	54	10	Burmese python	Tropical coniferous forest	4.98
+location	Moo-69c5_27_viper-7	Moo-69c5_11_Moorland-1	Moo-69c5_27_viper-7_3919	27	Moo-69c5_11_Moorland-1_1365	11	16	common viper	Moorland	4.882
+location	Sto-c148_154_snake-39	Sto-c148_138_farmlands-16	Sto-c148_154_snake-39_3861	154	Sto-c148_138_farmlands-16_4509	138	16	water snake	farmland	4.882
+location	Sto-c148_154_snake-39	Sto-c148_138_wetlands-20	Sto-c148_154_snake-39_3861	154	Sto-c148_138_wetlands-20_4542	138	16	water snake	wetlands	4.882
+location	Bla-d6a7_29_erabu-26	Bla-d6a7_13_reef-29	Bla-d6a7_29_erabu-26_4678	29	Bla-d6a7_13_reef-29_4532	13	16	erabu	reefs	4.882
+location	Boi-9f0e_21_dendrophila-2	Boi-9f0e_38_mangrove-8	Boi-9f0e_21_dendrophila-2_1742	21	Boi-9f0e_38_mangrove-8_4524	38	17	Boiga dendrophila	mangroves	4.833
+location	Boi-9f0e_21_dendrophila-2	Boi-9f0e_38_rainforests-19	Boi-9f0e_21_dendrophila-2_1742	21	Boi-9f0e_38_rainforests-19_3811	38	17	Boiga dendrophila	rainforest	4.833
+location	Boi-9f0e_21_dendrophila-2	Boi-9f0e_38_swamps-24	Boi-9f0e_21_dendrophila-2_1742	21	Boi-9f0e_38_swamps-24_3808	38	17	Boiga dendrophila	swamp	4.833
+location	Add-f0f0_91_Adders-1	Add-f0f0_71_wetlands-5	Add-f0f0_91_Adders-1_275	91	Add-f0f0_71_wetlands-5_4542	71	20	Adder	wetlands	4.762
+location	Yel-2b33_38_anaconda-7	Yel-2b33_18_rivers-21	Yel-2b33_38_anaconda-7_121	38	Yel-2b33_18_rivers-21_4533	18	20	Yellow anaconda	rivers and streams	4.762
+location	Yel-2b33_38_anaconda-7	Yel-2b33_18_swamps-8	Yel-2b33_38_anaconda-7_3849	38	Yel-2b33_18_swamps-8_3808	18	20	yellow anaconda	swamp	4.762
+location	Pri-2545_353_lance-18	Pri-2545_373_rainforests-20	Pri-2545_353_lance-18_4723	353	Pri-2545_373_rainforests-20_3811	373	20	fer-de-lance	rainforest	4.762
+location	Yel-2b33_38_anaconda-7	Yel-2b33_18_marshes-10	Yel-2b33_38_anaconda-7_3849	38	Yel-2b33_18_marshes-10_3807	18	20	yellow anaconda	marsh	4.762
+location	Sna-dfa9_271_cobra-11	Sna-dfa9_251_mangrove-10	Sna-dfa9_271_cobra-11_5141	271	Sna-dfa9_251_mangrove-10_4524	251	20	king cobra	mangroves	4.762
+location	Bla-d6a7_29_erabu-26	Bla-d6a7_12_reef-12	Bla-d6a7_29_erabu-26_4678	29	Bla-d6a7_12_reef-12_4532	12	17	erabu	reefs	4.611
+location	Bur-98f9_65_pythons-15	Bur-98f9_54_forest-12	Bur-98f9_65_pythons-15_211	65	Bur-98f9_54_forest-12_4538	54	11	Burmese python	tropical coniferous forest	4.565
+location	Bur-98f9_65_python-7	Bur-98f9_54_forest-12	Bur-98f9_65_python-7_211	65	Bur-98f9_54_forest-12_1378	54	11	Burmese python	Tropical coniferous forest	4.565
+location	San-6e1f_35_taipan-22	San-6e1f_14_desert-11	San-6e1f_35_taipan-22_5126	35	San-6e1f_14_desert-11_34	14	21	inland taipan	Desert	4.545
+location	Moo-69c5_27_viper-7	Moo-69c5_9_Moorland-1	Moo-69c5_27_viper-7_278	27	Moo-69c5_9_Moorland-1_1365	9	18	Common viper	Moorland	4.368
+location	Ind-afd0_5_python-9	Ind-afd0_23_swamps-13	Ind-afd0_5_python-9_211	5	Ind-afd0_23_swamps-13_3808	23	18	Burmese python	swamp	4.368
+location	Boi-9f0e_21_dendrophila-2	Boi-9f0e_2_mangrove-7	Boi-9f0e_21_dendrophila-2_1742	21	Boi-9f0e_2_mangrove-7_4524	2	19	Boiga dendrophila	mangroves	4.35
+location	Bur-98f9_66_pythons-3	Bur-98f9_54_forest-12	Bur-98f9_66_pythons-3_211	66	Bur-98f9_54_forest-12_4538	54	12	Burmese python	tropical coniferous forest	4.214
+location	Tre-008a_41_python-22	Tre-008a_18_rainforest-34	Tre-008a_41_python-22_5244	41	Tre-008a_18_rainforest-34_3811	18	23	amethystine python	rainforest	4.167
+location	Boa-7d46_33_constrictor-8	Boa-7d46_56_rivers-8	Boa-7d46_33_constrictor-8_4709	33	Boa-7d46_56_rivers-8_4533	56	23	boa constrictor	rivers and streams	4.167
+location	Tre-008a_41_python-22	Tre-008a_17_rainforest-8	Tre-008a_41_python-22_5244	41	Tre-008a_17_rainforest-8_3811	17	24	amethystine python	rainforest	4.0
+location	Add-f0f0_96_adder-3	Add-f0f0_72_wetlands-22	Add-f0f0_96_adder-3_3918	96	Add-f0f0_72_wetlands-22_4542	72	24	adder	wetlands	4.0
+location	Ind-afd0_2_molurus-6	Ind-afd0_23_swamps-13	Ind-afd0_2_molurus-6_208	2	Ind-afd0_23_swamps-13_3808	23	21	Python molurus	swamp	3.955
+location	Ind-afd0_2_molurus-6	Ind-afd0_23_marshes-15	Ind-afd0_2_molurus-6_208	2	Ind-afd0_23_marshes-15_3807	23	21	Python molurus	marsh	3.955
+location	Moo-69c5_27_viper-7	Moo-69c5_47_Moorland-1	Moo-69c5_27_viper-7_278	27	Moo-69c5_47_Moorland-1_1365	47	20	Common viper	Moorland	3.952
+location	Moo-69c5_27_viper-7	Moo-69c5_47_Moorland-3	Moo-69c5_27_viper-7_3919	27	Moo-69c5_47_Moorland-3_1365	47	20	common viper	Moorland	3.952
+location	Bur-98f9_57_pythons-14	Bur-98f9_77_rainforest-6	Bur-98f9_57_pythons-14_211	57	Bur-98f9_77_rainforest-6_3811	77	20	Burmese python	rainforest	3.952
+location	Bot-5a32_82_viper-26	Bot-5a32_69_rainforest-5	Bot-5a32_82_viper-26_1756	82	Bot-5a32_69_rainforest-5_3811	69	13	Eyelash pit viper	rainforest	3.857
+location	Rai-7e47_50_constrictors-23	Rai-7e47_75_Rainforest-1	Rai-7e47_50_constrictors-23_4709	50	Rai-7e47_75_Rainforest-1_42	75	25	boa constrictor	Rainforest	3.846
+location	Add-f0f0_96_adder-3	Add-f0f0_71_wetlands-5	Add-f0f0_96_adder-3_3918	96	Add-f0f0_71_wetlands-5_4542	71	25	adder	wetlands	3.846
+location	Moo-69c5_27_viper-7	Moo-69c5_6_Moorland-1	Moo-69c5_27_viper-7_3919	27	Moo-69c5_6_Moorland-1_1365	6	21	common viper	Moorland	3.773
+location	Bla-d6a7_29_erabu-26	Bla-d6a7_8_reef-14	Bla-d6a7_29_erabu-26_4678	29	Bla-d6a7_8_reef-14_4532	8	21	erabu	reefs	3.773
+location	Boa-7d46_30_constrictor-3	Boa-7d46_56_rivers-8	Boa-7d46_30_constrictor-3_4709	30	Boa-7d46_56_rivers-8_4533	56	26	boa constrictor	rivers and streams	3.704
+location	Bur-98f9_40_pythons-5	Bur-98f9_54_forest-12	Bur-98f9_40_pythons-5_211	40	Bur-98f9_54_forest-12_1378	54	14	Burmese python	Tropical coniferous forest	3.652
+location	Boa-7d46_29_constrictor-6	Boa-7d46_56_rivers-8	Boa-7d46_29_constrictor-6_4709	29	Boa-7d46_56_rivers-8_4533	56	27	boa constrictor	rivers and streams	3.571
+location	Moo-69c5_27_viper-7	Moo-69c5_50_Moorland-1	Moo-69c5_27_viper-7_3919	27	Moo-69c5_50_Moorland-1_1365	50	23	common viper	Moorland	3.458
+location	Dra-48f6_304_adder-19	Dra-48f6_276_wetlands-26	Dra-48f6_304_adder-19_3918	304	Dra-48f6_276_wetlands-26_4542	276	28	adder	wetlands	3.448
+location	Boi-9f0e_46_snake-28	Boi-9f0e_74_Mangrove-5	Boi-9f0e_46_snake-28_4711	46	Boi-9f0e_74_Mangrove-5_1363	74	28	mangrove cat snake	Mangroves	3.448
+location	Bur-98f9_39_python-6	Bur-98f9_54_forest-12	Bur-98f9_39_python-6_211	39	Bur-98f9_54_forest-12_1378	54	15	Burmese python	Tropical coniferous forest	3.424
+location	Ind-afd0_8_python-3	Ind-afd0_23_marshes-15	Ind-afd0_8_python-3_209	8	Ind-afd0_23_marshes-15_3807	23	15	Asiatic rock python	marsh	3.375
+adaptation	Coc-29aa_195_python-18	Coc-29aa_195_predators-2	Coc-29aa_195_python-18_1241	195	Coc-29aa_195_predators-2_3977	195	0	Pythons	predator	100.0
+adaptation	Cen-cfeb_82_pythons-31	Cen-cfeb_82_predators-21	Cen-cfeb_82_pythons-31_1240	82	Cen-cfeb_82_predators-21_3977	82	0	Python	predator	100.0
+adaptation	Nor-4c81_89_snakes-19	Nor-4c81_89_predators-4	Nor-4c81_89_snakes-19_3859	89	Nor-4c81_89_predators-4_359	89	0	grass snake	Predator	100.0
+adaptation	Man-7999_70_snakes-17	Man-7999_70_predators-20	Man-7999_70_snakes-17_3859	70	Man-7999_70_predators-20_359	70	0	grass snake	Predator	100.0
+adaptation	Nor-4c81_89_snake-24	Nor-4c81_89_predators-4	Nor-4c81_89_snake-24_3859	89	Nor-4c81_89_predators-4_359	89	0	grass snake	Predator	100.0
+adaptation	Bur-98f9_55_pythons-14	Bur-98f9_55_predators-29	Bur-98f9_55_pythons-14_1240	55	Bur-98f9_55_predators-29_359	55	0	Python	Predator	100.0
+adaptation	Bon-c081_98_pythons-18	Bon-c081_98_predators-15	Bon-c081_98_pythons-18_1240	98	Bon-c081_98_predators-15_359	98	0	Python	Predator	100.0
+adaptation	Kud-baf3_43_pythons-19	Kud-baf3_43_Predators-1	Kud-baf3_43_pythons-19_1240	43	Kud-baf3_43_Predators-1_359	43	0	Python	Predator	100.0
+adaptation	Cro-5646_352_Python-47	Cro-5646_352_predators-3	Cro-5646_352_Python-47_1240	352	Cro-5646_352_predators-3_359	352	0	Python	Predator	100.0
+adaptation	Chi-6eec_125_pythons-15	Chi-6eec_125_Predators-1	Chi-6eec_125_pythons-15_1240	125	Chi-6eec_125_Predators-1_359	125	0	Python	Predator	100.0
+adaptation	Spr-39f8_124_pythons-17	Spr-39f8_124_predators-20	Spr-39f8_124_pythons-17_1240	124	Spr-39f8_124_predators-20_359	124	0	Python	Predator	100.0
+adaptation	Bon-fbc3_115_pythons-22	Bon-fbc3_115_predators-9	Bon-fbc3_115_pythons-22_1240	115	Bon-fbc3_115_predators-9_359	115	0	Python	Predator	100.0
+adaptation	Cro-5646_352_python-45	Cro-5646_352_predators-3	Cro-5646_352_python-45_1240	352	Cro-5646_352_predators-3_359	352	0	Python	Predator	100.0
+adaptation	Tre-008a_41_python-22	Tre-008a_41_predator-18	Tre-008a_41_python-22_1240	41	Tre-008a_41_predator-18_359	41	0	Python	Predator	100.0
+adaptation	Aar-5e58_102_pythons-23	Aar-5e58_102_predators-8	Aar-5e58_102_pythons-23_1240	102	Aar-5e58_102_predators-8_359	102	0	Python	Predator	100.0
+adaptation	Toq-9767_66_python-12	Toq-9767_66_predators-16	Toq-9767_66_python-12_1240	66	Toq-9767_66_predators-16_359	66	0	Python	Predator	100.0
+adaptation	Tig-454c_254_pythons-26	Tig-454c_254_predators-20	Tig-454c_254_pythons-26_1240	254	Tig-454c_254_predators-20_359	254	0	Python	Predator	100.0
+adaptation	Tri-5b33_98_snakes-19	Tri-5b33_98_predators-4	Tri-5b33_98_snakes-19_3859	98	Tri-5b33_98_predators-4_359	98	0	grass snake	Predator	100.0
+adaptation	Tri-5b33_98_snake-24	Tri-5b33_98_predators-4	Tri-5b33_98_snake-24_3859	98	Tri-5b33_98_predators-4_359	98	0	grass snake	Predator	100.0
+adaptation	Com305f_6_snakes-14	Com305f_6_predators-9	Com305f_6_snakes-14_3859	6	Com305f_6_predators-9_359	6	0	grass snake	Predator	100.0
+adaptation	Com-43a2_99_snakes-16	Com-43a2_99_predators-13	Com-43a2_99_snakes-16_3859	99	Com-43a2_99_predators-13_359	99	0	grass snake	Predator	100.0
+adaptation	Bla-4edd_4_cobra-21	Bla-4edd_4_venomous-16	Bla-4edd_4_cobra-21_5141	4	Bla-4edd_4_venomous-16_3988	4	0	king cobra	venomous	100.0
+adaptation	Asi-7d4f_70_cobra-9	Asi-7d4f_70_predators-4	Asi-7d4f_70_cobra-9_5141	70	Asi-7d4f_70_predators-4_3977	70	0	king cobra	predator	100.0
+adaptation	Kin-dc2e_71_cobra-3	Kin-dc2e_71_predator-7	Kin-dc2e_71_cobra-3_5141	71	Kin-dc2e_71_predator-7_3977	71	0	king cobra	predator	100.0
+adaptation	Rat-4b67_5_Rattlesnakes-1	Rat-4b67_5_predators-26	Rat-4b67_5_Rattlesnakes-1_1998	5	Rat-4b67_5_predators-26_359	5	0	Rattlesnakes	Predator	100.0
+adaptation	Rat-4b67_4_Rattlesnakes-1	Rat-4b67_4_predators-3	Rat-4b67_4_Rattlesnakes-1_1998	4	Rat-4b67_4_predators-3_359	4	0	Rattlesnakes	Predator	100.0
+adaptation	Rat-4b67_209_Rattlesnakes-1	Rat-4b67_209_predators-15	Rat-4b67_209_Rattlesnakes-1_1998	209	Rat-4b67_209_predators-15_359	209	0	Rattlesnakes	Predator	100.0
+adaptation	Rat-4b67_214_Rattlesnakes-1	Rat-4b67_214_predators-8	Rat-4b67_214_Rattlesnakes-1_1998	214	Rat-4b67_214_predators-8_359	214	0	Rattlesnakes	Predator	100.0
+adaptation	Bla-4edd_101_mambas-10	Bla-4edd_101_predators-6	Bla-4edd_101_mambas-10_4695	101	Bla-4edd_101_predators-6_3977	101	0	black mamba	predator	100.0
+adaptation	Bla-4edd_12_mambas-3	Bla-4edd_12_predators-7	Bla-4edd_12_mambas-3_4695	12	Bla-4edd_12_predators-7_3977	12	0	black mamba	predator	100.0
+adaptation	Yel-2b33_31_anaconda-3	Yel-2b33_31_predators-6	Yel-2b33_31_anaconda-3_121	31	Yel-2b33_31_predators-6_359	31	0	Yellow anaconda	Predator	100.0
+adaptation	Slo-13c7_59_adders-6	Slo-13c7_59_Predators-1	Slo-13c7_59_adders-6_3918	59	Slo-13c7_59_Predators-1_359	59	0	adder	Predator	100.0
+adaptation	Bot-f789_54_viper-3	Bot-f789_54_ovoviviparous-16	Bot-f789_54_viper-3_4717	54	Bot-f789_54_ovoviviparous-16_3969	54	0	eyelash viper	ovoviviparous	100.0
+adaptation	Ani-57f1_244_rattlesnakes-33	Ani-57f1_244_predators-43	Ani-57f1_244_rattlesnakes-33_4843	244	Ani-57f1_244_predators-43_359	244	0	rattlesnakes	Predator	100.0
+adaptation	Ela-ca51_13_rattlesnakes-19	Ela-ca51_13_predators-10	Ela-ca51_13_rattlesnakes-19_4843	13	Ela-ca51_13_predators-10_359	13	0	rattlesnakes	Predator	100.0
+adaptation	Jap-3719_150_rattlesnakes-21	Jap-3719_150_predators-12	Jap-3719_150_rattlesnakes-21_4843	150	Jap-3719_150_predators-12_359	150	0	rattlesnakes	Predator	100.0
+adaptation	Liz-2f75_191_rattlesnake-18	Liz-2f75_191_predator-8	Liz-2f75_191_rattlesnake-18_4843	191	Liz-2f75_191_predator-8_359	191	0	rattlesnakes	Predator	100.0
+adaptation	Mou-d137_47_snake-2	Mou-d137_47_moulting-13	Mou-d137_47_snake-2_5484	47	Mou-d137_47_moulting-13_3965	47	0	snakes	moulting	100.0
+adaptation	Pre-0725_163_rattlesnakes-29	Pre-0725_163_predators-3	Pre-0725_163_rattlesnakes-29_4843	163	Pre-0725_163_predators-3_3977	163	0	rattlesnakes	predator	100.0
+adaptation	Rat-4b67_161_rattlesnakes-4	Rat-4b67_161_predators-16	Rat-4b67_161_rattlesnakes-4_4843	161	Rat-4b67_161_predators-16_3977	161	0	rattlesnakes	predator	100.0
+adaptation	Rat-4b67_135_rattlesnakes-5	Rat-4b67_135_predator-17	Rat-4b67_135_rattlesnakes-5_4843	135	Rat-4b67_135_predator-17_3977	135	0	rattlesnakes	predator	100.0
+adaptation	Rat-4b67_59_rattlesnakes-13	Rat-4b67_59_predators-30	Rat-4b67_59_rattlesnakes-13_4843	59	Rat-4b67_59_predators-30_3977	59	0	rattlesnakes	predator	100.0
+adaptation	Bla-1ce3_188_rattlesnakes-55	Bla-1ce3_188_predators-4	Bla-1ce3_188_rattlesnakes-55_4843	188	Bla-1ce3_188_predators-4_3977	188	0	rattlesnakes	predator	100.0
+adaptation	Rat-4b67_130_rattlesnake-11	Rat-4b67_130_predators-8	Rat-4b67_130_rattlesnake-11_4843	130	Rat-4b67_130_predators-8_3977	130	0	rattlesnakes	predator	100.0
+adaptation	Rat-4b67_135_rattlesnakes-28	Rat-4b67_135_predator-17	Rat-4b67_135_rattlesnakes-28_4843	135	Rat-4b67_135_predator-17_3977	135	0	rattlesnakes	predator	100.0
+adaptation	Cro-5646_352_sebae-48	Cro-5646_352_predators-3	Cro-5646_352_sebae-48_3152	352	Cro-5646_352_predators-3_359	352	0	Python sebae	Predator	87.0
+adaptation	Yel-3ea8_51_kraits-12	Yel-3ea8_51_predators-18	Yel-3ea8_51_kraits-12_5157	51	Yel-3ea8_51_predators-18_359	51	0	banded sea krait	Predator	66.0
+adaptation	Mou-d137_43_snakes-12	Mou-d137_42_moulting-5	Mou-d137_43_snakes-12_5484	43	Mou-d137_42_moulting-5_3965	42	1	snakes	moulting	50.0
+adaptation	Add-f0f0_68_snake-12	Add-f0f0_69_hibernation-27	Add-f0f0_68_snake-12_4829	68	Add-f0f0_69_hibernation-27_3959	69	1	smooth snake	hibernation	50.0
+adaptation	Mou9a89_6_snakes-6	Mou9a89_5_Moulting-1	Mou9a89_6_snakes-6_5484	6	Mou9a89_5_Moulting-1_346	5	1	snakes	Moulting	50.0
+adaptation	Blaa211_13_mamba-3	Blaa211_12_predator-2	Blaa211_13_mamba-3_4695	13	Blaa211_12_predator-2_359	12	1	black mamba	Predator	50.0
+adaptation	Bla-4edd_101_mambas-10	Bla-4edd_100_predators-6	Bla-4edd_101_mambas-10_4695	101	Bla-4edd_100_predators-6_359	100	1	black mamba	Predator	50.0
+adaptation	Add-f0f0_68_snake-8	Add-f0f0_69_hibernation-27	Add-f0f0_68_snake-8_4829	68	Add-f0f0_69_hibernation-27_3959	69	1	smooth snake	hibernation	50.0
+adaptation	Bla-4edd_13_mamba-8	Bla-4edd_12_predators-7	Bla-4edd_13_mamba-8_4695	13	Bla-4edd_12_predators-7_359	12	1	black mamba	Predator	50.0
+adaptation	Bla-4edd_102_mambas-12	Bla-4edd_101_predators-6	Bla-4edd_102_mambas-12_4695	102	Bla-4edd_101_predators-6_359	101	1	black mamba	Predator	50.0
+adaptation	Cen-cfeb_82_pythons-31	Cen-cfeb_81_care-9	Cen-cfeb_82_pythons-31_4445	82	Cen-cfeb_81_care-9_3785	81	1	python	maternal care	50.0
+adaptation	Boa-7d46_24_constrictor-3	Boa-7d46_25_dimorphism-3	Boa-7d46_24_constrictor-3_4709	24	Boa-7d46_25_dimorphism-3_3791	25	1	boa constrictor	sexual dimorphism	50.0
+adaptation	Sna-dfa9_276_constrictor-10	Sna-dfa9_275_ovoviviparous-6	Sna-dfa9_276_constrictor-10_4709	276	Sna-dfa9_275_ovoviviparous-6_3969	275	1	boa constrictor	ovoviviparous	50.0
+adaptation	Cen-cfeb_80_pythons-4	Cen-cfeb_81_care-9	Cen-cfeb_80_pythons-4_4445	80	Cen-cfeb_81_care-9_7	81	1	python	Maternal care	50.0
+adaptation	Boa-7d46_61_constrictors-7	Boa-7d46_60_nocturnal-3	Boa-7d46_61_constrictors-7_4709	61	Boa-7d46_60_nocturnal-3_3967	60	1	boa constrictor	nocturnal	50.0
+adaptation	Slo-13c7_59_adders-6	Slo-13c7_58_Predators-1	Slo-13c7_59_adders-6_3918	59	Slo-13c7_58_Predators-1_3977	58	1	adder	predator	50.0
+adaptation	Add-f0f0_102_Adder-1	Add-f0f0_101_hibernation-14	Add-f0f0_102_Adder-1_275	102	Add-f0f0_101_hibernation-14_338	101	1	Adder	Hibernation	50.0
+adaptation	Slo-13c7_59_adders-6	Slo-13c7_60_predators-7	Slo-13c7_59_adders-6_3918	59	Slo-13c7_60_predators-7_3977	60	1	adder	predator	50.0
+adaptation	Nil-600c_358_pythons-11	Nil-600c_359_predator-3	Nil-600c_358_pythons-11_3151	358	Nil-600c_359_predator-3_359	359	1	African rock python	Predator	50.0
+adaptation	Boa-7d46_59_constrictors-2	Boa-7d46_60_nocturnal-3	Boa-7d46_59_constrictors-2_1737	59	Boa-7d46_60_nocturnal-3_3967	60	1	Boa constrictor	nocturnal	50.0
+adaptation	Boa-7d46_34_constrictor-3	Boa-7d46_35_dimorphism-5	Boa-7d46_34_constrictor-3_1737	34	Boa-7d46_35_dimorphism-5_14	35	1	Boa constrictor	Sexual dimorphism	50.0
+adaptation	Tho-fdaf_53_pythons-23	Tho-fdaf_52_predators-28	Tho-fdaf_53_pythons-23_3151	53	Tho-fdaf_52_predators-28_359	52	1	African rock python	Predator	50.0
+adaptation	Boa-7d46_34_constrictor-26	Boa-7d46_35_dimorphism-5	Boa-7d46_34_constrictor-26_1737	34	Boa-7d46_35_dimorphism-5_14	35	1	Boa constrictor	Sexual dimorphism	50.0
+adaptation	Tho-fdaf_53_pythons-23	Tho-fdaf_54_predators-22	Tho-fdaf_53_pythons-23_3151	53	Tho-fdaf_54_predators-22_3977	54	1	African rock python	predator	50.0
+adaptation	Cen-cfeb_80_pythons-4	Cen-cfeb_81_predators-19	Cen-cfeb_80_pythons-4_3151	80	Cen-cfeb_81_predators-19_3977	81	1	African rock python	predator	50.0
+adaptation	Toq-9767_66_python-12	Toq-9767_65_Predators-5	Toq-9767_66_python-12_207	66	Toq-9767_65_Predators-5_359	65	1	Indian rock python	Predator	50.0
+adaptation	Pyt5f76_4_pythons-3	Pyt5f76_3_Predator-1	Pyt5f76_4_pythons-3_207	4	Pyt5f76_3_Predator-1_359	3	1	Indian rock python	Predator	50.0
+adaptation	Ela-ca51_12_adders-11	Ela-ca51_13_predators-10	Ela-ca51_12_adders-11_3918	12	Ela-ca51_13_predators-10_3977	13	1	adder	predator	50.0
+adaptation	Pole5d6_9_adders-20	Pole5d6_10_polymorphism-25	Pole5d6_9_adders-20_3918	9	Pole5d6_10_polymorphism-25_3976	10	1	adder	polymorphism	50.0
+adaptation	Cro-8b9a_38_Crotalus-5	Cro-8b9a_37_Predators-3	Cro-8b9a_38_Crotalus-5_1999	38	Cro-8b9a_37_Predators-3_359	37	1	Crotalus	Predator	43.5
+adaptation	Boi-9f0e_13_dendrophila-2	Boi-9f0e_14_nocturnal-2	Boi-9f0e_13_dendrophila-2_1742	13	Boi-9f0e_14_nocturnal-2_3967	14	1	Boiga dendrophila	nocturnal	43.5
+adaptation	Pyt-d6ca_9_Pythons-1	Pyt-d6ca_10_predators-4	Pyt-d6ca_9_Pythons-1_211	9	Pyt-d6ca_10_predators-4_3977	10	1	Burmese python	predator	41.5
+adaptation	Pyt-d6ca_9_pythons-22	Pyt-d6ca_10_predators-4	Pyt-d6ca_9_pythons-22_211	9	Pyt-d6ca_10_predators-4_359	10	1	Burmese python	Predator	41.5
+adaptation	Bur-98f9_81_python-11	Bur-98f9_82_hibernation-6	Bur-98f9_81_python-11_211	81	Bur-98f9_82_hibernation-6_3959	82	1	Burmese python	hibernation	41.5
+adaptation	Boa-7d46_24_python-29	Boa-7d46_25_dimorphism-3	Boa-7d46_24_python-29_211	24	Boa-7d46_25_dimorphism-3_3791	25	1	Burmese python	sexual dimorphism	41.5
+adaptation	Boa-7d46_24_python-26	Boa-7d46_25_dimorphism-3	Boa-7d46_24_python-26_211	24	Boa-7d46_25_dimorphism-3_3791	25	1	Burmese python	sexual dimorphism	41.5
+adaptation	Ech00fc_8_vipers-4	Ech00fc_7_nocturnal-5	Ech00fc_8_vipers-4_2089	8	Ech00fc_7_nocturnal-5_3967	7	1	Saw-scaled viper	nocturnal	37.5
+adaptation	Kin-dc2e_69_cobra-2	Kin-dc2e_71_predator-7	Kin-dc2e_69_cobra-2_5141	69	Kin-dc2e_71_predator-7_359	71	2	king cobra	Predator	33.333
+adaptation	Bur-98f9_86_pythons-2	Bur-98f9_88_care-20	Bur-98f9_86_pythons-2_1241	86	Bur-98f9_88_care-20_3785	88	2	Pythons	maternal care	33.333
+adaptation	Bur-98f9_90_python-2	Bur-98f9_88_care-20	Bur-98f9_90_python-2_1241	90	Bur-98f9_88_care-20_3785	88	2	Pythons	maternal care	33.333
+adaptation	Boa-7d46_58_constrictor-2	Boa-7d46_60_nocturnal-3	Boa-7d46_58_constrictor-2_1737	58	Boa-7d46_60_nocturnal-3_3967	60	2	Boa constrictor	nocturnal	33.333
+adaptation	Mou-d137_44_snake-7	Mou-d137_42_moulting-5	Mou-d137_44_snake-7_5484	44	Mou-d137_42_moulting-5_3965	42	2	snakes	moulting	33.333
+adaptation	Vip0c87_6_adders-18	Vip0c87_4_predators-5	Vip0c87_6_adders-18_3918	6	Vip0c87_4_predators-5_3977	4	2	adder	predator	33.333
+adaptation	Bla-4edd_2_mamba-3	Bla-4edd_4_venomous-16	Bla-4edd_2_mamba-3_4695	2	Bla-4edd_4_venomous-16_3988	4	2	black mamba	venomous	33.333
+adaptation	Mou-d137_45_snake-29	Mou-d137_47_moulting-13	Mou-d137_45_snake-29_5484	45	Mou-d137_47_moulting-13_3965	47	2	snakes	moulting	33.333
+adaptation	Boa-7d46_62_constrictors-2	Boa-7d46_60_nocturnal-3	Boa-7d46_62_constrictors-2_1737	62	Boa-7d46_60_nocturnal-3_3967	60	2	Boa constrictor	nocturnal	33.333
+adaptation	Yel-2b33_31_anaconda-3	Yel-2b33_29_predator-6	Yel-2b33_31_anaconda-3_3849	31	Yel-2b33_29_predator-6_359	29	2	yellow anaconda	Predator	33.333
+adaptation	Boa-7d46_37_constrictor-2	Boa-7d46_35_dimorphism-5	Boa-7d46_37_constrictor-2_1737	37	Boa-7d46_35_dimorphism-5_3791	35	2	Boa constrictor	sexual dimorphism	33.333
+adaptation	Pole5d6_9_adders-20	Pole5d6_7_Polymorphism-1	Pole5d6_9_adders-20_3918	9	Pole5d6_7_Polymorphism-1_358	7	2	adder	Polymorphism	33.333
+adaptation	Mou-d137_45_snake-6	Mou-d137_47_moulting-13	Mou-d137_45_snake-6_5484	45	Mou-d137_47_moulting-13_3965	47	2	snakes	moulting	33.333
+adaptation	Boa-7d46_33_constrictor-8	Boa-7d46_35_dimorphism-5	Boa-7d46_33_constrictor-8_4709	33	Boa-7d46_35_dimorphism-5_14	35	2	boa constrictor	Sexual dimorphism	33.333
+adaptation	Asi-7d4f_70_cobra-9	Asi-7d4f_68_predators-18	Asi-7d4f_70_cobra-9_5141	70	Asi-7d4f_68_predators-18_359	68	2	king cobra	Predator	33.333
+adaptation	Eur-24a9_167_adders-6	Eur-24a9_165_Predators-1	Eur-24a9_167_adders-6_3918	167	Eur-24a9_165_Predators-1_3977	165	2	adder	predator	33.333
+adaptation	Smo-748b_29_snake-3	Smo-748b_31_ovoviviparous-4	Smo-748b_29_snake-3_4829	29	Smo-748b_31_ovoviviparous-4_3969	31	2	smooth snake	ovoviviparous	33.333
+adaptation	Mou-d137_47_snake-2	Mou-d137_49_Moulting-1	Mou-d137_47_snake-2_5484	47	Mou-d137_49_Moulting-1_346	49	2	snakes	Moulting	33.333
+adaptation	Yel-3ea8_51_kraits-12	Yel-3ea8_52_predators-5	Yel-3ea8_51_kraits-12_5159	51	Yel-3ea8_52_predators-5_3977	52	1	yellow-lipped sea krait	predator	33.0
+adaptation	Yel-3ea8_50_kraits-20	Yel-3ea8_51_predators-18	Yel-3ea8_50_kraits-20_2668	50	Yel-3ea8_51_predators-18_3977	51	1	Banded sea krait	predator	33.0
+adaptation	Rat-4b67_2_Crotalus-9	Rat-4b67_4_predators-3	Rat-4b67_2_Crotalus-9_1999	2	Rat-4b67_4_predators-3_359	4	2	Crotalus	Predator	29.0
+adaptation	Pyt-d6ca_28_molurus-24	Pyt-d6ca_30_predators-8	Pyt-d6ca_28_molurus-24_208	28	Pyt-d6ca_30_predators-8_359	30	2	Python molurus	Predator	29.0
+adaptation	Pyt-d6ca_28_Python-31	Pyt-d6ca_30_predators-8	Pyt-d6ca_28_Python-31_212	28	Pyt-d6ca_30_predators-8_3977	30	2	Indian python	predator	27.667
+adaptation	Bur-98f9_57_pythons-14	Bur-98f9_55_predators-29	Bur-98f9_57_pythons-14_211	57	Bur-98f9_55_predators-29_359	55	2	Burmese python	Predator	27.667
+adaptation	Sho-489b_119_snakes-12	Sho-489b_117_predators-8	Sho-489b_119_snakes-12_3861	119	Sho-489b_117_predators-8_359	117	2	water snake	Predator	27.667
+adaptation	Pyt-d6ca_28_python-21	Pyt-d6ca_30_predators-8	Pyt-d6ca_28_python-21_212	28	Pyt-d6ca_30_predators-8_3977	30	2	Indian python	predator	27.667
+adaptation	Pyt-d6ca_28_Python-23	Pyt-d6ca_30_predators-8	Pyt-d6ca_28_Python-23_212	28	Pyt-d6ca_30_predators-8_3977	30	2	Indian python	predator	27.667
+adaptation	Bur-98f9_91_python-7	Bur-98f9_93_predator-9	Bur-98f9_91_python-7_211	91	Bur-98f9_93_predator-9_359	93	2	Burmese python	Predator	27.667
+adaptation	Pyt-d6ca_28_python-29	Pyt-d6ca_30_predators-8	Pyt-d6ca_28_python-29_212	28	Pyt-d6ca_30_predators-8_3977	30	2	Indian python	predator	27.667
+adaptation	Bur-98f9_49_pythons-24	Bur-98f9_47_predators-6	Bur-98f9_49_pythons-24_211	49	Bur-98f9_47_predators-6_359	47	2	Burmese python	Predator	27.667
+adaptation	Bur-98f9_91_python-7	Bur-98f9_88_care-20	Bur-98f9_91_python-7_4445	91	Bur-98f9_88_care-20_7	88	3	python	Maternal care	25.0
+adaptation	Boa-7d46_22_constrictor-2	Boa-7d46_25_dimorphism-3	Boa-7d46_22_constrictor-2_1737	22	Boa-7d46_25_dimorphism-3_14	25	3	Boa constrictor	Sexual dimorphism	25.0
+adaptation	Add-f0f0_96_adder-3	Add-f0f0_99_hibernation-4	Add-f0f0_96_adder-3_3918	96	Add-f0f0_99_hibernation-4_3959	99	3	adder	hibernation	25.0
+adaptation	Add-f0f0_102_Adder-1	Add-f0f0_99_hibernation-4	Add-f0f0_102_Adder-1_275	102	Add-f0f0_99_hibernation-4_3959	99	3	Adder	hibernation	25.0
+adaptation	Boa-7d46_45_constrictors-2	Boa-7d46_42_camouflage-8	Boa-7d46_45_constrictors-2_1737	45	Boa-7d46_42_camouflage-8_3947	42	3	Boa constrictor	camouflage	25.0
+adaptation	Ech00fc_9_viper-10	Ech00fc_7_nocturnal-5	Ech00fc_9_viper-10_2089	9	Ech00fc_7_nocturnal-5_3967	7	2	Saw-scaled viper	nocturnal	25.0
+adaptation	Boa-7d46_39_constrictors-5	Boa-7d46_42_camouflage-8	Boa-7d46_39_constrictors-5_4709	39	Boa-7d46_42_camouflage-8_3947	42	3	boa constrictor	camouflage	25.0
+adaptation	Bla-4edd_1_mamba-2	Bla-4edd_4_venomous-16	Bla-4edd_1_mamba-2_4695	1	Bla-4edd_4_venomous-16_3988	4	3	black mamba	venomous	25.0
+adaptation	Bla-4edd_7_mambas-3	Bla-4edd_4_venomous-16	Bla-4edd_7_mambas-3_4695	7	Bla-4edd_4_venomous-16_3988	4	3	black mamba	venomous	25.0
+adaptation	Boa-7d46_57_constrictors-2	Boa-7d46_60_nocturnal-3	Boa-7d46_57_constrictors-2_1737	57	Boa-7d46_60_nocturnal-3_3967	60	3	Boa constrictor	nocturnal	25.0
+taxongroup	Gra-2e39_62_snake-8	Gra-2e39_62_animal-23	Gra-2e39_62_snake-8_148	62	Gra-2e39_62_animal-23_44	62	0	Grass snake	Animals	100.0
+taxongroup	Gra-2e39_25_snake-2	Gra-2e39_25_snake-2	Gra-2e39_25_snake-2_3859	25	Gra-2e39_25_snake-2_5484	25	0	grass snake	snakes	100.0
+taxongroup	Com-43a2_99_snakes-16	Com-43a2_99_snakes-16	Com-43a2_99_snakes-16_3859	99	Com-43a2_99_snakes-16_5484	99	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_2_snake-3	Gra-2e39_2_snake-24	Gra-2e39_2_snake-3_3859	2	Gra-2e39_2_snake-24_5484	2	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_2_snake-13	Gra-2e39_2_snake-16	Gra-2e39_2_snake-13_3859	2	Gra-2e39_2_snake-16_5484	2	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_71_snakes-31	Gra-2e39_71_snakes-13	Gra-2e39_71_snakes-31_3859	71	Gra-2e39_71_snakes-13_5484	71	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_71_snakes-31	Gra-2e39_71_snake-19	Gra-2e39_71_snakes-31_3859	71	Gra-2e39_71_snake-19_5484	71	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_71_snakes-13	Gra-2e39_71_snakes-31	Gra-2e39_71_snakes-13_3859	71	Gra-2e39_71_snakes-31_5484	71	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_71_snakes-13	Gra-2e39_71_snakes-13	Gra-2e39_71_snakes-13_3859	71	Gra-2e39_71_snakes-13_5484	71	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_71_snakes-13	Gra-2e39_71_snake-19	Gra-2e39_71_snakes-13_3859	71	Gra-2e39_71_snake-19_5484	71	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_80_snake-13	Gra-2e39_80_snake-8	Gra-2e39_80_snake-13_3859	80	Gra-2e39_80_snake-8_5484	80	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_21_snakes-2	Gra-2e39_21_snakes-2	Gra-2e39_21_snakes-2_3859	21	Gra-2e39_21_snakes-2_5484	21	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_14_snake-2	Gra-2e39_14_snake-2	Gra-2e39_14_snake-2_3859	14	Gra-2e39_14_snake-2_5484	14	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_10_snake-3	Gra-2e39_10_snake-3	Gra-2e39_10_snake-3_3859	10	Gra-2e39_10_snake-3_5484	10	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_10_snake-3	Gra-2e39_10_snake-29	Gra-2e39_10_snake-3_3859	10	Gra-2e39_10_snake-29_5484	10	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_15_snake-3	Gra-2e39_15_snake-3	Gra-2e39_15_snake-3_3859	15	Gra-2e39_15_snake-3_5484	15	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-9	Nat-1c9a_3_snakes-27	Nat-1c9a_3_snakes-9_3859	3	Nat-1c9a_3_snakes-27_5484	3	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_20_snake-2	Gra-2e39_20_snake-2	Gra-2e39_20_snake-2_3859	20	Gra-2e39_20_snake-2_5484	20	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_83_snake-2	Gra-2e39_83_snake-2	Gra-2e39_83_snake-2_3859	83	Gra-2e39_83_snake-2_5484	83	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_78_snake-2	Gra-2e39_78_snake-2	Gra-2e39_78_snake-2_3859	78	Gra-2e39_78_snake-2_5484	78	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_82_snake-2	Gra-2e39_82_snake-2	Gra-2e39_82_snake-2_3859	82	Gra-2e39_82_snake-2_5484	82	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_70_snake-4	Gra-2e39_70_snake-4	Gra-2e39_70_snake-4_3859	70	Gra-2e39_70_snake-4_5484	70	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_6_snake-37	Gra-2e39_6_snake-37	Gra-2e39_6_snake-37_3859	6	Gra-2e39_6_snake-37_5484	6	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_68_snake-26	Gra-2e39_68_snake-26	Gra-2e39_68_snake-26_3859	68	Gra-2e39_68_snake-26_5484	68	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_68_snake-26	Gra-2e39_68_snake-11	Gra-2e39_68_snake-26_3859	68	Gra-2e39_68_snake-11_5484	68	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_71_snakes-31	Gra-2e39_71_snakes-31	Gra-2e39_71_snakes-31_3859	71	Gra-2e39_71_snakes-31_5484	71	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_73_snakes-3	Gra-2e39_73_snakes-3	Gra-2e39_73_snakes-3_3859	73	Gra-2e39_73_snakes-3_5484	73	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_80_snake-13	Gra-2e39_80_snake-13	Gra-2e39_80_snake-13_3859	80	Gra-2e39_80_snake-13_5484	80	0	grass snake	snakes	100.0
+taxongroup	Col2d75_3_snakes-8	Col2d75_3_snakes-3	Col2d75_3_snakes-8_3859	3	Col2d75_3_snakes-3_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nor-4c81_89_snake-24	Nor-4c81_89_snake-24	Nor-4c81_89_snake-24_3859	89	Nor-4c81_89_snake-24_5484	89	0	grass snake	snakes	100.0
+taxongroup	Com305f_6_snakes-14	Com305f_6_snakes-14	Com305f_6_snakes-14_3859	6	Com305f_6_snakes-14_5484	6	0	grass snake	snakes	100.0
+taxongroup	Col2d75_3_snakes-3	Col2d75_3_snakes-8	Col2d75_3_snakes-3_3859	3	Col2d75_3_snakes-8_5484	3	0	grass snake	snakes	100.0
+taxongroup	Col2d75_3_snakes-3	Col2d75_3_snakes-3	Col2d75_3_snakes-3_3859	3	Col2d75_3_snakes-3_5484	3	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_71_snake-19	Gra-2e39_71_snakes-31	Gra-2e39_71_snake-19_3859	71	Gra-2e39_71_snakes-31_5484	71	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_2_snake-13	Gra-2e39_2_natrix-6	Gra-2e39_2_snake-13_3859	2	Gra-2e39_2_natrix-6_4403	2	0	grass snake	natrix	100.0
+taxongroup	Gra-2e39_2_snake-3	Gra-2e39_2_natrix-6	Gra-2e39_2_snake-3_3859	2	Gra-2e39_2_natrix-6_4403	2	0	grass snake	natrix	100.0
+taxongroup	Add-f0f0_8_snake-19	Add-f0f0_8_natrix-27	Add-f0f0_8_snake-19_3859	8	Add-f0f0_8_natrix-27_4403	8	0	grass snake	natrix	100.0
+taxongroup	Gra-2e39_2_snake-24	Gra-2e39_2_natrix-6	Gra-2e39_2_snake-24_3859	2	Gra-2e39_2_natrix-6_4403	2	0	grass snake	natrix	100.0
+taxongroup	Add-f0f0_8_snake-24	Add-f0f0_8_natrix-27	Add-f0f0_8_snake-24_3859	8	Add-f0f0_8_natrix-27_4403	8	0	grass snake	natrix	100.0
+taxongroup	Nat-1c9a_15_snake-8	Nat-1c9a_15_natrix-11	Nat-1c9a_15_snake-8_3859	15	Nat-1c9a_15_natrix-11_4403	15	0	grass snake	natrix	100.0
+taxongroup	Gra-2e39_2_snake-16	Gra-2e39_2_natrix-6	Gra-2e39_2_snake-16_3859	2	Gra-2e39_2_natrix-6_4403	2	0	grass snake	natrix	100.0
+taxongroup	Gra-2e39_29_snakes-2	Gra-2e39_29_reptiles-6	Gra-2e39_29_snakes-2_3859	29	Gra-2e39_29_reptiles-6_4021	29	0	grass snake	reptiles	100.0
+taxongroup	Rep-aa64_28_snake-16	Rep-aa64_28_reptiles-26	Rep-aa64_28_snake-16_3859	28	Rep-aa64_28_reptiles-26_4021	28	0	grass snake	reptiles	100.0
+taxongroup	Gra-2e39_2_snake-13	Gra-2e39_2_snake-13	Gra-2e39_2_snake-13_3859	2	Gra-2e39_2_snake-13_5484	2	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_68_snake-11	Gra-2e39_68_snake-11	Gra-2e39_68_snake-11_3859	68	Gra-2e39_68_snake-11_5484	68	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_17_snakes-2	Gra-2e39_17_snakes-2	Gra-2e39_17_snakes-2_3859	17	Gra-2e39_17_snakes-2_5484	17	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_17_snakes-2	Gra-2e39_17_snake-24	Gra-2e39_17_snakes-2_3859	17	Gra-2e39_17_snake-24_5484	17	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_17_snake-24	Gra-2e39_17_snakes-2	Gra-2e39_17_snake-24_3859	17	Gra-2e39_17_snakes-2_5484	17	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_17_snake-24	Gra-2e39_17_snake-24	Gra-2e39_17_snake-24_3859	17	Gra-2e39_17_snake-24_5484	17	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_26_snakes-20	Gra-2e39_26_snakes-20	Gra-2e39_26_snakes-20_3859	26	Gra-2e39_26_snakes-20_5484	26	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_29_snakes-2	Gra-2e39_29_snakes-2	Gra-2e39_29_snakes-2_3859	29	Gra-2e39_29_snakes-2_5484	29	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_26_snakes-2	Gra-2e39_26_snakes-2	Gra-2e39_26_snakes-2_3859	26	Gra-2e39_26_snakes-2_5484	26	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_26_snakes-2	Gra-2e39_26_snakes-20	Gra-2e39_26_snakes-2_3859	26	Gra-2e39_26_snakes-20_5484	26	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_26_snakes-20	Gra-2e39_26_snakes-2	Gra-2e39_26_snakes-20_3859	26	Gra-2e39_26_snakes-2_5484	26	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_19_snake-2	Gra-2e39_19_snake-2	Gra-2e39_19_snake-2_3859	19	Gra-2e39_19_snake-2_5484	19	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_1_snake-2	Gra-2e39_1_snake-2	Gra-2e39_1_snake-2_3859	1	Gra-2e39_1_snake-2_5484	1	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_71_snake-19	Gra-2e39_71_snake-19	Gra-2e39_71_snake-19_3859	71	Gra-2e39_71_snake-19_5484	71	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_81_snake-2	Gra-2e39_81_snake-2	Gra-2e39_81_snake-2_3859	81	Gra-2e39_81_snake-2_5484	81	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_80_snake-8	Gra-2e39_80_snake-8	Gra-2e39_80_snake-8_3859	80	Gra-2e39_80_snake-8_5484	80	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_80_snake-8	Gra-2e39_80_snake-13	Gra-2e39_80_snake-8_3859	80	Gra-2e39_80_snake-13_5484	80	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_71_snake-19	Gra-2e39_71_snakes-13	Gra-2e39_71_snake-19_3859	71	Gra-2e39_71_snakes-13_5484	71	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-9	Nat-1c9a_3_snakes-22	Nat-1c9a_3_snakes-9_3859	3	Nat-1c9a_3_snakes-22_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-9	Nat-1c9a_3_snakes-9	Nat-1c9a_3_snakes-9_3859	3	Nat-1c9a_3_snakes-9_5484	3	0	grass snake	snakes	100.0
+taxongroup	Grabfa0_5_snake-3	Grabfa0_5_animals-24	Grabfa0_5_snake-3_148	5	Grabfa0_5_animals-24_44	5	0	Grass snake	Animals	100.0
+taxongroup	Gra-2e39_54_snakes-36	Gra-2e39_54_snakes-2	Gra-2e39_54_snakes-36_3859	54	Gra-2e39_54_snakes-2_5484	54	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_61_snake-2	Gra-2e39_61_snake-2	Gra-2e39_61_snake-2_3859	61	Gra-2e39_61_snake-2_5484	61	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_9_snake-2	Gra-2e39_9_snake-2	Gra-2e39_9_snake-2_3859	9	Gra-2e39_9_snake-2_5484	9	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_10_snake-29	Gra-2e39_10_snake-3	Gra-2e39_10_snake-29_3859	10	Gra-2e39_10_snake-3_5484	10	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_10_snake-29	Gra-2e39_10_snake-29	Gra-2e39_10_snake-29_3859	10	Gra-2e39_10_snake-29_5484	10	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_62_snake-8	Gra-2e39_62_snake-8	Gra-2e39_62_snake-8_3859	62	Gra-2e39_62_snake-8_5484	62	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_67_snakes-7	Gra-2e39_67_snake-19	Gra-2e39_67_snakes-7_3859	67	Gra-2e39_67_snake-19_5484	67	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_67_snake-19	Gra-2e39_67_snakes-7	Gra-2e39_67_snake-19_3859	67	Gra-2e39_67_snakes-7_5484	67	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_67_snake-19	Gra-2e39_67_snake-19	Gra-2e39_67_snake-19_3859	67	Gra-2e39_67_snake-19_5484	67	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_4_snake-2	Gra-2e39_4_snake-2	Gra-2e39_4_snake-2_3859	4	Gra-2e39_4_snake-2_5484	4	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_43_snake-2	Gra-2e39_43_snake-2	Gra-2e39_43_snake-2_3859	43	Gra-2e39_43_snake-2_5484	43	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_38_snake-2	Gra-2e39_38_snake-2	Gra-2e39_38_snake-2_3859	38	Gra-2e39_38_snake-2_5484	38	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_31_snake-2	Gra-2e39_31_snake-2	Gra-2e39_31_snake-2_3859	31	Gra-2e39_31_snake-2_5484	31	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_59_snake-16	Gra-2e39_59_snake-16	Gra-2e39_59_snake-16_3859	59	Gra-2e39_59_snake-16_5484	59	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_54_snakes-36	Gra-2e39_54_snakes-36	Gra-2e39_54_snakes-36_3859	54	Gra-2e39_54_snakes-36_5484	54	0	grass snake	snakes	100.0
+taxongroup	Nor-4c81_89_snake-24	Nor-4c81_89_snakes-19	Nor-4c81_89_snake-24_3859	89	Nor-4c81_89_snakes-19_5484	89	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_74_snake-26	Gra-2e39_74_snake-12	Gra-2e39_74_snake-26_3859	74	Gra-2e39_74_snake-12_5484	74	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_74_snake-12	Gra-2e39_74_snake-26	Gra-2e39_74_snake-12_3859	74	Gra-2e39_74_snake-26_5484	74	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_74_snake-12	Gra-2e39_74_snake-12	Gra-2e39_74_snake-12_3859	74	Gra-2e39_74_snake-12_5484	74	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_68_snake-11	Gra-2e39_68_snake-26	Gra-2e39_68_snake-11_3859	68	Gra-2e39_68_snake-26_5484	68	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_2_snake-3	Gra-2e39_2_snake-3	Gra-2e39_2_snake-3_3859	2	Gra-2e39_2_snake-3_5484	2	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_56_snake-2	Gra-2e39_56_snake-2	Gra-2e39_56_snake-2_3859	56	Gra-2e39_56_snake-2_5484	56	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_55_snake-47	Gra-2e39_55_snake-47	Gra-2e39_55_snake-47_3859	55	Gra-2e39_55_snake-47_5484	55	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_49_snake-2	Gra-2e39_49_snake-2	Gra-2e39_49_snake-2_3859	49	Gra-2e39_49_snake-2_5484	49	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_54_snakes-2	Gra-2e39_54_snakes-36	Gra-2e39_54_snakes-2_3859	54	Gra-2e39_54_snakes-36_5484	54	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_54_snakes-2	Gra-2e39_54_snakes-2	Gra-2e39_54_snakes-2_3859	54	Gra-2e39_54_snakes-2_5484	54	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snake-13	Rep-aa64_410_snake-13	Rep-aa64_410_snake-13_3859	410	Rep-aa64_410_snake-13_5484	410	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snake-26	Rep-aa64_410_snakes-9	Rep-aa64_410_snake-26_3859	410	Rep-aa64_410_snakes-9_5484	410	0	grass snake	snakes	100.0
+taxongroup	Col2d75_3_snakes-8	Col2d75_3_snakes-8	Col2d75_3_snakes-8_3859	3	Col2d75_3_snakes-8_5484	3	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_66_snakes-38	Gra-2e39_66_snakes-38	Gra-2e39_66_snakes-38_3859	66	Gra-2e39_66_snakes-38_5484	66	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_66_snakes-38	Gra-2e39_66_snake-47	Gra-2e39_66_snakes-38_3859	66	Gra-2e39_66_snake-47_5484	66	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_65_snake-11	Gra-2e39_65_snake-11	Gra-2e39_65_snake-11_3859	65	Gra-2e39_65_snake-11_5484	65	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_60_snake-2	Gra-2e39_60_snake-2	Gra-2e39_60_snake-2_3859	60	Gra-2e39_60_snake-2_5484	60	0	grass snake	snakes	100.0
+taxongroup	Nor-4c81_89_snakes-19	Nor-4c81_89_snake-24	Nor-4c81_89_snakes-19_3859	89	Nor-4c81_89_snake-24_5484	89	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_66_snake-47	Gra-2e39_66_snakes-38	Gra-2e39_66_snake-47_3859	66	Gra-2e39_66_snakes-38_5484	66	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_67_snakes-7	Gra-2e39_67_snakes-7	Gra-2e39_67_snakes-7_3859	67	Gra-2e39_67_snakes-7_5484	67	0	grass snake	snakes	100.0
+taxongroup	Nor-4c81_89_snakes-19	Nor-4c81_89_snakes-19	Nor-4c81_89_snakes-19_3859	89	Nor-4c81_89_snakes-19_5484	89	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snake-13	Rep-aa64_410_snakes-9	Rep-aa64_410_snake-13_3859	410	Rep-aa64_410_snakes-9_5484	410	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snakes-9	Rep-aa64_410_snakes-3	Rep-aa64_410_snakes-9_3859	410	Rep-aa64_410_snakes-3_5484	410	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snake-13	Rep-aa64_410_snake-26	Rep-aa64_410_snake-13_3859	410	Rep-aa64_410_snake-26_5484	410	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snake-26	Rep-aa64_410_snake-13	Rep-aa64_410_snake-26_3859	410	Rep-aa64_410_snake-13_5484	410	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_28_snake-16	Rep-aa64_28_snake-16	Rep-aa64_28_snake-16_3859	28	Rep-aa64_28_snake-16_5484	28	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snake-13	Rep-aa64_410_snakes-3	Rep-aa64_410_snake-13_3859	410	Rep-aa64_410_snakes-3_5484	410	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snakes-3	Rep-aa64_410_snakes-3	Rep-aa64_410_snakes-3_3859	410	Rep-aa64_410_snakes-3_5484	410	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snakes-3	Rep-aa64_410_snake-26	Rep-aa64_410_snakes-3_3859	410	Rep-aa64_410_snake-26_5484	410	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snake-26	Rep-aa64_410_snake-26	Rep-aa64_410_snake-26_3859	410	Rep-aa64_410_snake-26_5484	410	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snake-26	Rep-aa64_410_snakes-3	Rep-aa64_410_snake-26_3859	410	Rep-aa64_410_snakes-3_5484	410	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-9	Nat-1c9a_3_snake-14	Nat-1c9a_3_snakes-9_3859	3	Nat-1c9a_3_snake-14_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-9	Nat-1c9a_3_snakes-6	Nat-1c9a_3_snakes-9_3859	3	Nat-1c9a_3_snakes-6_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-27	Nat-1c9a_3_snake-14	Nat-1c9a_3_snakes-27_3859	3	Nat-1c9a_3_snake-14_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_14_snake-14	Nat-1c9a_14_snake-14	Nat-1c9a_14_snake-14_3859	14	Nat-1c9a_14_snake-14_5484	14	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-22	Nat-1c9a_3_snakes-9	Nat-1c9a_3_snakes-22_3859	3	Nat-1c9a_3_snakes-9_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-22	Nat-1c9a_3_snakes-6	Nat-1c9a_3_snakes-22_3859	3	Nat-1c9a_3_snakes-6_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-22	Nat-1c9a_3_snakes-27	Nat-1c9a_3_snakes-22_3859	3	Nat-1c9a_3_snakes-27_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-22	Nat-1c9a_3_snakes-22	Nat-1c9a_3_snakes-22_3859	3	Nat-1c9a_3_snakes-22_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-22	Nat-1c9a_3_snake-14	Nat-1c9a_3_snakes-22_3859	3	Nat-1c9a_3_snake-14_5484	3	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snakes-9	Rep-aa64_410_snakes-9	Rep-aa64_410_snakes-9_3859	410	Rep-aa64_410_snakes-9_5484	410	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snakes-3	Rep-aa64_410_snakes-9	Rep-aa64_410_snakes-3_3859	410	Rep-aa64_410_snakes-9_5484	410	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snakes-3	Rep-aa64_410_snake-13	Rep-aa64_410_snakes-3_3859	410	Rep-aa64_410_snake-13_5484	410	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_66_snake-47	Gra-2e39_66_snake-47	Gra-2e39_66_snake-47_3859	66	Gra-2e39_66_snake-47_5484	66	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_2_snake-16	Gra-2e39_2_snake-13	Gra-2e39_2_snake-16_3859	2	Gra-2e39_2_snake-13_4073	2	0	grass snake	colubrid snakes	100.0
+taxongroup	Gra-2e39_2_snake-16	Gra-2e39_2_snake-16	Gra-2e39_2_snake-16_3859	2	Gra-2e39_2_snake-16_4073	2	0	grass snake	colubrid snakes	100.0
+taxongroup	Gra-2e39_2_snake-16	Gra-2e39_2_snake-24	Gra-2e39_2_snake-16_3859	2	Gra-2e39_2_snake-24_4073	2	0	grass snake	colubrid snakes	100.0
+taxongroup	Cen-cfeb_17_Python-10	Cen-cfeb_17_snakes-14	Cen-cfeb_17_Python-10_1241	17	Cen-cfeb_17_snakes-14_5484	17	0	Pythons	snakes	100.0
+taxongroup	Boa-7d46_98_pythons-22	Boa-7d46_98_snakes-6	Boa-7d46_98_pythons-22_1241	98	Boa-7d46_98_snakes-6_5484	98	0	Pythons	snakes	100.0
+taxongroup	Boa-7d46_24_python-29	Boa-7d46_24_snakes-20	Boa-7d46_24_python-29_1241	24	Boa-7d46_24_snakes-20_5484	24	0	Pythons	snakes	100.0
+taxongroup	Ant-a60f_28_pythons-11	Ant-a60f_28_snakes-14	Ant-a60f_28_pythons-11_1241	28	Ant-a60f_28_snakes-14_5484	28	0	Pythons	snakes	100.0
+taxongroup	Ant-a60f_2_pythons-6	Ant-a60f_2_snakes-9	Ant-a60f_2_pythons-6_1241	2	Ant-a60f_2_snakes-9_5484	2	0	Pythons	snakes	100.0
+taxongroup	Boic98a_1_Pythons-1	Boic98a_1_snakes-7	Boic98a_1_Pythons-1_1241	1	Boic98a_1_snakes-7_5484	1	0	Pythons	snakes	100.0
+taxongroup	Boic98a_9_pythons-14	Boic98a_9_snakes-11	Boic98a_9_pythons-14_1241	9	Boic98a_9_snakes-11_5484	9	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_2_python-5	Cen-cfeb_2_snake-16	Cen-cfeb_2_python-5_1241	2	Cen-cfeb_2_snake-16_5484	2	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_2_Python-7	Cen-cfeb_2_snake-16	Cen-cfeb_2_Python-7_1241	2	Cen-cfeb_2_snake-16_5484	2	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_25_python-18	Cen-cfeb_25_snake-4	Cen-cfeb_25_python-18_1241	25	Cen-cfeb_25_snake-4_5484	25	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_5_python-24	Cen-cfeb_5_snake-4	Cen-cfeb_5_python-24_1241	5	Cen-cfeb_5_snake-4_5484	5	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_76_Python-16	Cen-cfeb_76_snake-8	Cen-cfeb_76_Python-16_1241	76	Cen-cfeb_76_snake-8_5484	76	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_5_python-27	Cen-cfeb_5_snake-11	Cen-cfeb_5_python-27_1241	5	Cen-cfeb_5_snake-11_5484	5	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_17_python-5	Cen-cfeb_17_snakes-14	Cen-cfeb_17_python-5_1241	17	Cen-cfeb_17_snakes-14_5484	17	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_44_Pythons-1	Cen-cfeb_44_snakes-11	Cen-cfeb_44_Pythons-1_1241	44	Cen-cfeb_44_snakes-11_5484	44	0	Pythons	snakes	100.0
+taxongroup	Gra-2e39_2_snake-16	Gra-2e39_2_snake-3	Gra-2e39_2_snake-16_3859	2	Gra-2e39_2_snake-3_4073	2	0	grass snake	colubrid snakes	100.0
+taxongroup	Cen-cfeb_5_python-32	Cen-cfeb_5_snake-11	Cen-cfeb_5_python-32_1241	5	Cen-cfeb_5_snake-11_5484	5	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_6_python-19	Cen-cfeb_6_snake-29	Cen-cfeb_6_python-19_1241	6	Cen-cfeb_6_snake-29_5484	6	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_5_python-27	Cen-cfeb_5_snake-4	Cen-cfeb_5_python-27_1241	5	Cen-cfeb_5_snake-4_5484	5	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_5_python-24	Cen-cfeb_5_snake-11	Cen-cfeb_5_python-24_1241	5	Cen-cfeb_5_snake-11_5484	5	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_82_pythons-31	Cen-cfeb_82_snakes-27	Cen-cfeb_82_pythons-31_1241	82	Cen-cfeb_82_snakes-27_5484	82	0	Pythons	snakes	100.0
+taxongroup	Kin-dc2e_72_pythons-22	Kin-dc2e_72_snakes-8	Kin-dc2e_72_pythons-22_1241	72	Kin-dc2e_72_snakes-8_5484	72	0	Pythons	snakes	100.0
+taxongroup	Kin-dc2e_72_pythons-22	Kin-dc2e_72_snake-37	Kin-dc2e_72_pythons-22_1241	72	Kin-dc2e_72_snake-37_5484	72	0	Pythons	snakes	100.0
+taxongroup	Kin-dc2e_72_pythons-22	Kin-dc2e_72_snake-32	Kin-dc2e_72_pythons-22_1241	72	Kin-dc2e_72_snake-32_5484	72	0	Pythons	snakes	100.0
+taxongroup	Kin-dc2e_72_pythons-22	Kin-dc2e_72_snake-26	Kin-dc2e_72_pythons-22_1241	72	Kin-dc2e_72_snake-26_5484	72	0	Pythons	snakes	100.0
+taxongroup	Kin-dc2e_72_pythons-22	Kin-dc2e_72_snake-20	Kin-dc2e_72_pythons-22_1241	72	Kin-dc2e_72_snake-20_5484	72	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_5_python-42	Cen-cfeb_5_snake-4	Cen-cfeb_5_python-42_1241	5	Cen-cfeb_5_snake-4_5484	5	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_5_python-32	Cen-cfeb_5_snake-4	Cen-cfeb_5_python-32_1241	5	Cen-cfeb_5_snake-4_5484	5	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_5_python-42	Cen-cfeb_5_snake-11	Cen-cfeb_5_python-42_1241	5	Cen-cfeb_5_snake-11_5484	5	0	Pythons	snakes	100.0
+taxongroup	Boa-7d46_127_python-4	Boa-7d46_127_snake-10	Boa-7d46_127_python-4_1241	127	Boa-7d46_127_snake-10_5484	127	0	Pythons	snakes	100.0
+taxongroup	Boa-7d46_24_python-26	Boa-7d46_24_snakes-20	Boa-7d46_24_python-26_1241	24	Boa-7d46_24_snakes-20_5484	24	0	Pythons	snakes	100.0
+taxongroup	Boa-7d46_24_python-26	Boa-7d46_24_snake-7	Boa-7d46_24_python-26_1241	24	Boa-7d46_24_snake-7_5484	24	0	Pythons	snakes	100.0
+taxongroup	Boa-7d46_24_python-29	Boa-7d46_24_snake-7	Boa-7d46_24_python-29_1241	24	Boa-7d46_24_snake-7_5484	24	0	Pythons	snakes	100.0
+taxongroup	Aar-5e58_155_pythons-15	Aar-5e58_155_animals-2	Aar-5e58_155_pythons-15_1241	155	Aar-5e58_155_animals-2_44	155	0	Pythons	Animals	100.0
+taxongroup	Cen-cfeb_137_python-59	Cen-cfeb_137_reptiles-49	Cen-cfeb_137_python-59_1241	137	Cen-cfeb_137_reptiles-49_419	137	0	Pythons	Reptiles	100.0
+taxongroup	Cen-cfeb_137_python-11	Cen-cfeb_137_reptiles-49	Cen-cfeb_137_python-11_1241	137	Cen-cfeb_137_reptiles-49_419	137	0	Pythons	Reptiles	100.0
+taxongroup	Mon-a066_43_pythons-25	Mon-a066_43_reptiles-3	Mon-a066_43_pythons-25_1241	43	Mon-a066_43_reptiles-3_419	43	0	Pythons	Reptiles	100.0
+taxongroup	Cen-cfeb_137_python-56	Cen-cfeb_137_reptiles-49	Cen-cfeb_137_python-56_1241	137	Cen-cfeb_137_reptiles-49_419	137	0	Pythons	Reptiles	100.0
+taxongroup	Bur-98f9_101_pythons-6	Bur-98f9_101_reptiles-13	Bur-98f9_101_pythons-6_1241	101	Bur-98f9_101_reptiles-13_419	101	0	Pythons	Reptiles	100.0
+taxongroup	Ant-a60f_8_python-9	Ant-a60f_8_animal-25	Ant-a60f_8_python-9_1241	8	Ant-a60f_8_animal-25_3812	8	0	Pythons	animals	100.0
+taxongroup	Cen-cfeb_9_python-5	Cen-cfeb_9_animals-15	Cen-cfeb_9_python-5_1241	9	Cen-cfeb_9_animals-15_3812	9	0	Pythons	animals	100.0
+taxongroup	Cen-cfeb_80_pythons-4	Cen-cfeb_80_animal-22	Cen-cfeb_80_pythons-4_1241	80	Cen-cfeb_80_animal-22_3812	80	0	Pythons	animals	100.0
+taxongroup	Boa-7d46_36_pythons-22	Boa-7d46_36_boas-20	Boa-7d46_36_pythons-22_1241	36	Boa-7d46_36_boas-20_4052	36	0	Pythons	boas and pythons	100.0
+taxongroup	Mon-a066_43_pythons-25	Mon-a066_43_boas-23	Mon-a066_43_pythons-25_1241	43	Mon-a066_43_boas-23_4052	43	0	Pythons	boas and pythons	100.0
+taxongroup	Rep-aa64_336_pythons-22	Rep-aa64_336_boas-20	Rep-aa64_336_pythons-22_1241	336	Rep-aa64_336_boas-20_4052	336	0	Pythons	boas and pythons	100.0
+taxongroup	Ani-57f1_160_pythons-15	Ani-57f1_160_boas-26	Ani-57f1_160_pythons-15_1241	160	Ani-57f1_160_boas-26_4052	160	0	Pythons	boas and pythons	100.0
+taxongroup	Ani-57f1_162_pythons-31	Ani-57f1_162_boas-29	Ani-57f1_162_pythons-31_1241	162	Ani-57f1_162_boas-29_4052	162	0	Pythons	boas and pythons	100.0
+taxongroup	Aga-1152_35_pythons-12	Aga-1152_35_boas-10	Aga-1152_35_pythons-12_1241	35	Aga-1152_35_boas-10_4052	35	0	Pythons	boas and pythons	100.0
+taxongroup	Sna7e65_29_pythons-17	Sna7e65_29_boas-15	Sna7e65_29_pythons-17_1241	29	Sna7e65_29_boas-15_4052	29	0	Pythons	boas and pythons	100.0
+taxongroup	Ani-57f1_160_pythons-15	Ani-57f1_160_boas-13	Ani-57f1_160_pythons-15_1241	160	Ani-57f1_160_boas-13_4052	160	0	Pythons	boas and pythons	100.0
+taxongroup	Ani-57f1_160_pythons-28	Ani-57f1_160_boas-26	Ani-57f1_160_pythons-28_1241	160	Ani-57f1_160_boas-26_4052	160	0	Pythons	boas and pythons	100.0
+taxongroup	Ani-57f1_160_pythons-28	Ani-57f1_160_boas-13	Ani-57f1_160_pythons-28_1241	160	Ani-57f1_160_boas-13_4052	160	0	Pythons	boas and pythons	100.0
+taxongroup	Ant-f3cd_142_python-38	Ant-f3cd_142_snake-41	Ant-f3cd_142_python-38_1241	142	Ant-f3cd_142_snake-41_5484	142	0	Pythons	snakes	100.0
+taxongroup	Boa-7d46_98_Python-24	Boa-7d46_98_snakes-6	Boa-7d46_98_Python-24_1241	98	Boa-7d46_98_snakes-6_5484	98	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_5_python-35	Cen-cfeb_5_snake-4	Cen-cfeb_5_python-35_1241	5	Cen-cfeb_5_snake-4_5484	5	0	Pythons	snakes	100.0
+taxongroup	Cen-cfeb_5_python-35	Cen-cfeb_5_snake-11	Cen-cfeb_5_python-35_1241	5	Cen-cfeb_5_snake-11_5484	5	0	Pythons	snakes	100.0
+taxongroup	Ind-afd0_4_python-9	Ind-afd0_4_snakes-17	Ind-afd0_4_python-9_1241	4	Ind-afd0_4_snakes-17_5484	4	0	Pythons	snakes	100.0
+taxongroup	Gra-2e39_17_snakes-2	Gra-2e39_17_Natrix-25	Gra-2e39_17_snakes-2_3859	17	Gra-2e39_17_Natrix-25_1166	17	0	grass snake	Natrix	100.0
+taxongroup	Gra-2e39_17_snake-24	Gra-2e39_17_Natrix-25	Gra-2e39_17_snake-24_3859	17	Gra-2e39_17_Natrix-25_1166	17	0	grass snake	Natrix	100.0
+taxongroup	Gra-2e39_6_snake-37	Gra-2e39_6_Natrix-31	Gra-2e39_6_snake-37_3859	6	Gra-2e39_6_Natrix-31_1166	6	0	grass snake	Natrix	100.0
+taxongroup	Nat-1c9a_14_snake-14	Nat-1c9a_14_Natrix-18	Nat-1c9a_14_snake-14_3859	14	Nat-1c9a_14_Natrix-18_1166	14	0	grass snake	Natrix	100.0
+taxongroup	Gra-2e39_55_snake-47	Gra-2e39_55_Natrix-35	Gra-2e39_55_snake-47_3859	55	Gra-2e39_55_Natrix-35_1166	55	0	grass snake	Natrix	100.0
+taxongroup	Gra-2e39_55_snake-47	Gra-2e39_55_Natrix-40	Gra-2e39_55_snake-47_3859	55	Gra-2e39_55_Natrix-40_1166	55	0	grass snake	Natrix	100.0
+taxongroup	Gra-2e39_2_snake-3	Gra-2e39_2_Natrix-5	Gra-2e39_2_snake-3_3859	2	Gra-2e39_2_Natrix-5_1166	2	0	grass snake	Natrix	100.0
+taxongroup	Add-f0f0_8_snake-19	Add-f0f0_8_Natrix-26	Add-f0f0_8_snake-19_3859	8	Add-f0f0_8_Natrix-26_1166	8	0	grass snake	Natrix	100.0
+taxongroup	Gra-2e39_2_snake-24	Gra-2e39_2_Natrix-5	Gra-2e39_2_snake-24_3859	2	Gra-2e39_2_Natrix-5_1166	2	0	grass snake	Natrix	100.0
+taxongroup	Add-f0f0_8_snake-24	Add-f0f0_8_Natrix-26	Add-f0f0_8_snake-24_3859	8	Add-f0f0_8_Natrix-26_1166	8	0	grass snake	Natrix	100.0
+taxongroup	Gra-2e39_2_snake-16	Gra-2e39_2_Natrix-5	Gra-2e39_2_snake-16_3859	2	Gra-2e39_2_Natrix-5_1166	2	0	grass snake	Natrix	100.0
+taxongroup	Gra-2e39_2_snake-3	Gra-2e39_2_snake-16	Gra-2e39_2_snake-3_3859	2	Gra-2e39_2_snake-16_4073	2	0	grass snake	colubrid snakes	100.0
+taxongroup	Gra-2e39_2_snake-3	Gra-2e39_2_snake-13	Gra-2e39_2_snake-3_3859	2	Gra-2e39_2_snake-13_4073	2	0	grass snake	colubrid snakes	100.0
+taxongroup	Gra-2e39_2_snake-24	Gra-2e39_2_snake-3	Gra-2e39_2_snake-24_3859	2	Gra-2e39_2_snake-3_4073	2	0	grass snake	colubrid snakes	100.0
+taxongroup	Gra-2e39_2_snake-24	Gra-2e39_2_snake-24	Gra-2e39_2_snake-24_3859	2	Gra-2e39_2_snake-24_4073	2	0	grass snake	colubrid snakes	100.0
+taxongroup	Gra-2e39_2_snake-24	Gra-2e39_2_snake-16	Gra-2e39_2_snake-24_3859	2	Gra-2e39_2_snake-16_4073	2	0	grass snake	colubrid snakes	100.0
+taxongroup	Gra-2e39_2_snake-24	Gra-2e39_2_snake-13	Gra-2e39_2_snake-24_3859	2	Gra-2e39_2_snake-13_4073	2	0	grass snake	colubrid snakes	100.0
+taxongroup	Gra-2e39_2_snake-13	Gra-2e39_2_snake-3	Gra-2e39_2_snake-13_3859	2	Gra-2e39_2_snake-3_4073	2	0	grass snake	colubrid snakes	100.0
+taxongroup	Gra-2e39_2_snake-13	Gra-2e39_2_snake-24	Gra-2e39_2_snake-13_3859	2	Gra-2e39_2_snake-24_4073	2	0	grass snake	colubrid snakes	100.0
+taxongroup	Gra-2e39_2_snake-13	Gra-2e39_2_Natrix-5	Gra-2e39_2_snake-13_3859	2	Gra-2e39_2_Natrix-5_1166	2	0	grass snake	Natrix	100.0
+taxongroup	Ind-afd0_34_pythons-6	Ind-afd0_34_snakes-3	Ind-afd0_34_pythons-6_1241	34	Ind-afd0_34_snakes-3_5484	34	0	Pythons	snakes	100.0
+taxongroup	The-b1ab_2_snake-10	The-b1ab_2_snake-22	The-b1ab_2_snake-10_4073	2	The-b1ab_2_snake-22_5484	2	0	colubrid snakes	snakes	100.0
+taxongroup	Bur-98f9_2_python-3	Bur-98f9_2_snakes-15	Bur-98f9_2_python-3_1241	2	Bur-98f9_2_snakes-15_5484	2	0	Pythons	snakes	100.0
+taxongroup	Bur-98f9_119_python-4	Bur-98f9_119_snake-26	Bur-98f9_119_python-4_1241	119	Bur-98f9_119_snake-26_5484	119	0	Pythons	snakes	100.0
+taxongroup	Sna7e65_29_pythons-17	Sna7e65_29_Snakes-1	Sna7e65_29_pythons-17_1241	29	Sna7e65_29_Snakes-1_5484	29	0	Pythons	snakes	100.0
+taxongroup	Bur-98f9_7_python-3	Bur-98f9_7_snake-10	Bur-98f9_7_python-3_1241	7	Bur-98f9_7_snake-10_5484	7	0	Pythons	snakes	100.0
+taxongroup	Bur-98f9_34_python-8	Bur-98f9_34_snakes-20	Bur-98f9_34_python-8_1241	34	Bur-98f9_34_snakes-20_5484	34	0	Pythons	snakes	100.0
+taxongroup	Bur-98f9_2_Python-5	Bur-98f9_2_snakes-15	Bur-98f9_2_Python-5_1241	2	Bur-98f9_2_snakes-15_5484	2	0	Pythons	snakes	100.0
+taxongroup	Bur-98f9_34_pythons-30	Bur-98f9_34_snakes-20	Bur-98f9_34_pythons-30_1241	34	Bur-98f9_34_snakes-20_5484	34	0	Pythons	snakes	100.0
+taxongroup	Bur-98f9_35_python-13	Bur-98f9_35_snakes-23	Bur-98f9_35_python-13_1241	35	Bur-98f9_35_snakes-23_5484	35	0	Pythons	snakes	100.0
+taxongroup	Bur-98f9_91_python-7	Bur-98f9_91_snakes-3	Bur-98f9_91_python-7_1241	91	Bur-98f9_91_snakes-3_5484	91	0	Pythons	snakes	100.0
+taxongroup	Rep-aa64_502_python-17	Rep-aa64_502_snake-20	Rep-aa64_502_python-17_1241	502	Rep-aa64_502_snake-20_5484	502	0	Pythons	snakes	100.0
+taxongroup	Rep-aa64_502_python-17	Rep-aa64_502_snakes-7	Rep-aa64_502_python-17_1241	502	Rep-aa64_502_snakes-7_5484	502	0	Pythons	snakes	100.0
+taxongroup	Sna-dfa9_398_pythons-23	Sna-dfa9_398_snake-37	Sna-dfa9_398_pythons-23_1241	398	Sna-dfa9_398_snake-37_5484	398	0	Pythons	snakes	100.0
+taxongroup	Sna-dfa9_398_pythons-23	Sna-dfa9_398_snake-5	Sna-dfa9_398_pythons-23_1241	398	Sna-dfa9_398_snake-5_5484	398	0	Pythons	snakes	100.0
+taxongroup	Sna-dfa9_459_python-20	Sna-dfa9_459_snake-23	Sna-dfa9_459_python-20_1241	459	Sna-dfa9_459_snake-23_5484	459	0	Pythons	snakes	100.0
+taxongroup	Sna-dfa9_459_python-20	Sna-dfa9_459_snakes-7	Sna-dfa9_459_python-20_1241	459	Sna-dfa9_459_snakes-7_5484	459	0	Pythons	snakes	100.0
+taxongroup	Sna-dfa9_202_pythons-9	Sna-dfa9_202_snakes-3	Sna-dfa9_202_pythons-9_1241	202	Sna-dfa9_202_snakes-3_5484	202	0	Pythons	snakes	100.0
+taxongroup	Sna-dfa9_302_python-8	Sna-dfa9_302_snakes-3	Sna-dfa9_302_python-8_1241	302	Sna-dfa9_302_snakes-3_5484	302	0	Pythons	snakes	100.0
+taxongroup	Sna-dfa9_77_pythons-15	Sna-dfa9_77_snakes-3	Sna-dfa9_77_pythons-15_1241	77	Sna-dfa9_77_snakes-3_5484	77	0	Pythons	snakes	100.0
+taxongroup	Sna-dfa9_77_pythons-15	Sna-dfa9_77_snakes-12	Sna-dfa9_77_pythons-15_1241	77	Sna-dfa9_77_snakes-12_5484	77	0	Pythons	snakes	100.0
+taxongroup	Sna-dfa9_32_Pythons-2	Sna-dfa9_32_snakes-9	Sna-dfa9_32_Pythons-2_1241	32	Sna-dfa9_32_snakes-9_5484	32	0	Pythons	snakes	100.0
+taxongroup	Sna-dfa9_101_python-11	Sna-dfa9_101_snake-43	Sna-dfa9_101_python-11_1241	101	Sna-dfa9_101_snake-43_5484	101	0	Pythons	snakes	100.0
+taxongroup	Sna-dfa9_101_python-11	Sna-dfa9_101_snakes-7	Sna-dfa9_101_python-11_1241	101	Sna-dfa9_101_snakes-7_5484	101	0	Pythons	snakes	100.0
+taxongroup	Sna-dfa9_88_python-16	Sna-dfa9_88_snakes-19	Sna-dfa9_88_python-16_1241	88	Sna-dfa9_88_snakes-19_5484	88	0	Pythons	snakes	100.0
+taxongroup	Ame-c3c3_2_python-3	Ame-c3c3_2_snake-32	Ame-c3c3_2_python-3_1241	2	Ame-c3c3_2_snake-32_5484	2	0	Pythons	snakes	100.0
+taxongroup	Ame-c3c3_2_python-20	Ame-c3c3_2_snake-32	Ame-c3c3_2_python-20_1241	2	Ame-c3c3_2_snake-32_5484	2	0	Pythons	snakes	100.0
+taxongroup	Spo-5b7b_45_pythons-11	Spo-5b7b_45_snakes-14	Spo-5b7b_45_pythons-11_1241	45	Spo-5b7b_45_snakes-14_5484	45	0	Pythons	snakes	100.0
+taxongroup	Sna7e65_18_python-7	Sna7e65_18_snake-8	Sna7e65_18_python-7_1241	18	Sna7e65_18_snake-8_5484	18	0	Pythons	snakes	100.0
+taxongroup	Sea-810b_4_kraits-9	Sea-810b_4_snakes-6	Sea-810b_4_kraits-9_4366	4	Sea-810b_4_snakes-6_5484	4	0	sea kraits	snakes	100.0
+taxongroup	Ela-ca51_37_kraits-3	Ela-ca51_37_snakes-12	Ela-ca51_37_kraits-3_4366	37	Ela-ca51_37_snakes-12_5484	37	0	sea kraits	snakes	100.0
+taxongroup	Ela-ca51_64_kraits-45	Ela-ca51_64_snakes-31	Ela-ca51_64_kraits-45_4366	64	Ela-ca51_64_snakes-31_5484	64	0	sea kraits	snakes	100.0
+taxongroup	Ela-ca51_64_kraits-45	Ela-ca51_64_snakes-25	Ela-ca51_64_kraits-45_4366	64	Ela-ca51_64_snakes-25_5484	64	0	sea kraits	snakes	100.0
+taxongroup	Latf3e7_1_kraits-2	Latf3e7_1_snakes-8	Latf3e7_1_kraits-2_4366	1	Latf3e7_1_snakes-8_5484	1	0	sea kraits	snakes	100.0
+taxongroup	Lat06a0_3_kraits-3	Lat06a0_3_snakes-7	Lat06a0_3_kraits-3_4366	3	Lat06a0_3_snakes-7_5484	3	0	sea kraits	snakes	100.0
+taxongroup	Sea-810b_2_kraits-2	Sea-810b_2_snakes-10	Sea-810b_2_kraits-2_4366	2	Sea-810b_2_snakes-10_5484	2	0	sea kraits	snakes	100.0
+taxongroup	Sea-f7d0_43_kraits-23	Sea-f7d0_43_snakes-20	Sea-f7d0_43_kraits-23_4366	43	Sea-f7d0_43_snakes-20_5484	43	0	sea kraits	snakes	100.0
+taxongroup	Sea-f7d0_7_kraits-23	Sea-f7d0_7_snakes-2	Sea-f7d0_7_kraits-23_4366	7	Sea-f7d0_7_snakes-2_5484	7	0	sea kraits	snakes	100.0
+taxongroup	Sea-810b_6_kraits-4	Sea-810b_6_snakes-20	Sea-810b_6_kraits-4_4366	6	Sea-810b_6_snakes-20_5484	6	0	sea kraits	snakes	100.0
+taxongroup	Sea-810b_6_kraits-4	Sea-810b_6_snakes-7	Sea-810b_6_kraits-4_4366	6	Sea-810b_6_snakes-7_5484	6	0	sea kraits	snakes	100.0
+taxongroup	Sea-810b_38_krait-79	Sea-810b_38_snake-4	Sea-810b_38_krait-79_4366	38	Sea-810b_38_snake-4_5484	38	0	sea kraits	snakes	100.0
+taxongroup	Sea-f7d0_4_kraits-14	Sea-f7d0_4_snakes-6	Sea-f7d0_4_kraits-14_4366	4	Sea-f7d0_4_snakes-6_5484	4	0	sea kraits	snakes	100.0
+taxongroup	Sna7e65_32_kraits-19	Sna7e65_32_snakes-26	Sna7e65_32_kraits-19_4366	32	Sna7e65_32_snakes-26_5484	32	0	sea kraits	snakes	100.0
+taxongroup	Sna-dfa9_82_krait-42	Sna-dfa9_82_snakes-8	Sna-dfa9_82_krait-42_4366	82	Sna-dfa9_82_snakes-8_5484	82	0	sea kraits	snakes	100.0
+taxongroup	Sna-dfa9_82_krait-42	Sna-dfa9_82_snake-37	Sna-dfa9_82_krait-42_4366	82	Sna-dfa9_82_snake-37_5484	82	0	sea kraits	snakes	100.0
+taxongroup	Spa-e46a_15_kraits-11	Spa-e46a_15_snakes-7	Spa-e46a_15_kraits-11_4366	15	Spa-e46a_15_snakes-7_5484	15	0	sea kraits	snakes	100.0
+taxongroup	Yel-3ea8_6_krait-13	Yel-3ea8_6_snake-20	Yel-3ea8_6_krait-13_4366	6	Yel-3ea8_6_snake-20_5484	6	0	sea kraits	snakes	100.0
+taxongroup	Yel-3ea8_24_krait-7	Yel-3ea8_24_snake-19	Yel-3ea8_24_krait-7_4366	24	Yel-3ea8_24_snake-19_5484	24	0	sea kraits	snakes	100.0
+taxongroup	Yel-3ea8_24_krait-7	Yel-3ea8_24_snake-26	Yel-3ea8_24_krait-7_4366	24	Yel-3ea8_24_snake-26_5484	24	0	sea kraits	snakes	100.0
+taxongroup	Yel-3ea8_2_krait-18	Yel-3ea8_2_snake-30	Yel-3ea8_2_krait-18_4366	2	Yel-3ea8_2_snake-30_5484	2	0	sea kraits	snakes	100.0
+taxongroup	Yel-3ea8_2_krait-22	Yel-3ea8_2_snake-30	Yel-3ea8_2_krait-22_4366	2	Yel-3ea8_2_snake-30_5484	2	0	sea kraits	snakes	100.0
+taxongroup	Yel-3ea8_2_krait-6	Yel-3ea8_2_snake-30	Yel-3ea8_2_krait-6_4366	2	Yel-3ea8_2_snake-30_5484	2	0	sea kraits	snakes	100.0
+taxongroup	Add-f0f0_68_snake-8	Add-f0f0_68_snake-12	Add-f0f0_68_snake-8_3859	68	Add-f0f0_68_snake-12_5484	68	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_74_snake-26	Gra-2e39_74_snake-26	Gra-2e39_74_snake-26_3859	74	Gra-2e39_74_snake-26_5484	74	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-6	Nat-1c9a_3_snakes-9	Nat-1c9a_3_snakes-6_3859	3	Nat-1c9a_3_snakes-9_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-6	Nat-1c9a_3_snakes-6	Nat-1c9a_3_snakes-6_3859	3	Nat-1c9a_3_snakes-6_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-6	Nat-1c9a_3_snakes-27	Nat-1c9a_3_snakes-6_3859	3	Nat-1c9a_3_snakes-27_5484	3	0	grass snake	snakes	100.0
+taxongroup	Grabfa0_11_snakes-11	Grabfa0_11_snakes-11	Grabfa0_11_snakes-11_3859	11	Grabfa0_11_snakes-11_5484	11	0	grass snake	snakes	100.0
+taxongroup	Grabfa0_7_snakes-2	Grabfa0_7_snakes-2	Grabfa0_7_snakes-2_3859	7	Grabfa0_7_snakes-2_5484	7	0	grass snake	snakes	100.0
+taxongroup	Grabfa0_16_snake-3	Grabfa0_16_snake-3	Grabfa0_16_snake-3_3859	16	Grabfa0_16_snake-3_5484	16	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-6	Nat-1c9a_3_snakes-22	Nat-1c9a_3_snakes-6_3859	3	Nat-1c9a_3_snakes-22_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-6	Nat-1c9a_3_snake-14	Nat-1c9a_3_snakes-6_3859	3	Nat-1c9a_3_snake-14_5484	3	0	grass snake	snakes	100.0
+taxongroup	Gra-2e39_77_snake-3	Gra-2e39_77_snake-3	Gra-2e39_77_snake-3_3859	77	Gra-2e39_77_snake-3_5484	77	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snake-14	Nat-1c9a_3_snakes-27	Nat-1c9a_3_snake-14_3859	3	Nat-1c9a_3_snakes-27_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snake-14	Nat-1c9a_3_snakes-22	Nat-1c9a_3_snake-14_3859	3	Nat-1c9a_3_snakes-22_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_15_snake-8	Nat-1c9a_15_snake-8	Nat-1c9a_15_snake-8_3859	15	Nat-1c9a_15_snake-8_5484	15	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-27	Nat-1c9a_3_snakes-22	Nat-1c9a_3_snakes-27_3859	3	Nat-1c9a_3_snakes-22_5484	3	0	grass snake	snakes	100.0
+taxongroup	Grabfa0_3_snakes-7	Grabfa0_3_snakes-7	Grabfa0_3_snakes-7_3859	3	Grabfa0_3_snakes-7_5484	3	0	grass snake	snakes	100.0
+taxongroup	Grabfa0_2_snake-2	Grabfa0_2_snake-2	Grabfa0_2_snake-2_3859	2	Grabfa0_2_snake-2_5484	2	0	grass snake	snakes	100.0
+taxongroup	Eur-bc75_357_snake-16	Eur-bc75_357_snake-16	Eur-bc75_357_snake-16_3859	357	Eur-bc75_357_snake-16_5484	357	0	grass snake	snakes	100.0
+taxongroup	Eur-bc75_357_snake-5	Eur-bc75_357_snake-16	Eur-bc75_357_snake-5_3859	357	Eur-bc75_357_snake-16_5484	357	0	grass snake	snakes	100.0
+taxongroup	Eur-bc75_357_snake-5	Eur-bc75_357_snake-5	Eur-bc75_357_snake-5_3859	357	Eur-bc75_357_snake-5_5484	357	0	grass snake	snakes	100.0
+taxongroup	Eur-0e00_137_snakes-18	Eur-0e00_137_snakes-18	Eur-0e00_137_snakes-18_3859	137	Eur-0e00_137_snakes-18_5484	137	0	grass snake	snakes	100.0
+taxongroup	Grabfa0_5_snake-3	Grabfa0_5_snake-3	Grabfa0_5_snake-3_3859	5	Grabfa0_5_snake-3_5484	5	0	grass snake	snakes	100.0
+taxongroup	Eur-bc75_357_snake-16	Eur-bc75_357_snake-5	Eur-bc75_357_snake-16_3859	357	Eur-bc75_357_snake-5_5484	357	0	grass snake	snakes	100.0
+taxongroup	Add-f0f0_8_snake-24	Add-f0f0_8_snake-19	Add-f0f0_8_snake-24_3859	8	Add-f0f0_8_snake-19_5484	8	0	grass snake	snakes	100.0
+taxongroup	Add-f0f0_8_snake-19	Add-f0f0_8_snake-24	Add-f0f0_8_snake-19_3859	8	Add-f0f0_8_snake-24_5484	8	0	grass snake	snakes	100.0
+taxongroup	Add-f0f0_8_snake-24	Add-f0f0_8_snake-24	Add-f0f0_8_snake-24_3859	8	Add-f0f0_8_snake-24_5484	8	0	grass snake	snakes	100.0
+taxongroup	Add-f0f0_68_snake-8	Add-f0f0_68_snake-8	Add-f0f0_68_snake-8_3859	68	Add-f0f0_68_snake-8_5484	68	0	grass snake	snakes	100.0
+taxongroup	Add-f0f0_8_snake-19	Add-f0f0_8_snake-19	Add-f0f0_8_snake-19_3859	8	Add-f0f0_8_snake-19_5484	8	0	grass snake	snakes	100.0
+taxongroup	Add-f0f0_68_snake-12	Add-f0f0_68_snake-12	Add-f0f0_68_snake-12_3859	68	Add-f0f0_68_snake-12_5484	68	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snakes-9	Rep-aa64_410_snake-26	Rep-aa64_410_snakes-9_3859	410	Rep-aa64_410_snake-26_5484	410	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snake-14	Nat-1c9a_3_snakes-9	Nat-1c9a_3_snake-14_3859	3	Nat-1c9a_3_snakes-9_5484	3	0	grass snake	snakes	100.0
+taxongroup	Man-7999_70_snakes-17	Man-7999_70_snakes-17	Man-7999_70_snakes-17_3859	70	Man-7999_70_snakes-17_5484	70	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snake-14	Nat-1c9a_3_snake-14	Nat-1c9a_3_snake-14_3859	3	Nat-1c9a_3_snake-14_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-27	Nat-1c9a_3_snakes-6	Nat-1c9a_3_snakes-27_3859	3	Nat-1c9a_3_snakes-6_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-27	Nat-1c9a_3_snakes-9	Nat-1c9a_3_snakes-27_3859	3	Nat-1c9a_3_snakes-9_5484	3	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snake-14	Nat-1c9a_3_snakes-6	Nat-1c9a_3_snake-14_3859	3	Nat-1c9a_3_snakes-6_5484	3	0	grass snake	snakes	100.0
+taxongroup	Rep-aa64_410_snakes-9	Rep-aa64_410_snake-13	Rep-aa64_410_snakes-9_3859	410	Rep-aa64_410_snake-13_5484	410	0	grass snake	snakes	100.0
+taxongroup	Nat-1c9a_3_snakes-27	Nat-1c9a_3_snakes-27	Nat-1c9a_3_snakes-27_3859	3	Nat-1c9a_3_snakes-27_5484	3	0	grass snake	snakes	100.0
+taxongroup	Add-f0f0_68_snake-12	Add-f0f0_68_snake-8	Add-f0f0_68_snake-12_148	68	Add-f0f0_68_snake-8_5484	68	0	Grass snake	snakes	100.0
+taxongroup	Cen-cfeb_29_pythons-33	Cen-cfeb_29_python-41	Cen-cfeb_29_pythons-33_207	29	Cen-cfeb_29_python-41_1240	29	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-24	Cen-cfeb_5_python-32	Cen-cfeb_5_python-24_207	5	Cen-cfeb_5_python-32_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-24	Cen-cfeb_5_python-27	Cen-cfeb_5_python-24_207	5	Cen-cfeb_5_python-27_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-27	Cen-cfeb_5_python-32	Cen-cfeb_5_python-27_207	5	Cen-cfeb_5_python-32_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-42	Cen-cfeb_5_python-35	Cen-cfeb_5_python-42_207	5	Cen-cfeb_5_python-35_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-24	Cen-cfeb_5_python-35	Cen-cfeb_5_python-24_207	5	Cen-cfeb_5_python-35_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-32	Cen-cfeb_5_python-42	Cen-cfeb_5_python-32_207	5	Cen-cfeb_5_python-42_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-32	Cen-cfeb_5_python-35	Cen-cfeb_5_python-32_207	5	Cen-cfeb_5_python-35_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-27	Cen-cfeb_5_python-24	Cen-cfeb_5_python-27_207	5	Cen-cfeb_5_python-24_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-27	Cen-cfeb_5_python-27	Cen-cfeb_5_python-27_207	5	Cen-cfeb_5_python-27_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-42	Cen-cfeb_5_python-27	Cen-cfeb_5_python-42_207	5	Cen-cfeb_5_python-27_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-24	Cen-cfeb_5_python-24	Cen-cfeb_5_python-24_207	5	Cen-cfeb_5_python-24_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-24	Cen-cfeb_5_python-42	Cen-cfeb_5_python-24_207	5	Cen-cfeb_5_python-42_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-32	Cen-cfeb_5_python-27	Cen-cfeb_5_python-32_207	5	Cen-cfeb_5_python-27_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-32	Cen-cfeb_5_python-24	Cen-cfeb_5_python-32_207	5	Cen-cfeb_5_python-24_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-35	Cen-cfeb_5_python-42	Cen-cfeb_5_python-35_207	5	Cen-cfeb_5_python-42_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_29_pythons-10	Cen-cfeb_29_python-41	Cen-cfeb_29_pythons-10_207	29	Cen-cfeb_29_python-41_1240	29	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-32	Cen-cfeb_5_python-32	Cen-cfeb_5_python-32_207	5	Cen-cfeb_5_python-32_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-42	Cen-cfeb_5_python-24	Cen-cfeb_5_python-42_207	5	Cen-cfeb_5_python-24_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-27	Cen-cfeb_5_python-35	Cen-cfeb_5_python-27_207	5	Cen-cfeb_5_python-35_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Ind-afd0_3_python-12	Ind-afd0_3_python-16	Ind-afd0_3_python-12_207	3	Ind-afd0_3_python-16_1240	3	0	Indian rock python	Python	100.0
+taxongroup	Ind-afd0_3_python-16	Ind-afd0_3_python-16	Ind-afd0_3_python-16_207	3	Ind-afd0_3_python-16_1240	3	0	Indian rock python	Python	100.0
+taxongroup	Ind-afd0_3_python-16	Ind-afd0_3_python-21	Ind-afd0_3_python-16_207	3	Ind-afd0_3_python-21_1240	3	0	Indian rock python	Python	100.0
+taxongroup	Ind-afd0_3_python-12	Ind-afd0_3_python-12	Ind-afd0_3_python-12_207	3	Ind-afd0_3_python-12_1240	3	0	Indian rock python	Python	100.0
+taxongroup	Ind-afd0_77_Python-6	Ind-afd0_77_Python-6	Ind-afd0_77_Python-6_207	77	Ind-afd0_77_Python-6_1240	77	0	Indian rock python	Python	100.0
+taxongroup	Ind-afd0_3_python-21	Ind-afd0_3_python-12	Ind-afd0_3_python-21_207	3	Ind-afd0_3_python-12_1240	3	0	Indian rock python	Python	100.0
+taxongroup	Ind-afd0_77_Python-6	Ind-afd0_77_python-4	Ind-afd0_77_Python-6_207	77	Ind-afd0_77_python-4_1240	77	0	Indian rock python	Python	100.0
+taxongroup	Ind-afd0_3_python-12	Ind-afd0_3_python-21	Ind-afd0_3_python-12_207	3	Ind-afd0_3_python-21_1240	3	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-35	Cen-cfeb_5_python-24	Cen-cfeb_5_python-35_207	5	Cen-cfeb_5_python-24_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_29_pythons-10	Cen-cfeb_29_pythons-33	Cen-cfeb_29_pythons-10_207	29	Cen-cfeb_29_pythons-33_1240	29	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_29_pythons-10	Cen-cfeb_29_pythons-10	Cen-cfeb_29_pythons-10_207	29	Cen-cfeb_29_pythons-10_1240	29	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_29_pythons-33	Cen-cfeb_29_pythons-33	Cen-cfeb_29_pythons-33_207	29	Cen-cfeb_29_pythons-33_1240	29	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_29_python-41	Cen-cfeb_29_python-41	Cen-cfeb_29_python-41_207	29	Cen-cfeb_29_python-41_1240	29	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-35	Cen-cfeb_5_python-32	Cen-cfeb_5_python-35_207	5	Cen-cfeb_5_python-32_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-35	Cen-cfeb_5_python-27	Cen-cfeb_5_python-35_207	5	Cen-cfeb_5_python-27_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-42	Cen-cfeb_5_python-32	Cen-cfeb_5_python-42_207	5	Cen-cfeb_5_python-32_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-35	Cen-cfeb_5_python-35	Cen-cfeb_5_python-35_207	5	Cen-cfeb_5_python-35_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_29_python-41	Cen-cfeb_29_pythons-33	Cen-cfeb_29_python-41_207	29	Cen-cfeb_29_pythons-33_1240	29	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_5_python-27	Cen-cfeb_5_python-42	Cen-cfeb_5_python-27_207	5	Cen-cfeb_5_python-42_1240	5	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_29_pythons-33	Cen-cfeb_29_pythons-10	Cen-cfeb_29_pythons-33_207	29	Cen-cfeb_29_pythons-10_1240	29	0	Indian rock python	Python	100.0
+taxongroup	Cen-cfeb_29_python-41	Cen-cfeb_29_pythons-10	Cen-cfeb_29_python-41_207	29	Cen-cfeb_29_pythons-10_1240	29	0	Indian rock python	Python	100.0
+taxongroup	Ind-afd0_3_python-21	Ind-afd0_3_python-16	Ind-afd0_3_python-21_207	3	Ind-afd0_3_python-16_1240	3	0	Indian rock python	Python	100.0
+taxongroup	Ind-afd0_3_python-16	Ind-afd0_3_python-12	Ind-afd0_3_python-16_207	3	Ind-afd0_3_python-12_1240	3	0	Indian rock python	Python	100.0
+taxongroup	Ind-afd0_77_python-4	Ind-afd0_77_python-4	Ind-afd0_77_python-4_207	77	Ind-afd0_77_python-4_1240	77	0	Indian rock python	Python	100.0
+taxongroup	Spo-5b7b_46_python-24	Spo-5b7b_46_animals-38	Spo-5b7b_46_python-24_1240	46	Spo-5b7b_46_animals-38_3812	46	0	Python	animals	100.0
+taxongroup	Sea-810b_38_Laticauda-65	Sea-810b_38_snake-4	Sea-810b_38_Laticauda-65_1101	38	Sea-810b_38_snake-4_5484	38	0	Laticauda	snakes	100.0
+taxongroup	Sea-810b_2_Laticauda-17	Sea-810b_2_snakes-10	Sea-810b_2_Laticauda-17_1101	2	Sea-810b_2_snakes-10_5484	2	0	Laticauda	snakes	100.0
+taxongroup	Sea-f7d0_70_Laticauda-31	Sea-f7d0_70_snakes-3	Sea-f7d0_70_Laticauda-31_1101	70	Sea-f7d0_70_snakes-3_5484	70	0	Laticauda	snakes	100.0
+taxongroup	Yel-3ea8_108_Laticauda-12	Yel-3ea8_108_snake-11	Yel-3ea8_108_Laticauda-12_1101	108	Yel-3ea8_108_snake-11_5484	108	0	Laticauda	snakes	100.0
+taxongroup	Yel-3ea8_41_Laticauda-9	Yel-3ea8_41_snakes-6	Yel-3ea8_41_Laticauda-9_1101	41	Yel-3ea8_41_snakes-6_5484	41	0	Laticauda	snakes	100.0
+taxongroup	Yel-3ea8_2_Laticauda-8	Yel-3ea8_2_snake-30	Yel-3ea8_2_Laticauda-8_1101	2	Yel-3ea8_2_snake-30_5484	2	0	Laticauda	snakes	100.0
+taxongroup	Sea-810b_38_Laticauda-13	Sea-810b_38_snake-4	Sea-810b_38_Laticauda-13_1101	38	Sea-810b_38_snake-4_5484	38	0	Laticauda	snakes	100.0
+taxongroup	Sea-810b_38_Laticauda-27	Sea-810b_38_snake-4	Sea-810b_38_Laticauda-27_1101	38	Sea-810b_38_snake-4_5484	38	0	Laticauda	snakes	100.0
+taxongroup	Sea-f7d0_4_Laticauda-16	Sea-f7d0_4_snakes-6	Sea-f7d0_4_Laticauda-16_1101	4	Sea-f7d0_4_snakes-6_5484	4	0	Laticauda	snakes	100.0
+taxongroup	Sea-f7d0_114_Laticauda-56	Sea-f7d0_114_snakes-2	Sea-f7d0_114_Laticauda-56_1101	114	Sea-f7d0_114_snakes-2_5484	114	0	Laticauda	snakes	100.0
+taxongroup	Ind-afd0_77_python-4	Ind-afd0_77_Python-6	Ind-afd0_77_python-4_207	77	Ind-afd0_77_Python-6_4446	77	0	Indian rock python	pythons	100.0
+taxongroup	Ind-afd0_3_python-21	Ind-afd0_3_python-21	Ind-afd0_3_python-21_207	3	Ind-afd0_3_python-21_4446	3	0	Indian rock python	pythons	100.0
+taxongroup	Sea-f7d0_117_Laticauda-23	Sea-f7d0_117_snakes-7	Sea-f7d0_117_Laticauda-23_1101	117	Sea-f7d0_117_snakes-7_5484	117	0	Laticauda	snakes	100.0
+taxongroup	Sea-810b_38_Laticauda-40	Sea-810b_38_snake-4	Sea-810b_38_Laticauda-40_1101	38	Sea-810b_38_snake-4_5484	38	0	Laticauda	snakes	100.0
+taxongroup	Sea-810b_38_Laticauda-52	Sea-810b_38_snake-4	Sea-810b_38_Laticauda-52_1101	38	Sea-810b_38_snake-4_5484	38	0	Laticauda	snakes	100.0
+taxongroup	Sea-810b_38_Laticauda-5	Sea-810b_38_snake-4	Sea-810b_38_Laticauda-5_1101	38	Sea-810b_38_snake-4_5484	38	0	Laticauda	snakes	100.0
+taxongroup	Ela-ca51_69_Laticauda-6	Ela-ca51_69_snakes-19	Ela-ca51_69_Laticauda-6_1101	69	Ela-ca51_69_snakes-19_5484	69	0	Laticauda	snakes	100.0
+taxongroup	Ela-ca51_69_Laticauda-6	Ela-ca51_69_snakes-12	Ela-ca51_69_Laticauda-6_1101	69	Ela-ca51_69_snakes-12_5484	69	0	Laticauda	snakes	100.0
+taxongroup	Ela-ca51_37_Laticauda-5	Ela-ca51_37_snakes-12	Ela-ca51_37_Laticauda-5_1101	37	Ela-ca51_37_snakes-12_5484	37	0	Laticauda	snakes	100.0
+taxongroup	Sea-810b_10_Laticauda-1	Sea-810b_10_snakes-10	Sea-810b_10_Laticauda-1_1101	10	Sea-810b_10_snakes-10_5484	10	0	Laticauda	snakes	100.0
+taxongroup	Sea-f7d0_114_Laticauda-56	Sea-f7d0_114_snakes-33	Sea-f7d0_114_Laticauda-56_1101	114	Sea-f7d0_114_snakes-33_5484	114	0	Laticauda	snakes	100.0
+taxongroup	Cen-cfeb_5_anaconda-21	Cen-cfeb_5_snake-11	Cen-cfeb_5_anaconda-21_3849	5	Cen-cfeb_5_snake-11_5484	5	0	yellow anaconda	snakes	100.0

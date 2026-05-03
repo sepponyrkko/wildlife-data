@@ -1,0 +1,8 @@
+source	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	77.19	1.05	8.34	0.39	0.85	9.02	3.17	Bird__class	212
+adaptation_topic	0.49	76.56	11.95	0.53	1.87	3.72	4.87	Bird__class	300
+free_topic	0.57	1.64	81.35	1.23	2.12	6.95	6.15	Bird__class	994
+location_comment	0.69	2.64	12.25	68.32	0.62	9.54	5.94	Bird__class	242
+location_topic	0.37	3.53	27.53	0.5	53.74	6.84	7.49	Bird__class	383
+taxongroup_comment	0.2	0.12	4.12	0.12	0.23	88.56	6.65	Bird__class	264
+taxongroup_topic	0.2	0.73	6.58	0.4	0.39	21.42	70.28	Bird__class	261

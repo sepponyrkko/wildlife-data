@@ -1,0 +1,19 @@
+,token,token_form,concept_uri,arcpath,lemma,upos,widx,feat,elongation_x,elongation_y,group,relrole,comp_id,N_tokens
+2,Con-7997_151_Sequoiadendron-6,Sequoiadendron,Sequoiadendron#genus,conj<,Widdringtonia,PROPN,4,conj< ...,0.15806547234798193,-0.022977785582020478,Plant__kingdom,adaptation_topic,1,4
+6,Tax-b848_94_baccata-22,baccata,Taxus_baccata#species,compound>,Taxus,PROPN,21,compound> Taxus,-0.1780561563154428,-0.30723446079597183,Plant__kingdom,adaptation_topic,1,4
+8,Tax-b848_96_baccata-11,baccata,Taxus_baccata#species,compound>,Taxus,PROPN,10,compound> Taxus,-0.1780561563154428,-0.30723446079597183,Plant__kingdom,adaptation_topic,1,4
+3,Tax-b848_108_baccata-16,baccata,Taxus_baccata#species,obl<,derive,VERB,9,obl< ...,0.19843844894733295,-0.19847554566917638,Plant__kingdom,adaptation_topic,1,4
+4,Tax-b848_108_baccata-16,baccata,Taxus_baccata#species,case>,from,ADP,10,case> ...,0.7321712153724959,0.25297175164539226,Plant__kingdom,adaptation_topic,1,4
+8,Tax-b848_108_baccata-16,baccata,Taxus_baccata#species,compound>,Taxus,PROPN,15,compound> Taxus,-0.1780561563154428,-0.30723446079597183,Plant__kingdom,adaptation_topic,1,4
+0,Tax47e2_6_yews-2,yews,Taxus_baccata#species,amod>,common,ADJ,1,amod> common,0.34187609046972434,-0.341106185454987,Plant__kingdom,adaptation_topic,2,2
+1,Tax47e2_6_yews-2,yews,Taxus_baccata#species,nsubj<,have,VERB,3,nsubj< ...,0.41084412623452293,-0.1371260526592203,Plant__kingdom,adaptation_topic,2,2
+5,Tax-9735_3_yew-8,yew,Taxus_baccata#species,obl<,know,VERB,6,obl< ...,0.28724234241823954,0.275153542895432,Plant__kingdom,adaptation_topic,2,2
+6,Tax-9735_3_yew-8,yew,Taxus_baccata#species,case>,as,ADP,7,case> as,-0.07555258811194197,0.5677986426086092,Plant__kingdom,adaptation_topic,2,2
+0,Tax-9735_18_yew-2,yew,Taxus_baccata#species,amod>,common,ADJ,1,amod> common,-0.8538337417827161,0.6256291002775504,Plant__kingdom,adaptation_topic,0,2
+2,Tax-9735_18_yew-2,yew,Taxus_baccata#species,nsubj<,one,NUM,4,nsubj< one,-0.2822289653053213,0.0750191147428931,Plant__kingdom,adaptation_topic,0,2
+1,Tax-9735_85_yew-3,yew,Taxus_baccata#species,amod>,european,ADJ,2,amod> european,-0.788168619573638,0.63663883654867,Plant__kingdom,adaptation_topic,0,2
+3,Tax-9735_85_yew-3,yew,Taxus_baccata#species,nsubj<,one,NUM,5,nsubj< one,-0.2822289653053213,0.0750191147428931,Plant__kingdom,adaptation_topic,0,2
+13,Tax-9735_85_yew-19,yew,Taxus_baccata#species,det>,the,DET,17,det> the,-0.05300048272331623,-0.19444076754835038,Plant__kingdom,adaptation_topic,3,2
+14,Tax-9735_85_yew-19,yew,Taxus_baccata#species,amod>,japanese,ADJ,18,amod> ...,-0.3892014405835483,0.24696187729187122,Plant__kingdom,adaptation_topic,3,2
+15,Tax-9735_85_yew-19,yew,Taxus_baccata#species,appos>,t.,PROPN,21,appos> ...,0.13089436018489592,0.04390214419379663,Plant__kingdom,adaptation_topic,3,2
+7,Tax-9735_164_yew-25,yew,Taxus_baccata#species,amod>,european,ADJ,24,amod> european,-0.29169748015413854,0.29460949128416736,Plant__kingdom,adaptation_topic,3,2

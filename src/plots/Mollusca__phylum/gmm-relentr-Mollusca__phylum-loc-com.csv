@@ -1,0 +1,9 @@
+,feat,cluster,pw_entr,feat_n,N,group,relrole
+1,compound< ...,0,1.466,3,3,Mollusca__phylum,location_comment
+4,case> ...,1,-0.086,1,5,Mollusca__phylum,location_comment
+6,nmod> ...,1,0.22,2,5,Mollusca__phylum,location_comment
+7,nmod>case> ...,1,0.22,2,5,Mollusca__phylum,location_comment
+8,case> ...,2,0.243,2,4,Mollusca__phylum,location_comment
+10,nmod> ...,2,0.02,1,4,Mollusca__phylum,location_comment
+11,nmod>case> ...,2,0.02,1,4,Mollusca__phylum,location_comment
+12,case> ...,3,1.179,1,1,Mollusca__phylum,location_comment

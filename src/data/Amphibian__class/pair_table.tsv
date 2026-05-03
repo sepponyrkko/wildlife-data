@@ -1,0 +1,1076 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Com-f597_32_frogs-7	Com-f597_32_marshes-19	Com-f597_32_frogs-7_3834	32	Com-f597_32_marshes-19_3807	32	0	common frog	marsh	100.0
+location	Pan-2813_22_frog-4	Pan-2813_22_mountain-22	Pan-2813_22_frog-4_2971	22	Pan-2813_22_mountain-22_4527	22	0	Panamanian golden frog	mountains	100.0
+location	Pan-2813_96_frog-4	Pan-2813_96_mountain-10	Pan-2813_96_frog-4_2971	96	Pan-2813_96_mountain-10_4527	96	0	Panamanian golden frog	mountains	100.0
+location	Fro-2392_282_frog-20	Fro-2392_282_marsh-19	Fro-2392_282_frog-20_3875	282	Fro-2392_282_marsh-19_3807	282	0	marsh frog	marsh	100.0
+location	Mar-495f_19_frog-10	Mar-495f_19_marsh-9	Mar-495f_19_frog-10_3875	19	Mar-495f_19_marsh-9_3807	19	0	marsh frog	marsh	100.0
+location	Mar-495f_2_frog-3	Mar-495f_2_marsh-2	Mar-495f_2_frog-3_3875	2	Mar-495f_2_marsh-2_3807	2	0	marsh frog	marsh	100.0
+location	Mar-495f_2_frog-13	Mar-495f_2_marsh-2	Mar-495f_2_frog-13_3875	2	Mar-495f_2_marsh-2_3807	2	0	marsh frog	marsh	100.0
+location	Mar-495f_4_frog-3	Mar-495f_4_marsh-2	Mar-495f_4_frog-3_3875	4	Mar-495f_4_marsh-2_3807	4	0	marsh frog	marsh	100.0
+location	Mar-495f_2_ridibundus-6	Mar-495f_2_marsh-2	Mar-495f_2_ridibundus-6_175	2	Mar-495f_2_marsh-2_3807	2	0	Pelophylax ridibundus	marsh	87.0
+location	Fro-2392_282_ridibundus-23	Fro-2392_282_marsh-19	Fro-2392_282_ridibundus-23_175	282	Fro-2392_282_marsh-19_3807	282	0	Pelophylax ridibundus	marsh	87.0
+location	Sal-7dcf_23_newt-12	Sal-7dcf_23_taiga-22	Sal-7dcf_23_newt-12_235	23	Sal-7dcf_23_taiga-22_4534	23	0	Siberian newt	taiga	83.0
+location	Sal-7dcf_23_newt-12	Sal-7dcf_23_tundra-28	Sal-7dcf_23_newt-12_235	23	Sal-7dcf_23_tundra-28_4539	23	0	Siberian newt	tundra	83.0
+location	Pan-2813_95_frog-3	Pan-2813_96_mountain-10	Pan-2813_95_frog-3_2971	95	Pan-2813_96_mountain-10_4527	96	1	Panamanian golden frog	mountains	50.0
+location	Pan-2813_21_frog-3	Pan-2813_22_mountain-22	Pan-2813_21_frog-3_2971	21	Pan-2813_22_mountain-22_4527	22	1	Panamanian golden frog	mountains	50.0
+location	Tai-3286_116_salamander-32	Tai-3286_115_taiga-9	Tai-3286_116_salamander-32_232	116	Tai-3286_115_taiga-9_4534	115	1	Siberian salamander	taiga	50.0
+location	Tai-3286_116_salamander-26	Tai-3286_115_taiga-9	Tai-3286_116_salamander-26_232	116	Tai-3286_115_taiga-9_4534	115	1	Siberian salamander	taiga	50.0
+location	Smo-99ce_5_frog-3	Smo-99ce_4_marshes-28	Smo-99ce_5_frog-3_243	5	Smo-99ce_4_marshes-28_3807	4	1	Smoky jungle frog	marsh	50.0
+location	Smo-99ce_5_frog-3	Smo-99ce_4_marshes-32	Smo-99ce_5_frog-3_243	5	Smo-99ce_4_marshes-32_3807	4	1	Smoky jungle frog	marsh	50.0
+location	Smo-99ce_21_frog-3	Smo-99ce_22_rainforest-6	Smo-99ce_21_frog-3_243	21	Smo-99ce_22_rainforest-6_3811	22	1	Smoky jungle frog	rainforest	50.0
+location	Smo-99ce_23_frog-3	Smo-99ce_22_rainforest-6	Smo-99ce_23_frog-3_243	23	Smo-99ce_22_rainforest-6_3811	22	1	Smoky jungle frog	rainforest	50.0
+location	Smo-99ce_5_frog-3	Smo-99ce_4_swamps-16	Smo-99ce_5_frog-3_243	5	Smo-99ce_4_swamps-16_3808	4	1	Smoky jungle frog	swamp	50.0
+location	Paneebe_4_frogs-3	Paneebe_5_rainforests-7	Paneebe_4_frogs-3_2971	4	Paneebe_5_rainforests-7_3811	5	1	Panamanian golden frog	rainforest	50.0
+location	Tai-3286_116_salamander-35	Tai-3286_115_taiga-9	Tai-3286_116_salamander-35_232	116	Tai-3286_115_taiga-9_4534	115	1	Siberian salamander	taiga	50.0
+location	Com-43a2_169_toads-14	Com-43a2_168_wetlands-15	Com-43a2_169_toads-14_3843	169	Com-43a2_168_wetlands-15_4542	168	1	common toad	wetlands	50.0
+location	Com-f597_31_frog-2	Com-f597_32_marshes-19	Com-f597_31_frog-2_3834	31	Com-f597_32_marshes-19_3807	32	1	common frog	marsh	50.0
+location	Sal-7dcf_22_keyserlingii-2	Sal-7dcf_23_taiga-22	Sal-7dcf_22_keyserlingii-2_233	22	Sal-7dcf_23_taiga-22_4534	23	1	Salamandrella keyserlingii	taiga	43.5
+location	Sal-7dcf_22_keyserlingii-2	Sal-7dcf_23_tundra-28	Sal-7dcf_22_keyserlingii-2_233	22	Sal-7dcf_23_tundra-28_4539	23	1	Salamandrella keyserlingii	tundra	43.5
+location	Smo8f05_7_frogs-8	Smo8f05_9_marshes-18	Smo8f05_7_frogs-8_3903	7	Smo8f05_9_marshes-18_3807	9	2	smoky jungle frog	marsh	33.333
+location	Smo-99ce_2_Leptodactylus-6	Smo-99ce_4_swamps-16	Smo-99ce_2_Leptodactylus-6_1105	2	Smo-99ce_4_swamps-16_3808	4	2	Leptodactylus	swamp	33.333
+location	Smo-99ce_2_frog-4	Smo-99ce_4_marshes-32	Smo-99ce_2_frog-4_3903	2	Smo-99ce_4_marshes-32_3807	4	2	smoky jungle frog	marsh	33.333
+location	Smo-99ce_2_frog-13	Smo-99ce_4_marshes-28	Smo-99ce_2_frog-13_3903	2	Smo-99ce_4_marshes-28_3807	4	2	smoky jungle frog	marsh	33.333
+location	Smo8f05_7_frogs-8	Smo8f05_9_swamps-16	Smo8f05_7_frogs-8_3903	7	Smo8f05_9_swamps-16_3808	9	2	smoky jungle frog	swamp	33.333
+location	Sal-7dcf_21_salamander-3	Sal-7dcf_23_taiga-22	Sal-7dcf_21_salamander-3_232	21	Sal-7dcf_23_taiga-22_4534	23	2	Siberian salamander	taiga	33.333
+location	Tai-3286_116_salamander-26	Tai-3286_118_taiga-4	Tai-3286_116_salamander-26_232	116	Tai-3286_118_taiga-4_4534	118	2	Siberian salamander	taiga	33.333
+location	Com-43a2_170_toad-10	Com-43a2_168_wetlands-15	Com-43a2_170_toad-10_3843	170	Com-43a2_168_wetlands-15_4542	168	2	common toad	wetlands	33.333
+location	Smo-99ce_2_frog-4	Smo-99ce_4_marshes-28	Smo-99ce_2_frog-4_3903	2	Smo-99ce_4_marshes-28_3807	4	2	smoky jungle frog	marsh	33.333
+location	Smo-99ce_2_Leptodactylus-6	Smo-99ce_4_marshes-28	Smo-99ce_2_Leptodactylus-6_1105	2	Smo-99ce_4_marshes-28_3807	4	2	Leptodactylus	marsh	33.333
+location	Smo-99ce_2_frog-13	Smo-99ce_4_swamps-16	Smo-99ce_2_frog-13_3903	2	Smo-99ce_4_swamps-16_3808	4	2	smoky jungle frog	swamp	33.333
+location	Smo-99ce_2_frog-4	Smo-99ce_4_swamps-16	Smo-99ce_2_frog-4_3903	2	Smo-99ce_4_swamps-16_3808	4	2	smoky jungle frog	swamp	33.333
+location	Smo-99ce_2_frog-13	Smo-99ce_4_marshes-32	Smo-99ce_2_frog-13_3903	2	Smo-99ce_4_marshes-32_3807	4	2	smoky jungle frog	marsh	33.333
+location	Smo-99ce_2_Leptodactylus-6	Smo-99ce_4_marshes-32	Smo-99ce_2_Leptodactylus-6_1105	2	Smo-99ce_4_marshes-32_3807	4	2	Leptodactylus	marsh	33.333
+location	Tai-3286_116_salamander-35	Tai-3286_118_taiga-4	Tai-3286_116_salamander-35_232	116	Tai-3286_118_taiga-4_4534	118	2	Siberian salamander	taiga	33.333
+location	Tai-3286_116_salamander-32	Tai-3286_118_taiga-4	Tai-3286_116_salamander-32_232	116	Tai-3286_118_taiga-4_4534	118	2	Siberian salamander	taiga	33.333
+location	Sal-7dcf_21_salamander-3	Sal-7dcf_23_tundra-28	Sal-7dcf_21_salamander-3_232	21	Sal-7dcf_23_tundra-28_4539	23	2	Siberian salamander	tundra	33.333
+location	Poi-d65f_121_frogs-4	Poi-d65f_122_rainforest-8	Poi-d65f_121_frogs-4_5364	121	Poi-d65f_122_rainforest-8_3811	122	1	poison dart frogs	rainforest	33.0
+location	Poi32a6_7_frogs-6	Poi32a6_6_rainforests-17	Poi32a6_7_frogs-6_3115	7	Poi32a6_6_rainforests-17_3811	6	1	Poison dart frogs	rainforest	33.0
+location	Par5cb2_24_newts-19	Par5cb2_23_parklands-22	Par5cb2_24_newts-19_5046	24	Par5cb2_23_parklands-22_4529	23	1	great crested newt	parkland	33.0
+location	Mar-495f_2_ridibundus-6	Mar-495f_4_marsh-2	Mar-495f_2_ridibundus-6_175	2	Mar-495f_4_marsh-2_3807	4	2	Pelophylax ridibundus	marsh	29.0
+location	Sal-7dcf_25_keyserlingii-2	Sal-7dcf_23_taiga-22	Sal-7dcf_25_keyserlingii-2_233	25	Sal-7dcf_23_taiga-22_4534	23	2	Salamandrella keyserlingii	taiga	29.0
+location	Sal-7dcf_25_keyserlingii-2	Sal-7dcf_23_tundra-28	Sal-7dcf_25_keyserlingii-2_233	25	Sal-7dcf_23_tundra-28_4539	23	2	Salamandrella keyserlingii	tundra	29.0
+location	Tri-5b33_208_newt-22	Tri-5b33_206_farmland-72	Tri-5b33_208_newt-22_5047	208	Tri-5b33_206_farmland-72_4509	206	2	northern crested newt	farmland	27.667
+location	Tri-5b33_208_newt-16	Tri-5b33_206_farmland-72	Tri-5b33_208_newt-16_5047	208	Tri-5b33_206_farmland-72_4509	206	2	northern crested newt	farmland	27.667
+location	Poi32a6_4_frog-8	Poi32a6_6_rainforests-17	Poi32a6_4_frog-8_5294	4	Poi32a6_6_rainforests-17_3811	6	2	golden frog	rainforest	27.667
+location	Com-43a2_69_frog-4	Com-43a2_72_mountain-23	Com-43a2_69_frog-4_3834	69	Com-43a2_72_mountain-23_4527	72	3	common frog	mountains	25.0
+location	Fro-2392_365_frog-17	Fro-2392_362_pools-5	Fro-2392_365_frog-17_841	365	Fro-2392_362_pools-5_1381	362	3	True frogs	Temporary pools	25.0
+location	Com-43a2_69_frog-12	Com-43a2_72_mountain-23	Com-43a2_69_frog-12_3834	69	Com-43a2_72_mountain-23_4527	72	3	common frog	mountains	25.0
+location	Fro-2392_269_frog-11	Fro-2392_266_mountain-11	Fro-2392_269_frog-11_3834	269	Fro-2392_266_mountain-11_4527	266	3	common frog	mountains	25.0
+location	Fro-2392_269_frog-3	Fro-2392_266_mountain-11	Fro-2392_269_frog-3_3834	269	Fro-2392_266_mountain-11_4527	266	3	common frog	mountains	25.0
+location	Com-f597_35_frogs-7	Com-f597_32_marshes-19	Com-f597_35_frogs-7_3834	35	Com-f597_32_marshes-19_3807	32	3	common frog	marsh	25.0
+location	Smo-99ce_7_frog-3	Smo-99ce_4_swamps-16	Smo-99ce_7_frog-3_243	7	Smo-99ce_4_swamps-16_3808	4	3	Smoky jungle frog	swamp	25.0
+location	Fro-2392_365_frogs-6	Fro-2392_362_pools-5	Fro-2392_365_frogs-6_841	365	Fro-2392_362_pools-5_1381	362	3	True frogs	Temporary pools	25.0
+location	Poi-d65f_24_frog-3	Poi-d65f_26_rainforests-8	Poi-d65f_24_frog-3_5364	24	Poi-d65f_26_rainforests-8_3811	26	2	poison dart frogs	rainforest	22.0
+location	Poi-d65f_120_frogs-6	Poi-d65f_122_rainforest-8	Poi-d65f_120_frogs-6_5364	120	Poi-d65f_122_rainforest-8_3811	122	2	poison dart frogs	rainforest	22.0
+location	Sal-7dcf_20_keyserlingii-2	Sal-7dcf_23_taiga-22	Sal-7dcf_20_keyserlingii-2_233	20	Sal-7dcf_23_taiga-22_4534	23	3	Salamandrella keyserlingii	taiga	21.75
+location	Sal-7dcf_20_keyserlingii-2	Sal-7dcf_23_tundra-28	Sal-7dcf_20_keyserlingii-2_233	20	Sal-7dcf_23_tundra-28_4539	23	3	Salamandrella keyserlingii	tundra	21.75
+location	Poi32a6_9_frog-4	Poi32a6_6_rainforests-17	Poi32a6_9_frog-4_3119	9	Poi32a6_6_rainforests-17_3811	6	3	Poison frogs	rainforest	20.75
+location	Tri-5b33_209_newts-10	Tri-5b33_206_farmland-72	Tri-5b33_209_newts-10_5047	209	Tri-5b33_206_farmland-72_4509	206	3	northern crested newt	farmland	20.75
+location	Tri-5b33_209_newt-45	Tri-5b33_206_farmland-72	Tri-5b33_209_newt-45_5047	209	Tri-5b33_206_farmland-72_4509	206	3	northern crested newt	farmland	20.75
+location	Tri-5b33_209_newt-36	Tri-5b33_206_farmland-72	Tri-5b33_209_newt-36_5047	209	Tri-5b33_206_farmland-72_4509	206	3	northern crested newt	farmland	20.75
+location	Paneebe_2_frog-6	Paneebe_5_rainforests-7	Paneebe_2_frog-6_5294	2	Paneebe_5_rainforests-7_3811	5	3	golden frog	rainforest	20.75
+location	Smo-99ce_18_frog-3	Smo-99ce_22_rainforest-6	Smo-99ce_18_frog-3_243	18	Smo-99ce_22_rainforest-6_3811	22	4	Smoky jungle frog	rainforest	20.0
+location	Com-43a2_164_toad-11	Com-43a2_168_wetlands-15	Com-43a2_164_toad-11_3843	164	Com-43a2_168_wetlands-15_4542	168	4	common toad	wetlands	20.0
+location	Pan-2813_26_frog-3	Pan-2813_22_mountain-22	Pan-2813_26_frog-3_2971	26	Pan-2813_22_mountain-22_4527	22	4	Panamanian golden frog	mountains	20.0
+location	Fro-2392_280_bullfrog-6	Fro-2392_282_marsh-19	Fro-2392_280_bullfrog-6_245	280	Fro-2392_282_marsh-19_3807	282	2	Central American bullfrog	marsh	18.0
+location	Pan-2813_17_frogs-3	Pan-2813_22_mountain-22	Pan-2813_17_frogs-3_2971	17	Pan-2813_22_mountain-22_4527	22	5	Panamanian golden frog	mountains	16.667
+location	Com-43a2_163_toad-2	Com-43a2_168_wetlands-15	Com-43a2_163_toad-2_108	163	Com-43a2_168_wetlands-15_4542	168	5	Common toad	wetlands	16.667
+location	Pan-2813_27_frog-7	Pan-2813_22_mountain-22	Pan-2813_27_frog-7_2971	27	Pan-2813_22_mountain-22_4527	22	5	Panamanian golden frog	mountains	16.667
+location	Pan-2813_101_frogs-11	Pan-2813_96_mountain-10	Pan-2813_101_frogs-11_2971	101	Pan-2813_96_mountain-10_4527	96	5	Panamanian golden frog	mountains	16.667
+location	Pan-2813_101_frogs-36	Pan-2813_96_mountain-10	Pan-2813_101_frogs-36_2971	101	Pan-2813_96_mountain-10_4527	96	5	Panamanian golden frog	mountains	16.667
+location	Poi32a6_1_frogs-9	Poi32a6_6_rainforests-17	Poi32a6_1_frogs-9_3115	1	Poi32a6_6_rainforests-17_3811	6	5	Poison dart frogs	rainforest	16.667
+location	Poi-d65f_126_frogs-2	Poi-d65f_122_rainforest-8	Poi-d65f_126_frogs-2_5366	126	Poi-d65f_122_rainforest-8_3811	122	4	poison frogs	rainforest	16.6
+location	Par5cb2_24_newts-19	Par5cb2_21_parklands-23	Par5cb2_24_newts-19_5046	24	Par5cb2_21_parklands-23_4529	21	3	great crested newt	parkland	16.5
+location	Smo-99ce_1_frog-3	Smo-99ce_4_swamps-16	Smo-99ce_1_frog-3_3903	1	Smo-99ce_4_swamps-16_3808	4	3	smoky jungle frog	swamp	16.5
+location	Poi-d65f_119_frog-3	Poi-d65f_122_rainforest-8	Poi-d65f_119_frog-3_3115	119	Poi-d65f_122_rainforest-8_3811	122	3	Poison dart frogs	rainforest	16.5
+location	Amp-436a_353_salamanders-16	Amp-436a_349_pools-11	Amp-436a_353_salamanders-16_787	353	Amp-436a_349_pools-11_4541	349	4	True salamanders and newts	temporary pools	15.0
+location	Com-43a2_174_toad-22	Com-43a2_168_wetlands-15	Com-43a2_174_toad-22_3843	174	Com-43a2_168_wetlands-15_4542	168	6	common toad	wetlands	14.286
+location	Com-43a2_174_toad-3	Com-43a2_168_wetlands-15	Com-43a2_174_toad-3_3843	174	Com-43a2_168_wetlands-15_4542	168	6	common toad	wetlands	14.286
+location	Tai-3286_116_salamander-26	Tai-3286_110_Taiga-1	Tai-3286_116_salamander-26_232	116	Tai-3286_110_Taiga-1_1373	110	6	Siberian salamander	Taiga	14.286
+location	Smo8f05_3_frogs-3	Smo8f05_9_swamps-16	Smo8f05_3_frogs-3_243	3	Smo8f05_9_swamps-16_3808	9	6	Smoky jungle frog	swamp	14.286
+location	Tai-3286_116_salamander-35	Tai-3286_110_Taiga-1	Tai-3286_116_salamander-35_232	116	Tai-3286_110_Taiga-1_1373	110	6	Siberian salamander	Taiga	14.286
+location	Tai-3286_116_salamander-32	Tai-3286_110_Taiga-1	Tai-3286_116_salamander-32_232	116	Tai-3286_110_Taiga-1_1373	110	6	Siberian salamander	Taiga	14.286
+location	Par5cb2_24_newts-19	Par5cb2_20_Parklands-1	Par5cb2_24_newts-19_5046	24	Par5cb2_20_Parklands-1_1368	20	4	great crested newt	Parkland	13.2
+location	Com-f597_25_toad-13	Com-f597_32_marshes-19	Com-f597_25_toad-13_108	25	Com-f597_32_marshes-19_3807	32	7	Common toad	marsh	12.5
+location	Sal-7dcf_29_keyserlingii-2	Sal-7dcf_23_taiga-22	Sal-7dcf_29_keyserlingii-2_233	29	Sal-7dcf_23_taiga-22_4534	23	6	Salamandrella keyserlingii	taiga	12.429
+location	Sal-7dcf_29_keyserlingii-2	Sal-7dcf_23_tundra-28	Sal-7dcf_29_keyserlingii-2_233	29	Sal-7dcf_23_tundra-28_4539	23	6	Salamandrella keyserlingii	tundra	12.429
+location	Com-43a2_160_toad-2	Com-43a2_168_wetlands-15	Com-43a2_160_toad-2_3843	160	Com-43a2_168_wetlands-15_4542	168	8	common toad	wetlands	11.111
+location	Com-43a2_176_toad-10	Com-43a2_168_wetlands-15	Com-43a2_176_toad-10_108	176	Com-43a2_168_wetlands-15_4542	168	8	Common toad	wetlands	11.111
+location	Smo-99ce_27_frog-3	Smo-99ce_22_rainforest-6	Smo-99ce_27_frog-3_3903	27	Smo-99ce_22_rainforest-6_3811	22	5	smoky jungle frog	rainforest	11.0
+location	Poi-d65f_31_frog-3	Poi-d65f_26_rainforests-8	Poi-d65f_31_frog-3_3115	31	Poi-d65f_26_rainforests-8_3811	26	5	Poison dart frogs	rainforest	11.0
+location	Sal-7dcf_30_keyserlingii-2	Sal-7dcf_23_taiga-22	Sal-7dcf_30_keyserlingii-2_233	30	Sal-7dcf_23_taiga-22_4534	23	7	Salamandrella keyserlingii	taiga	10.875
+location	Poi-d65f_33_Dendrobatidae-3	Poi-d65f_26_rainforests-8	Poi-d65f_33_Dendrobatidae-3_3116	33	Poi-d65f_26_rainforests-8_3811	26	7	Dendrobatidae	rainforest	10.875
+location	Sal-7dcf_30_keyserlingii-2	Sal-7dcf_23_tundra-28	Sal-7dcf_30_keyserlingii-2_233	30	Sal-7dcf_23_tundra-28_4539	23	7	Salamandrella keyserlingii	tundra	10.875
+location	Com-43a2_159_frogs-12	Com-43a2_168_wetlands-15	Com-43a2_159_frogs-12_92	159	Com-43a2_168_wetlands-15_4542	168	9	Common frog	wetlands	10.0
+location	Com-43a2_159_frogs-15	Com-43a2_168_wetlands-15	Com-43a2_159_frogs-15_92	159	Com-43a2_168_wetlands-15_4542	168	9	Common frog	wetlands	10.0
+location	Poi32a6_14_frog-7	Poi32a6_6_rainforests-17	Poi32a6_14_frog-7_3119	14	Poi32a6_6_rainforests-17_3811	6	8	Poison frogs	rainforest	9.222
+location	Com-43a2_63_temporaria-6	Com-43a2_72_mountain-23	Com-43a2_63_temporaria-6_93	63	Com-43a2_72_mountain-23_4527	72	9	Rana temporaria	mountains	8.7
+location	Fro-2392_551_toad-4	Fro-2392_562_deserts-25	Fro-2392_551_toad-4_108	551	Fro-2392_562_deserts-25_3805	562	11	Common toad	desert	8.333
+location	Amp-436a_57_frog-18	Amp-436a_68_swamps-19	Amp-436a_57_frog-18_4207	57	Amp-436a_68_swamps-19_3808	68	11	true frogs	swamp	8.333
+location	Poi32a6_13_frogs-23	Poi32a6_6_rainforests-17	Poi32a6_13_frogs-23_3115	13	Poi32a6_6_rainforests-17_3811	6	7	Poison dart frogs	rainforest	8.25
+location	Fro-2392_365_frogs-6	Fro-2392_353_pools-22	Fro-2392_365_frogs-6_841	365	Fro-2392_353_pools-22_4541	353	12	True frogs	temporary pools	7.692
+location	Fro-2392_365_frog-17	Fro-2392_353_pools-22	Fro-2392_365_frog-17_841	365	Fro-2392_353_pools-22_4541	353	12	True frogs	temporary pools	7.692
+location	Cha-dc7d_2_frog-11	Cha-dc7d_15_swamps-10	Cha-dc7d_2_frog-11_4207	2	Cha-dc7d_15_swamps-10_3808	15	13	true frogs	swamp	7.143
+location	Cha-dc7d_2_frog-19	Cha-dc7d_15_swamps-10	Cha-dc7d_2_frog-19_4207	2	Cha-dc7d_15_swamps-10_3808	15	13	true frogs	swamp	7.143
+location	Fro-2392_551_toad-4	Fro-2392_564_deserts-9	Fro-2392_551_toad-4_3843	551	Fro-2392_564_deserts-9_34	564	13	common toad	Desert	7.143
+location	Sal-7dcf_9_salamanders-6	Sal-7dcf_23_tundra-28	Sal-7dcf_9_salamanders-6_232	9	Sal-7dcf_23_tundra-28_4539	23	14	Siberian salamander	tundra	6.667
+location	Tri-5b33_95_frog-23	Tri-5b33_81_hedgerows-14	Tri-5b33_95_frog-23_3834	95	Tri-5b33_81_hedgerows-14_4519	81	14	common frog	hedgerows	6.667
+location	Bot-5a32_89_Leptodactylus-50	Bot-5a32_74_rivers-7	Bot-5a32_89_Leptodactylus-50_1105	89	Bot-5a32_74_rivers-7_4533	74	15	Leptodactylus	rivers and streams	6.25
+location	Sal-7dcf_10_keyserlingii-2	Sal-7dcf_23_taiga-22	Sal-7dcf_10_keyserlingii-2_233	10	Sal-7dcf_23_taiga-22_4534	23	13	Salamandrella keyserlingii	taiga	6.214
+location	Sal-7dcf_36_keyserlingii-2	Sal-7dcf_23_tundra-28	Sal-7dcf_36_keyserlingii-2_233	36	Sal-7dcf_23_tundra-28_4539	23	13	Salamandrella keyserlingii	tundra	6.214
+location	Sal-7dcf_10_keyserlingii-2	Sal-7dcf_23_tundra-28	Sal-7dcf_10_keyserlingii-2_233	10	Sal-7dcf_23_tundra-28_4539	23	13	Salamandrella keyserlingii	tundra	6.214
+location	Sal-7dcf_36_keyserlingii-2	Sal-7dcf_23_taiga-22	Sal-7dcf_36_keyserlingii-2_233	36	Sal-7dcf_23_taiga-22_4534	23	13	Salamandrella keyserlingii	taiga	6.214
+location	Fro8fc3_21_frog-4	Fro8fc3_13_farmland-18	Fro8fc3_21_frog-4_96	21	Fro8fc3_13_farmland-18_4509	13	8	European common frog	farmland	6.0
+location	Nor-d13e_183_bullfrogs-33	Nor-d13e_175_swamp-13	Nor-d13e_183_bullfrogs-33_245	183	Nor-d13e_175_swamp-13_3808	175	8	Central American bullfrog	swamp	6.0
+location	Sal-7dcf_39_salamander-7	Sal-7dcf_23_tundra-28	Sal-7dcf_39_salamander-7_232	39	Sal-7dcf_23_tundra-28_4539	23	16	Siberian salamander	tundra	5.882
+location	Poi-d65f_108_Dendrobatidae-6	Poi-d65f_122_rainforest-8	Poi-d65f_108_Dendrobatidae-6_3116	108	Poi-d65f_122_rainforest-8_3811	122	14	Dendrobatidae	rainforest	5.8
+location	Com-43a2_63_frog-3	Com-43a2_72_mountain-23	Com-43a2_63_frog-3_96	63	Com-43a2_72_mountain-23_4527	72	9	European common frog	mountains	5.4
+location	Fro-2392_417_frog-4	Fro-2392_399_pool-32	Fro-2392_417_frog-4_3903	417	Fro-2392_399_pool-32_1381	399	18	smoky jungle frog	Temporary pools	5.263
+location	Fro-2392_417_Leptodactylus-6	Fro-2392_399_pool-19	Fro-2392_417_Leptodactylus-6_1105	417	Fro-2392_399_pool-19_4541	399	18	Leptodactylus	temporary pools	5.263
+location	Fro-2392_417_frog-4	Fro-2392_399_pool-19	Fro-2392_417_frog-4_3903	417	Fro-2392_399_pool-19_4541	399	18	smoky jungle frog	temporary pools	5.263
+location	Fro-2392_417_Leptodactylus-6	Fro-2392_399_pool-32	Fro-2392_417_Leptodactylus-6_1105	417	Fro-2392_399_pool-32_1381	399	18	Leptodactylus	Temporary pools	5.263
+location	Poi-d65f_138_Dendrobatidae-4	Poi-d65f_122_rainforest-8	Poi-d65f_138_Dendrobatidae-4_3116	138	Poi-d65f_122_rainforest-8_3811	122	16	Dendrobatidae	rainforest	5.118
+location	Poi-d65f_106_Dendrobatidae-9	Poi-d65f_122_rainforest-8	Poi-d65f_106_Dendrobatidae-9_3116	106	Poi-d65f_122_rainforest-8_3811	122	16	Dendrobatidae	rainforest	5.118
+location	Fro-2392_292_bullfrog-7	Fro-2392_282_marsh-19	Fro-2392_292_bullfrog-7_245	292	Fro-2392_282_marsh-19_3807	282	10	Central American bullfrog	marsh	4.909
+location	Mar-495f_2_ridibundus-6	Mar-495f_19_marsh-9	Mar-495f_2_ridibundus-6_175	2	Mar-495f_19_marsh-9_3807	19	17	Pelophylax ridibundus	marsh	4.833
+location	Tai-3286_116_salamander-35	Tai-3286_136_Taiga-1	Tai-3286_116_salamander-35_232	116	Tai-3286_136_Taiga-1_1373	136	20	Siberian salamander	Taiga	4.762
+location	Tai-3286_116_salamander-32	Tai-3286_136_Taiga-1	Tai-3286_116_salamander-32_232	116	Tai-3286_136_Taiga-1_1373	136	20	Siberian salamander	Taiga	4.762
+location	Tai-3286_116_salamander-26	Tai-3286_136_Taiga-1	Tai-3286_116_salamander-26_232	116	Tai-3286_136_Taiga-1_1373	136	20	Siberian salamander	Taiga	4.762
+location	Bot-5a32_89_Leptodactylus-50	Bot-5a32_69_rainforest-5	Bot-5a32_89_Leptodactylus-50_1105	89	Bot-5a32_69_rainforest-5_3811	69	20	Leptodactylus	rainforest	4.762
+location	Smo-99ce_2_Leptodactylus-6	Smo-99ce_22_rainforest-6	Smo-99ce_2_Leptodactylus-6_1105	2	Smo-99ce_22_rainforest-6_3811	22	20	Leptodactylus	rainforest	4.762
+location	Spa-e46a_477_salamanders-2	Spa-e46a_461_lakes-9	Spa-e46a_477_salamanders-2_4185	477	Spa-e46a_461_lakes-9_4522	461	16	true salamanders and newts	lakes and ponds	4.412
+location	Sal-7dcf_4_keyserlingii-2	Sal-7dcf_23_taiga-22	Sal-7dcf_4_keyserlingii-2_233	4	Sal-7dcf_23_taiga-22_4534	23	19	Salamandrella keyserlingii	taiga	4.35
+location	Sal-7dcf_4_keyserlingii-2	Sal-7dcf_23_tundra-28	Sal-7dcf_4_keyserlingii-2_233	4	Sal-7dcf_23_tundra-28_4539	23	19	Salamandrella keyserlingii	tundra	4.35
+location	Fro-2392_365_frog-17	Fro-2392_343_pools-13	Fro-2392_365_frog-17_4207	365	Fro-2392_343_pools-13_4541	343	22	true frogs	temporary pools	4.348
+location	Fro-2392_365_frogs-6	Fro-2392_343_pools-13	Fro-2392_365_frogs-6_841	365	Fro-2392_343_pools-13_1381	343	22	True frogs	Temporary pools	4.348
+location	Com-f597_9_toad-9	Com-f597_32_marshes-19	Com-f597_9_toad-9_108	9	Com-f597_32_marshes-19_3807	32	23	Common toad	marsh	4.167
+location	Com-f597_9_toads-36	Com-f597_32_marshes-19	Com-f597_9_toads-36_3843	9	Com-f597_32_marshes-19_3807	32	23	common toad	marsh	4.167
+location	Com-43a2_159_frogs-15	Com-43a2_172_mountain-8	Com-43a2_159_frogs-15_96	159	Com-43a2_172_mountain-8_4527	172	13	European common frog	mountains	3.857
+location	Com-43a2_159_frogs-12	Com-43a2_172_mountain-8	Com-43a2_159_frogs-12_96	159	Com-43a2_172_mountain-8_4527	172	13	European common frog	mountains	3.857
+location	Sal-7dcf_1_keyserlingii-2	Sal-7dcf_23_tundra-28	Sal-7dcf_1_keyserlingii-2_233	1	Sal-7dcf_23_tundra-28_4539	23	22	Salamandrella keyserlingii	tundra	3.783
+location	Sal-7dcf_1_keyserlingii-2	Sal-7dcf_23_taiga-22	Sal-7dcf_1_keyserlingii-2_233	1	Sal-7dcf_23_taiga-22_4534	23	22	Salamandrella keyserlingii	taiga	3.783
+location	Smo-99ce_48_Leptodactylus-1	Smo-99ce_22_rainforest-6	Smo-99ce_48_Leptodactylus-1_1105	48	Smo-99ce_22_rainforest-6_3811	22	26	Leptodactylus	rainforest	3.704
+location	Amp-436a_57_frog-18	Amp-436a_85_swamps-2	Amp-436a_57_frog-18_4207	57	Amp-436a_85_swamps-2_3808	85	28	true frogs	swamp	3.448
+location	Com-f597_2_frog-23	Com-f597_32_marshes-19	Com-f597_2_frog-23_4207	2	Com-f597_32_marshes-19_3807	32	30	true frogs	marsh	3.226
+location	Fro-2392_34_frog-25	Fro-2392_4_rainforest-24	Fro-2392_34_frog-25_2971	34	Fro-2392_4_rainforest-24_3811	4	30	Panamanian golden frog	rainforest	3.226
+location	Com-f597_2_frog-3	Com-f597_32_marshes-19	Com-f597_2_frog-3_841	2	Com-f597_32_marshes-19_3807	32	30	True frogs	marsh	3.226
+location	Com-f597_2_frog-27	Com-f597_32_marshes-19	Com-f597_2_frog-27_4207	2	Com-f597_32_marshes-19_3807	32	30	true frogs	marsh	3.226
+location	Com-f597_2_frog-18	Com-f597_32_marshes-19	Com-f597_2_frog-18_4207	2	Com-f597_32_marshes-19_3807	32	30	true frogs	marsh	3.226
+location	Com-f597_2_frog-40	Com-f597_32_marshes-19	Com-f597_2_frog-40_4207	2	Com-f597_32_marshes-19_3807	32	30	true frogs	marsh	3.226
+location	Com-f597_2_frog-6	Com-f597_32_marshes-19	Com-f597_2_frog-6_4207	2	Com-f597_32_marshes-19_3807	32	30	true frogs	marsh	3.226
+location	Com-f597_2_frog-32	Com-f597_32_marshes-19	Com-f597_2_frog-32_841	2	Com-f597_32_marshes-19_3807	32	30	True frogs	marsh	3.226
+location	Com-f597_2_Ranidae-49	Com-f597_32_marshes-19	Com-f597_2_Ranidae-49_840	2	Com-f597_32_marshes-19_3807	32	30	Ranidae	marsh	3.226
+location	Bot-5a32_89_Leptodactylus-50	Bot-5a32_69_rivers-30	Bot-5a32_89_Leptodactylus-50_1105	89	Bot-5a32_69_rivers-30_4533	69	20	Leptodactylus	rivers and streams	3.143
+location	Poi-d65f_95_Dendrobatidae-8	Poi-d65f_122_rainforest-8	Poi-d65f_95_Dendrobatidae-8_3116	95	Poi-d65f_122_rainforest-8_3811	122	27	Dendrobatidae	rainforest	3.107
+location	Fro-2392_473_Leptodactylus-1	Fro-2392_506_pool-16	Fro-2392_473_Leptodactylus-1_1105	473	Fro-2392_506_pool-16_1381	506	33	Leptodactylus	Temporary pools	2.941
+location	Dar-9686_2_darwinii-6	Dar-9686_31_bogs-27	Dar-9686_2_darwinii-6_2024	2	Dar-9686_31_bogs-27_4511	31	29	Rhinoderma darwinii	bog	2.9
+location	Fro-2392_365_frogs-6	Fro-2392_399_pool-32	Fro-2392_365_frogs-6_4207	365	Fro-2392_399_pool-32_4541	399	34	true frogs	temporary pools	2.857
+location	Fro-2392_365_frogs-6	Fro-2392_399_pool-19	Fro-2392_365_frogs-6_841	365	Fro-2392_399_pool-19_4541	399	34	True frogs	temporary pools	2.857
+location	Fro-2392_365_frog-17	Fro-2392_399_pool-32	Fro-2392_365_frog-17_4207	365	Fro-2392_399_pool-32_1381	399	34	true frogs	Temporary pools	2.857
+location	Fro-2392_365_frog-17	Fro-2392_399_pool-19	Fro-2392_365_frog-17_4207	365	Fro-2392_399_pool-19_4541	399	34	true frogs	temporary pools	2.857
+location	Poi-d65f_92_Dendrobatidae-4	Poi-d65f_122_rainforest-8	Poi-d65f_92_Dendrobatidae-4_3116	92	Poi-d65f_122_rainforest-8_3811	122	30	Dendrobatidae	rainforest	2.806
+location	Com-43a2_133_frog-12	Com-43a2_168_wetlands-15	Com-43a2_133_frog-12_3834	133	Com-43a2_168_wetlands-15_4542	168	35	common frog	wetlands	2.778
+location	Par5cb2_24_newts-19	Par5cb2_1_parklands-2	Par5cb2_24_newts-19_5046	24	Par5cb2_1_parklands-2_4529	1	23	great crested newt	parkland	2.75
+location	Nor-4c81_86_frog-33	Nor-4c81_50_hedgerows-14	Nor-4c81_86_frog-33_92	86	Nor-4c81_50_hedgerows-14_4519	50	36	Common frog	hedgerows	2.703
+location	Poi-d65f_154_Dendrobatidae-12	Poi-d65f_122_rainforest-8	Poi-d65f_154_Dendrobatidae-12_3116	154	Poi-d65f_122_rainforest-8_3811	122	32	Dendrobatidae	rainforest	2.636
+location	Fro-2392_486_bullfrog-21	Fro-2392_506_pool-16	Fro-2392_486_bullfrog-21_245	486	Fro-2392_506_pool-16_4541	506	20	Central American bullfrog	temporary pools	2.571
+location	Poi-d65f_156_Dendrobatidae-1	Poi-d65f_122_rainforest-8	Poi-d65f_156_Dendrobatidae-1_3116	156	Poi-d65f_122_rainforest-8_3811	122	34	Dendrobatidae	rainforest	2.486
+location	Poi-d65f_59_frogs-6	Poi-d65f_26_rainforests-8	Poi-d65f_59_frogs-6_5294	59	Poi-d65f_26_rainforests-8_3811	26	33	golden frog	rainforest	2.441
+location	Poi-d65f_59_frog-11	Poi-d65f_26_rainforests-8	Poi-d65f_59_frog-11_5294	59	Poi-d65f_26_rainforests-8_3811	26	33	golden frog	rainforest	2.441
+location	Tai-3286_116_salamander-35	Tai-3286_75_grassland-20	Tai-3286_116_salamander-35_232	116	Tai-3286_75_grassland-20_4537	75	41	Siberian salamander	temperate grassland	2.381
+location	Fro-2392_417_Leptodactylus-6	Fro-2392_376_rainforest-6	Fro-2392_417_Leptodactylus-6_1105	417	Fro-2392_376_rainforest-6_3811	376	41	Leptodactylus	rainforest	2.381
+location	Tai-3286_116_salamander-32	Tai-3286_75_grassland-20	Tai-3286_116_salamander-32_232	116	Tai-3286_75_grassland-20_4537	75	41	Siberian salamander	temperate grassland	2.381
+location	Tai-3286_116_salamander-26	Tai-3286_75_grassland-20	Tai-3286_116_salamander-26_232	116	Tai-3286_75_grassland-20_4537	75	41	Siberian salamander	temperate grassland	2.381
+location	Fro-2392_240_toad-3	Fro-2392_282_marsh-19	Fro-2392_240_toad-3_108	240	Fro-2392_282_marsh-19_3807	282	42	Common toad	marsh	2.326
+location	Fro-2392_240_toad-44	Fro-2392_282_marsh-19	Fro-2392_240_toad-44_108	240	Fro-2392_282_marsh-19_3807	282	42	Common toad	marsh	2.326
+location	Nor-4c81_86_frog-33	Nor-4c81_43_Mountains-47	Nor-4c81_86_frog-33_92	86	Nor-4c81_43_Mountains-47_1366	43	43	Common frog	Mountains	2.273
+location	Com-43a2_63_temporaria-6	Com-43a2_25_mountain-18	Com-43a2_63_temporaria-6_93	63	Com-43a2_25_mountain-18_4527	25	38	Rana temporaria	mountains	2.231
+location	Smo-99ce_48_Leptodactylus-1	Smo-99ce_4_marshes-28	Smo-99ce_48_Leptodactylus-1_1105	48	Smo-99ce_4_marshes-28_3807	4	44	Leptodactylus	marsh	2.222
+location	Smo-99ce_48_Leptodactylus-1	Smo-99ce_4_swamps-16	Smo-99ce_48_Leptodactylus-1_1105	48	Smo-99ce_4_swamps-16_3808	4	44	Leptodactylus	swamp	2.222
+location	Smo-99ce_48_Leptodactylus-1	Smo-99ce_4_marshes-32	Smo-99ce_48_Leptodactylus-1_1105	48	Smo-99ce_4_marshes-32_3807	4	44	Leptodactylus	marsh	2.222
+location	Eur-0e00_132_frogs-10	Eur-0e00_171_Mountains-9	Eur-0e00_132_frogs-10_3836	132	Eur-0e00_171_Mountains-9_1366	171	39	grass frog	Mountains	2.075
+location	Fro-2392_508_toad-5	Fro-2392_562_deserts-25	Fro-2392_508_toad-5_3843	508	Fro-2392_562_deserts-25_3805	562	54	common toad	desert	1.818
+location	Fro-2392_417_frog-4	Fro-2392_362_pools-5	Fro-2392_417_frog-4_3903	417	Fro-2392_362_pools-5_1381	362	55	smoky jungle frog	Temporary pools	1.786
+location	Fro-2392_417_Leptodactylus-6	Fro-2392_362_pools-5	Fro-2392_417_Leptodactylus-6_1105	417	Fro-2392_362_pools-5_4541	362	55	Leptodactylus	temporary pools	1.786
+location	Fro-2392_508_toad-5	Fro-2392_564_deserts-9	Fro-2392_508_toad-5_108	508	Fro-2392_564_deserts-9_34	564	56	Common toad	Desert	1.754
+location	Tri-5b33_95_frog-23	Tri-5b33_152_Mountains-33	Tri-5b33_95_frog-23_92	95	Tri-5b33_152_Mountains-33_1366	152	57	Common frog	Mountains	1.724
+location	Gra-2e39_21_toad-11	Gra-2e39_80_marshes-16	Gra-2e39_21_toad-11_108	21	Gra-2e39_80_marshes-16_3807	80	59	Common toad	marsh	1.667
+location	Fro-2392_417_frog-4	Fro-2392_353_pools-22	Fro-2392_417_frog-4_3903	417	Fro-2392_353_pools-22_1381	353	64	smoky jungle frog	Temporary pools	1.538
+location	Fro-2392_417_Leptodactylus-6	Fro-2392_353_pools-22	Fro-2392_417_Leptodactylus-6_1105	417	Fro-2392_353_pools-22_1381	353	64	Leptodactylus	Temporary pools	1.538
+location	Com-f222_407_temporaria-40	Com-f222_346_mountain-3	Com-f222_407_temporaria-40_93	407	Com-f222_346_mountain-3_4527	346	61	Rana temporaria	mountains	1.403
+location	Com-43a2_63_frog-3	Com-43a2_25_mountain-18	Com-43a2_63_frog-3_96	63	Com-43a2_25_mountain-18_4527	25	38	European common frog	mountains	1.385
+location	Eur-0e00_132_frogs-10	Eur-0e00_73_mountain-28	Eur-0e00_132_frogs-10_3836	132	Eur-0e00_73_mountain-28_4527	73	59	grass frog	mountains	1.383
+adaptation	Com-43a2_228_toad-18	Com-43a2_228_hibernation-20	Com-43a2_228_toad-18_3843	228	Com-43a2_228_hibernation-20_3959	228	0	common toad	hibernation	100.0
+adaptation	Nor-4c81_97_newts-3	Nor-4c81_97_display-17	Nor-4c81_97_newts-3_2436	97	Nor-4c81_97_display-17_3951	97	0	Northern crested newt	courtship display	83.0
+adaptation	Poi-d65f_194_frogs-3	Poi-d65f_194_Poisonous-4	Poi-d65f_194_frogs-3_3119	194	Poi-d65f_194_Poisonous-4_355	194	0	Poison frogs	Poisonous	83.0
+adaptation	Sal5bb9_2_salamanders-12	Sal5bb9_2_poisonous-25	Sal5bb9_2_salamanders-12_4185	2	Sal5bb9_2_poisonous-25_3973	2	0	true salamanders and newts	poisonous	75.0
+adaptation	Sal-5617_71_salamander-28	Sal-5617_71_dwellers-22	Sal-5617_71_salamander-28_3497	71	Sal-5617_71_dwellers-22_3987	71	0	Texas blind salamander	cave dweller	66.0
+adaptation	Wes-8d71_350_bullfrog-32	Wes-8d71_350_predators-4	Wes-8d71_350_bullfrog-32_245	350	Wes-8d71_350_predators-4_3977	350	0	Central American bullfrog	predator	54.0
+adaptation	Com-f597_38_frogs-2	Com-f597_39_hibernation-19	Com-f597_38_frogs-2_3834	38	Com-f597_39_hibernation-19_338	39	1	common frog	Hibernation	50.0
+adaptation	Com-43a2_11_toad-3	Com-43a2_12_migrations-29	Com-43a2_11_toad-3_3843	11	Com-43a2_12_migrations-29_3781	12	1	common toad	migration	50.0
+adaptation	Com-f597_40_frogs-2	Com-f597_39_hibernation-19	Com-f597_40_frogs-2_92	40	Com-f597_39_hibernation-19_338	39	1	Common frog	Hibernation	50.0
+adaptation	Smo-99ce_23_frog-3	Smo-99ce_24_nocturnal-2	Smo-99ce_23_frog-3_243	23	Smo-99ce_24_nocturnal-2_3967	24	1	Smoky jungle frog	nocturnal	50.0
+adaptation	Comb3de_3_frog-3	Comb3de_4_Metamorphosis-20	Comb3de_3_frog-3_92	3	Comb3de_4_Metamorphosis-20_343	4	1	Common frog	Metamorphosis	50.0
+adaptation	Com-f597_68_frog-2	Com-f597_69_metamorphosis-2	Com-f597_68_frog-2_92	68	Com-f597_69_metamorphosis-2_3962	69	1	Common frog	metamorphosis	50.0
+adaptation	Com-43a2_229_toad-2	Com-43a2_228_hibernation-20	Com-43a2_229_toad-2_108	229	Com-43a2_228_hibernation-20_338	228	1	Common toad	Hibernation	50.0
+adaptation	Smo8f05_7_frogs-8	Smo8f05_8_predators-17	Smo8f05_7_frogs-8_3903	7	Smo8f05_8_predators-17_3977	8	1	smoky jungle frog	predator	50.0
+adaptation	Poi32a6_1_frogs-9	Poi32a6_2_poisonous-9	Poi32a6_1_frogs-9_3115	1	Poi32a6_2_poisonous-9_3973	2	1	Poison dart frogs	poisonous	50.0
+adaptation	Com-43a2_110_toad-2	Com-43a2_112_migration-14	Com-43a2_110_toad-2_108	110	Com-43a2_112_migration-14_3781	112	2	Common toad	migration	33.333
+adaptation	Com-43a2_190_toad-2	Com-43a2_188_migration-9	Com-43a2_190_toad-2_108	190	Com-43a2_188_migration-9_3781	188	2	Common toad	migration	33.333
+adaptation	Com-43a2_110_toad-2	Com-43a2_112_hibernation-6	Com-43a2_110_toad-2_3843	110	Com-43a2_112_hibernation-6_338	112	2	common toad	Hibernation	33.333
+adaptation	Com-43a2_230_toad-2	Com-43a2_228_hibernation-20	Com-43a2_230_toad-2_3843	230	Com-43a2_228_hibernation-20_338	228	2	common toad	Hibernation	33.333
+adaptation	Com-f597_67_frog-2	Com-f597_69_metamorphosis-2	Com-f597_67_frog-2_92	67	Com-f597_69_metamorphosis-2_3962	69	2	Common frog	metamorphosis	33.333
+adaptation	Com-f597_117_frog-2	Com-f597_119_metamorphosis-18	Com-f597_117_frog-2_92	117	Com-f597_119_metamorphosis-18_3962	119	2	Common frog	metamorphosis	33.333
+adaptation	Com-f597_41_frog-6	Com-f597_39_hibernation-19	Com-f597_41_frog-6_92	41	Com-f597_39_hibernation-19_3959	39	2	Common frog	hibernation	33.333
+adaptation	Com-43a2_11_toad-3	Com-43a2_9_metamorphosis-14	Com-43a2_11_toad-3_108	11	Com-43a2_9_metamorphosis-14_3962	9	2	Common toad	metamorphosis	33.333
+adaptation	Com-43a2_14_toad-2	Com-43a2_12_migrations-29	Com-43a2_14_toad-2_108	14	Com-43a2_12_migrations-29_1	12	2	Common toad	Migration	33.333
+adaptation	Poi32a6_18_frog-7	Poi32a6_16_poisonous-5	Poi32a6_18_frog-7_5364	18	Poi32a6_16_poisonous-5_3973	16	2	poison dart frogs	poisonous	33.333
+adaptation	Jap-6cb7_40_salamander-4	Jap-6cb7_42_nocturnal-8	Jap-6cb7_40_salamander-4_2614	40	Jap-6cb7_42_nocturnal-8_3967	42	2	Japanese giant salamander	nocturnal	33.333
+adaptation	Poi32a6_14_frog-7	Poi32a6_16_poisonous-5	Poi32a6_14_frog-7_5364	14	Poi32a6_16_poisonous-5_3973	16	2	poison dart frogs	poisonous	33.333
+adaptation	Jap-6cb7_12_salamander-28	Jap-6cb7_13_camouflage-11	Jap-6cb7_12_salamander-28_1869	12	Jap-6cb7_13_camouflage-11_3947	13	1	Chinese giant salamander	camouflage	33.0
+adaptation	Jap-6cb7_12_salamander-23	Jap-6cb7_13_camouflage-11	Jap-6cb7_12_salamander-23_1869	12	Jap-6cb7_13_camouflage-11_3947	13	1	Chinese giant salamander	camouflage	33.0
+adaptation	Poi-d65f_195_frog-3	Poi-d65f_194_Poisonous-4	Poi-d65f_195_frog-3_5364	195	Poi-d65f_194_Poisonous-4_355	194	1	poison dart frogs	Poisonous	33.0
+adaptation	Apo-f97b_38_Dendrobatidae-15	Apo-f97b_36_poisonous-16	Apo-f97b_38_Dendrobatidae-15_3116	38	Apo-f97b_36_poisonous-16_3973	36	2	Dendrobatidae	poisonous	29.0
+adaptation	Poi32a6_4_frog-8	Poi32a6_2_poisonous-9	Poi32a6_4_frog-8_5294	4	Poi32a6_2_poisonous-9_3973	2	2	golden frog	poisonous	27.667
+adaptation	Tri-5b33_142_newts-29	Tri-5b33_141_Metamorphosis-1	Tri-5b33_142_newts-29_5047	142	Tri-5b33_141_Metamorphosis-1_343	141	1	northern crested newt	Metamorphosis	27.0
+adaptation	Tri-5b33_142_newt-22	Tri-5b33_141_Metamorphosis-1	Tri-5b33_142_newt-22_5047	142	Tri-5b33_141_Metamorphosis-1_343	141	1	northern crested newt	Metamorphosis	27.0
+adaptation	Nor-4c81_84_newts-3	Nor-4c81_83_predators-3	Nor-4c81_84_newts-3_2436	84	Nor-4c81_83_predators-3_359	83	1	Northern crested newt	Predator	27.0
+adaptation	Wes-8d71_350_bullfrog-32	Wes-8d71_351_predators-3	Wes-8d71_350_bullfrog-32_245	350	Wes-8d71_351_predators-3_3977	351	1	Central American bullfrog	predator	27.0
+adaptation	Com-43a2_109_toad-10	Com-43a2_112_hibernation-6	Com-43a2_109_toad-10_3843	109	Com-43a2_112_hibernation-6_3959	112	3	common toad	hibernation	25.0
+adaptation	Com-43a2_179_toad-2	Com-43a2_182_migration-17	Com-43a2_179_toad-2_3843	179	Com-43a2_182_migration-17_3781	182	3	common toad	migration	25.0
+adaptation	Jap-6cb7_40_salamander-4	Jap-6cb7_43_metamorphosis-16	Jap-6cb7_40_salamander-4_2614	40	Jap-6cb7_43_metamorphosis-16_3962	43	3	Japanese giant salamander	metamorphosis	25.0
+adaptation	Chi-0753_29_salamander-7	Chi-0753_26_predators-15	Chi-0753_29_salamander-7_1869	29	Chi-0753_26_predators-15_359	26	3	Chinese giant salamander	Predator	25.0
+adaptation	Comb3de_1_frog-3	Comb3de_4_Metamorphosis-20	Comb3de_1_frog-3_3834	1	Comb3de_4_Metamorphosis-20_343	4	3	common frog	Metamorphosis	25.0
+adaptation	Smo-99ce_21_frog-3	Smo-99ce_24_nocturnal-2	Smo-99ce_21_frog-3_243	21	Smo-99ce_24_nocturnal-2_3967	24	3	Smoky jungle frog	nocturnal	25.0
+adaptation	Com-43a2_15_toad-3	Com-43a2_12_migrations-29	Com-43a2_15_toad-3_3843	15	Com-43a2_12_migrations-29_3781	12	3	common toad	migration	25.0
+adaptation	Poi32a6_19_frogs-8	Poi32a6_16_poisonous-5	Poi32a6_19_frogs-8_5364	19	Poi32a6_16_poisonous-5_3973	16	3	poison dart frogs	poisonous	25.0
+adaptation	Pal3b04_1_newts-2	Pal3b04_4_hibernation-5	Pal3b04_1_newts-2_2969	1	Pal3b04_4_hibernation-5_3959	4	3	Palmate newt	hibernation	25.0
+adaptation	Com-43a2_191_toad-14	Com-43a2_188_migration-9	Com-43a2_191_toad-14_3843	191	Com-43a2_188_migration-9_3781	188	3	common toad	migration	25.0
+adaptation	Com-43a2_109_toad-10	Com-43a2_112_migration-14	Com-43a2_109_toad-10_3843	109	Com-43a2_112_migration-14_3781	112	3	common toad	migration	25.0
+adaptation	Com-43a2_139_toad-3	Com-43a2_142_metamorphosis-4	Com-43a2_139_toad-3_3843	139	Com-43a2_142_metamorphosis-4_3962	142	3	common toad	metamorphosis	25.0
+adaptation	Jap-6cb7_40_salamander-4	Jap-6cb7_43_metamorphosis-26	Jap-6cb7_40_salamander-4_2614	40	Jap-6cb7_43_metamorphosis-26_3962	43	3	Japanese giant salamander	metamorphosis	25.0
+adaptation	Sal-5617_24_salamander-31	Sal-5617_26_metamorphosis-12	Sal-5617_24_salamander-31_1869	24	Sal-5617_26_metamorphosis-12_3962	26	2	Chinese giant salamander	metamorphosis	22.0
+adaptation	Jap-6cb7_45_salamander-7	Jap-6cb7_43_metamorphosis-16	Jap-6cb7_45_salamander-7_1869	45	Jap-6cb7_43_metamorphosis-16_3962	43	2	Chinese giant salamander	metamorphosis	22.0
+adaptation	Nor-4c81_81_newt-3	Nor-4c81_83_predators-3	Nor-4c81_81_newt-3_2434	81	Nor-4c81_83_predators-3_359	83	2	Great crested newt	Predator	22.0
+adaptation	Fro-2392_538_frogs-4	Fro-2392_540_poisonous-5	Fro-2392_538_frogs-4_3115	538	Fro-2392_540_poisonous-5_3973	540	2	Poison dart frogs	poisonous	22.0
+adaptation	Sal-5617_113_salamander-8	Sal-5617_111_predators-4	Sal-5617_113_salamander-8_1869	113	Sal-5617_111_predators-4_3977	111	2	Chinese giant salamander	predator	22.0
+adaptation	Jap-6cb7_45_salamander-7	Jap-6cb7_43_metamorphosis-26	Jap-6cb7_45_salamander-7_2614	45	Jap-6cb7_43_metamorphosis-26_3962	43	2	Japanese giant salamander	metamorphosis	22.0
+adaptation	Apo-f97b_38_frogs-11	Apo-f97b_36_poisonous-16	Apo-f97b_38_frogs-11_3115	38	Apo-f97b_36_poisonous-16_3973	36	2	Poison dart frogs	poisonous	22.0
+adaptation	Poi-d65f_196_frog-3	Poi-d65f_194_Poisonous-4	Poi-d65f_196_frog-3_3115	196	Poi-d65f_194_Poisonous-4_355	194	2	Poison dart frogs	Poisonous	22.0
+adaptation	Sal-5617_24_salamanders-8	Sal-5617_26_metamorphosis-12	Sal-5617_24_salamanders-8_1869	24	Sal-5617_26_metamorphosis-12_3962	26	2	Chinese giant salamander	metamorphosis	22.0
+adaptation	Poi-d65f_198_frogs-10	Poi-d65f_194_Poisonous-4	Poi-d65f_198_frogs-10_3115	198	Poi-d65f_194_Poisonous-4_355	194	4	Poison dart frogs	Poisonous	20.0
+adaptation	Poi-d65f_198_frog-28	Poi-d65f_194_Poisonous-4	Poi-d65f_198_frog-28_3115	198	Poi-d65f_194_Poisonous-4_355	194	4	Poison dart frogs	Poisonous	20.0
+adaptation	Amp-436a_126_salamander-17	Amp-436a_122_metamorphosis-12	Amp-436a_126_salamander-17_1869	126	Amp-436a_122_metamorphosis-12_3962	122	4	Chinese giant salamander	metamorphosis	20.0
+adaptation	Com-f597_43_frog-3	Com-f597_39_hibernation-19	Com-f597_43_frog-3_92	43	Com-f597_39_hibernation-19_338	39	4	Common frog	Hibernation	20.0
+adaptation	Com-f597_35_frogs-7	Com-f597_39_hibernation-19	Com-f597_35_frogs-7_3834	35	Com-f597_39_hibernation-19_3959	39	4	common frog	hibernation	20.0
+adaptation	Fro-2392_282_frog-20	Fro-2392_278_predator-13	Fro-2392_282_frog-20_3875	282	Fro-2392_278_predator-13_3977	278	4	marsh frog	predator	20.0
+adaptation	Amp-436a_165_salamander-9	Amp-436a_169_metamorphosis-15	Amp-436a_165_salamander-9_1869	165	Amp-436a_169_metamorphosis-15_3962	169	4	Chinese giant salamander	metamorphosis	20.0
+adaptation	Sal-1f76_28_Salamandridae-1	Sal-1f76_24_poisonous-17	Sal-1f76_28_Salamandridae-1_786	28	Sal-1f76_24_poisonous-17_3973	24	4	Salamandridae	poisonous	20.0
+adaptation	Wes-8d71_350_bullfrog-32	Wes-8d71_348_predators-2	Wes-8d71_350_bullfrog-32_245	350	Wes-8d71_348_predators-2_359	348	2	Central American bullfrog	Predator	18.0
+adaptation	Fro-2392_280_bullfrog-6	Fro-2392_278_predator-13	Fro-2392_280_bullfrog-6_245	280	Fro-2392_278_predator-13_359	278	2	Central American bullfrog	Predator	18.0
+adaptation	Tri-5b33_131_newt-5	Tri-5b33_129_predators-41	Tri-5b33_131_newt-5_5047	131	Tri-5b33_129_predators-41_3977	129	2	northern crested newt	predator	18.0
+adaptation	Fro-2392_282_ridibundus-23	Fro-2392_278_predator-13	Fro-2392_282_ridibundus-23_175	282	Fro-2392_278_predator-13_359	278	4	Pelophylax ridibundus	Predator	17.4
+adaptation	Com-43a2_137_toad-2	Com-43a2_142_metamorphosis-4	Com-43a2_137_toad-2_108	137	Com-43a2_142_metamorphosis-4_3962	142	5	Common toad	metamorphosis	16.667
+adaptation	Pal-f57e_14_newt-2	Pal-f57e_9_hibernation-4	Pal-f57e_14_newt-2_2969	14	Pal-f57e_9_hibernation-4_3959	9	5	Palmate newt	hibernation	16.667
+adaptation	Smo8f05_3_frogs-3	Smo8f05_8_predators-17	Smo8f05_3_frogs-3_243	3	Smo8f05_8_predators-17_359	8	5	Smoky jungle frog	Predator	16.667
+adaptation	Com-43a2_14_toad-2	Com-43a2_9_metamorphosis-14	Com-43a2_14_toad-2_3843	14	Com-43a2_9_metamorphosis-14_3962	9	5	common toad	metamorphosis	16.667
+adaptation	Com-9abd_18_toad-3	Com-9abd_13_camouflage-18	Com-9abd_18_toad-3_3460	18	Com-9abd_13_camouflage-18_3947	13	5	Surinam toad	camouflage	16.667
+adaptation	Rhi-9081_14_frogs-7	Rhi-9081_10_metamorphosis-13	Rhi-9081_14_frogs-7_3835	14	Rhi-9081_10_metamorphosis-13_3962	10	4	brown frog	metamorphosis	16.6
+adaptation	Poi32a6_20_frogs-3	Poi32a6_16_poisonous-5	Poi32a6_20_frogs-3_3119	20	Poi32a6_16_poisonous-5_3973	16	4	Poison frogs	poisonous	16.6
+adaptation	Com-43a2_103_newt-18	Com-43a2_100_predators-2	Com-43a2_103_newt-18_5046	103	Com-43a2_100_predators-2_359	100	3	great crested newt	Predator	16.5
+adaptation	Fro-2392_543_frogs-2	Fro-2392_540_poisonous-5	Fro-2392_543_frogs-2_3115	543	Fro-2392_540_poisonous-5_3973	540	3	Poison dart frogs	poisonous	16.5
+adaptation	Smo-99ce_27_frog-3	Smo-99ce_24_nocturnal-2	Smo-99ce_27_frog-3_3903	27	Smo-99ce_24_nocturnal-2_3967	24	3	smoky jungle frog	nocturnal	16.5
+adaptation	Jap-6cb7_10_salamander-4	Jap-6cb7_13_camouflage-11	Jap-6cb7_10_salamander-4_2614	10	Jap-6cb7_13_camouflage-11_3947	13	3	Japanese giant salamander	camouflage	16.5
+adaptation	Poi32a6_13_frogs-23	Poi32a6_16_poisonous-5	Poi32a6_13_frogs-23_3115	13	Poi32a6_16_poisonous-5_3973	16	3	Poison dart frogs	poisonous	16.5
+adaptation	Nor-4c81_94_newt-3	Nor-4c81_97_display-17	Nor-4c81_94_newt-3_5046	94	Nor-4c81_97_display-17_3951	97	3	great crested newt	courtship display	16.5
+adaptation	Fro-2392_543_frogs-9	Fro-2392_540_poisonous-5	Fro-2392_543_frogs-9_3115	543	Fro-2392_540_poisonous-5_3973	540	3	Poison dart frogs	poisonous	16.5
+adaptation	Jap-6cb7_45_salamander-7	Jap-6cb7_42_nocturnal-8	Jap-6cb7_45_salamander-7_2614	45	Jap-6cb7_42_nocturnal-8_3967	42	3	Japanese giant salamander	nocturnal	16.5
+adaptation	Poi-d65f_191_frog-3	Poi-d65f_194_Poisonous-4	Poi-d65f_191_frog-3_3115	191	Poi-d65f_194_Poisonous-4_355	194	3	Poison dart frogs	Poisonous	16.5
+adaptation	Nor-4c81_112_newt-3	Nor-4c81_109_Metamorphosis-1	Nor-4c81_112_newt-3_2434	112	Nor-4c81_109_Metamorphosis-1_343	109	3	Great crested newt	Metamorphosis	16.5
+adaptation	Com-43a2_106_toads-11	Com-43a2_112_hibernation-6	Com-43a2_106_toads-11_108	106	Com-43a2_112_hibernation-6_338	112	6	Common toad	Hibernation	14.286
+adaptation	Pal-f57e_15_newt-3	Pal-f57e_9_hibernation-4	Pal-f57e_15_newt-3_5293	15	Pal-f57e_9_hibernation-4_3959	9	6	palmate newt	hibernation	14.286
+adaptation	Com-f597_45_frog-2	Com-f597_39_hibernation-19	Com-f597_45_frog-2_92	45	Com-f597_39_hibernation-19_3959	39	6	Common frog	hibernation	14.286
+adaptation	Nor-4c81_77_newts-3	Nor-4c81_83_predators-3	Nor-4c81_77_newts-3_5046	77	Nor-4c81_83_predators-3_3977	83	6	great crested newt	predator	14.286
+adaptation	Fro-2392_508_toad-5	Fro-2392_502_metamorphosis-31	Fro-2392_508_toad-5_108	508	Fro-2392_502_metamorphosis-31_3962	502	6	Common toad	metamorphosis	14.286
+adaptation	Nor-4c81_77_newts-3	Nor-4c81_71_nocturnal-11	Nor-4c81_77_newts-3_5046	77	Nor-4c81_71_nocturnal-11_3967	71	6	great crested newt	nocturnal	14.286
+adaptation	Com-43a2_15_toad-3	Com-43a2_9_metamorphosis-14	Com-43a2_15_toad-3_3843	15	Com-43a2_9_metamorphosis-14_3962	9	6	common toad	metamorphosis	14.286
+adaptation	Smo-99ce_18_frog-3	Smo-99ce_24_nocturnal-2	Smo-99ce_18_frog-3_243	18	Smo-99ce_24_nocturnal-2_3967	24	6	Smoky jungle frog	nocturnal	14.286
+adaptation	Fro-2392_545_frog-5	Fro-2392_540_poisonous-5	Fro-2392_545_frog-5_3119	545	Fro-2392_540_poisonous-5_3973	540	5	Poison frogs	poisonous	13.833
+adaptation	Fro-2392_545_frogs-23	Fro-2392_540_poisonous-5	Fro-2392_545_frogs-23_3119	545	Fro-2392_540_poisonous-5_3973	540	5	Poison frogs	poisonous	13.833
+adaptation	Wes-8d71_350_bullfrog-32	Wes-8d71_347_predators-2	Wes-8d71_350_bullfrog-32_245	350	Wes-8d71_347_predators-2_359	347	3	Central American bullfrog	Predator	13.5
+adaptation	Com-f597_116_frogs-11	Com-f597_119_metamorphosis-18	Com-f597_116_frogs-11_96	116	Com-f597_119_metamorphosis-18_3962	119	3	European common frog	metamorphosis	13.5
+adaptation	Com-f597_123_frog-5	Com-f597_120_metamorphosis-19	Com-f597_123_frog-5_96	123	Com-f597_120_metamorphosis-19_3962	120	3	European common frog	metamorphosis	13.5
+adaptation	Com-f597_117_frog-2	Com-f597_120_metamorphosis-19	Com-f597_117_frog-2_96	117	Com-f597_120_metamorphosis-19_3962	120	3	European common frog	metamorphosis	13.5
+adaptation	Com-f597_66_frog-5	Com-f597_69_metamorphosis-2	Com-f597_66_frog-5_96	66	Com-f597_69_metamorphosis-2_3962	69	3	European common frog	metamorphosis	13.5
+adaptation	Com-f597_72_frog-2	Com-f597_69_metamorphosis-2	Com-f597_72_frog-2_96	72	Com-f597_69_metamorphosis-2_3962	69	3	European common frog	metamorphosis	13.5
+adaptation	Com-43a2_103_newt-18	Com-43a2_99_predators-13	Com-43a2_103_newt-18_5046	103	Com-43a2_99_predators-13_359	99	4	great crested newt	Predator	13.2
+adaptation	Fro-2392_538_frogs-4	Fro-2392_534_poisonous-19	Fro-2392_538_frogs-4_3115	538	Fro-2392_534_poisonous-19_3973	534	4	Poison dart frogs	poisonous	13.2
+adaptation	Sal-5617_85_salamander-4	Sal-5617_81_predator-11	Sal-5617_85_salamander-4_1869	85	Sal-5617_81_predator-11_359	81	4	Chinese giant salamander	Predator	13.2
+adaptation	Sal-5617_85_salamander-4	Sal-5617_89_predators-21	Sal-5617_85_salamander-4_2614	85	Sal-5617_89_predators-21_359	89	4	Japanese giant salamander	Predator	13.2
+adaptation	Pal-f57e_2_newt-12	Pal-f57e_9_hibernation-4	Pal-f57e_2_newt-12_5293	2	Pal-f57e_9_hibernation-4_338	9	7	palmate newt	Hibernation	12.5
+adaptation	Com-f597_32_frogs-7	Com-f597_39_hibernation-19	Com-f597_32_frogs-7_3834	32	Com-f597_39_hibernation-19_3959	39	7	common frog	hibernation	12.5
+adaptation	Fro-2392_282_frog-20	Fro-2392_275_territorial-6	Fro-2392_282_frog-20_3875	282	Fro-2392_275_territorial-6_3985	275	7	marsh frog	territorial	12.5
+adaptation	Com-43a2_2_toad-6	Com-43a2_9_metamorphosis-14	Com-43a2_2_toad-6_108	2	Com-43a2_9_metamorphosis-14_3962	9	7	Common toad	metamorphosis	12.5
+adaptation	Com-43a2_2_toad-17	Com-43a2_9_metamorphosis-14	Com-43a2_2_toad-17_108	2	Com-43a2_9_metamorphosis-14_3962	9	7	Common toad	metamorphosis	12.5
+adaptation	Com-43a2_2_toad-3	Com-43a2_9_metamorphosis-14	Com-43a2_2_toad-3_108	2	Com-43a2_9_metamorphosis-14_3962	9	7	Common toad	metamorphosis	12.5
+adaptation	Com-43a2_2_toad-26	Com-43a2_9_metamorphosis-14	Com-43a2_2_toad-26_108	2	Com-43a2_9_metamorphosis-14_3962	9	7	Common toad	metamorphosis	12.5
+adaptation	Pal-f57e_2_newt-3	Pal-f57e_9_hibernation-4	Pal-f57e_2_newt-3_5293	2	Pal-f57e_9_hibernation-4_3959	9	7	palmate newt	hibernation	12.5
+adaptation	Com-f597_31_frog-2	Com-f597_39_hibernation-19	Com-f597_31_frog-2_3834	31	Com-f597_39_hibernation-19_338	39	8	common frog	Hibernation	11.111
+adaptation	Com-f597_47_frog-3	Com-f597_39_hibernation-19	Com-f597_47_frog-3_3834	47	Com-f597_39_hibernation-19_338	39	8	common frog	Hibernation	11.111
+adaptation	Fro-2392_473_Leptodactylus-1	Fro-2392_465_metamorphosis-13	Fro-2392_473_Leptodactylus-1_1105	473	Fro-2392_465_metamorphosis-13_3962	465	8	Leptodactylus	metamorphosis	11.111
+adaptation	Pal-f57e_1_newt-2	Pal-f57e_9_hibernation-4	Pal-f57e_1_newt-2_2969	1	Pal-f57e_9_hibernation-4_338	9	8	Palmate newt	Hibernation	11.111
+adaptation	Amp-436a_126_salamander-17	Amp-436a_121_metamorphosis-12	Amp-436a_126_salamander-17_2614	126	Amp-436a_121_metamorphosis-12_3962	121	5	Japanese giant salamander	metamorphosis	11.0
+adaptation	Amp-436a_174_salamander-21	Amp-436a_169_metamorphosis-15	Amp-436a_174_salamander-21_2614	174	Amp-436a_169_metamorphosis-15_3962	169	5	Japanese giant salamander	metamorphosis	11.0
+adaptation	Nor-4c81_94_newt-3	Nor-4c81_89_predators-4	Nor-4c81_94_newt-3_2434	94	Nor-4c81_89_predators-4_359	89	5	Great crested newt	Predator	11.0
+adaptation	Amp-436a_174_salamander-30	Amp-436a_169_metamorphosis-15	Amp-436a_174_salamander-30_2614	174	Amp-436a_169_metamorphosis-15_3962	169	5	Japanese giant salamander	metamorphosis	11.0
+adaptation	Chi-0753_21_salamander-3	Chi-0753_26_predators-15	Chi-0753_21_salamander-3_1869	21	Chi-0753_26_predators-15_359	26	5	Chinese giant salamander	Predator	11.0
+adaptation	Pal-f57e_2_helveticus-6	Pal-f57e_9_hibernation-4	Pal-f57e_2_helveticus-6_2970	2	Pal-f57e_9_hibernation-4_338	9	7	Lissotriton helveticus	Hibernation	10.875
+adaptation	Fro-2392_282_ridibundus-23	Fro-2392_275_territorial-6	Fro-2392_282_ridibundus-23_175	282	Fro-2392_275_territorial-6_3985	275	7	Pelophylax ridibundus	territorial	10.875
+adaptation	Nor-4c81_113_newt-10	Nor-4c81_109_Metamorphosis-1	Nor-4c81_113_newt-10_5047	113	Nor-4c81_109_Metamorphosis-1_343	109	4	northern crested newt	Metamorphosis	10.8
+adaptation	Nor-4c81_113_newt-4	Nor-4c81_109_Metamorphosis-1	Nor-4c81_113_newt-4_5047	113	Nor-4c81_109_Metamorphosis-1_343	109	4	northern crested newt	Metamorphosis	10.8
+adaptation	Tri-5b33_148_newt-19	Tri-5b33_141_Metamorphosis-1	Tri-5b33_148_newt-19_5047	148	Tri-5b33_141_Metamorphosis-1_343	141	7	northern crested newt	Metamorphosis	10.375
+adaptation	Tri-5b33_148_newt-30	Tri-5b33_141_Metamorphosis-1	Tri-5b33_148_newt-30_5047	148	Tri-5b33_141_Metamorphosis-1_343	141	7	northern crested newt	Metamorphosis	10.375
+adaptation	Tri-5b33_148_newt-15	Tri-5b33_141_Metamorphosis-1	Tri-5b33_148_newt-15_5047	148	Tri-5b33_141_Metamorphosis-1_343	141	7	northern crested newt	Metamorphosis	10.375
+adaptation	Sal-5617_256_salamander-4	Sal-5617_265_predator-14	Sal-5617_256_salamander-4_1869	256	Sal-5617_265_predator-14_359	265	9	Chinese giant salamander	Predator	10.0
+adaptation	Apo695b_11_frog-7	Apo695b_2_colours-2	Apo695b_11_frog-7_5364	11	Apo695b_2_colours-2_314	2	9	poison dart frogs	Warning colours	10.0
+adaptation	Poi-d65f_202_Dendrobatidae-1	Poi-d65f_194_Poisonous-4	Poi-d65f_202_Dendrobatidae-1_3116	202	Poi-d65f_194_Poisonous-4_355	194	8	Dendrobatidae	Poisonous	9.667
+adaptation	Tri-5b33_66_newt-4	Tri-5b33_72_nocturnal-10	Tri-5b33_66_newt-4_5046	66	Tri-5b33_72_nocturnal-10_3967	72	6	great crested newt	nocturnal	9.429
+adaptation	Jap-6cb7_36_salamander-8	Jap-6cb7_42_nocturnal-8	Jap-6cb7_36_salamander-8_2614	36	Jap-6cb7_42_nocturnal-8_3967	42	6	Japanese giant salamander	nocturnal	9.429
+adaptation	Nor-4c81_97_newts-3	Nor-4c81_89_predators-4	Nor-4c81_97_newts-3_2436	97	Nor-4c81_89_predators-4_3977	89	8	Northern crested newt	predator	9.222
+adaptation	Tri-5b33_64_newt-24	Tri-5b33_72_nocturnal-10	Tri-5b33_64_newt-24_5047	64	Tri-5b33_72_nocturnal-10_3967	72	8	northern crested newt	nocturnal	9.222
+adaptation	Pal-f57e_19_newts-38	Pal-f57e_9_hibernation-4	Pal-f57e_19_newts-38_5293	19	Pal-f57e_9_hibernation-4_338	9	10	palmate newt	Hibernation	9.091
+adaptation	Apo695b_12_frog-7	Apo695b_2_colours-2	Apo695b_12_frog-7_5364	12	Apo695b_2_colours-2_3942	2	10	poison dart frogs	warning colours	9.091
+adaptation	Pal-f57e_19_newt-43	Pal-f57e_9_hibernation-4	Pal-f57e_19_newt-43_5293	19	Pal-f57e_9_hibernation-4_338	9	10	palmate newt	Hibernation	9.091
+adaptation	Apo695b_11_frog-7	Apo695b_1_colours-2	Apo695b_11_frog-7_5364	11	Apo695b_1_colours-2_3942	1	10	poison dart frogs	warning colours	9.091
+adaptation	Nor-4c81_84_newts-3	Nor-4c81_89_predators-4	Nor-4c81_84_newts-3_2436	84	Nor-4c81_89_predators-4_3977	89	5	Northern crested newt	predator	9.0
+adaptation	Chi-0753_15_salamander-18	Chi-0753_26_predators-15	Chi-0753_15_salamander-18_1869	15	Chi-0753_26_predators-15_359	26	11	Chinese giant salamander	Predator	8.333
+adaptation	Apo695b_12_frog-7	Apo695b_1_colours-2	Apo695b_12_frog-7_5364	12	Apo695b_1_colours-2_3942	1	11	poison dart frogs	warning colours	8.333
+adaptation	Chi-0753_37_salamander-4	Chi-0753_26_predators-15	Chi-0753_37_salamander-4_1869	37	Chi-0753_26_predators-15_3977	26	11	Chinese giant salamander	predator	8.333
+adaptation	Tai-3286_116_salamander-26	Tai-3286_127_hibernation-24	Tai-3286_116_salamander-26_232	116	Tai-3286_127_hibernation-24_338	127	11	Siberian salamander	Hibernation	8.333
+adaptation	Tai-3286_116_salamander-35	Tai-3286_127_hibernation-24	Tai-3286_116_salamander-35_232	116	Tai-3286_127_hibernation-24_338	127	11	Siberian salamander	Hibernation	8.333
+adaptation	Tai-3286_116_salamander-32	Tai-3286_127_hibernation-24	Tai-3286_116_salamander-32_232	116	Tai-3286_127_hibernation-24_338	127	11	Siberian salamander	Hibernation	8.333
+adaptation	Chi-0753_37_salamanders-22	Chi-0753_26_predators-15	Chi-0753_37_salamanders-22_1869	37	Chi-0753_26_predators-15_3977	26	11	Chinese giant salamander	predator	8.333
+adaptation	Tri-5b33_65_newt-26	Tri-5b33_72_nocturnal-10	Tri-5b33_65_newt-26_5046	65	Tri-5b33_72_nocturnal-10_3967	72	7	great crested newt	nocturnal	8.25
+adaptation	Chi-0753_33_salamander-3	Chi-0753_26_predators-15	Chi-0753_33_salamander-3_1869	33	Chi-0753_26_predators-15_3977	26	7	Chinese giant salamander	predator	8.25
+adaptation	Com-43a2_103_newt-18	Com-43a2_96_Predators-5	Com-43a2_103_newt-18_5046	103	Com-43a2_96_Predators-5_3977	96	7	great crested newt	predator	8.25
+adaptation	Smo-99ce_31_frog-3	Smo-99ce_24_nocturnal-2	Smo-99ce_31_frog-3_243	31	Smo-99ce_24_nocturnal-2_3967	24	7	Smoky jungle frog	nocturnal	8.25
+adaptation	Nor-4c81_77_newts-3	Nor-4c81_89_predators-4	Nor-4c81_77_newts-3_5046	77	Nor-4c81_89_predators-4_3977	89	12	great crested newt	predator	7.692
+adaptation	Nor-4c81_81_newt-3	Nor-4c81_89_predators-4	Nor-4c81_81_newt-3_5046	81	Nor-4c81_89_predators-4_3977	89	8	great crested newt	predator	7.333
+adaptation	Apo695b_10_frogs-23	Apo695b_2_colours-2	Apo695b_10_frogs-23_3115	10	Apo695b_2_colours-2_314	2	8	Poison dart frogs	Warning colours	7.333
+adaptation	Nor-4c81_63_newt-3	Nor-4c81_71_nocturnal-11	Nor-4c81_63_newt-3_5046	63	Nor-4c81_71_nocturnal-11_3967	71	8	great crested newt	nocturnal	7.333
+adaptation	Tri-5b33_149_newt-4	Tri-5b33_141_Metamorphosis-1	Tri-5b33_149_newt-4_5046	149	Tri-5b33_141_Metamorphosis-1_343	141	8	great crested newt	Metamorphosis	7.333
+adaptation	Tri-5b33_149_newt-29	Tri-5b33_141_Metamorphosis-1	Tri-5b33_149_newt-29_5046	149	Tri-5b33_141_Metamorphosis-1_343	141	8	great crested newt	Metamorphosis	7.333
+adaptation	Jap-6cb7_21_salamander-4	Jap-6cb7_13_camouflage-11	Jap-6cb7_21_salamander-4_2614	21	Jap-6cb7_13_camouflage-11_3947	13	8	Japanese giant salamander	camouflage	7.333
+adaptation	Jap-6cb7_21_salamander-12	Jap-6cb7_13_camouflage-11	Jap-6cb7_21_salamander-12_2614	21	Jap-6cb7_13_camouflage-11_3947	13	8	Japanese giant salamander	camouflage	7.333
+adaptation	Nor-4c81_60_newt-14	Nor-4c81_71_nocturnal-11	Nor-4c81_60_newt-14_5047	60	Nor-4c81_71_nocturnal-11_3967	71	11	northern crested newt	nocturnal	6.917
+adaptation	Nor-4c81_60_newt-10	Nor-4c81_71_nocturnal-11	Nor-4c81_60_newt-10_5047	60	Nor-4c81_71_nocturnal-11_3967	71	11	northern crested newt	nocturnal	6.917
+adaptation	Fro-2392_473_Leptodactylus-1	Fro-2392_459_metamorphosis-6	Fro-2392_473_Leptodactylus-1_1105	473	Fro-2392_459_metamorphosis-6_3962	459	14	Leptodactylus	metamorphosis	6.667
+adaptation	Pal-f57e_23_newt-2	Pal-f57e_9_hibernation-4	Pal-f57e_23_newt-2_2969	23	Pal-f57e_9_hibernation-4_3959	9	14	Palmate newt	hibernation	6.667
+adaptation	Com-f597_25_toad-13	Com-f597_39_hibernation-19	Com-f597_25_toad-13_3843	25	Com-f597_39_hibernation-19_338	39	14	common toad	Hibernation	6.667
+adaptation	Apo695b_10_frogs-23	Apo695b_1_colours-2	Apo695b_10_frogs-23_5364	10	Apo695b_1_colours-2_3942	1	9	poison dart frogs	warning colours	6.6
+adaptation	Com-43a2_103_newt-18	Com-43a2_112_migration-14	Com-43a2_103_newt-18_5046	103	Com-43a2_112_migration-14_3781	112	9	great crested newt	migration	6.6
+adaptation	Poi32a6_4_frog-8	Poi32a6_16_poisonous-5	Poi32a6_4_frog-8_5294	4	Poi32a6_16_poisonous-5_3973	16	12	golden frog	poisonous	6.385
+adaptation	Nor-4c81_97_newts-3	Nor-4c81_109_Metamorphosis-1	Nor-4c81_97_newts-3_2436	97	Nor-4c81_109_Metamorphosis-1_343	109	12	Northern crested newt	Metamorphosis	6.385
+adaptation	Pal-f57e_24_newts-2	Pal-f57e_9_hibernation-4	Pal-f57e_24_newts-2_2969	24	Pal-f57e_9_hibernation-4_3959	9	15	Palmate newt	hibernation	6.25
+adaptation	Jap-6cb7_3_salamander-37	Jap-6cb7_13_camouflage-11	Jap-6cb7_3_salamander-37_2614	3	Jap-6cb7_13_camouflage-11_3947	13	10	Japanese giant salamander	camouflage	6.0
+adaptation	Nor-4c81_81_newt-3	Nor-4c81_71_nocturnal-11	Nor-4c81_81_newt-3_5046	81	Nor-4c81_71_nocturnal-11_3967	71	10	great crested newt	nocturnal	6.0
+adaptation	Jap-6cb7_3_salamander-43	Jap-6cb7_13_camouflage-11	Jap-6cb7_3_salamander-43_2614	3	Jap-6cb7_13_camouflage-11_3947	13	10	Japanese giant salamander	camouflage	6.0
+adaptation	Jap-6cb7_3_salamander-20	Jap-6cb7_13_camouflage-11	Jap-6cb7_3_salamander-20_2614	3	Jap-6cb7_13_camouflage-11_3947	13	10	Japanese giant salamander	camouflage	6.0
+adaptation	Smo-99ce_7_frog-3	Smo-99ce_24_nocturnal-2	Smo-99ce_7_frog-3_243	7	Smo-99ce_24_nocturnal-2_3967	24	17	Smoky jungle frog	nocturnal	5.556
+adaptation	Nor-4c81_97_newts-3	Nor-4c81_83_predators-3	Nor-4c81_97_newts-3_2436	97	Nor-4c81_83_predators-3_3977	83	14	Northern crested newt	predator	5.533
+adaptation	Nor-4c81_94_newt-3	Nor-4c81_83_predators-3	Nor-4c81_94_newt-3_2434	94	Nor-4c81_83_predators-3_359	83	11	Great crested newt	Predator	5.5
+adaptation	Amp-436a_544_salamander-11	Amp-436a_555_nocturnal-3	Amp-436a_544_salamander-11_2614	544	Amp-436a_555_nocturnal-3_3967	555	11	Japanese giant salamander	nocturnal	5.5
+adaptation	Amp-436a_544_salamanders-2	Amp-436a_555_nocturnal-3	Amp-436a_544_salamanders-2_2614	544	Amp-436a_555_nocturnal-3_3967	555	11	Japanese giant salamander	nocturnal	5.5
+adaptation	Jap-6cb7_2_salamander-16	Jap-6cb7_13_camouflage-11	Jap-6cb7_2_salamander-16_2614	2	Jap-6cb7_13_camouflage-11_3947	13	11	Japanese giant salamander	camouflage	5.5
+adaptation	Jap-6cb7_2_salamander-4	Jap-6cb7_13_camouflage-11	Jap-6cb7_2_salamander-4_2614	2	Jap-6cb7_13_camouflage-11_3947	13	11	Japanese giant salamander	camouflage	5.5
+adaptation	Smo-99ce_42_frog-3	Smo-99ce_24_nocturnal-2	Smo-99ce_42_frog-3_243	42	Smo-99ce_24_nocturnal-2_3967	24	18	Smoky jungle frog	nocturnal	5.263
+adaptation	Com-9abd_29_pipa-14	Com-9abd_13_camouflage-18	Com-9abd_29_pipa-14_3461	29	Com-9abd_13_camouflage-18_3947	13	16	Pipa pipa	camouflage	5.118
+adaptation	Com-9abd_29_pipa-2	Com-9abd_13_camouflage-18	Com-9abd_29_pipa-2_3461	29	Com-9abd_13_camouflage-18_3947	13	16	Pipa pipa	camouflage	5.118
+adaptation	Nor-4c81_59_newt-3	Nor-4c81_71_nocturnal-11	Nor-4c81_59_newt-3_2434	59	Nor-4c81_71_nocturnal-11_3967	71	12	Great crested newt	nocturnal	5.077
+adaptation	Smo-99ce_43_frog-7	Smo-99ce_24_nocturnal-2	Smo-99ce_43_frog-7_3903	43	Smo-99ce_24_nocturnal-2_3967	24	19	smoky jungle frog	nocturnal	5.0
+adaptation	Smo-99ce_5_frog-3	Smo-99ce_24_nocturnal-2	Smo-99ce_5_frog-3_243	5	Smo-99ce_24_nocturnal-2_3967	24	19	Smoky jungle frog	nocturnal	5.0
+adaptation	Nor-4c81_61_newt-5	Nor-4c81_71_nocturnal-11	Nor-4c81_61_newt-5_5047	61	Nor-4c81_71_nocturnal-11_3967	71	10	northern crested newt	nocturnal	4.909
+adaptation	Nor-4c81_77_newts-3	Nor-4c81_97_display-17	Nor-4c81_77_newts-3_5046	77	Nor-4c81_97_display-17_3951	97	20	great crested newt	courtship display	4.762
+adaptation	Nor-4c81_58_newt-3	Nor-4c81_71_nocturnal-11	Nor-4c81_58_newt-3_2434	58	Nor-4c81_71_nocturnal-11_3967	71	13	Great crested newt	nocturnal	4.714
+adaptation	Fro-2392_485_toads-4	Fro-2392_502_metamorphosis-31	Fro-2392_485_toads-4_111	485	Fro-2392_502_metamorphosis-31_3962	502	17	European toad	metamorphosis	4.611
+adaptation	Fro-2392_485_toad-23	Fro-2392_502_metamorphosis-31	Fro-2392_485_toad-23_111	485	Fro-2392_502_metamorphosis-31_3962	502	17	European toad	metamorphosis	4.611
+adaptation	Com-43a2_133_frog-12	Com-43a2_112_hibernation-6	Com-43a2_133_frog-12_3834	133	Com-43a2_112_hibernation-6_338	112	21	common frog	Hibernation	4.545
+adaptation	Smo-99ce_45_frog-3	Smo-99ce_24_nocturnal-2	Smo-99ce_45_frog-3_243	45	Smo-99ce_24_nocturnal-2_3967	24	21	Smoky jungle frog	nocturnal	4.545
+adaptation	Tri-5b33_58_newts-8	Tri-5b33_72_nocturnal-10	Tri-5b33_58_newts-8_2434	58	Tri-5b33_72_nocturnal-10_3967	72	14	Great crested newt	nocturnal	4.4
+adaptation	Tri-5b33_58_newts-25	Tri-5b33_72_nocturnal-10	Tri-5b33_58_newts-25_5046	58	Tri-5b33_72_nocturnal-10_3967	72	14	great crested newt	nocturnal	4.4
+adaptation	Jap-6cb7_56_salamander-4	Jap-6cb7_42_nocturnal-8	Jap-6cb7_56_salamander-4_2614	56	Jap-6cb7_42_nocturnal-8_3967	42	14	Japanese giant salamander	nocturnal	4.4
+adaptation	Smo-99ce_2_frog-4	Smo-99ce_24_nocturnal-2	Smo-99ce_2_frog-4_3903	2	Smo-99ce_24_nocturnal-2_3967	24	22	smoky jungle frog	nocturnal	4.348
+adaptation	Smo-99ce_2_frog-13	Smo-99ce_24_nocturnal-2	Smo-99ce_2_frog-13_3903	2	Smo-99ce_24_nocturnal-2_3967	24	22	smoky jungle frog	nocturnal	4.348
+adaptation	Sal-1f76_2_salamanders-6	Sal-1f76_24_poisonous-17	Sal-1f76_2_salamanders-6_4185	2	Sal-1f76_24_poisonous-17_3973	24	22	true salamanders and newts	poisonous	4.348
+adaptation	Sal-1f76_2_salamanders-10	Sal-1f76_24_poisonous-17	Sal-1f76_2_salamanders-10_4185	2	Sal-1f76_24_poisonous-17_3973	24	22	true salamanders and newts	poisonous	4.348
+adaptation	Fro-2392_417_frog-4	Fro-2392_440_predators-22	Fro-2392_417_frog-4_3903	417	Fro-2392_440_predators-22_359	440	23	smoky jungle frog	Predator	4.167
+adaptation	Nor-4c81_86_toad-36	Nor-4c81_109_Metamorphosis-1	Nor-4c81_86_toad-36_3843	86	Nor-4c81_109_Metamorphosis-1_343	109	23	common toad	Metamorphosis	4.167
+adaptation	Nor-4c81_86_frog-33	Nor-4c81_109_Metamorphosis-1	Nor-4c81_86_frog-33_3834	86	Nor-4c81_109_Metamorphosis-1_343	109	23	common frog	Metamorphosis	4.167
+adaptation	Com-9abd_36_toad-3	Com-9abd_13_camouflage-18	Com-9abd_36_toad-3_3460	36	Com-9abd_13_camouflage-18_3947	13	23	Surinam toad	camouflage	4.167
+adaptation	Tri-5b33_148_newt-15	Tri-5b33_129_predators-41	Tri-5b33_148_newt-15_5047	148	Tri-5b33_129_predators-41_3977	129	19	northern crested newt	predator	4.15
+adaptation	Tri-5b33_148_newt-19	Tri-5b33_129_predators-41	Tri-5b33_148_newt-19_5047	148	Tri-5b33_129_predators-41_3977	129	19	northern crested newt	predator	4.15
+adaptation	Tri-5b33_148_newt-30	Tri-5b33_129_predators-41	Tri-5b33_148_newt-30_5047	148	Tri-5b33_129_predators-41_3977	129	19	northern crested newt	predator	4.15
+adaptation	Gia-bc1d_69_salamander-4	Gia-bc1d_54_nocturnal-6	Gia-bc1d_69_salamander-4_2614	69	Gia-bc1d_54_nocturnal-6_3967	54	15	Japanese giant salamander	nocturnal	4.125
+adaptation	Nor-4c81_56_newt-4	Nor-4c81_71_nocturnal-11	Nor-4c81_56_newt-4_2434	56	Nor-4c81_71_nocturnal-11_3967	71	15	Great crested newt	nocturnal	4.125
+adaptation	Nor-4c81_112_newt-3	Nor-4c81_97_display-17	Nor-4c81_112_newt-3_5046	112	Nor-4c81_97_display-17_3951	97	15	great crested newt	courtship display	4.125
+adaptation	Fro-2392_473_Leptodactylus-1	Fro-2392_449_Metamorphosis-4	Fro-2392_473_Leptodactylus-1_1105	473	Fro-2392_449_Metamorphosis-4_343	449	24	Leptodactylus	Metamorphosis	4.0
+adaptation	Fro-2392_485_toad-23	Fro-2392_465_metamorphosis-13	Fro-2392_485_toad-23_111	485	Fro-2392_465_metamorphosis-13_3962	465	20	European toad	metamorphosis	3.952
+adaptation	Fro-2392_485_toads-4	Fro-2392_465_metamorphosis-13	Fro-2392_485_toads-4_111	485	Fro-2392_465_metamorphosis-13_3962	465	20	European toad	metamorphosis	3.952
+adaptation	Nor-4c81_81_newt-3	Nor-4c81_97_display-17	Nor-4c81_81_newt-3_5046	81	Nor-4c81_97_display-17_3951	97	16	great crested newt	courtship display	3.882
+adaptation	Tri-5b33_142_newt-22	Tri-5b33_129_predators-41	Tri-5b33_142_newt-22_5047	142	Tri-5b33_129_predators-41_359	129	13	northern crested newt	Predator	3.857
+adaptation	Nor-4c81_84_newts-3	Nor-4c81_71_nocturnal-11	Nor-4c81_84_newts-3_2436	84	Nor-4c81_71_nocturnal-11_3967	71	13	Northern crested newt	nocturnal	3.857
+adaptation	Tri-5b33_142_newts-29	Tri-5b33_129_predators-41	Tri-5b33_142_newts-29_5047	142	Tri-5b33_129_predators-41_3977	129	13	northern crested newt	predator	3.857
+adaptation	Nor-4c81_84_newts-3	Nor-4c81_97_display-17	Nor-4c81_84_newts-3_2436	84	Nor-4c81_97_display-17_3951	97	13	Northern crested newt	courtship display	3.857
+adaptation	Fro-2392_282_frog-20	Fro-2392_257_territorial-7	Fro-2392_282_frog-20_3875	282	Fro-2392_257_territorial-7_369	257	25	marsh frog	Territorial	3.846
+adaptation	Apo-f97b_38_Dendrobatidae-15	Apo-f97b_16_poisonous-25	Apo-f97b_38_Dendrobatidae-15_3116	38	Apo-f97b_16_poisonous-25_3973	16	22	Dendrobatidae	poisonous	3.783
+adaptation	Fro-2392_473_Leptodactylus-1	Fro-2392_447_metamorphosis-25	Fro-2392_473_Leptodactylus-1_1105	473	Fro-2392_447_metamorphosis-25_3962	447	26	Leptodactylus	metamorphosis	3.704
+adaptation	Nor-d13e_183_salamander-55	Nor-d13e_166_spawning-30	Nor-d13e_183_salamander-55_1869	183	Nor-d13e_166_spawning-30_3982	166	17	Chinese giant salamander	spawning	3.667
+adaptation	Nor-d13e_183_salamanders-47	Nor-d13e_166_spawning-30	Nor-d13e_183_salamanders-47_1869	183	Nor-d13e_166_spawning-30_3982	166	17	Chinese giant salamander	spawning	3.667
+adaptation	Jap-6cb7_40_salamander-4	Jap-6cb7_13_camouflage-11	Jap-6cb7_40_salamander-4_2614	40	Jap-6cb7_13_camouflage-11_3947	13	27	Japanese giant salamander	camouflage	3.571
+adaptation	Nor-4c81_60_newt-14	Nor-4c81_83_predators-3	Nor-4c81_60_newt-14_5047	60	Nor-4c81_83_predators-3_359	83	23	northern crested newt	Predator	3.458
+adaptation	Nor-4c81_60_newt-10	Nor-4c81_83_predators-3	Nor-4c81_60_newt-10_5047	60	Nor-4c81_83_predators-3_359	83	23	northern crested newt	Predator	3.458
+adaptation	Tri-5b33_131_newt-5	Tri-5b33_116_display-2	Tri-5b33_131_newt-5_5047	131	Tri-5b33_116_display-2_323	116	15	northern crested newt	Courtship display	3.375
+adaptation	Nor-4c81_94_newt-3	Nor-4c81_109_Metamorphosis-1	Nor-4c81_94_newt-3_2436	94	Nor-4c81_109_Metamorphosis-1_343	109	15	Northern crested newt	Metamorphosis	3.375
+adaptation	Poi32a6_1_frogs-9	Poi32a6_16_poisonous-5	Poi32a6_1_frogs-9_3118	1	Poi32a6_16_poisonous-5_3973	16	15	Poison arrow frogs	poisonous	3.375
+adaptation	Fro-2392_282_ridibundus-23	Fro-2392_257_territorial-7	Fro-2392_282_ridibundus-23_175	282	Fro-2392_257_territorial-7_369	257	25	Pelophylax ridibundus	Territorial	3.346
+adaptation	Fro-2392_473_Leptodactylus-1	Fro-2392_502_metamorphosis-31	Fro-2392_473_Leptodactylus-1_1105	473	Fro-2392_502_metamorphosis-31_3962	502	29	Leptodactylus	metamorphosis	3.333
+taxongroup	Ani-161e_203_Amphibia-25	Ani-161e_203_animals-7	Ani-161e_203_Amphibia-25_376	203	Ani-161e_203_animals-7_44	203	0	Amphibia	Animals	100.0
+taxongroup	Com-f597_2_frog-18	Com-f597_2_Rana-8	Com-f597_2_frog-18_3834	2	Com-f597_2_Rana-8_1245	2	0	common frog	Rana	100.0
+taxongroup	Cae-3f0c_99_caecilians-49	Cae-3f0c_99_amphibians-54	Cae-3f0c_99_caecilians-49_4752	99	Cae-3f0c_99_amphibians-54_3992	99	0	caecilians	amphibians	100.0
+taxongroup	Amp-436a_386_caecilians-2	Amp-436a_386_amphibians-6	Amp-436a_386_caecilians-2_4752	386	Amp-436a_386_amphibians-6_3992	386	0	caecilians	amphibians	100.0
+taxongroup	Cae-3f0c_56_caecilians-6	Cae-3f0c_56_amphibians-25	Cae-3f0c_56_caecilians-6_4752	56	Cae-3f0c_56_amphibians-25_3992	56	0	caecilians	amphibians	100.0
+taxongroup	Sna-dfa9_96_caecilians-10	Sna-dfa9_96_amphibians-12	Sna-dfa9_96_caecilians-10_4752	96	Sna-dfa9_96_amphibians-12_3992	96	0	caecilians	amphibians	100.0
+taxongroup	Cae-3f0c_3_caecilians-16	Cae-3f0c_3_amphibians-21	Cae-3f0c_3_caecilians-16_4752	3	Cae-3f0c_3_amphibians-21_3992	3	0	caecilians	amphibians	100.0
+taxongroup	Cae-3f0c_12_caecilian-40	Cae-3f0c_12_amphibians-27	Cae-3f0c_12_caecilian-40_4752	12	Cae-3f0c_12_amphibians-27_3992	12	0	caecilians	amphibians	100.0
+taxongroup	Cae-3f0c_119_caecilians-15	Cae-3f0c_119_amphibians-42	Cae-3f0c_119_caecilians-15_4752	119	Cae-3f0c_119_amphibians-42_3992	119	0	caecilians	amphibians	100.0
+taxongroup	Cae8ec2_5_caecilians-5	Cae8ec2_5_amphibians-13	Cae8ec2_5_caecilians-5_4752	5	Cae8ec2_5_amphibians-13_3992	5	0	caecilians	amphibians	100.0
+taxongroup	Cae-3f0c_159_caecilian-14	Cae-3f0c_159_animals-11	Cae-3f0c_159_caecilian-14_4752	159	Cae-3f0c_159_animals-11_3812	159	0	caecilians	animals	100.0
+taxongroup	Cae-3f0c_154_caecilians-4	Cae-3f0c_154_vertebrates-23	Cae-3f0c_154_caecilians-4_4752	154	Cae-3f0c_154_vertebrates-23_3935	154	0	caecilians	vertebrates	100.0
+taxongroup	Cam-4bd8_107_frog-42	Cam-4bd8_107_animal-21	Cam-4bd8_107_frog-42_3834	107	Cam-4bd8_107_animal-21_44	107	0	common frog	Animals	100.0
+taxongroup	Com-43a2_63_frog-3	Com-43a2_63_Rana-5	Com-43a2_63_frog-3_3834	63	Com-43a2_63_Rana-5_1245	63	0	common frog	Rana	100.0
+taxongroup	Com-43a2_69_frog-4	Com-43a2_69_Rana-6	Com-43a2_69_frog-4_3834	69	Com-43a2_69_Rana-6_1245	69	0	common frog	Rana	100.0
+taxongroup	Com-43a2_133_frog-12	Com-43a2_133_Rana-14	Com-43a2_133_frog-12_3834	133	Com-43a2_133_Rana-14_1245	133	0	common frog	Rana	100.0
+taxongroup	Pel-1c25_8_frogs-10	Pel-1c25_8_Rana-33	Pel-1c25_8_frogs-10_3834	8	Pel-1c25_8_Rana-33_1245	8	0	common frog	Rana	100.0
+taxongroup	Pel-1c25_8_frog-20	Pel-1c25_8_Rana-33	Pel-1c25_8_frog-20_3834	8	Pel-1c25_8_Rana-33_1245	8	0	common frog	Rana	100.0
+taxongroup	Com-f597_2_frog-23	Com-f597_2_Rana-8	Com-f597_2_frog-23_3834	2	Com-f597_2_Rana-8_1245	2	0	common frog	Rana	100.0
+taxongroup	Pel-1c25_8_frogs-3	Pel-1c25_8_Rana-33	Pel-1c25_8_frogs-3_3834	8	Pel-1c25_8_Rana-33_1245	8	0	common frog	Rana	100.0
+taxongroup	Com-43a2_69_frog-12	Com-43a2_69_Rana-6	Com-43a2_69_frog-12_3834	69	Com-43a2_69_Rana-6_1245	69	0	common frog	Rana	100.0
+taxongroup	Pel-1c25_8_frog-27	Pel-1c25_8_Rana-33	Pel-1c25_8_frog-27_3834	8	Pel-1c25_8_Rana-33_1245	8	0	common frog	Rana	100.0
+taxongroup	Com-f597_60_frogs-6	Com-f597_60_Rana-17	Com-f597_60_frogs-6_3834	60	Com-f597_60_Rana-17_1245	60	0	common frog	Rana	100.0
+taxongroup	Com-f597_2_frog-27	Com-f597_2_Rana-8	Com-f597_2_frog-27_3834	2	Com-f597_2_Rana-8_1245	2	0	common frog	Rana	100.0
+taxongroup	Com-f597_62_frogs-11	Com-f597_62_Rana-7	Com-f597_62_frogs-11_3834	62	Com-f597_62_Rana-7_1245	62	0	common frog	Rana	100.0
+taxongroup	Com-f597_2_frog-32	Com-f597_2_Rana-8	Com-f597_2_frog-32_3834	2	Com-f597_2_Rana-8_1245	2	0	common frog	Rana	100.0
+taxongroup	Com-f222_407_frog-37	Com-f222_407_Rana-39	Com-f222_407_frog-37_3834	407	Com-f222_407_Rana-39_1245	407	0	common frog	Rana	100.0
+taxongroup	Cae-3f0c_149_caecilians-11	Cae-3f0c_149_amphibians-5	Cae-3f0c_149_caecilians-11_4752	149	Cae-3f0c_149_amphibians-5_3992	149	0	caecilians	amphibians	100.0
+taxongroup	Ampacea_37_caecilians-5	Ampacea_37_amphibians-13	Ampacea_37_caecilians-5_4752	37	Ampacea_37_amphibians-13_3992	37	0	caecilians	amphibians	100.0
+taxongroup	Cae-3f0c_118_caecilians-4	Cae-3f0c_118_amphibians-8	Cae-3f0c_118_caecilians-4_4752	118	Cae-3f0c_118_amphibians-8_3992	118	0	caecilians	amphibians	100.0
+taxongroup	Cae-3f0c_118_caecilians-4	Cae-3f0c_118_Amphibia-23	Cae-3f0c_118_caecilians-4_4752	118	Cae-3f0c_118_Amphibia-23_376	118	0	caecilians	Amphibia	100.0
+taxongroup	Ver-1720_136_amphibians-41	Ver-1720_136_vertebrates-25	Ver-1720_136_amphibians-41_3992	136	Ver-1720_136_vertebrates-25_3935	136	0	amphibians	vertebrates	100.0
+taxongroup	Rep-aa64_37_amphibians-33	Rep-aa64_37_vertebrates-18	Rep-aa64_37_amphibians-33_3992	37	Rep-aa64_37_vertebrates-18_3935	37	0	amphibians	vertebrates	100.0
+taxongroup	Ase-acb4_76_amphibians-35	Ase-acb4_76_vertebrates-30	Ase-acb4_76_amphibians-35_3992	76	Ase-acb4_76_vertebrates-30_3935	76	0	amphibians	vertebrates	100.0
+taxongroup	Com-f222_286_amphibians-28	Com-f222_286_vertebrates-10	Com-f222_286_amphibians-28_3992	286	Com-f222_286_vertebrates-10_3935	286	0	amphibians	vertebrates	100.0
+taxongroup	Car-6023_61_amphibians-13	Car-6023_61_vertebrates-9	Car-6023_61_amphibians-13_3992	61	Car-6023_61_vertebrates-9_3935	61	0	amphibians	vertebrates	100.0
+taxongroup	Car-6023_59_amphibians-15	Car-6023_59_vertebrate-8	Car-6023_59_amphibians-15_3992	59	Car-6023_59_vertebrate-8_3935	59	0	amphibians	vertebrates	100.0
+taxongroup	Bur-08d7_9_amphibians-13	Bur-08d7_9_vertebrate-4	Bur-08d7_9_amphibians-13_3992	9	Bur-08d7_9_vertebrate-4_3935	9	0	amphibians	vertebrates	100.0
+taxongroup	Amp-436a_124_amphibian-3	Amp-436a_124_vertebrate-6	Amp-436a_124_amphibian-3_3992	124	Amp-436a_124_vertebrate-6_3935	124	0	amphibians	vertebrates	100.0
+taxongroup	Amp-436a_118_amphibians-2	Amp-436a_118_vertebrates-40	Amp-436a_118_amphibians-2_3992	118	Amp-436a_118_vertebrates-40_3935	118	0	amphibians	vertebrates	100.0
+taxongroup	Amp-436a_18_amphibian-3	Amp-436a_18_vertebrate-6	Amp-436a_18_amphibian-3_3992	18	Amp-436a_18_vertebrate-6_3935	18	0	amphibians	vertebrates	100.0
+taxongroup	Ani-161e_170_amphibians-19	Ani-161e_170_vertebrates-7	Ani-161e_170_amphibians-19_3992	170	Ani-161e_170_vertebrates-7_3935	170	0	amphibians	vertebrates	100.0
+taxongroup	Ampacea_8_caecilians-7	Ampacea_8_Amphibians-1	Ampacea_8_caecilians-7_4752	8	Ampacea_8_Amphibians-1_377	8	0	caecilians	Amphibians	100.0
+taxongroup	Amp-436a_29_caecilians-17	Amp-436a_29_amphibians-6	Amp-436a_29_caecilians-17_4752	29	Amp-436a_29_amphibians-6_3992	29	0	caecilians	amphibians	100.0
+taxongroup	Cae-3f0c_21_caecilians-23	Cae-3f0c_21_amphibians-29	Cae-3f0c_21_caecilians-23_4752	21	Cae-3f0c_21_amphibians-29_3992	21	0	caecilians	amphibians	100.0
+taxongroup	Cae-3f0c_99_caecilians-26	Cae-3f0c_99_amphibians-54	Cae-3f0c_99_caecilians-26_4752	99	Cae-3f0c_99_amphibians-54_3992	99	0	caecilians	amphibians	100.0
+taxongroup	Amp-436a_102_caecilians-31	Amp-436a_102_amphibians-13	Amp-436a_102_caecilians-31_4752	102	Amp-436a_102_amphibians-13_3992	102	0	caecilians	amphibians	100.0
+taxongroup	Amp-436a_56_caecilians-19	Amp-436a_56_amphibians-28	Amp-436a_56_caecilians-19_4752	56	Amp-436a_56_amphibians-28_3992	56	0	caecilians	amphibians	100.0
+taxongroup	Amp-436a_389_caecilians-6	Amp-436a_389_amphibians-2	Amp-436a_389_caecilians-6_4752	389	Amp-436a_389_amphibians-2_3992	389	0	caecilians	amphibians	100.0
+taxongroup	Amp-436a_50_caecilians-34	Amp-436a_50_amphibians-28	Amp-436a_50_caecilians-34_4752	50	Amp-436a_50_amphibians-28_3992	50	0	caecilians	amphibians	100.0
+taxongroup	Cae-3f0c_12_caecilians-33	Cae-3f0c_12_amphibians-27	Cae-3f0c_12_caecilians-33_4752	12	Cae-3f0c_12_amphibians-27_3992	12	0	caecilians	amphibians	100.0
+taxongroup	Cae-3f0c_12_caecilians-24	Cae-3f0c_12_amphibians-27	Cae-3f0c_12_caecilians-24_4752	12	Cae-3f0c_12_amphibians-27_3992	12	0	caecilians	amphibians	100.0
+taxongroup	Cae-3f0c_20_caecilians-7	Cae-3f0c_20_amphibians-14	Cae-3f0c_20_caecilians-7_4752	20	Cae-3f0c_20_amphibians-14_3992	20	0	caecilians	amphibians	100.0
+taxongroup	Cae-3f0c_119_caecilians-15	Cae-3f0c_119_amphibians-8	Cae-3f0c_119_caecilians-15_4752	119	Cae-3f0c_119_amphibians-8_3992	119	0	caecilians	amphibians	100.0
+taxongroup	Com-f597_2_frog-6	Com-f597_2_Rana-8	Com-f597_2_frog-6_3834	2	Com-f597_2_Rana-8_1245	2	0	common frog	Rana	100.0
+taxongroup	Com-f597_2_frog-3	Com-f597_2_Rana-8	Com-f597_2_frog-3_3834	2	Com-f597_2_Rana-8_1245	2	0	common frog	Rana	100.0
+taxongroup	Com-f597_2_frog-40	Com-f597_2_frog-27	Com-f597_2_frog-40_3834	2	Com-f597_2_frog-27_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-40	Com-f597_2_Rana-8	Com-f597_2_frog-40_3834	2	Com-f597_2_Rana-8_1245	2	0	common frog	Rana	100.0
+taxongroup	Com-f597_2_frog-6	Com-f597_2_frog-18	Com-f597_2_frog-6_3834	2	Com-f597_2_frog-18_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-23	Com-f597_2_frog-40	Com-f597_2_frog-23_3834	2	Com-f597_2_frog-40_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-6	Com-f597_2_frog-6	Com-f597_2_frog-6_3834	2	Com-f597_2_frog-6_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-18	Com-f597_2_frog-23	Com-f597_2_frog-18_3834	2	Com-f597_2_frog-23_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-18	Com-f597_2_frog-27	Com-f597_2_frog-18_3834	2	Com-f597_2_frog-27_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-23	Com-f597_2_frog-18	Com-f597_2_frog-23_3834	2	Com-f597_2_frog-18_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-23	Com-f597_2_frog-23	Com-f597_2_frog-23_3834	2	Com-f597_2_frog-23_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-23	Com-f597_2_frog-27	Com-f597_2_frog-23_3834	2	Com-f597_2_frog-27_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-23	Com-f597_2_frog-32	Com-f597_2_frog-23_3834	2	Com-f597_2_frog-32_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-3	Com-f597_2_frog-32	Com-f597_2_frog-3_3834	2	Com-f597_2_frog-32_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-18	Com-f597_2_frog-32	Com-f597_2_frog-18_3834	2	Com-f597_2_frog-32_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-18	Com-f597_2_frog-3	Com-f597_2_frog-18_3834	2	Com-f597_2_frog-3_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-18	Com-f597_2_frog-40	Com-f597_2_frog-18_3834	2	Com-f597_2_frog-40_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-18	Com-f597_2_frog-6	Com-f597_2_frog-18_3834	2	Com-f597_2_frog-6_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-3	Com-f597_2_frog-40	Com-f597_2_frog-3_3834	2	Com-f597_2_frog-40_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-3	Com-f597_2_frog-3	Com-f597_2_frog-3_3834	2	Com-f597_2_frog-3_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-3	Com-f597_2_frog-18	Com-f597_2_frog-3_3834	2	Com-f597_2_frog-18_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-3	Com-f597_2_frog-23	Com-f597_2_frog-3_3834	2	Com-f597_2_frog-23_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-40	Com-f597_2_frog-23	Com-f597_2_frog-40_3834	2	Com-f597_2_frog-23_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-23	Com-f597_2_frog-3	Com-f597_2_frog-23_3834	2	Com-f597_2_frog-3_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-3	Com-f597_2_frog-6	Com-f597_2_frog-3_3834	2	Com-f597_2_frog-6_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-40	Com-f597_2_frog-18	Com-f597_2_frog-40_3834	2	Com-f597_2_frog-18_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-40	Com-f597_2_frog-3	Com-f597_2_frog-40_3834	2	Com-f597_2_frog-3_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-40	Com-f597_2_frog-40	Com-f597_2_frog-40_3834	2	Com-f597_2_frog-40_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-40	Com-f597_2_frog-6	Com-f597_2_frog-40_3834	2	Com-f597_2_frog-6_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-6	Com-f597_2_frog-23	Com-f597_2_frog-6_3834	2	Com-f597_2_frog-23_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-6	Com-f597_2_frog-40	Com-f597_2_frog-6_3834	2	Com-f597_2_frog-40_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-6	Com-f597_2_frog-3	Com-f597_2_frog-6_3834	2	Com-f597_2_frog-3_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-27	Com-f597_2_frog-6	Com-f597_2_frog-27_3834	2	Com-f597_2_frog-6_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-27	Com-f597_2_Ranidae-49	Com-f597_2_frog-27_3834	2	Com-f597_2_Ranidae-49_840	2	0	common frog	Ranidae	100.0
+taxongroup	Com-f597_2_frog-32	Com-f597_2_Ranidae-49	Com-f597_2_frog-32_3834	2	Com-f597_2_Ranidae-49_840	2	0	common frog	Ranidae	100.0
+taxongroup	Com-f597_2_frog-6	Com-f597_2_Ranidae-49	Com-f597_2_frog-6_3834	2	Com-f597_2_Ranidae-49_840	2	0	common frog	Ranidae	100.0
+taxongroup	Com-f597_2_frog-18	Com-f597_2_Ranidae-49	Com-f597_2_frog-18_3834	2	Com-f597_2_Ranidae-49_840	2	0	common frog	Ranidae	100.0
+taxongroup	Com-f597_2_frog-23	Com-f597_2_Ranidae-49	Com-f597_2_frog-23_3834	2	Com-f597_2_Ranidae-49_840	2	0	common frog	Ranidae	100.0
+taxongroup	Com-f597_2_frog-3	Com-f597_2_Ranidae-49	Com-f597_2_frog-3_3834	2	Com-f597_2_Ranidae-49_840	2	0	common frog	Ranidae	100.0
+taxongroup	Com-f597_2_frog-40	Com-f597_2_Ranidae-49	Com-f597_2_frog-40_3834	2	Com-f597_2_Ranidae-49_840	2	0	common frog	Ranidae	100.0
+taxongroup	Com-f597_2_frog-27	Com-f597_2_frog-40	Com-f597_2_frog-27_3834	2	Com-f597_2_frog-40_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-27	Com-f597_2_frog-27	Com-f597_2_frog-27_3834	2	Com-f597_2_frog-27_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-27	Com-f597_2_frog-32	Com-f597_2_frog-27_3834	2	Com-f597_2_frog-32_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-27	Com-f597_2_frog-3	Com-f597_2_frog-27_3834	2	Com-f597_2_frog-3_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-27	Com-f597_2_frog-23	Com-f597_2_frog-27_3834	2	Com-f597_2_frog-23_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-18	Com-f597_2_frog-18	Com-f597_2_frog-18_3834	2	Com-f597_2_frog-18_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-27	Com-f597_2_frog-18	Com-f597_2_frog-27_3834	2	Com-f597_2_frog-18_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-32	Com-f597_2_frog-3	Com-f597_2_frog-32_3834	2	Com-f597_2_frog-3_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-32	Com-f597_2_frog-40	Com-f597_2_frog-32_3834	2	Com-f597_2_frog-40_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-32	Com-f597_2_frog-23	Com-f597_2_frog-32_3834	2	Com-f597_2_frog-23_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-32	Com-f597_2_frog-27	Com-f597_2_frog-32_3834	2	Com-f597_2_frog-27_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-32	Com-f597_2_frog-32	Com-f597_2_frog-32_3834	2	Com-f597_2_frog-32_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-32	Com-f597_2_frog-6	Com-f597_2_frog-32_3834	2	Com-f597_2_frog-6_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-32	Com-f597_2_frog-18	Com-f597_2_frog-32_3834	2	Com-f597_2_frog-18_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-23	Com-f597_2_frog-6	Com-f597_2_frog-23_3834	2	Com-f597_2_frog-6_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-6	Com-f597_2_frog-32	Com-f597_2_frog-6_3834	2	Com-f597_2_frog-32_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-6	Com-f597_2_frog-27	Com-f597_2_frog-6_3834	2	Com-f597_2_frog-27_841	2	0	common frog	True frogs	100.0
+taxongroup	Pre-0725_171_amphibians-11	Pre-0725_171_vertebrates-2	Pre-0725_171_amphibians-11_3992	171	Pre-0725_171_vertebrates-2_3935	171	0	amphibians	vertebrates	100.0
+taxongroup	Lit-f642_59_amphibians-17	Lit-f642_59_vertebrates-15	Lit-f642_59_amphibians-17_3992	59	Lit-f642_59_vertebrates-15_3935	59	0	amphibians	vertebrates	100.0
+taxongroup	Lon-7721_32_amphibians-35	Lon-7721_32_vertebrates-39	Lon-7721_32_amphibians-35_3992	32	Lon-7721_32_vertebrates-39_3935	32	0	amphibians	vertebrates	100.0
+taxongroup	Sar73af_3_amphibians-16	Sar73af_3_vertebrates-14	Sar73af_3_amphibians-16_3992	3	Sar73af_3_vertebrates-14_3935	3	0	amphibians	vertebrates	100.0
+taxongroup	Sal-1f76_2_salamanders-6	Sal-1f76_2_salamanders-10	Sal-1f76_2_salamanders-6_787	2	Sal-1f76_2_salamanders-10_5440	2	0	True salamanders and newts	salamanders	100.0
+taxongroup	Sal-1f76_2_salamanders-10	Sal-1f76_2_salamanders-10	Sal-1f76_2_salamanders-10_787	2	Sal-1f76_2_salamanders-10_5440	2	0	True salamanders and newts	salamanders	100.0
+taxongroup	Sal-1f76_2_salamanders-10	Sal-1f76_2_salamanders-6	Sal-1f76_2_salamanders-10_787	2	Sal-1f76_2_salamanders-6_5440	2	0	True salamanders and newts	salamanders	100.0
+taxongroup	Tru-b16e_2_toad-3	Tru-b16e_2_Anura-15	Tru-b16e_2_toad-3_848	2	Tru-b16e_2_Anura-15_2312	2	0	True toads	Anura	100.0
+taxongroup	Tru-b16e_2_toads-19	Tru-b16e_2_Anura-15	Tru-b16e_2_toads-19_848	2	Tru-b16e_2_Anura-15_2312	2	0	True toads	Anura	100.0
+taxongroup	Tru79ba_1_toads-19	Tru79ba_1_amphibians-6	Tru79ba_1_toads-19_848	1	Tru79ba_1_amphibians-6_3992	1	0	True toads	amphibians	100.0
+taxongroup	Tru79ba_1_toads-2	Tru79ba_1_amphibians-6	Tru79ba_1_toads-2_848	1	Tru79ba_1_amphibians-6_3992	1	0	True toads	amphibians	100.0
+taxongroup	Tru-b16e_2_toad-3	Tru-b16e_2_frogs-17	Tru-b16e_2_toad-3_848	2	Tru-b16e_2_frogs-17_4990	2	0	True toads	frogs and toads	100.0
+taxongroup	Tru-b16e_2_toads-19	Tru-b16e_2_frogs-17	Tru-b16e_2_toads-19_848	2	Tru-b16e_2_frogs-17_4990	2	0	True toads	frogs and toads	100.0
+taxongroup	Par-5c6e_6_amphibians-52	Par-5c6e_6_animal-11	Par-5c6e_6_amphibians-52_3992	6	Par-5c6e_6_animal-11_44	6	0	amphibians	Animals	100.0
+taxongroup	Mil-11ed_188_amphibians-16	Mil-11ed_188_animals-10	Mil-11ed_188_amphibians-16_3992	188	Mil-11ed_188_animals-10_44	188	0	amphibians	Animals	100.0
+taxongroup	Par-5c6e_7_amphibians-24	Par-5c6e_7_animal-13	Par-5c6e_7_amphibians-24_3992	7	Par-5c6e_7_animal-13_44	7	0	amphibians	Animals	100.0
+taxongroup	Spa-e46a_40_amphibians-19	Spa-e46a_40_animals-3	Spa-e46a_40_amphibians-19_3992	40	Spa-e46a_40_animals-3_44	40	0	amphibians	Animals	100.0
+taxongroup	Rep-aa64_42_amphibians-32	Rep-aa64_42_animals-26	Rep-aa64_42_amphibians-32_3992	42	Rep-aa64_42_animals-26_44	42	0	amphibians	Animals	100.0
+taxongroup	Rep-aa64_32_amphibians-18	Rep-aa64_32_animals-26	Rep-aa64_32_amphibians-18_3992	32	Rep-aa64_32_animals-26_44	32	0	amphibians	Animals	100.0
+taxongroup	Amp-436a_2_Amphibia-15	Amp-436a_2_animals-10	Amp-436a_2_Amphibia-15_376	2	Amp-436a_2_animals-10_44	2	0	Amphibia	Animals	100.0
+taxongroup	Rep-aa64_32_amphibians-53	Rep-aa64_32_animals-26	Rep-aa64_32_amphibians-53_3992	32	Rep-aa64_32_animals-26_44	32	0	amphibians	Animals	100.0
+taxongroup	Mag-095b_37_amphibians-21	Mag-095b_37_animal-12	Mag-095b_37_amphibians-21_3992	37	Mag-095b_37_animal-12_44	37	0	amphibians	Animals	100.0
+taxongroup	Red-2707_35_amphibians-16	Red-2707_35_animal-2	Red-2707_35_amphibians-16_3992	35	Red-2707_35_animal-2_44	35	0	amphibians	Animals	100.0
+taxongroup	Rac-2d62_223_amphibians-2	Rac-2d62_223_animals-8	Rac-2d62_223_amphibians-2_3992	223	Rac-2d62_223_animals-8_44	223	0	amphibians	Animals	100.0
+taxongroup	Pte-5908_23_amphibians-31	Pte-5908_23_animals-7	Pte-5908_23_amphibians-31_3992	23	Pte-5908_23_animals-7_44	23	0	amphibians	Animals	100.0
+taxongroup	Pre-0725_171_amphibians-11	Pre-0725_171_animal-46	Pre-0725_171_amphibians-11_3992	171	Pre-0725_171_animal-46_44	171	0	amphibians	Animals	100.0
+taxongroup	Ple-f864_88_amphibians-20	Ple-f864_88_animal-8	Ple-f864_88_amphibians-20_3992	88	Ple-f864_88_animal-8_44	88	0	amphibians	Animals	100.0
+taxongroup	Viv0253_18_amphibians-27	Viv0253_18_animal-15	Viv0253_18_amphibians-27_3992	18	Viv0253_18_animal-15_44	18	0	amphibians	Animals	100.0
+taxongroup	Hib-c4bb_77_amphibians-25	Hib-c4bb_77_animals-17	Hib-c4bb_77_amphibians-25_3992	77	Hib-c4bb_77_animals-17_44	77	0	amphibians	Animals	100.0
+taxongroup	Sal-1f76_2_salamanders-6	Sal-1f76_2_salamanders-6	Sal-1f76_2_salamanders-6_787	2	Sal-1f76_2_salamanders-6_5440	2	0	True salamanders and newts	salamanders	100.0
+taxongroup	Com-f597_2_frog-23	Com-f597_2_amphibian-45	Com-f597_2_frog-23_841	2	Com-f597_2_amphibian-45_3992	2	0	True frogs	amphibians	100.0
+taxongroup	Com-f597_2_frog-18	Com-f597_2_amphibian-45	Com-f597_2_frog-18_841	2	Com-f597_2_amphibian-45_3992	2	0	True frogs	amphibians	100.0
+taxongroup	Asi-3d88_33_salamanders-10	Asi-3d88_33_salamanders-10	Asi-3d88_33_salamanders-10_232	33	Asi-3d88_33_salamanders-10_5440	33	0	Siberian salamander	salamanders	100.0
+taxongroup	Tai-3286_116_salamander-26	Tai-3286_116_salamander-35	Tai-3286_116_salamander-26_232	116	Tai-3286_116_salamander-35_5440	116	0	Siberian salamander	salamanders	100.0
+taxongroup	Tai-3286_116_salamander-26	Tai-3286_116_salamander-32	Tai-3286_116_salamander-26_232	116	Tai-3286_116_salamander-32_5440	116	0	Siberian salamander	salamanders	100.0
+taxongroup	Tai-3286_116_salamander-26	Tai-3286_116_salamander-26	Tai-3286_116_salamander-26_232	116	Tai-3286_116_salamander-26_5440	116	0	Siberian salamander	salamanders	100.0
+taxongroup	Tai-3286_116_salamander-35	Tai-3286_116_salamander-32	Tai-3286_116_salamander-35_232	116	Tai-3286_116_salamander-32_5440	116	0	Siberian salamander	salamanders	100.0
+taxongroup	Sal-7dcf_39_salamander-7	Sal-7dcf_39_salamander-7	Sal-7dcf_39_salamander-7_232	39	Sal-7dcf_39_salamander-7_5440	39	0	Siberian salamander	salamanders	100.0
+taxongroup	Sal-7dcf_21_salamander-3	Sal-7dcf_21_salamander-3	Sal-7dcf_21_salamander-3_232	21	Sal-7dcf_21_salamander-3_5440	21	0	Siberian salamander	salamanders	100.0
+taxongroup	Sal-7dcf_2_salamander-6	Sal-7dcf_2_salamander-6	Sal-7dcf_2_salamander-6_232	2	Sal-7dcf_2_salamander-6_5440	2	0	Siberian salamander	salamanders	100.0
+taxongroup	Sal-7dcf_9_salamanders-6	Sal-7dcf_9_salamanders-6	Sal-7dcf_9_salamanders-6_232	9	Sal-7dcf_9_salamanders-6_5440	9	0	Siberian salamander	salamanders	100.0
+taxongroup	Sal-7dcf_2_salamander-12	Sal-7dcf_2_salamander-12	Sal-7dcf_2_salamander-12_232	2	Sal-7dcf_2_salamander-12_5440	2	0	Siberian salamander	salamanders	100.0
+taxongroup	Sal-7dcf_2_salamander-12	Sal-7dcf_2_salamander-6	Sal-7dcf_2_salamander-12_232	2	Sal-7dcf_2_salamander-6_5440	2	0	Siberian salamander	salamanders	100.0
+taxongroup	Sal-7dcf_2_salamander-6	Sal-7dcf_2_salamander-12	Sal-7dcf_2_salamander-6_232	2	Sal-7dcf_2_salamander-12_5440	2	0	Siberian salamander	salamanders	100.0
+taxongroup	Tex-0ac3_2_salamander-4	Tex-0ac3_2_Eurycea-6	Tex-0ac3_2_salamander-4_3497	2	Tex-0ac3_2_Eurycea-6_1028	2	0	Texas blind salamander	Eurycea	100.0
+taxongroup	Tru-a487_12_frogs-8	Tru-a487_12_amphibians-19	Tru-a487_12_frogs-8_841	12	Tru-a487_12_amphibians-19_3992	12	0	True frogs	amphibians	100.0
+taxongroup	Tro2de0_1_salamander-3	Tro2de0_1_salamander-3	Tro2de0_1_salamander-3_3497	1	Tro2de0_1_salamander-3_5440	1	0	Texas blind salamander	salamanders	100.0
+taxongroup	Texf421_3_salamanders-3	Texf421_3_salamanders-3	Texf421_3_salamanders-3_3497	3	Texf421_3_salamanders-3_5440	3	0	Texas blind salamander	salamanders	100.0
+taxongroup	Texf421_2_salamander-3	Texf421_2_salamander-3	Texf421_2_salamander-3_3497	2	Texf421_2_salamander-3_5440	2	0	Texas blind salamander	salamanders	100.0
+taxongroup	Tex-0ac3_39_salamander-5	Tex-0ac3_39_salamander-5	Tex-0ac3_39_salamander-5_3497	39	Tex-0ac3_39_salamander-5_5440	39	0	Texas blind salamander	salamanders	100.0
+taxongroup	Tex-0ac3_43_salamander-12	Tex-0ac3_43_salamander-12	Tex-0ac3_43_salamander-12_3497	43	Tex-0ac3_43_salamander-12_5440	43	0	Texas blind salamander	salamanders	100.0
+taxongroup	Tex-0ac3_2_salamander-4	Tex-0ac3_2_salamander-4	Tex-0ac3_2_salamander-4_3497	2	Tex-0ac3_2_salamander-4_5440	2	0	Texas blind salamander	salamanders	100.0
+taxongroup	Com-f597_2_frog-6	Com-f597_2_amphibian-45	Com-f597_2_frog-6_841	2	Com-f597_2_amphibian-45_3992	2	0	True frogs	amphibians	100.0
+taxongroup	Com-f597_2_frog-27	Com-f597_2_amphibian-45	Com-f597_2_frog-27_841	2	Com-f597_2_amphibian-45_3992	2	0	True frogs	amphibians	100.0
+taxongroup	Com-f597_2_frog-40	Com-f597_2_amphibian-45	Com-f597_2_frog-40_841	2	Com-f597_2_amphibian-45_3992	2	0	True frogs	amphibians	100.0
+taxongroup	Com-f597_2_frog-3	Com-f597_2_amphibian-45	Com-f597_2_frog-3_841	2	Com-f597_2_amphibian-45_3992	2	0	True frogs	amphibians	100.0
+taxongroup	Com-f597_2_frog-32	Com-f597_2_amphibian-45	Com-f597_2_frog-32_841	2	Com-f597_2_amphibian-45_3992	2	0	True frogs	amphibians	100.0
+taxongroup	Ani-ab87_4_amphibians-19	Ani-ab87_4_animal-7	Ani-ab87_4_amphibians-19_3992	4	Ani-ab87_4_animal-7_44	4	0	amphibians	Animals	100.0
+taxongroup	Com-0bc9_64_amphibians-24	Com-0bc9_64_animal-2	Com-0bc9_64_amphibians-24_3992	64	Com-0bc9_64_animal-2_44	64	0	amphibians	Animals	100.0
+taxongroup	Fly-ac51_55_amphibians-15	Fly-ac51_55_Animals-1	Fly-ac51_55_amphibians-15_3992	55	Fly-ac51_55_Animals-1_44	55	0	amphibians	Animals	100.0
+taxongroup	Bee-1811_372_amphibians-26	Bee-1811_372_animal-13	Bee-1811_372_amphibians-26_3992	372	Bee-1811_372_animal-13_3812	372	0	amphibians	animals	100.0
+taxongroup	Aqu-83c9_307_amphibians-16	Aqu-83c9_307_animals-5	Aqu-83c9_307_amphibians-16_3992	307	Aqu-83c9_307_animals-5_3812	307	0	amphibians	animals	100.0
+taxongroup	Acc-0f45_109_amphibians-16	Acc-0f45_109_animals-47	Acc-0f45_109_amphibians-16_3992	109	Acc-0f45_109_animals-47_3812	109	0	amphibians	animals	100.0
+taxongroup	For-ac12_101_amphibians-26	For-ac12_101_animals-21	For-ac12_101_amphibians-26_3992	101	For-ac12_101_animals-21_3812	101	0	amphibians	animals	100.0
+taxongroup	Her-2dde_58_amphibians-16	Her-2dde_58_animals-9	Her-2dde_58_amphibians-16_3992	58	Her-2dde_58_animals-9_3812	58	0	amphibians	animals	100.0
+taxongroup	Bur-08d7_9_amphibians-13	Bur-08d7_9_animals-6	Bur-08d7_9_amphibians-13_3992	9	Bur-08d7_9_animals-6_3812	9	0	amphibians	animals	100.0
+taxongroup	Com-4c8f_41_amphibians-57	Com-4c8f_41_animal-9	Com-4c8f_41_amphibians-57_3992	41	Com-4c8f_41_animal-9_3812	41	0	amphibians	animals	100.0
+taxongroup	Com-4c8f_41_amphibians-57	Com-4c8f_41_animal-47	Com-4c8f_41_amphibians-57_3992	41	Com-4c8f_41_animal-47_3812	41	0	amphibians	animals	100.0
+taxongroup	Cha-1a30_159_amphibians-35	Cha-1a30_159_animals-19	Cha-1a30_159_amphibians-35_3992	159	Cha-1a30_159_animals-19_3812	159	0	amphibians	animals	100.0
+taxongroup	Gli-5224_56_amphibians-5	Gli-5224_56_animals-9	Gli-5224_56_amphibians-5_3992	56	Gli-5224_56_animals-9_3812	56	0	amphibians	animals	100.0
+taxongroup	For-ac12_92_amphibians-36	For-ac12_92_animals-45	For-ac12_92_amphibians-36_3992	92	For-ac12_92_animals-45_3812	92	0	amphibians	animals	100.0
+taxongroup	Ame-86f0_112_amphibians-17	Ame-86f0_112_animal-7	Ame-86f0_112_amphibians-17_3992	112	Ame-86f0_112_animal-7_3812	112	0	amphibians	animals	100.0
+taxongroup	For-ac12_98_amphibians-19	For-ac12_98_animals-25	For-ac12_98_amphibians-19_3992	98	For-ac12_98_animals-25_3812	98	0	amphibians	animals	100.0
+taxongroup	Ani-161e_170_amphibians-19	Ani-161e_170_animals-9	Ani-161e_170_amphibians-19_3992	170	Ani-161e_170_animals-9_3812	170	0	amphibians	animals	100.0
+taxongroup	Wat-4f58_171_amphibians-5	Wat-4f58_171_vertebrates-2	Wat-4f58_171_amphibians-5_3992	171	Wat-4f58_171_vertebrates-2_3935	171	0	amphibians	vertebrates	100.0
+taxongroup	Par-5c6e_112_amphibians-24	Par-5c6e_112_vertebrates-2	Par-5c6e_112_amphibians-24_3992	112	Par-5c6e_112_vertebrates-2_3935	112	0	amphibians	vertebrates	100.0
+taxongroup	Ovi-8c33_10_amphibians-12	Ovi-8c33_10_vertebrates-3	Ovi-8c33_10_amphibians-12_3992	10	Ovi-8c33_10_vertebrates-3_3935	10	0	amphibians	vertebrates	100.0
+taxongroup	Par-5c6e_6_amphibians-52	Par-5c6e_6_vertebrates-45	Par-5c6e_6_amphibians-52_3992	6	Par-5c6e_6_vertebrates-45_3935	6	0	amphibians	vertebrates	100.0
+taxongroup	Ver-1720_125_amphibians-19	Ver-1720_125_vertebrates-6	Ver-1720_125_amphibians-19_3992	125	Ver-1720_125_vertebrates-6_3935	125	0	amphibians	vertebrates	100.0
+taxongroup	Ver-1720_136_amphibians-41	Ver-1720_136_vertebrates-36	Ver-1720_136_amphibians-41_3992	136	Ver-1720_136_vertebrates-36_3935	136	0	amphibians	vertebrates	100.0
+taxongroup	Spe-51aa_49_amphibians-15	Spe-51aa_49_animals-2	Spe-51aa_49_amphibians-15_3992	49	Spe-51aa_49_animals-2_3812	49	0	amphibians	animals	100.0
+taxongroup	Com-f597_2_frog-40	Com-f597_2_frog-32	Com-f597_2_frog-40_3834	2	Com-f597_2_frog-32_841	2	0	common frog	True frogs	100.0
+taxongroup	Com-f597_2_frog-3	Com-f597_2_frog-27	Com-f597_2_frog-3_3834	2	Com-f597_2_frog-27_841	2	0	common frog	True frogs	100.0
+taxongroup	Tai-3286_116_salamander-32	Tai-3286_116_salamander-32	Tai-3286_116_salamander-32_232	116	Tai-3286_116_salamander-32_5440	116	0	Siberian salamander	salamanders	100.0
+taxongroup	Nor-d13e_183_salamander-55	Nor-d13e_183_amphibians-6	Nor-d13e_183_salamander-55_5440	183	Nor-d13e_183_amphibians-6_3992	183	0	salamanders	amphibians	100.0
+taxongroup	Amp-436a_50_salamanders-32	Amp-436a_50_amphibians-28	Amp-436a_50_salamanders-32_5440	50	Amp-436a_50_amphibians-28_3992	50	0	salamanders	amphibians	100.0
+taxongroup	Amp-436a_126_salamander-17	Amp-436a_126_amphibian-4	Amp-436a_126_salamander-17_5440	126	Amp-436a_126_amphibian-4_3992	126	0	salamanders	amphibians	100.0
+taxongroup	Amp-436a_19_salamander-18	Amp-436a_19_amphibian-4	Amp-436a_19_salamander-18_5440	19	Amp-436a_19_amphibian-4_3992	19	0	salamanders	amphibians	100.0
+taxongroup	Amp-436a_29_salamanders-13	Amp-436a_29_amphibians-6	Amp-436a_29_salamanders-13_5440	29	Amp-436a_29_amphibians-6_3992	29	0	salamanders	amphibians	100.0
+taxongroup	Amp-436a_307_salamander-38	Amp-436a_307_amphibians-18	Amp-436a_307_salamander-38_5440	307	Amp-436a_307_amphibians-18_3992	307	0	salamanders	amphibians	100.0
+taxongroup	Cae-3f0c_132_salamanders-16	Cae-3f0c_132_amphibians-7	Cae-3f0c_132_salamanders-16_5440	132	Cae-3f0c_132_amphibians-7_3992	132	0	salamanders	amphibians	100.0
+taxongroup	Cae-3f0c_119_salamanders-20	Cae-3f0c_119_amphibians-8	Cae-3f0c_119_salamanders-20_5440	119	Cae-3f0c_119_amphibians-8_3992	119	0	salamanders	amphibians	100.0
+taxongroup	Cae-3f0c_18_salamanders-3	Cae-3f0c_18_amphibians-14	Cae-3f0c_18_salamanders-3_5440	18	Cae-3f0c_18_amphibians-14_3992	18	0	salamanders	amphibians	100.0
+taxongroup	Amp-436a_56_salamanders-6	Amp-436a_56_amphibians-28	Amp-436a_56_salamanders-6_5440	56	Amp-436a_56_amphibians-28_3992	56	0	salamanders	amphibians	100.0
+taxongroup	Cau-ba75_2_salamanders-11	Cau-ba75_2_amphibians-7	Cau-ba75_2_salamanders-11_5440	2	Cau-ba75_2_amphibians-7_3992	2	0	salamanders	amphibians	100.0
+taxongroup	Chi-0753_166_salamander-8	Chi-0753_166_amphibians-3	Chi-0753_166_salamander-8_5440	166	Chi-0753_166_amphibians-3_3992	166	0	salamanders	amphibians	100.0
+taxongroup	Chi-0753_37_salamander-4	Chi-0753_37_amphibians-17	Chi-0753_37_salamander-4_5440	37	Chi-0753_37_amphibians-17_3992	37	0	salamanders	amphibians	100.0
+taxongroup	Chi-0753_37_salamanders-22	Chi-0753_37_amphibians-17	Chi-0753_37_salamanders-22_5440	37	Chi-0753_37_amphibians-17_3992	37	0	salamanders	amphibians	100.0
+taxongroup	Chi-0753_2_salamanders-14	Chi-0753_2_amphibians-20	Chi-0753_2_salamanders-14_5440	2	Chi-0753_2_amphibians-20_3992	2	0	salamanders	amphibians	100.0
+taxongroup	Chi-0753_2_salamander-4	Chi-0753_2_amphibians-20	Chi-0753_2_salamander-4_5440	2	Chi-0753_2_amphibians-20_3992	2	0	salamanders	amphibians	100.0
+taxongroup	Com-4c8f_41_salamanders-36	Com-4c8f_41_amphibians-57	Com-4c8f_41_salamanders-36_5440	41	Com-4c8f_41_amphibians-57_3992	41	0	salamanders	amphibians	100.0
+taxongroup	Amp-436a_126_salamander-17	Amp-436a_126_amphibian-32	Amp-436a_126_salamander-17_5440	126	Amp-436a_126_amphibian-32_3992	126	0	salamanders	amphibians	100.0
+taxongroup	Amp-436a_594_salamander-7	Amp-436a_594_amphibians-23	Amp-436a_594_salamander-7_5440	594	Amp-436a_594_amphibians-23_3992	594	0	salamanders	amphibians	100.0
+taxongroup	Das-ed91_166_salamanders-18	Das-ed91_166_amphibians-11	Das-ed91_166_salamanders-18_5440	166	Das-ed91_166_amphibians-11_3992	166	0	salamanders	amphibians	100.0
+taxongroup	Sal-5617_108_salamanders-31	Sal-5617_108_amphibians-2	Sal-5617_108_salamanders-31_5440	108	Sal-5617_108_amphibians-2_3992	108	0	salamanders	amphibians	100.0
+taxongroup	Fro-2392_83_salamanders-14	Fro-2392_83_amphibians-4	Fro-2392_83_salamanders-14_5440	83	Fro-2392_83_amphibians-4_3992	83	0	salamanders	amphibians	100.0
+taxongroup	Jap-6cb7_12_salamander-23	Jap-6cb7_12_amphibian-7	Jap-6cb7_12_salamander-23_5440	12	Jap-6cb7_12_amphibian-7_3992	12	0	salamanders	amphibians	100.0
+taxongroup	Mon-93c6_230_salamander-22	Mon-93c6_230_amphibians-12	Mon-93c6_230_salamander-22_5440	230	Mon-93c6_230_amphibians-12_3992	230	0	salamanders	amphibians	100.0
+taxongroup	Neo-e4e0_73_salamander-4	Neo-e4e0_73_amphibians-7	Neo-e4e0_73_salamander-4_5440	73	Neo-e4e0_73_amphibians-7_3992	73	0	salamanders	amphibians	100.0
+taxongroup	Neo-e4e0_75_salamander-19	Neo-e4e0_75_amphibians-8	Neo-e4e0_75_salamander-19_5440	75	Neo-e4e0_75_amphibians-8_3992	75	0	salamanders	amphibians	100.0
+taxongroup	Cau-ba75_2_salamanders-27	Cau-ba75_2_amphibians-7	Cau-ba75_2_salamanders-27_5440	2	Cau-ba75_2_amphibians-7_3992	2	0	salamanders	amphibians	100.0
+taxongroup	Cae-3f0c_99_salamanders-67	Cae-3f0c_99_amphibians-54	Cae-3f0c_99_salamanders-67_5440	99	Cae-3f0c_99_amphibians-54_3992	99	0	salamanders	amphibians	100.0
+taxongroup	Cae-3f0c_119_salamanders-20	Cae-3f0c_119_amphibians-42	Cae-3f0c_119_salamanders-20_5440	119	Cae-3f0c_119_amphibians-42_3992	119	0	salamanders	amphibians	100.0
+taxongroup	Fro-2392_476_salamanders-19	Fro-2392_476_animals-33	Fro-2392_476_salamanders-19_5440	476	Fro-2392_476_animals-33_44	476	0	salamanders	Animals	100.0
+taxongroup	Pal-f57e_2_newt-12	Pal-f57e_2_Lissotriton-5	Pal-f57e_2_newt-12_5293	2	Pal-f57e_2_Lissotriton-5_1109	2	0	palmate newt	Lissotriton	100.0
+taxongroup	Pal-f57e_2_newt-3	Pal-f57e_2_Lissotriton-5	Pal-f57e_2_newt-3_5293	2	Pal-f57e_2_Lissotriton-5_1109	2	0	palmate newt	Lissotriton	100.0
+taxongroup	Amp-436a_9_salamanders-14	Amp-436a_9_Amphibians-1	Amp-436a_9_salamanders-14_5440	9	Amp-436a_9_Amphibians-1_377	9	0	salamanders	Amphibians	100.0
+taxongroup	Ampacea_8_salamanders-5	Ampacea_8_Amphibians-1	Ampacea_8_salamanders-5_5440	8	Ampacea_8_Amphibians-1_377	8	0	salamanders	Amphibians	100.0
+taxongroup	Spa-e46a_8_salamanders-9	Spa-e46a_8_Amphibians-1	Spa-e46a_8_salamanders-9_5440	8	Spa-e46a_8_Amphibians-1_377	8	0	salamanders	Amphibians	100.0
+taxongroup	Aes-3859_42_salamanders-14	Aes-3859_42_animals-2	Aes-3859_42_salamanders-14_5440	42	Aes-3859_42_animals-2_44	42	0	salamanders	Animals	100.0
+taxongroup	Chi-0753_142_salamander-10	Chi-0753_142_animal-21	Chi-0753_142_salamander-10_5440	142	Chi-0753_142_animal-21_44	142	0	salamanders	Animals	100.0
+taxongroup	Chi-0753_110_salamanders-11	Chi-0753_110_animals-15	Chi-0753_110_salamanders-11_5440	110	Chi-0753_110_animals-15_44	110	0	salamanders	Animals	100.0
+taxongroup	Com-4c8f_41_salamanders-36	Com-4c8f_41_animal-47	Com-4c8f_41_salamanders-36_5440	41	Com-4c8f_41_animal-47_44	41	0	salamanders	Animals	100.0
+taxongroup	Com-4c8f_41_salamanders-36	Com-4c8f_41_animal-9	Com-4c8f_41_salamanders-36_5440	41	Com-4c8f_41_animal-9_44	41	0	salamanders	Animals	100.0
+taxongroup	Cou-ac5a_126_salamander-15	Cou-ac5a_126_animals-2	Cou-ac5a_126_salamander-15_5440	126	Cou-ac5a_126_animals-2_44	126	0	salamanders	Animals	100.0
+taxongroup	Jap-6cb7_98_salamander-5	Jap-6cb7_98_animal-23	Jap-6cb7_98_salamander-5_5440	98	Jap-6cb7_98_animal-23_44	98	0	salamanders	Animals	100.0
+taxongroup	Cae-3f0c_37_salamanders-8	Cae-3f0c_37_amphibians-4	Cae-3f0c_37_salamanders-8_5440	37	Cae-3f0c_37_amphibians-4_3992	37	0	salamanders	amphibians	100.0
+taxongroup	Red-2707_35_salamanders-19	Red-2707_35_animal-2	Red-2707_35_salamanders-19_5440	35	Red-2707_35_animal-2_44	35	0	salamanders	Animals	100.0
+taxongroup	Mar-4677_20_salamanders-7	Mar-4677_20_animals-2	Mar-4677_20_salamanders-7_5440	20	Mar-4677_20_animals-2_44	20	0	salamanders	Animals	100.0
+taxongroup	Sal-5617_40_salamander-20	Sal-5617_40_animal-11	Sal-5617_40_salamander-20_5440	40	Sal-5617_40_animal-11_44	40	0	salamanders	Animals	100.0
+taxongroup	Sal-5617_12_salamanders-4	Sal-5617_12_animal-25	Sal-5617_12_salamanders-4_5440	12	Sal-5617_12_animal-25_44	12	0	salamanders	Animals	100.0
+taxongroup	Sal-5617_325_salamander-40	Sal-5617_325_Animals-17	Sal-5617_325_salamander-40_5440	325	Sal-5617_325_Animals-17_44	325	0	salamanders	Animals	100.0
+taxongroup	Sal-5617_38_salamanders-5	Sal-5617_38_animal-28	Sal-5617_38_salamanders-5_5440	38	Sal-5617_38_animal-28_44	38	0	salamanders	Animals	100.0
+taxongroup	Sal-5617_325_salamander-5	Sal-5617_325_Animals-17	Sal-5617_325_salamander-5_5440	325	Sal-5617_325_Animals-17_44	325	0	salamanders	Animals	100.0
+taxongroup	Sal-5617_141_salamanders-20	Sal-5617_141_animals-8	Sal-5617_141_salamanders-20_5440	141	Sal-5617_141_animals-8_44	141	0	salamanders	Animals	100.0
+taxongroup	Sala1df_8_salamander-20	Sala1df_8_animal-12	Sala1df_8_salamander-20_5440	8	Sala1df_8_animal-12_44	8	0	salamanders	Animals	100.0
+taxongroup	Sym1a11_30_salamander-20	Sym1a11_30_animal-12	Sym1a11_30_salamander-20_5440	30	Sym1a11_30_animal-12_44	30	0	salamanders	Animals	100.0
+taxongroup	Add-f0f0_105_salamanders-14	Add-f0f0_105_amphibians-5	Add-f0f0_105_salamanders-14_5440	105	Add-f0f0_105_amphibians-5_3992	105	0	salamanders	amphibians	100.0
+taxongroup	Nor-d13e_10_salamanders-19	Nor-d13e_10_amphibians-15	Nor-d13e_10_salamanders-19_5440	10	Nor-d13e_10_amphibians-15_3992	10	0	salamanders	amphibians	100.0
+taxongroup	Nor-d13e_183_salamanders-47	Nor-d13e_183_amphibians-6	Nor-d13e_183_salamanders-47_5440	183	Nor-d13e_183_amphibians-6_3992	183	0	salamanders	amphibians	100.0
+taxongroup	Tri-5b33_95_frog-23	Tri-5b33_95_amphibians-18	Tri-5b33_95_frog-23_3834	95	Tri-5b33_95_amphibians-18_3992	95	0	common frog	amphibians	100.0
+taxongroup	Red-2707_35_salamanders-19	Red-2707_35_amphibians-16	Red-2707_35_salamanders-19_5440	35	Red-2707_35_amphibians-16_3992	35	0	salamanders	amphibians	100.0
+taxongroup	Fos-19c4_3_salamanders-21	Fos-19c4_3_vertebrates-4	Fos-19c4_3_salamanders-21_5440	3	Fos-19c4_3_vertebrates-4_3935	3	0	salamanders	vertebrates	100.0
+taxongroup	Par-5c6e_114_salamanders-31	Par-5c6e_114_vertebrate-9	Par-5c6e_114_salamanders-31_5440	114	Par-5c6e_114_vertebrate-9_3935	114	0	salamanders	vertebrates	100.0
+taxongroup	Sal-5617_10_salamanders-5	Sal-5617_10_vertebrates-41	Sal-5617_10_salamanders-5_5440	10	Sal-5617_10_vertebrates-41_3935	10	0	salamanders	vertebrates	100.0
+taxongroup	Smo-99ce_2_frog-13	Smo-99ce_2_Leptodactylidae-17	Smo-99ce_2_frog-13_3903	2	Smo-99ce_2_Leptodactylidae-17_664	2	0	smoky jungle frog	Leptodactylidae	100.0
+taxongroup	Smo-99ce_2_frog-4	Smo-99ce_2_Leptodactylidae-17	Smo-99ce_2_frog-4_3903	2	Smo-99ce_2_Leptodactylidae-17_664	2	0	smoky jungle frog	Leptodactylidae	100.0
+taxongroup	Smo-99ce_2_frog-4	Smo-99ce_2_Leptodactylus-6	Smo-99ce_2_frog-4_3903	2	Smo-99ce_2_Leptodactylus-6_1105	2	0	smoky jungle frog	Leptodactylus	100.0
+taxongroup	Smo-99ce_2_frog-13	Smo-99ce_2_Leptodactylus-6	Smo-99ce_2_frog-13_3903	2	Smo-99ce_2_Leptodactylus-6_1105	2	0	smoky jungle frog	Leptodactylus	100.0
+taxongroup	Fro-2392_417_frog-4	Fro-2392_417_Leptodactylus-6	Fro-2392_417_frog-4_3903	417	Fro-2392_417_Leptodactylus-6_1105	417	0	smoky jungle frog	Leptodactylus	100.0
+taxongroup	Dip-c98d_261_salamanders-16	Dip-c98d_261_vertebrates-2	Dip-c98d_261_salamanders-16_5440	261	Dip-c98d_261_vertebrates-2_3935	261	0	salamanders	vertebrates	100.0
+taxongroup	Bro-f1dc_297_salamanders-15	Bro-f1dc_297_vertebrates-2	Bro-f1dc_297_salamanders-15_5440	297	Bro-f1dc_297_vertebrates-2_3935	297	0	salamanders	vertebrates	100.0
+taxongroup	Apa-3e1a_301_salamanders-20	Apa-3e1a_301_vertebrates-2	Apa-3e1a_301_salamanders-20_5440	301	Apa-3e1a_301_vertebrates-2_3935	301	0	salamanders	vertebrates	100.0
+taxongroup	Jap-6cb7_12_salamander-28	Jap-6cb7_12_amphibian-7	Jap-6cb7_12_salamander-28_5440	12	Jap-6cb7_12_amphibian-7_3992	12	0	salamanders	amphibians	100.0
+taxongroup	Sal-5617_113_salamander-8	Sal-5617_113_amphibians-21	Sal-5617_113_salamander-8_5440	113	Sal-5617_113_amphibians-21_3992	113	0	salamanders	amphibians	100.0
+taxongroup	Sal-5617_107_salamanders-6	Sal-5617_107_amphibians-12	Sal-5617_107_salamanders-6_5440	107	Sal-5617_107_amphibians-12_3992	107	0	salamanders	amphibians	100.0
+taxongroup	Sal-5617_256_salamander-4	Sal-5617_256_amphibian-15	Sal-5617_256_salamander-4_5440	256	Sal-5617_256_amphibian-15_3992	256	0	salamanders	amphibians	100.0
+taxongroup	Wil-3cbf_74_salamanders-8	Wil-3cbf_74_amphibians-5	Wil-3cbf_74_salamanders-8_5440	74	Wil-3cbf_74_amphibians-5_3992	74	0	salamanders	amphibians	100.0
+taxongroup	Sal-5617_199_salamander-7	Sal-5617_199_amphibians-17	Sal-5617_199_salamander-7_5440	199	Sal-5617_199_amphibians-17_3992	199	0	salamanders	amphibians	100.0
+taxongroup	Sal-5617_46_salamanders-4	Sal-5617_46_amphibians-10	Sal-5617_46_salamanders-4_5440	46	Sal-5617_46_amphibians-10_3992	46	0	salamanders	amphibians	100.0
+taxongroup	Lep-b9c7_2_chicken-9	Lep-b9c7_2_frog-21	Lep-b9c7_2_chicken-9_5173	2	Lep-b9c7_2_frog-21_4369	2	0	mountain chicken	ditch frogs	100.0
+taxongroup	Lep-b9c7_2_chicken-9	Lep-b9c7_2_frog-13	Lep-b9c7_2_chicken-9_5173	2	Lep-b9c7_2_frog-13_4369	2	0	mountain chicken	ditch frogs	100.0
+taxongroup	Lep-b9c7_40_chicken-3	Lep-b9c7_40_amphibians-16	Lep-b9c7_40_chicken-3_5173	40	Lep-b9c7_40_amphibians-16_3992	40	0	mountain chicken	amphibians	100.0
+taxongroup	Lep-b9c7_11_chicken-3	Lep-b9c7_11_Leptodactylidae-19	Lep-b9c7_11_chicken-3_5173	11	Lep-b9c7_11_Leptodactylidae-19_664	11	0	mountain chicken	Leptodactylidae	100.0
+taxongroup	Com-43a2_69_frog-4	Com-43a2_69_amphibian-34	Com-43a2_69_frog-4_3834	69	Com-43a2_69_amphibian-34_3992	69	0	common frog	amphibians	100.0
+taxongroup	Com-43a2_69_frog-12	Com-43a2_69_amphibian-34	Com-43a2_69_frog-12_3834	69	Com-43a2_69_amphibian-34_3992	69	0	common frog	amphibians	100.0
+taxongroup	Nor-4c81_86_frog-33	Nor-4c81_86_amphibians-28	Nor-4c81_86_frog-33_3834	86	Nor-4c81_86_amphibians-28_3992	86	0	common frog	amphibians	100.0
+taxongroup	Com-f597_21_frogs-6	Com-f597_21_amphibians-3	Com-f597_21_frogs-6_3834	21	Com-f597_21_amphibians-3_3992	21	0	common frog	amphibians	100.0
+taxongroup	Com-f597_127_frog-10	Com-f597_127_amphibian-53	Com-f597_127_frog-10_3834	127	Com-f597_127_amphibian-53_3992	127	0	common frog	amphibians	100.0
+taxongroup	Fro-2392_30_frog-7	Fro-2392_30_frog-7	Fro-2392_30_frog-7_3834	30	Fro-2392_30_frog-7_4990	30	0	common frog	frogs and toads	100.0
+taxongroup	Sal-5617_95_salamanders-7	Sal-5617_95_salamanders-7	Sal-5617_95_salamanders-7_4146	95	Sal-5617_95_salamanders-7_5440	95	0	lungless salamanders	salamanders	100.0
+taxongroup	Ple-374e_14_salamanders-6	Ple-374e_14_salamander-12	Ple-374e_14_salamanders-6_4146	14	Ple-374e_14_salamander-12_5440	14	0	lungless salamanders	salamanders	100.0
+taxongroup	Ple-374e_14_salamanders-6	Ple-374e_14_salamanders-6	Ple-374e_14_salamanders-6_4146	14	Ple-374e_14_salamanders-6_5440	14	0	lungless salamanders	salamanders	100.0
+taxongroup	Ple-374e_14_salamander-12	Ple-374e_14_salamander-12	Ple-374e_14_salamander-12_4146	14	Ple-374e_14_salamander-12_5440	14	0	lungless salamanders	salamanders	100.0
+taxongroup	Ple-374e_3_salamanders-7	Ple-374e_3_salamanders-7	Ple-374e_3_salamanders-7_4146	3	Ple-374e_3_salamanders-7_5440	3	0	lungless salamanders	salamanders	100.0
+taxongroup	Ple-374e_3_salamanders-15	Ple-374e_3_salamanders-15	Ple-374e_3_salamanders-15_4146	3	Ple-374e_3_salamanders-15_5440	3	0	lungless salamanders	salamanders	100.0
+taxongroup	Sal-5617_98_salamanders-11	Sal-5617_98_salamanders-4	Sal-5617_98_salamanders-11_4146	98	Sal-5617_98_salamanders-4_5440	98	0	lungless salamanders	salamanders	100.0
+taxongroup	Sal-5617_98_salamanders-17	Sal-5617_98_salamanders-11	Sal-5617_98_salamanders-17_4146	98	Sal-5617_98_salamanders-11_5440	98	0	lungless salamanders	salamanders	100.0
+taxongroup	Sal-5617_98_salamanders-17	Sal-5617_98_salamanders-17	Sal-5617_98_salamanders-17_4146	98	Sal-5617_98_salamanders-17_5440	98	0	lungless salamanders	salamanders	100.0
+taxongroup	Sal-5617_220_salamanders-6	Sal-5617_220_salamanders-12	Sal-5617_220_salamanders-6_4146	220	Sal-5617_220_salamanders-12_5440	220	0	lungless salamanders	salamanders	100.0
+taxongroup	Sal-5617_220_salamanders-12	Sal-5617_220_salamanders-6	Sal-5617_220_salamanders-12_4146	220	Sal-5617_220_salamanders-6_5440	220	0	lungless salamanders	salamanders	100.0
+taxongroup	Sal-5617_220_salamanders-12	Sal-5617_220_salamanders-12	Sal-5617_220_salamanders-12_4146	220	Sal-5617_220_salamanders-12_5440	220	0	lungless salamanders	salamanders	100.0
+taxongroup	Sal-5617_98_salamanders-11	Sal-5617_98_salamanders-17	Sal-5617_98_salamanders-11_4146	98	Sal-5617_98_salamanders-17_5440	98	0	lungless salamanders	salamanders	100.0
+taxongroup	Ple-374e_7_salamanders-3	Ple-374e_7_salamanders-3	Ple-374e_7_salamanders-3_4146	7	Ple-374e_7_salamanders-3_5440	7	0	lungless salamanders	salamanders	100.0
+taxongroup	Sal-5617_98_salamanders-4	Sal-5617_98_salamanders-11	Sal-5617_98_salamanders-4_4146	98	Sal-5617_98_salamanders-11_5440	98	0	lungless salamanders	salamanders	100.0
+taxongroup	Sal-5617_98_salamanders-4	Sal-5617_98_salamanders-17	Sal-5617_98_salamanders-4_4146	98	Sal-5617_98_salamanders-17_5440	98	0	lungless salamanders	salamanders	100.0
+taxongroup	Sal-5617_98_salamanders-4	Sal-5617_98_salamanders-4	Sal-5617_98_salamanders-4_4146	98	Sal-5617_98_salamanders-4_5440	98	0	lungless salamanders	salamanders	100.0
+taxongroup	Sal-5617_98_salamanders-11	Sal-5617_98_salamanders-11	Sal-5617_98_salamanders-11_4146	98	Sal-5617_98_salamanders-11_5440	98	0	lungless salamanders	salamanders	100.0
+taxongroup	Sal-5617_135_salamanders-3	Sal-5617_135_salamanders-3	Sal-5617_135_salamanders-3_4146	135	Sal-5617_135_salamanders-3_5440	135	0	lungless salamanders	salamanders	100.0
+taxongroup	Sal-5617_220_salamanders-6	Sal-5617_220_salamanders-6	Sal-5617_220_salamanders-6_4146	220	Sal-5617_220_salamanders-6_5440	220	0	lungless salamanders	salamanders	100.0
+taxongroup	Sal-5617_98_salamanders-17	Sal-5617_98_salamanders-4	Sal-5617_98_salamanders-17_4146	98	Sal-5617_98_salamanders-4_5440	98	0	lungless salamanders	salamanders	100.0
+taxongroup	Sal-5617_229_salamanders-14	Sal-5617_229_salamanders-14	Sal-5617_229_salamanders-14_4146	229	Sal-5617_229_salamanders-14_5440	229	0	lungless salamanders	salamanders	100.0
+taxongroup	Mar-495f_2_frog-3	Mar-495f_2_Pelophylax-5	Mar-495f_2_frog-3_3875	2	Mar-495f_2_Pelophylax-5_1201	2	0	marsh frog	Pelophylax	100.0
+taxongroup	Mar-495f_2_frog-13	Mar-495f_2_Pelophylax-5	Mar-495f_2_frog-13_3875	2	Mar-495f_2_Pelophylax-5_1201	2	0	marsh frog	Pelophylax	100.0
+taxongroup	Fro-2392_282_frog-20	Fro-2392_282_Pelophylax-22	Fro-2392_282_frog-20_3875	282	Fro-2392_282_Pelophylax-22_1201	282	0	marsh frog	Pelophylax	100.0
+taxongroup	Ple-374e_3_salamanders-15	Ple-374e_3_salamanders-7	Ple-374e_3_salamanders-15_4146	3	Ple-374e_3_salamanders-7_5440	3	0	lungless salamanders	salamanders	100.0
+taxongroup	Ple-374e_3_salamanders-7	Ple-374e_3_salamanders-15	Ple-374e_3_salamanders-7_4146	3	Ple-374e_3_salamanders-15_5440	3	0	lungless salamanders	salamanders	100.0
+taxongroup	Fro-2392_485_toads-4	Fro-2392_485_frogs-2	Fro-2392_485_toads-4_3843	485	Fro-2392_485_frogs-2_4990	485	0	common toad	frogs and toads	100.0
+taxongroup	Com-43a2_169_toads-14	Com-43a2_169_amphibians-7	Com-43a2_169_toads-14_3843	169	Com-43a2_169_amphibians-7_3992	169	0	common toad	amphibians	100.0
+taxongroup	Com-43a2_69_toad-28	Com-43a2_69_amphibian-34	Com-43a2_69_toad-28_3843	69	Com-43a2_69_amphibian-34_3992	69	0	common toad	amphibians	100.0
+taxongroup	Nor-4c81_86_toad-36	Nor-4c81_86_amphibians-28	Nor-4c81_86_toad-36_3843	86	Nor-4c81_86_amphibians-28_3992	86	0	common toad	amphibians	100.0
+taxongroup	Tri-5b33_95_toad-26	Tri-5b33_95_amphibians-18	Tri-5b33_95_toad-26_3843	95	Tri-5b33_95_amphibians-18_3992	95	0	common toad	amphibians	100.0
+taxongroup	Fro-2392_485_toad-23	Fro-2392_485_frogs-2	Fro-2392_485_toad-23_3843	485	Fro-2392_485_frogs-2_4990	485	0	common toad	frogs and toads	100.0
+taxongroup	Neo-e4e0_11_frogs-36	Neo-e4e0_11_amphibians-34	Neo-e4e0_11_frogs-36_4990	11	Neo-e4e0_11_amphibians-34_3992	11	0	frogs and toads	amphibians	100.0
+taxongroup	Ple-374e_14_salamander-12	Ple-374e_14_salamanders-6	Ple-374e_14_salamander-12_4146	14	Ple-374e_14_salamanders-6_5440	14	0	lungless salamanders	salamanders	100.0
+taxongroup	Fro8fc3_66_frogs-7	Fro8fc3_66_amphibians-4	Fro8fc3_66_frogs-7_4990	66	Fro8fc3_66_amphibians-4_3992	66	0	frogs and toads	amphibians	100.0
+taxongroup	Lon-b0af_465_frogs-19	Lon-b0af_465_amphibians-16	Lon-b0af_465_frogs-19_4990	465	Lon-b0af_465_amphibians-16_3992	465	0	frogs and toads	amphibians	100.0
+taxongroup	Aqu-83c9_216_frogs-7	Aqu-83c9_216_amphibians-4	Aqu-83c9_216_frogs-7_4990	216	Aqu-83c9_216_amphibians-4_3992	216	0	frogs and toads	amphibians	100.0
+taxongroup	Ter-605f_271_frogs-27	Ter-605f_271_amphibians-24	Ter-605f_271_frogs-27_4990	271	Ter-605f_271_amphibians-24_3992	271	0	frogs and toads	amphibians	100.0
+taxongroup	Eur-0e00_132_frogs-10	Eur-0e00_132_amphibians-6	Eur-0e00_132_frogs-10_4990	132	Eur-0e00_132_amphibians-6_3992	132	0	frogs and toads	amphibians	100.0
+taxongroup	Amp-436a_182_salamander-20	Amp-436a_182_salamander-20	Amp-436a_182_salamander-20_4146	182	Amp-436a_182_salamander-20_5440	182	0	lungless salamanders	salamanders	100.0
+taxongroup	Amp-436a_385_salamanders-10	Amp-436a_385_salamanders-10	Amp-436a_385_salamanders-10_4146	385	Amp-436a_385_salamanders-10_5440	385	0	lungless salamanders	salamanders	100.0
+taxongroup	Amp-436a_182_salamander-20	Amp-436a_182_salamanders-12	Amp-436a_182_salamander-20_4146	182	Amp-436a_182_salamanders-12_5440	182	0	lungless salamanders	salamanders	100.0
+taxongroup	Amp-436a_182_salamanders-12	Amp-436a_182_salamanders-12	Amp-436a_182_salamanders-12_4146	182	Amp-436a_182_salamanders-12_5440	182	0	lungless salamanders	salamanders	100.0
+taxongroup	Amp-436a_182_salamanders-12	Amp-436a_182_salamander-20	Amp-436a_182_salamanders-12_4146	182	Amp-436a_182_salamander-20_5440	182	0	lungless salamanders	salamanders	100.0
+taxongroup	Amp-436a_433_salamanders-2	Amp-436a_433_salamanders-2	Amp-436a_433_salamanders-2_4146	433	Amp-436a_433_salamanders-2_5440	433	0	lungless salamanders	salamanders	100.0
+taxongroup	Tai-3286_116_salamander-32	Tai-3286_116_salamander-35	Tai-3286_116_salamander-32_232	116	Tai-3286_116_salamander-35_5440	116	0	Siberian salamander	salamanders	100.0
+taxongroup	Tai-3286_116_salamander-32	Tai-3286_116_salamander-26	Tai-3286_116_salamander-32_232	116	Tai-3286_116_salamander-26_5440	116	0	Siberian salamander	salamanders	100.0
+taxongroup	Jap-6cb7_3_salamander-43	Jap-6cb7_3_salamander-43	Jap-6cb7_3_salamander-43_1869	3	Jap-6cb7_3_salamander-43_5440	3	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_3_salamander-20	Jap-6cb7_3_salamander-43	Jap-6cb7_3_salamander-20_1869	3	Jap-6cb7_3_salamander-43_5440	3	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Sal-5617_256_salamander-4	Sal-5617_256_salamander-4	Sal-5617_256_salamander-4_1869	256	Sal-5617_256_salamander-4_5440	256	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Tai-3286_116_salamander-35	Tai-3286_116_salamander-35	Tai-3286_116_salamander-35_232	116	Tai-3286_116_salamander-35_5440	116	0	Siberian salamander	salamanders	100.0
+taxongroup	Jap-6cb7_79_salamander-5	Jap-6cb7_79_salamander-5	Jap-6cb7_79_salamander-5_1869	79	Jap-6cb7_79_salamander-5_5440	79	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_21_salamander-4	Jap-6cb7_21_salamander-4	Jap-6cb7_21_salamander-4_1869	21	Jap-6cb7_21_salamander-4_5440	21	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_75_salamander-14	Jap-6cb7_75_salamander-8	Jap-6cb7_75_salamander-14_1869	75	Jap-6cb7_75_salamander-8_5440	75	0	Chinese giant salamander	salamanders	100.0
+taxongroup	And-7e7a_2_Andrias-1	And-7e7a_2_salamanders-7	And-7e7a_2_Andrias-1_889	2	And-7e7a_2_salamanders-7_5440	2	0	Andrias	salamanders	100.0
+taxongroup	Chi-0753_14_Andrias-31	Chi-0753_14_salamander-59	Chi-0753_14_Andrias-31_889	14	Chi-0753_14_salamander-59_5440	14	0	Andrias	salamanders	100.0
+taxongroup	Lep-1eac_15_Anura-13	Lep-1eac_15_Amphibia-11	Lep-1eac_15_Anura-13_2312	15	Lep-1eac_15_Amphibia-11_376	15	0	Anura	Amphibia	100.0
+taxongroup	Ran-546a_51_Anura-10	Ran-546a_51_Amphibia-8	Ran-546a_51_Anura-10_2312	51	Ran-546a_51_Amphibia-8_376	51	0	Anura	Amphibia	100.0
+taxongroup	Fro-2392_682_Anura-5	Fro-2392_682_Amphibia-7	Fro-2392_682_Anura-5_2312	682	Fro-2392_682_Amphibia-7_376	682	0	Anura	Amphibia	100.0
+taxongroup	Aqu-83c9_216_Anura-13	Aqu-83c9_216_amphibians-4	Aqu-83c9_216_Anura-13_2312	216	Aqu-83c9_216_amphibians-4_3992	216	0	Anura	amphibians	100.0
+taxongroup	Fro-2392_2_Anura-23	Fro-2392_2_amphibians-19	Fro-2392_2_Anura-23_2312	2	Fro-2392_2_amphibians-19_3992	2	0	Anura	amphibians	100.0
+taxongroup	Tru-b16e_2_Bufonidae-10	Tru-b16e_2_Anura-15	Tru-b16e_2_Bufonidae-10_847	2	Tru-b16e_2_Anura-15_2312	2	0	Bufonidae	Anura	100.0
+taxongroup	Tru-b16e_2_Bufonidae-10	Tru-b16e_2_frogs-17	Tru-b16e_2_Bufonidae-10_847	2	Tru-b16e_2_frogs-17_4990	2	0	Bufonidae	frogs and toads	100.0
+taxongroup	Met-e231_100_Caecilians-3	Met-e231_100_Amphibians-1	Met-e231_100_Caecilians-3_1827	100	Met-e231_100_Amphibians-1_377	100	0	Caecilians	Amphibians	100.0
+taxongroup	Amp-436a_162_Caudata-3	Amp-436a_162_animals-22	Amp-436a_162_Caudata-3_3263	162	Amp-436a_162_animals-22_44	162	0	Caudata	Animals	100.0
+taxongroup	Chi-0753_173_salamander-10	Chi-0753_173_Andrias-12	Chi-0753_173_salamander-10_1869	173	Chi-0753_173_Andrias-12_889	173	0	Chinese giant salamander	Andrias	100.0
+taxongroup	Chi-0753_10_salamander-30	Chi-0753_10_Andrias-11	Chi-0753_10_salamander-30_1869	10	Chi-0753_10_Andrias-11_889	10	0	Chinese giant salamander	Andrias	100.0
+taxongroup	Chi-0753_10_salamander-22	Chi-0753_10_Andrias-11	Chi-0753_10_salamander-22_1869	10	Chi-0753_10_Andrias-11_889	10	0	Chinese giant salamander	Andrias	100.0
+taxongroup	Gia-bc1d_69_salamander-4	Gia-bc1d_69_salamander-4	Gia-bc1d_69_salamander-4_1869	69	Gia-bc1d_69_salamander-4_5440	69	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Amp-436a_174_salamander-21	Amp-436a_174_salamander-30	Amp-436a_174_salamander-21_1869	174	Amp-436a_174_salamander-30_5440	174	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Amp-436a_174_salamander-30	Amp-436a_174_salamander-30	Amp-436a_174_salamander-30_1869	174	Amp-436a_174_salamander-30_5440	174	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Amp-436a_613_Andrias-6	Amp-436a_613_salamanders-2	Amp-436a_613_Andrias-6_889	613	Amp-436a_613_salamanders-2_5440	613	0	Andrias	salamanders	100.0
+taxongroup	Chi-0753_14_Andrias-61	Chi-0753_14_salamander-59	Chi-0753_14_Andrias-61_889	14	Chi-0753_14_salamander-59_5440	14	0	Andrias	salamanders	100.0
+taxongroup	Chi-0753_2_salamanders-14	Chi-0753_2_salamanders-14	Chi-0753_2_salamanders-14_1869	2	Chi-0753_2_salamanders-14_5440	2	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_Andrias-61	Chi-0753_14_salamander-50	Chi-0753_14_Andrias-61_889	14	Chi-0753_14_salamander-50_5440	14	0	Andrias	salamanders	100.0
+taxongroup	Lam-fc95_98_Amphibia-26	Lam-fc95_98_vertebrate-3	Lam-fc95_98_Amphibia-26_376	98	Lam-fc95_98_vertebrate-3_3935	98	0	Amphibia	vertebrates	100.0
+taxongroup	Amp-436a_24_Amphibia-5	Amp-436a_24_vertebrates-9	Amp-436a_24_Amphibia-5_376	24	Amp-436a_24_vertebrates-9_3935	24	0	Amphibia	vertebrates	100.0
+taxongroup	Met-e231_92_Amphibians-5	Met-e231_92_Chordata-3	Met-e231_92_Amphibians-5_377	92	Met-e231_92_Chordata-3_304	92	0	Amphibians	Chordata	100.0
+taxongroup	Met-e231_64_Amphibians-5	Met-e231_64_Chordata-3	Met-e231_64_Amphibians-5_377	64	Met-e231_64_Chordata-3_304	64	0	Amphibians	Chordata	100.0
+taxongroup	Ver-1720_11_Amphibians-5	Ver-1720_11_vertebrates-4	Ver-1720_11_Amphibians-5_377	11	Ver-1720_11_vertebrates-4_3935	11	0	Amphibians	vertebrates	100.0
+taxongroup	Amp-436a_501_Amphibians-1	Amp-436a_501_vertebrates-12	Amp-436a_501_Amphibians-1_377	501	Amp-436a_501_vertebrates-12_3935	501	0	Amphibians	vertebrates	100.0
+taxongroup	Jap-6cb7_121_Andrias-9	Jap-6cb7_121_salamander-19	Jap-6cb7_121_Andrias-9_889	121	Jap-6cb7_121_salamander-19_5440	121	0	Andrias	salamanders	100.0
+taxongroup	Jap-6cb7_121_Andrias-4	Jap-6cb7_121_salamander-19	Jap-6cb7_121_Andrias-4_889	121	Jap-6cb7_121_salamander-19_5440	121	0	Andrias	salamanders	100.0
+taxongroup	Gia-bc1d_26_Andrias-1	Gia-bc1d_26_salamander-6	Gia-bc1d_26_Andrias-1_889	26	Gia-bc1d_26_salamander-6_5440	26	0	Andrias	salamanders	100.0
+taxongroup	Gia-bc1d_19_Andrias-2	Gia-bc1d_19_salamanders-6	Gia-bc1d_19_Andrias-2_889	19	Gia-bc1d_19_salamanders-6_5440	19	0	Andrias	salamanders	100.0
+taxongroup	Gia-bc1d_24_Andrias-1	Gia-bc1d_24_salamander-6	Gia-bc1d_24_Andrias-1_889	24	Gia-bc1d_24_salamander-6_5440	24	0	Andrias	salamanders	100.0
+taxongroup	Chi-0753_10_Andrias-11	Chi-0753_10_salamander-30	Chi-0753_10_Andrias-11_889	10	Chi-0753_10_salamander-30_5440	10	0	Andrias	salamanders	100.0
+taxongroup	Chi-0753_14_Andrias-31	Chi-0753_14_salamander-29	Chi-0753_14_Andrias-31_889	14	Chi-0753_14_salamander-29_5440	14	0	Andrias	salamanders	100.0
+taxongroup	Chi-0753_14_Andrias-31	Chi-0753_14_salamander-50	Chi-0753_14_Andrias-31_889	14	Chi-0753_14_salamander-50_5440	14	0	Andrias	salamanders	100.0
+taxongroup	Chi-0753_14_Andrias-31	Chi-0753_14_salamander-41	Chi-0753_14_Andrias-31_889	14	Chi-0753_14_salamander-41_5440	14	0	Andrias	salamanders	100.0
+taxongroup	Chi-0753_10_Andrias-11	Chi-0753_10_salamander-22	Chi-0753_10_Andrias-11_889	10	Chi-0753_10_salamander-22_5440	10	0	Andrias	salamanders	100.0
+taxongroup	Chi-0753_173_Andrias-12	Chi-0753_173_salamander-10	Chi-0753_173_Andrias-12_889	173	Chi-0753_173_salamander-10_5440	173	0	Andrias	salamanders	100.0
+taxongroup	Chi-0753_14_Andrias-52	Chi-0753_14_salamander-29	Chi-0753_14_Andrias-52_889	14	Chi-0753_14_salamander-29_5440	14	0	Andrias	salamanders	100.0
+taxongroup	Chi-0753_14_Andrias-52	Chi-0753_14_salamander-41	Chi-0753_14_Andrias-52_889	14	Chi-0753_14_salamander-41_5440	14	0	Andrias	salamanders	100.0
+taxongroup	Chi-0753_14_Andrias-52	Chi-0753_14_salamander-50	Chi-0753_14_Andrias-52_889	14	Chi-0753_14_salamander-50_5440	14	0	Andrias	salamanders	100.0
+taxongroup	Chi-0753_14_Andrias-52	Chi-0753_14_salamander-59	Chi-0753_14_Andrias-52_889	14	Chi-0753_14_salamander-59_5440	14	0	Andrias	salamanders	100.0
+taxongroup	Chi-0753_14_Andrias-61	Chi-0753_14_salamander-29	Chi-0753_14_Andrias-61_889	14	Chi-0753_14_salamander-29_5440	14	0	Andrias	salamanders	100.0
+taxongroup	Chi-0753_14_Andrias-61	Chi-0753_14_salamander-41	Chi-0753_14_Andrias-61_889	14	Chi-0753_14_salamander-41_5440	14	0	Andrias	salamanders	100.0
+taxongroup	Amp-436a_126_salamander-17	Amp-436a_126_salamander-17	Amp-436a_126_salamander-17_1869	126	Amp-436a_126_salamander-17_5440	126	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_2_salamanders-14	Chi-0753_2_salamander-4	Chi-0753_2_salamanders-14_1869	2	Chi-0753_2_salamander-4_5440	2	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_21_salamander-12	Jap-6cb7_21_salamander-4	Jap-6cb7_21_salamander-12_1869	21	Jap-6cb7_21_salamander-4_5440	21	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_55_salamander-22	Chi-0753_55_salamander-9	Chi-0753_55_salamander-22_1869	55	Chi-0753_55_salamander-9_5440	55	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_52_salamander-4	Chi-0753_52_salamander-4	Chi-0753_52_salamander-4_1869	52	Chi-0753_52_salamander-4_5440	52	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_55_salamander-9	Chi-0753_55_salamander-22	Chi-0753_55_salamander-9_1869	55	Chi-0753_55_salamander-22_5440	55	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_84_salamanders-3	Chi-0753_84_salamander-23	Chi-0753_84_salamanders-3_1869	84	Chi-0753_84_salamander-23_5440	84	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_10_salamander-22	Chi-0753_10_salamander-22	Chi-0753_10_salamander-22_1869	10	Chi-0753_10_salamander-22_5440	10	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_84_salamanders-3	Chi-0753_84_salamanders-3	Chi-0753_84_salamanders-3_1869	84	Chi-0753_84_salamanders-3_5440	84	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_10_salamander-30	Chi-0753_10_salamander-22	Chi-0753_10_salamander-30_1869	10	Chi-0753_10_salamander-22_5440	10	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_72_salamanders-14	Chi-0753_72_salamanders-14	Chi-0753_72_salamanders-14_1869	72	Chi-0753_72_salamanders-14_5440	72	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_166_salamander-8	Chi-0753_166_salamander-8	Chi-0753_166_salamander-8_1869	166	Chi-0753_166_salamander-8_5440	166	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_10_salamander-30	Chi-0753_10_salamander-30	Chi-0753_10_salamander-30_1869	10	Chi-0753_10_salamander-30_5440	10	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_86_salamander-4	Chi-0753_86_salamander-4	Chi-0753_86_salamander-4_1869	86	Chi-0753_86_salamander-4_5440	86	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_79_salamander-5	Jap-6cb7_79_salamander-24	Jap-6cb7_79_salamander-5_1869	79	Jap-6cb7_79_salamander-24_5440	79	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_21_salamander-12	Jap-6cb7_21_salamander-12	Jap-6cb7_21_salamander-12_1869	21	Jap-6cb7_21_salamander-12_5440	21	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_3_salamander-20	Jap-6cb7_3_salamander-20	Jap-6cb7_3_salamander-20_1869	3	Jap-6cb7_3_salamander-20_5440	3	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_79_salamander-24	Jap-6cb7_79_salamander-5	Jap-6cb7_79_salamander-24_1869	79	Jap-6cb7_79_salamander-5_5440	79	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_3_salamander-37	Jap-6cb7_3_salamander-37	Jap-6cb7_3_salamander-37_1869	3	Jap-6cb7_3_salamander-37_5440	3	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_3_salamander-43	Jap-6cb7_3_salamander-20	Jap-6cb7_3_salamander-43_1869	3	Jap-6cb7_3_salamander-20_5440	3	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_3_salamander-43	Jap-6cb7_3_salamander-37	Jap-6cb7_3_salamander-43_1869	3	Jap-6cb7_3_salamander-37_5440	3	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_3_salamander-37	Jap-6cb7_3_salamander-20	Jap-6cb7_3_salamander-37_1869	3	Jap-6cb7_3_salamander-20_5440	3	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_3_salamander-20	Jap-6cb7_3_salamander-37	Jap-6cb7_3_salamander-20_1869	3	Jap-6cb7_3_salamander-37_5440	3	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_79_salamander-24	Jap-6cb7_79_salamander-24	Jap-6cb7_79_salamander-24_1869	79	Jap-6cb7_79_salamander-24_5440	79	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_3_salamander-37	Jap-6cb7_3_salamander-43	Jap-6cb7_3_salamander-37_1869	3	Jap-6cb7_3_salamander-43_5440	3	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_75_salamander-8	Jap-6cb7_75_salamander-14	Jap-6cb7_75_salamander-8_1869	75	Jap-6cb7_75_salamander-14_5440	75	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_21_salamander-4	Jap-6cb7_21_salamander-12	Jap-6cb7_21_salamander-4_1869	21	Jap-6cb7_21_salamander-12_5440	21	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_75_salamander-8	Jap-6cb7_75_salamander-8	Jap-6cb7_75_salamander-8_1869	75	Jap-6cb7_75_salamander-8_5440	75	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_75_salamander-14	Jap-6cb7_75_salamander-14	Jap-6cb7_75_salamander-14_1869	75	Jap-6cb7_75_salamander-14_5440	75	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_55_salamander-22	Chi-0753_55_salamander-22	Chi-0753_55_salamander-22_1869	55	Chi-0753_55_salamander-22_5440	55	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_156_salamander-16	Chi-0753_156_salamander-16	Chi-0753_156_salamander-16_1869	156	Chi-0753_156_salamander-16_5440	156	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_2_salamander-4	Chi-0753_2_salamanders-14	Chi-0753_2_salamander-4_1869	2	Chi-0753_2_salamanders-14_5440	2	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_109_salamanders-9	Chi-0753_109_salamanders-9	Chi-0753_109_salamanders-9_1869	109	Chi-0753_109_salamanders-9_5440	109	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_2_salamander-4	Chi-0753_2_salamander-4	Chi-0753_2_salamander-4_1869	2	Chi-0753_2_salamander-4_5440	2	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_122_salamander-10	Chi-0753_122_salamander-10	Chi-0753_122_salamander-10_1869	122	Chi-0753_122_salamander-10_5440	122	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Amp-436a_174_salamander-30	Amp-436a_174_salamander-21	Amp-436a_174_salamander-30_1869	174	Amp-436a_174_salamander-21_5440	174	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_37_salamander-4	Chi-0753_37_salamander-4	Chi-0753_37_salamander-4_1869	37	Chi-0753_37_salamander-4_5440	37	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Amp-436a_174_salamander-21	Amp-436a_174_salamander-21	Amp-436a_174_salamander-21_1869	174	Amp-436a_174_salamander-21_5440	174	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Amp-436a_165_salamander-9	Amp-436a_165_salamander-9	Amp-436a_165_salamander-9_1869	165	Amp-436a_165_salamander-9_5440	165	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_37_salamander-4	Chi-0753_37_salamanders-22	Chi-0753_37_salamander-4_1869	37	Chi-0753_37_salamanders-22_5440	37	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_47_salamander-20	Chi-0753_47_salamander-20	Chi-0753_47_salamander-20_1869	47	Chi-0753_47_salamander-20_5440	47	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_161_salamander-16	Chi-0753_161_salamander-16	Chi-0753_161_salamander-16_1869	161	Chi-0753_161_salamander-16_5440	161	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_108_salamanders-8	Chi-0753_108_salamanders-8	Chi-0753_108_salamanders-8_1869	108	Chi-0753_108_salamanders-8_5440	108	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_84_salamander-23	Chi-0753_84_salamanders-3	Chi-0753_84_salamander-23_1869	84	Chi-0753_84_salamanders-3_5440	84	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_84_salamander-23	Chi-0753_84_salamander-23	Chi-0753_84_salamander-23_1869	84	Chi-0753_84_salamander-23_5440	84	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_10_salamander-22	Chi-0753_10_salamander-30	Chi-0753_10_salamander-22_1869	10	Chi-0753_10_salamander-30_5440	10	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_29_salamander-7	Chi-0753_29_salamander-7	Chi-0753_29_salamander-7_1869	29	Chi-0753_29_salamander-7_5440	29	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_173_salamander-10	Chi-0753_173_salamander-10	Chi-0753_173_salamander-10_1869	173	Chi-0753_173_salamander-10_5440	173	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_46_salamanders-9	Chi-0753_46_salamanders-9	Chi-0753_46_salamanders-9_1869	46	Chi-0753_46_salamanders-9_5440	46	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_46_salamanders-9	Chi-0753_46_salamanders-4	Chi-0753_46_salamanders-9_1869	46	Chi-0753_46_salamanders-4_5440	46	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_143_salamander-4	Chi-0753_143_salamander-4	Chi-0753_143_salamander-4_1869	143	Chi-0753_143_salamander-4_5440	143	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_46_salamanders-4	Chi-0753_46_salamanders-9	Chi-0753_46_salamanders-4_1869	46	Chi-0753_46_salamanders-9_5440	46	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_46_salamanders-4	Chi-0753_46_salamanders-4	Chi-0753_46_salamanders-4_1869	46	Chi-0753_46_salamanders-4_5440	46	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_39_salamanders-29	Chi-0753_39_salamanders-29	Chi-0753_39_salamanders-29_1869	39	Chi-0753_39_salamanders-29_5440	39	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_37_salamanders-22	Chi-0753_37_salamanders-22	Chi-0753_37_salamanders-22_1869	37	Chi-0753_37_salamanders-22_5440	37	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_15_salamander-18	Chi-0753_15_salamander-18	Chi-0753_15_salamander-18_1869	15	Chi-0753_15_salamander-18_5440	15	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_37_salamanders-22	Chi-0753_37_salamander-4	Chi-0753_37_salamanders-22_1869	37	Chi-0753_37_salamander-4_5440	37	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_55_salamander-9	Chi-0753_55_salamander-9	Chi-0753_55_salamander-9_1869	55	Chi-0753_55_salamander-9_5440	55	0	Chinese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-50	Chi-0753_14_salamander-41	Chi-0753_14_salamander-50_2614	14	Chi-0753_14_salamander-41_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-41	Chi-0753_14_salamander-41	Chi-0753_14_salamander-41_2614	14	Chi-0753_14_salamander-41_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-41	Chi-0753_14_salamander-29	Chi-0753_14_salamander-41_2614	14	Chi-0753_14_salamander-29_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-50	Chi-0753_14_salamander-29	Chi-0753_14_salamander-50_2614	14	Chi-0753_14_salamander-29_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-41	Chi-0753_14_salamander-59	Chi-0753_14_salamander-41_2614	14	Chi-0753_14_salamander-59_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-50	Chi-0753_14_salamander-59	Chi-0753_14_salamander-50_2614	14	Chi-0753_14_salamander-59_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-50	Chi-0753_14_salamander-50	Chi-0753_14_salamander-50_2614	14	Chi-0753_14_salamander-50_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-29	Chi-0753_14_salamander-29	Chi-0753_14_salamander-29_2614	14	Chi-0753_14_salamander-29_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_40_salamander-4	Jap-6cb7_40_salamander-4	Jap-6cb7_40_salamander-4_2614	40	Jap-6cb7_40_salamander-4_5440	40	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-59	Chi-0753_14_salamander-59	Chi-0753_14_salamander-59_2614	14	Chi-0753_14_salamander-59_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Jap-6cb7_83_salamander-7	Jap-6cb7_83_salamander-7	Jap-6cb7_83_salamander-7_2614	83	Jap-6cb7_83_salamander-7_5440	83	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-59	Chi-0753_14_salamander-29	Chi-0753_14_salamander-59_2614	14	Chi-0753_14_salamander-29_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Lep-1eac_15_Leptodactylus-1	Lep-1eac_15_Amphibia-11	Lep-1eac_15_Leptodactylus-1_1105	15	Lep-1eac_15_Amphibia-11_376	15	0	Leptodactylus	Amphibia	100.0
+taxongroup	Lep-1eac_15_Leptodactylus-1	Lep-1eac_15_Anura-13	Lep-1eac_15_Leptodactylus-1_1105	15	Lep-1eac_15_Anura-13_2312	15	0	Leptodactylus	Anura	100.0
+taxongroup	Smo-99ce_2_Leptodactylus-6	Smo-99ce_2_Leptodactylidae-17	Smo-99ce_2_Leptodactylus-6_1105	2	Smo-99ce_2_Leptodactylidae-17_664	2	0	Leptodactylus	Leptodactylidae	100.0
+taxongroup	Lep-1eac_15_Leptodactylus-1	Lep-1eac_15_Leptodactylidae-15	Lep-1eac_15_Leptodactylus-1_1105	15	Lep-1eac_15_Leptodactylidae-15_664	15	0	Leptodactylus	Leptodactylidae	100.0
+taxongroup	Lun8dad_1_salamanders-13	Lun8dad_1_salamanders-2	Lun8dad_1_salamanders-13_671	1	Lun8dad_1_salamanders-2_5440	1	0	Lungless salamanders	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-41	Chi-0753_14_salamander-50	Chi-0753_14_salamander-41_2614	14	Chi-0753_14_salamander-50_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-29	Chi-0753_14_salamander-59	Chi-0753_14_salamander-29_2614	14	Chi-0753_14_salamander-59_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-29	Chi-0753_14_Andrias-52	Chi-0753_14_salamander-29_2614	14	Chi-0753_14_Andrias-52_889	14	0	Japanese giant salamander	Andrias	100.0
+taxongroup	Spa-e46a_465_Frogs-6	Spa-e46a_465_animals-4	Spa-e46a_465_Frogs-6_2311	465	Spa-e46a_465_animals-4_3812	465	0	Frogs and toads	animals	100.0
+taxongroup	Chi-0753_14_salamander-41	Chi-0753_14_Andrias-61	Chi-0753_14_salamander-41_2614	14	Chi-0753_14_Andrias-61_889	14	0	Japanese giant salamander	Andrias	100.0
+taxongroup	Chi-0753_14_salamander-59	Chi-0753_14_Andrias-61	Chi-0753_14_salamander-59_2614	14	Chi-0753_14_Andrias-61_889	14	0	Japanese giant salamander	Andrias	100.0
+taxongroup	Chi-0753_14_salamander-50	Chi-0753_14_Andrias-31	Chi-0753_14_salamander-50_2614	14	Chi-0753_14_Andrias-31_889	14	0	Japanese giant salamander	Andrias	100.0
+taxongroup	Chi-0753_14_salamander-41	Chi-0753_14_Andrias-31	Chi-0753_14_salamander-41_2614	14	Chi-0753_14_Andrias-31_889	14	0	Japanese giant salamander	Andrias	100.0
+taxongroup	Chi-0753_14_salamander-50	Chi-0753_14_Andrias-52	Chi-0753_14_salamander-50_2614	14	Chi-0753_14_Andrias-52_889	14	0	Japanese giant salamander	Andrias	100.0
+taxongroup	Chi-0753_14_salamander-29	Chi-0753_14_Andrias-61	Chi-0753_14_salamander-29_2614	14	Chi-0753_14_Andrias-61_889	14	0	Japanese giant salamander	Andrias	100.0
+taxongroup	Chi-0753_14_salamander-50	Chi-0753_14_Andrias-61	Chi-0753_14_salamander-50_2614	14	Chi-0753_14_Andrias-61_889	14	0	Japanese giant salamander	Andrias	100.0
+taxongroup	Chi-0753_14_salamander-29	Chi-0753_14_salamander-41	Chi-0753_14_salamander-29_2614	14	Chi-0753_14_salamander-41_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-29	Chi-0753_14_Andrias-31	Chi-0753_14_salamander-29_2614	14	Chi-0753_14_Andrias-31_889	14	0	Japanese giant salamander	Andrias	100.0
+taxongroup	Chi-0753_14_salamander-41	Chi-0753_14_Andrias-52	Chi-0753_14_salamander-41_2614	14	Chi-0753_14_Andrias-52_889	14	0	Japanese giant salamander	Andrias	100.0
+taxongroup	Chi-0753_14_salamander-59	Chi-0753_14_Andrias-52	Chi-0753_14_salamander-59_2614	14	Chi-0753_14_Andrias-52_889	14	0	Japanese giant salamander	Andrias	100.0
+taxongroup	Chi-0753_14_salamander-59	Chi-0753_14_Andrias-31	Chi-0753_14_salamander-59_2614	14	Chi-0753_14_Andrias-31_889	14	0	Japanese giant salamander	Andrias	100.0
+taxongroup	Chi-0753_14_salamander-29	Chi-0753_14_salamander-50	Chi-0753_14_salamander-29_2614	14	Chi-0753_14_salamander-50_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-59	Chi-0753_14_salamander-50	Chi-0753_14_salamander-59_2614	14	Chi-0753_14_salamander-50_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Chi-0753_14_salamander-59	Chi-0753_14_salamander-41	Chi-0753_14_salamander-59_2614	14	Chi-0753_14_salamander-41_5440	14	0	Japanese giant salamander	salamanders	100.0
+taxongroup	Lun8dad_1_salamanders-13	Lun8dad_1_salamanders-13	Lun8dad_1_salamanders-13_671	1	Lun8dad_1_salamanders-13_5440	1	0	Lungless salamanders	salamanders	100.0
+taxongroup	Lun8dad_1_salamanders-2	Lun8dad_1_salamanders-13	Lun8dad_1_salamanders-2_671	1	Lun8dad_1_salamanders-13_5440	1	0	Lungless salamanders	salamanders	100.0
+taxongroup	Lun8dad_1_salamanders-2	Lun8dad_1_salamanders-2	Lun8dad_1_salamanders-2_671	1	Lun8dad_1_salamanders-2_5440	1	0	Lungless salamanders	salamanders	100.0
+taxongroup	Ple-374e_63_Plethodontidae-3	Ple-374e_63_salamander-26	Ple-374e_63_Plethodontidae-3_670	63	Ple-374e_63_salamander-26_5440	63	0	Plethodontidae	salamanders	100.0
+taxongroup	Pan-2813_8_frog-10	Pan-2813_8_Bufonidae-21	Pan-2813_8_frog-10_2971	8	Pan-2813_8_Bufonidae-21_847	8	0	Panamanian golden frog	Bufonidae	100.0
+taxongroup	Pan-2813_8_frog-10	Pan-2813_8_toad-14	Pan-2813_8_frog-10_2971	8	Pan-2813_8_toad-14_848	8	0	Panamanian golden frog	True toads	100.0
+taxongroup	Pan-2813_70_frog-4	Pan-2813_70_amphibians-10	Pan-2813_70_frog-4_2971	70	Pan-2813_70_amphibians-10_3992	70	0	Panamanian golden frog	amphibians	100.0
+taxongroup	Pan-2813_105_frog-9	Pan-2813_105_amphibians-3	Pan-2813_105_frog-9_2971	105	Pan-2813_105_amphibians-3_3992	105	0	Panamanian golden frog	amphibians	100.0
+taxongroup	Amp-436a_433_Plethodontidae-6	Amp-436a_433_salamanders-2	Amp-436a_433_Plethodontidae-6_670	433	Amp-436a_433_salamanders-2_5440	433	0	Plethodontidae	salamanders	100.0
+taxongroup	Sal-5617_98_Plethodontidae-7	Sal-5617_98_salamanders-4	Sal-5617_98_Plethodontidae-7_670	98	Sal-5617_98_salamanders-4_5440	98	0	Plethodontidae	salamanders	100.0
+taxongroup	Sal-5617_98_Plethodontidae-7	Sal-5617_98_salamanders-17	Sal-5617_98_Plethodontidae-7_670	98	Sal-5617_98_salamanders-17_5440	98	0	Plethodontidae	salamanders	100.0
+taxongroup	Sal-5617_98_Plethodontidae-7	Sal-5617_98_salamanders-11	Sal-5617_98_Plethodontidae-7_670	98	Sal-5617_98_salamanders-11_5440	98	0	Plethodontidae	salamanders	100.0
+taxongroup	Com-f597_2_Ranidae-49	Com-f597_2_amphibian-45	Com-f597_2_Ranidae-49_840	2	Com-f597_2_amphibian-45_3992	2	0	Ranidae	amphibians	100.0
+taxongroup	Sal-5617_34_Salamanders-1	Sal-5617_34_animal-17	Sal-5617_34_Salamanders-1_3262	34	Sal-5617_34_animal-17_44	34	0	Salamanders	Animals	100.0
+taxongroup	Sal-5617_181_Salamanders-1	Sal-5617_181_amphibians-7	Sal-5617_181_Salamanders-1_3262	181	Sal-5617_181_amphibians-7_3992	181	0	Salamanders	amphibians	100.0
+taxongroup	Sala1df_5_Salamanders-1	Sala1df_5_amphibians-3	Sala1df_5_Salamanders-1_3262	5	Sala1df_5_amphibians-3_3992	5	0	Salamanders	amphibians	100.0
+taxongroup	Tai-3286_116_salamander-35	Tai-3286_116_salamander-26	Tai-3286_116_salamander-35_232	116	Tai-3286_116_salamander-26_5440	116	0	Siberian salamander	salamanders	100.0
+taxongroup	Pan-2813_2_frog-4	Pan-2813_2_Atelopus-6	Pan-2813_2_frog-4_2971	2	Pan-2813_2_Atelopus-6_911	2	0	Panamanian golden frog	Atelopus	100.0
+taxongroup	Lis-87a4_10_newt-12	Lis-87a4_10_Lissotriton-41	Lis-87a4_10_newt-12_2969	10	Lis-87a4_10_Lissotriton-41_1109	10	0	Palmate newt	Lissotriton	100.0
+taxongroup	Lis-87a4_10_newt-12	Lis-87a4_10_Lissotriton-3	Lis-87a4_10_newt-12_2969	10	Lis-87a4_10_Lissotriton-3_1109	10	0	Palmate newt	Lissotriton	100.0
+taxongroup	Lis-87a4_10_newt-22	Lis-87a4_10_Lissotriton-13	Lis-87a4_10_newt-22_2969	10	Lis-87a4_10_Lissotriton-13_1109	10	0	Palmate newt	Lissotriton	100.0
+taxongroup	Lis-87a4_10_newt-40	Lis-87a4_10_Lissotriton-3	Lis-87a4_10_newt-40_2969	10	Lis-87a4_10_Lissotriton-3_1109	10	0	Palmate newt	Lissotriton	100.0
+taxongroup	Lis-87a4_10_newt-40	Lis-87a4_10_Lissotriton-23	Lis-87a4_10_newt-40_2969	10	Lis-87a4_10_Lissotriton-23_1109	10	0	Palmate newt	Lissotriton	100.0
+taxongroup	Lis-87a4_10_newt-40	Lis-87a4_10_Lissotriton-48	Lis-87a4_10_newt-40_2969	10	Lis-87a4_10_Lissotriton-48_1109	10	0	Palmate newt	Lissotriton	100.0
+taxongroup	Lis-87a4_10_newt-12	Lis-87a4_10_Lissotriton-48	Lis-87a4_10_newt-12_2969	10	Lis-87a4_10_Lissotriton-48_1109	10	0	Palmate newt	Lissotriton	100.0
+taxongroup	Lis-87a4_10_newt-22	Lis-87a4_10_Lissotriton-23	Lis-87a4_10_newt-22_2969	10	Lis-87a4_10_Lissotriton-23_1109	10	0	Palmate newt	Lissotriton	100.0
+taxongroup	Lis-87a4_10_newt-40	Lis-87a4_10_Lissotriton-13	Lis-87a4_10_newt-40_2969	10	Lis-87a4_10_Lissotriton-13_1109	10	0	Palmate newt	Lissotriton	100.0
+taxongroup	Lis-87a4_10_newt-12	Lis-87a4_10_Lissotriton-23	Lis-87a4_10_newt-12_2969	10	Lis-87a4_10_Lissotriton-23_1109	10	0	Palmate newt	Lissotriton	100.0
+taxongroup	Lis-87a4_10_newt-22	Lis-87a4_10_Lissotriton-48	Lis-87a4_10_newt-22_2969	10	Lis-87a4_10_Lissotriton-48_1109	10	0	Palmate newt	Lissotriton	100.0
+taxongroup	Lis-87a4_10_newt-22	Lis-87a4_10_Lissotriton-41	Lis-87a4_10_newt-22_2969	10	Lis-87a4_10_Lissotriton-41_1109	10	0	Palmate newt	Lissotriton	100.0
+taxongroup	Lis-87a4_10_newt-22	Lis-87a4_10_Lissotriton-3	Lis-87a4_10_newt-22_2969	10	Lis-87a4_10_Lissotriton-3_1109	10	0	Palmate newt	Lissotriton	100.0
+taxongroup	Lis-87a4_10_newt-40	Lis-87a4_10_Lissotriton-41	Lis-87a4_10_newt-40_2969	10	Lis-87a4_10_Lissotriton-41_1109	10	0	Palmate newt	Lissotriton	100.0
+taxongroup	Lis-87a4_10_newt-12	Lis-87a4_10_Lissotriton-13	Lis-87a4_10_newt-12_2969	10	Lis-87a4_10_Lissotriton-13_1109	10	0	Palmate newt	Lissotriton	100.0
+taxongroup	Lep-b9c7_99_fallax-2	Lep-b9c7_99_Leptodactylus-1	Lep-b9c7_99_fallax-2_2703	99	Lep-b9c7_99_Leptodactylus-1_1105	99	0	Leptodactylus fallax	Leptodactylus	87.0
+taxongroup	Lep-b9c7_67_fallax-2	Lep-b9c7_67_Leptodactylus-1	Lep-b9c7_67_fallax-2_2703	67	Lep-b9c7_67_Leptodactylus-1_1105	67	0	Leptodactylus fallax	Leptodactylus	87.0
+taxongroup	Nor-4c81_2_cristatus-14	Nor-4c81_2_Triturus-13	Nor-4c81_2_cristatus-14_2435	2	Nor-4c81_2_Triturus-13_1319	2	0	Triturus cristatus	Triturus	87.0
+taxongroup	Lep-b9c7_30_fallax-2	Lep-b9c7_30_Leptodactylus-1	Lep-b9c7_30_fallax-2_2703	30	Lep-b9c7_30_Leptodactylus-1_1105	30	0	Leptodactylus fallax	Leptodactylus	87.0
+taxongroup	Lep-b9c7_10_fallax-2	Lep-b9c7_10_Leptodactylus-1	Lep-b9c7_10_fallax-2_2703	10	Lep-b9c7_10_Leptodactylus-1_1105	10	0	Leptodactylus fallax	Leptodactylus	87.0
+taxongroup	Pal-f57e_2_helveticus-6	Pal-f57e_2_Lissotriton-5	Pal-f57e_2_helveticus-6_2970	2	Pal-f57e_2_Lissotriton-5_1109	2	0	Lissotriton helveticus	Lissotriton	87.0
+taxongroup	Lep-b9c7_38_fallax-2	Lep-b9c7_38_Leptodactylus-1	Lep-b9c7_38_fallax-2_2703	38	Lep-b9c7_38_Leptodactylus-1_1105	38	0	Leptodactylus fallax	Leptodactylus	87.0
+taxongroup	Lep-b9c7_58_fallax-2	Lep-b9c7_58_Leptodactylus-1	Lep-b9c7_58_fallax-2_2703	58	Lep-b9c7_58_Leptodactylus-1_1105	58	0	Leptodactylus fallax	Leptodactylus	87.0
+taxongroup	Cae-3f0c_99_Gymnophiona-37	Cae-3f0c_99_amphibians-54	Cae-3f0c_99_Gymnophiona-37_1828	99	Cae-3f0c_99_amphibians-54_3992	99	0	Gymnophiona	amphibians	87.0
+taxongroup	Cae-3f0c_12_Gymnophiona-14	Cae-3f0c_12_amphibians-27	Cae-3f0c_12_Gymnophiona-14_1828	12	Cae-3f0c_12_amphibians-27_3992	12	0	Gymnophiona	amphibians	87.0
+taxongroup	Lep-b9c7_20_fallax-2	Lep-b9c7_20_Leptodactylus-1	Lep-b9c7_20_fallax-2_2703	20	Lep-b9c7_20_Leptodactylus-1_1105	20	0	Leptodactylus fallax	Leptodactylus	87.0
+taxongroup	Lep-b9c7_1_fallax-2	Lep-b9c7_1_Leptodactylus-1	Lep-b9c7_1_fallax-2_2703	1	Lep-b9c7_1_Leptodactylus-1_1105	1	0	Leptodactylus fallax	Leptodactylus	87.0
+taxongroup	Lep-b9c7_85_fallax-2	Lep-b9c7_85_Leptodactylus-1	Lep-b9c7_85_fallax-2_2703	85	Lep-b9c7_85_Leptodactylus-1_1105	85	0	Leptodactylus fallax	Leptodactylus	87.0
+taxongroup	Lep-b9c7_7_fallax-2	Lep-b9c7_7_Leptodactylus-1	Lep-b9c7_7_fallax-2_2703	7	Lep-b9c7_7_Leptodactylus-1_1105	7	0	Leptodactylus fallax	Leptodactylus	87.0
+taxongroup	Lep-b9c7_77_fallax-2	Lep-b9c7_77_Leptodactylus-1	Lep-b9c7_77_fallax-2_2703	77	Lep-b9c7_77_Leptodactylus-1_1105	77	0	Leptodactylus fallax	Leptodactylus	87.0
+taxongroup	Fro-2392_282_ridibundus-23	Fro-2392_282_Pelophylax-22	Fro-2392_282_ridibundus-23_175	282	Fro-2392_282_Pelophylax-22_1201	282	0	Pelophylax ridibundus	Pelophylax	87.0
+taxongroup	Dar-9686_2_darwinii-6	Dar-9686_2_Rhinoderma-5	Dar-9686_2_darwinii-6_2024	2	Dar-9686_2_Rhinoderma-5_1249	2	0	Rhinoderma darwinii	Rhinoderma	87.0
+taxongroup	Lep-b9c7_51_fallax-2	Lep-b9c7_51_Leptodactylus-1	Lep-b9c7_51_fallax-2_2703	51	Lep-b9c7_51_Leptodactylus-1_1105	51	0	Leptodactylus fallax	Leptodactylus	87.0
+taxongroup	Tri-5b33_17_cristatus-23	Tri-5b33_17_Triturus-22	Tri-5b33_17_cristatus-23_2435	17	Tri-5b33_17_Triturus-22_1319	17	0	Triturus cristatus	Triturus	87.0
+taxongroup	Mar-495f_2_ridibundus-6	Mar-495f_2_Pelophylax-5	Mar-495f_2_ridibundus-6_175	2	Mar-495f_2_Pelophylax-5_1201	2	0	Pelophylax ridibundus	Pelophylax	87.0
+taxongroup	Tex-0ac3_2_rathbuni-7	Tex-0ac3_2_salamander-4	Tex-0ac3_2_rathbuni-7_3498	2	Tex-0ac3_2_salamander-4_5440	2	0	Eurycea rathbuni	salamanders	87.0
+taxongroup	Tex-0ac3_2_rathbuni-7	Tex-0ac3_2_Eurycea-6	Tex-0ac3_2_rathbuni-7_3498	2	Tex-0ac3_2_Eurycea-6_1028	2	0	Eurycea rathbuni	Eurycea	87.0
+taxongroup	Apo-f97b_38_Dendrobatidae-15	Apo-f97b_38_vertebrates-6	Apo-f97b_38_Dendrobatidae-15_3116	38	Apo-f97b_38_vertebrates-6_3935	38	0	Dendrobatidae	vertebrates	87.0
+taxongroup	Chi-0753_173_davidianus-13	Chi-0753_173_Andrias-12	Chi-0753_173_davidianus-13_1870	173	Chi-0753_173_Andrias-12_889	173	0	Andrias davidianus	Andrias	87.0
+taxongroup	Chi-0753_173_davidianus-13	Chi-0753_173_salamander-10	Chi-0753_173_davidianus-13_1870	173	Chi-0753_173_salamander-10_5440	173	0	Andrias davidianus	salamanders	87.0
+taxongroup	Com-f597_135_temporaria-2	Com-f597_135_Rana-1	Com-f597_135_temporaria-2_93	135	Com-f597_135_Rana-1_1245	135	0	Rana temporaria	Rana	87.0
+taxongroup	Com-f597_132_temporaria-15	Com-f597_132_Rana-14	Com-f597_132_temporaria-15_93	132	Com-f597_132_Rana-14_1245	132	0	Rana temporaria	Rana	87.0
+taxongroup	Com-f597_132_temporaria-15	Com-f597_132_Rana-10	Com-f597_132_temporaria-15_93	132	Com-f597_132_Rana-10_1245	132	0	Rana temporaria	Rana	87.0
+taxongroup	Com-43a2_63_temporaria-6	Com-43a2_63_Rana-5	Com-43a2_63_temporaria-6_93	63	Com-43a2_63_Rana-5_1245	63	0	Rana temporaria	Rana	87.0
+taxongroup	Com-f222_407_temporaria-40	Com-f222_407_Rana-39	Com-f222_407_temporaria-40_93	407	Com-f222_407_Rana-39_1245	407	0	Rana temporaria	Rana	87.0
+taxongroup	Lep-b9c7_101_fallax-2	Lep-b9c7_101_Leptodactylus-1	Lep-b9c7_101_fallax-2_2703	101	Lep-b9c7_101_Leptodactylus-1_1105	101	0	Leptodactylus fallax	Leptodactylus	87.0
+taxongroup	Com-43a2_170_toad-10	Com-43a2_170_toad-10	Com-43a2_170_toad-10_108	170	Com-43a2_170_toad-10_4213	170	0	Common toad	toads	83.0
+taxongroup	Com-43a2_30_toad-5	Com-43a2_30_toad-5	Com-43a2_30_toad-5_108	30	Com-43a2_30_toad-5_4213	30	0	Common toad	toads	83.0
+taxongroup	Com-9abd_2_toad-7	Com-9abd_2_toad-4	Com-9abd_2_toad-7_108	2	Com-9abd_2_toad-4_4213	2	0	Common toad	toads	83.0
+taxongroup	Com-43a2_60_toad-14	Com-43a2_60_toad-23	Com-43a2_60_toad-14_108	60	Com-43a2_60_toad-23_4213	60	0	Common toad	toads	83.0
+taxongroup	Com-43a2_202_toad-2	Com-43a2_202_toad-2	Com-43a2_202_toad-2_108	202	Com-43a2_202_toad-2_4213	202	0	Common toad	toads	83.0
+taxongroup	Com-43a2_30_toad-5	Com-43a2_30_toad-22	Com-43a2_30_toad-5_108	30	Com-43a2_30_toad-22_4213	30	0	Common toad	toads	83.0
+taxongroup	Com-43a2_30_toad-5	Com-43a2_30_toad-13	Com-43a2_30_toad-5_108	30	Com-43a2_30_toad-13_4213	30	0	Common toad	toads	83.0
+taxongroup	Com-43a2_60_toad-14	Com-43a2_60_toad-7	Com-43a2_60_toad-14_108	60	Com-43a2_60_toad-7_4213	60	0	Common toad	toads	83.0
+taxongroup	Com-43a2_1_toad-2	Com-43a2_1_toad-2	Com-43a2_1_toad-2_108	1	Com-43a2_1_toad-2_4213	1	0	Common toad	toads	83.0
+taxongroup	Com-43a2_60_toad-14	Com-43a2_60_toad-14	Com-43a2_60_toad-14_108	60	Com-43a2_60_toad-14_4213	60	0	Common toad	toads	83.0
+taxongroup	Com-43a2_30_toad-22	Com-43a2_30_toad-5	Com-43a2_30_toad-22_108	30	Com-43a2_30_toad-5_4213	30	0	Common toad	toads	83.0
+taxongroup	Com-43a2_157_toad-2	Com-43a2_157_toad-2	Com-43a2_157_toad-2_3843	157	Com-43a2_157_toad-2_4213	157	0	common toad	toads	83.0
+taxongroup	Com-43a2_2_toad-3	Com-43a2_2_toad-3	Com-43a2_2_toad-3_108	2	Com-43a2_2_toad-3_4213	2	0	Common toad	toads	83.0
+taxongroup	Com-43a2_2_toad-3	Com-43a2_2_toad-26	Com-43a2_2_toad-3_108	2	Com-43a2_2_toad-26_4213	2	0	Common toad	toads	83.0
+taxongroup	Com-43a2_2_toad-3	Com-43a2_2_toad-17	Com-43a2_2_toad-3_108	2	Com-43a2_2_toad-17_4213	2	0	Common toad	toads	83.0
+taxongroup	Com-43a2_2_toad-6	Com-43a2_2_toad-17	Com-43a2_2_toad-6_108	2	Com-43a2_2_toad-17_4213	2	0	Common toad	toads	83.0
+taxongroup	Com-43a2_2_toad-6	Com-43a2_2_toad-26	Com-43a2_2_toad-6_108	2	Com-43a2_2_toad-26_4213	2	0	Common toad	toads	83.0
+taxongroup	Com-43a2_30_toad-13	Com-43a2_30_toad-22	Com-43a2_30_toad-13_108	30	Com-43a2_30_toad-22_4213	30	0	Common toad	toads	83.0
+taxongroup	Com-43a2_109_toad-10	Com-43a2_109_toad-10	Com-43a2_109_toad-10_108	109	Com-43a2_109_toad-10_4213	109	0	Common toad	toads	83.0
+taxongroup	Com-43a2_67_toad-2	Com-43a2_67_toad-2	Com-43a2_67_toad-2_108	67	Com-43a2_67_toad-2_4213	67	0	Common toad	toads	83.0
+taxongroup	Com-43a2_91_toad-21	Com-43a2_91_toad-21	Com-43a2_91_toad-21_108	91	Com-43a2_91_toad-21_4213	91	0	Common toad	toads	83.0
+taxongroup	Com-43a2_2_toad-3	Com-43a2_2_toad-6	Com-43a2_2_toad-3_108	2	Com-43a2_2_toad-6_4213	2	0	Common toad	toads	83.0
+taxongroup	Com-43a2_2_toad-17	Com-43a2_2_toad-26	Com-43a2_2_toad-17_108	2	Com-43a2_2_toad-26_4213	2	0	Common toad	toads	83.0
+taxongroup	Nor-4c81_2_newt-11	Nor-4c81_2_Triturus-13	Nor-4c81_2_newt-11_5047	2	Nor-4c81_2_Triturus-13_1319	2	0	northern crested newt	Triturus	83.0
+taxongroup	Com-43a2_228_toad-18	Com-43a2_228_toad-18	Com-43a2_228_toad-18_108	228	Com-43a2_228_toad-18_4213	228	0	Common toad	toads	83.0
+taxongroup	Com-43a2_30_toad-22	Com-43a2_30_toad-13	Com-43a2_30_toad-22_108	30	Com-43a2_30_toad-13_4213	30	0	Common toad	toads	83.0
+taxongroup	Com-43a2_30_toad-22	Com-43a2_30_toad-22	Com-43a2_30_toad-22_108	30	Com-43a2_30_toad-22_4213	30	0	Common toad	toads	83.0
+taxongroup	Com-43a2_40_toad-10	Com-43a2_40_toad-5	Com-43a2_40_toad-10_108	40	Com-43a2_40_toad-5_4213	40	0	Common toad	toads	83.0
+taxongroup	Laka0c9_43_toads-3	Laka0c9_43_Frogs-1	Laka0c9_43_toads-3_4213	43	Laka0c9_43_Frogs-1_2311	43	0	toads	Frogs and toads	83.0
+taxongroup	Fro-2392_34_frog-25	Fro-2392_34_toad-6	Fro-2392_34_frog-25_2971	34	Fro-2392_34_toad-6_4213	34	0	Panamanian golden frog	toads	83.0
+taxongroup	Fro-2392_34_frog-25	Fro-2392_34_toad-33	Fro-2392_34_frog-25_2971	34	Fro-2392_34_toad-33_4213	34	0	Panamanian golden frog	toads	83.0
+taxongroup	Pan-2813_2_frog-4	Pan-2813_2_toad-25	Pan-2813_2_frog-4_2971	2	Pan-2813_2_toad-25_4213	2	0	Panamanian golden frog	toads	83.0
+taxongroup	Pan-2813_2_frog-4	Pan-2813_2_toad-16	Pan-2813_2_frog-4_2971	2	Pan-2813_2_toad-16_4213	2	0	Panamanian golden frog	toads	83.0
+taxongroup	Com-43a2_137_toad-2	Com-43a2_137_toad-2	Com-43a2_137_toad-2_108	137	Com-43a2_137_toad-2_4213	137	0	Common toad	toads	83.0
+taxongroup	Nor-4c81_97_newts-3	Nor-4c81_97_Triturus-11	Nor-4c81_97_newts-3_2436	97	Nor-4c81_97_Triturus-11_1319	97	0	Northern crested newt	Triturus	83.0
+taxongroup	Com-43a2_2_toad-17	Com-43a2_2_toad-6	Com-43a2_2_toad-17_108	2	Com-43a2_2_toad-6_4213	2	0	Common toad	toads	83.0
+taxongroup	Com-43a2_69_toad-28	Com-43a2_69_toad-28	Com-43a2_69_toad-28_108	69	Com-43a2_69_toad-28_4213	69	0	Common toad	toads	83.0
+taxongroup	Com-43a2_60_toad-7	Com-43a2_60_toad-23	Com-43a2_60_toad-7_108	60	Com-43a2_60_toad-23_4213	60	0	Common toad	toads	83.0
+taxongroup	Com-43a2_60_toad-7	Com-43a2_60_toad-7	Com-43a2_60_toad-7_108	60	Com-43a2_60_toad-7_4213	60	0	Common toad	toads	83.0
+taxongroup	Com-43a2_31_toad-4	Com-43a2_31_toad-4	Com-43a2_31_toad-4_108	31	Com-43a2_31_toad-4_4213	31	0	Common toad	toads	83.0
+taxongroup	Nor-4c81_2_newt-8	Nor-4c81_2_Triturus-13	Nor-4c81_2_newt-8_5047	2	Nor-4c81_2_Triturus-13_1319	2	0	northern crested newt	Triturus	83.0
+taxongroup	Com-43a2_229_toad-2	Com-43a2_229_toad-2	Com-43a2_229_toad-2_108	229	Com-43a2_229_toad-2_4213	229	0	Common toad	toads	83.0
+taxongroup	Com-f597_9_toads-36	Com-f597_9_toad-9	Com-f597_9_toads-36_108	9	Com-f597_9_toad-9_4213	9	0	Common toad	toads	83.0
+taxongroup	Com-f597_9_toads-36	Com-f597_9_toads-36	Com-f597_9_toads-36_108	9	Com-f597_9_toads-36_4213	9	0	Common toad	toads	83.0
+taxongroup	Com-f597_25_toad-13	Com-f597_25_toad-13	Com-f597_25_toad-13_108	25	Com-f597_25_toad-13_4213	25	0	Common toad	toads	83.0
+taxongroup	Com-f597_9_toad-9	Com-f597_9_toad-9	Com-f597_9_toad-9_108	9	Com-f597_9_toad-9_4213	9	0	Common toad	toads	83.0
+taxongroup	Com-43a2_60_toad-23	Com-43a2_60_toad-23	Com-43a2_60_toad-23_108	60	Com-43a2_60_toad-23_4213	60	0	Common toad	toads	83.0
+taxongroup	Com-43a2_2_toad-17	Com-43a2_2_toad-3	Com-43a2_2_toad-17_108	2	Com-43a2_2_toad-3_4213	2	0	Common toad	toads	83.0
+taxongroup	Com-43a2_78_toad-3	Com-43a2_78_toad-3	Com-43a2_78_toad-3_108	78	Com-43a2_78_toad-3_4213	78	0	Common toad	toads	83.0
+taxongroup	Com-43a2_89_toad-5	Com-43a2_89_toad-5	Com-43a2_89_toad-5_108	89	Com-43a2_89_toad-5_4213	89	0	Common toad	toads	83.0
+taxongroup	Com-43a2_40_toad-10	Com-43a2_40_toad-19	Com-43a2_40_toad-10_108	40	Com-43a2_40_toad-19_4213	40	0	Common toad	toads	83.0
+taxongroup	Com-43a2_58_toad-3	Com-43a2_58_toad-3	Com-43a2_58_toad-3_108	58	Com-43a2_58_toad-3_4213	58	0	Common toad	toads	83.0
+taxongroup	Com-43a2_40_toad-10	Com-43a2_40_toad-10	Com-43a2_40_toad-10_108	40	Com-43a2_40_toad-10_4213	40	0	Common toad	toads	83.0
+taxongroup	Nor-4c81_2_newt-4	Nor-4c81_2_Triturus-13	Nor-4c81_2_newt-4_5047	2	Nor-4c81_2_Triturus-13_1319	2	0	northern crested newt	Triturus	83.0
+taxongroup	Nor-4c81_33_newt-4	Nor-4c81_33_Triturus-29	Nor-4c81_33_newt-4_5047	33	Nor-4c81_33_Triturus-29_1319	33	0	northern crested newt	Triturus	83.0
+taxongroup	Nor-4c81_33_newt-16	Nor-4c81_33_Triturus-29	Nor-4c81_33_newt-16_5047	33	Nor-4c81_33_Triturus-29_1319	33	0	northern crested newt	Triturus	83.0
+taxongroup	Com-43a2_2_toad-26	Com-43a2_2_toad-6	Com-43a2_2_toad-26_3843	2	Com-43a2_2_toad-6_4213	2	0	common toad	toads	83.0
+taxongroup	Com-43a2_230_toad-2	Com-43a2_230_toad-2	Com-43a2_230_toad-2_3843	230	Com-43a2_230_toad-2_4213	230	0	common toad	toads	83.0
+taxongroup	Com-43a2_2_toad-26	Com-43a2_2_toad-26	Com-43a2_2_toad-26_3843	2	Com-43a2_2_toad-26_4213	2	0	common toad	toads	83.0
+taxongroup	Com-43a2_160_toad-2	Com-43a2_160_toad-2	Com-43a2_160_toad-2_3843	160	Com-43a2_160_toad-2_4213	160	0	common toad	toads	83.0
+taxongroup	Com-43a2_77_toad-2	Com-43a2_77_toad-2	Com-43a2_77_toad-2_3843	77	Com-43a2_77_toad-2_4213	77	0	common toad	toads	83.0
+taxongroup	Com-43a2_11_toad-3	Com-43a2_11_toad-3	Com-43a2_11_toad-3_3843	11	Com-43a2_11_toad-3_4213	11	0	common toad	toads	83.0
+taxongroup	Com305f_5_toads-2	Com305f_5_toads-2	Com305f_5_toads-2_3843	5	Com305f_5_toads-2_4213	5	0	common toad	toads	83.0
+taxongroup	Com-43a2_110_toad-2	Com-43a2_110_toad-2	Com-43a2_110_toad-2_3843	110	Com-43a2_110_toad-2_4213	110	0	common toad	toads	83.0
+taxongroup	Com-9abd_2_toad-4	Com-9abd_2_toad-4	Com-9abd_2_toad-4_3843	2	Com-9abd_2_toad-4_4213	2	0	common toad	toads	83.0
+taxongroup	Com-43a2_97_toad-6	Com-43a2_97_toad-6	Com-43a2_97_toad-6_3843	97	Com-43a2_97_toad-6_4213	97	0	common toad	toads	83.0
+taxongroup	Com305f_9_toads-2	Com305f_9_toads-2	Com305f_9_toads-2_3843	9	Com305f_9_toads-2_4213	9	0	common toad	toads	83.0
+taxongroup	Com-43a2_2_toad-26	Com-43a2_2_toad-3	Com-43a2_2_toad-26_3843	2	Com-43a2_2_toad-3_4213	2	0	common toad	toads	83.0
+taxongroup	Com-43a2_163_toad-2	Com-43a2_163_toad-2	Com-43a2_163_toad-2_3843	163	Com-43a2_163_toad-2_4213	163	0	common toad	toads	83.0
+taxongroup	Com-43a2_41_toad-2	Com-43a2_41_toad-2	Com-43a2_41_toad-2_3843	41	Com-43a2_41_toad-2_4213	41	0	common toad	toads	83.0
+taxongroup	Com-43a2_65_toads-6	Com-43a2_65_toads-6	Com-43a2_65_toads-6_3843	65	Com-43a2_65_toads-6_4213	65	0	common toad	toads	83.0
+taxongroup	Com-f597_9_toad-9	Com-f597_9_toads-36	Com-f597_9_toad-9_3843	9	Com-f597_9_toads-36_4213	9	0	common toad	toads	83.0
+taxongroup	Com-43a2_74_toad-3	Com-43a2_74_toad-3	Com-43a2_74_toad-3_3843	74	Com-43a2_74_toad-3_4213	74	0	common toad	toads	83.0
+taxongroup	Com-43a2_2_toad-17	Com-43a2_2_toad-17	Com-43a2_2_toad-17_3843	2	Com-43a2_2_toad-17_4213	2	0	common toad	toads	83.0
+taxongroup	Com-43a2_164_toad-11	Com-43a2_164_toad-11	Com-43a2_164_toad-11_3843	164	Com-43a2_164_toad-11_4213	164	0	common toad	toads	83.0
+taxongroup	Com-43a2_2_toad-6	Com-43a2_2_toad-3	Com-43a2_2_toad-6_3843	2	Com-43a2_2_toad-3_4213	2	0	common toad	toads	83.0
+taxongroup	Com-43a2_93_toad-8	Com-43a2_93_toad-8	Com-43a2_93_toad-8_3843	93	Com-43a2_93_toad-8_4213	93	0	common toad	toads	83.0
+taxongroup	Com-43a2_30_toad-13	Com-43a2_30_toad-13	Com-43a2_30_toad-13_3843	30	Com-43a2_30_toad-13_4213	30	0	common toad	toads	83.0
+taxongroup	Com-43a2_2_toad-6	Com-43a2_2_toad-6	Com-43a2_2_toad-6_3843	2	Com-43a2_2_toad-6_4213	2	0	common toad	toads	83.0
+taxongroup	Com-43a2_106_toads-11	Com-43a2_106_toads-11	Com-43a2_106_toads-11_3843	106	Com-43a2_106_toads-11_4213	106	0	common toad	toads	83.0
+taxongroup	Com-43a2_169_toads-14	Com-43a2_169_toads-14	Com-43a2_169_toads-14_3843	169	Com-43a2_169_toads-14_4213	169	0	common toad	toads	83.0
+taxongroup	Com-43a2_139_toad-3	Com-43a2_139_toad-3	Com-43a2_139_toad-3_3843	139	Com-43a2_139_toad-3_4213	139	0	common toad	toads	83.0
+taxongroup	Com-9abd_2_toad-4	Com-9abd_2_toad-7	Com-9abd_2_toad-4_3843	2	Com-9abd_2_toad-7_4213	2	0	common toad	toads	83.0
+taxongroup	Ran-546a_2_frog-10	Ran-546a_2_frogs-17	Ran-546a_2_frog-10_3835	2	Ran-546a_2_frogs-17_4207	2	0	brown frog	true frogs	83.0
+taxongroup	Ran-546a_2_frog-10	Ran-546a_2_frog-10	Ran-546a_2_frog-10_3835	2	Ran-546a_2_frog-10_4207	2	0	brown frog	true frogs	83.0
+taxongroup	Ran-546a_2_frog-10	Ran-546a_2_frogs-27	Ran-546a_2_frog-10_3835	2	Ran-546a_2_frogs-27_4207	2	0	brown frog	true frogs	83.0
+taxongroup	Ran-546a_2_frogs-30	Ran-546a_2_frogs-17	Ran-546a_2_frogs-30_3835	2	Ran-546a_2_frogs-17_4207	2	0	brown frog	true frogs	83.0
+taxongroup	Ran-546a_2_frog-10	Ran-546a_2_frogs-24	Ran-546a_2_frog-10_3835	2	Ran-546a_2_frogs-24_841	2	0	brown frog	True frogs	83.0
+taxongroup	Ran-546a_2_frog-10	Ran-546a_2_Rana-1	Ran-546a_2_frog-10_3835	2	Ran-546a_2_Rana-1_1245	2	0	brown frog	Rana	83.0
+taxongroup	Cau-ba75_10_anurans-18	Cau-ba75_10_amphibians-12	Cau-ba75_10_anurans-18_4992	10	Cau-ba75_10_amphibians-12_3992	10	0	anurans	amphibians	83.0
+taxongroup	Com-43a2_60_toad-23	Com-43a2_60_toad-7	Com-43a2_60_toad-23_108	60	Com-43a2_60_toad-7_4213	60	0	Common toad	toads	83.0
+taxongroup	Com-9abd_2_toad-7	Com-9abd_2_toad-7	Com-9abd_2_toad-7_108	2	Com-9abd_2_toad-7_4213	2	0	Common toad	toads	83.0
+taxongroup	Com-43a2_30_toad-13	Com-43a2_30_toad-5	Com-43a2_30_toad-13_108	30	Com-43a2_30_toad-5_4213	30	0	Common toad	toads	83.0
+taxongroup	Com-43a2_60_toad-7	Com-43a2_60_toad-14	Com-43a2_60_toad-7_108	60	Com-43a2_60_toad-14_4213	60	0	Common toad	toads	83.0
+taxongroup	Com-43a2_2_toad-26	Com-43a2_2_toad-17	Com-43a2_2_toad-26_108	2	Com-43a2_2_toad-17_4213	2	0	Common toad	toads	83.0
+taxongroup	Nor-4c81_2_newt-18	Nor-4c81_2_Triturus-13	Nor-4c81_2_newt-18_5047	2	Nor-4c81_2_Triturus-13_1319	2	0	northern crested newt	Triturus	83.0
+taxongroup	Ran-546a_2_frogs-30	Ran-546a_2_frogs-27	Ran-546a_2_frogs-30_3835	2	Ran-546a_2_frogs-27_4207	2	0	brown frog	true frogs	83.0
+taxongroup	Com-43a2_60_toad-23	Com-43a2_60_toad-14	Com-43a2_60_toad-23_3843	60	Com-43a2_60_toad-14_4213	60	0	common toad	toads	83.0
+taxongroup	Com-43a2_14_toad-2	Com-43a2_14_toad-2	Com-43a2_14_toad-2_108	14	Com-43a2_14_toad-2_4213	14	0	Common toad	toads	83.0
+taxongroup	Com-43a2_62_toad-15	Com-43a2_62_toad-15	Com-43a2_62_toad-15_108	62	Com-43a2_62_toad-15_4213	62	0	Common toad	toads	83.0
+taxongroup	Com-43a2_64_toads-2	Com-43a2_64_toads-2	Com-43a2_64_toads-2_108	64	Com-43a2_64_toads-2_4213	64	0	Common toad	toads	83.0
+taxongroup	Poi32a6_4_frog-8	Poi32a6_4_vertebrate-15	Poi32a6_4_frog-8_5294	4	Poi32a6_4_vertebrate-15_3935	4	0	golden frog	vertebrates	83.0

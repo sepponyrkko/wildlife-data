@@ -1,0 +1,977 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Amo-ffe8_98_arum-11	Amo-ffe8_98_rainforest-5	Amo-ffe8_98_arum-11_3552	98	Amo-ffe8_98_rainforest-5_3811	98	0	Titan arum	rainforest	100.0
+location	Lar-2baf_25_bamboo-29	Lar-2baf_25_rainforest-25	Lar-2baf_25_bamboo-29_4656	25	Lar-2baf_25_rainforest-25_3811	25	0	bamboo	rainforest	100.0
+location	Gag-a05b_6_Snowdon-18	Gag-a05b_6_mountain-36	Gag-a05b_6_Snowdon-18_2736	6	Gag-a05b_6_mountain-36_4527	6	0	Snowdon lily	mountains	100.0
+location	Gag-a05b_6_Snowdon-18	Gag-a05b_6_mountain-6	Gag-a05b_6_Snowdon-18_2736	6	Gag-a05b_6_mountain-6_4527	6	0	Snowdon lily	mountains	100.0
+location	Oph-1439_10_orchids-6	Oph-1439_10_Mountains-23	Oph-1439_10_orchids-6_4169	10	Oph-1439_10_Mountains-23_1366	10	0	orchids	Mountains	100.0
+location	Amo-ffe8_45_arum-3	Amo-ffe8_45_rainforests-12	Amo-ffe8_45_arum-3_5571	45	Amo-ffe8_45_rainforests-12_3811	45	0	titan arum	rainforest	100.0
+location	Gag-a05b_6_spiderwort-7	Gag-a05b_6_mountain-6	Gag-a05b_6_spiderwort-7_5191	6	Gag-a05b_6_mountain-6_4527	6	0	mountain spiderwort	mountains	83.0
+location	Gag-a05b_6_spiderwort-7	Gag-a05b_6_mountain-36	Gag-a05b_6_spiderwort-7_2739	6	Gag-a05b_6_mountain-36_4527	6	0	Mountain spiderwort	mountains	83.0
+location	Red-e311_122_bamboo-33	Red-e311_122_forest-11	Red-e311_122_bamboo-33_4656	122	Red-e311_122_forest-11_4538	122	0	bamboo	tropical coniferous forest	66.0
+location	Red-e311_122_bamboo-39	Red-e311_122_forest-11	Red-e311_122_bamboo-39_4656	122	Red-e311_122_forest-11_1378	122	0	bamboo	Tropical coniferous forest	66.0
+location	Tun-c63e_62_orchids-16	Tun-c63e_63_moorland-8	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_63_moorland-8_1365	63	1	orchids	Moorland	50.0
+location	Pol-516e_76_orchid-40	Pol-516e_75_mountains-15	Pol-516e_76_orchid-40_4169	76	Pol-516e_75_mountains-15_4527	75	1	orchids	mountains	50.0
+location	Flo-eb50_8_orchids-45	Flo-eb50_9_grassland-20	Flo-eb50_8_orchids-45_4169	8	Flo-eb50_9_grassland-20_3806	9	1	orchids	flooded grassland	50.0
+location	Eri-8713_2_cottongrass-3	Eri-8713_3_bog-19	Eri-8713_2_cottongrass-3_4903	2	Eri-8713_3_bog-19_4511	3	1	cottongrass	bog	50.0
+location	Oph-1439_11_orchids-14	Oph-1439_10_Mountains-23	Oph-1439_11_orchids-14_4169	11	Oph-1439_10_Mountains-23_1366	10	1	orchids	Mountains	50.0
+location	Tun-c63e_62_orchids-16	Tun-c63e_61_tundra-5	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_61_tundra-5_4539	61	1	orchids	tundra	50.0
+location	Tun-c63e_62_orchids-16	Tun-c63e_63_tundra-20	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_63_tundra-20_4539	63	1	orchids	tundra	50.0
+location	Bam-5151_37_bamboo-4	Bam-5151_36_rainforests-29	Bam-5151_37_bamboo-4_4656	37	Bam-5151_36_rainforests-29_3811	36	1	bamboo	rainforest	50.0
+location	Fri-5711_46_meleagris-2	Fri-5711_45_meadows-34	Fri-5711_46_meleagris-2_2302	46	Fri-5711_45_meadows-34_4525	45	1	Fritillaria meleagris	wildflower meadow	43.5
+location	Eri-8713_2_Eriophorum-1	Eri-8713_3_bog-19	Eri-8713_2_Eriophorum-1_2121	2	Eri-8713_3_bog-19_4511	3	1	Eriophorum	bog	43.5
+location	Fri-5711_44_meleagris-2	Fri-5711_45_meadows-34	Fri-5711_44_meleagris-2_2302	44	Fri-5711_45_meadows-34_4525	45	1	Fritillaria meleagris	wildflower meadow	43.5
+location	Eri-8713_2_cottonsedge-9	Eri-8713_3_bog-19	Eri-8713_2_cottonsedge-9_4904	2	Eri-8713_3_bog-19_4511	3	1	cottonsedge	bog	41.5
+location	Ace-0af3_90_orchid-28	Ace-0af3_88_farmland-12	Ace-0af3_90_orchid-28_4169	90	Ace-0af3_88_farmland-12_4509	88	2	orchids	farmland	33.333
+location	Orc5d52_21_orchids-2	Orc5d52_23_deserts-17	Orc5d52_21_orchids-2_4169	21	Orc5d52_23_deserts-17_34	23	2	orchids	Desert	33.333
+location	Poa-a930_15_Poales-16	Poa-a930_13_wetlands-16	Poa-a930_15_Poales-16_3114	15	Poa-a930_13_wetlands-16_4542	13	2	Poales	wetlands	33.333
+location	Oph-1439_12_orchids-6	Oph-1439_10_Mountains-23	Oph-1439_12_orchids-6_4169	12	Oph-1439_10_Mountains-23_1366	10	2	orchids	Mountains	33.333
+location	Poa-a930_15_Poales-16	Poa-a930_13_tundra-20	Poa-a930_15_Poales-16_3114	15	Poa-a930_13_tundra-20_4539	13	2	Poales	tundra	33.333
+location	Ara-552d_53_arum-18	Ara-552d_51_rainforests-11	Ara-552d_53_arum-18_5571	53	Ara-552d_51_rainforests-11_3811	51	2	titan arum	rainforest	33.333
+location	Ace-0af3_90_orchid-28	Ace-0af3_88_land-15	Ace-0af3_90_orchid-28_4169	90	Ace-0af3_88_land-15_4513	88	2	orchids	brownfield land	33.333
+location	Ace-0af3_90_orchid-28	Ace-0af3_88_hedgerows-23	Ace-0af3_90_orchid-28_4169	90	Ace-0af3_88_hedgerows-23_4519	88	2	orchids	hedgerows	33.333
+location	Ser-47ca_69_bamboo-8	Ser-47ca_67_rainforests-17	Ser-47ca_69_bamboo-8_4656	69	Ser-47ca_67_rainforests-17_3811	67	2	bamboo	rainforest	33.333
+location	Mon37b6_12_orchids-2	Mon37b6_10_Mountain-1	Mon37b6_12_orchids-2_4169	12	Mon37b6_10_Mountain-1_4527	10	2	orchids	mountains	33.333
+location	Tun-c63e_62_orchids-16	Tun-c63e_64_tundra-6	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_64_tundra-6_4539	64	2	orchids	tundra	33.333
+location	Tun-c63e_62_orchids-16	Tun-c63e_64_tundra-10	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_64_tundra-10_4539	64	2	orchids	tundra	33.333
+location	Afr-354e_17_grasses-13	Afr-354e_15_marshes-12	Afr-354e_17_grasses-13_5363	17	Afr-354e_15_marshes-12_3807	15	2	grasses and sedges	marsh	33.333
+location	Red-e311_121_bamboo-19	Red-e311_122_forest-11	Red-e311_121_bamboo-19_4656	121	Red-e311_122_forest-11_1378	122	1	bamboo	Tropical coniferous forest	33.0
+location	Eri-8713_1_Eriophorum-1	Eri-8713_3_bog-19	Eri-8713_1_Eriophorum-1_2121	1	Eri-8713_3_bog-19_4511	3	2	Eriophorum	bog	29.0
+location	Flo-e790_28_orchids-11	Flo-e790_31_forest-22	Flo-e790_28_orchids-11_4169	28	Flo-e790_31_forest-22_4536	31	3	orchids	coniferous forest	25.0
+location	Pre-0725_160_orchids-13	Pre-0725_157_swamps-22	Pre-0725_160_orchids-13_4169	160	Pre-0725_157_swamps-22_3808	157	3	orchids	swamp	25.0
+location	Flo-e790_28_orchids-11	Flo-e790_31_tundra-19	Flo-e790_28_orchids-11_4169	28	Flo-e790_31_tundra-19_4539	31	3	orchids	tundra	25.0
+location	Tun-c63e_62_orchids-16	Tun-c63e_59_tundra-6	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_59_tundra-6_4539	59	3	orchids	tundra	25.0
+location	Tun-c63e_62_orchids-16	Tun-c63e_59_tundra-10	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_59_tundra-10_4539	59	3	orchids	tundra	25.0
+location	Afr-354e_17_grasses-13	Afr-354e_14_marshes-25	Afr-354e_17_grasses-13_5363	17	Afr-354e_14_marshes-25_3807	14	3	grasses and sedges	marsh	25.0
+location	Afr-354e_17_grasses-13	Afr-354e_14_rainforests-33	Afr-354e_17_grasses-13_5363	17	Afr-354e_14_rainforests-33_3811	14	3	grasses and sedges	rainforest	25.0
+location	Afr-354e_17_grasses-13	Afr-354e_14_rainforests-7	Afr-354e_17_grasses-13_5363	17	Afr-354e_14_rainforests-7_3811	14	3	grasses and sedges	rainforest	25.0
+location	Afr-354e_17_grasses-13	Afr-354e_20_rainforest-6	Afr-354e_17_grasses-13_5363	17	Afr-354e_20_rainforest-6_3811	20	3	grasses and sedges	rainforest	25.0
+location	Flo-eb50_8_orchids-45	Flo-eb50_5_wetlands-36	Flo-eb50_8_orchids-45_4169	8	Flo-eb50_5_wetlands-36_4542	5	3	orchids	wetlands	25.0
+location	Bam-5151_39_bamboo-14	Bam-5151_36_rainforests-29	Bam-5151_39_bamboo-14_4656	39	Bam-5151_36_rainforests-29_3811	36	3	bamboo	rainforest	25.0
+location	Amo-76d8_37_arum-12	Amo-76d8_40_rainforest-5	Amo-76d8_37_arum-12_5571	37	Amo-76d8_40_rainforest-5_3811	40	3	titan arum	rainforest	25.0
+location	Flo-eb50_8_orchids-45	Flo-eb50_11_grasslands-2	Flo-eb50_8_orchids-45_4169	8	Flo-eb50_11_grasslands-2_3806	11	3	orchids	flooded grassland	25.0
+location	Red-e311_120_bamboo-33	Red-e311_122_forest-11	Red-e311_120_bamboo-33_4656	120	Red-e311_122_forest-11_1378	122	2	bamboo	Tropical coniferous forest	22.0
+location	Red-e311_124_bamboo-43	Red-e311_122_forest-11	Red-e311_124_bamboo-43_4656	124	Red-e311_122_forest-11_4538	122	2	bamboo	tropical coniferous forest	22.0
+location	Red-e311_124_bamboo-20	Red-e311_122_forest-11	Red-e311_124_bamboo-20_4656	124	Red-e311_122_forest-11_4538	122	2	bamboo	tropical coniferous forest	22.0
+location	Fri-5711_48_meleagris-2	Fri-5711_45_meadows-34	Fri-5711_48_meleagris-2_2302	48	Fri-5711_45_meadows-34_4525	45	3	Fritillaria meleagris	wildflower meadow	21.75
+location	Amo-76d8_37_flower-8	Amo-76d8_40_rainforest-5	Amo-76d8_37_flower-8_5572	37	Amo-76d8_40_rainforest-5_3811	40	3	corpse flower	rainforest	20.75
+location	Orc5d52_19_orchid-6	Orc5d52_23_deserts-17	Orc5d52_19_orchid-6_4169	19	Orc5d52_23_deserts-17_3805	23	4	orchids	desert	20.0
+location	Tun-c63e_62_orchids-16	Tun-c63e_66_Tundra-1	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_66_Tundra-1_1379	66	4	orchids	Tundra	20.0
+location	Eng-0a3a_34_orchid-12	Eng-0a3a_38_tundra-24	Eng-0a3a_34_orchid-12_4169	34	Eng-0a3a_38_tundra-24_4539	38	4	orchids	tundra	20.0
+location	Oph-1439_6_orchids-9	Oph-1439_10_Mountains-23	Oph-1439_6_orchids-9_4169	6	Oph-1439_10_Mountains-23_1366	10	4	orchids	Mountains	20.0
+location	Mon37b6_12_orchids-2	Mon37b6_16_mountains-16	Mon37b6_12_orchids-2_4169	12	Mon37b6_16_mountains-16_4527	16	4	orchids	mountains	20.0
+location	Amo-ffe8_45_arum-3	Amo-ffe8_41_rainforests-17	Amo-ffe8_45_arum-3_5571	45	Amo-ffe8_41_rainforests-17_3811	41	4	titan arum	rainforest	20.0
+location	Flo-e790_28_orchids-11	Flo-e790_24_rainforest-16	Flo-e790_28_orchids-11_4169	28	Flo-e790_24_rainforest-16_3811	24	4	orchids	rainforest	20.0
+location	Fri-5711_41_meleagris-2	Fri-5711_45_meadows-34	Fri-5711_41_meleagris-2_2302	41	Fri-5711_45_meadows-34_4525	45	4	Fritillaria meleagris	wildflower meadow	17.4
+location	Hya-3e37_49_bluebells-40	Hya-3e37_54_hedgerows-7	Hya-3e37_49_bluebells-40_4796	49	Hya-3e37_54_hedgerows-7_4519	54	5	common bluebell	hedgerows	16.667
+location	Equ-d3c3_102_grasses-5	Equ-d3c3_97_deserts-11	Equ-d3c3_102_grasses-5_5363	102	Equ-d3c3_97_deserts-11_3805	97	5	grasses and sedges	desert	16.667
+location	Equ-d3c3_102_grasses-5	Equ-d3c3_97_deserts-28	Equ-d3c3_102_grasses-5_5363	102	Equ-d3c3_97_deserts-28_3805	97	5	grasses and sedges	desert	16.667
+location	Amo-ffe8_50_arum-10	Amo-ffe8_45_rainforests-12	Amo-ffe8_50_arum-10_5571	50	Amo-ffe8_45_rainforests-12_3811	45	5	titan arum	rainforest	16.667
+location	Eng-0a3a_34_orchid-12	Eng-0a3a_39_taiga-11	Eng-0a3a_34_orchid-12_4169	34	Eng-0a3a_39_taiga-11_4534	39	5	orchids	taiga	16.667
+location	Mon37b6_12_orchids-2	Mon37b6_17_Mountain-1	Mon37b6_12_orchids-2_4169	12	Mon37b6_17_Mountain-1_4527	17	5	orchids	mountains	16.667
+location	Amo-ffe8_103_arum-7	Amo-ffe8_98_rainforest-5	Amo-ffe8_103_arum-7_3552	103	Amo-ffe8_98_rainforest-5_3811	98	5	Titan arum	rainforest	16.667
+location	Flo-eb50_8_orchids-45	Flo-eb50_13_grasslands-2	Flo-eb50_8_orchids-45_4169	8	Flo-eb50_13_grasslands-2_3806	13	5	orchids	flooded grassland	16.667
+location	Red-e311_125_bamboo-9	Red-e311_122_forest-11	Red-e311_125_bamboo-9_4656	125	Red-e311_122_forest-11_1378	122	3	bamboo	Tropical coniferous forest	16.5
+location	Fri-5711_50_meleagris-2	Fri-5711_45_meadows-34	Fri-5711_50_meleagris-2_2302	50	Fri-5711_45_meadows-34_4525	45	5	Fritillaria meleagris	wildflower meadow	14.5
+location	Eng-0a3a_34_orchid-12	Eng-0a3a_28_estuary-16	Eng-0a3a_34_orchid-12_4169	34	Eng-0a3a_28_estuary-16_4517	28	6	orchids	estuaries	14.286
+location	Bam-5151_30_Bamboo-1	Bam-5151_36_rainforests-29	Bam-5151_30_Bamboo-1_1632	30	Bam-5151_36_rainforests-29_3811	36	6	Bamboo	rainforest	14.286
+location	Equ-d3c3_102_grasses-5	Equ-d3c3_96_deserts-20	Equ-d3c3_102_grasses-5_5363	102	Equ-d3c3_96_deserts-20_34	96	6	grasses and sedges	Desert	14.286
+location	Wil-28c2_65_grass-18	Wil-28c2_71_wetlands-41	Wil-28c2_65_grass-18_5363	65	Wil-28c2_71_wetlands-41_4542	71	6	grasses and sedges	wetlands	14.286
+location	Amo-ffe8_51_arum-10	Amo-ffe8_45_rainforests-12	Amo-ffe8_51_arum-10_5571	51	Amo-ffe8_45_rainforests-12_3811	45	6	titan arum	rainforest	14.286
+location	Orc5d52_17_orchid-6	Orc5d52_23_deserts-17	Orc5d52_17_orchid-6_4169	17	Orc5d52_23_deserts-17_34	23	6	orchids	Desert	14.286
+location	Flo-eb50_8_orchids-45	Flo-eb50_2_grasslands-2	Flo-eb50_8_orchids-45_4169	8	Flo-eb50_2_grasslands-2_3806	2	6	orchids	flooded grassland	14.286
+location	Orc5d52_29_orchids-6	Orc5d52_23_deserts-17	Orc5d52_29_orchids-6_4169	29	Orc5d52_23_deserts-17_34	23	6	orchids	Desert	14.286
+location	Flo-eb50_8_orchids-45	Flo-eb50_2_grasslands-30	Flo-eb50_8_orchids-45_4169	8	Flo-eb50_2_grasslands-30_3806	2	6	orchids	flooded grassland	14.286
+location	Gol-1dbf_244_cottongrass-50	Gol-1dbf_250_wetlands-23	Gol-1dbf_244_cottongrass-50_4903	244	Gol-1dbf_250_wetlands-23_4542	250	6	cottongrass	wetlands	14.286
+location	Afr-354e_17_grasses-13	Afr-354e_23_rainforest-18	Afr-354e_17_grasses-13_5363	17	Afr-354e_23_rainforest-18_3811	23	6	grasses and sedges	rainforest	14.286
+location	Hya-3e37_61_bluebells-7	Hya-3e37_54_hedgerows-7	Hya-3e37_61_bluebells-7_1917	61	Hya-3e37_54_hedgerows-7_4519	54	7	Common bluebell	hedgerows	12.5
+location	Hya-3e37_61_bluebells-26	Hya-3e37_54_hedgerows-7	Hya-3e37_61_bluebells-26_1917	61	Hya-3e37_54_hedgerows-7_4519	54	7	Common bluebell	hedgerows	12.5
+location	Bam-5151_43_Bamboo-1	Bam-5151_36_rainforests-29	Bam-5151_43_Bamboo-1_1632	43	Bam-5151_36_rainforests-29_3811	36	7	Bamboo	rainforest	12.5
+location	Flo-eb50_8_orchids-45	Flo-eb50_15_grasslands-2	Flo-eb50_8_orchids-45_4169	8	Flo-eb50_15_grasslands-2_3806	15	7	orchids	flooded grassland	12.5
+location	Lem-06b1_13_grasses-3	Lem-06b1_20_tundra-29	Lem-06b1_13_grasses-3_5363	13	Lem-06b1_20_tundra-29_4539	20	7	grasses and sedges	tundra	12.5
+location	Epi-bfa5_17_orchids-10	Epi-bfa5_24_coastal-29	Epi-bfa5_17_orchids-10_4169	17	Epi-bfa5_24_coastal-29_1353	24	7	orchids	Coastal	12.5
+location	Flo-eb50_8_orchids-45	Flo-eb50_1_grasslands-2	Flo-eb50_8_orchids-45_4169	8	Flo-eb50_1_grasslands-2_3806	1	7	orchids	flooded grassland	12.5
+location	Tun-c63e_62_orchids-16	Tun-c63e_55_deserts-25	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_55_deserts-25_34	55	7	orchids	Desert	12.5
+location	Mon37b6_12_orchids-2	Mon37b6_5_grasslands-2	Mon37b6_12_orchids-2_4169	12	Mon37b6_5_grasslands-2_38	5	7	orchids	Mountain grassland	12.5
+location	Mon37b6_12_orchids-2	Mon37b6_5_grasslands-31	Mon37b6_12_orchids-2_4169	12	Mon37b6_5_grasslands-31_38	5	7	orchids	Mountain grassland	12.5
+location	Flo-e790_28_orchids-11	Flo-e790_35_bogs-13	Flo-e790_28_orchids-11_4169	28	Flo-e790_35_bogs-13_4511	35	7	orchids	bog	12.5
+location	Lem-06b1_13_grasses-3	Lem-06b1_20_mountain-15	Lem-06b1_13_grasses-3_5363	13	Lem-06b1_20_mountain-15_4527	20	7	grasses and sedges	mountains	12.5
+location	Amo-ffe8_92_titanum-16	Amo-ffe8_98_rainforest-5	Amo-ffe8_92_titanum-16_3553	92	Amo-ffe8_98_rainforest-5_3811	98	6	Amorphophallus titanum	rainforest	12.429
+location	Orc5d52_31_orchids-16	Orc5d52_23_deserts-17	Orc5d52_31_orchids-16_4169	31	Orc5d52_23_deserts-17_34	23	8	orchids	Desert	11.111
+location	Poa-a930_5_Orchidaceae-24	Poa-a930_13_wetlands-16	Poa-a930_5_Orchidaceae-24_727	5	Poa-a930_13_wetlands-16_4542	13	8	Orchidaceae	wetlands	11.111
+location	Poa-a930_5_Orchidaceae-24	Poa-a930_13_tundra-20	Poa-a930_5_Orchidaceae-24_727	5	Poa-a930_13_tundra-20_4539	13	8	Orchidaceae	tundra	11.111
+location	Fir-3b5c_161_orchids-25	Fir-3b5c_169_wetlands-3	Fir-3b5c_161_orchids-25_4169	161	Fir-3b5c_169_wetlands-3_4542	169	8	orchids	wetlands	11.111
+location	Equ-d3c3_102_grasses-5	Equ-d3c3_94_mountain-18	Equ-d3c3_102_grasses-5_5363	102	Equ-d3c3_94_mountain-18_4527	94	8	grasses and sedges	mountains	11.111
+location	Eri-8713_10_Eriophorum-1	Eri-8713_3_bog-19	Eri-8713_10_Eriophorum-1_2121	10	Eri-8713_3_bog-19_4511	3	7	Eriophorum	bog	10.875
+location	Cyp-0899_13_Eriophorum-8	Cyp-0899_6_wetlands-12	Cyp-0899_13_Eriophorum-8_2121	13	Cyp-0899_6_wetlands-12_4542	6	7	Eriophorum	wetlands	10.875
+location	Mon37b6_12_orchids-2	Mon37b6_3_moorland-4	Mon37b6_12_orchids-2_4169	12	Mon37b6_3_moorland-4_4526	3	9	orchids	moorland	10.0
+location	Amo-ffe8_50_arum-10	Amo-ffe8_41_rainforests-17	Amo-ffe8_50_arum-10_5571	50	Amo-ffe8_41_rainforests-17_3811	41	9	titan arum	rainforest	10.0
+location	Amo-ffe8_54_arum-26	Amo-ffe8_45_rainforests-12	Amo-ffe8_54_arum-26_5571	54	Amo-ffe8_45_rainforests-12_3811	45	9	titan arum	rainforest	10.0
+location	Fir-3b5c_161_orchids-25	Fir-3b5c_170_wetlands-4	Fir-3b5c_161_orchids-25_4169	161	Fir-3b5c_170_wetlands-4_4542	170	9	orchids	wetlands	10.0
+location	Tun-c63e_62_orchids-16	Tun-c63e_52_Tundra-1	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_52_Tundra-1_1379	52	10	orchids	Tundra	9.091
+location	Equ-d3c3_102_grasses-5	Equ-d3c3_112_mountain-3	Equ-d3c3_102_grasses-5_5363	102	Equ-d3c3_112_mountain-3_4527	112	10	grasses and sedges	mountains	9.091
+location	Amo-ffe8_51_arum-10	Amo-ffe8_41_rainforests-17	Amo-ffe8_51_arum-10_5571	51	Amo-ffe8_41_rainforests-17_3811	41	10	titan arum	rainforest	9.091
+location	Eri-8713_12_Eriophorum-14	Eri-8713_3_bog-19	Eri-8713_12_Eriophorum-14_2121	12	Eri-8713_3_bog-19_4511	3	9	Eriophorum	bog	8.7
+location	Eri-8713_12_Eriophorum-1	Eri-8713_3_bog-19	Eri-8713_12_Eriophorum-1_2121	12	Eri-8713_3_bog-19_4511	3	9	Eriophorum	bog	8.7
+location	Afr-354e_17_grasses-13	Afr-354e_28_marshes-29	Afr-354e_17_grasses-13_5363	17	Afr-354e_28_marshes-29_3807	28	11	grasses and sedges	marsh	8.333
+location	Lem-06b1_13_grasses-3	Lem-06b1_2_tundra-16	Lem-06b1_13_grasses-3_5363	13	Lem-06b1_2_tundra-16_4539	2	11	grasses and sedges	tundra	8.333
+location	Eng-0a3a_34_orchid-12	Eng-0a3a_23_estuaries-24	Eng-0a3a_34_orchid-12_4169	34	Eng-0a3a_23_estuaries-24_4517	23	11	orchids	estuaries	8.333
+location	Fir-3b5c_161_orchids-25	Fir-3b5c_172_bogs-9	Fir-3b5c_161_orchids-25_4169	161	Fir-3b5c_172_bogs-9_4511	172	11	orchids	bog	8.333
+location	Fri-5711_52_fritillary-11	Fri-5711_45_meadows-34	Fri-5711_52_fritillary-11_2301	52	Fri-5711_45_meadows-34_4525	45	7	Snakes head fritillary	wildflower meadow	8.25
+location	Tun-c63e_62_orchids-16	Tun-c63e_50_Tundra-1	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_50_Tundra-1_1379	50	12	orchids	Tundra	7.692
+location	Woo-aaf8_221_grasses-10	Woo-aaf8_233_tundra-10	Woo-aaf8_221_grasses-10_5363	221	Woo-aaf8_233_tundra-10_4539	233	12	grasses and sedges	tundra	7.692
+location	Fir-3b5c_161_orchids-25	Fir-3b5c_174_bogs-15	Fir-3b5c_161_orchids-25_4169	161	Fir-3b5c_174_bogs-15_4511	174	13	orchids	bog	7.143
+location	Eng-0a3a_34_orchid-12	Eng-0a3a_47_Marsh-22	Eng-0a3a_34_orchid-12_4169	34	Eng-0a3a_47_Marsh-22_36	47	13	orchids	Marsh	7.143
+location	Gol-1dbf_244_cottongrass-50	Gol-1dbf_257_bogs-24	Gol-1dbf_244_cottongrass-50_4903	244	Gol-1dbf_257_bogs-24_4511	257	13	cottongrass	bog	7.143
+location	Afr-354e_17_grasses-13	Afr-354e_4_rainforests-13	Afr-354e_17_grasses-13_5363	17	Afr-354e_4_rainforests-13_3811	4	13	grasses and sedges	rainforest	7.143
+location	Fir-3b5c_161_orchids-25	Fir-3b5c_174_marshes-9	Fir-3b5c_161_orchids-25_4169	161	Fir-3b5c_174_marshes-9_3807	174	13	orchids	marsh	7.143
+location	Gol-1dbf_244_cottongrass-50	Gol-1dbf_257_marshes-20	Gol-1dbf_244_cottongrass-50_4903	244	Gol-1dbf_257_marshes-20_3807	257	13	cottongrass	marsh	7.143
+location	Fir-3b5c_161_orchids-25	Fir-3b5c_174_marshes-20	Fir-3b5c_161_orchids-25_4169	161	Fir-3b5c_174_marshes-20_3807	174	13	orchids	marsh	7.143
+location	Meaa30a_13_orchids-7	Meaa30a_27_meadow-13	Meaa30a_13_orchids-7_4169	13	Meaa30a_27_meadow-13_4525	27	14	orchids	wildflower meadow	6.667
+location	Fir-3b5c_161_orchids-25	Fir-3b5c_175_wetlands-2	Fir-3b5c_161_orchids-25_4169	161	Fir-3b5c_175_wetlands-2_4542	175	14	orchids	wetlands	6.667
+location	Tun-c63e_62_orchids-16	Tun-c63e_76_Tundra-1	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_76_Tundra-1_1379	76	14	orchids	Tundra	6.667
+location	Equ-d3c3_102_grasses-5	Equ-d3c3_116_mountain-7	Equ-d3c3_102_grasses-5_5363	102	Equ-d3c3_116_mountain-7_4527	116	14	grasses and sedges	mountains	6.667
+location	Fir-3b5c_161_orchids-25	Fir-3b5c_176_wetlands-10	Fir-3b5c_161_orchids-25_4169	161	Fir-3b5c_176_wetlands-10_4542	176	15	orchids	wetlands	6.25
+location	Tun-c63e_62_orchids-16	Tun-c63e_77_Tundra-1	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_77_Tundra-1_1379	77	15	orchids	Tundra	6.25
+location	Meaa30a_12_orchids-18	Meaa30a_27_meadow-13	Meaa30a_12_orchids-18_4169	12	Meaa30a_27_meadow-13_4525	27	15	orchids	wildflower meadow	6.25
+location	Epi-bfa5_9_orchids-34	Epi-bfa5_24_coastal-29	Epi-bfa5_9_orchids-34_4169	9	Epi-bfa5_24_coastal-29_1353	24	15	orchids	Coastal	6.25
+location	Meaa30a_13_orchids-7	Meaa30a_29_meadows-5	Meaa30a_13_orchids-7_4169	13	Meaa30a_29_meadows-5_4525	29	16	orchids	wildflower meadow	5.882
+location	Equ-d3c3_102_grasses-5	Equ-d3c3_86_mountain-3	Equ-d3c3_102_grasses-5_5363	102	Equ-d3c3_86_mountain-3_4527	86	16	grasses and sedges	mountains	5.882
+location	Amo-ffe8_84_titanum-4	Amo-ffe8_98_rainforest-5	Amo-ffe8_84_titanum-4_3553	84	Amo-ffe8_98_rainforest-5_3811	98	14	Amorphophallus titanum	rainforest	5.8
+location	Meaa30a_12_orchids-18	Meaa30a_29_meadows-5	Meaa30a_12_orchids-18_4169	12	Meaa30a_29_meadows-5_4525	29	17	orchids	wildflower meadow	5.556
+location	Meaa30a_13_orchids-7	Meaa30a_30_meadows-20	Meaa30a_13_orchids-7_4169	13	Meaa30a_30_meadows-20_4525	30	17	orchids	wildflower meadow	5.556
+location	Meaa30a_13_orchids-7	Meaa30a_30_meadows-3	Meaa30a_13_orchids-7_4169	13	Meaa30a_30_meadows-3_4525	30	17	orchids	wildflower meadow	5.556
+location	Meaa30a_12_orchids-18	Meaa30a_30_meadows-20	Meaa30a_12_orchids-18_4169	12	Meaa30a_30_meadows-20_4525	30	18	orchids	wildflower meadow	5.263
+location	Meaa30a_12_orchids-18	Meaa30a_30_meadows-3	Meaa30a_12_orchids-18_4169	12	Meaa30a_30_meadows-3_4525	30	18	orchids	wildflower meadow	5.263
+location	Bam-5151_18_Bamboo-1	Bam-5151_36_rainforests-29	Bam-5151_18_Bamboo-1_1632	18	Bam-5151_36_rainforests-29_3811	36	18	Bamboo	rainforest	5.263
+location	Epi-bfa5_42_orchids-10	Epi-bfa5_24_coastal-29	Epi-bfa5_42_orchids-10_4169	42	Epi-bfa5_24_coastal-29_4514	24	18	orchids	coastal	5.263
+location	Tun-c63e_62_orchids-16	Tun-c63e_80_bogs-36	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_80_bogs-36_4511	80	18	orchids	bog	5.263
+location	Tun-c63e_62_orchids-16	Tun-c63e_44_Tundra-1	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_44_Tundra-1_1379	44	18	orchids	Tundra	5.263
+location	Tun-c63e_62_orchids-16	Tun-c63e_80_swamps-34	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_80_swamps-34_3808	80	18	orchids	swamp	5.263
+location	Meaa30a_13_orchids-7	Meaa30a_31_meadows-6	Meaa30a_13_orchids-7_4169	13	Meaa30a_31_meadows-6_4525	31	18	orchids	wildflower meadow	5.263
+location	Gol-1dbf_244_cottongrass-50	Gol-1dbf_262_marsh-8	Gol-1dbf_244_cottongrass-50_4903	244	Gol-1dbf_262_marsh-8_3807	262	18	cottongrass	marsh	5.263
+location	Gol-1dbf_244_cottongrass-50	Gol-1dbf_262_wetlands-24	Gol-1dbf_244_cottongrass-50_4903	244	Gol-1dbf_262_wetlands-24_4542	262	18	cottongrass	wetlands	5.263
+location	Meaa30a_12_orchids-18	Meaa30a_31_meadows-6	Meaa30a_12_orchids-18_4169	12	Meaa30a_31_meadows-6_4525	31	19	orchids	wildflower meadow	5.0
+location	Gol-1dbf_244_cottongrass-50	Gol-1dbf_263_marshes-24	Gol-1dbf_244_cottongrass-50_4903	244	Gol-1dbf_263_marshes-24_3807	263	19	cottongrass	marsh	5.0
+location	Gol-1dbf_244_cottongrass-50	Gol-1dbf_263_wetlands-38	Gol-1dbf_244_cottongrass-50_4903	244	Gol-1dbf_263_wetlands-38_4542	263	19	cottongrass	wetlands	5.0
+location	Gol-1dbf_244_cottongrass-50	Gol-1dbf_264_wetlands-2	Gol-1dbf_244_cottongrass-50_4903	244	Gol-1dbf_264_wetlands-2_4542	264	20	cottongrass	wetlands	4.762
+location	Tun-c63e_62_orchids-16	Tun-c63e_82_Tundra-1	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_82_Tundra-1_1379	82	20	orchids	Tundra	4.762
+location	Bea-4f7a_141_lilies-29	Bea-4f7a_128_lakes-12	Bea-4f7a_141_lilies-29_4143	141	Bea-4f7a_128_lakes-12_4522	128	13	lilies	lakes and ponds	4.714
+location	Bam-5151_57_Bamboo-12	Bam-5151_36_rainforests-29	Bam-5151_57_Bamboo-12_1632	57	Bam-5151_36_rainforests-29_3811	36	21	Bamboo	rainforest	4.545
+location	Tun-c63e_62_orchids-16	Tun-c63e_41_Tundra-1	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_41_Tundra-1_1379	41	21	orchids	Tundra	4.545
+location	Tun-c63e_62_orchids-16	Tun-c63e_84_Tundra-1	Tun-c63e_62_orchids-16_4169	62	Tun-c63e_84_Tundra-1_1379	84	22	orchids	Tundra	4.348
+location	Ast-c43d_120_Orchidaceae-13	Ast-c43d_143_desert-5	Ast-c43d_120_Orchidaceae-13_727	120	Ast-c43d_143_desert-5_3805	143	23	Orchidaceae	desert	4.167
+location	Gol-1dbf_244_cottongrass-50	Gol-1dbf_221_bogs-18	Gol-1dbf_244_cottongrass-50_4903	244	Gol-1dbf_221_bogs-18_4511	221	23	cottongrass	bog	4.167
+location	Eng-0a3a_34_orchid-12	Eng-0a3a_58_hedgerow-2	Eng-0a3a_34_orchid-12_4169	34	Eng-0a3a_58_hedgerow-2_4519	58	24	orchids	hedgerows	4.0
+location	Gol-1dbf_244_cottongrass-50	Gol-1dbf_220_bog-8	Gol-1dbf_244_cottongrass-50_4903	244	Gol-1dbf_220_bog-8_4511	220	24	cottongrass	bog	4.0
+location	Ame-d5c4_128_grasses-8	Ame-d5c4_103_Mountains-12	Ame-d5c4_128_grasses-8_5363	128	Ame-d5c4_103_Mountains-12_1366	103	25	grasses and sedges	Mountains	3.846
+location	Eng-0a3a_34_orchid-12	Eng-0a3a_60_hedgerows-7	Eng-0a3a_34_orchid-12_4169	34	Eng-0a3a_60_hedgerows-7_4519	60	26	orchids	hedgerows	3.704
+location	Amo-76d8_17_titanum-82	Amo-76d8_40_rainforest-5	Amo-76d8_17_titanum-82_3553	17	Amo-76d8_40_rainforest-5_3811	40	23	Amorphophallus titanum	rainforest	3.625
+location	Col-6d94_177_grasses-7	Col-6d94_204_parkland-32	Col-6d94_177_grasses-7_5363	177	Col-6d94_204_parkland-32_4529	204	27	grasses and sedges	parkland	3.571
+location	Eng-0a3a_34_orchid-12	Eng-0a3a_61_hedgerow-4	Eng-0a3a_34_orchid-12_4169	34	Eng-0a3a_61_hedgerow-4_4519	61	27	orchids	hedgerows	3.571
+location	Eng-0a3a_34_orchid-12	Eng-0a3a_63_hedgerow-8	Eng-0a3a_34_orchid-12_4169	34	Eng-0a3a_63_hedgerow-8_4519	63	29	orchids	hedgerows	3.333
+location	Eng-0a3a_34_orchid-12	Eng-0a3a_63_farmland-26	Eng-0a3a_34_orchid-12_4169	34	Eng-0a3a_63_farmland-26_4509	63	29	orchids	farmland	3.333
+location	Mic-2330_5_grasses-7	Mic-2330_35_marsh-3	Mic-2330_5_grasses-7_5363	5	Mic-2330_35_marsh-3_3807	35	30	grasses and sedges	marsh	3.226
+location	Pla-2751_150_orchids-2	Pla-2751_120_rainforest-32	Pla-2751_150_orchids-2_4169	150	Pla-2751_120_rainforest-32_3811	120	30	orchids	rainforest	3.226
+location	Bam-5151_68_Bamboo-1	Bam-5151_36_rainforests-29	Bam-5151_68_Bamboo-1_1632	68	Bam-5151_36_rainforests-29_3811	36	32	Bamboo	rainforest	3.03
+location	Ame-d5c4_128_grasses-8	Ame-d5c4_96_Mountains-58	Ame-d5c4_128_grasses-8_5363	128	Ame-d5c4_96_Mountains-58_1366	96	32	grasses and sedges	Mountains	3.03
+location	Ame-d5c4_128_grasses-8	Ame-d5c4_96_Mountains-45	Ame-d5c4_128_grasses-8_5363	128	Ame-d5c4_96_Mountains-45_1366	96	32	grasses and sedges	Mountains	3.03
+location	Ame-d5c4_128_grasses-8	Ame-d5c4_96_Mountains-34	Ame-d5c4_128_grasses-8_5363	128	Ame-d5c4_96_Mountains-34_1366	96	32	grasses and sedges	Mountains	3.03
+location	Eng-0a3a_34_orchid-12	Eng-0a3a_67_estuaries-15	Eng-0a3a_34_orchid-12_4169	34	Eng-0a3a_67_estuaries-15_4517	67	33	orchids	estuaries	2.941
+location	Lem-06b1_13_grasses-3	Lem-06b1_46_Mountains-2	Lem-06b1_13_grasses-3_5363	13	Lem-06b1_46_Mountains-2_1366	46	33	grasses and sedges	Mountains	2.941
+location	Amo-76d8_4_arum-6	Amo-76d8_40_rainforest-5	Amo-76d8_4_arum-6_3552	4	Amo-76d8_40_rainforest-5_3811	40	36	Titan arum	rainforest	2.703
+location	Hya-3e37_18_bluebell-13	Hya-3e37_54_hedgerows-7	Hya-3e37_18_bluebell-13_1917	18	Hya-3e37_54_hedgerows-7_4519	54	36	Common bluebell	hedgerows	2.703
+location	Hya-3e37_18_bluebell-10	Hya-3e37_54_hedgerows-7	Hya-3e37_18_bluebell-10_4796	18	Hya-3e37_54_hedgerows-7_4519	54	36	common bluebell	hedgerows	2.703
+location	Hya-3e37_18_bluebell-16	Hya-3e37_54_hedgerows-7	Hya-3e37_18_bluebell-16_4796	18	Hya-3e37_54_hedgerows-7_4519	54	36	common bluebell	hedgerows	2.703
+location	Wil-28c2_65_grass-18	Wil-28c2_29_swamps-8	Wil-28c2_65_grass-18_5363	65	Wil-28c2_29_swamps-8_3808	29	36	grasses and sedges	swamp	2.703
+location	Red-e311_148_Bamboo-1	Red-e311_122_forest-11	Red-e311_148_Bamboo-1_1632	148	Red-e311_122_forest-11_1378	122	26	Bamboo	Tropical coniferous forest	2.444
+location	Mic-2330_5_grasses-7	Mic-2330_45_Taiga-7	Mic-2330_5_grasses-7_5363	5	Mic-2330_45_Taiga-7_1373	45	40	grasses and sedges	Taiga	2.439
+location	Lem-06b1_13_grasses-3	Lem-06b1_54_bog-3	Lem-06b1_13_grasses-3_5363	13	Lem-06b1_54_bog-3_4511	54	41	grasses and sedges	bog	2.381
+location	Fri-5711_3_daffodil-59	Fri-5711_45_meadows-34	Fri-5711_3_daffodil-59_5252	3	Fri-5711_45_meadows-34_4525	45	42	daffodil	wildflower meadow	2.326
+location	Lem-06b1_13_grasses-3	Lem-06b1_55_bog-2	Lem-06b1_13_grasses-3_5363	13	Lem-06b1_55_bog-2_4511	55	42	grasses and sedges	bog	2.326
+location	Amo-ffe8_6_flower-30	Amo-ffe8_41_rainforests-17	Amo-ffe8_6_flower-30_5572	6	Amo-ffe8_41_rainforests-17_3811	41	35	corpse flower	rainforest	2.306
+location	Amo-ffe8_6_flower-46	Amo-ffe8_41_rainforests-17	Amo-ffe8_6_flower-46_5572	6	Amo-ffe8_41_rainforests-17_3811	41	35	corpse flower	rainforest	2.306
+location	Amo-ffe8_6_flower-21	Amo-ffe8_41_rainforests-17	Amo-ffe8_6_flower-21_5572	6	Amo-ffe8_41_rainforests-17_3811	41	35	corpse flower	rainforest	2.306
+location	Poa-a930_15_Poales-16	Poa-a930_58_deserts-12	Poa-a930_15_Poales-16_3114	15	Poa-a930_58_deserts-12_34	58	43	Poales	Desert	2.273
+location	Poa-a930_15_Poales-16	Poa-a930_58_mountains-15	Poa-a930_15_Poales-16_3114	15	Poa-a930_58_mountains-15_4527	58	43	Poales	mountains	2.273
+location	Amo-76d8_4_flower-34	Amo-76d8_40_rainforest-5	Amo-76d8_4_flower-34_5572	4	Amo-76d8_40_rainforest-5_3811	40	36	corpse flower	rainforest	2.243
+location	Bee-f189_54_bluebell-18	Bee-f189_10_wood-5	Bee-f189_54_bluebell-18_1917	54	Bee-f189_10_wood-5_4516	10	44	Common bluebell	beech wood	2.222
+location	Amo-ffe8_84_titanum-4	Amo-ffe8_45_rainforests-12	Amo-ffe8_84_titanum-4_3553	84	Amo-ffe8_45_rainforests-12_3811	45	39	Amorphophallus titanum	rainforest	2.175
+location	Ace-0af3_90_orchid-28	Ace-0af3_135_coastal-14	Ace-0af3_90_orchid-28_4169	90	Ace-0af3_135_coastal-14_4514	135	45	orchids	coastal	2.174
+location	Amo-ffe8_6_flower-21	Amo-ffe8_45_rainforests-12	Amo-ffe8_6_flower-21_5572	6	Amo-ffe8_45_rainforests-12_3811	45	39	corpse flower	rainforest	2.075
+location	Amo-ffe8_6_flower-46	Amo-ffe8_45_rainforests-12	Amo-ffe8_6_flower-46_5572	6	Amo-ffe8_45_rainforests-12_3811	45	39	corpse flower	rainforest	2.075
+location	Amo-ffe8_6_flower-30	Amo-ffe8_45_rainforests-12	Amo-ffe8_6_flower-30_5572	6	Amo-ffe8_45_rainforests-12_3811	45	39	corpse flower	rainforest	2.075
+location	Pla-2751_150_orchids-2	Pla-2751_198_rainforests-25	Pla-2751_150_orchids-2_4169	150	Pla-2751_198_rainforests-25_3811	198	48	orchids	rainforest	2.041
+location	Amo-ffe8_84_titanum-4	Amo-ffe8_41_rainforests-17	Amo-ffe8_84_titanum-4_3553	84	Amo-ffe8_41_rainforests-17_3811	41	43	Amorphophallus titanum	rainforest	1.977
+location	Wil-28c2_65_grass-18	Wil-28c2_15_swamp-38	Wil-28c2_65_grass-18_5363	65	Wil-28c2_15_swamp-38_3808	15	50	grasses and sedges	swamp	1.961
+location	Fri-5711_3_flower-31	Fri-5711_45_meadows-34	Fri-5711_3_flower-31_2305	3	Fri-5711_45_meadows-34_4525	45	42	Chess flower	wildflower meadow	1.93
+location	Fri-5711_3_flower-22	Fri-5711_45_meadows-34	Fri-5711_3_flower-22_2305	3	Fri-5711_45_meadows-34_4525	45	42	Chess flower	wildflower meadow	1.93
+location	Fri-5711_3_flower-34	Fri-5711_45_meadows-34	Fri-5711_3_flower-34_2305	3	Fri-5711_45_meadows-34_4525	45	42	Chess flower	wildflower meadow	1.93
+location	Fri-5711_3_cup-26	Fri-5711_45_meadows-34	Fri-5711_3_cup-26_4988	3	Fri-5711_45_meadows-34_4525	45	42	frog-cup	wildflower meadow	1.93
+location	Fri-5711_3_lepers-49	Fri-5711_45_meadows-34	Fri-5711_3_lepers-49_4989	3	Fri-5711_45_meadows-34_4525	45	42	leper lily	wildflower meadow	1.93
+location	Fri-5711_3_leper-36	Fri-5711_45_meadows-34	Fri-5711_3_leper-36_4989	3	Fri-5711_45_meadows-34_4525	45	42	leper lily	wildflower meadow	1.93
+location	Hya-3e37_3_bluebell-9	Hya-3e37_54_hedgerows-7	Hya-3e37_3_bluebell-9_4796	3	Hya-3e37_54_hedgerows-7_4519	54	51	common bluebell	hedgerows	1.923
+location	Poa-a930_5_Orchidaceae-24	Poa-a930_58_deserts-12	Poa-a930_5_Orchidaceae-24_727	5	Poa-a930_58_deserts-12_3805	58	53	Orchidaceae	desert	1.852
+location	Amo-ffe8_98_arum-11	Amo-ffe8_45_rainforests-12	Amo-ffe8_98_arum-11_3552	98	Amo-ffe8_45_rainforests-12_3811	45	53	Titan arum	rainforest	1.852
+location	Poa-a930_5_Orchidaceae-24	Poa-a930_58_mountains-15	Poa-a930_5_Orchidaceae-24_727	5	Poa-a930_58_mountains-15_4527	58	53	Orchidaceae	mountains	1.852
+location	Amo-ffe8_92_titanum-16	Amo-ffe8_45_rainforests-12	Amo-ffe8_92_titanum-16_3553	92	Amo-ffe8_45_rainforests-12_3811	45	47	Amorphophallus titanum	rainforest	1.812
+location	Woo-aaf8_221_grasses-10	Woo-aaf8_276_tundra-16	Woo-aaf8_221_grasses-10_5363	221	Woo-aaf8_276_tundra-16_4539	276	55	grasses and sedges	tundra	1.786
+location	Cam-4bd8_253_orchid-17	Cam-4bd8_309_coastal-10	Cam-4bd8_253_orchid-17_4169	253	Cam-4bd8_309_coastal-10_4514	309	56	orchids	coastal	1.754
+location	Amo-ffe8_98_arum-11	Amo-ffe8_41_rainforests-17	Amo-ffe8_98_arum-11_3552	98	Amo-ffe8_41_rainforests-17_3811	41	57	Titan arum	rainforest	1.724
+location	Amo-ffe8_103_arum-7	Amo-ffe8_45_rainforests-12	Amo-ffe8_103_arum-7_3552	103	Amo-ffe8_45_rainforests-12_3811	45	58	Titan arum	rainforest	1.695
+location	Amo-ffe8_92_titanum-16	Amo-ffe8_41_rainforests-17	Amo-ffe8_92_titanum-16_3553	92	Amo-ffe8_41_rainforests-17_3811	41	51	Amorphophallus titanum	rainforest	1.673
+location	Bee-f189_54_bluebell-18	Bee-f189_114_wood-18	Bee-f189_54_bluebell-18_4796	54	Bee-f189_114_wood-18_4516	114	60	common bluebell	beech wood	1.639
+location	Amo-ffe8_103_arum-7	Amo-ffe8_41_rainforests-17	Amo-ffe8_103_arum-7_3552	103	Amo-ffe8_41_rainforests-17_3811	41	62	Titan arum	rainforest	1.587
+location	Woo-aaf8_221_grasses-10	Woo-aaf8_283_tundra-21	Woo-aaf8_221_grasses-10_5363	221	Woo-aaf8_283_tundra-21_4539	283	62	grasses and sedges	tundra	1.587
+location	Fri-5711_3_fritillary-9	Fri-5711_45_meadows-34	Fri-5711_3_fritillary-9_2301	3	Fri-5711_45_meadows-34_4525	45	42	Snakes head fritillary	wildflower meadow	1.535
+location	Poa-a930_15_Poales-16	Poa-a930_82_marsh-15	Poa-a930_15_Poales-16_3114	15	Poa-a930_82_marsh-15_3807	82	67	Poales	marsh	1.471
+location	Sum-fc8d_95_orchids-41	Sum-fc8d_26_swamps-3	Sum-fc8d_95_orchids-41_4169	95	Sum-fc8d_26_swamps-3_3808	26	69	orchids	swamp	1.429
+location	Poa-a930_15_Poales-16	Poa-a930_90_grasslands-8	Poa-a930_15_Poales-16_3114	15	Poa-a930_90_grasslands-8_4537	90	75	Poales	temperate grassland	1.316
+location	Poa-a930_5_Orchidaceae-24	Poa-a930_82_marsh-15	Poa-a930_5_Orchidaceae-24_727	5	Poa-a930_82_marsh-15_3807	82	77	Orchidaceae	marsh	1.282
+location	Col-6d94_177_grasses-7	Col-6d94_255_parkland-25	Col-6d94_177_grasses-7_5363	177	Col-6d94_255_parkland-25_4529	255	78	grasses and sedges	parkland	1.266
+location	Sum-fc8d_95_orchids-41	Sum-fc8d_13_swamp-8	Sum-fc8d_95_orchids-41_4169	95	Sum-fc8d_13_swamp-8_3808	13	82	orchids	swamp	1.205
+location	Poa-a930_5_Orchidaceae-24	Poa-a930_90_grasslands-8	Poa-a930_5_Orchidaceae-24_727	5	Poa-a930_90_grasslands-8_4537	90	85	Orchidaceae	temperate grassland	1.163
+adaptation	Sem-88a0_25_bamboo-20	Sem-88a0_25_semelparous-4	Sem-88a0_25_bamboo-20_4656	25	Sem-88a0_25_semelparous-4_3980	25	0	bamboo	semelparous	100.0
+adaptation	Ara-552d_53_arum-18	Ara-552d_53_flowering-31	Ara-552d_53_arum-18_5571	53	Ara-552d_53_flowering-31_3955	53	0	titan arum	flowering	100.0
+adaptation	Nar-f40f_2_daffodil-8	Nar-f40f_2_flowering-22	Nar-f40f_2_daffodil-8_5252	2	Nar-f40f_2_flowering-22_3955	2	0	daffodil	flowering	100.0
+adaptation	Gia-57fd_133_bamboo-13	Gia-57fd_133_flowering-5	Gia-57fd_133_bamboo-13_4656	133	Gia-57fd_133_flowering-5_3955	133	0	bamboo	flowering	100.0
+adaptation	Lil-97b9_48_lily-4	Lil-97b9_48_flowering-14	Lil-97b9_48_lily-4_4143	48	Lil-97b9_48_flowering-14_3955	48	0	lilies	flowering	100.0
+adaptation	Lil-97b9_48_lily-25	Lil-97b9_48_flowering-14	Lil-97b9_48_lily-25_4143	48	Lil-97b9_48_flowering-14_3955	48	0	lilies	flowering	100.0
+adaptation	Aspef4a_1_orchids-3	Aspef4a_1_flowering-11	Aspef4a_1_orchids-3_4169	1	Aspef4a_1_flowering-11_3955	1	0	orchids	flowering	100.0
+adaptation	Amo-76d8_4_arum-6	Amo-76d8_4_flowering-44	Amo-76d8_4_arum-6_3552	4	Amo-76d8_4_flowering-44_3955	4	0	Titan arum	flowering	100.0
+adaptation	Orc-0474_96_orchids-5	Orc-0474_96_mimicry-32	Orc-0474_96_orchids-5_4169	96	Orc-0474_96_mimicry-32_3963	96	0	orchids	mimicry	100.0
+adaptation	Gal-cdcd_195_snowdrop-35	Gal-cdcd_195_flowering-19	Gal-cdcd_195_snowdrop-35_4994	195	Gal-cdcd_195_flowering-19_3955	195	0	snowdrop	flowering	100.0
+adaptation	Oph-1439_240_orchids-7	Oph-1439_240_mimicry-3	Oph-1439_240_orchids-7_4169	240	Oph-1439_240_mimicry-3_3963	240	0	orchids	mimicry	100.0
+adaptation	Lil-43fd_144_Tulipa-1	Lil-43fd_144_flowering-40	Lil-43fd_144_Tulipa-1_3570	144	Lil-43fd_144_flowering-40_3955	144	0	Tulipa	flowering	87.0
+adaptation	Amo-76d8_4_flower-34	Amo-76d8_4_flowering-44	Amo-76d8_4_flower-34_5572	4	Amo-76d8_4_flowering-44_3955	4	0	corpse flower	flowering	83.0
+adaptation	Poa-a930_3_bamboos-7	Poa-a930_2_flowering-17	Poa-a930_3_bamboos-7_4656	3	Poa-a930_2_flowering-17_3955	2	1	bamboo	flowering	50.0
+adaptation	Tul-9a00_239_tulips-12	Tul-9a00_240_flowering-8	Tul-9a00_239_tulips-12_5582	239	Tul-9a00_240_flowering-8_3955	240	1	tulips	flowering	50.0
+adaptation	Lil-97b9_47_lilies-16	Lil-97b9_48_flowering-14	Lil-97b9_47_lilies-16_4143	47	Lil-97b9_48_flowering-14_3955	48	1	lilies	flowering	50.0
+adaptation	Nar-e858_456_lilies-14	Nar-e858_457_flowering-65	Nar-e858_456_lilies-14_4143	456	Nar-e858_457_flowering-65_3955	457	1	lilies	flowering	50.0
+adaptation	Gal-eda5_75_snowdrop-32	Gal-eda5_76_flowering-24	Gal-eda5_75_snowdrop-32_4994	75	Gal-eda5_76_flowering-24_3955	76	1	snowdrop	flowering	50.0
+adaptation	Lil-97b9_67_Lilies-1	Lil-97b9_66_flowering-10	Lil-97b9_67_Lilies-1_666	67	Lil-97b9_66_flowering-10_3955	66	1	Lilies	flowering	50.0
+adaptation	Gal-eda5_77_snowdrop-100	Gal-eda5_76_flowering-24	Gal-eda5_77_snowdrop-100_4994	77	Gal-eda5_76_flowering-24_3955	76	1	snowdrop	flowering	50.0
+adaptation	Amo-ffe8_50_arum-10	Amo-ffe8_49_flowerings-4	Amo-ffe8_50_arum-10_5571	50	Amo-ffe8_49_flowerings-4_3955	49	1	titan arum	flowering	50.0
+adaptation	Lil-97b9_65_lilies-2	Lil-97b9_66_flowering-10	Lil-97b9_65_lilies-2_4143	65	Lil-97b9_66_flowering-10_3955	66	1	lilies	flowering	50.0
+adaptation	Bam-5151_269_bamboo-2	Bam-5151_268_flowering-4	Bam-5151_269_bamboo-2_4656	269	Bam-5151_268_flowering-4_3955	268	1	bamboo	flowering	50.0
+adaptation	Sem-88a0_25_bamboo-20	Sem-88a0_24_semelparous-14	Sem-88a0_25_bamboo-20_4656	25	Sem-88a0_24_semelparous-14_3980	24	1	bamboo	semelparous	50.0
+adaptation	Tul-9a00_121_Tulip-1	Tul-9a00_120_flowering-26	Tul-9a00_121_Tulip-1_3569	121	Tul-9a00_120_flowering-26_3955	120	1	Tulips	flowering	50.0
+adaptation	Flo-338d_166_orchids-2	Flo-338d_165_mimicry-4	Flo-338d_166_orchids-2_4169	166	Flo-338d_165_mimicry-4_3963	165	1	orchids	mimicry	50.0
+adaptation	Mim-33dd_227_orchids-6	Mim-33dd_226_mimicry-4	Mim-33dd_227_orchids-6_4169	227	Mim-33dd_226_mimicry-4_3963	226	1	orchids	mimicry	50.0
+adaptation	Mim-33dd_227_orchids-6	Mim-33dd_226_mimicry-9	Mim-33dd_227_orchids-6_4169	227	Mim-33dd_226_mimicry-9_3963	226	1	orchids	mimicry	50.0
+adaptation	Lil-43fd_176_Tulipa-15	Lil-43fd_175_flowering-18	Lil-43fd_176_Tulipa-15_3570	176	Lil-43fd_175_flowering-18_3955	175	1	Tulipa	flowering	43.5
+adaptation	Nar-f40f_1_pseudonarcissus-2	Nar-f40f_2_flowering-22	Nar-f40f_1_pseudonarcissus-2_2886	1	Nar-f40f_2_flowering-22_3955	2	1	Narcissus pseudonarcissus	flowering	43.5
+adaptation	Aspef4a_3_orchids-16	Aspef4a_1_flowering-11	Aspef4a_3_orchids-16_4169	3	Aspef4a_1_flowering-11_3955	1	2	orchids	flowering	33.333
+adaptation	Bam-5151_270_orchid-11	Bam-5151_268_flowering-4	Bam-5151_270_orchid-11_4169	270	Bam-5151_268_flowering-4_3955	268	2	orchids	flowering	33.333
+adaptation	Gal-eda5_77_snowdrop-100	Gal-eda5_79_flowering-2	Gal-eda5_77_snowdrop-100_4994	77	Gal-eda5_79_flowering-2_3955	79	2	snowdrop	flowering	33.333
+adaptation	Amo-ffe8_51_arum-10	Amo-ffe8_49_flowerings-4	Amo-ffe8_51_arum-10_5571	51	Amo-ffe8_49_flowerings-4_3955	49	2	titan arum	flowering	33.333
+adaptation	Gia-57fd_135_bamboo-11	Gia-57fd_133_flowering-5	Gia-57fd_135_bamboo-11_4656	135	Gia-57fd_133_flowering-5_3955	133	2	bamboo	flowering	33.333
+adaptation	Gia-57fd_131_bamboo-4	Gia-57fd_133_flowering-5	Gia-57fd_131_bamboo-4_4656	131	Gia-57fd_133_flowering-5_3955	133	2	bamboo	flowering	33.333
+adaptation	Bam-5151_270_bamboo-6	Bam-5151_268_flowering-4	Bam-5151_270_bamboo-6_4656	270	Bam-5151_268_flowering-4_3955	268	2	bamboo	flowering	33.333
+adaptation	Asp-da96_25_Liliaceae-2	Asp-da96_23_flowering-4	Asp-da96_25_Liliaceae-2_665	25	Asp-da96_23_flowering-4_3955	23	2	Liliaceae	flowering	33.333
+adaptation	Nar-e858_459_tulips-2	Nar-e858_457_flowering-65	Nar-e858_459_tulips-2_5582	459	Nar-e858_457_flowering-65_3955	457	2	tulips	flowering	33.333
+adaptation	Tul-9a00_122_tulip-4	Tul-9a00_120_flowering-26	Tul-9a00_122_tulip-4_5582	122	Tul-9a00_120_flowering-26_3955	120	2	tulips	flowering	33.333
+adaptation	Lil-43fd_173_Tulipa-8	Lil-43fd_175_flowering-18	Lil-43fd_173_Tulipa-8_3570	173	Lil-43fd_175_flowering-18_3955	175	2	Tulipa	flowering	29.0
+adaptation	Titcfb6_13_flower-20	Titcfb6_11_flowering-7	Titcfb6_13_flower-20_5572	13	Titcfb6_11_flowering-7_3955	11	2	corpse flower	flowering	27.667
+adaptation	Bam-5151_81_bamboo-30	Bam-5151_78_flowering-9	Bam-5151_81_bamboo-30_4656	81	Bam-5151_78_flowering-9_3955	78	3	bamboo	flowering	25.0
+adaptation	Sex-811c_52_orchids-2	Sex-811c_49_flowering-2	Sex-811c_52_orchids-2_4169	52	Sex-811c_49_flowering-2_3955	49	3	orchids	flowering	25.0
+adaptation	Tul-9a00_237_tulips-10	Tul-9a00_240_flowering-8	Tul-9a00_237_tulips-10_5582	237	Tul-9a00_240_flowering-8_3955	240	3	tulips	flowering	25.0
+adaptation	Orc5d52_21_orchids-2	Orc5d52_24_flowering-10	Orc5d52_21_orchids-2_4169	21	Orc5d52_24_flowering-10_3955	24	3	orchids	flowering	25.0
+adaptation	Gia-57fd_130_bamboo-6	Gia-57fd_133_flowering-5	Gia-57fd_130_bamboo-6_4656	130	Gia-57fd_133_flowering-5_3955	133	3	bamboo	flowering	25.0
+adaptation	Mim-33dd_219_Orchidaceae-4	Mim-33dd_216_mimicry-16	Mim-33dd_219_Orchidaceae-4_727	219	Mim-33dd_216_mimicry-16_3963	216	3	Orchidaceae	mimicry	25.0
+adaptation	Mim-33dd_219_Orchidaceae-4	Mim-33dd_216_mimicry-2	Mim-33dd_219_Orchidaceae-4_727	219	Mim-33dd_216_mimicry-2_3963	216	3	Orchidaceae	mimicry	25.0
+adaptation	Poa-a930_5_Orchidaceae-24	Poa-a930_2_flowering-17	Poa-a930_5_Orchidaceae-24_727	5	Poa-a930_2_flowering-17_3955	2	3	Orchidaceae	flowering	25.0
+adaptation	Bam-5151_81_bamboo-30	Bam-5151_78_flowering-5	Bam-5151_81_bamboo-30_4656	81	Bam-5151_78_flowering-5_3955	78	3	bamboo	flowering	25.0
+adaptation	Bam-5151_265_Bamboo-1	Bam-5151_268_flowering-4	Bam-5151_265_Bamboo-1_1632	265	Bam-5151_268_flowering-4_3955	268	3	Bamboo	flowering	25.0
+adaptation	Tul-9a00_237_tulips-5	Tul-9a00_240_flowering-8	Tul-9a00_237_tulips-5_5582	237	Tul-9a00_240_flowering-8_3955	240	3	tulips	flowering	25.0
+adaptation	Bee-ace3_210_orchid-11	Bee-ace3_207_mimicry-8	Bee-ace3_210_orchid-11_5282	210	Bee-ace3_207_mimicry-8_3963	207	3	bee orchids	mimicry	25.0
+adaptation	Sex-811c_53_orchids-3	Sex-811c_49_flowering-2	Sex-811c_53_orchids-3_4169	53	Sex-811c_49_flowering-2_3955	49	4	orchids	flowering	20.0
+adaptation	Tul-9a00_116_tulip-8	Tul-9a00_120_flowering-26	Tul-9a00_116_tulip-8_5582	116	Tul-9a00_120_flowering-26_3955	120	4	tulips	flowering	20.0
+adaptation	Lil-43fd_148_Liliaceae-3	Lil-43fd_144_flowering-40	Lil-43fd_148_Liliaceae-3_665	148	Lil-43fd_144_flowering-40_3955	144	4	Liliaceae	flowering	20.0
+adaptation	Flo-338d_161_arum-18	Flo-338d_165_mimicry-4	Flo-338d_161_arum-18_5571	161	Flo-338d_165_mimicry-4_3963	165	4	titan arum	mimicry	20.0
+adaptation	Amo-ffe8_45_arum-3	Amo-ffe8_49_flowerings-4	Amo-ffe8_45_arum-3_5571	45	Amo-ffe8_49_flowerings-4_3955	49	4	titan arum	flowering	20.0
+adaptation	All0ae9_5_daffodils-9	All0ae9_1_flowering-12	All0ae9_5_daffodils-9_5252	5	All0ae9_1_flowering-12_3955	1	4	daffodil	flowering	20.0
+adaptation	Sem-88a0_25_bamboo-20	Sem-88a0_20_semelparous-2	Sem-88a0_25_bamboo-20_4656	25	Sem-88a0_20_semelparous-2_3980	20	5	bamboo	semelparous	16.667
+adaptation	Oph-1439_251_Orchidaceae-12	Oph-1439_256_mimicry-7	Oph-1439_251_Orchidaceae-12_727	251	Oph-1439_256_mimicry-7_3963	256	5	Orchidaceae	mimicry	16.667
+adaptation	Amo-ffe8_54_arum-26	Amo-ffe8_49_flowerings-4	Amo-ffe8_54_arum-26_5571	54	Amo-ffe8_49_flowerings-4_3955	49	5	titan arum	flowering	16.667
+adaptation	Nar-e858_452_daffodils-2	Nar-e858_457_flowering-65	Nar-e858_452_daffodils-2_5252	452	Nar-e858_457_flowering-65_3955	457	5	daffodil	flowering	16.667
+adaptation	Mon-1726_190_Poales-7	Mon-1726_195_flowering-14	Mon-1726_190_Poales-7_3114	190	Mon-1726_195_flowering-14_3955	195	5	Poales	flowering	16.667
+adaptation	Mim-33dd_219_Orchidaceae-4	Mim-33dd_214_mimicry-3	Mim-33dd_219_Orchidaceae-4_727	219	Mim-33dd_214_mimicry-3_3963	214	5	Orchidaceae	mimicry	16.667
+adaptation	Orc5d52_19_orchid-6	Orc5d52_24_flowering-10	Orc5d52_19_orchid-6_4169	19	Orc5d52_24_flowering-10_3955	24	5	orchids	flowering	16.667
+adaptation	Orc5d52_29_orchids-6	Orc5d52_24_flowering-10	Orc5d52_29_orchids-6_4169	29	Orc5d52_24_flowering-10_3955	24	5	orchids	flowering	16.667
+adaptation	Nar-e858_619_daffodil-2	Nar-e858_614_Flowering-1	Nar-e858_619_daffodil-2_5252	619	Nar-e858_614_Flowering-1_331	614	5	daffodil	Flowering	16.667
+adaptation	Nar-f40f_7_pseudonarcissus-26	Nar-f40f_2_flowering-22	Nar-f40f_7_pseudonarcissus-26_2886	7	Nar-f40f_2_flowering-22_3955	2	5	Narcissus pseudonarcissus	flowering	14.5
+adaptation	Tul-9a00_114_tulips-12	Tul-9a00_120_flowering-26	Tul-9a00_114_tulips-12_5582	114	Tul-9a00_120_flowering-26_3955	120	6	tulips	flowering	14.286
+adaptation	Lil-43fd_169_tulip-4	Lil-43fd_175_flowering-18	Lil-43fd_169_tulip-4_5582	169	Lil-43fd_175_flowering-18_3955	175	6	tulips	flowering	14.286
+adaptation	Mon-1726_189_orchids-2	Mon-1726_195_flowering-14	Mon-1726_189_orchids-2_4169	189	Mon-1726_195_flowering-14_3955	195	6	orchids	flowering	14.286
+adaptation	Lil-43fd_169_tulip-12	Lil-43fd_175_flowering-18	Lil-43fd_169_tulip-12_5582	169	Lil-43fd_175_flowering-18_3955	175	6	tulips	flowering	14.286
+adaptation	Mon-1726_189_Orchidaceae-4	Mon-1726_195_flowering-14	Mon-1726_189_Orchidaceae-4_727	189	Mon-1726_195_flowering-14_3955	195	6	Orchidaceae	flowering	14.286
+adaptation	Flo0d28_36_orchid-6	Flo0d28_30_Flowering-1	Flo0d28_36_orchid-6_4169	36	Flo0d28_30_Flowering-1_331	30	6	orchids	Flowering	14.286
+adaptation	Gal-eda5_84_snowdrop-156	Gal-eda5_79_flowering-2	Gal-eda5_84_snowdrop-156_4995	84	Gal-eda5_79_flowering-2_3955	79	5	common snowdrop	flowering	13.833
+adaptation	Nar-f40f_8_pseudonarcissus-2	Nar-f40f_2_flowering-22	Nar-f40f_8_pseudonarcissus-2_2886	8	Nar-f40f_2_flowering-22_3955	2	6	Narcissus pseudonarcissus	flowering	12.429
+adaptation	Titcfb6_17_flower-2	Titcfb6_11_flowering-7	Titcfb6_17_flower-2_3554	17	Titcfb6_11_flowering-7_3955	11	6	Corpse flower	flowering	11.857
+adaptation	Lil-97b9_58_Lilies-1	Lil-97b9_66_flowering-10	Lil-97b9_58_Lilies-1_666	58	Lil-97b9_66_flowering-10_3955	66	8	Lilies	flowering	11.111
+adaptation	Gal-eda5_84_snowdrop-156	Gal-eda5_76_flowering-24	Gal-eda5_84_snowdrop-156_2321	84	Gal-eda5_76_flowering-24_3955	76	8	Common snowdrop	flowering	9.222
+adaptation	Nar-e858_624_daffodil-5	Nar-e858_614_Flowering-1	Nar-e858_624_daffodil-5_5252	624	Nar-e858_614_Flowering-1_331	614	10	daffodil	Flowering	9.091
+adaptation	Lil-97b9_58_Lilies-1	Lil-97b9_48_flowering-14	Lil-97b9_58_Lilies-1_666	58	Lil-97b9_48_flowering-14_3955	48	10	Lilies	flowering	9.091
+adaptation	Gal-cdcd_184_Snowdrop-5	Gal-cdcd_195_flowering-19	Gal-cdcd_184_Snowdrop-5_2319	184	Gal-cdcd_195_flowering-19_3955	195	11	Snowdrop	flowering	8.333
+adaptation	Gal-cdcd_223_Snowdrop-15	Gal-cdcd_234_flowering-20	Gal-cdcd_223_Snowdrop-15_2319	223	Gal-cdcd_234_flowering-20_3955	234	11	Snowdrop	flowering	8.333
+adaptation	Gal-cdcd_222_Snowdrops-2	Gal-cdcd_234_flowering-20	Gal-cdcd_222_Snowdrops-2_2319	222	Gal-cdcd_234_flowering-20_3955	234	12	Snowdrop	flowering	7.692
+adaptation	Gal-eda5_64_Snowdrop-7	Gal-eda5_76_flowering-24	Gal-eda5_64_Snowdrop-7_2319	64	Gal-eda5_76_flowering-24_3955	76	12	Snowdrop	flowering	7.692
+adaptation	Nar-e858_626_daffodil-6	Nar-e858_614_Flowering-1	Nar-e858_626_daffodil-6_5252	626	Nar-e858_614_Flowering-1_331	614	12	daffodil	Flowering	7.692
+adaptation	Lil-43fd_132_Liliaceae-26	Lil-43fd_144_flowering-40	Lil-43fd_132_Liliaceae-26_665	132	Lil-43fd_144_flowering-40_3955	144	12	Liliaceae	flowering	7.692
+adaptation	Tul-9a00_109_tulipae-2	Tul-9a00_120_flowering-26	Tul-9a00_109_tulipae-2_5583	109	Tul-9a00_120_flowering-26_3955	120	11	tulipa	flowering	7.25
+adaptation	Poa-a930_15_Poales-16	Poa-a930_2_flowering-17	Poa-a930_15_Poales-16_3114	15	Poa-a930_2_flowering-17_3955	2	13	Poales	flowering	7.143
+adaptation	Nar-e858_442_daffodils-6	Nar-e858_457_flowering-65	Nar-e858_442_daffodils-6_5252	442	Nar-e858_457_flowering-65_3955	457	15	daffodil	flowering	6.25
+adaptation	Gal-cdcd_210_daffodils-30	Gal-cdcd_195_flowering-19	Gal-cdcd_210_daffodils-30_5252	210	Gal-cdcd_195_flowering-19_3955	195	15	daffodil	flowering	6.25
+adaptation	Gal-eda5_64_Snowdrop-7	Gal-eda5_79_flowering-2	Gal-eda5_64_Snowdrop-7_2319	64	Gal-eda5_79_flowering-2_3955	79	15	Snowdrop	flowering	6.25
+adaptation	Nar-f40f_17_Daffodil-4	Nar-f40f_2_flowering-22	Nar-f40f_17_Daffodil-4_2885	17	Nar-f40f_2_flowering-22_3955	2	15	Daffodil	flowering	6.25
+adaptation	Mon-1726_179_Liliaceae-32	Mon-1726_164_flowering-34	Mon-1726_179_Liliaceae-32_665	179	Mon-1726_164_flowering-34_3955	164	15	Liliaceae	flowering	6.25
+adaptation	Amo-76d8_17_titanum-82	Amo-76d8_4_flowering-44	Amo-76d8_17_titanum-82_3553	17	Amo-76d8_4_flowering-44_3955	4	13	Amorphophallus titanum	flowering	6.214
+adaptation	Mon-1726_179_Liliaceae-32	Mon-1726_195_flowering-14	Mon-1726_179_Liliaceae-32_665	179	Mon-1726_195_flowering-14_3955	195	16	Liliaceae	flowering	5.882
+adaptation	Lil-43fd_161_tulipae-11	Lil-43fd_175_flowering-18	Lil-43fd_161_tulipae-11_5583	161	Lil-43fd_175_flowering-18_3955	175	14	tulipa	flowering	5.8
+adaptation	Flo0d28_47_Snowdrops-1	Flo0d28_30_Flowering-1	Flo0d28_47_Snowdrops-1_2319	47	Flo0d28_30_Flowering-1_331	30	17	Snowdrop	Flowering	5.556
+adaptation	Lil-43fd_127_Liliaceae-20	Lil-43fd_144_flowering-40	Lil-43fd_127_Liliaceae-20_665	127	Lil-43fd_144_flowering-40_3955	144	17	Liliaceae	flowering	5.556
+adaptation	Lil-43fd_127_Liliaceae-18	Lil-43fd_144_flowering-40	Lil-43fd_127_Liliaceae-18_665	127	Lil-43fd_144_flowering-40_3955	144	17	Liliaceae	flowering	5.556
+adaptation	Gal-eda5_61_nivalis-2	Gal-eda5_76_flowering-24	Gal-eda5_61_nivalis-2_2320	61	Gal-eda5_76_flowering-24_3955	76	15	Galanthus nivalis	flowering	5.438
+adaptation	Gal-cdcd_213_Snowdrop-36	Gal-cdcd_195_flowering-19	Gal-cdcd_213_Snowdrop-36_2319	213	Gal-cdcd_195_flowering-19_3955	195	18	Snowdrop	flowering	5.263
+adaptation	All-1935_20_Liliaceae-13	All-1935_2_flowering-7	All-1935_20_Liliaceae-13_665	20	All-1935_2_flowering-7_3955	2	18	Liliaceae	flowering	5.263
+adaptation	All-1935_21_Liliaceae-9	All-1935_2_flowering-7	All-1935_21_Liliaceae-9_665	21	All-1935_2_flowering-7_3955	2	19	Liliaceae	flowering	5.0
+adaptation	Lil-43fd_161_tulipae-11	Lil-43fd_144_flowering-40	Lil-43fd_161_tulipae-11_5583	161	Lil-43fd_144_flowering-40_3955	144	17	tulipa	flowering	4.833
+adaptation	Gal-eda5_61_nivalis-2	Gal-eda5_79_flowering-2	Gal-eda5_61_nivalis-2_2320	61	Gal-eda5_79_flowering-2_3955	79	18	Galanthus nivalis	flowering	4.579
+adaptation	Oph-1439_222_Ophrys-1	Oph-1439_240_mimicry-3	Oph-1439_222_Ophrys-1_2953	222	Oph-1439_240_mimicry-3_3963	240	18	Ophrys	mimicry	4.579
+adaptation	Nar-e858_436_Daffodil-16	Nar-e858_457_flowering-65	Nar-e858_436_Daffodil-16_2885	436	Nar-e858_457_flowering-65_3955	457	21	Daffodil	flowering	4.545
+adaptation	Gal-cdcd_213_Snowdrop-36	Gal-cdcd_234_flowering-20	Gal-cdcd_213_Snowdrop-36_2319	213	Gal-cdcd_234_flowering-20_3955	234	21	Snowdrop	flowering	4.545
+adaptation	Gal-cdcd_255_Snowdrops-2	Gal-cdcd_234_flowering-20	Gal-cdcd_255_Snowdrops-2_2319	255	Gal-cdcd_234_flowering-20_3955	234	21	Snowdrop	flowering	4.545
+adaptation	Nar-e858_436_Daffodil-7	Nar-e858_457_flowering-65	Nar-e858_436_Daffodil-7_2885	436	Nar-e858_457_flowering-65_3955	457	21	Daffodil	flowering	4.545
+adaptation	Nar-e858_435_Daffodil-17	Nar-e858_457_flowering-65	Nar-e858_435_Daffodil-17_2885	435	Nar-e858_457_flowering-65_3955	457	22	Daffodil	flowering	4.348
+adaptation	Nar-e858_435_Daffodil-24	Nar-e858_457_flowering-65	Nar-e858_435_Daffodil-24_2885	435	Nar-e858_457_flowering-65_3955	457	22	Daffodil	flowering	4.348
+adaptation	Nar-e858_591_daffodil-8	Nar-e858_614_Flowering-1	Nar-e858_591_daffodil-8_5252	591	Nar-e858_614_Flowering-1_331	614	23	daffodil	Flowering	4.167
+adaptation	Flo0d28_53_daffodils-22	Flo0d28_30_Flowering-1	Flo0d28_53_daffodils-22_5252	53	Flo0d28_30_Flowering-1_331	30	23	daffodil	Flowering	4.167
+adaptation	Flo0d28_54_daffodil-4	Flo0d28_30_Flowering-1	Flo0d28_54_daffodil-4_5252	54	Flo0d28_30_Flowering-1_331	30	24	daffodil	Flowering	4.0
+adaptation	Oph-1439_222_Ophrys-1	Oph-1439_243_mimicry-5	Oph-1439_222_Ophrys-1_2953	222	Oph-1439_243_mimicry-5_3963	243	21	Ophrys	mimicry	3.955
+adaptation	Mon-1726_189_Orchidaceae-4	Mon-1726_164_flowering-34	Mon-1726_189_Orchidaceae-4_727	189	Mon-1726_164_flowering-34_3955	164	25	Orchidaceae	flowering	3.846
+adaptation	Flo0d28_56_Snowdrops-1	Flo0d28_30_Flowering-1	Flo0d28_56_Snowdrops-1_2319	56	Flo0d28_30_Flowering-1_331	30	26	Snowdrop	Flowering	3.704
+adaptation	Mon-1726_190_Poales-7	Mon-1726_164_flowering-34	Mon-1726_190_Poales-7_3114	190	Mon-1726_164_flowering-34_3955	164	26	Poales	flowering	3.704
+adaptation	Nar-e858_483_Daffodil-3	Nar-e858_457_flowering-65	Nar-e858_483_Daffodil-3_2885	483	Nar-e858_457_flowering-65_3955	457	26	Daffodil	flowering	3.704
+adaptation	Lil-43fd_118_Liliaceae-2	Lil-43fd_144_flowering-40	Lil-43fd_118_Liliaceae-2_665	118	Lil-43fd_144_flowering-40_3955	144	26	Liliaceae	flowering	3.704
+adaptation	Nar-e858_479_daffodils-7	Nar-e858_457_flowering-65	Nar-e858_479_daffodils-7_5253	479	Nar-e858_457_flowering-65_3955	457	22	wild daffodil	flowering	3.609
+adaptation	Nar-f40f_26_daffodil-10	Nar-f40f_2_flowering-22	Nar-f40f_26_daffodil-10_2888	26	Nar-f40f_2_flowering-22_3955	2	24	Wild daffodil	flowering	3.32
+adaptation	Orc-0474_126_Orchid-1	Orc-0474_96_mimicry-32	Orc-0474_126_Orchid-1_728	126	Orc-0474_96_mimicry-32_3963	96	30	Orchids	mimicry	3.226
+adaptation	Tul-9a00_224_cup-9	Tul-9a00_240_flowering-8	Tul-9a00_224_cup-9_4988	224	Tul-9a00_240_flowering-8_3955	240	16	frog-cup	flowering	3.176
+adaptation	Oph-1439_222_Ophrys-1	Oph-1439_256_mimicry-7	Oph-1439_222_Ophrys-1_2953	222	Oph-1439_256_mimicry-7_3963	256	34	Ophrys	mimicry	2.486
+adaptation	Amo-76d8_37_flower-8	Amo-76d8_4_flowering-44	Amo-76d8_37_flower-8_5572	37	Amo-76d8_4_flowering-44_3955	4	33	corpse flower	flowering	2.441
+adaptation	Amo-ffe8_84_titanum-4	Amo-ffe8_49_flowerings-4	Amo-ffe8_84_titanum-4_3553	84	Amo-ffe8_49_flowerings-4_3955	49	35	Amorphophallus titanum	flowering	2.417
+adaptation	Tul-9a00_284_Tulip-14	Tul-9a00_240_flowering-8	Tul-9a00_284_Tulip-14_3569	284	Tul-9a00_240_flowering-8_3955	240	44	Tulips	flowering	2.222
+adaptation	Nar-e858_418_daffodils-8	Nar-e858_457_flowering-65	Nar-e858_418_daffodils-8_2888	418	Nar-e858_457_flowering-65_3955	457	39	Wild daffodil	flowering	2.075
+adaptation	Nar-e858_418_daffodils-17	Nar-e858_457_flowering-65	Nar-e858_418_daffodils-17_5253	418	Nar-e858_457_flowering-65_3955	457	39	wild daffodil	flowering	2.075
+adaptation	Nar-e858_566_lilies-24	Nar-e858_614_Flowering-1	Nar-e858_566_lilies-24_4143	566	Nar-e858_614_Flowering-1_331	614	48	lilies	Flowering	2.041
+adaptation	Nar-e858_566_tulips-16	Nar-e858_614_Flowering-1	Nar-e858_566_tulips-16_5582	566	Nar-e858_614_Flowering-1_331	614	48	tulips	Flowering	2.041
+adaptation	Nar-e858_417_daffodil-11	Nar-e858_457_flowering-65	Nar-e858_417_daffodil-11_5253	417	Nar-e858_457_flowering-65_3955	457	40	wild daffodil	flowering	2.024
+adaptation	Nar-e858_417_daffodil-4	Nar-e858_457_flowering-65	Nar-e858_417_daffodil-4_5253	417	Nar-e858_457_flowering-65_3955	457	40	wild daffodil	flowering	2.024
+adaptation	Tul-9a00_78_tulipa-35	Tul-9a00_120_flowering-26	Tul-9a00_78_tulipa-35_5583	78	Tul-9a00_120_flowering-26_3955	120	42	tulipa	flowering	2.023
+adaptation	Tul-9a00_78_tulipa-59	Tul-9a00_120_flowering-26	Tul-9a00_78_tulipa-59_5583	78	Tul-9a00_120_flowering-26_3955	120	42	tulipa	flowering	2.023
+adaptation	Amo-ffe8_98_arum-11	Amo-ffe8_49_flowerings-4	Amo-ffe8_98_arum-11_3552	98	Amo-ffe8_49_flowerings-4_3955	49	49	Titan arum	flowering	2.0
+adaptation	Amo-ffe8_92_titanum-16	Amo-ffe8_49_flowerings-4	Amo-ffe8_92_titanum-16_3553	92	Amo-ffe8_49_flowerings-4_3955	49	43	Amorphophallus titanum	flowering	1.977
+adaptation	Nar-f40f_52_Tulip-23	Nar-f40f_2_flowering-22	Nar-f40f_52_Tulip-23_3569	52	Nar-f40f_2_flowering-22_3955	2	50	Tulips	flowering	1.961
+adaptation	Amo-ffe8_6_flower-21	Amo-ffe8_49_flowerings-4	Amo-ffe8_6_flower-21_5572	6	Amo-ffe8_49_flowerings-4_3955	49	43	corpse flower	flowering	1.886
+adaptation	Amo-ffe8_6_flower-46	Amo-ffe8_49_flowerings-4	Amo-ffe8_6_flower-46_5572	6	Amo-ffe8_49_flowerings-4_3955	49	43	corpse flower	flowering	1.886
+adaptation	Amo-ffe8_6_flower-30	Amo-ffe8_49_flowerings-4	Amo-ffe8_6_flower-30_5572	6	Amo-ffe8_49_flowerings-4_3955	49	43	corpse flower	flowering	1.886
+adaptation	Amo-ffe8_103_arum-7	Amo-ffe8_49_flowerings-4	Amo-ffe8_103_arum-7_3552	103	Amo-ffe8_49_flowerings-4_3955	49	54	Titan arum	flowering	1.818
+adaptation	Nar-e858_672_lily-13	Nar-e858_614_Flowering-1	Nar-e858_672_lily-13_4143	672	Nar-e858_614_Flowering-1_331	614	58	lilies	Flowering	1.695
+adaptation	Orc-0474_144_family-21	Orc-0474_96_mimicry-32	Orc-0474_144_family-21_4170	144	Orc-0474_96_mimicry-32_3963	96	48	orchid family	mimicry	1.694
+adaptation	Tul-9a00_71_families-17	Tul-9a00_120_flowering-26	Tul-9a00_71_families-17_4144	71	Tul-9a00_120_flowering-26_3955	120	49	lily family	flowering	1.66
+adaptation	Tul-9a00_71_family-8	Tul-9a00_120_flowering-26	Tul-9a00_71_family-8_4144	71	Tul-9a00_120_flowering-26_3955	120	49	lily family	flowering	1.66
+adaptation	Nar-e858_675_Daffodil-7	Nar-e858_614_Flowering-1	Nar-e858_675_Daffodil-7_2885	675	Nar-e858_614_Flowering-1_331	614	61	Daffodil	Flowering	1.613
+adaptation	Mon-1726_259_Orchidaceae-54	Mon-1726_195_flowering-14	Mon-1726_259_Orchidaceae-54_727	259	Mon-1726_195_flowering-14_3955	195	64	Orchidaceae	flowering	1.538
+adaptation	Lil-43fd_234_meleagris-9	Lil-43fd_175_flowering-18	Lil-43fd_234_meleagris-9_2302	234	Lil-43fd_175_flowering-18_3955	175	59	Fritillaria meleagris	flowering	1.45
+adaptation	Nar-e858_696_lilies-5	Nar-e858_614_Flowering-1	Nar-e858_696_lilies-5_4143	696	Nar-e858_614_Flowering-1_331	614	82	lilies	Flowering	1.205
+adaptation	Fri-ce34_265_fritillary-7	Fri-ce34_208_flowering-8	Fri-ce34_265_fritillary-7_2301	265	Fri-ce34_208_flowering-8_3955	208	57	Snakes head fritillary	flowering	1.138
+adaptation	Tul-9a00_313_family-8	Tul-9a00_240_flowering-8	Tul-9a00_313_family-8_4144	313	Tul-9a00_240_flowering-8_3955	240	73	lily family	flowering	1.122
+adaptation	Flo-e790_146_Orchidaceae-27	Flo-e790_55_flowering-24	Flo-e790_146_Orchidaceae-27_727	146	Flo-e790_55_flowering-24_3955	55	91	Orchidaceae	flowering	1.087
+adaptation	Mon-1726_259_Orchidaceae-54	Mon-1726_164_flowering-34	Mon-1726_259_Orchidaceae-54_727	259	Mon-1726_164_flowering-34_3955	164	95	Orchidaceae	flowering	1.042
+adaptation	Orc-0474_195_orchid-11	Orc-0474_96_mimicry-32	Orc-0474_195_orchid-11_5282	195	Orc-0474_96_mimicry-32_3963	96	99	bee orchids	mimicry	1.0
+adaptation	Orc-0474_195_orchid-18	Orc-0474_96_mimicry-32	Orc-0474_195_orchid-18_5282	195	Orc-0474_96_mimicry-32_3963	96	99	bee orchids	mimicry	1.0
+adaptation	Orc-0474_195_orchid-33	Orc-0474_96_mimicry-32	Orc-0474_195_orchid-33_5282	195	Orc-0474_96_mimicry-32_3963	96	99	bee orchids	mimicry	1.0
+adaptation	Orc-0474_195_orchid-25	Orc-0474_96_mimicry-32	Orc-0474_195_orchid-25_5282	195	Orc-0474_96_mimicry-32_3963	96	99	bee orchids	mimicry	1.0
+taxongroup	Ama-1510_105_Alliaceae-17	Ama-1510_105_Asparagales-1	Ama-1510_105_Alliaceae-17_449	105	Ama-1510_105_Asparagales-1_1581	105	0	Alliaceae	Asparagales	100.0
+taxongroup	Mal-71cc_109_grass-26	Mal-71cc_109_plant-57	Mal-71cc_109_grass-26_4175	109	Mal-71cc_109_plant-57_4553	109	0	grasses	plants	100.0
+taxongroup	Tem-c190_7_grass-8	Tem-c190_7_plants-10	Tem-c190_7_grass-8_4175	7	Tem-c190_7_plants-10_4553	7	0	grasses	plants	100.0
+taxongroup	Tet-438b_24_grass-27	Tet-438b_24_plant-16	Tet-438b_24_grass-27_4175	24	Tet-438b_24_plant-16_4553	24	0	grasses	plants	100.0
+taxongroup	Tho-fdaf_46_grasses-10	Tho-fdaf_46_plants-27	Tho-fdaf_46_grasses-10_4175	46	Tho-fdaf_46_plants-27_4553	46	0	grasses	plants	100.0
+taxongroup	Col-6d94_171_grasses-37	Col-6d94_171_plants-29	Col-6d94_171_grasses-37_4175	171	Col-6d94_171_plants-29_4553	171	0	grasses	plants	100.0
+taxongroup	Eri-8713_2_grass-7	Eri-8713_2_plants-16	Eri-8713_2_grass-7_4175	2	Eri-8713_2_plants-16_4553	2	0	grasses	plants	100.0
+taxongroup	Eas-e016_137_grass-13	Eas-e016_137_plants-8	Eas-e016_137_grass-13_4175	137	Eas-e016_137_plants-8_4553	137	0	grasses	plants	100.0
+taxongroup	Eas-550c_108_grass-12	Eas-550c_108_plants-13	Eas-550c_108_grass-12_4175	108	Eas-550c_108_plants-13_4553	108	0	grasses	plants	100.0
+taxongroup	Eas-550c_102_grasses-9	Eas-550c_102_plant-19	Eas-550c_102_grasses-9_4175	102	Eas-550c_102_plant-19_4553	102	0	grasses	plants	100.0
+taxongroup	Elk-a58a_5_grasses-13	Elk-a58a_5_plants-15	Elk-a58a_5_grasses-13_4175	5	Elk-a58a_5_plants-15_4553	5	0	grasses	plants	100.0
+taxongroup	Ent-bdd8_80_grass-17	Ent-bdd8_80_plants-22	Ent-bdd8_80_grass-17_4175	80	Ent-bdd8_80_plants-22_4553	80	0	grasses	plants	100.0
+taxongroup	Eri-8713_4_grass-9	Eri-8713_4_plants-5	Eri-8713_4_grass-9_4175	4	Eri-8713_4_plants-5_4553	4	0	grasses	plants	100.0
+taxongroup	Equ-7a07_14_grasses-17	Equ-7a07_14_plant-21	Equ-7a07_14_grasses-17_4175	14	Equ-7a07_14_plant-21_4553	14	0	grasses	plants	100.0
+taxongroup	Mal-6bad_5_grasses-17	Mal-6bad_5_plant-20	Mal-6bad_5_grasses-17_4175	5	Mal-6bad_5_plant-20_4553	5	0	grasses	plants	100.0
+taxongroup	Spe-51aa_52_grass-34	Spe-51aa_52_plant-8	Spe-51aa_52_grass-34_4175	52	Spe-51aa_52_plant-8_4553	52	0	grasses	plants	100.0
+taxongroup	Poa-a930_91_grasses-18	Poa-a930_91_plant-14	Poa-a930_91_grasses-18_4175	91	Poa-a930_91_plant-14_4553	91	0	grasses	plants	100.0
+taxongroup	Flo-e790_3_grass-16	Flo-e790_3_plants-7	Flo-e790_3_grass-16_4175	3	Flo-e790_3_plants-7_4553	3	0	grasses	plants	100.0
+taxongroup	Eurf4d7_28_grass-2	Eurf4d7_28_plants-4	Eurf4d7_28_grass-2_4175	28	Eurf4d7_28_plants-4_4553	28	0	grasses	plants	100.0
+taxongroup	Com-7fbd_106_grass-21	Com-7fbd_106_plant-14	Com-7fbd_106_grass-21_4175	106	Com-7fbd_106_plant-14_4553	106	0	grasses	plants	100.0
+taxongroup	Dro-9dd9_174_grasses-11	Dro-9dd9_174_plants-18	Dro-9dd9_174_grasses-11_4175	174	Dro-9dd9_174_plants-18_4553	174	0	grasses	plants	100.0
+taxongroup	Fir-3b5c_212_grass-25	Fir-3b5c_212_plant-32	Fir-3b5c_212_grass-25_4175	212	Fir-3b5c_212_plant-32_4553	212	0	grasses	plants	100.0
+taxongroup	Fir-3b5c_158_grasses-34	Fir-3b5c_158_plant-10	Fir-3b5c_158_grasses-34_4175	158	Fir-3b5c_158_plant-10_4553	158	0	grasses	plants	100.0
+taxongroup	Flo-e790_3_grasses-14	Flo-e790_3_plants-37	Flo-e790_3_grasses-14_4175	3	Flo-e790_3_plants-37_4553	3	0	grasses	plants	100.0
+taxongroup	Flo-e790_3_grasses-14	Flo-e790_3_plants-19	Flo-e790_3_grasses-14_4175	3	Flo-e790_3_plants-19_4553	3	0	grasses	plants	100.0
+taxongroup	Poa-a930_105_grasses-2	Poa-a930_105_plant-32	Poa-a930_105_grasses-2_4175	105	Poa-a930_105_plant-32_4553	105	0	grasses	plants	100.0
+taxongroup	Poa-27c0_2_grasses-22	Poa-27c0_2_plants-18	Poa-27c0_2_grasses-22_4175	2	Poa-27c0_2_plants-18_4553	2	0	grasses	plants	100.0
+taxongroup	Poa-27c0_2_grasses-22	Poa-27c0_2_plants-9	Poa-27c0_2_grasses-22_4175	2	Poa-27c0_2_plants-9_4553	2	0	grasses	plants	100.0
+taxongroup	Whi-1a32_76_grass-24	Whi-1a32_76_plant-29	Whi-1a32_76_grass-24_4175	76	Whi-1a32_76_plant-29_4553	76	0	grasses	plants	100.0
+taxongroup	Spe-51aa_52_grass-34	Spe-51aa_52_plants-28	Spe-51aa_52_grass-34_4175	52	Spe-51aa_52_plants-28_4553	52	0	grasses	plants	100.0
+taxongroup	Bov-d455_139_grass-21	Bov-d455_139_plant-16	Bov-d455_139_grass-21_4175	139	Bov-d455_139_plant-16_4553	139	0	grasses	plants	100.0
+taxongroup	Bla-1ce3_238_grass-42	Bla-1ce3_238_plants-38	Bla-1ce3_238_grass-42_4175	238	Bla-1ce3_238_plants-38_4553	238	0	grasses	plants	100.0
+taxongroup	Bla-30a4_95_grasses-15	Bla-30a4_95_plants-5	Bla-30a4_95_grasses-15_4175	95	Bla-30a4_95_plants-5_4553	95	0	grasses	plants	100.0
+taxongroup	Cas-197e_10_grasses-9	Cas-197e_10_plants-16	Cas-197e_10_grasses-9_4175	10	Cas-197e_10_plants-16_4553	10	0	grasses	plants	100.0
+taxongroup	Bro-d72d_227_grasses-14	Bro-d72d_227_plant-8	Bro-d72d_227_grasses-14_4175	227	Bro-d72d_227_plant-8_4553	227	0	grasses	plants	100.0
+taxongroup	Col-6d94_204_grasses-6	Col-6d94_204_plants-9	Col-6d94_204_grasses-6_4175	204	Col-6d94_204_plants-9_4553	204	0	grasses	plants	100.0
+taxongroup	Col-6d94_169_grass-12	Col-6d94_169_plants-37	Col-6d94_169_grass-12_4175	169	Col-6d94_169_plants-37_4553	169	0	grasses	plants	100.0
+taxongroup	Ame-35ae_248_grasses-20	Ame-35ae_248_plants-23	Ame-35ae_248_grasses-20_4175	248	Ame-35ae_248_plants-23_4553	248	0	grasses	plants	100.0
+taxongroup	Ani-57f1_149_grass-35	Ani-57f1_149_plant-28	Ani-57f1_149_grass-35_4175	149	Ani-57f1_149_plant-28_4553	149	0	grasses	plants	100.0
+taxongroup	Ant-904b_5_grass-11	Ant-904b_5_plant-5	Ant-904b_5_grass-11_4175	5	Ant-904b_5_plant-5_4553	5	0	grasses	plants	100.0
+taxongroup	Art-6267_223_grass-11	Art-6267_223_plant-14	Art-6267_223_grass-11_4175	223	Art-6267_223_plant-14_4553	223	0	grasses	plants	100.0
+taxongroup	Asc-4810_268_grass-46	Asc-4810_268_plants-25	Asc-4810_268_grass-46_4175	268	Asc-4810_268_plants-25_4553	268	0	grasses	plants	100.0
+taxongroup	Asc-4810_268_grass-46	Asc-4810_268_plant-62	Asc-4810_268_grass-46_4175	268	Asc-4810_268_plant-62_4553	268	0	grasses	plants	100.0
+taxongroup	Asi-f65e_90_grass-32	Asi-f65e_90_plant-11	Asi-f65e_90_grass-32_4175	90	Asi-f65e_90_plant-11_4553	90	0	grasses	plants	100.0
+taxongroup	Bla-1ce3_237_grasses-30	Bla-1ce3_237_plant-11	Bla-1ce3_237_grasses-30_4175	237	Bla-1ce3_237_plant-11_4553	237	0	grasses	plants	100.0
+taxongroup	Too-567c_404_grass-12	Too-567c_404_plant-16	Too-567c_404_grass-12_4175	404	Too-567c_404_plant-16_4553	404	0	grasses	plants	100.0
+taxongroup	Cho-a88d_55_grass-16	Cho-a88d_55_plant-12	Cho-a88d_55_grass-16_4175	55	Cho-a88d_55_plant-12_4553	55	0	grasses	plants	100.0
+taxongroup	Tro-1281_7_grasses-5	Tro-1281_7_plants-9	Tro-1281_7_grasses-5_4175	7	Tro-1281_7_plants-9_4553	7	0	grasses	plants	100.0
+taxongroup	Tun-c63e_74_grasses-20	Tun-c63e_74_plants-27	Tun-c63e_74_grasses-20_4175	74	Tun-c63e_74_plants-27_4553	74	0	grasses	plants	100.0
+taxongroup	Tun-c63e_74_grasses-20	Tun-c63e_74_plants-10	Tun-c63e_74_grasses-20_4175	74	Tun-c63e_74_plants-10_4553	74	0	grasses	plants	100.0
+taxongroup	Tun-c63e_58_grass-11	Tun-c63e_58_plant-5	Tun-c63e_58_grass-11_4175	58	Tun-c63e_58_plant-5_4553	58	0	grasses	plants	100.0
+taxongroup	Woo-aaf8_221_grasses-10	Woo-aaf8_221_plant-6	Woo-aaf8_221_grasses-10_4175	221	Woo-aaf8_221_plant-6_4553	221	0	grasses	plants	100.0
+taxongroup	Woo-aaf8_221_grasses-10	Woo-aaf8_221_plants-19	Woo-aaf8_221_grasses-10_4175	221	Woo-aaf8_221_plants-19_4553	221	0	grasses	plants	100.0
+taxongroup	Wet-a585_304_grasses-2	Wet-a585_304_plants-16	Wet-a585_304_grasses-2_4175	304	Wet-a585_304_plants-16_4553	304	0	grasses	plants	100.0
+taxongroup	ont4cb2_47_grasses-14	ont4cb2_47_plant-26	ont4cb2_47_grasses-14_4175	47	ont4cb2_47_plant-26_4553	47	0	grasses	plants	100.0
+taxongroup	ont4cb2_47_grasses-14	ont4cb2_47_plant-9	ont4cb2_47_grasses-14_4175	47	ont4cb2_47_plant-9_4553	47	0	grasses	plants	100.0
+taxongroup	Woo-aaf8_221_grasses-10	Woo-aaf8_221_plants-22	Woo-aaf8_221_grasses-10_4175	221	Woo-aaf8_221_plants-22_4553	221	0	grasses	plants	100.0
+taxongroup	Ven-77c9_75_grasses-10	Ven-77c9_75_plants-8	Ven-77c9_75_grasses-10_4175	75	Ven-77c9_75_plants-8_4553	75	0	grasses	plants	100.0
+taxongroup	Red-a597_41_grasses-10	Red-a597_41_plants-21	Red-a597_41_grasses-10_4175	41	Red-a597_41_plants-21_4553	41	0	grasses	plants	100.0
+taxongroup	Rod-7dc6_110_grasses-16	Rod-7dc6_110_plant-6	Rod-7dc6_110_grasses-16_4175	110	Rod-7dc6_110_plant-6_4553	110	0	grasses	plants	100.0
+taxongroup	Sai-afdf_140_grass-33	Sai-afdf_140_plants-20	Sai-afdf_140_grass-33_4175	140	Sai-afdf_140_plants-20_4553	140	0	grasses	plants	100.0
+taxongroup	Her-8d89_4_grass-14	Her-8d89_4_plant-22	Her-8d89_4_grass-14_4175	4	Her-8d89_4_plant-22_4553	4	0	grasses	plants	100.0
+taxongroup	Cyp-0899_2_grass-11	Cyp-0899_2_plants-18	Cyp-0899_2_grass-11_4175	2	Cyp-0899_2_plants-18_4553	2	0	grasses	plants	100.0
+taxongroup	Dal-d353_87_grasses-17	Dal-d353_87_plant-7	Dal-d353_87_grasses-17_4175	87	Dal-d353_87_plant-7_4553	87	0	grasses	plants	100.0
+taxongroup	Dal-d353_6_grasses-9	Dal-d353_6_plants-6	Dal-d353_6_grasses-9_4175	6	Dal-d353_6_plants-6_4553	6	0	grasses	plants	100.0
+taxongroup	Des-78ef_85_grasses-23	Des-78ef_85_plants-36	Des-78ef_85_grasses-23_4175	85	Des-78ef_85_plants-36_4553	85	0	grasses	plants	100.0
+taxongroup	Mal-71cc_109_grass-26	Mal-71cc_109_plant-42	Mal-71cc_109_grass-26_4175	109	Mal-71cc_109_plant-42_4553	109	0	grasses	plants	100.0
+taxongroup	Des-b2f5_24_grasses-21	Des-b2f5_24_plant-6	Des-b2f5_24_grasses-21_4175	24	Des-b2f5_24_plant-6_4553	24	0	grasses	plants	100.0
+taxongroup	Com-124c_67_grass-17	Com-124c_67_plants-37	Com-124c_67_grass-17_4175	67	Com-124c_67_plants-37_4553	67	0	grasses	plants	100.0
+taxongroup	Com-6e0a_13_grasses-14	Com-6e0a_13_plants-17	Com-6e0a_13_grasses-14_4175	13	Com-6e0a_13_plants-17_4553	13	0	grasses	plants	100.0
+taxongroup	Din-756f_234_grasses-10	Din-756f_234_plants-2	Din-756f_234_grasses-10_4175	234	Din-756f_234_plants-2_4553	234	0	grasses	plants	100.0
+taxongroup	Flo-e790_3_grass-16	Flo-e790_3_plants-37	Flo-e790_3_grass-16_4175	3	Flo-e790_3_plants-37_4553	3	0	grasses	plants	100.0
+taxongroup	Ind-363f_125_grasses-5	Ind-363f_125_plant-12	Ind-363f_125_grasses-5_4175	125	Ind-363f_125_plant-12_4553	125	0	grasses	plants	100.0
+taxongroup	Gre-bb1f_173_grasses-19	Gre-bb1f_173_plant-16	Gre-bb1f_173_grasses-19_4175	173	Gre-bb1f_173_plant-16_4553	173	0	grasses	plants	100.0
+taxongroup	Hip-aa4f_141_grass-28	Hip-aa4f_141_plants-11	Hip-aa4f_141_grass-28_4175	141	Hip-aa4f_141_plants-11_4553	141	0	grasses	plants	100.0
+taxongroup	She-572b_118_grass-7	She-572b_118_plants-19	She-572b_118_grass-7_4175	118	She-572b_118_plants-19_4553	118	0	grasses	plants	100.0
+taxongroup	Ind-363f_125_grasses-5	Ind-363f_125_plant-32	Ind-363f_125_grasses-5_4175	125	Ind-363f_125_plant-32_4553	125	0	grasses	plants	100.0
+taxongroup	Hip-aa4f_141_grass-28	Hip-aa4f_141_plants-36	Hip-aa4f_141_grass-28_4175	141	Hip-aa4f_141_plants-36_4553	141	0	grasses	plants	100.0
+taxongroup	Indb591_8_grass-5	Indb591_8_plants-12	Indb591_8_grass-5_4175	8	Indb591_8_plants-12_4553	8	0	grasses	plants	100.0
+taxongroup	Ind-363f_122_grasses-7	Ind-363f_122_plants-60	Ind-363f_122_grasses-7_4175	122	Ind-363f_122_plants-60_4553	122	0	grasses	plants	100.0
+taxongroup	Flo-e790_3_grass-16	Flo-e790_3_plants-19	Flo-e790_3_grass-16_4175	3	Flo-e790_3_plants-19_4553	3	0	grasses	plants	100.0
+taxongroup	Flo-e790_3_grasses-14	Flo-e790_3_plants-7	Flo-e790_3_grasses-14_4175	3	Flo-e790_3_plants-7_4553	3	0	grasses	plants	100.0
+taxongroup	Red-4352_284_grasses-5	Red-4352_284_plant-2	Red-4352_284_grasses-5_4175	284	Red-4352_284_plant-2_4553	284	0	grasses	plants	100.0
+taxongroup	Fir-3b5c_161_grasses-18	Fir-3b5c_161_plants-23	Fir-3b5c_161_grasses-18_4175	161	Fir-3b5c_161_plants-23_4553	161	0	grasses	plants	100.0
+taxongroup	Pol-a6a6_185_grass-27	Pol-a6a6_185_plant-4	Pol-a6a6_185_grass-27_4175	185	Pol-a6a6_185_plant-4_4553	185	0	grasses	plants	100.0
+taxongroup	Poa-27c0_48_grasses-9	Poa-27c0_48_plants-16	Poa-27c0_48_grasses-9_4175	48	Poa-27c0_48_plants-16_4553	48	0	grasses	plants	100.0
+taxongroup	Mam-3742_224_grasses-10	Mam-3742_224_plant-24	Mam-3742_224_grasses-10_4175	224	Mam-3742_224_plant-24_4553	224	0	grasses	plants	100.0
+taxongroup	Mea-f34c_43_grasses-29	Mea-f34c_43_plants-36	Mea-f34c_43_grasses-29_4175	43	Mea-f34c_43_plants-36_4553	43	0	grasses	plants	100.0
+taxongroup	Com-6e0a_149_grasses-19	Com-6e0a_149_plants-23	Com-6e0a_149_grasses-19_4175	149	Com-6e0a_149_plants-23_4553	149	0	grasses	plants	100.0
+taxongroup	Des-78ef_85_grasses-23	Des-78ef_85_plants-6	Des-78ef_85_grasses-23_4175	85	Des-78ef_85_plants-6_4553	85	0	grasses	plants	100.0
+taxongroup	Mal-71cc_109_grass-26	Mal-71cc_109_plant-20	Mal-71cc_109_grass-26_4175	109	Mal-71cc_109_plant-20_4553	109	0	grasses	plants	100.0
+taxongroup	Flo-e790_11_grasses-30	Flo-e790_11_plants-19	Flo-e790_11_grasses-30_4175	11	Flo-e790_11_plants-19_4553	11	0	grasses	plants	100.0
+taxongroup	Sho-c908_29_grasses-8	Sho-c908_29_plants-3	Sho-c908_29_grasses-8_4175	29	Sho-c908_29_plants-3_4553	29	0	grasses	plants	100.0
+taxongroup	Sir-1b7d_87_grasses-17	Sir-1b7d_87_plants-11	Sir-1b7d_87_grasses-17_4175	87	Sir-1b7d_87_plants-11_4553	87	0	grasses	plants	100.0
+taxongroup	Sir-1b7d_107_grass-33	Sir-1b7d_107_plants-21	Sir-1b7d_107_grass-33_4175	107	Sir-1b7d_107_plants-21_4553	107	0	grasses	plants	100.0
+taxongroup	Poa-a930_78_grass-2	Poa-a930_78_plants-15	Poa-a930_78_grass-2_4175	78	Poa-a930_78_plants-15_4553	78	0	grasses	plants	100.0
+taxongroup	Poa-a930_2_grasses-22	Poa-a930_2_plants-18	Poa-a930_2_grasses-22_4175	2	Poa-a930_2_plants-18_4553	2	0	grasses	plants	100.0
+taxongroup	Poa-a930_80_grass-4	Poa-a930_80_plant-13	Poa-a930_80_grass-4_4175	80	Poa-a930_80_plant-13_4553	80	0	grasses	plants	100.0
+taxongroup	Poa-a930_41_grasses-26	Poa-a930_41_plants-18	Poa-a930_41_grasses-26_4175	41	Poa-a930_41_plants-18_4553	41	0	grasses	plants	100.0
+taxongroup	Poa-a930_58_grass-30	Poa-a930_58_plant-27	Poa-a930_58_grass-30_4175	58	Poa-a930_58_plant-27_4553	58	0	grasses	plants	100.0
+taxongroup	Poa-a930_41_grasses-3	Poa-a930_41_plants-18	Poa-a930_41_grasses-3_4175	41	Poa-a930_41_plants-18_4553	41	0	grasses	plants	100.0
+taxongroup	Poa-a930_49_grass-5	Poa-a930_49_plants-9	Poa-a930_49_grass-5_4175	49	Poa-a930_49_plants-9_4553	49	0	grasses	plants	100.0
+taxongroup	Com-7fbd_85_grasses-27	Com-7fbd_85_plants-34	Com-7fbd_85_grasses-27_4175	85	Com-7fbd_85_plants-34_4553	85	0	grasses	plants	100.0
+taxongroup	For-ac12_92_grasses-11	For-ac12_92_plants-43	For-ac12_92_grasses-11_4175	92	For-ac12_92_plants-43_4553	92	0	grasses	plants	100.0
+taxongroup	Gop-3c78_33_grasses-17	Gop-3c78_33_plants-22	Gop-3c78_33_grasses-17_4175	33	Gop-3c78_33_plants-22_4553	33	0	grasses	plants	100.0
+taxongroup	Gra-bd0d_70_grass-6	Gra-bd0d_70_plants-11	Gra-bd0d_70_grass-6_4175	70	Gra-bd0d_70_plants-11_4553	70	0	grasses	plants	100.0
+taxongroup	Leo-56b9_186_grass-47	Leo-56b9_186_plants-20	Leo-56b9_186_grass-47_4175	186	Leo-56b9_186_plants-20_4553	186	0	grasses	plants	100.0
+taxongroup	Leo-56b9_186_grass-47	Leo-56b9_186_plants-37	Leo-56b9_186_grass-47_4175	186	Leo-56b9_186_plants-37_4553	186	0	grasses	plants	100.0
+taxongroup	Lut-2e0c_32_grasses-9	Lut-2e0c_32_plants-6	Lut-2e0c_32_grasses-9_4175	32	Lut-2e0c_32_plants-6_4553	32	0	grasses	plants	100.0
+taxongroup	Mac-7bcf_6_grasses-26	Mac-7bcf_6_plants-22	Mac-7bcf_6_grasses-26_4175	6	Mac-7bcf_6_plants-22_4553	6	0	grasses	plants	100.0
+taxongroup	Fun-7367_336_grasses-19	Fun-7367_336_plant-39	Fun-7367_336_grasses-19_4175	336	Fun-7367_336_plant-39_4553	336	0	grasses	plants	100.0
+taxongroup	Gag-a05b_10_grass-19	Gag-a05b_10_plant-8	Gag-a05b_10_grass-19_4175	10	Gag-a05b_10_plant-8_4553	10	0	grasses	plants	100.0
+taxongroup	Gag-a05b_10_grass-19	Gag-a05b_10_plants-30	Gag-a05b_10_grass-19_4175	10	Gag-a05b_10_plants-30_4553	10	0	grasses	plants	100.0
+taxongroup	Gar-8d9c_106_grass-8	Gar-8d9c_106_plant-20	Gar-8d9c_106_grass-8_4175	106	Gar-8d9c_106_plant-20_4553	106	0	grasses	plants	100.0
+taxongroup	Gop-3c78_28_grass-19	Gop-3c78_28_plants-8	Gop-3c78_28_grass-19_4175	28	Gop-3c78_28_plants-8_4553	28	0	grasses	plants	100.0
+taxongroup	Gop-3c78_28_grass-16	Gop-3c78_28_plants-8	Gop-3c78_28_grass-16_4175	28	Gop-3c78_28_plants-8_4553	28	0	grasses	plants	100.0
+taxongroup	For-ac12_101_grasses-12	For-ac12_101_plants-8	For-ac12_101_grasses-12_4175	101	For-ac12_101_plants-8_4553	101	0	grasses	plants	100.0
+taxongroup	Bla-1ce3_235_grass-38	Bla-1ce3_235_plants-22	Bla-1ce3_235_grass-38_4175	235	Bla-1ce3_235_plants-22_4553	235	0	grasses	plants	100.0
+taxongroup	Cat-605b_43_grass-18	Cat-605b_43_plant-14	Cat-605b_43_grass-18_4175	43	Cat-605b_43_plant-14_4553	43	0	grasses	plants	100.0
+taxongroup	Mar-9812_123_grasses-10	Mar-9812_123_plant-30	Mar-9812_123_grasses-10_4175	123	Mar-9812_123_plant-30_4553	123	0	grasses	plants	100.0
+taxongroup	Man-5a67_68_grass-55	Man-5a67_68_plants-38	Man-5a67_68_grass-55_4175	68	Man-5a67_68_plants-38_1402	68	0	grasses	Plants	100.0
+taxongroup	Med-186c_48_grasses-27	Med-186c_48_plants-37	Med-186c_48_grasses-27_4175	48	Med-186c_48_plants-37_1402	48	0	grasses	Plants	100.0
+taxongroup	Mon-1726_2_grass-21	Mon-1726_2_plants-25	Mon-1726_2_grass-21_4175	2	Mon-1726_2_plants-25_1402	2	0	grasses	Plants	100.0
+taxongroup	Man-5a67_68_grass-49	Man-5a67_68_plants-38	Man-5a67_68_grass-49_4175	68	Man-5a67_68_plants-38_1402	68	0	grasses	Plants	100.0
+taxongroup	Man-5a67_68_grasses-43	Man-5a67_68_plants-38	Man-5a67_68_grasses-43_4175	68	Man-5a67_68_plants-38_1402	68	0	grasses	Plants	100.0
+taxongroup	Man-5a67_68_grass-31	Man-5a67_68_plants-38	Man-5a67_68_grass-31_4175	68	Man-5a67_68_plants-38_1402	68	0	grasses	Plants	100.0
+taxongroup	Mar-9812_54_grass-10	Mar-9812_54_plant-6	Mar-9812_54_grass-10_4175	54	Mar-9812_54_plant-6_1402	54	0	grasses	Plants	100.0
+taxongroup	Man-5a67_68_grass-46	Man-5a67_68_plants-38	Man-5a67_68_grass-46_4175	68	Man-5a67_68_plants-38_1402	68	0	grasses	Plants	100.0
+taxongroup	Mea-f34c_37_grasses-10	Mea-f34c_37_plants-19	Mea-f34c_37_grasses-10_4175	37	Mea-f34c_37_plants-19_1402	37	0	grasses	Plants	100.0
+taxongroup	Pèr-9953_3_grass-5	Pèr-9953_3_plants-8	Pèr-9953_3_grass-5_4175	3	Pèr-9953_3_plants-8_1402	3	0	grasses	Plants	100.0
+taxongroup	Red-5937_82_grasses-23	Red-5937_82_plant-33	Red-5937_82_grasses-23_4175	82	Red-5937_82_plant-33_1402	82	0	grasses	Plants	100.0
+taxongroup	Pèr-9953_40_grass-11	Pèr-9953_40_plants-15	Pèr-9953_40_grass-11_4175	40	Pèr-9953_40_plants-15_1402	40	0	grasses	Plants	100.0
+taxongroup	Mea-f34c_2_grasses-17	Mea-f34c_2_plants-24	Mea-f34c_2_grasses-17_4175	2	Mea-f34c_2_plants-24_1402	2	0	grasses	Plants	100.0
+taxongroup	Red-5937_82_grasses-31	Red-5937_82_plant-33	Red-5937_82_grasses-31_4175	82	Red-5937_82_plant-33_1402	82	0	grasses	Plants	100.0
+taxongroup	Mas-675c_347_grasses-34	Mas-675c_347_plants-46	Mas-675c_347_grasses-34_4175	347	Mas-675c_347_plants-46_1402	347	0	grasses	Plants	100.0
+taxongroup	For-ac12_92_grasses-11	For-ac12_92_plants-20	For-ac12_92_grasses-11_4175	92	For-ac12_92_plants-20_4553	92	0	grasses	plants	100.0
+taxongroup	Fun-7367_500_grass-4	Fun-7367_500_plants-5	Fun-7367_500_grass-4_4175	500	Fun-7367_500_plants-5_1402	500	0	grasses	Plants	100.0
+taxongroup	Ama-1510_105_Alliaceae-32	Ama-1510_105_Asparagales-1	Ama-1510_105_Alliaceae-32_449	105	Ama-1510_105_Asparagales-1_1581	105	0	Alliaceae	Asparagales	100.0
+taxongroup	Meaa30a_22_grasses-13	Meaa30a_22_plant-9	Meaa30a_22_grasses-13_4175	22	Meaa30a_22_plant-9_1402	22	0	grasses	Plants	100.0
+taxongroup	Man-5a67_68_grass-52	Man-5a67_68_plants-38	Man-5a67_68_grass-52_4175	68	Man-5a67_68_plants-38_1402	68	0	grasses	Plants	100.0
+taxongroup	Mon-1726_22_grass-68	Mon-1726_22_plants-130	Mon-1726_22_grass-68_4175	22	Mon-1726_22_plants-130_1402	22	0	grasses	Plants	100.0
+taxongroup	Cal-fa4d_3_grasses-13	Cal-fa4d_3_Plants-1	Cal-fa4d_3_grasses-13_4175	3	Cal-fa4d_3_Plants-1_4553	3	0	grasses	plants	100.0
+taxongroup	Equ-d3c3_102_grasses-5	Equ-d3c3_102_grasses-5	Equ-d3c3_102_grasses-5_4175	102	Equ-d3c3_102_grasses-5_5363	102	0	grasses	grasses and sedges	100.0
+taxongroup	Poa-27c0_2_grasses-22	Poa-27c0_2_grasses-22	Poa-27c0_2_grasses-22_4175	2	Poa-27c0_2_grasses-22_5363	2	0	grasses	grasses and sedges	100.0
+taxongroup	Lem-06b1_13_grasses-3	Lem-06b1_13_grasses-3	Lem-06b1_13_grasses-3_4175	13	Lem-06b1_13_grasses-3_5363	13	0	grasses	grasses and sedges	100.0
+taxongroup	Mac-7bcf_6_grasses-26	Mac-7bcf_6_grasses-26	Mac-7bcf_6_grasses-26_4175	6	Mac-7bcf_6_grasses-26_5363	6	0	grasses	grasses and sedges	100.0
+taxongroup	Mic-2330_5_grasses-7	Mic-2330_5_grasses-7	Mic-2330_5_grasses-7_4175	5	Mic-2330_5_grasses-7_5363	5	0	grasses	grasses and sedges	100.0
+taxongroup	Poa-27c0_2_grasses-22	Poa-27c0_2_monocotyledons-12	Poa-27c0_2_grasses-22_4175	2	Poa-27c0_2_monocotyledons-12_4016	2	0	grasses	monocotyledons	100.0
+taxongroup	Mon-1726_8_grasses-8	Mon-1726_8_monocotyledons-21	Mon-1726_8_grasses-8_4175	8	Mon-1726_8_monocotyledons-21_4016	8	0	grasses	monocotyledons	100.0
+taxongroup	Mon-1726_122_grass-14	Mon-1726_122_monocotyledon-18	Mon-1726_122_grass-14_4175	122	Mon-1726_122_monocotyledon-18_4016	122	0	grasses	monocotyledons	100.0
+taxongroup	Ame-35ae_248_grasses-20	Ame-35ae_248_plant-15	Ame-35ae_248_grasses-20_4175	248	Ame-35ae_248_plant-15_4553	248	0	grasses	plants	100.0
+taxongroup	Afr-354e_18_grasses-10	Afr-354e_18_plants-13	Afr-354e_18_grasses-10_4175	18	Afr-354e_18_plants-13_4553	18	0	grasses	plants	100.0
+taxongroup	Cap-5548_52_grasses-8	Cap-5548_52_plants-11	Cap-5548_52_grasses-8_4175	52	Cap-5548_52_plants-11_4553	52	0	grasses	plants	100.0
+taxongroup	Bea-4f7a_8_grasses-12	Bea-4f7a_8_plants-10	Bea-4f7a_8_grasses-12_4175	8	Bea-4f7a_8_plants-10_4553	8	0	grasses	plants	100.0
+taxongroup	Mon548e_4_grasses-26	Mon548e_4_plants-16	Mon548e_4_grasses-26_4175	4	Mon548e_4_plants-16_1402	4	0	grasses	Plants	100.0
+taxongroup	Bea-4f7a_141_grasses-24	Bea-4f7a_141_plant-12	Bea-4f7a_141_grasses-24_4175	141	Bea-4f7a_141_plant-12_4553	141	0	grasses	plants	100.0
+taxongroup	Bla-2fe0_150_grass-23	Bla-2fe0_150_plants-9	Bla-2fe0_150_grass-23_4175	150	Bla-2fe0_150_plants-9_4553	150	0	grasses	plants	100.0
+taxongroup	Bla-2fe0_148_grass-29	Bla-2fe0_148_plants-9	Bla-2fe0_148_grass-29_4175	148	Bla-2fe0_148_plants-9_4553	148	0	grasses	plants	100.0
+taxongroup	Bla-1ce3_235_grass-38	Bla-1ce3_235_plant-4	Bla-1ce3_235_grass-38_4175	235	Bla-1ce3_235_plant-4_4553	235	0	grasses	plants	100.0
+taxongroup	Bla-1ce3_238_grass-42	Bla-1ce3_238_plants-26	Bla-1ce3_238_grass-42_4175	238	Bla-1ce3_238_plants-26_4553	238	0	grasses	plants	100.0
+taxongroup	Bla-1ce3_237_grass-34	Bla-1ce3_237_plant-11	Bla-1ce3_237_grass-34_4175	237	Bla-1ce3_237_plant-11_4553	237	0	grasses	plants	100.0
+taxongroup	Bla-1ce3_238_grass-42	Bla-1ce3_238_plant-18	Bla-1ce3_238_grass-42_4175	238	Bla-1ce3_238_plant-18_4553	238	0	grasses	plants	100.0
+taxongroup	Bea-3721_159_grasses-27	Bea-3721_159_plants-4	Bea-3721_159_grasses-27_4175	159	Bea-3721_159_plants-4_4553	159	0	grasses	plants	100.0
+taxongroup	Bam-5151_2_grass-19	Bam-5151_2_plants-11	Bam-5151_2_grass-19_4175	2	Bam-5151_2_plants-11_4553	2	0	grasses	plants	100.0
+taxongroup	Col-6d94_177_grasses-7	Col-6d94_177_plants-19	Col-6d94_177_grasses-7_4175	177	Col-6d94_177_plants-19_4553	177	0	grasses	plants	100.0
+taxongroup	Col-6d94_10_grasses-18	Col-6d94_10_plants-22	Col-6d94_10_grasses-18_4175	10	Col-6d94_10_plants-22_4553	10	0	grasses	plants	100.0
+taxongroup	Col-6d94_171_grasses-37	Col-6d94_171_plants-33	Col-6d94_171_grasses-37_4175	171	Col-6d94_171_plants-33_4553	171	0	grasses	plants	100.0
+taxongroup	Woo-2b74_79_grasses-6	Woo-2b74_79_grasses-6	Woo-2b74_79_grasses-6_4175	79	Woo-2b74_79_grasses-6_5363	79	0	grasses	grasses and sedges	100.0
+taxongroup	Woo-aaf8_221_grasses-10	Woo-aaf8_221_grasses-10	Woo-aaf8_221_grasses-10_4175	221	Woo-aaf8_221_grasses-10_5363	221	0	grasses	grasses and sedges	100.0
+taxongroup	Woo-aaf8_21_grasses-9	Woo-aaf8_21_grasses-9	Woo-aaf8_21_grasses-9_4175	21	Woo-aaf8_21_grasses-9_5363	21	0	grasses	grasses and sedges	100.0
+taxongroup	Wil-28c2_65_grass-18	Wil-28c2_65_grass-18	Wil-28c2_65_grass-18_4175	65	Wil-28c2_65_grass-18_5363	65	0	grasses	grasses and sedges	100.0
+taxongroup	Mus-840b_143_grasses-4	Mus-840b_143_plants-10	Mus-840b_143_grasses-4_4175	143	Mus-840b_143_plants-10_1402	143	0	grasses	Plants	100.0
+taxongroup	Mus-840b_120_grass-10	Mus-840b_120_plants-19	Mus-840b_120_grass-10_4175	120	Mus-840b_120_plants-19_1402	120	0	grasses	Plants	100.0
+taxongroup	Mon-1726_22_grasses-73	Mon-1726_22_plants-130	Mon-1726_22_grasses-73_4175	22	Mon-1726_22_plants-130_1402	22	0	grasses	Plants	100.0
+taxongroup	Per-930d_78_grass-15	Per-930d_78_plant-21	Per-930d_78_grass-15_4175	78	Per-930d_78_plant-21_1402	78	0	grasses	Plants	100.0
+taxongroup	Pik-2f87_10_grasses-14	Pik-2f87_10_plants-11	Pik-2f87_10_grasses-14_4175	10	Pik-2f87_10_plants-11_1402	10	0	grasses	Plants	100.0
+taxongroup	Pik-2f87_41_grasses-10	Pik-2f87_41_plant-15	Pik-2f87_41_grasses-10_4175	41	Pik-2f87_41_plant-15_1402	41	0	grasses	Plants	100.0
+taxongroup	Pik-2f87_24_grasses-18	Pik-2f87_24_plant-12	Pik-2f87_24_grasses-18_4175	24	Pik-2f87_24_plant-12_1402	24	0	grasses	Plants	100.0
+taxongroup	Mon-1726_2_grass-19	Mon-1726_2_plants-25	Mon-1726_2_grass-19_4175	2	Mon-1726_2_plants-25_1402	2	0	grasses	Plants	100.0
+taxongroup	Ovi-a47a_14_grasses-6	Ovi-a47a_14_plants-12	Ovi-a47a_14_grasses-6_4175	14	Ovi-a47a_14_plants-12_1402	14	0	grasses	Plants	100.0
+taxongroup	Pla-2751_226_grasses-9	Pla-2751_226_plants-2	Pla-2751_226_grasses-9_4175	226	Pla-2751_226_plants-2_1402	226	0	grasses	Plants	100.0
+taxongroup	Asp-d39c_21_grasses-26	Asp-d39c_21_Poales-22	Asp-d39c_21_grasses-26_4175	21	Asp-d39c_21_Poales-22_3114	21	0	grasses	Poales	100.0
+taxongroup	Poa-27c0_2_grasses-22	Poa-27c0_2_Poales-2	Poa-27c0_2_grasses-22_4175	2	Poa-27c0_2_Poales-2_3114	2	0	grasses	Poales	100.0
+taxongroup	Poa-27c0_12_grass-9	Poa-27c0_12_Poales-17	Poa-27c0_12_grass-9_4175	12	Poa-27c0_12_Poales-17_3114	12	0	grasses	Poales	100.0
+taxongroup	Mon-1726_22_grass-68	Mon-1726_22_Poales-96	Mon-1726_22_grass-68_4175	22	Mon-1726_22_Poales-96_3114	22	0	grasses	Poales	100.0
+taxongroup	Mon-1726_22_grasses-73	Mon-1726_22_Poales-96	Mon-1726_22_grasses-73_4175	22	Mon-1726_22_Poales-96_3114	22	0	grasses	Poales	100.0
+taxongroup	Mon-1726_22_grass-68	Mon-1726_22_Poales-75	Mon-1726_22_grass-68_4175	22	Mon-1726_22_Poales-75_3114	22	0	grasses	Poales	100.0
+taxongroup	Mon-1726_22_grasses-73	Mon-1726_22_Poales-116	Mon-1726_22_grasses-73_4175	22	Mon-1726_22_Poales-116_3114	22	0	grasses	Poales	100.0
+taxongroup	Mon-1726_22_grass-68	Mon-1726_22_Poales-116	Mon-1726_22_grass-68_4175	22	Mon-1726_22_Poales-116_3114	22	0	grasses	Poales	100.0
+taxongroup	Mon-1726_22_grasses-73	Mon-1726_22_Poales-75	Mon-1726_22_grasses-73_4175	22	Mon-1726_22_Poales-75_3114	22	0	grasses	Poales	100.0
+taxongroup	Ame-d5c4_128_grasses-8	Ame-d5c4_128_grasses-8	Ame-d5c4_128_grasses-8_4175	128	Ame-d5c4_128_grasses-8_5363	128	0	grasses	grasses and sedges	100.0
+taxongroup	Ame-d5c4_45_grasses-8	Ame-d5c4_45_grasses-8	Ame-d5c4_45_grasses-8_4175	45	Ame-d5c4_45_grasses-8_5363	45	0	grasses	grasses and sedges	100.0
+taxongroup	Afr-354e_17_grasses-13	Afr-354e_17_grasses-13	Afr-354e_17_grasses-13_4175	17	Afr-354e_17_grasses-13_5363	17	0	grasses	grasses and sedges	100.0
+taxongroup	Col-6d94_177_grasses-7	Col-6d94_177_grasses-7	Col-6d94_177_grasses-7_4175	177	Col-6d94_177_grasses-7_5363	177	0	grasses	grasses and sedges	100.0
+taxongroup	Gal-cdcd_2_snowdrop-27	Gal-cdcd_2_plants-41	Gal-cdcd_2_snowdrop-27_4994	2	Gal-cdcd_2_plants-41_4553	2	0	snowdrop	plants	100.0
+taxongroup	Eng-0a3a_34_orchid-12	Eng-0a3a_34_plants-2	Eng-0a3a_34_orchid-12_4169	34	Eng-0a3a_34_plants-2_4553	34	0	orchids	plants	100.0
+taxongroup	Epi-bfa5_17_orchids-10	Epi-bfa5_17_plants-6	Epi-bfa5_17_orchids-10_4169	17	Epi-bfa5_17_plants-6_4553	17	0	orchids	plants	100.0
+taxongroup	Mon548e_4_orchids-20	Mon548e_4_plants-16	Mon548e_4_orchids-20_4169	4	Mon548e_4_plants-16_4553	4	0	orchids	plants	100.0
+taxongroup	Ophb6aa_2_orchids-2	Ophb6aa_2_plants-7	Ophb6aa_2_orchids-2_4169	2	Ophb6aa_2_plants-7_4553	2	0	orchids	plants	100.0
+taxongroup	Orc-0474_157_orchids-12	Orc-0474_157_plant-26	Orc-0474_157_orchids-12_4169	157	Orc-0474_157_plant-26_4553	157	0	orchids	plants	100.0
+taxongroup	Orc-0474_234_orchids-9	Orc-0474_234_plants-26	Orc-0474_234_orchids-9_4169	234	Orc-0474_234_plants-26_4553	234	0	orchids	plants	100.0
+taxongroup	Gal-eda5_77_snowdrop-100	Gal-eda5_77_plants-39	Gal-eda5_77_snowdrop-100_4994	77	Gal-eda5_77_plants-39_1402	77	0	snowdrop	Plants	100.0
+taxongroup	Ama-1510_215_snowdrops-12	Ama-1510_215_plants-7	Ama-1510_215_snowdrops-12_4994	215	Ama-1510_215_plants-7_1402	215	0	snowdrop	Plants	100.0
+taxongroup	Gal-eda5_84_snowdrop-156	Gal-eda5_84_plant-133	Gal-eda5_84_snowdrop-156_4994	84	Gal-eda5_84_plant-133_1402	84	0	snowdrop	Plants	100.0
+taxongroup	Gal569e_2_snowdrop-5	Gal569e_2_plant-10	Gal569e_2_snowdrop-5_4994	2	Gal569e_2_plant-10_1402	2	0	snowdrop	Plants	100.0
+taxongroup	Ama-1510_215_snowdrops-12	Ama-1510_215_plants-17	Ama-1510_215_snowdrops-12_4994	215	Ama-1510_215_plants-17_1402	215	0	snowdrop	Plants	100.0
+taxongroup	Mon-1726_257_orchids-36	Mon-1726_257_plants-7	Mon-1726_257_orchids-36_4169	257	Mon-1726_257_plants-7_4553	257	0	orchids	plants	100.0
+taxongroup	Amo-ffe8_2_arum-6	Amo-ffe8_2_Araceae-15	Amo-ffe8_2_arum-6_5571	2	Amo-ffe8_2_Araceae-15_467	2	0	titan arum	Araceae	100.0
+taxongroup	Ara-552d_17_arum-20	Ara-552d_17_Araceae-5	Ara-552d_17_arum-20_5571	17	Ara-552d_17_Araceae-5_467	17	0	titan arum	Araceae	100.0
+taxongroup	Ara-552d_17_arum-36	Ara-552d_17_Araceae-5	Ara-552d_17_arum-36_5571	17	Ara-552d_17_Araceae-5_467	17	0	titan arum	Araceae	100.0
+taxongroup	Amo-ffe8_6_arum-15	Amo-ffe8_6_plant-33	Amo-ffe8_6_arum-15_5571	6	Amo-ffe8_6_plant-33_1402	6	0	titan arum	Plants	100.0
+taxongroup	Amo-ffe8_2_arum-6	Amo-ffe8_2_plant-11	Amo-ffe8_2_arum-6_5571	2	Amo-ffe8_2_plant-11_1402	2	0	titan arum	Plants	100.0
+taxongroup	Flo-338d_161_arum-18	Flo-338d_161_plants-9	Flo-338d_161_arum-18_5571	161	Flo-338d_161_plants-9_1402	161	0	titan arum	Plants	100.0
+taxongroup	Ara-552d_53_arum-18	Ara-552d_53_plant-32	Ara-552d_53_arum-18_5571	53	Ara-552d_53_plant-32_1402	53	0	titan arum	Plants	100.0
+taxongroup	Orc-0474_187_orchids-11	Orc-0474_187_plants-25	Orc-0474_187_orchids-11_4169	187	Orc-0474_187_plants-25_4553	187	0	orchids	plants	100.0
+taxongroup	Mon-1726_22_orchids-11	Mon-1726_22_plants-130	Mon-1726_22_orchids-11_4169	22	Mon-1726_22_plants-130_4553	22	0	orchids	plants	100.0
+taxongroup	Mon-1726_22_orchids-11	Mon-1726_22_Asparagales-28	Mon-1726_22_orchids-11_4169	22	Mon-1726_22_Asparagales-28_1581	22	0	orchids	Asparagales	100.0
+taxongroup	Epi-bfa5_17_orchids-10	Epi-bfa5_17_plant-36	Epi-bfa5_17_orchids-10_4169	17	Epi-bfa5_17_plant-36_1402	17	0	orchids	Plants	100.0
+taxongroup	Bee-ace3_210_orchid-11	Bee-ace3_210_plants-6	Bee-ace3_210_orchid-11_4169	210	Bee-ace3_210_plants-6_1402	210	0	orchids	Plants	100.0
+taxongroup	Aspef4a_1_orchids-3	Aspef4a_1_plants-12	Aspef4a_1_orchids-3_4169	1	Aspef4a_1_plants-12_1402	1	0	orchids	Plants	100.0
+taxongroup	Aspef4a_3_orchids-16	Aspef4a_3_plant-13	Aspef4a_3_orchids-16_4169	3	Aspef4a_3_plant-13_1402	3	0	orchids	Plants	100.0
+taxongroup	Rho-d4a0_271_orchids-37	Rho-d4a0_271_plants-4	Rho-d4a0_271_orchids-37_4169	271	Rho-d4a0_271_plants-4_1402	271	0	orchids	Plants	100.0
+taxongroup	Flo-eb50_8_orchids-45	Flo-eb50_8_plants-40	Flo-eb50_8_orchids-45_4169	8	Flo-eb50_8_plants-40_1402	8	0	orchids	Plants	100.0
+taxongroup	Mon-1726_7_orchids-23	Mon-1726_7_plants-12	Mon-1726_7_orchids-23_4169	7	Mon-1726_7_plants-12_1402	7	0	orchids	Plants	100.0
+taxongroup	Fir-3b5c_161_orchids-25	Fir-3b5c_161_plants-23	Fir-3b5c_161_orchids-25_4169	161	Fir-3b5c_161_plants-23_1402	161	0	orchids	Plants	100.0
+taxongroup	Flo-e790_28_orchids-11	Flo-e790_28_plants-25	Flo-e790_28_orchids-11_4169	28	Flo-e790_28_plants-25_1402	28	0	orchids	Plants	100.0
+taxongroup	Tul-9a00_23_tulip-6	Tul-9a00_23_plants-7	Tul-9a00_23_tulip-6_5582	23	Tul-9a00_23_plants-7_4553	23	0	tulips	plants	100.0
+taxongroup	Ase-acb4_35_tulip-12	Ase-acb4_35_plants-2	Ase-acb4_35_tulip-12_5582	35	Ase-acb4_35_plants-2_4553	35	0	tulips	plants	100.0
+taxongroup	Ama-1510_216_tulip-27	Ama-1510_216_plants-8	Ama-1510_216_tulip-27_5582	216	Ama-1510_216_plants-8_4553	216	0	tulips	plants	100.0
+taxongroup	Tul-9a00_192_tulip-11	Tul-9a00_192_plants-12	Tul-9a00_192_tulip-11_5582	192	Tul-9a00_192_plants-12_4553	192	0	tulips	plants	100.0
+taxongroup	Tul-9a00_109_tulips-9	Tul-9a00_109_plant-20	Tul-9a00_109_tulips-9_5582	109	Tul-9a00_109_plant-20_4553	109	0	tulips	plants	100.0
+taxongroup	Lil-43fd_190_tulips-11	Lil-43fd_190_plants-18	Lil-43fd_190_tulips-11_5582	190	Lil-43fd_190_plants-18_4553	190	0	tulips	plants	100.0
+taxongroup	Tul-9a00_285_tulip-16	Tul-9a00_285_plants-5	Tul-9a00_285_tulip-16_5582	285	Tul-9a00_285_plants-5_4553	285	0	tulips	plants	100.0
+taxongroup	Lilcd21_2_tulips-19	Lilcd21_2_plants-11	Lilcd21_2_tulips-19_5582	2	Lilcd21_2_plants-11_4553	2	0	tulips	plants	100.0
+taxongroup	Mon-1726_22_tulips-16	Mon-1726_22_plants-130	Mon-1726_22_tulips-16_5582	22	Mon-1726_22_plants-130_4553	22	0	tulips	plants	100.0
+taxongroup	Mon-1726_261_tulips-27	Mon-1726_261_plants-7	Mon-1726_261_tulips-27_5582	261	Mon-1726_261_plants-7_4553	261	0	tulips	plants	100.0
+taxongroup	Lil-d11f_9_tulip-13	Lil-d11f_9_plants-3	Lil-d11f_9_tulip-13_5582	9	Lil-d11f_9_plants-3_4553	9	0	tulips	plants	100.0
+taxongroup	Tul-9a00_313_tulips-10	Tul-9a00_313_plants-4	Tul-9a00_313_tulips-10_5582	313	Tul-9a00_313_plants-4_4553	313	0	tulips	plants	100.0
+taxongroup	Tul-9a00_209_tulips-4	Tul-9a00_209_plant-19	Tul-9a00_209_tulips-4_5582	209	Tul-9a00_209_plant-19_4553	209	0	tulips	plants	100.0
+taxongroup	Wil-cf8f_2_garlic-10	Wil-cf8f_2_Allium-6	Wil-cf8f_2_garlic-10_5383	2	Wil-cf8f_2_Allium-6_886	2	0	wild garlic	Allium	100.0
+taxongroup	All-1935_200_garlic-16	All-1935_200_Allium-18	All-1935_200_garlic-16_5383	200	All-1935_200_Allium-18_886	200	0	wild garlic	Allium	100.0
+taxongroup	All-1935_200_garlic-16	All-1935_200_Allium-24	All-1935_200_garlic-16_5383	200	All-1935_200_Allium-24_886	200	0	wild garlic	Allium	100.0
+taxongroup	All-1529_2_garlic-34	All-1529_2_plant-45	All-1529_2_garlic-34_5383	2	All-1529_2_plant-45_1402	2	0	wild garlic	Plants	100.0
+taxongroup	All-1529_2_garlic-27	All-1529_2_plant-45	All-1529_2_garlic-27_5383	2	All-1529_2_plant-45_1402	2	0	wild garlic	Plants	100.0
+taxongroup	All-1529_2_garlic-38	All-1529_2_plant-45	All-1529_2_garlic-38_5383	2	All-1529_2_plant-45_1402	2	0	wild garlic	Plants	100.0
+taxongroup	All-1529_2_garlic-24	All-1529_2_plant-45	All-1529_2_garlic-24_5383	2	All-1529_2_plant-45_1402	2	0	wild garlic	Plants	100.0
+taxongroup	All-1529_2_garlic-7	All-1529_2_plant-45	All-1529_2_garlic-7_5383	2	All-1529_2_plant-45_1402	2	0	wild garlic	Plants	100.0
+taxongroup	Fri-ce34_97_tulips-29	Fri-ce34_97_plants-26	Fri-ce34_97_tulips-29_5582	97	Fri-ce34_97_plants-26_4553	97	0	tulips	plants	100.0
+taxongroup	Tulcfe3_1_tulip-8	Tulcfe3_1_plants-18	Tulcfe3_1_tulip-8_5582	1	Tulcfe3_1_plants-18_4553	1	0	tulips	plants	100.0
+taxongroup	Tul-9a00_315_tulip-5	Tul-9a00_315_plant-6	Tul-9a00_315_tulip-5_5582	315	Tul-9a00_315_plant-6_4553	315	0	tulips	plants	100.0
+taxongroup	Mon-1726_261_tulips-27	Mon-1726_261_monocotyledons-30	Mon-1726_261_tulips-27_5582	261	Mon-1726_261_monocotyledons-30_4016	261	0	tulips	monocotyledons	100.0
+taxongroup	Tul-9a00_6_tulip-2	Tul-9a00_6_Liliaceae-11	Tul-9a00_6_tulip-2_5582	6	Tul-9a00_6_Liliaceae-11_665	6	0	tulips	Liliaceae	100.0
+taxongroup	Mon-1726_22_tulips-16	Mon-1726_22_Liliales-33	Mon-1726_22_tulips-16_5582	22	Mon-1726_22_Liliales-33_3753	22	0	tulips	Liliales	100.0
+taxongroup	Mon-1726_22_tulips-16	Mon-1726_22_Liliales-20	Mon-1726_22_tulips-16_5582	22	Mon-1726_22_Liliales-20_3753	22	0	tulips	Liliales	100.0
+taxongroup	Lil-43fd_15_tulips-3	Lil-43fd_15_Lilies-1	Lil-43fd_15_tulips-3_5582	15	Lil-43fd_15_Lilies-1_666	15	0	tulips	Lilies	100.0
+taxongroup	Nar-e858_566_tulips-16	Nar-e858_566_lilies-24	Nar-e858_566_tulips-16_5582	566	Nar-e858_566_lilies-24_4143	566	0	tulips	lilies	100.0
+taxongroup	Mon-1726_261_tulips-27	Mon-1726_261_lilies-15	Mon-1726_261_tulips-27_5582	261	Mon-1726_261_lilies-15_4143	261	0	tulips	lilies	100.0
+taxongroup	Mon-1726_22_tulips-16	Mon-1726_22_lilies-18	Mon-1726_22_tulips-16_5582	22	Mon-1726_22_lilies-18_4143	22	0	tulips	lilies	100.0
+taxongroup	Tul-9a00_143_tulip-29	Tul-9a00_143_lilies-40	Tul-9a00_143_tulip-29_5582	143	Tul-9a00_143_lilies-40_4143	143	0	tulips	lilies	100.0
+taxongroup	Lilcd21_2_tulips-19	Lilcd21_2_lilies-24	Lilcd21_2_tulips-19_5582	2	Lilcd21_2_lilies-24_4143	2	0	tulips	lilies	100.0
+taxongroup	Mon-1726_22_orchids-11	Mon-1726_22_Asparagales-13	Mon-1726_22_orchids-11_4169	22	Mon-1726_22_Asparagales-13_1581	22	0	orchids	Asparagales	100.0
+taxongroup	Mon-1726_22_lilies-18	Mon-1726_22_Liliales-33	Mon-1726_22_lilies-18_4143	22	Mon-1726_22_Liliales-33_3753	22	0	lilies	Liliales	100.0
+taxongroup	Mon-1726_22_lilies-18	Mon-1726_22_Liliales-20	Mon-1726_22_lilies-18_4143	22	Mon-1726_22_Liliales-20_3753	22	0	lilies	Liliales	100.0
+taxongroup	Ver-e8b0_98_lilies-27	Ver-e8b0_98_plants-2	Ver-e8b0_98_lilies-27_4143	98	Ver-e8b0_98_plants-2_1402	98	0	lilies	Plants	100.0
+taxongroup	Bea-4f7a_141_lilies-29	Bea-4f7a_141_plant-12	Bea-4f7a_141_lilies-29_4143	141	Bea-4f7a_141_plant-12_1402	141	0	lilies	Plants	100.0
+taxongroup	Dicc45b_4_lilies-13	Dicc45b_4_plants-3	Dicc45b_4_lilies-13_4143	4	Dicc45b_4_plants-3_1402	4	0	lilies	Plants	100.0
+taxongroup	Eur-3a81_60_lilies-26	Eur-3a81_60_plants-12	Eur-3a81_60_lilies-26_4143	60	Eur-3a81_60_plants-12_1402	60	0	lilies	Plants	100.0
+taxongroup	Fri-5711_39_lily-16	Fri-5711_39_plants-3	Fri-5711_39_lily-16_4143	39	Fri-5711_39_plants-3_1402	39	0	lilies	Plants	100.0
+taxongroup	Lil-97b9_48_lily-25	Lil-97b9_48_plants-15	Lil-97b9_48_lily-25_4143	48	Lil-97b9_48_plants-15_1402	48	0	lilies	Plants	100.0
+taxongroup	Mon-1726_261_lilies-15	Mon-1726_261_plants-7	Mon-1726_261_lilies-15_4143	261	Mon-1726_261_plants-7_1402	261	0	lilies	Plants	100.0
+taxongroup	Mon-1726_22_lilies-18	Mon-1726_22_plants-130	Mon-1726_22_lilies-18_4143	22	Mon-1726_22_plants-130_1402	22	0	lilies	Plants	100.0
+taxongroup	Nar-e858_696_lilies-5	Nar-e858_696_plant-20	Nar-e858_696_lilies-5_4143	696	Nar-e858_696_plant-20_1402	696	0	lilies	Plants	100.0
+taxongroup	Lilcd21_2_lilies-24	Lilcd21_2_plants-11	Lilcd21_2_lilies-24_4143	2	Lilcd21_2_plants-11_1402	2	0	lilies	Plants	100.0
+taxongroup	Lil-97b9_240_lilies-6	Lil-97b9_240_plants-2	Lil-97b9_240_lilies-6_4143	240	Lil-97b9_240_plants-2_1402	240	0	lilies	Plants	100.0
+taxongroup	Dic-c8bf_6_monocotyledons-9	Dic-c8bf_6_plants-6	Dic-c8bf_6_monocotyledons-9_4016	6	Dic-c8bf_6_plants-6_4553	6	0	monocotyledons	plants	100.0
+taxongroup	Poa-a930_41_grasses-13	Poa-a930_41_plants-18	Poa-a930_41_grasses-13_4175	41	Poa-a930_41_plants-18_4553	41	0	grasses	plants	100.0
+taxongroup	Sir-1b7d_107_grass-37	Sir-1b7d_107_plants-21	Sir-1b7d_107_grass-37_4175	107	Sir-1b7d_107_plants-21_4553	107	0	grasses	plants	100.0
+taxongroup	Lil-97b9_6_lilies-26	Lil-97b9_6_plants-3	Lil-97b9_6_lilies-26_4143	6	Lil-97b9_6_plants-3_1402	6	0	lilies	Plants	100.0
+taxongroup	Lil-97b9_6_lily-6	Lil-97b9_6_plants-3	Lil-97b9_6_lily-6_4143	6	Lil-97b9_6_plants-3_1402	6	0	lilies	Plants	100.0
+taxongroup	Lil-43fd_250_lily-6	Lil-43fd_250_plants-17	Lil-43fd_250_lily-6_4143	250	Lil-43fd_250_plants-17_1402	250	0	lilies	Plants	100.0
+taxongroup	Mon-1726_261_monocotyledons-30	Mon-1726_261_plants-7	Mon-1726_261_monocotyledons-30_4016	261	Mon-1726_261_plants-7_1402	261	0	monocotyledons	Plants	100.0
+taxongroup	Lil-97b9_48_lily-4	Lil-97b9_48_plants-15	Lil-97b9_48_lily-4_4143	48	Lil-97b9_48_plants-15_4553	48	0	lilies	plants	100.0
+taxongroup	Llo6ca6_1_lilies-2	Llo6ca6_1_plants-10	Llo6ca6_1_lilies-2_4143	1	Llo6ca6_1_plants-10_4553	1	0	lilies	plants	100.0
+taxongroup	Lil-97b9_65_lilies-2	Lil-97b9_65_plants-15	Lil-97b9_65_lilies-2_4143	65	Lil-97b9_65_plants-15_4553	65	0	lilies	plants	100.0
+taxongroup	Lil-97b9_148_lilies-14	Lil-97b9_148_plants-21	Lil-97b9_148_lilies-14_4143	148	Lil-97b9_148_plants-21_4553	148	0	lilies	plants	100.0
+taxongroup	Lil-97b9_148_lilies-14	Lil-97b9_148_plant-52	Lil-97b9_148_lilies-14_4143	148	Lil-97b9_148_plant-52_4553	148	0	lilies	plants	100.0
+taxongroup	Asp-d39c_2_lilies-4	Asp-d39c_2_plants-10	Asp-d39c_2_lilies-4_4143	2	Asp-d39c_2_plants-10_4553	2	0	lilies	plants	100.0
+taxongroup	Lil-d11f_76_monocotyledons-25	Lil-d11f_76_Magnoliophyta-29	Lil-d11f_76_monocotyledons-25_4016	76	Lil-d11f_76_Magnoliophyta-29_2276	76	0	monocotyledons	Magnoliophyta	100.0
+taxongroup	Poa-27c0_2_monocotyledons-12	Poa-27c0_2_plants-18	Poa-27c0_2_monocotyledons-12_4016	2	Poa-27c0_2_plants-18_1402	2	0	monocotyledons	Plants	100.0
+taxongroup	Poa-27c0_2_monocotyledons-12	Poa-27c0_2_plants-9	Poa-27c0_2_monocotyledons-12_4016	2	Poa-27c0_2_plants-9_1402	2	0	monocotyledons	Plants	100.0
+taxongroup	Asp-d39c_106_monocotyledons-19	Asp-d39c_106_plants-12	Asp-d39c_106_monocotyledons-19_4016	106	Asp-d39c_106_plants-12_1402	106	0	monocotyledons	Plants	100.0
+taxongroup	Asp-d39c_62_monocotyledons-16	Asp-d39c_62_plants-45	Asp-d39c_62_monocotyledons-16_4016	62	Asp-d39c_62_plants-45_1402	62	0	monocotyledons	Plants	100.0
+taxongroup	Mon-1726_201_monocotyledons-40	Mon-1726_201_plants-32	Mon-1726_201_monocotyledons-40_4016	201	Mon-1726_201_plants-32_1402	201	0	monocotyledons	Plants	100.0
+taxongroup	Mon-1726_147_monocotyledons-4	Mon-1726_147_plants-11	Mon-1726_147_monocotyledons-4_4016	147	Mon-1726_147_plants-11_1402	147	0	monocotyledons	Plants	100.0
+taxongroup	Flo-338d_243_monocotyledons-11	Flo-338d_243_Plants-1	Flo-338d_243_monocotyledons-11_4016	243	Flo-338d_243_Plants-1_1402	243	0	monocotyledons	Plants	100.0
+taxongroup	Mar-c790_35_lily-11	Mar-c790_35_plants-29	Mar-c790_35_lily-11_4143	35	Mar-c790_35_plants-29_4553	35	0	lilies	plants	100.0
+taxongroup	See-1516_89_lily-3	See-1516_89_plant-10	See-1516_89_lily-3_4143	89	See-1516_89_plant-10_4553	89	0	lilies	plants	100.0
+taxongroup	Mon-1726_257_lilies-38	Mon-1726_257_plants-7	Mon-1726_257_lilies-38_4143	257	Mon-1726_257_plants-7_1402	257	0	lilies	Plants	100.0
+taxongroup	Lil-97b9_146_lilies-65	Lil-97b9_146_plants-78	Lil-97b9_146_lilies-65_4143	146	Lil-97b9_146_plants-78_1402	146	0	lilies	Plants	100.0
+taxongroup	Mon-1726_261_lilies-15	Mon-1726_261_monocotyledons-30	Mon-1726_261_lilies-15_4143	261	Mon-1726_261_monocotyledons-30_4016	261	0	lilies	monocotyledons	100.0
+taxongroup	Ven-77c9_75_bamboos-19	Ven-77c9_75_grasses-10	Ven-77c9_75_bamboos-19_4656	75	Ven-77c9_75_grasses-10_4175	75	0	bamboo	grasses	100.0
+taxongroup	Poa-27c0_32_Poales-12	Poa-27c0_32_plants-7	Poa-27c0_32_Poales-12_3114	32	Poa-27c0_32_plants-7_4553	32	0	Poales	plants	100.0
+taxongroup	Poa-27c0_42_Poales-2	Poa-27c0_42_plants-18	Poa-27c0_42_Poales-2_3114	42	Poa-27c0_42_plants-18_4553	42	0	Poales	plants	100.0
+taxongroup	Gal-cdcd_160_Snowdrops-1	Gal-cdcd_160_plants-5	Gal-cdcd_160_Snowdrops-1_2319	160	Gal-cdcd_160_plants-5_1402	160	0	Snowdrop	Plants	100.0
+taxongroup	Gal569e_6_Snowdrops-1	Gal569e_6_plants-5	Gal569e_6_Snowdrops-1_2319	6	Gal569e_6_plants-5_1402	6	0	Snowdrop	Plants	100.0
+taxongroup	Amo-76d8_4_arum-6	Amo-76d8_4_plant-21	Amo-76d8_4_arum-6_3552	4	Amo-76d8_4_plant-21_1402	4	0	Titan arum	Plants	100.0
+taxongroup	Asp-d39c_249_Asparagales-2	Asp-d39c_249_plants-10	Asp-d39c_249_Asparagales-2_1581	249	Asp-d39c_249_plants-10_4553	249	0	Asparagales	plants	100.0
+taxongroup	Poa-27c0_2_Poales-2	Poa-27c0_2_plants-9	Poa-27c0_2_Poales-2_3114	2	Poa-27c0_2_plants-9_4553	2	0	Poales	plants	100.0
+taxongroup	Poa-27c0_2_Poales-2	Poa-27c0_2_plants-18	Poa-27c0_2_Poales-2_3114	2	Poa-27c0_2_plants-18_4553	2	0	Poales	plants	100.0
+taxongroup	Poa-27c0_3_Poales-13	Poa-27c0_3_plant-2	Poa-27c0_3_Poales-13_3114	3	Poa-27c0_3_plant-2_4553	3	0	Poales	plants	100.0
+taxongroup	Poa-a930_5_Poaceae-11	Poa-a930_5_plant-17	Poa-a930_5_Poaceae-11_756	5	Poa-a930_5_plant-17_4553	5	0	Poaceae	plants	100.0
+taxongroup	Pik-2f87_143_Poaceae-23	Pik-2f87_143_plants-43	Pik-2f87_143_Poaceae-23_756	143	Pik-2f87_143_plants-43_4553	143	0	Poaceae	plants	100.0
+taxongroup	Pik-2f87_143_Poaceae-23	Pik-2f87_143_plants-19	Pik-2f87_143_Poaceae-23_756	143	Pik-2f87_143_plants-19_4553	143	0	Poaceae	plants	100.0
+taxongroup	Poa-a930_6_Poaceae-2	Poa-a930_6_plant-8	Poa-a930_6_Poaceae-2_756	6	Poa-a930_6_plant-8_4553	6	0	Poaceae	plants	100.0
+taxongroup	Mon-1726_22_Poales-75	Mon-1726_22_plants-130	Mon-1726_22_Poales-75_3114	22	Mon-1726_22_plants-130_1402	22	0	Poales	Plants	100.0
+taxongroup	Poa-27c0_40_Poales-16	Poa-27c0_40_plants-12	Poa-27c0_40_Poales-16_3114	40	Poa-27c0_40_plants-12_1402	40	0	Poales	Plants	100.0
+taxongroup	Mon-1726_22_Poales-116	Mon-1726_22_plants-130	Mon-1726_22_Poales-116_3114	22	Mon-1726_22_plants-130_1402	22	0	Poales	Plants	100.0
+taxongroup	Mon-1726_22_Poales-96	Mon-1726_22_plants-130	Mon-1726_22_Poales-96_3114	22	Mon-1726_22_plants-130_1402	22	0	Poales	Plants	100.0
+taxongroup	Poa-27c0_2_Poales-2	Poa-27c0_2_monocotyledons-12	Poa-27c0_2_Poales-2_3114	2	Poa-27c0_2_monocotyledons-12_4016	2	0	Poales	monocotyledons	100.0
+taxongroup	Asp-da96_2_family-13	Asp-da96_2_Asparagales-22	Asp-da96_2_family-13_4042	2	Asp-da96_2_Asparagales-22_1581	2	0	asparagus family	Asparagales	100.0
+taxongroup	Bam-5151_9_bamboo-2	Bam-5151_9_grasses-7	Bam-5151_9_bamboo-2_4656	9	Bam-5151_9_grasses-7_4175	9	0	bamboo	grasses	100.0
+taxongroup	Bam-5151_125_bamboo-2	Bam-5151_125_plant-34	Bam-5151_125_bamboo-2_4656	125	Bam-5151_125_plant-34_1402	125	0	bamboo	Plants	100.0
+taxongroup	Sem-88a0_25_bamboo-20	Sem-88a0_25_plants-5	Sem-88a0_25_bamboo-20_4656	25	Sem-88a0_25_plants-5_1402	25	0	bamboo	Plants	100.0
+taxongroup	Ven-77c9_75_bamboos-19	Ven-77c9_75_plants-8	Ven-77c9_75_bamboos-19_4656	75	Ven-77c9_75_plants-8_1402	75	0	bamboo	Plants	100.0
+taxongroup	Poa-a930_8_bamboo-12	Poa-a930_8_Poaceae-5	Poa-a930_8_bamboo-12_4656	8	Poa-a930_8_Poaceae-5_756	8	0	bamboo	Poaceae	100.0
+taxongroup	Bam-6fb9_2_bamboos-9	Bam-6fb9_2_grass-12	Bam-6fb9_2_bamboos-9_4656	2	Bam-6fb9_2_grass-12_4175	2	0	bamboo	grasses	100.0
+taxongroup	Hom-2752_151_bamboo-28	Hom-2752_151_grass-33	Hom-2752_151_bamboo-28_4656	151	Hom-2752_151_grass-33_4175	151	0	bamboo	grasses	100.0
+taxongroup	Poa-a930_3_bamboos-7	Poa-a930_3_grasses-5	Poa-a930_3_bamboos-7_4656	3	Poa-a930_3_grasses-5_4175	3	0	bamboo	grasses	100.0
+taxongroup	Mon-1726_11_bamboos-26	Mon-1726_11_grasses-20	Mon-1726_11_bamboos-26_4656	11	Mon-1726_11_grasses-20_4175	11	0	bamboo	grasses	100.0
+taxongroup	Bam-5151_3_bamboos-2	Bam-5151_3_grass-9	Bam-5151_3_bamboos-2_4656	3	Bam-5151_3_grass-9_4175	3	0	bamboo	grasses	100.0
+taxongroup	Bam-5151_133_bamboo-4	Bam-5151_133_plants-5	Bam-5151_133_bamboo-4_4656	133	Bam-5151_133_plants-5_1402	133	0	bamboo	Plants	100.0
+taxongroup	Poa-a930_57_bamboo-37	Poa-a930_57_grasses-29	Poa-a930_57_bamboo-37_4656	57	Poa-a930_57_grasses-29_4175	57	0	bamboo	grasses	100.0
+taxongroup	Lac-2089_5_bamboo-5	Lac-2089_5_grasses-20	Lac-2089_5_bamboo-5_4656	5	Lac-2089_5_grasses-20_4175	5	0	bamboo	grasses	100.0
+taxongroup	Ind-4264_188_bamboo-17	Ind-4264_188_grass-15	Ind-4264_188_bamboo-17_4656	188	Ind-4264_188_grass-15_4175	188	0	bamboo	grasses	100.0
+taxongroup	Lem-f2d0_469_bamboo-18	Lem-f2d0_469_grasses-21	Lem-f2d0_469_bamboo-18_4656	469	Lem-f2d0_469_grasses-21_4175	469	0	bamboo	grasses	100.0
+taxongroup	Lac-2089_19_bamboo-3	Lac-2089_19_grass-30	Lac-2089_19_bamboo-3_4656	19	Lac-2089_19_grass-30_4175	19	0	bamboo	grasses	100.0
+taxongroup	Lac-2089_19_bamboo-14	Lac-2089_19_grasses-39	Lac-2089_19_bamboo-14_4656	19	Lac-2089_19_grasses-39_4175	19	0	bamboo	grasses	100.0
+taxongroup	Lac-2089_19_bamboo-14	Lac-2089_19_grass-30	Lac-2089_19_bamboo-14_4656	19	Lac-2089_19_grass-30_4175	19	0	bamboo	grasses	100.0
+taxongroup	Lac-2089_19_bamboo-3	Lac-2089_19_grasses-39	Lac-2089_19_bamboo-3_4656	19	Lac-2089_19_grasses-39_4175	19	0	bamboo	grasses	100.0
+taxongroup	Bam-5151_133_bamboo-4	Bam-5151_133_plant-40	Bam-5151_133_bamboo-4_4656	133	Bam-5151_133_plant-40_1402	133	0	bamboo	Plants	100.0
+taxongroup	Bam-5151_72_bamboo-5	Bam-5151_72_plant-11	Bam-5151_72_bamboo-5_4656	72	Bam-5151_72_plant-11_1402	72	0	bamboo	Plants	100.0
+taxongroup	Asp-da96_2_family-9	Asp-da96_2_Asparagales-22	Asp-da96_2_family-9_4042	2	Asp-da96_2_Asparagales-22_1581	2	0	asparagus family	Asparagales	100.0
+taxongroup	Bam-5151_81_bamboo-30	Bam-5151_81_plants-6	Bam-5151_81_bamboo-30_4656	81	Bam-5151_81_plants-6_1402	81	0	bamboo	Plants	100.0
+taxongroup	Asp-da96_2_family-13	Asp-da96_2_plants-16	Asp-da96_2_family-13_4042	2	Asp-da96_2_plants-16_1402	2	0	asparagus family	Plants	100.0
+taxongroup	Asp-da96_2_family-9	Asp-da96_2_plants-16	Asp-da96_2_family-9_4042	2	Asp-da96_2_plants-16_1402	2	0	asparagus family	Plants	100.0
+taxongroup	Herf1c1_5_bamboo-31	Herf1c1_5_plants-7	Herf1c1_5_bamboo-31_4656	5	Herf1c1_5_plants-7_1402	5	0	bamboo	Plants	100.0
+taxongroup	Lem-f2d0_475_bamboo-32	Lem-f2d0_475_plant-25	Lem-f2d0_475_bamboo-32_4656	475	Lem-f2d0_475_plant-25_1402	475	0	bamboo	Plants	100.0
+taxongroup	Red-e311_122_bamboo-33	Red-e311_122_plants-40	Red-e311_122_bamboo-33_4656	122	Red-e311_122_plants-40_1402	122	0	bamboo	Plants	100.0
+taxongroup	Red-e311_122_bamboo-33	Red-e311_122_plants-34	Red-e311_122_bamboo-33_4656	122	Red-e311_122_plants-34_1402	122	0	bamboo	Plants	100.0
+taxongroup	Mon548e_5_bamboo-24	Mon548e_5_plants-8	Mon548e_5_bamboo-24_4656	5	Mon548e_5_plants-8_1402	5	0	bamboo	Plants	100.0
+taxongroup	Lem-f2d0_473_bamboo-7	Lem-f2d0_473_plant-13	Lem-f2d0_473_bamboo-7_4656	473	Lem-f2d0_473_plant-13_1402	473	0	bamboo	Plants	100.0
+taxongroup	Red-e311_122_bamboo-39	Red-e311_122_plants-34	Red-e311_122_bamboo-39_4656	122	Red-e311_122_plants-34_1402	122	0	bamboo	Plants	100.0
+taxongroup	Sem-88a0_25_bamboo-20	Sem-88a0_25_plant-8	Sem-88a0_25_bamboo-20_4656	25	Sem-88a0_25_plant-8_1402	25	0	bamboo	Plants	100.0
+taxongroup	Red-e311_122_bamboo-39	Red-e311_122_plants-40	Red-e311_122_bamboo-39_4656	122	Red-e311_122_plants-40_1402	122	0	bamboo	Plants	100.0
+taxongroup	Bam-5151_302_bamboo-20	Bam-5151_302_plant-21	Bam-5151_302_bamboo-20_4656	302	Bam-5151_302_plant-21_1402	302	0	bamboo	Plants	100.0
+taxongroup	Bam-5151_163_bamboo-16	Bam-5151_163_plant-17	Bam-5151_163_bamboo-16_4656	163	Bam-5151_163_plant-17_1402	163	0	bamboo	Plants	100.0
+taxongroup	Pha-743b_71_bamboo-3	Pha-743b_71_plant-15	Pha-743b_71_bamboo-3_4656	71	Pha-743b_71_plant-15_1402	71	0	bamboo	Plants	100.0
+taxongroup	Bam-5151_163_bamboo-26	Bam-5151_163_plant-17	Bam-5151_163_bamboo-26_4656	163	Bam-5151_163_plant-17_1402	163	0	bamboo	Plants	100.0
+taxongroup	Bam-5151_302_bamboo-29	Bam-5151_302_plant-21	Bam-5151_302_bamboo-29_4656	302	Bam-5151_302_plant-21_1402	302	0	bamboo	Plants	100.0
+taxongroup	Poa-a930_15_Poaceae-9	Poa-a930_15_Poales-16	Poa-a930_15_Poaceae-9_756	15	Poa-a930_15_Poales-16_3114	15	0	Poaceae	Poales	100.0
+taxongroup	Poa-a930_58_Grasses-1	Poa-a930_58_plant-27	Poa-a930_58_Grasses-1_757	58	Poa-a930_58_plant-27_4553	58	0	Grasses	plants	100.0
+taxongroup	Poae600_1_Grasses-1	Poae600_1_plants-11	Poae600_1_Grasses-1_757	1	Poae600_1_plants-11_1402	1	0	Grasses	Plants	100.0
+taxongroup	Poa-a930_91_Grasses-1	Poa-a930_91_plant-14	Poa-a930_91_Grasses-1_757	91	Poa-a930_91_plant-14_1402	91	0	Grasses	Plants	100.0
+taxongroup	Woo-aaf8_279_Grasses-1	Woo-aaf8_279_plants-9	Woo-aaf8_279_Grasses-1_757	279	Woo-aaf8_279_plants-9_4553	279	0	Grasses	plants	100.0
+taxongroup	Poa-a930_98_Grasses-1	Poa-a930_98_plant-13	Poa-a930_98_Grasses-1_757	98	Poa-a930_98_plant-13_4553	98	0	Grasses	plants	100.0
+taxongroup	Poa-a930_56_Grasses-1	Poa-a930_56_plant-8	Poa-a930_56_Grasses-1_757	56	Poa-a930_56_plant-8_4553	56	0	Grasses	plants	100.0
+taxongroup	Poa-a930_133_Grasses-1	Poa-a930_133_plants-5	Poa-a930_133_Grasses-1_757	133	Poa-a930_133_plants-5_4553	133	0	Grasses	plants	100.0
+taxongroup	Asp-d39c_93_Liliaceae-4	Asp-d39c_93_Liliales-42	Asp-d39c_93_Liliaceae-4_665	93	Asp-d39c_93_Liliales-42_3753	93	0	Liliaceae	Liliales	100.0
+taxongroup	Asp-d39c_112_Liliaceae-5	Asp-d39c_112_Liliales-13	Asp-d39c_112_Liliaceae-5_665	112	Asp-d39c_112_Liliales-13_3753	112	0	Liliaceae	Liliales	100.0
+taxongroup	Asp-d39c_89_Liliaceae-4	Asp-d39c_89_Liliales-7	Asp-d39c_89_Liliaceae-4_665	89	Asp-d39c_89_Liliales-7_3753	89	0	Liliaceae	Liliales	100.0
+taxongroup	Lil-43fd_2_Liliaceae-5	Lil-43fd_2_Liliales-21	Lil-43fd_2_Liliaceae-5_665	2	Lil-43fd_2_Liliales-21_3753	2	0	Liliaceae	Liliales	100.0
+taxongroup	Mon-1726_22_Asparagales-13	Mon-1726_22_plants-130	Mon-1726_22_Asparagales-13_1581	22	Mon-1726_22_plants-130_4553	22	0	Asparagales	plants	100.0
+taxongroup	Asp-d39c_62_Asparagales-9	Asp-d39c_62_monocotyledons-16	Asp-d39c_62_Asparagales-9_1581	62	Asp-d39c_62_monocotyledons-16_4016	62	0	Asparagales	monocotyledons	100.0
+taxongroup	Ama-1510_55_Liliaceae-4	Ama-1510_55_Liliales-7	Ama-1510_55_Liliaceae-4_665	55	Ama-1510_55_Liliales-7_3753	55	0	Liliaceae	Liliales	100.0
+taxongroup	Bam-5151_337_Bamboo-1	Bam-5151_337_plant-6	Bam-5151_337_Bamboo-1_1632	337	Bam-5151_337_plant-6_1402	337	0	Bamboo	Plants	100.0
+taxongroup	Asp-d39c_249_Asparagales-2	Asp-d39c_249_plants-7	Asp-d39c_249_Asparagales-2_1581	249	Asp-d39c_249_plants-7_4553	249	0	Asparagales	plants	100.0
+taxongroup	Ama-1510_2_Asparagales-23	Ama-1510_2_plants-18	Ama-1510_2_Asparagales-23_1581	2	Ama-1510_2_plants-18_4553	2	0	Asparagales	plants	100.0
+taxongroup	Ophb6aa_9_orchids-8	Ophb6aa_9_orchids-8	Ophb6aa_9_orchids-8_2952	9	Ophb6aa_9_orchids-8_4169	9	0	Bee orchids	orchids	100.0
+taxongroup	All-826a_2_Asparagales-15	All-826a_2_plants-8	All-826a_2_Asparagales-15_1581	2	All-826a_2_plants-8_4553	2	0	Asparagales	plants	100.0
+taxongroup	Asp-da96_2_Asparagales-22	Asp-da96_2_plants-16	Asp-da96_2_Asparagales-22_1581	2	Asp-da96_2_plants-16_4553	2	0	Asparagales	plants	100.0
+taxongroup	Asp-d39c_62_Asparagales-9	Asp-d39c_62_plants-45	Asp-d39c_62_Asparagales-9_1581	62	Asp-d39c_62_plants-45_4553	62	0	Asparagales	plants	100.0
+taxongroup	Nar-e858_419_Daffodil-51	Nar-e858_419_plant-19	Nar-e858_419_Daffodil-51_2885	419	Nar-e858_419_plant-19_1402	419	0	Daffodil	Plants	100.0
+taxongroup	Mon-1726_22_Asparagales-28	Mon-1726_22_plants-130	Mon-1726_22_Asparagales-28_1581	22	Mon-1726_22_plants-130_4553	22	0	Asparagales	plants	100.0
+taxongroup	Poae600_1_Grasses-1	Poae600_1_Grasses-1	Poae600_1_Grasses-1_757	1	Poae600_1_Grasses-1_3113	1	0	Grasses	Grasses and sedges	100.0
+taxongroup	Asp-d39c_89_Liliaceae-4	Asp-d39c_89_Liliales-26	Asp-d39c_89_Liliaceae-4_665	89	Asp-d39c_89_Liliales-26_3753	89	0	Liliaceae	Liliales	100.0
+taxongroup	Ama-1510_57_Liliaceae-4	Ama-1510_57_Liliales-42	Ama-1510_57_Liliaceae-4_665	57	Ama-1510_57_Liliales-42_3753	57	0	Liliaceae	Liliales	100.0
+taxongroup	Poa-a930_5_Orchidaceae-24	Poa-a930_5_plant-17	Poa-a930_5_Orchidaceae-24_727	5	Poa-a930_5_plant-17_1402	5	0	Orchidaceae	Plants	100.0
+taxongroup	Lil-97b9_58_Lilies-1	Lil-97b9_58_plants-6	Lil-97b9_58_Lilies-1_666	58	Lil-97b9_58_plants-6_1402	58	0	Lilies	Plants	100.0
+taxongroup	Lil-97b9_4_Lilies-1	Lil-97b9_4_plants-7	Lil-97b9_4_Lilies-1_666	4	Lil-97b9_4_plants-7_4553	4	0	Lilies	plants	100.0
+taxongroup	Lil-d11f_76_Liliopsida-23	Lil-d11f_76_Magnoliophyta-29	Lil-d11f_76_Liliopsida-23_410	76	Lil-d11f_76_Magnoliophyta-29_2276	76	0	Liliopsida	Magnoliophyta	100.0
+taxongroup	Asp-d39c_17_Orchidaceae-14	Asp-d39c_17_Asparagales-9	Asp-d39c_17_Orchidaceae-14_727	17	Asp-d39c_17_Asparagales-9_1581	17	0	Orchidaceae	Asparagales	100.0
+taxongroup	Asp-d39c_176_Orchidaceae-11	Asp-d39c_176_Asparagales-20	Asp-d39c_176_Orchidaceae-11_727	176	Asp-d39c_176_Asparagales-20_1581	176	0	Orchidaceae	Asparagales	100.0
+taxongroup	Asp-d39c_155_Orchidaceae-24	Asp-d39c_155_Asparagales-38	Asp-d39c_155_Orchidaceae-24_727	155	Asp-d39c_155_Asparagales-38_1581	155	0	Orchidaceae	Asparagales	100.0
+taxongroup	Asp-d39c_155_Orchidaceae-24	Asp-d39c_155_Asparagales-17	Asp-d39c_155_Orchidaceae-24_727	155	Asp-d39c_155_Asparagales-17_1581	155	0	Orchidaceae	Asparagales	100.0
+taxongroup	Flo-e790_146_Orchidaceae-27	Flo-e790_146_plant-21	Flo-e790_146_Orchidaceae-27_727	146	Flo-e790_146_plant-21_1402	146	0	Orchidaceae	Plants	100.0
+taxongroup	All-826a_11_Liliaceae-25	All-826a_11_plants-14	All-826a_11_Liliaceae-25_665	11	All-826a_11_plants-14_4553	11	0	Liliaceae	plants	100.0
+taxongroup	Orc-0474_7_Orchidaceae-2	Orc-0474_7_plants-13	Orc-0474_7_Orchidaceae-2_727	7	Orc-0474_7_plants-13_1402	7	0	Orchidaceae	Plants	100.0
+taxongroup	Orc-0474_5_Orchidaceae-1	Orc-0474_5_plants-11	Orc-0474_5_Orchidaceae-1_727	5	Orc-0474_5_plants-11_1402	5	0	Orchidaceae	Plants	100.0
+taxongroup	Mon-1726_259_Orchidaceae-54	Mon-1726_259_monocotyledon-4	Mon-1726_259_Orchidaceae-54_727	259	Mon-1726_259_monocotyledon-4_4016	259	0	Orchidaceae	monocotyledons	100.0
+taxongroup	Lil-43fd_2_Liliaceae-5	Lil-43fd_2_plants-17	Lil-43fd_2_Liliaceae-5_665	2	Lil-43fd_2_plants-17_4553	2	0	Liliaceae	plants	100.0
+taxongroup	Ama-1510_55_Liliaceae-4	Ama-1510_55_Liliales-26	Ama-1510_55_Liliaceae-4_665	55	Ama-1510_55_Liliales-26_3753	55	0	Liliaceae	Liliales	100.0
+taxongroup	Lil-8f8e_2_Liliaceae-18	Lil-8f8e_2_Liliopsida-1	Lil-8f8e_2_Liliaceae-18_665	2	Lil-8f8e_2_Liliopsida-1_410	2	0	Liliaceae	Liliopsida	100.0
+taxongroup	Fri-5711_2_Liliaceae-14	Fri-5711_2_plant-9	Fri-5711_2_Liliaceae-14_665	2	Fri-5711_2_plant-9_1402	2	0	Liliaceae	Plants	100.0
+taxongroup	Fri-ce34_2_Liliaceae-20	Fri-ce34_2_plants-14	Fri-ce34_2_Liliaceae-20_665	2	Fri-ce34_2_plants-14_1402	2	0	Liliaceae	Plants	100.0
+taxongroup	Lil-43fd_118_Liliaceae-2	Lil-43fd_118_plants-7	Lil-43fd_118_Liliaceae-2_665	118	Lil-43fd_118_plants-7_1402	118	0	Liliaceae	Plants	100.0
+taxongroup	Asp-d39c_2_Asparagales-1	Asp-d39c_2_plants-10	Asp-d39c_2_Asparagales-1_1581	2	Asp-d39c_2_plants-10_1402	2	0	Asparagales	Plants	100.0
+taxongroup	Ama-1510_75_Liliaceae-16	Ama-1510_75_monocotyledons-27	Ama-1510_75_Liliaceae-16_665	75	Ama-1510_75_monocotyledons-27_4016	75	0	Liliaceae	monocotyledons	100.0
+taxongroup	Poa-a930_3_bamboos-7	Poa-a930_3_grasses-10	Poa-a930_3_bamboos-7_4656	3	Poa-a930_3_grasses-10_4175	3	0	bamboo	grasses	100.0
+taxongroup	Sem-387f_62_bamboo-44	Sem-387f_62_grass-42	Sem-387f_62_bamboo-44_4656	62	Sem-387f_62_grass-42_4175	62	0	bamboo	grasses	100.0
+taxongroup	All-826a_148_Alliaceae-16	All-826a_148_plants-5	All-826a_148_Alliaceae-16_449	148	All-826a_148_plants-5_1402	148	0	Alliaceae	Plants	100.0
+taxongroup	Orc-0474_195_orchid-33	Orc-0474_195_orchid-33	Orc-0474_195_orchid-33_5282	195	Orc-0474_195_orchid-33_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Orc-0474_195_orchid-25	Orc-0474_195_orchid-18	Orc-0474_195_orchid-25_5282	195	Orc-0474_195_orchid-18_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Orc-0474_195_orchid-25	Orc-0474_195_orchid-11	Orc-0474_195_orchid-25_5282	195	Orc-0474_195_orchid-11_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Orc-0474_195_orchid-11	Orc-0474_195_orchid-11	Orc-0474_195_orchid-11_5282	195	Orc-0474_195_orchid-11_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Orc-0474_195_orchid-18	Orc-0474_195_orchid-11	Orc-0474_195_orchid-18_5282	195	Orc-0474_195_orchid-11_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Orc-0474_195_orchid-18	Orc-0474_195_orchid-18	Orc-0474_195_orchid-18_5282	195	Orc-0474_195_orchid-18_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Orc-0474_195_orchid-25	Orc-0474_195_orchid-33	Orc-0474_195_orchid-25_5282	195	Orc-0474_195_orchid-33_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Orc-0474_195_orchid-18	Orc-0474_195_orchid-33	Orc-0474_195_orchid-18_5282	195	Orc-0474_195_orchid-33_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Orc-0474_195_orchid-11	Orc-0474_195_orchid-25	Orc-0474_195_orchid-11_5282	195	Orc-0474_195_orchid-25_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Orc-0474_195_orchid-11	Orc-0474_195_orchid-33	Orc-0474_195_orchid-11_5282	195	Orc-0474_195_orchid-33_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Orc-0474_195_orchid-33	Orc-0474_195_orchid-11	Orc-0474_195_orchid-33_5282	195	Orc-0474_195_orchid-11_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Orc-0474_195_orchid-33	Orc-0474_195_orchid-25	Orc-0474_195_orchid-33_5282	195	Orc-0474_195_orchid-25_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Nar-e858_413_daffodils-29	Nar-e858_413_plants-17	Nar-e858_413_daffodils-29_5252	413	Nar-e858_413_plants-17_1402	413	0	daffodil	Plants	100.0
+taxongroup	All-826a_148_Alliaceae-46	All-826a_148_plants-5	All-826a_148_Alliaceae-46_449	148	All-826a_148_plants-5_4553	148	0	Alliaceae	plants	100.0
+taxongroup	All-826a_148_Alliaceae-33	All-826a_148_plants-5	All-826a_148_Alliaceae-33_449	148	All-826a_148_plants-5_4553	148	0	Alliaceae	plants	100.0
+taxongroup	Eri-8713_2_cottongrass-3	Eri-8713_2_plants-16	Eri-8713_2_cottongrass-3_4903	2	Eri-8713_2_plants-16_1402	2	0	cottongrass	Plants	100.0
+taxongroup	Ama-1510_215_daffodils-10	Ama-1510_215_Amaryllidaceae-2	Ama-1510_215_daffodils-10_5252	215	Ama-1510_215_Amaryllidaceae-2_454	215	0	daffodil	Amaryllidaceae	100.0
+taxongroup	Nar-e858_674_daffodil-17	Nar-e858_674_Narcissus-19	Nar-e858_674_daffodil-17_5252	674	Nar-e858_674_Narcissus-19_1163	674	0	daffodil	Narcissus	100.0
+taxongroup	Nar-f40f_2_daffodil-8	Nar-f40f_2_Narcissus-1	Nar-f40f_2_daffodil-8_5252	2	Nar-f40f_2_Narcissus-1_1163	2	0	daffodil	Narcissus	100.0
+taxongroup	Nar-f40f_43_daffodil-18	Nar-f40f_43_Narcissus-6	Nar-f40f_43_daffodil-18_5252	43	Nar-f40f_43_Narcissus-6_1163	43	0	daffodil	Narcissus	100.0
+taxongroup	Orc-0474_195_orchid-25	Orc-0474_195_orchid-25	Orc-0474_195_orchid-25_5282	195	Orc-0474_195_orchid-25_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Orc-0474_195_orchid-33	Orc-0474_195_orchid-18	Orc-0474_195_orchid-33_5282	195	Orc-0474_195_orchid-18_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Orc-0474_195_orchid-11	Orc-0474_195_orchid-18	Orc-0474_195_orchid-11_5282	195	Orc-0474_195_orchid-18_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Oph-1439_6_orchids-9	Oph-1439_6_orchids-9	Oph-1439_6_orchids-9_5282	6	Oph-1439_6_orchids-9_4169	6	0	bee orchids	orchids	100.0
+taxongroup	Orc-0474_195_orchid-18	Orc-0474_195_orchid-25	Orc-0474_195_orchid-18_5282	195	Orc-0474_195_orchid-25_4169	195	0	bee orchids	orchids	100.0
+taxongroup	Bee-ace3_210_orchid-11	Bee-ace3_210_orchid-11	Bee-ace3_210_orchid-11_5282	210	Bee-ace3_210_orchid-11_4169	210	0	bee orchids	orchids	100.0
+taxongroup	Nar-e858_419_daffodil-15	Nar-e858_419_plant-19	Nar-e858_419_daffodil-15_5252	419	Nar-e858_419_plant-19_1402	419	0	daffodil	Plants	100.0
+taxongroup	Nar-f40f_2_daffodil-8	Nar-f40f_2_plant-23	Nar-f40f_2_daffodil-8_5252	2	Nar-f40f_2_plant-23_1402	2	0	daffodil	Plants	100.0
+taxongroup	Nar-e858_670_daffodil-4	Nar-e858_670_plants-12	Nar-e858_670_daffodil-4_5252	670	Nar-e858_670_plants-12_1402	670	0	daffodil	Plants	100.0
+taxongroup	Ama-1510_215_daffodils-10	Ama-1510_215_plants-7	Ama-1510_215_daffodils-10_5252	215	Ama-1510_215_plants-7_1402	215	0	daffodil	Plants	100.0
+taxongroup	Ama-1510_215_daffodils-10	Ama-1510_215_plants-17	Ama-1510_215_daffodils-10_5252	215	Ama-1510_215_plants-17_1402	215	0	daffodil	Plants	100.0
+taxongroup	Mon-1726_261_daffodils-17	Mon-1726_261_plants-7	Mon-1726_261_daffodils-17_5252	261	Mon-1726_261_plants-7_1402	261	0	daffodil	Plants	100.0
+taxongroup	Ama-1510_216_daffodil-40	Ama-1510_216_plants-8	Ama-1510_216_daffodil-40_5252	216	Ama-1510_216_plants-8_1402	216	0	daffodil	Plants	100.0
+taxongroup	Nar-e858_419_daffodil-41	Nar-e858_419_plant-19	Nar-e858_419_daffodil-41_5252	419	Nar-e858_419_plant-19_1402	419	0	daffodil	Plants	100.0
+taxongroup	Nar-e858_3_daffodil-5	Nar-e858_3_narcissus-7	Nar-e858_3_daffodil-5_5252	3	Nar-e858_3_narcissus-7_4400	3	0	daffodil	narcissus	100.0
+taxongroup	Nar-e858_670_daffodil-4	Nar-e858_670_narcissus-2	Nar-e858_670_daffodil-4_5252	670	Nar-e858_670_narcissus-2_4400	670	0	daffodil	narcissus	100.0
+taxongroup	Mon-1726_261_daffodils-17	Mon-1726_261_monocotyledons-30	Mon-1726_261_daffodils-17_5252	261	Mon-1726_261_monocotyledons-30_4016	261	0	daffodil	monocotyledons	100.0
+taxongroup	Nar-e858_425_daffodil-14	Nar-e858_425_plant-40	Nar-e858_425_daffodil-14_5252	425	Nar-e858_425_plant-40_4553	425	0	daffodil	plants	100.0
+taxongroup	Lil-43fd_234_meleagris-9	Lil-43fd_234_Fritillaria-8	Lil-43fd_234_meleagris-9_2302	234	Lil-43fd_234_Fritillaria-8_1040	234	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Fri-5711_5_meleagris-2	Fri-5711_5_Fritillaria-1	Fri-5711_5_meleagris-2_2302	5	Fri-5711_5_Fritillaria-1_1040	5	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Fri-5711_15_meleagris-2	Fri-5711_15_Fritillaria-1	Fri-5711_15_meleagris-2_2302	15	Fri-5711_15_Fritillaria-1_1040	15	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Fri-5711_52_meleagris-6	Fri-5711_52_plant-2	Fri-5711_52_meleagris-6_2302	52	Fri-5711_52_plant-2_1402	52	0	Fritillaria meleagris	Plants	87.0
+taxongroup	Fri-ce34_3_meleagris-6	Fri-ce34_3_Fritillaria-5	Fri-ce34_3_meleagris-6_2302	3	Fri-ce34_3_Fritillaria-5_1040	3	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Nar-f40f_81_pseudonarcissus-21	Nar-f40f_81_Plants-4	Nar-f40f_81_pseudonarcissus-21_2886	81	Nar-f40f_81_Plants-4_1402	81	0	Narcissus pseudonarcissus	Plants	87.0
+taxongroup	Nar-f40f_81_pseudonarcissus-2	Nar-f40f_81_Plants-4	Nar-f40f_81_pseudonarcissus-2_2886	81	Nar-f40f_81_Plants-4_4553	81	0	Narcissus pseudonarcissus	plants	87.0
+taxongroup	Nar-f40f_7_pseudonarcissus-26	Nar-f40f_7_plants-47	Nar-f40f_7_pseudonarcissus-26_2886	7	Nar-f40f_7_plants-47_4553	7	0	Narcissus pseudonarcissus	plants	87.0
+taxongroup	Fri-5711_9_meleagris-2	Fri-5711_9_Fritillaria-1	Fri-5711_9_meleagris-2_2302	9	Fri-5711_9_Fritillaria-1_1040	9	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Nar-f40f_65_pseudonarcissus-2	Nar-f40f_65_Narcissus-1	Nar-f40f_65_pseudonarcissus-2_2886	65	Nar-f40f_65_Narcissus-1_1163	65	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Nar-f40f_62_pseudonarcissus-2	Nar-f40f_62_Narcissus-1	Nar-f40f_62_pseudonarcissus-2_2886	62	Nar-f40f_62_Narcissus-1_1163	62	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Nar-f40f_78_pseudonarcissus-2	Nar-f40f_78_Narcissus-1	Nar-f40f_78_pseudonarcissus-2_2886	78	Nar-f40f_78_Narcissus-1_1163	78	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Nar-f40f_72_pseudonarcissus-2	Nar-f40f_72_Narcissus-1	Nar-f40f_72_pseudonarcissus-2_2886	72	Nar-f40f_72_Narcissus-1_1163	72	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Fri-ce34_106_meleagris-21	Fri-ce34_106_Fritillaria-20	Fri-ce34_106_meleagris-21_2302	106	Fri-ce34_106_Fritillaria-20_1040	106	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Fri-5711_17_meleagris-2	Fri-5711_17_Fritillaria-1	Fri-5711_17_meleagris-2_2302	17	Fri-5711_17_Fritillaria-1_1040	17	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Fri-5711_21_meleagris-2	Fri-5711_21_Fritillaria-1	Fri-5711_21_meleagris-2_2302	21	Fri-5711_21_Fritillaria-1_1040	21	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Fri-5711_41_meleagris-2	Fri-5711_41_Fritillaria-1	Fri-5711_41_meleagris-2_2302	41	Fri-5711_41_Fritillaria-1_1040	41	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Wil-cf8f_3_ursinum-47	Wil-cf8f_3_Allium-6	Wil-cf8f_3_ursinum-47_3165	3	Wil-cf8f_3_Allium-6_886	3	0	Allium ursinum	Allium	87.0
+taxongroup	All-1529_43_ursinum-6	All-1529_43_Allium-5	All-1529_43_ursinum-6_3165	43	All-1529_43_Allium-5_886	43	0	Allium ursinum	Allium	87.0
+taxongroup	All-1529_36_ursinum-2	All-1529_36_Allium-1	All-1529_36_ursinum-2_3165	36	All-1529_36_Allium-1_886	36	0	Allium ursinum	Allium	87.0
+taxongroup	All-1529_50_ursinum-2	All-1529_50_Allium-1	All-1529_50_ursinum-2_3165	50	All-1529_50_Allium-1_886	50	0	Allium ursinum	Allium	87.0
+taxongroup	Wil-cf8f_3_ursinum-47	Wil-cf8f_3_Allium-62	Wil-cf8f_3_ursinum-47_3165	3	Wil-cf8f_3_Allium-62_886	3	0	Allium ursinum	Allium	87.0
+taxongroup	Eri-8713_2_Eriophorum-1	Eri-8713_2_plants-16	Eri-8713_2_Eriophorum-1_2121	2	Eri-8713_2_plants-16_1402	2	0	Eriophorum	Plants	87.0
+taxongroup	Fri-5711_53_meleagris-2	Fri-5711_53_Fritillaria-1	Fri-5711_53_meleagris-2_2302	53	Fri-5711_53_Fritillaria-1_1040	53	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Fri-5711_32_meleagris-2	Fri-5711_32_Fritillaria-1	Fri-5711_32_meleagris-2_2302	32	Fri-5711_32_Fritillaria-1_1040	32	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Lil-43fd_234_meleagris-9	Lil-43fd_234_Fritillaria-2	Lil-43fd_234_meleagris-9_2302	234	Lil-43fd_234_Fritillaria-2_1040	234	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Lil-43fd_234_meleagris-9	Lil-43fd_234_Fritillaria-37	Lil-43fd_234_meleagris-9_2302	234	Lil-43fd_234_Fritillaria-37_1040	234	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Lil-43fd_234_meleagris-9	Lil-43fd_234_Fritillaria-5	Lil-43fd_234_meleagris-9_2302	234	Lil-43fd_234_Fritillaria-5_1040	234	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Lil-43fd_234_meleagris-9	Lil-43fd_234_Fritillaria-40	Lil-43fd_234_meleagris-9_2302	234	Lil-43fd_234_Fritillaria-40_1040	234	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Fri-5711_52_meleagris-6	Fri-5711_52_Fritillaria-5	Fri-5711_52_meleagris-6_2302	52	Fri-5711_52_Fritillaria-5_1040	52	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Fri-5711_1_meleagris-2	Fri-5711_1_Fritillaria-1	Fri-5711_1_meleagris-2_2302	1	Fri-5711_1_Fritillaria-1_1040	1	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Fri-5711_50_meleagris-2	Fri-5711_50_Fritillaria-1	Fri-5711_50_meleagris-2_2302	50	Fri-5711_50_Fritillaria-1_1040	50	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Fri-5711_37_meleagris-2	Fri-5711_37_Fritillaria-1	Fri-5711_37_meleagris-2_2302	37	Fri-5711_37_Fritillaria-1_1040	37	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Nar-f40f_81_pseudonarcissus-2	Nar-f40f_81_Narcissus-1	Nar-f40f_81_pseudonarcissus-2_2886	81	Nar-f40f_81_Narcissus-1_1163	81	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Fri-5711_44_meleagris-2	Fri-5711_44_Fritillaria-1	Fri-5711_44_meleagris-2_2302	44	Fri-5711_44_Fritillaria-1_1040	44	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Fri-5711_46_meleagris-2	Fri-5711_46_Fritillaria-1	Fri-5711_46_meleagris-2_2302	46	Fri-5711_46_Fritillaria-1_1040	46	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Fri-5711_48_meleagris-2	Fri-5711_48_Fritillaria-1	Fri-5711_48_meleagris-2_2302	48	Fri-5711_48_Fritillaria-1_1040	48	0	Fritillaria meleagris	Fritillaria	87.0
+taxongroup	Nar-f40f_80_pseudonarcissus-5	Nar-f40f_80_Narcissus-4	Nar-f40f_80_pseudonarcissus-5_2886	80	Nar-f40f_80_Narcissus-4_1163	80	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Nar-f40f_81_pseudonarcissus-2	Nar-f40f_81_Narcissus-20	Nar-f40f_81_pseudonarcissus-2_2886	81	Nar-f40f_81_Narcissus-20_1163	81	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Nar-f40f_1_pseudonarcissus-2	Nar-f40f_1_Narcissus-1	Nar-f40f_1_pseudonarcissus-2_2886	1	Nar-f40f_1_Narcissus-1_1163	1	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	All-1935_200_ursinum-19	All-1935_200_Allium-24	All-1935_200_ursinum-19_3165	200	All-1935_200_Allium-24_886	200	0	Allium ursinum	Allium	87.0
+taxongroup	Wil-cf8f_3_ursinum-47	Wil-cf8f_3_Allium-46	Wil-cf8f_3_ursinum-47_3165	3	Wil-cf8f_3_Allium-46_886	3	0	Allium ursinum	Allium	87.0
+taxongroup	Wil-cf8f_3_ursinum-47	Wil-cf8f_3_Allium-57	Wil-cf8f_3_ursinum-47_3165	3	Wil-cf8f_3_Allium-57_886	3	0	Allium ursinum	Allium	87.0
+taxongroup	Amo-ffe8_84_titanum-4	Amo-ffe8_84_Amorphophallus-3	Amo-ffe8_84_titanum-4_3553	84	Amo-ffe8_84_Amorphophallus-3_887	84	0	Amorphophallus titanum	Amorphophallus	87.0
+taxongroup	Amo-ffe8_92_titanum-16	Amo-ffe8_92_Amorphophallus-15	Amo-ffe8_92_titanum-16_3553	92	Amo-ffe8_92_Amorphophallus-15_887	92	0	Amorphophallus titanum	Amorphophallus	87.0
+taxongroup	Amo-76d8_17_titanum-82	Amo-76d8_17_Amorphophallus-66	Amo-76d8_17_titanum-82_3553	17	Amo-76d8_17_Amorphophallus-66_887	17	0	Amorphophallus titanum	Amorphophallus	87.0
+taxongroup	Amo-76d8_17_titanum-82	Amo-76d8_17_Amorphophallus-81	Amo-76d8_17_titanum-82_3553	17	Amo-76d8_17_Amorphophallus-81_887	17	0	Amorphophallus titanum	Amorphophallus	87.0
+taxongroup	All-1529_63_ursinum-2	All-1529_63_plants-9	All-1529_63_ursinum-2_3165	63	All-1529_63_plants-9_4553	63	0	Allium ursinum	plants	87.0
+taxongroup	All-1529_42_ursinum-6	All-1529_42_plant-7	All-1529_42_ursinum-6_3165	42	All-1529_42_plant-7_4553	42	0	Allium ursinum	plants	87.0
+taxongroup	Wil-cf8f_3_ursinum-47	Wil-cf8f_3_plants-85	Wil-cf8f_3_ursinum-47_3165	3	Wil-cf8f_3_plants-85_4553	3	0	Allium ursinum	plants	87.0
+taxongroup	All-1529_17_ursinum-2	All-1529_17_Allium-1	All-1529_17_ursinum-2_3165	17	All-1529_17_Allium-1_886	17	0	Allium ursinum	Allium	87.0
+taxongroup	Nar-f40f_19_pseudonarcissus-2	Nar-f40f_19_Narcissus-1	Nar-f40f_19_pseudonarcissus-2_2886	19	Nar-f40f_19_Narcissus-1_1163	19	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	All-1529_8_ursinum-2	All-1529_8_Allium-1	All-1529_8_ursinum-2_3165	8	All-1529_8_Allium-1_886	8	0	Allium ursinum	Allium	87.0
+taxongroup	All-1935_200_ursinum-19	All-1935_200_Allium-18	All-1935_200_ursinum-19_3165	200	All-1935_200_Allium-18_886	200	0	Allium ursinum	Allium	87.0
+taxongroup	All-1529_63_ursinum-2	All-1529_63_Allium-1	All-1529_63_ursinum-2_3165	63	All-1529_63_Allium-1_886	63	0	Allium ursinum	Allium	87.0
+taxongroup	All-1529_41_ursinum-2	All-1529_41_Allium-1	All-1529_41_ursinum-2_3165	41	All-1529_41_Allium-1_886	41	0	Allium ursinum	Allium	87.0
+taxongroup	All-1529_42_ursinum-6	All-1529_42_Allium-5	All-1529_42_ursinum-6_3165	42	All-1529_42_Allium-5_886	42	0	Allium ursinum	Allium	87.0
+taxongroup	All-1529_81_ursinum-2	All-1529_81_Allium-1	All-1529_81_ursinum-2_3165	81	All-1529_81_Allium-1_886	81	0	Allium ursinum	Allium	87.0
+taxongroup	Wil-cf8f_3_ursinum-47	Wil-cf8f_3_Allium-1	Wil-cf8f_3_ursinum-47_3165	3	Wil-cf8f_3_Allium-1_886	3	0	Allium ursinum	Allium	87.0
+taxongroup	Lil-43fd_173_Tulipa-8	Lil-43fd_173_plants-28	Lil-43fd_173_Tulipa-8_3570	173	Lil-43fd_173_plants-28_4553	173	0	Tulipa	plants	87.0
+taxongroup	Lil-43fd_132_Tulipa-48	Lil-43fd_132_Liliaceae-26	Lil-43fd_132_Tulipa-48_3570	132	Lil-43fd_132_Liliaceae-26_665	132	0	Tulipa	Liliaceae	87.0
+taxongroup	Tul-9a00_71_Tulipa-1	Tul-9a00_71_Liliaceae-10	Tul-9a00_71_Tulipa-1_3570	71	Tul-9a00_71_Liliaceae-10_665	71	0	Tulipa	Liliaceae	87.0
+taxongroup	Lil-d11f_31_Tulipa-31	Lil-d11f_31_Liliaceae-35	Lil-d11f_31_Tulipa-31_3570	31	Lil-d11f_31_Liliaceae-35_665	31	0	Tulipa	Liliaceae	87.0
+taxongroup	Tul-9a00_72_Tulipa-4	Tul-9a00_72_Liliaceae-2	Tul-9a00_72_Tulipa-4_3570	72	Tul-9a00_72_Liliaceae-2_665	72	0	Tulipa	Liliaceae	87.0
+taxongroup	All-1529_70_ursinum-2	All-1529_70_Allium-1	All-1529_70_ursinum-2_3165	70	All-1529_70_Allium-1_886	70	0	Allium ursinum	Allium	87.0
+taxongroup	Nar-f40f_7_pseudonarcissus-26	Nar-f40f_7_Narcissus-25	Nar-f40f_7_pseudonarcissus-26_2886	7	Nar-f40f_7_Narcissus-25_1163	7	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Nar-f40f_81_pseudonarcissus-21	Nar-f40f_81_Narcissus-1	Nar-f40f_81_pseudonarcissus-21_2886	81	Nar-f40f_81_Narcissus-1_1163	81	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Nar-f40f_24_pseudonarcissus-2	Nar-f40f_24_Narcissus-1	Nar-f40f_24_pseudonarcissus-2_2886	24	Nar-f40f_24_Narcissus-1_1163	24	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Nar-f40f_21_pseudonarcissus-2	Nar-f40f_21_Narcissus-1	Nar-f40f_21_pseudonarcissus-2_2886	21	Nar-f40f_21_Narcissus-1_1163	21	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Wil-cf8f_3_ursinum-47	Wil-cf8f_3_Allium-27	Wil-cf8f_3_ursinum-47_3165	3	Wil-cf8f_3_Allium-27_886	3	0	Allium ursinum	Allium	87.0
+taxongroup	Wil-cf8f_3_ursinum-47	Wil-cf8f_3_Allium-39	Wil-cf8f_3_ursinum-47_3165	3	Wil-cf8f_3_Allium-39_886	3	0	Allium ursinum	Allium	87.0
+taxongroup	Tul-9a00_109_tulipae-2	Tul-9a00_109_plant-20	Tul-9a00_109_tulipae-2_5583	109	Tul-9a00_109_plant-20_1402	109	0	tulipa	Plants	87.0
+taxongroup	Nar-f40f_53_pseudonarcissus-2	Nar-f40f_53_Narcissus-1	Nar-f40f_53_pseudonarcissus-2_2886	53	Nar-f40f_53_Narcissus-1_1163	53	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Wil-cf8f_3_ursinum-47	Wil-cf8f_3_Allium-22	Wil-cf8f_3_ursinum-47_3165	3	Wil-cf8f_3_Allium-22_886	3	0	Allium ursinum	Allium	87.0
+taxongroup	Wil-cf8f_3_ursinum-47	Wil-cf8f_3_Allium-17	Wil-cf8f_3_ursinum-47_3165	3	Wil-cf8f_3_Allium-17_886	3	0	Allium ursinum	Allium	87.0
+taxongroup	Wil-cf8f_3_ursinum-47	Wil-cf8f_3_Allium-11	Wil-cf8f_3_ursinum-47_3165	3	Wil-cf8f_3_Allium-11_886	3	0	Allium ursinum	Allium	87.0
+taxongroup	Nar-f40f_59_pseudonarcissus-2	Nar-f40f_59_Narcissus-1	Nar-f40f_59_pseudonarcissus-2_2886	59	Nar-f40f_59_Narcissus-1_1163	59	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Nar-e858_473_pseudonarcissus-2	Nar-e858_473_Narcissus-1	Nar-e858_473_pseudonarcissus-2_2886	473	Nar-e858_473_Narcissus-1_1163	473	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Nar-f40f_47_pseudonarcissus-2	Nar-f40f_47_Narcissus-1	Nar-f40f_47_pseudonarcissus-2_2886	47	Nar-f40f_47_Narcissus-1_1163	47	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Nar-f40f_70_pseudonarcissus-2	Nar-f40f_70_Narcissus-1	Nar-f40f_70_pseudonarcissus-2_2886	70	Nar-f40f_70_Narcissus-1_1163	70	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Nar-f40f_8_pseudonarcissus-2	Nar-f40f_8_Narcissus-1	Nar-f40f_8_pseudonarcissus-2_2886	8	Nar-f40f_8_Narcissus-1_1163	8	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Nar-e858_473_pseudonarcissus-18	Nar-e858_473_Narcissus-1	Nar-e858_473_pseudonarcissus-18_2886	473	Nar-e858_473_Narcissus-1_1163	473	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Nar-f40f_81_pseudonarcissus-21	Nar-f40f_81_Narcissus-20	Nar-f40f_81_pseudonarcissus-21_2886	81	Nar-f40f_81_Narcissus-20_1163	81	0	Narcissus pseudonarcissus	Narcissus	87.0
+taxongroup	Tul-9a00_6_tulip-2	Tul-9a00_6_family-9	Tul-9a00_6_tulip-2_5582	6	Tul-9a00_6_family-9_4144	6	0	tulips	lily family	83.0
+taxongroup	Tul-9a00_313_tulips-10	Tul-9a00_313_family-8	Tul-9a00_313_tulips-10_5582	313	Tul-9a00_313_family-8_4144	313	0	tulips	lily family	83.0
+taxongroup	Mon-1726_22_Asparagales-13	Mon-1726_22_monocots-108	Mon-1726_22_Asparagales-13_1581	22	Mon-1726_22_monocots-108_4017	22	0	Asparagales	monocots	83.0
+taxongroup	Asp-d39c_217_Asparagales-7	Asp-d39c_217_monocots-15	Asp-d39c_217_Asparagales-7_1581	217	Asp-d39c_217_monocots-15_4017	217	0	Asparagales	monocots	83.0
+taxongroup	Mon-1726_22_Asparagales-13	Mon-1726_22_monocots-44	Mon-1726_22_Asparagales-13_1581	22	Mon-1726_22_monocots-44_4017	22	0	Asparagales	monocots	83.0
+taxongroup	Mon-1726_22_Asparagales-28	Mon-1726_22_monocots-44	Mon-1726_22_Asparagales-28_1581	22	Mon-1726_22_monocots-44_4017	22	0	Asparagales	monocots	83.0
+taxongroup	Lil-d11f_7_Asparagales-34	Lil-d11f_7_monocots-13	Lil-d11f_7_Asparagales-34_1581	7	Lil-d11f_7_monocots-13_4017	7	0	Asparagales	monocots	83.0
+taxongroup	Mon-1726_22_Asparagales-28	Mon-1726_22_monocots-108	Mon-1726_22_Asparagales-28_1581	22	Mon-1726_22_monocots-108_4017	22	0	Asparagales	monocots	83.0
+taxongroup	Asp-d39c_9_Asparagales-6	Asp-d39c_9_monocots-12	Asp-d39c_9_Asparagales-6_1581	9	Asp-d39c_9_monocots-12_4017	9	0	Asparagales	monocots	83.0
+taxongroup	Asp-d39c_146_Asparagales-5	Asp-d39c_146_monocots-3	Asp-d39c_146_Asparagales-5_1581	146	Asp-d39c_146_monocots-3_4017	146	0	Asparagales	monocots	83.0
+taxongroup	Asp-d39c_157_Asparagales-4	Asp-d39c_157_monocots-30	Asp-d39c_157_Asparagales-4_1581	157	Asp-d39c_157_monocots-30_4017	157	0	Asparagales	monocots	83.0
+taxongroup	Asp-d39c_21_Poales-22	Asp-d39c_21_monocots-17	Asp-d39c_21_Poales-22_3114	21	Asp-d39c_21_monocots-17_4017	21	0	Poales	monocots	83.0
+taxongroup	Asp-da96_2_family-13	Asp-da96_2_monocots-25	Asp-da96_2_family-13_471	2	Asp-da96_2_monocots-25_4017	2	0	Asparagus family	monocots	83.0
+taxongroup	Poa-a930_16_monocot-9	Poa-a930_16_plants-12	Poa-a930_16_monocot-9_4017	16	Poa-a930_16_plants-12_1402	16	0	monocots	Plants	83.0
+taxongroup	Mon-1726_22_Poales-75	Mon-1726_22_monocots-108	Mon-1726_22_Poales-75_3114	22	Mon-1726_22_monocots-108_4017	22	0	Poales	monocots	83.0
+taxongroup	Mon-1726_22_Poales-96	Mon-1726_22_monocots-108	Mon-1726_22_Poales-96_3114	22	Mon-1726_22_monocots-108_4017	22	0	Poales	monocots	83.0
+taxongroup	Lil-d11f_76_Liliopsida-23	Lil-d11f_76_angiosperms-31	Lil-d11f_76_Liliopsida-23_410	76	Lil-d11f_76_angiosperms-31_4972	76	0	Liliopsida	angiosperms 	83.0
+taxongroup	Mon-1726_104_monocots-2	Mon-1726_104_plants-33	Mon-1726_104_monocots-2_4017	104	Mon-1726_104_plants-33_1402	104	0	monocots	Plants	83.0
+taxongroup	Lil-d11f_2_monocots-23	Lil-d11f_2_plants-8	Lil-d11f_2_monocots-23_4017	2	Lil-d11f_2_plants-8_1402	2	0	monocots	Plants	83.0
+taxongroup	Poa-27c0_42_monocots-10	Poa-27c0_42_plants-18	Poa-27c0_42_monocots-10_4017	42	Poa-27c0_42_plants-18_1402	42	0	monocots	Plants	83.0
+taxongroup	Mon-1726_22_monocots-108	Mon-1726_22_plants-130	Mon-1726_22_monocots-108_4017	22	Mon-1726_22_plants-130_1402	22	0	monocots	Plants	83.0
+taxongroup	Asp-d39c_62_monocots-38	Asp-d39c_62_plants-45	Asp-d39c_62_monocots-38_4017	62	Asp-d39c_62_plants-45_1402	62	0	monocots	Plants	83.0
+taxongroup	Gal-cdcd_13_monocot-15	Gal-cdcd_13_plants-16	Gal-cdcd_13_monocot-15_4017	13	Gal-cdcd_13_plants-16_1402	13	0	monocots	Plants	83.0
+taxongroup	Mon-1726_83_monocots-11	Mon-1726_83_plant-27	Mon-1726_83_monocots-11_4017	83	Mon-1726_83_plant-27_1402	83	0	monocots	Plants	83.0
+taxongroup	Mon-1726_135_monocots-51	Mon-1726_135_plants-30	Mon-1726_135_monocots-51_4017	135	Mon-1726_135_plants-30_1402	135	0	monocots	Plants	83.0
+taxongroup	Mon-1726_135_monocots-51	Mon-1726_135_plants-13	Mon-1726_135_monocots-51_4017	135	Mon-1726_135_plants-13_1402	135	0	monocots	Plants	83.0
+taxongroup	Mon-1726_195_monocots-2	Mon-1726_195_plants-15	Mon-1726_195_monocots-2_4017	195	Mon-1726_195_plants-15_1402	195	0	monocots	Plants	83.0
+taxongroup	Mon-1726_22_monocots-44	Mon-1726_22_plants-130	Mon-1726_22_monocots-44_4017	22	Mon-1726_22_plants-130_1402	22	0	monocots	Plants	83.0
+taxongroup	Mon-1726_22_Poales-96	Mon-1726_22_monocots-44	Mon-1726_22_Poales-96_3114	22	Mon-1726_22_monocots-44_4017	22	0	Poales	monocots	83.0
+taxongroup	Mon-1726_190_Poales-7	Mon-1726_190_monocots-23	Mon-1726_190_Poales-7_3114	190	Mon-1726_190_monocots-23_4017	190	0	Poales	monocots	83.0
+taxongroup	Asp-d39c_217_Poales-23	Asp-d39c_217_monocots-15	Asp-d39c_217_Poales-23_3114	217	Asp-d39c_217_monocots-15_4017	217	0	Poales	monocots	83.0
+taxongroup	Asp-da96_2_family-9	Asp-da96_2_monocots-25	Asp-da96_2_family-9_4042	2	Asp-da96_2_monocots-25_4017	2	0	asparagus family	monocots	83.0
+taxongroup	Amo-ffe8_6_flower-30	Amo-ffe8_6_plant-33	Amo-ffe8_6_flower-30_5572	6	Amo-ffe8_6_plant-33_1402	6	0	corpse flower	Plants	83.0
+taxongroup	Amo-ffe8_6_flower-21	Amo-ffe8_6_plant-33	Amo-ffe8_6_flower-21_5572	6	Amo-ffe8_6_plant-33_1402	6	0	corpse flower	Plants	83.0
+taxongroup	Amo-ffe8_6_flower-46	Amo-ffe8_6_plant-33	Amo-ffe8_6_flower-46_5572	6	Amo-ffe8_6_plant-33_1402	6	0	corpse flower	Plants	83.0
+taxongroup	Asp-d39c_21_grasses-26	Asp-d39c_21_monocots-17	Asp-d39c_21_grasses-26_4175	21	Asp-d39c_21_monocots-17_4017	21	0	grasses	monocots	83.0
+taxongroup	Mon-1726_91_monocots-14	Mon-1726_91_plants-22	Mon-1726_91_monocots-14_4017	91	Mon-1726_91_plants-22_1402	91	0	monocots	Plants	83.0
+taxongroup	Dic-c8bf_6_monocots-12	Dic-c8bf_6_plants-6	Dic-c8bf_6_monocots-12_4017	6	Dic-c8bf_6_plants-6_1402	6	0	monocots	Plants	83.0
+taxongroup	Lil-d11f_80_monocotyledons-13	Lil-d11f_80_angiosperms-28	Lil-d11f_80_monocotyledons-13_4016	80	Lil-d11f_80_angiosperms-28_4972	80	0	monocotyledons	angiosperms 	83.0
+taxongroup	Mon-1726_194_monocot-23	Mon-1726_194_plants-50	Mon-1726_194_monocot-23_4017	194	Mon-1726_194_plants-50_4553	194	0	monocots	plants	83.0
+taxongroup	Dra-242f_8_monocot-3	Dra-242f_8_plants-4	Dra-242f_8_monocot-3_4017	8	Dra-242f_8_plants-4_4553	8	0	monocots	plants	83.0
+taxongroup	Mag-8f64_17_monocotyledons-14	Mag-8f64_17_angiosperms-4	Mag-8f64_17_monocotyledons-14_4016	17	Mag-8f64_17_angiosperms-4_4972	17	0	monocotyledons	angiosperms 	83.0
+taxongroup	Lil-d11f_53_monocotyledons-27	Lil-d11f_53_angiosperm-18	Lil-d11f_53_monocotyledons-27_4016	53	Lil-d11f_53_angiosperm-18_4972	53	0	monocotyledons	angiosperms 	83.0
+taxongroup	Lil-d11f_76_monocotyledons-25	Lil-d11f_76_angiosperms-31	Lil-d11f_76_monocotyledons-25_4016	76	Lil-d11f_76_angiosperms-31_4972	76	0	monocotyledons	angiosperms 	83.0
+taxongroup	Asp-d39c_106_monocotyledons-19	Asp-d39c_106_angiosperms-14	Asp-d39c_106_monocotyledons-19_4016	106	Asp-d39c_106_angiosperms-14_4972	106	0	monocotyledons	angiosperms 	83.0
+taxongroup	Asp-d39c_62_monocotyledons-16	Asp-d39c_62_angiosperms-47	Asp-d39c_62_monocotyledons-16_4016	62	Asp-d39c_62_angiosperms-47_4972	62	0	monocotyledons	angiosperms 	83.0
+taxongroup	Orc-0474_47_orchids-5	Orc-0474_47_monocots-3	Orc-0474_47_orchids-5_4169	47	Orc-0474_47_monocots-3_4017	47	0	orchids	monocots	83.0
+taxongroup	All-1529_73_ramsons-15	All-1529_73_plant-9	All-1529_73_ramsons-15_5387	73	All-1529_73_plant-9_4553	73	0	ramsons	plants	83.0
+taxongroup	Mon-1726_119_monocots-2	Mon-1726_119_plants-12	Mon-1726_119_monocots-2_4017	119	Mon-1726_119_plants-12_4553	119	0	monocots	plants	83.0
+taxongroup	Poa-27c0_10_monocots-38	Poa-27c0_10_plants-53	Poa-27c0_10_monocots-38_4017	10	Poa-27c0_10_plants-53_4553	10	0	monocots	plants	83.0
+taxongroup	Mon-1726_2_monocots-9	Mon-1726_2_plants-25	Mon-1726_2_monocots-9_4017	2	Mon-1726_2_plants-25_4553	2	0	monocots	plants	83.0

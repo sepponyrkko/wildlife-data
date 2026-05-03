@@ -1,0 +1,26 @@
+feat,pearson,p_pvalue,spearman,s_pvalue,N,group,relrole
+conj> ...,0.975,0.0,0.866,0.005,10,Life__life,adaptation_topic
+nmod< ...,0.907,0.002,0.913,0.002,7,Life__life,adaptation_topic
+nmod<amod> ...,0.857,0.007,0.733,0.039,5,Life__life,adaptation_topic
+case> ...,0.856,0.007,0.73,0.04,5,Life__life,adaptation_topic
+conj>amod> naked,0.851,0.007,0.756,0.03,2,Life__life,adaptation_topic
+conj> rats,0.831,0.011,0.756,0.03,2,Life__life,adaptation_topic
+conj>compound> mole,0.743,0.035,0.756,0.03,2,Life__life,adaptation_topic
+conj>amod> ...,0.741,0.035,0.733,0.039,4,Life__life,adaptation_topic
+case> of,0.721,0.043,0.577,0.134,2,Life__life,adaptation_topic
+obl< ...,0.624,0.098,0.729,0.04,4,Life__life,adaptation_topic
+amod> european,0.618,0.103,0.825,0.012,4,Life__life,adaptation_topic
+nsubj<obl>case> of,0.594,0.12,0.63,0.094,2,Life__life,adaptation_topic
+nsubj<obl>case> ...,0.587,0.126,0.577,0.134,1,Life__life,adaptation_topic
+conj>cc> and,0.583,0.13,0.729,0.04,5,Life__life,adaptation_topic
+obl<conj> ...,0.541,0.166,0.577,0.134,3,Life__life,adaptation_topic
+compound<nsubj<obl> ...,-0.522,0.185,-0.577,0.134,3,Life__life,adaptation_topic
+case> among,0.488,0.22,0.378,0.356,2,Life__life,adaptation_topic
+conj>compound> ...,0.476,0.233,0.577,0.134,1,Life__life,adaptation_topic
+nsubj<obl> ...,0.407,0.317,0.733,0.039,3,Life__life,adaptation_topic
+compound< ...,0.378,0.356,0.577,0.134,4,Life__life,adaptation_topic
+conj>cc> ...,0.358,0.383,0.412,0.31,2,Life__life,adaptation_topic
+det> the,0.35,0.395,0.126,0.766,2,Life__life,adaptation_topic
+amod> ...,-0.161,0.704,-0.261,0.532,5,Life__life,adaptation_topic
+case> to,0.14,0.741,0.0,1.0,2,Life__life,adaptation_topic
+det> ...,-0.092,0.828,-0.412,0.31,1,Life__life,adaptation_topic

@@ -1,0 +1,8 @@
+source	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	31.73	4.86	31.73	2.53	3.57	4.7	20.89	Dicotyledon__class	41
+adaptation_topic	0.0	80.24	7.78	0.15	1.55	0.2	10.07	Dicotyledon__class	106
+free_topic	0.0	0.06	91.59	0.06	1.54	0.38	6.36	Dicotyledon__class	865
+location_comment	0.0	0.01	4.28	93.84	0.09	0.18	1.61	Dicotyledon__class	94
+location_topic	0.0	0.08	10.13	0.05	80.3	0.15	9.28	Dicotyledon__class	144
+taxongroup_comment	0.0	0.12	23.35	0.24	1.02	71.0	4.25	Dicotyledon__class	383
+taxongroup_topic	0.0	0.21	23.91	0.02	0.78	0.15	74.92	Dicotyledon__class	451

@@ -1,0 +1,11 @@
+,token,token_form,concept_uri,arcpath,lemma,upos,widx,feat,elongation_x,elongation_y,group,relrole,comp_id,N_tokens
+3,Che-369e_336_badger-16,badger,European_Badger#species,nmod<,appearance,NOUN,12,nmod< ...,-0.14855470656085665,-0.05070326871546626,Life__life,location_topic,4,1
+4,Che-369e_336_badger-16,badger,European_Badger#species,case>,of,ADP,13,case> ...,-0.5412418659722109,-0.2841727321731591,Life__life,location_topic,4,1
+4,Che-369e_336_badgers-27,badgers,European_Badger#species,nmod<,attack,NOUN,24,nmod< ...,-0.06741356616611498,-0.056587112305975795,Life__life,location_topic,6,2
+5,Che-369e_336_badgers-27,badgers,European_Badger#species,case>,by,ADP,25,case> ...,-0.09215097209253309,-0.38014721771062787,Life__life,location_topic,6,2
+7,Che-369e_336_badgers-27,badgers,European_Badger#species,conj>cc>,or,CCONJ,28,conj>cc> ...,-0.03865891651912559,-0.07576390247527114,Life__life,location_topic,6,2
+8,Che-369e_336_badgers-27,badgers,European_Badger#species,conj>,predator,NOUN,29,conj> ...,0.09480507087748796,0.1004514220082286,Life__life,location_topic,6,2
+3,Sea-a5d2_59_coccolithophores-14,coccolithophores,Coccolithophore#order,nmod<,phytoplankton,NOUN,11,nmod< ...,-0.028837395096044712,-0.2487016914739828,Life__life,location_topic,6,2
+4,Sea-a5d2_59_coccolithophores-14,coccolithophores,Coccolithophore#order,case>,such,ADJ,12,case> ...,-0.100808971815492,-0.4803003937359024,Life__life,location_topic,6,2
+6,Sea-a5d2_59_coccolithophores-14,coccolithophores,Coccolithophore#order,conj>cc>,and,CCONJ,15,conj>cc> and,-0.01734572898768183,0.0418591681681497,Life__life,location_topic,6,2
+7,Sea-a5d2_59_coccolithophores-14,coccolithophores,Coccolithophore#order,conj>,zooplankton,NOUN,16,conj> ...,0.12281861587893586,0.08037476235904588,Life__life,location_topic,6,2

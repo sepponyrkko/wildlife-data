@@ -1,0 +1,16 @@
+feat,pearson,p_pvalue,spearman,s_pvalue,N,group,relrole
+case> ...,0.663,0.105,0.668,0.101,4,Plant__kingdom,adaptation_topic
+amod> ...,0.661,0.106,0.612,0.144,1,Plant__kingdom,adaptation_topic
+det> the,-0.603,0.152,-0.722,0.067,3,Plant__kingdom,adaptation_topic
+nsubj< one,0.595,0.159,0.612,0.144,2,Plant__kingdom,adaptation_topic
+amod> european,0.482,0.274,0.577,0.175,3,Plant__kingdom,adaptation_topic
+det> ...,0.41,0.361,0.612,0.144,1,Plant__kingdom,adaptation_topic
+nsubj< ...,0.387,0.391,0.408,0.363,1,Plant__kingdom,adaptation_topic
+compound> Taxus,-0.377,0.404,-0.204,0.661,3,Plant__kingdom,adaptation_topic
+conj< ...,0.284,0.537,0.289,0.53,3,Plant__kingdom,adaptation_topic
+compound> ...,0.28,0.543,0.204,0.661,1,Plant__kingdom,adaptation_topic
+conj>compound> ...,0.246,0.595,0.204,0.661,3,Plant__kingdom,adaptation_topic
+case> as,0.147,0.754,0.0,1.0,2,Plant__kingdom,adaptation_topic
+amod> common,-0.117,0.802,-0.144,0.758,3,Plant__kingdom,adaptation_topic
+obl< ...,0.08,0.864,0.0,1.0,3,Plant__kingdom,adaptation_topic
+appos> ...,-0.005,0.991,0.06,0.899,4,Plant__kingdom,adaptation_topic

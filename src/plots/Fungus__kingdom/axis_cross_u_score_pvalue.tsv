@@ -1,0 +1,6 @@
+rel_role	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+free_topic	1.0	0.24	0.122	0.013	0.0	Fungus__kingdom	223
+location_comment	0.24	1.0	1.0	0.333	0.143	Fungus__kingdom	1
+location_topic	0.122	1.0	1.0	0.167	0.172	Fungus__kingdom	1
+taxongroup_comment	0.013	0.333	0.167	1.0	0.037	Fungus__kingdom	11
+taxongroup_topic	0.0	0.143	0.172	0.037	1.0	Fungus__kingdom	13

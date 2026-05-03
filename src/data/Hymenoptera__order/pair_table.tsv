@@ -1,0 +1,822 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Arm-33e3_134_ants-5	Arm-33e3_135_rainforests-7	Arm-33e3_134_ants-5_4891	134	Arm-33e3_135_rainforests-7_3811	135	1	army ant	rainforest	50.0
+location	Bom-c423_308_bumblebees-8	Bom-c423_307_farmland-14	Bom-c423_308_bumblebees-8_4265	308	Bom-c423_307_farmland-14_4509	307	1	bumblebees	farmland	50.0
+location	Las-be5f_3_ant-11	Las-be5f_4_heathland-9	Las-be5f_3_ant-11_1698	3	Las-be5f_4_heathland-9_4518	4	1	Black garden ant	heathland	50.0
+location	Pic-7ce8_53_ant-17	Pic-7ce8_52_rainforest-6	Pic-7ce8_53_ant-17_4891	53	Pic-7ce8_52_rainforest-6_3811	52	1	army ant	rainforest	50.0
+location	Ant-938d_252_Atta-4	Ant-938d_251_rainforest-43	Ant-938d_252_Atta-4_1595	252	Ant-938d_251_rainforest-43_3811	251	1	Atta	rainforest	43.5
+location	Des-000c_363_ant-4	Des-000c_361_desert-13	Des-000c_363_ant-4_3258	363	Des-000c_361_desert-13_3805	361	2	Saharan silver ant	desert	33.333
+location	Arm-33e3_137_ant-13	Arm-33e3_135_rainforests-7	Arm-33e3_137_ant-13_4891	137	Arm-33e3_135_rainforests-7_3811	135	2	army ant	rainforest	33.333
+location	Pac-29db_8_ants-6	Pac-29db_10_rainforests-18	Pac-29db_8_ants-6_4891	8	Pac-29db_10_rainforests-18_3811	10	2	army ant	rainforest	33.333
+location	Bom-c423_308_bumblebees-8	Bom-c423_306_farmland-5	Bom-c423_308_bumblebees-8_4265	308	Bom-c423_306_farmland-5_4509	306	2	bumblebees	farmland	33.333
+location	Des-000c_363_ant-4	Des-000c_366_desert-2	Des-000c_363_ant-4_3258	363	Des-000c_366_desert-2_34	366	3	Saharan silver ant	Desert	25.0
+location	Wes-8d71_18_bee-3	Wes-8d71_20_desert-33	Wes-8d71_18_bee-3_2207	18	Wes-8d71_20_desert-33_34	20	2	European honey bee	Desert	22.0
+location	Arm-33e3_131_ants-15	Arm-33e3_135_rainforests-7	Arm-33e3_131_ants-15_4891	131	Arm-33e3_135_rainforests-7_3811	135	4	army ant	rainforest	20.0
+location	Pac-29db_8_ants-6	Pac-29db_12_rainforest-23	Pac-29db_8_ants-6_4891	8	Pac-29db_12_rainforest-23_3811	12	4	army ant	rainforest	20.0
+location	Bom-c423_302_bumblebee-32	Bom-c423_306_farmland-5	Bom-c423_302_bumblebee-32_4265	302	Bom-c423_306_farmland-5_4509	306	4	bumblebees	farmland	20.0
+location	Bom-c423_302_Bombus-9	Bom-c423_306_farmland-5	Bom-c423_302_Bombus-9_943	302	Bom-c423_306_farmland-5_4509	306	4	Bombus	farmland	20.0
+location	Des-000c_363_ant-4	Des-000c_368_Desert-1	Des-000c_363_ant-4_3258	363	Des-000c_368_Desert-1_3805	368	5	Saharan silver ant	desert	16.667
+location	Bom-c423_301_bumblebee-37	Bom-c423_306_farmland-5	Bom-c423_301_bumblebee-37_4265	301	Bom-c423_306_farmland-5_4509	306	5	bumblebees	farmland	16.667
+location	Bom-c423_302_Bombus-9	Bom-c423_307_farmland-14	Bom-c423_302_Bombus-9_943	302	Bom-c423_307_farmland-14_4509	307	5	Bombus	farmland	16.667
+location	Bom-c423_302_bumblebee-32	Bom-c423_307_farmland-14	Bom-c423_302_bumblebee-32_4265	302	Bom-c423_307_farmland-14_4509	307	5	bumblebees	farmland	16.667
+location	Bom-c423_301_bumblebee-37	Bom-c423_307_farmland-14	Bom-c423_301_bumblebee-37_4265	301	Bom-c423_307_farmland-14_4509	307	6	bumblebees	farmland	14.286
+location	Des-000c_363_ant-4	Des-000c_369_deserts-7	Des-000c_363_ant-4_3258	363	Des-000c_369_deserts-7_34	369	6	Saharan silver ant	Desert	14.286
+location	Wes-8d71_15_bee-4	Wes-8d71_20_desert-33	Wes-8d71_15_bee-4_2209	15	Wes-8d71_20_desert-33_3805	20	5	Western honey bee	desert	13.833
+location	Des-000c_363_ant-4	Des-000c_356_desert-3	Des-000c_363_ant-4_3258	363	Des-000c_356_desert-3_3805	356	7	Saharan silver ant	desert	12.5
+location	Wes-8d71_14_bee-3	Wes-8d71_20_desert-33	Wes-8d71_14_bee-3_2209	14	Wes-8d71_20_desert-33_34	20	6	Western honey bee	Desert	11.857
+location	Bom-c423_315_bumblebee-10	Bom-c423_307_farmland-14	Bom-c423_315_bumblebee-10_4265	315	Bom-c423_307_farmland-14_4509	307	8	bumblebees	farmland	11.111
+location	Ant-938d_243_ants-3	Ant-938d_251_rainforest-43	Ant-938d_243_ants-3_4891	243	Ant-938d_251_rainforest-43_3811	251	8	army ant	rainforest	11.111
+location	Ant-938d_243_ants-18	Ant-938d_251_rainforest-43	Ant-938d_243_ants-18_4891	243	Ant-938d_251_rainforest-43_3811	251	8	army ant	rainforest	11.111
+location	Wes-8d71_25_bee-3	Wes-8d71_20_desert-33	Wes-8d71_25_bee-3_2207	25	Wes-8d71_20_desert-33_34	20	5	European honey bee	Desert	11.0
+location	Bom-c423_315_bumblebee-10	Bom-c423_306_farmland-5	Bom-c423_315_bumblebee-10_4265	315	Bom-c423_306_farmland-5_4509	306	9	bumblebees	farmland	10.0
+location	Bom-c423_316_bumblebee-4	Bom-c423_307_farmland-14	Bom-c423_316_bumblebee-4_4265	316	Bom-c423_307_farmland-14_4509	307	9	bumblebees	farmland	10.0
+location	Bom-c423_316_bumblebee-4	Bom-c423_306_farmland-5	Bom-c423_316_bumblebee-4_4265	316	Bom-c423_306_farmland-5_4509	306	10	bumblebees	farmland	9.091
+location	Wes-8d71_10_bee-26	Wes-8d71_20_desert-33	Wes-8d71_10_bee-26_2209	10	Wes-8d71_20_desert-33_3805	20	10	Western honey bee	desert	7.545
+location	Wes-8d71_27_bee-3	Wes-8d71_20_desert-33	Wes-8d71_27_bee-3_4941	27	Wes-8d71_20_desert-33_3805	20	7	western honey bee	desert	6.75
+location	Wes-8d71_8_bee-8	Wes-8d71_20_desert-33	Wes-8d71_8_bee-8_4941	8	Wes-8d71_20_desert-33_3805	20	12	western honey bee	desert	6.385
+location	Wes-8d71_7_bee-4	Wes-8d71_20_desert-33	Wes-8d71_7_bee-4_2209	7	Wes-8d71_20_desert-33_34	20	13	Western honey bee	Desert	5.929
+location	Van-b9b9_80_bee-14	Van-b9b9_91_hedgerows-9	Van-b9b9_80_bee-14_2207	80	Van-b9b9_91_hedgerows-9_4519	91	11	European honey bee	hedgerows	5.5
+location	Bom-c423_278_Bombus-12	Bom-c423_306_farmland-5	Bom-c423_278_Bombus-12_943	278	Bom-c423_306_farmland-5_4509	306	28	Bombus	farmland	3.448
+location	Bom-c423_278_Bombus-12	Bom-c423_307_farmland-14	Bom-c423_278_Bombus-12_943	278	Bom-c423_307_farmland-14_4509	307	29	Bombus	farmland	3.333
+location	Bom-c423_277_Bombus-10	Bom-c423_306_farmland-5	Bom-c423_277_Bombus-10_943	277	Bom-c423_306_farmland-5_4509	306	29	Bombus	farmland	3.333
+location	Bom-c423_277_Bombus-10	Bom-c423_307_farmland-14	Bom-c423_277_Bombus-10_943	277	Bom-c423_307_farmland-14_4509	307	30	Bombus	farmland	3.226
+location	Eur39b4_5_bee-7	Eur39b4_25_farmlands-5	Eur39b4_5_bee-7_2207	5	Eur39b4_25_farmlands-5_4509	25	20	European honey bee	farmland	3.143
+location	Eur39b4_5_bee-7	Eur39b4_26_farmlands-10	Eur39b4_5_bee-7_2207	5	Eur39b4_26_farmlands-10_4509	26	21	European honey bee	farmland	3.0
+location	Ant-938d_222_Atta-18	Ant-938d_251_rainforest-43	Ant-938d_222_Atta-18_1595	222	Ant-938d_251_rainforest-43_3811	251	29	Atta	rainforest	2.9
+location	Eur-a59b_85_ants-2	Eur-a59b_48_forest-32	Eur-a59b_85_ants-2_1036	85	Eur-a59b_48_forest-32_4536	48	37	Wood ants	coniferous forest	2.632
+location	Bum-e9d6_249_bumblebees-9	Bum-e9d6_290_Marsh-10	Bum-e9d6_249_bumblebees-9_3823	249	Bum-e9d6_290_Marsh-10_36	290	41	buff-tailed bumblebee	Marsh	2.381
+location	Arm-33e3_186_ants-21	Arm-33e3_135_rainforests-7	Arm-33e3_186_ants-21_2094	186	Arm-33e3_135_rainforests-7_3811	135	51	Army ant	rainforest	1.923
+location	Bum-e9d6_242_bumblebees-9	Bum-e9d6_290_Marsh-10	Bum-e9d6_242_bumblebees-9_68	242	Bum-e9d6_290_Marsh-10_36	290	48	Buff-tailed bumblebee	Marsh	1.531
+location	Bom-c423_254_bee-11	Bom-c423_306_farmland-5	Bom-c423_254_bee-11_2207	254	Bom-c423_306_farmland-5_4509	306	52	European honey bee	farmland	1.245
+location	Bom-c423_254_bee-11	Bom-c423_307_farmland-14	Bom-c423_254_bee-11_2207	254	Bom-c423_307_farmland-14_4509	307	53	European honey bee	farmland	1.222
+location	Ant-938d_327_ants-14	Ant-938d_251_rainforest-43	Ant-938d_327_ants-14_4640	327	Ant-938d_251_rainforest-43_3811	251	76	leafcutter ants	rainforest	1.078
+location	Ant-938d_327_ants-4	Ant-938d_251_rainforest-43	Ant-938d_327_ants-4_4640	327	Ant-938d_251_rainforest-43_3811	251	76	leafcutter ants	rainforest	1.078
+adaptation	Was-5a21_5_hornets-11	Was-5a21_5_eusocial-20	Was-5a21_5_hornets-11_4942	5	Was-5a21_5_eusocial-20_3954	5	0	hornet	eusocial	100.0
+adaptation	Eur-0e68_13_hornet-3	Eur-0e68_13_eusocial-17	Eur-0e68_13_hornet-3_4942	13	Eur-0e68_13_eusocial-17_3954	13	0	hornet	eusocial	100.0
+adaptation	Spi-7da6_54_wasp-5	Spi-7da6_54_predators-24	Spi-7da6_54_wasp-5_5506	54	Spi-7da6_54_predators-24_3977	54	0	spider wasps	predator	100.0
+adaptation	Pol-516e_41_bees-45	Pol-516e_41_pollinators-11	Pol-516e_41_bees-45_5225	41	Pol-516e_41_pollinators-11_3974	41	0	mason bees	pollinator	100.0
+adaptation	Pol-516e_41_bees-50	Pol-516e_41_pollinators-11	Pol-516e_41_bees-50_5225	41	Pol-516e_41_pollinators-11_3974	41	0	mason bees	pollinator	100.0
+adaptation	Pol-516e_41_bees-45	Pol-516e_41_pollinators-33	Pol-516e_41_bees-45_5225	41	Pol-516e_41_pollinators-33_3974	41	0	mason bees	pollinator	100.0
+adaptation	Arm-33e3_154_ants-28	Arm-33e3_154_nocturnal-7	Arm-33e3_154_ants-28_4891	154	Arm-33e3_154_nocturnal-7_3967	154	0	army ant	nocturnal	100.0
+adaptation	Pol-516e_41_bees-6	Pol-516e_41_pollinators-11	Pol-516e_41_bees-6_5225	41	Pol-516e_41_pollinators-11_3974	41	0	mason bees	pollinator	100.0
+adaptation	Arm-33e3_19_ants-6	Arm-33e3_19_polymorphism-31	Arm-33e3_19_ants-6_4891	19	Arm-33e3_19_polymorphism-31_3976	19	0	army ant	polymorphism	100.0
+adaptation	Arm-33e3_19_ants-6	Arm-33e3_19_polymorphism-13	Arm-33e3_19_ants-6_4891	19	Arm-33e3_19_polymorphism-13_3976	19	0	army ant	polymorphism	100.0
+adaptation	Arm-33e3_42_ant-5	Arm-33e3_42_social-34	Arm-33e3_42_ant-5_4891	42	Arm-33e3_42_social-34_3788	42	0	army ant	social	100.0
+adaptation	Swa-27b4_175_ants-2	Swa-27b4_175_swarming-35	Swa-27b4_175_ants-2_4891	175	Swa-27b4_175_swarming-35_3983	175	0	army ant	swarming	100.0
+adaptation	Swa-27b4_175_ant-17	Swa-27b4_175_swarming-35	Swa-27b4_175_ant-17_4891	175	Swa-27b4_175_swarming-35_3983	175	0	army ant	swarming	100.0
+adaptation	Pol-516e_41_bees-6	Pol-516e_41_pollinators-33	Pol-516e_41_bees-6_5225	41	Pol-516e_41_pollinators-33_3974	41	0	mason bees	pollinator	100.0
+adaptation	Pol-516e_41_bees-50	Pol-516e_41_pollinators-33	Pol-516e_41_bees-50_5225	41	Pol-516e_41_pollinators-33_3974	41	0	mason bees	pollinator	100.0
+adaptation	Pol-516e_41_bees-17	Pol-516e_41_pollinators-11	Pol-516e_41_bees-17_5225	41	Pol-516e_41_pollinators-11_3974	41	0	mason bees	pollinator	100.0
+adaptation	Pol-516e_41_bees-17	Pol-516e_41_pollinators-33	Pol-516e_41_bees-17_5225	41	Pol-516e_41_pollinators-33_3974	41	0	mason bees	pollinator	100.0
+adaptation	Asi-8957_275_hornet-27	Asi-8957_275_predators-9	Asi-8957_275_hornet-27_4942	275	Asi-8957_275_predators-9_3977	275	0	hornet	predator	100.0
+adaptation	Sah654d_1_ant-4	Sah654d_1_tolerant-20	Sah654d_1_ant-4_3258	1	Sah654d_1_tolerant-20_3792	1	0	Saharan silver ant	heat tolerant	100.0
+adaptation	Asi-8957_266_hornets-18	Asi-8957_266_predators-28	Asi-8957_266_hornets-18_2210	266	Asi-8957_266_predators-28_3977	266	0	Hornet	predator	100.0
+adaptation	Was-5a21_151_hornet-26	Was-5a21_151_predator-20	Was-5a21_151_hornet-26_2210	151	Was-5a21_151_predator-20_359	151	0	Hornet	Predator	100.0
+adaptation	Asi-8957_274_hornet-3	Asi-8957_274_Predators-5	Asi-8957_274_hornet-3_2210	274	Asi-8957_274_Predators-5_3977	274	0	Hornet	predator	100.0
+adaptation	Asi-8957_267_hornets-8	Asi-8957_267_predator-24	Asi-8957_267_hornets-8_2210	267	Asi-8957_267_predator-24_359	267	0	Hornet	Predator	100.0
+adaptation	Wes-8d71_347_hornet-11	Wes-8d71_347_predators-2	Wes-8d71_347_hornet-11_2210	347	Wes-8d71_347_predators-2_359	347	0	Hornet	Predator	100.0
+adaptation	Eur-5425_62_hornet-10	Eur-5425_62_predator-6	Eur-5425_62_hornet-10_2210	62	Eur-5425_62_predator-6_359	62	0	Hornet	Predator	100.0
+adaptation	Eur-0e68_13_hornet-7	Eur-0e68_13_eusocial-17	Eur-0e68_13_hornet-7_2210	13	Eur-0e68_13_eusocial-17_3954	13	0	Hornet	eusocial	100.0
+adaptation	Eur-0e68_2_hornet-3	Eur-0e68_2_eusocial-11	Eur-0e68_2_hornet-3_2210	2	Eur-0e68_2_eusocial-11_3954	2	0	Hornet	eusocial	100.0
+adaptation	Bee-ace3_110_hornets-13	Bee-ace3_110_eusocial-4	Bee-ace3_110_hornets-13_2210	110	Bee-ace3_110_eusocial-4_3954	110	0	Hornet	eusocial	100.0
+adaptation	Bee-ace3_110_hornets-13	Bee-ace3_110_eusocial-9	Bee-ace3_110_hornets-13_2210	110	Bee-ace3_110_eusocial-9_3954	110	0	Hornet	eusocial	100.0
+adaptation	Was-5a21_26_hornets-33	Was-5a21_26_eusocial-18	Was-5a21_26_hornets-33_2210	26	Was-5a21_26_eusocial-18_3954	26	0	Hornet	eusocial	100.0
+adaptation	Pas-a544_21_bumblebees-5	Pas-a544_21_Pollinators-1	Pas-a544_21_bumblebees-5_4265	21	Pas-a544_21_Pollinators-1_356	21	0	bumblebees	Pollinator	100.0
+adaptation	Bum-e9d6_245_bumblebee-4	Bum-e9d6_245_pollinators-13	Bum-e9d6_245_bumblebee-4_4265	245	Bum-e9d6_245_pollinators-13_3974	245	0	bumblebees	pollinator	100.0
+adaptation	Bum-e9d6_251_bumblebees-8	Bum-e9d6_251_pollinators-21	Bum-e9d6_251_bumblebees-8_4265	251	Bum-e9d6_251_pollinators-21_3974	251	0	bumblebees	pollinator	100.0
+adaptation	Dom-6f87_171_Bombus-19	Dom-6f87_171_eusocial-2	Dom-6f87_171_Bombus-19_943	171	Dom-6f87_171_eusocial-2_3954	171	0	Bombus	eusocial	100.0
+adaptation	Bum-e9d6_252_Bombus-9	Bum-e9d6_252_pollinators-5	Bum-e9d6_252_Bombus-9_943	252	Bum-e9d6_252_pollinators-5_3974	252	0	Bombus	pollinator	100.0
+adaptation	Bom-c423_302_Bombus-9	Bom-c423_302_pollinator-16	Bom-c423_302_Bombus-9_943	302	Bom-c423_302_pollinator-16_3974	302	0	Bombus	pollinator	100.0
+adaptation	Bom-c423_321_bumblebee-3	Bom-c423_321_pollinator-11	Bom-c423_321_bumblebee-3_4265	321	Bom-c423_321_pollinator-11_3974	321	0	bumblebees	pollinator	100.0
+adaptation	Bom-c423_302_bumblebee-32	Bom-c423_302_pollinator-16	Bom-c423_302_bumblebee-32_4265	302	Bom-c423_302_pollinator-16_3974	302	0	bumblebees	pollinator	100.0
+adaptation	Par-e8bc_141_bumblebee-25	Par-e8bc_141_eusocial-51	Par-e8bc_141_bumblebee-25_4265	141	Par-e8bc_141_eusocial-51_3954	141	0	bumblebees	eusocial	100.0
+adaptation	Par-e8bc_140_bumblebees-20	Par-e8bc_140_eusocial-11	Par-e8bc_140_bumblebees-20_4265	140	Par-e8bc_140_eusocial-11_3954	140	0	bumblebees	eusocial	100.0
+adaptation	Dom-6f87_171_bumblebee-18	Dom-6f87_171_eusocial-2	Dom-6f87_171_bumblebee-18_4265	171	Dom-6f87_171_eusocial-2_3954	171	0	bumblebees	eusocial	100.0
+adaptation	Bee-ace3_122_bumblebees-36	Bee-ace3_122_eusocial-9	Bee-ace3_122_bumblebees-36_4265	122	Bee-ace3_122_eusocial-9_3954	122	0	bumblebees	eusocial	100.0
+adaptation	Bom-c423_328_bumblebee-7	Bom-c423_328_eusocial-11	Bom-c423_328_bumblebee-7_4265	328	Bom-c423_328_eusocial-11_3954	328	0	bumblebees	eusocial	100.0
+adaptation	Bee-ace3_110_bumblebees-2	Bee-ace3_110_eusocial-9	Bee-ace3_110_bumblebees-2_4265	110	Bee-ace3_110_eusocial-9_3954	110	0	bumblebees	eusocial	100.0
+adaptation	Api-6647_14_bumblebees-10	Api-6647_14_eusocial-12	Api-6647_14_bumblebees-10_4265	14	Api-6647_14_eusocial-12_3954	14	0	bumblebees	eusocial	100.0
+adaptation	Bee-ace3_110_bumblebees-2	Bee-ace3_110_eusocial-4	Bee-ace3_110_bumblebees-2_4265	110	Bee-ace3_110_eusocial-4_3954	110	0	bumblebees	eusocial	100.0
+adaptation	Bum-e9d6_170_bumblebees-12	Bum-e9d6_170_eusocial-17	Bum-e9d6_170_bumblebees-12_4265	170	Bum-e9d6_170_eusocial-17_3954	170	0	bumblebees	eusocial	100.0
+adaptation	Pol-516e_41_bumblebees-41	Pol-516e_41_pollinators-11	Pol-516e_41_bumblebees-41_4265	41	Pol-516e_41_pollinators-11_3974	41	0	bumblebees	pollinator	100.0
+adaptation	Wes-8d71_327_bumblebee-21	Wes-8d71_327_pollinator-14	Wes-8d71_327_bumblebee-21_4265	327	Wes-8d71_327_pollinator-14_3974	327	0	bumblebees	pollinator	100.0
+adaptation	Pol-516e_41_bumblebees-41	Pol-516e_41_pollinators-33	Pol-516e_41_bumblebees-41_4265	41	Pol-516e_41_pollinators-33_3974	41	0	bumblebees	pollinator	100.0
+adaptation	Pol-516e_102_bumblebees-13	Pol-516e_102_pollinators-21	Pol-516e_102_bumblebees-13_4265	102	Pol-516e_102_pollinators-21_3974	102	0	bumblebees	pollinator	100.0
+adaptation	Pol-516e_75_bumblebee-18	Pol-516e_75_pollinators-10	Pol-516e_75_bumblebee-18_4265	75	Pol-516e_75_pollinators-10_3974	75	0	bumblebees	pollinator	100.0
+adaptation	Pol-516e_75_bumblebee-18	Pol-516e_75_pollinators-25	Pol-516e_75_bumblebee-18_4265	75	Pol-516e_75_pollinators-25_3974	75	0	bumblebees	pollinator	100.0
+adaptation	Pol-516e_102_bumblebees-13	Pol-516e_102_pollinators-6	Pol-516e_102_bumblebees-13_4265	102	Pol-516e_102_pollinators-6_3974	102	0	bumblebees	pollinator	100.0
+adaptation	Att-e7de_12_Atta-1	Att-e7de_12_polymorphism-8	Att-e7de_12_Atta-1_1595	12	Att-e7de_12_polymorphism-8_3976	12	0	Atta	polymorphism	87.0
+adaptation	Mas-1837_47_Osmia-5	Mas-1837_47_pollinators-9	Mas-1837_47_Osmia-5_2828	47	Mas-1837_47_pollinators-9_3974	47	0	Osmia	pollinator	87.0
+adaptation	Eci-644a_59_burchellii-10	Eci-644a_59_nomadic-14	Eci-644a_59_burchellii-10_2095	59	Eci-644a_59_nomadic-14_3786	59	0	Eciton burchellii	nomadic	87.0
+adaptation	Lea-7e84_28_Atta-3	Lea-7e84_28_polymorphism-10	Lea-7e84_28_Atta-3_1595	28	Lea-7e84_28_polymorphism-10_3976	28	0	Atta	polymorphism	87.0
+adaptation	Wes-8d71_50_bee-12	Wes-8d71_50_metamorphosis-7	Wes-8d71_50_bee-12_2209	50	Wes-8d71_50_metamorphosis-7_3962	50	0	Western honey bee	metamorphosis	83.0
+adaptation	Wes-8d71_256_bee-4	Wes-8d71_256_pollinator-8	Wes-8d71_256_bee-4_2209	256	Wes-8d71_256_pollinator-8_3974	256	0	Western honey bee	pollinator	83.0
+adaptation	Wes-8d71_4_bee-10	Wes-8d71_4_eusocial-12	Wes-8d71_4_bee-10_4941	4	Wes-8d71_4_eusocial-12_3954	4	0	western honey bee	eusocial	83.0
+adaptation	Wes-8d71_4_bee-4	Wes-8d71_4_eusocial-12	Wes-8d71_4_bee-4_2209	4	Wes-8d71_4_eusocial-12_3954	4	0	Western honey bee	eusocial	83.0
+adaptation	Asi-8957_8_bee-21	Asi-8957_8_eusocial-11	Asi-8957_8_bee-21_2207	8	Asi-8957_8_eusocial-11_3954	8	0	European honey bee	eusocial	66.0
+adaptation	Bee-ace3_362_bee-11	Bee-ace3_362_pollinators-12	Bee-ace3_362_bee-11_2207	362	Bee-ace3_362_pollinators-12_3974	362	0	European honey bee	pollinator	66.0
+adaptation	Bee-ace3_362_bee-26	Bee-ace3_362_pollinators-12	Bee-ace3_362_bee-26_2207	362	Bee-ace3_362_pollinators-12_3974	362	0	European honey bee	pollinator	66.0
+adaptation	Wes-8d71_31_bee-3	Wes-8d71_31_swarming-11	Wes-8d71_31_bee-3_2207	31	Wes-8d71_31_swarming-11_3983	31	0	European honey bee	swarming	66.0
+adaptation	Wes-8d71_215_bee-41	Wes-8d71_215_pollinator-27	Wes-8d71_215_bee-41_2207	215	Wes-8d71_215_pollinator-27_3974	215	0	European honey bee	pollinator	66.0
+adaptation	Wes-8d71_327_bee-3	Wes-8d71_327_pollinator-14	Wes-8d71_327_bee-3_2207	327	Wes-8d71_327_pollinator-14_3974	327	0	European honey bee	pollinator	66.0
+adaptation	Wes-8d71_215_bee-31	Wes-8d71_215_pollinator-27	Wes-8d71_215_bee-31_2207	215	Wes-8d71_215_pollinator-27_3974	215	0	European honey bee	pollinator	66.0
+adaptation	Arm-33e3_124_ants-4	Arm-33e3_123_social-24	Arm-33e3_124_ants-4_4891	124	Arm-33e3_123_social-24_3788	123	1	army ant	social	50.0
+adaptation	Vesb6c9_10_wasp-9	Vesb6c9_11_predators-23	Vesb6c9_10_wasp-9_3607	10	Vesb6c9_11_predators-23_3977	11	1	Common wasp	predator	50.0
+adaptation	Bla-af14_60_ant-3	Bla-af14_61_eusocial-37	Bla-af14_60_ant-3_4689	60	Bla-af14_61_eusocial-37_3954	61	1	black garden ant	eusocial	50.0
+adaptation	Bum-e9d6_252_Bombus-9	Bum-e9d6_251_pollinators-21	Bum-e9d6_252_Bombus-9_943	252	Bum-e9d6_251_pollinators-21_3974	251	1	Bombus	pollinator	50.0
+adaptation	Dom-6f87_171_Bombus-19	Dom-6f87_170_eusocial-2	Dom-6f87_171_Bombus-19_943	171	Dom-6f87_170_eusocial-2_3954	170	1	Bombus	eusocial	50.0
+adaptation	Spi-7da6_103_wasps-3	Spi-7da6_102_predators-15	Spi-7da6_103_wasps-3_3398	103	Spi-7da6_102_predators-15_359	102	1	Spider wasps	Predator	50.0
+adaptation	Pac-29db_8_ants-6	Pac-29db_7_social-2	Pac-29db_8_ants-6_4891	8	Pac-29db_7_social-2_3788	7	1	army ant	social	50.0
+adaptation	Ani-66e9_322_ant-6	Ani-66e9_323_social-12	Ani-66e9_322_ant-6_4891	322	Ani-66e9_323_social-12_3788	323	1	army ant	social	50.0
+adaptation	Pol-516e_102_bumblebees-13	Pol-516e_103_Pollinator-1	Pol-516e_102_bumblebees-13_4265	102	Pol-516e_103_Pollinator-1_356	103	1	bumblebees	Pollinator	50.0
+adaptation	For-fc8f_41_Formica-7	For-fc8f_40_eusocial-3	For-fc8f_41_Formica-7_1035	41	For-fc8f_40_eusocial-3_3954	40	1	Formica	eusocial	50.0
+adaptation	Eci-644a_3_ant-18	Eci-644a_4_polymorphism-9	Eci-644a_3_ant-18_4891	3	Eci-644a_4_polymorphism-9_3976	4	1	army ant	polymorphism	50.0
+adaptation	Arm-33e3_18_ants-5	Arm-33e3_19_polymorphism-31	Arm-33e3_18_ants-5_4891	18	Arm-33e3_19_polymorphism-31_3976	19	1	army ant	polymorphism	50.0
+adaptation	Arm-33e3_43_ants-25	Arm-33e3_42_social-34	Arm-33e3_43_ants-25_4891	43	Arm-33e3_42_social-34_3788	42	1	army ant	social	50.0
+adaptation	Arm-33e3_18_ants-5	Arm-33e3_19_polymorphism-13	Arm-33e3_18_ants-5_4891	18	Arm-33e3_19_polymorphism-13_3976	19	1	army ant	polymorphism	50.0
+adaptation	For-53a6_60_lugubris-2	For-53a6_61_predators-8	For-53a6_60_lugubris-2_2290	60	For-53a6_61_predators-8_3977	61	1	Formica lugubris	predator	43.5
+adaptation	Arg-ab8e_28_crabro-14	Arg-ab8e_27_predators-5	Arg-ab8e_28_crabro-14_2211	28	Arg-ab8e_27_predators-5_359	27	1	Vespa crabro	Predator	43.5
+adaptation	Mas-1837_47_Osmia-5	Mas-1837_48_pollinators-22	Mas-1837_47_Osmia-5_2828	47	Mas-1837_48_pollinators-22_3974	48	1	Osmia	pollinator	43.5
+adaptation	Mas-1837_52_Osmia-18	Mas-1837_53_pollinators-2	Mas-1837_52_Osmia-18_2828	52	Mas-1837_53_pollinators-2_3974	53	1	Osmia	pollinator	43.5
+adaptation	Mas-1837_52_Osmia-6	Mas-1837_53_pollinators-2	Mas-1837_52_Osmia-6_2828	52	Mas-1837_53_pollinators-2_3974	53	1	Osmia	pollinator	43.5
+adaptation	Mas-1837_46_Osmia-7	Mas-1837_47_pollinators-9	Mas-1837_46_Osmia-7_2828	46	Mas-1837_47_pollinators-9_3974	47	1	Osmia	pollinator	43.5
+adaptation	Att-e7de_15_Atta-17	Att-e7de_14_polymorphism-5	Att-e7de_15_Atta-17_1595	15	Att-e7de_14_polymorphism-5_3976	14	1	Atta	polymorphism	43.5
+adaptation	Wes-8d71_192_bee-3	Wes-8d71_193_communication-7	Wes-8d71_192_bee-3_4941	192	Wes-8d71_193_communication-7_3790	193	1	western honey bee	chemical communication	41.5
+adaptation	Eur-0e68_12_hornet-2	Eur-0e68_13_eusocial-17	Eur-0e68_12_hornet-2_2212	12	Eur-0e68_13_eusocial-17_3954	13	1	European hornet	eusocial	41.5
+adaptation	Wes-8d71_51_bee-8	Wes-8d71_50_metamorphosis-7	Wes-8d71_51_bee-8_4941	51	Wes-8d71_50_metamorphosis-7_3962	50	1	western honey bee	metamorphosis	41.5
+adaptation	Eur-0e68_1_hornet-2	Eur-0e68_2_eusocial-11	Eur-0e68_1_hornet-2_2212	1	Eur-0e68_2_eusocial-11_3954	2	1	European hornet	eusocial	41.5
+adaptation	Ani-66e9_322_ant-6	Ani-66e9_320_social-12	Ani-66e9_322_ant-6_4891	322	Ani-66e9_320_social-12_3788	320	2	army ant	social	33.333
+adaptation	Ves-d414_200_wasp-12	Ves-d414_202_Predators-1	Ves-d414_200_wasp-12_3607	200	Ves-d414_202_Predators-1_3977	202	2	Common wasp	predator	33.333
+adaptation	Ves-d414_200_wasps-30	Ves-d414_202_Predators-1	Ves-d414_200_wasps-30_3607	200	Ves-d414_202_Predators-1_3977	202	2	Common wasp	predator	33.333
+adaptation	Bum-e9d6_249_bumblebees-9	Bum-e9d6_251_pollinators-21	Bum-e9d6_249_bumblebees-9_3823	249	Bum-e9d6_251_pollinators-21_3974	251	2	buff-tailed bumblebee	pollinator	33.333
+adaptation	Arm-33e3_156_ant-5	Arm-33e3_154_nocturnal-7	Arm-33e3_156_ant-5_4891	156	Arm-33e3_154_nocturnal-7_3967	154	2	army ant	nocturnal	33.333
+adaptation	Spi-7da6_26_wasp-2	Spi-7da6_24_predators-8	Spi-7da6_26_wasp-2_3398	26	Spi-7da6_24_predators-8_359	24	2	Spider wasps	Predator	33.333
+adaptation	For-fc8f_38_Formica-1	For-fc8f_40_eusocial-3	For-fc8f_38_Formica-1_1035	38	For-fc8f_40_eusocial-3_3954	40	2	Formica	eusocial	33.333
+adaptation	Asi-8957_141_hornets-7	Asi-8957_139_hibernation-6	Asi-8957_141_hornets-7_4942	141	Asi-8957_139_hibernation-6_338	139	2	hornet	Hibernation	33.333
+adaptation	Wes-8d71_2_bee-8	Wes-8d71_4_eusocial-12	Wes-8d71_2_bee-8_2207	2	Wes-8d71_4_eusocial-12_3954	4	2	European honey bee	eusocial	33.333
+adaptation	Wes-8d71_2_bee-4	Wes-8d71_4_eusocial-12	Wes-8d71_2_bee-4_2207	2	Wes-8d71_4_eusocial-12_3954	4	2	European honey bee	eusocial	33.333
+adaptation	Pol-516e_102_bumblebees-13	Pol-516e_104_Pollinators-1	Pol-516e_102_bumblebees-13_4265	102	Pol-516e_104_Pollinators-1_356	104	2	bumblebees	Pollinator	33.333
+adaptation	Pol-516e_101_bumblebee-33	Pol-516e_103_Pollinator-1	Pol-516e_101_bumblebee-33_4265	101	Pol-516e_103_Pollinator-1_356	103	2	bumblebees	Pollinator	33.333
+adaptation	Ins-960c_298_bee-52	Ins-960c_299_Communication-3	Ins-960c_298_bee-52_2207	298	Ins-960c_299_Communication-3_13	299	1	European honey bee	Chemical communication	33.0
+adaptation	Wes-8d71_326_bee-3	Wes-8d71_327_pollinator-14	Wes-8d71_326_bee-3_2207	326	Wes-8d71_327_pollinator-14_3974	327	1	European honey bee	pollinator	33.0
+adaptation	Wes-8d71_49_bee-9	Wes-8d71_50_metamorphosis-7	Wes-8d71_49_bee-9_2207	49	Wes-8d71_50_metamorphosis-7_3962	50	1	European honey bee	metamorphosis	33.0
+adaptation	Wes-8d71_49_bee-3	Wes-8d71_50_metamorphosis-7	Wes-8d71_49_bee-3_2207	49	Wes-8d71_50_metamorphosis-7_3962	50	1	European honey bee	metamorphosis	33.0
+adaptation	Wes-8d71_406_bee-34	Wes-8d71_407_pollinators-24	Wes-8d71_406_bee-34_2207	406	Wes-8d71_407_pollinators-24_3974	407	1	European honey bee	pollinator	33.0
+adaptation	Ins-960c_298_bee-52	Ins-960c_299_communication-6	Ins-960c_298_bee-52_2207	298	Ins-960c_299_communication-6_13	299	1	European honey bee	Chemical communication	33.0
+adaptation	Wes-8d71_406_bee-8	Wes-8d71_407_pollinators-24	Wes-8d71_406_bee-8_2207	406	Wes-8d71_407_pollinators-24_3974	407	1	European honey bee	pollinator	33.0
+adaptation	Wes-8d71_216_bee-17	Wes-8d71_215_pollinator-27	Wes-8d71_216_bee-17_2207	216	Wes-8d71_215_pollinator-27_3974	215	1	European honey bee	pollinator	33.0
+adaptation	Eci-644a_15_burchellii-2	Eci-644a_17_social-10	Eci-644a_15_burchellii-2_2095	15	Eci-644a_17_social-10_3788	17	2	Eciton burchellii	social	29.0
+adaptation	Eci-644a_111_burchellii-18	Eci-644a_109_nocturnal-16	Eci-644a_111_burchellii-18_2095	111	Eci-644a_109_nocturnal-16_3967	109	2	Eciton burchellii	nocturnal	29.0
+adaptation	Eci-644a_146_burchellii-2	Eci-644a_148_eusocial-2	Eci-644a_146_burchellii-2_2095	146	Eci-644a_148_eusocial-2_3954	148	2	Eciton burchellii	eusocial	29.0
+adaptation	Att-e7de_10_Atta-5	Att-e7de_12_polymorphism-8	Att-e7de_10_Atta-5_1595	10	Att-e7de_12_polymorphism-8_3976	12	2	Atta	polymorphism	29.0
+adaptation	Eci-644a_57_burchellii-2	Eci-644a_59_nomadic-14	Eci-644a_57_burchellii-2_2095	57	Eci-644a_59_nomadic-14_3786	59	2	Eciton burchellii	nomadic	29.0
+adaptation	Att-e7de_12_Atta-1	Att-e7de_14_polymorphism-5	Att-e7de_12_Atta-1_1595	12	Att-e7de_14_polymorphism-5_3976	14	2	Atta	polymorphism	29.0
+adaptation	Meg-83a4_42_Osmia-2	Meg-83a4_44_pollinators-15	Meg-83a4_42_Osmia-2_2828	42	Meg-83a4_44_pollinators-15_3974	44	2	Osmia	pollinator	29.0
+adaptation	Mas-1837_45_Osmia-1	Mas-1837_47_pollinators-9	Mas-1837_45_Osmia-1_2828	45	Mas-1837_47_pollinators-9_3974	47	2	Osmia	pollinator	29.0
+adaptation	Mas-1837_46_Osmia-7	Mas-1837_48_pollinators-22	Mas-1837_46_Osmia-7_2828	46	Mas-1837_48_pollinators-22_3974	48	2	Osmia	pollinator	29.0
+adaptation	Asi-8957_272_wasp-49	Asi-8957_274_Predators-5	Asi-8957_272_wasp-49_3609	272	Asi-8957_274_Predators-5_3977	274	2	European wasp	predator	27.667
+adaptation	Asi-8957_272_wasp-45	Asi-8957_274_Predators-5	Asi-8957_272_wasp-45_3609	272	Asi-8957_274_Predators-5_3977	274	2	European wasp	predator	27.667
+adaptation	Asc-4810_270_ants-18	Asc-4810_268_herbivorous-66	Asc-4810_270_ants-18_4640	270	Asc-4810_268_herbivorous-66_3784	268	2	leafcutter ants	herbivorous	27.667
+adaptation	Asc-4810_270_ants-12	Asc-4810_268_herbivorous-66	Asc-4810_270_ants-12_4640	270	Asc-4810_268_herbivorous-66_3784	268	2	leafcutter ants	herbivorous	27.667
+adaptation	Asi-8957_6_hornets-3	Asi-8957_8_eusocial-11	Asi-8957_6_hornets-3_4943	6	Asi-8957_8_eusocial-11_3954	8	2	giant hornet	eusocial	27.667
+adaptation	Bum-e9d6_242_bumblebees-9	Bum-e9d6_244_pollinators-24	Bum-e9d6_242_bumblebees-9_68	242	Bum-e9d6_244_pollinators-24_3974	244	2	Buff-tailed bumblebee	pollinator	25.0
+adaptation	Pol-516e_101_bumblebee-33	Pol-516e_104_Pollinators-1	Pol-516e_101_bumblebee-33_4265	101	Pol-516e_104_Pollinators-1_356	104	3	bumblebees	Pollinator	25.0
+adaptation	Pol-516e_41_bumblebees-41	Pol-516e_44_Pollinator-1	Pol-516e_41_bumblebees-41_4265	41	Pol-516e_44_Pollinator-1_356	44	3	bumblebees	Pollinator	25.0
+adaptation	Bum-e9d6_249_bumblebees-9	Bum-e9d6_252_pollinators-5	Bum-e9d6_249_bumblebees-9_3823	249	Bum-e9d6_252_pollinators-5_3974	252	3	buff-tailed bumblebee	pollinator	25.0
+adaptation	Bom-c423_2_bumblebee-20	Bom-c423_4_eusocial-6	Bom-c423_2_bumblebee-20_68	2	Bom-c423_4_eusocial-6_3954	4	2	Buff-tailed bumblebee	eusocial	25.0
+adaptation	Bom-c423_2_bumblebee-12	Bom-c423_4_eusocial-6	Bom-c423_2_bumblebee-12_3823	2	Bom-c423_4_eusocial-6_3954	4	2	buff-tailed bumblebee	eusocial	25.0
+adaptation	Bom-c423_2_bumblebee-8	Bom-c423_4_eusocial-6	Bom-c423_2_bumblebee-8_3823	2	Bom-c423_4_eusocial-6_3954	4	2	buff-tailed bumblebee	eusocial	25.0
+adaptation	Pol-516e_41_bees-45	Pol-516e_44_Pollinator-1	Pol-516e_41_bees-45_5225	41	Pol-516e_44_Pollinator-1_356	44	3	mason bees	Pollinator	25.0
+adaptation	Pol-516e_41_bees-6	Pol-516e_44_Pollinator-1	Pol-516e_41_bees-6_5225	41	Pol-516e_44_Pollinator-1_356	44	3	mason bees	Pollinator	25.0
+adaptation	Pol-516e_41_bees-50	Pol-516e_44_Pollinator-1	Pol-516e_41_bees-50_5225	41	Pol-516e_44_Pollinator-1_356	44	3	mason bees	Pollinator	25.0
+adaptation	Pol-516e_41_bees-17	Pol-516e_44_Pollinator-1	Pol-516e_41_bees-17_5225	41	Pol-516e_44_Pollinator-1_356	44	3	mason bees	Pollinator	25.0
+adaptation	Asi-8957_136_hornet-3	Asi-8957_139_hibernation-6	Asi-8957_136_hornet-3_2210	136	Asi-8957_139_hibernation-6_3959	139	3	Hornet	hibernation	25.0
+adaptation	Arm-33e3_48_ants-18	Arm-33e3_51_nomadic-10	Arm-33e3_48_ants-18_4891	48	Arm-33e3_51_nomadic-10_3786	51	3	army ant	nomadic	25.0
+adaptation	Dom-6f87_171_Bombus-19	Dom-6f87_168_eusocial-2	Dom-6f87_171_Bombus-19_943	171	Dom-6f87_168_eusocial-2_3954	168	3	Bombus	eusocial	25.0
+adaptation	Wes-8d71_181_bee-24	Wes-8d71_183_swarming-17	Wes-8d71_181_bee-24_2207	181	Wes-8d71_183_swarming-17_3983	183	2	European honey bee	swarming	22.0
+adaptation	Pol-516e_180_bee-13	Pol-516e_182_Pollinator-1	Pol-516e_180_bee-13_2207	180	Pol-516e_182_Pollinator-1_356	182	2	European honey bee	Pollinator	22.0
+adaptation	Pol-516e_179_bee-18	Pol-516e_177_Pollinator-1	Pol-516e_179_bee-18_2207	179	Pol-516e_177_Pollinator-1_356	177	2	European honey bee	Pollinator	22.0
+adaptation	Pol-516e_149_bee-7	Pol-516e_147_Pollinator-1	Pol-516e_149_bee-7_2207	149	Pol-516e_147_Pollinator-1_356	147	2	European honey bee	Pollinator	22.0
+adaptation	Eci-644a_1_burchellii-2	Eci-644a_4_polymorphism-9	Eci-644a_1_burchellii-2_2095	1	Eci-644a_4_polymorphism-9_3976	4	3	Eciton burchellii	polymorphism	21.75
+adaptation	Eci-644a_122_burchellii-2	Eci-644a_125_Social-1	Eci-644a_122_burchellii-2_2095	122	Eci-644a_125_Social-1_3788	125	3	Eciton burchellii	social	21.75
+adaptation	Att-e7de_9_Atta-1	Att-e7de_12_polymorphism-8	Att-e7de_9_Atta-1_1595	9	Att-e7de_12_polymorphism-8_3976	12	3	Atta	polymorphism	21.75
+adaptation	Spi-7da6_27_Pompilidae-2	Spi-7da6_24_predators-8	Spi-7da6_27_Pompilidae-2_3399	27	Spi-7da6_24_predators-8_3977	24	3	Pompilidae	predator	21.75
+adaptation	Att-e7de_15_Atta-17	Att-e7de_12_polymorphism-8	Att-e7de_15_Atta-17_1595	15	Att-e7de_12_polymorphism-8_3976	12	3	Atta	polymorphism	21.75
+adaptation	Asi-8957_272_wasp-49	Asi-8957_275_predators-9	Asi-8957_272_wasp-49_3609	272	Asi-8957_275_predators-9_359	275	3	European wasp	Predator	20.75
+adaptation	Eus-5ea1_214_bee-22	Eus-5ea1_211_eusocial-6	Eus-5ea1_214_bee-22_4266	214	Eus-5ea1_211_eusocial-6_3954	211	3	bumble bee	eusocial	20.75
+adaptation	For-53a6_64_ants-7	For-53a6_61_predators-8	For-53a6_64_ants-7_4980	64	For-53a6_61_predators-8_359	61	3	wood ant	Predator	20.75
+adaptation	Asi-8957_272_wasp-45	Asi-8957_275_predators-9	Asi-8957_272_wasp-45_3609	272	Asi-8957_275_predators-9_3977	275	3	European wasp	predator	20.75
+adaptation	Arg-ab8e_30_hornet-15	Arg-ab8e_27_predators-5	Arg-ab8e_30_hornet-15_2212	30	Arg-ab8e_27_predators-5_359	27	3	European hornet	Predator	20.75
+adaptation	Ves-d414_198_wasp-6	Ves-d414_202_Predators-1	Ves-d414_198_wasp-6_5593	198	Ves-d414_202_Predators-1_3977	202	4	common wasp	predator	20.0
+adaptation	Arm-33e3_150_ants-10	Arm-33e3_154_nocturnal-7	Arm-33e3_150_ants-10_4891	150	Arm-33e3_154_nocturnal-7_3967	154	4	army ant	nocturnal	20.0
+adaptation	Ves-d414_198_wasp-19	Ves-d414_202_Predators-1	Ves-d414_198_wasp-19_5593	198	Ves-d414_202_Predators-1_359	202	4	common wasp	Predator	20.0
+adaptation	Bla-af14_2_ant-4	Bla-af14_6_eusocial-18	Bla-af14_2_ant-4_1698	2	Bla-af14_6_eusocial-18_3954	6	4	Black garden ant	eusocial	20.0
+adaptation	Arm-33e3_150_ants-37	Arm-33e3_154_nocturnal-7	Arm-33e3_150_ants-37_4891	150	Arm-33e3_154_nocturnal-7_3967	154	4	army ant	nocturnal	20.0
+adaptation	Bla-af14_2_Lasius-29	Bla-af14_6_eusocial-18	Bla-af14_2_Lasius-29_1099	2	Bla-af14_6_eusocial-18_3954	6	4	Lasius	eusocial	20.0
+adaptation	Bla-af14_10_Lasius-21	Bla-af14_6_eusocial-18	Bla-af14_10_Lasius-21_1099	10	Bla-af14_6_eusocial-18_3954	6	4	Lasius	eusocial	20.0
+adaptation	Bla-af14_10_Lasius-18	Bla-af14_6_eusocial-18	Bla-af14_10_Lasius-18_1099	10	Bla-af14_6_eusocial-18_3954	6	4	Lasius	eusocial	20.0
+adaptation	Arm-33e3_158_ants-33	Arm-33e3_154_nocturnal-7	Arm-33e3_158_ants-33_4891	158	Arm-33e3_154_nocturnal-7_3967	154	4	army ant	nocturnal	20.0
+adaptation	Bla-af14_10_Lasius-14	Bla-af14_6_eusocial-18	Bla-af14_10_Lasius-14_1099	10	Bla-af14_6_eusocial-18_3954	6	4	Lasius	eusocial	20.0
+adaptation	Bla-af14_2_ant-21	Bla-af14_6_eusocial-18	Bla-af14_2_ant-21_1698	2	Bla-af14_6_eusocial-18_3954	6	4	Black garden ant	eusocial	20.0
+adaptation	Bla-af14_65_ant-3	Bla-af14_61_eusocial-37	Bla-af14_65_ant-3_4689	65	Bla-af14_61_eusocial-37_3954	61	4	black garden ant	eusocial	20.0
+adaptation	Bum-e9d6_249_bumblebees-9	Bum-e9d6_245_pollinators-13	Bum-e9d6_249_bumblebees-9_3823	249	Bum-e9d6_245_pollinators-13_3974	245	4	buff-tailed bumblebee	pollinator	20.0
+adaptation	Bla-af14_2_ant-16	Bla-af14_6_eusocial-18	Bla-af14_2_ant-16_1698	2	Bla-af14_6_eusocial-18_3954	6	4	Black garden ant	eusocial	20.0
+adaptation	Bum-e9d6_242_bumblebees-9	Bum-e9d6_245_pollinators-13	Bum-e9d6_242_bumblebees-9_68	242	Bum-e9d6_245_pollinators-13_3974	245	3	Buff-tailed bumblebee	pollinator	18.75
+adaptation	Bum-e9d6_242_bumblebees-9	Bum-e9d6_239_pollinators-29	Bum-e9d6_242_bumblebees-9_3823	242	Bum-e9d6_239_pollinators-29_3974	239	3	buff-tailed bumblebee	pollinator	18.75
+adaptation	Bum-e9d6_242_bumblebees-9	Bum-e9d6_239_pollinators-9	Bum-e9d6_242_bumblebees-9_3823	242	Bum-e9d6_239_pollinators-9_3974	239	3	buff-tailed bumblebee	pollinator	18.75
+adaptation	Att-e7de_10_Atta-5	Att-e7de_14_polymorphism-5	Att-e7de_10_Atta-5_1595	10	Att-e7de_14_polymorphism-5_3976	14	4	Atta	polymorphism	17.4
+adaptation	Arg-ab8e_28_crabro-14	Arg-ab8e_24_predator-6	Arg-ab8e_28_crabro-14_2211	28	Arg-ab8e_24_predator-6_3977	24	4	Vespa crabro	predator	17.4
+adaptation	Eci-644a_13_burchellii-7	Eci-644a_17_social-10	Eci-644a_13_burchellii-7_2095	13	Eci-644a_17_social-10_3788	17	4	Eciton burchellii	social	17.4
+adaptation	For-53a6_65_lugubris-2	For-53a6_61_predators-8	For-53a6_65_lugubris-2_2290	65	For-53a6_61_predators-8_3977	61	4	Formica lugubris	predator	17.4
+adaptation	Eci-644a_129_burchellii-2	Eci-644a_125_Social-1	Eci-644a_129_burchellii-2_2095	129	Eci-644a_125_Social-1_3788	125	4	Eciton burchellii	social	17.4
+adaptation	Ves-d414_2_wasp-8	Ves-d414_7_eusocial-5	Ves-d414_2_wasp-8_5593	2	Ves-d414_7_eusocial-5_3954	7	5	common wasp	eusocial	16.667
+adaptation	Bla-af14_11_ant-3	Bla-af14_6_eusocial-18	Bla-af14_11_ant-3_1698	11	Bla-af14_6_eusocial-18_3954	6	5	Black garden ant	eusocial	16.667
+adaptation	Bla-af14_65_ant-3	Bla-af14_70_investment-14	Bla-af14_65_ant-3_4689	65	Bla-af14_70_investment-14_3971	70	5	black garden ant	parental investment	16.667
+adaptation	Bum-e9d6_249_bumblebees-9	Bum-e9d6_244_pollinators-24	Bum-e9d6_249_bumblebees-9_3823	249	Bum-e9d6_244_pollinators-24_3974	244	5	buff-tailed bumblebee	pollinator	16.667
+adaptation	Swa-27b4_175_ant-17	Swa-27b4_180_swarming-2	Swa-27b4_175_ant-17_4891	175	Swa-27b4_180_swarming-2_3983	180	5	army ant	swarming	16.667
+adaptation	Swa-27b4_175_ants-2	Swa-27b4_180_swarming-2	Swa-27b4_175_ants-2_4891	175	Swa-27b4_180_swarming-2_3983	180	5	army ant	swarming	16.667
+adaptation	Arm-33e3_149_ants-5	Arm-33e3_154_nocturnal-7	Arm-33e3_149_ants-5_4891	149	Arm-33e3_154_nocturnal-7_3967	154	5	army ant	nocturnal	16.667
+adaptation	Bla-af14_1_ant-3	Bla-af14_6_eusocial-18	Bla-af14_1_ant-3_4689	1	Bla-af14_6_eusocial-18_3954	6	5	black garden ant	eusocial	16.667
+adaptation	Lea-7e84_79_ant-2	Lea-7e84_75_communication-5	Lea-7e84_79_ant-2_1596	79	Lea-7e84_75_communication-5_3790	75	4	Leafcutter ants	chemical communication	16.6
+adaptation	Hor-8eda_6_hornet-14	Hor-8eda_2_eusocial-14	Hor-8eda_6_hornet-14_2212	6	Hor-8eda_2_eusocial-14_3954	2	4	European hornet	eusocial	16.6
+adaptation	Eur-0e68_9_hornets-2	Eur-0e68_13_eusocial-17	Eur-0e68_9_hornets-2_2212	9	Eur-0e68_13_eusocial-17_3954	13	4	European hornet	eusocial	16.6
+adaptation	Lea-7e84_24_ant-2	Lea-7e84_28_polymorphism-10	Lea-7e84_24_ant-2_1596	24	Lea-7e84_28_polymorphism-10_3976	28	4	Leafcutter ants	polymorphism	16.6
+adaptation	Eur-0e68_17_hornet-2	Eur-0e68_13_eusocial-17	Eur-0e68_17_hornet-2_2212	17	Eur-0e68_13_eusocial-17_3954	13	4	European hornet	eusocial	16.6
+adaptation	Pol-516e_180_bee-13	Pol-516e_183_Pollinator-1	Pol-516e_180_bee-13_2207	180	Pol-516e_183_Pollinator-1_356	183	3	European honey bee	Pollinator	16.5
+adaptation	Pol-516e_180_bee-13	Pol-516e_177_Pollinator-1	Pol-516e_180_bee-13_2207	180	Pol-516e_177_Pollinator-1_356	177	3	European honey bee	Pollinator	16.5
+adaptation	Pol-516e_156_bee-6	Pol-516e_159_Pollinator-1	Pol-516e_156_bee-6_2207	156	Pol-516e_159_Pollinator-1_356	159	3	European honey bee	Pollinator	16.5
+adaptation	Pac-29db_8_ants-6	Pac-29db_5_hunter-5	Pac-29db_8_ants-6_4891	8	Pac-29db_5_hunter-5_351	5	3	army ant	Pack-hunter	16.5
+adaptation	Pac-29db_8_ants-6	Pac-29db_5_hunters-17	Pac-29db_8_ants-6_4891	8	Pac-29db_5_hunters-17_351	5	3	army ant	Pack-hunter	16.5
+adaptation	Pol-516e_179_bee-18	Pol-516e_182_Pollinator-1	Pol-516e_179_bee-18_2207	179	Pol-516e_182_Pollinator-1_356	182	3	European honey bee	Pollinator	16.5
+adaptation	Pol-516e_179_bee-18	Pol-516e_176_Pollinator-1	Pol-516e_179_bee-18_2207	179	Pol-516e_176_Pollinator-1_356	176	3	European honey bee	Pollinator	16.5
+adaptation	Att-e7de_9_Atta-1	Att-e7de_14_polymorphism-5	Att-e7de_9_Atta-1_1595	9	Att-e7de_14_polymorphism-5_3976	14	5	Atta	polymorphism	14.5
+adaptation	Att-e7de_19_Atta-4	Att-e7de_14_polymorphism-5	Att-e7de_19_Atta-4_1595	19	Att-e7de_14_polymorphism-5_3976	14	5	Atta	polymorphism	14.5
+adaptation	For-53a6_66_lugubris-2	For-53a6_61_predators-8	For-53a6_66_lugubris-2_2290	66	For-53a6_61_predators-8_3977	61	5	Formica lugubris	predator	14.5
+adaptation	Spi-7da6_54_wasp-5	Spi-7da6_48_predators-11	Spi-7da6_54_wasp-5_5506	54	Spi-7da6_48_predators-11_3977	48	6	spider wasps	predator	14.286
+adaptation	Arm-33e3_186_ants-21	Arm-33e3_180_Social-1	Arm-33e3_186_ants-21_2094	186	Arm-33e3_180_Social-1_3788	180	6	Army ant	social	14.286
+adaptation	Spi-7da6_108_wasps-3	Spi-7da6_102_predators-15	Spi-7da6_108_wasps-3_3398	108	Spi-7da6_102_predators-15_359	102	6	Spider wasps	Predator	14.286
+adaptation	Ves-d414_214_wasps-4	Ves-d414_208_predator-13	Ves-d414_214_wasps-4_3607	214	Ves-d414_208_predator-13_359	208	6	Common wasp	Predator	14.286
+adaptation	For-fc8f_46_Formica-1	For-fc8f_40_eusocial-3	For-fc8f_46_Formica-1_1035	46	For-fc8f_40_eusocial-3_3954	40	6	Formica	eusocial	14.286
+adaptation	Ves-d414_200_wasps-30	Ves-d414_206_predators-7	Ves-d414_200_wasps-30_5593	200	Ves-d414_206_predators-7_3977	206	6	common wasp	predator	14.286
+adaptation	Bla-af14_76_ant-3	Bla-af14_70_investment-14	Bla-af14_76_ant-3_4689	76	Bla-af14_70_investment-14_353	70	6	black garden ant	Parental investment	14.286
+adaptation	Bla-af14_55_ant-3	Bla-af14_61_eusocial-37	Bla-af14_55_ant-3_4689	55	Bla-af14_61_eusocial-37_3954	61	6	black garden ant	eusocial	14.286
+adaptation	Bla-af14_12_ant-3	Bla-af14_6_eusocial-18	Bla-af14_12_ant-3_4689	12	Bla-af14_6_eusocial-18_3954	6	6	black garden ant	eusocial	14.286
+adaptation	Ves-d414_200_wasp-12	Ves-d414_206_predators-7	Ves-d414_200_wasp-12_3607	200	Ves-d414_206_predators-7_3977	206	6	Common wasp	predator	14.286
+adaptation	Pol-516e_28_bumblebees-4	Pol-516e_22_Pollinator-1	Pol-516e_28_bumblebees-4_4265	28	Pol-516e_22_Pollinator-1_356	22	6	bumblebees	Pollinator	14.286
+adaptation	Lea-7e84_80_ants-9	Lea-7e84_75_communication-5	Lea-7e84_80_ants-9_4640	80	Lea-7e84_75_communication-5_3790	75	5	leafcutter ants	chemical communication	13.833
+adaptation	Wes-8d71_198_bee-3	Wes-8d71_193_communication-7	Wes-8d71_198_bee-3_2209	198	Wes-8d71_193_communication-7_3790	193	5	Western honey bee	chemical communication	13.833
+adaptation	Asi-8957_272_wasp-49	Asi-8957_267_predator-24	Asi-8957_272_wasp-49_3609	272	Asi-8957_267_predator-24_3977	267	5	European wasp	predator	13.833
+adaptation	Asi-8957_272_wasp-45	Asi-8957_267_predator-24	Asi-8957_272_wasp-45_3609	272	Asi-8957_267_predator-24_3977	267	5	European wasp	predator	13.833
+adaptation	Bum-e9d6_34_bee-4	Bum-e9d6_39_eusocial-37	Bum-e9d6_34_bee-4_4266	34	Bum-e9d6_39_eusocial-37_3954	39	5	bumble bee	eusocial	13.833
+adaptation	Bum-e9d6_34_bee-4	Bum-e9d6_39_eusocial-2	Bum-e9d6_34_bee-4_4266	34	Bum-e9d6_39_eusocial-2_3954	39	5	bumble bee	eusocial	13.833
+adaptation	Wes-8d71_27_bee-3	Wes-8d71_31_swarming-11	Wes-8d71_27_bee-3_2207	27	Wes-8d71_31_swarming-11_3983	31	4	European honey bee	swarming	13.2
+adaptation	Pol-516e_179_bee-18	Pol-516e_183_Pollinator-1	Pol-516e_179_bee-18_2207	179	Pol-516e_183_Pollinator-1_356	183	4	European honey bee	Pollinator	13.2
+adaptation	Pol-516e_180_bee-13	Pol-516e_176_Pollinator-1	Pol-516e_180_bee-13_2207	180	Pol-516e_176_Pollinator-1_356	176	4	European honey bee	Pollinator	13.2
+adaptation	Asi-8957_146_hornet-3	Asi-8957_139_hibernation-6	Asi-8957_146_hornet-3_2210	146	Asi-8957_139_hibernation-6_338	139	7	Hornet	Hibernation	12.5
+adaptation	Bla-af14_77_ant-3	Bla-af14_70_investment-14	Bla-af14_77_ant-3_4689	77	Bla-af14_70_investment-14_353	70	7	black garden ant	Parental investment	12.5
+adaptation	Arm-33e3_58_ants-12	Arm-33e3_51_nomadic-10	Arm-33e3_58_ants-12_4891	58	Arm-33e3_51_nomadic-10_3786	51	7	army ant	nomadic	12.5
+adaptation	Ves-d414_14_wasp-28	Ves-d414_7_eusocial-5	Ves-d414_14_wasp-28_3607	14	Ves-d414_7_eusocial-5_3954	7	7	Common wasp	eusocial	12.5
+adaptation	Bum-e9d6_242_bumblebees-9	Bum-e9d6_237_pollinators-4	Bum-e9d6_242_bumblebees-9_3823	242	Bum-e9d6_237_pollinators-4_3974	237	5	buff-tailed bumblebee	pollinator	12.5
+adaptation	Pol-516e_102_bumblebees-13	Pol-516e_109_Pollinator-1	Pol-516e_102_bumblebees-13_4265	102	Pol-516e_109_Pollinator-1_356	109	7	bumblebees	Pollinator	12.5
+taxongroup	Amea6a7_1_bees-8	Amea6a7_1_bees-8	Amea6a7_1_bees-8_1482	1	Amea6a7_1_bees-8_4040	1	0	Amegilla bees	bees 	100.0
+taxongroup	Bla-af14_14_ant-3	Bla-af14_14_ant-3	Bla-af14_14_ant-3_4689	14	Bla-af14_14_ant-3_4038	14	0	black garden ant	ants	100.0
+taxongroup	Las1d91_6_ant-25	Las1d91_6_Lasius-1	Las1d91_6_ant-25_4689	6	Las1d91_6_Lasius-1_1099	6	0	black garden ant	Lasius	100.0
+taxongroup	Las1d91_6_ants-6	Las1d91_6_Lasius-1	Las1d91_6_ants-6_4689	6	Las1d91_6_Lasius-1_1099	6	0	black garden ant	Lasius	100.0
+taxongroup	Bla-af14_55_ant-3	Bla-af14_55_ant-3	Bla-af14_55_ant-3_4689	55	Bla-af14_55_ant-3_4038	55	0	black garden ant	ants	100.0
+taxongroup	Bla-af14_44_ant-3	Bla-af14_44_ant-3	Bla-af14_44_ant-3_4689	44	Bla-af14_44_ant-3_4038	44	0	black garden ant	ants	100.0
+taxongroup	Bla-af14_32_ant-3	Bla-af14_32_ant-3	Bla-af14_32_ant-3_4689	32	Bla-af14_32_ant-3_4038	32	0	black garden ant	ants	100.0
+taxongroup	Yel-efa8_13_ant-28	Yel-efa8_13_ant-28	Yel-efa8_13_ant-28_4689	13	Yel-efa8_13_ant-28_4038	13	0	black garden ant	ants	100.0
+taxongroup	Bla-af14_23_ant-3	Bla-af14_23_ant-3	Bla-af14_23_ant-3_4689	23	Bla-af14_23_ant-3_4038	23	0	black garden ant	ants	100.0
+taxongroup	Bla-af14_12_ant-3	Bla-af14_12_ant-3	Bla-af14_12_ant-3_4689	12	Bla-af14_12_ant-3_4038	12	0	black garden ant	ants	100.0
+taxongroup	Las1d91_6_ant-25	Las1d91_6_ants-6	Las1d91_6_ant-25_4689	6	Las1d91_6_ants-6_4038	6	0	black garden ant	ants	100.0
+taxongroup	Las1d91_6_ant-35	Las1d91_6_ant-25	Las1d91_6_ant-35_4689	6	Las1d91_6_ant-25_4038	6	0	black garden ant	ants	100.0
+taxongroup	Las1d91_6_ant-25	Las1d91_6_ant-25	Las1d91_6_ant-25_4689	6	Las1d91_6_ant-25_4038	6	0	black garden ant	ants	100.0
+taxongroup	Bla-af14_60_ant-3	Bla-af14_60_ant-3	Bla-af14_60_ant-3_4689	60	Bla-af14_60_ant-3_4038	60	0	black garden ant	ants	100.0
+taxongroup	Bla-af14_77_ant-3	Bla-af14_77_ant-3	Bla-af14_77_ant-3_4689	77	Bla-af14_77_ant-3_4038	77	0	black garden ant	ants	100.0
+taxongroup	Bla-af14_1_ant-3	Bla-af14_1_ant-3	Bla-af14_1_ant-3_4689	1	Bla-af14_1_ant-3_4038	1	0	black garden ant	ants	100.0
+taxongroup	Bum-e9d6_331_bumblebees-15	Bum-e9d6_331_Insects-22	Bum-e9d6_331_bumblebees-15_4265	331	Bum-e9d6_331_Insects-22_397	331	0	bumblebees	Insects	100.0
+taxongroup	Bla-af14_65_ant-3	Bla-af14_65_ant-3	Bla-af14_65_ant-3_4689	65	Bla-af14_65_ant-3_4038	65	0	black garden ant	ants	100.0
+taxongroup	Bla-af14_76_ant-3	Bla-af14_76_ant-3	Bla-af14_76_ant-3_4689	76	Bla-af14_76_ant-3_4038	76	0	black garden ant	ants	100.0
+taxongroup	Las1d91_6_ant-25	Las1d91_6_ant-35	Las1d91_6_ant-25_4689	6	Las1d91_6_ant-35_4038	6	0	black garden ant	ants	100.0
+taxongroup	Las1d91_6_ants-6	Las1d91_6_ants-6	Las1d91_6_ants-6_4689	6	Las1d91_6_ants-6_4038	6	0	black garden ant	ants	100.0
+taxongroup	Las1d91_6_ant-35	Las1d91_6_ant-35	Las1d91_6_ant-35_4689	6	Las1d91_6_ant-35_4038	6	0	black garden ant	ants	100.0
+taxongroup	Las1d91_6_ant-35	Las1d91_6_ants-6	Las1d91_6_ant-35_4689	6	Las1d91_6_ants-6_4038	6	0	black garden ant	ants	100.0
+taxongroup	Las1d91_6_ants-6	Las1d91_6_ant-25	Las1d91_6_ants-6_4689	6	Las1d91_6_ant-25_4038	6	0	black garden ant	ants	100.0
+taxongroup	Las1d91_6_ants-6	Las1d91_6_ant-35	Las1d91_6_ants-6_4689	6	Las1d91_6_ant-35_4038	6	0	black garden ant	ants	100.0
+taxongroup	Bum-e9d6_249_bumblebees-9	Bum-e9d6_249_bumblebees-9	Bum-e9d6_249_bumblebees-9_3823	249	Bum-e9d6_249_bumblebees-9_4265	249	0	buff-tailed bumblebee	bumblebees	100.0
+taxongroup	Par-e8bc_140_bumblebees-20	Par-e8bc_140_animals-12	Par-e8bc_140_bumblebees-20_4265	140	Par-e8bc_140_animals-12_44	140	0	bumblebees	Animals	100.0
+taxongroup	Mam-3742_14_bumblebee-13	Mam-3742_14_animal-28	Mam-3742_14_bumblebee-13_4265	14	Mam-3742_14_animal-28_44	14	0	bumblebees	Animals	100.0
+taxongroup	Bum-e9d6_221_bumblebees-3	Bum-e9d6_221_animals-19	Bum-e9d6_221_bumblebees-3_4265	221	Bum-e9d6_221_animals-19_44	221	0	bumblebees	Animals	100.0
+taxongroup	Bum-e9d6_6_bumblebees-2	Bum-e9d6_6_animals-13	Bum-e9d6_6_bumblebees-2_4265	6	Bum-e9d6_6_animals-13_44	6	0	bumblebees	Animals	100.0
+taxongroup	Las1d91_6_ant-35	Las1d91_6_Lasius-1	Las1d91_6_ant-35_4689	6	Las1d91_6_Lasius-1_1099	6	0	black garden ant	Lasius	100.0
+taxongroup	Acc-0f45_117_bees-22	Acc-0f45_117_insects-17	Acc-0f45_117_bees-22_4040	117	Acc-0f45_117_insects-17_4008	117	0	bees 	insects	100.0
+taxongroup	Mam-3742_508_bees-6	Mam-3742_508_insects-2	Mam-3742_508_bees-6_4040	508	Mam-3742_508_insects-2_4008	508	0	bees 	insects	100.0
+taxongroup	Pol-516e_24_Bees-3	Pol-516e_24_Insects-1	Pol-516e_24_Bees-3_4040	24	Pol-516e_24_Insects-1_4008	24	0	bees 	insects	100.0
+taxongroup	Pol-516e_70_bees-5	Pol-516e_70_insects-2	Pol-516e_70_bees-5_4040	70	Pol-516e_70_insects-2_4008	70	0	bees 	insects	100.0
+taxongroup	Pol-516e_4_bees-17	Pol-516e_4_Insects-1	Pol-516e_4_bees-17_4040	4	Pol-516e_4_Insects-1_4008	4	0	bees 	insects	100.0
+taxongroup	Odo-661a_34_bees-12	Odo-661a_34_insects-8	Odo-661a_34_bees-12_4040	34	Odo-661a_34_insects-8_4008	34	0	bees 	insects	100.0
+taxongroup	Mim-33dd_104_bees-15	Mim-33dd_104_insects-8	Mim-33dd_104_bees-15_4040	104	Mim-33dd_104_insects-8_4008	104	0	bees 	insects	100.0
+taxongroup	Col-e01a_51_bees-11	Col-e01a_51_insects-6	Col-e01a_51_bees-11_4040	51	Col-e01a_51_insects-6_4008	51	0	bees 	insects	100.0
+taxongroup	Col-e01a_21_bees-7	Col-e01a_21_insects-2	Col-e01a_21_bees-7_4040	21	Col-e01a_21_insects-2_4008	21	0	bees 	insects	100.0
+taxongroup	Bum-e9d6_331_bumblebees-15	Bum-e9d6_331_Hymenoptera-30	Bum-e9d6_331_bumblebees-15_4265	331	Bum-e9d6_331_Hymenoptera-30_2573	331	0	bumblebees	Hymenoptera	100.0
+taxongroup	Ame-04b4_19_bees-2	Ame-04b4_19_bees-2	Ame-04b4_19_bees-2_1482	19	Ame-04b4_19_bees-2_4040	19	0	Amegilla bees	bees 	100.0
+taxongroup	Bee-ace3_6_bumblebees-8	Bee-ace3_6_bees-38	Bee-ace3_6_bumblebees-8_4265	6	Bee-ace3_6_bees-38_4040	6	0	bumblebees	bees 	100.0
+taxongroup	Api-6647_3_bumblebees-13	Api-6647_3_bees-32	Api-6647_3_bumblebees-13_4265	3	Api-6647_3_bees-32_4040	3	0	bumblebees	bees 	100.0
+taxongroup	Api-6647_3_bumblebees-13	Api-6647_3_bees-22	Api-6647_3_bumblebees-13_4265	3	Api-6647_3_bees-22_4040	3	0	bumblebees	bees 	100.0
+taxongroup	Pol-516e_41_bumblebees-41	Pol-516e_41_bees-17	Pol-516e_41_bumblebees-41_4265	41	Pol-516e_41_bees-17_4040	41	0	bumblebees	bees 	100.0
+taxongroup	Pol-516e_102_bumblebees-13	Pol-516e_102_bees-2	Pol-516e_102_bumblebees-13_4265	102	Pol-516e_102_bees-2_4040	102	0	bumblebees	bees 	100.0
+taxongroup	Api-6647_3_bumblebees-13	Api-6647_3_bees-16	Api-6647_3_bumblebees-13_4265	3	Api-6647_3_bees-16_4040	3	0	bumblebees	bees 	100.0
+taxongroup	Pol-516e_41_bumblebees-41	Pol-516e_41_bees-50	Pol-516e_41_bumblebees-41_4265	41	Pol-516e_41_bees-50_4040	41	0	bumblebees	bees 	100.0
+taxongroup	Api-6647_3_bumblebees-13	Api-6647_3_bees-10	Api-6647_3_bumblebees-13_4265	3	Api-6647_3_bees-10_4040	3	0	bumblebees	bees 	100.0
+taxongroup	Api-6647_12_bumblebees-8	Api-6647_12_bees-14	Api-6647_12_bumblebees-8_4265	12	Api-6647_12_bees-14_4040	12	0	bumblebees	bees 	100.0
+taxongroup	Api-6647_14_bumblebees-10	Api-6647_14_bees-7	Api-6647_14_bumblebees-10_4265	14	Api-6647_14_bees-7_4040	14	0	bumblebees	bees 	100.0
+taxongroup	Api-6647_14_bumblebees-10	Api-6647_14_bees-4	Api-6647_14_bumblebees-10_4265	14	Api-6647_14_bees-4_4040	14	0	bumblebees	bees 	100.0
+taxongroup	Api-6647_3_bumblebees-13	Api-6647_3_bees-35	Api-6647_3_bumblebees-13_4265	3	Api-6647_3_bees-35_4040	3	0	bumblebees	bees 	100.0
+taxongroup	Api-6647_12_bumblebees-8	Api-6647_12_bees-11	Api-6647_12_bumblebees-8_4265	12	Api-6647_12_bees-11_4040	12	0	bumblebees	bees 	100.0
+taxongroup	Api32bc_7_bumblebees-12	Api32bc_7_bees-10	Api32bc_7_bumblebees-12_4265	7	Api32bc_7_bees-10_4040	7	0	bumblebees	bees 	100.0
+taxongroup	Bee-ace3_6_bumblebees-8	Bee-ace3_6_bees-6	Bee-ace3_6_bumblebees-8_4265	6	Bee-ace3_6_bees-6_4040	6	0	bumblebees	bees 	100.0
+taxongroup	Bum2d62_56_bumblebee-4	Bum2d62_56_bees-11	Bum2d62_56_bumblebee-4_4265	56	Bum2d62_56_bees-11_4040	56	0	bumblebees	bees 	100.0
+taxongroup	Bom-c423_293_bumblebee-55	Bom-c423_293_bees-22	Bom-c423_293_bumblebee-55_4265	293	Bom-c423_293_bees-22_4040	293	0	bumblebees	bees 	100.0
+taxongroup	Bom-c423_84_bumblebees-17	Bom-c423_84_bees-41	Bom-c423_84_bumblebees-17_4265	84	Bom-c423_84_bees-41_4040	84	0	bumblebees	bees 	100.0
+taxongroup	Bee-ace3_162_bumblebees-26	Bee-ace3_162_bees-29	Bee-ace3_162_bumblebees-26_4265	162	Bee-ace3_162_bees-29_4040	162	0	bumblebees	bees 	100.0
+taxongroup	Bee-ace3_162_bumblebees-26	Bee-ace3_162_bees-16	Bee-ace3_162_bumblebees-26_4265	162	Bee-ace3_162_bees-16_4040	162	0	bumblebees	bees 	100.0
+taxongroup	Bee-ace3_122_bumblebees-36	Bee-ace3_122_bees-3	Bee-ace3_122_bumblebees-36_4265	122	Bee-ace3_122_bees-3_4040	122	0	bumblebees	bees 	100.0
+taxongroup	Bee-ace3_6_bumblebees-8	Bee-ace3_6_bees-34	Bee-ace3_6_bumblebees-8_4265	6	Bee-ace3_6_bees-34_4040	6	0	bumblebees	bees 	100.0
+taxongroup	Bee-ace3_6_bumblebees-8	Bee-ace3_6_bees-31	Bee-ace3_6_bumblebees-8_4265	6	Bee-ace3_6_bees-31_4040	6	0	bumblebees	bees 	100.0
+taxongroup	Bee-ace3_6_bumblebees-8	Bee-ace3_6_bees-28	Bee-ace3_6_bumblebees-8_4265	6	Bee-ace3_6_bees-28_4040	6	0	bumblebees	bees 	100.0
+taxongroup	Bee-ace3_6_bumblebees-8	Bee-ace3_6_bees-12	Bee-ace3_6_bumblebees-8_4265	6	Bee-ace3_6_bees-12_4040	6	0	bumblebees	bees 	100.0
+taxongroup	Bee-ace3_122_bumblebees-36	Bee-ace3_122_bees-33	Bee-ace3_122_bumblebees-36_4265	122	Bee-ace3_122_bees-33_4040	122	0	bumblebees	bees 	100.0
+taxongroup	Bum-e9d6_13_bumblebees-11	Bum-e9d6_13_insects-2	Bum-e9d6_13_bumblebees-11_4265	13	Bum-e9d6_13_insects-2_4008	13	0	bumblebees	insects	100.0
+taxongroup	Dom-6f87_171_bumblebee-18	Dom-6f87_171_insects-3	Dom-6f87_171_bumblebee-18_4265	171	Dom-6f87_171_insects-3_4008	171	0	bumblebees	insects	100.0
+taxongroup	Api-6647_3_bumblebees-13	Api-6647_3_bees-38	Api-6647_3_bumblebees-13_4265	3	Api-6647_3_bees-38_4040	3	0	bumblebees	bees 	100.0
+taxongroup	Bum-e9d6_37_bumblebee-2	Bum-e9d6_37_bees-36	Bum-e9d6_37_bumblebee-2_4265	37	Bum-e9d6_37_bees-36_4040	37	0	bumblebees	bees 	100.0
+taxongroup	Bum-e9d6_116_bumblebees-9	Bum-e9d6_116_bees-7	Bum-e9d6_116_bumblebees-9_4265	116	Bum-e9d6_116_bees-7_4040	116	0	bumblebees	bees 	100.0
+taxongroup	Bum-e9d6_116_bumblebees-9	Bum-e9d6_116_bees-4	Bum-e9d6_116_bumblebees-9_4265	116	Bum-e9d6_116_bees-4_4040	116	0	bumblebees	bees 	100.0
+taxongroup	Pol-516e_28_bumblebees-4	Pol-516e_28_bees-2	Pol-516e_28_bumblebees-4_4265	28	Pol-516e_28_bees-2_4040	28	0	bumblebees	bees 	100.0
+taxongroup	Wes-8d71_398_bumblebees-14	Wes-8d71_398_bees-23	Wes-8d71_398_bumblebees-14_4265	398	Wes-8d71_398_bees-23_4040	398	0	bumblebees	bees 	100.0
+taxongroup	Wes-8d71_397_bumblebees-14	Wes-8d71_397_bees-7	Wes-8d71_397_bumblebees-14_4265	397	Wes-8d71_397_bees-7_4040	397	0	bumblebees	bees 	100.0
+taxongroup	Pol-516e_41_bumblebees-41	Pol-516e_41_bees-6	Pol-516e_41_bumblebees-41_4265	41	Pol-516e_41_bees-6_4040	41	0	bumblebees	bees 	100.0
+taxongroup	Mas-1837_15_bumblebees-8	Mas-1837_15_bees-31	Mas-1837_15_bumblebees-8_4265	15	Mas-1837_15_bees-31_4040	15	0	bumblebees	bees 	100.0
+taxongroup	Bum-e9d6_37_bumblebee-2	Bum-e9d6_37_bees-12	Bum-e9d6_37_bumblebee-2_4265	37	Bum-e9d6_37_bees-12_4040	37	0	bumblebees	bees 	100.0
+taxongroup	Bum-e9d6_79_bumblebees-19	Bum-e9d6_79_bees-2	Bum-e9d6_79_bumblebees-19_4265	79	Bum-e9d6_79_bees-2_4040	79	0	bumblebees	bees 	100.0
+taxongroup	Bum-e9d6_231_bumblebee-3	Bum-e9d6_231_bees-24	Bum-e9d6_231_bumblebee-3_4265	231	Bum-e9d6_231_bees-24_4040	231	0	bumblebees	bees 	100.0
+taxongroup	Bum-e9d6_90_bumblebees-20	Bum-e9d6_90_Bees-1	Bum-e9d6_90_bumblebees-20_4265	90	Bum-e9d6_90_Bees-1_4040	90	0	bumblebees	bees 	100.0
+taxongroup	Pol-516e_41_bumblebees-41	Pol-516e_41_bees-45	Pol-516e_41_bumblebees-41_4265	41	Pol-516e_41_bees-45_4040	41	0	bumblebees	bees 	100.0
+taxongroup	Pas-a544_21_bumblebees-5	Pas-a544_21_bees-8	Pas-a544_21_bumblebees-5_4265	21	Pas-a544_21_bees-8_4040	21	0	bumblebees	bees 	100.0
+taxongroup	Par-e8bc_141_bumblebee-25	Par-e8bc_141_bees-32	Par-e8bc_141_bumblebee-25_4265	141	Par-e8bc_141_bees-32_4040	141	0	bumblebees	bees 	100.0
+taxongroup	Mas-1837_15_bumblebees-8	Mas-1837_15_bees-3	Mas-1837_15_bumblebees-8_4265	15	Mas-1837_15_bees-3_4040	15	0	bumblebees	bees 	100.0
+taxongroup	Flo0d28_14_bumblebee-5	Flo0d28_14_bees-26	Flo0d28_14_bumblebee-5_4265	14	Flo0d28_14_bees-26_4040	14	0	bumblebees	bees 	100.0
+taxongroup	Bum-e9d6_254_bumblebees-18	Bum-e9d6_254_bees-36	Bum-e9d6_254_bumblebees-18_4265	254	Bum-e9d6_254_bees-36_4040	254	0	bumblebees	bees 	100.0
+taxongroup	Bum-e9d6_76_bumblebee-39	Bum-e9d6_76_bees-18	Bum-e9d6_76_bumblebee-39_4265	76	Bum-e9d6_76_bees-18_4040	76	0	bumblebees	bees 	100.0
+taxongroup	Api32bc_7_bumblebees-12	Api32bc_7_Bees-1	Api32bc_7_bumblebees-12_4265	7	Api32bc_7_Bees-1_4040	7	0	bumblebees	bees 	100.0
+taxongroup	Api32bc_7_bumblebees-12	Api32bc_7_bees-25	Api32bc_7_bumblebees-12_4265	7	Api32bc_7_bees-25_4040	7	0	bumblebees	bees 	100.0
+taxongroup	Api-6647_12_bumblebees-8	Api-6647_12_bees-18	Api-6647_12_bumblebees-8_4265	12	Api-6647_12_bees-18_4040	12	0	bumblebees	bees 	100.0
+taxongroup	Api-6647_12_bumblebees-8	Api-6647_12_bees-6	Api-6647_12_bumblebees-8_4265	12	Api-6647_12_bees-6_4040	12	0	bumblebees	bees 	100.0
+taxongroup	Bum-e9d6_182_bumblebees-4	Bum-e9d6_182_bees-26	Bum-e9d6_182_bumblebees-4_4265	182	Bum-e9d6_182_bees-26_4040	182	0	bumblebees	bees 	100.0
+taxongroup	Bum-e9d6_37_bumblebee-2	Bum-e9d6_37_bees-30	Bum-e9d6_37_bumblebee-2_4265	37	Bum-e9d6_37_bees-30_4040	37	0	bumblebees	bees 	100.0
+taxongroup	Bum-e9d6_61_bumblebees-27	Bum-e9d6_61_bees-40	Bum-e9d6_61_bumblebees-27_4265	61	Bum-e9d6_61_bees-40_4040	61	0	bumblebees	bees 	100.0
+taxongroup	Bum-e9d6_61_bumblebees-27	Bum-e9d6_61_bees-30	Bum-e9d6_61_bumblebees-27_4265	61	Bum-e9d6_61_bees-30_4040	61	0	bumblebees	bees 	100.0
+taxongroup	Bum-e9d6_89_bumblebee-9	Bum-e9d6_89_bees-16	Bum-e9d6_89_bumblebee-9_4265	89	Bum-e9d6_89_bees-16_4040	89	0	bumblebees	bees 	100.0
+taxongroup	Ame-35ae_258_bees-12	Ame-35ae_258_insects-8	Ame-35ae_258_bees-12_4040	258	Ame-35ae_258_insects-8_4008	258	0	bees 	insects	100.0
+taxongroup	Ant-938d_2_bees-17	Ant-938d_2_insects-4	Ant-938d_2_bees-17_4040	2	Ant-938d_2_insects-4_4008	2	0	bees 	insects	100.0
+taxongroup	Ase-acb4_76_bees-24	Ase-acb4_76_insects-19	Ase-acb4_76_bees-24_4040	76	Ase-acb4_76_insects-19_4008	76	0	bees 	insects	100.0
+taxongroup	Eus-5ea1_9_bees-11	Eus-5ea1_9_ants-9	Eus-5ea1_9_bees-11_4040	9	Eus-5ea1_9_ants-9_2572	9	0	bees 	Ants, bees and wasps	100.0
+taxongroup	Col-e01a_13_bees-6	Col-e01a_13_animals-30	Col-e01a_13_bees-6_4040	13	Col-e01a_13_animals-30_44	13	0	bees 	Animals	100.0
+taxongroup	Ani-2170_64_bees-34	Ani-2170_64_animals-8	Ani-2170_64_bees-34_4040	64	Ani-2170_64_animals-8_44	64	0	bees 	Animals	100.0
+taxongroup	Col-e01a_21_bees-7	Col-e01a_21_animals-10	Col-e01a_21_bees-7_4040	21	Col-e01a_21_animals-10_44	21	0	bees 	Animals	100.0
+taxongroup	Meg-83a4_4_bees-12	Meg-83a4_4_animal-37	Meg-83a4_4_bees-12_4040	4	Meg-83a4_4_animal-37_44	4	0	bees 	Animals	100.0
+taxongroup	Meg-83a4_4_bees-61	Meg-83a4_4_animal-37	Meg-83a4_4_bees-61_4040	4	Meg-83a4_4_animal-37_44	4	0	bees 	Animals	100.0
+taxongroup	Meg-83a4_4_bees-9	Meg-83a4_4_animal-37	Meg-83a4_4_bees-9_4040	4	Meg-83a4_4_animal-37_44	4	0	bees 	Animals	100.0
+taxongroup	Meg-83a4_4_bees-46	Meg-83a4_4_animal-37	Meg-83a4_4_bees-46_4040	4	Meg-83a4_4_animal-37_44	4	0	bees 	Animals	100.0
+taxongroup	Par-5c6e_6_bees-32	Par-5c6e_6_animal-11	Par-5c6e_6_bees-32_4040	6	Par-5c6e_6_animal-11_44	6	0	bees 	Animals	100.0
+taxongroup	Sem2e6d_24_bees-29	Sem2e6d_24_Animals-1	Sem2e6d_24_bees-29_4040	24	Sem2e6d_24_Animals-1_44	24	0	bees 	Animals	100.0
+taxongroup	Pre-b54c_37_bees-40	Pre-b54c_37_animals-28	Pre-b54c_37_bees-40_4040	37	Pre-b54c_37_animals-28_44	37	0	bees 	Animals	100.0
+taxongroup	Pol4c2e_37_Bees-1	Pol4c2e_37_animals-16	Pol4c2e_37_Bees-1_4040	37	Pol4c2e_37_animals-16_44	37	0	bees 	Animals	100.0
+taxongroup	Soc-cc7f_57_bees-11	Soc-cc7f_57_ants-9	Soc-cc7f_57_bees-11_4040	57	Soc-cc7f_57_ants-9_2572	57	0	bees 	Ants, bees and wasps	100.0
+taxongroup	Eus-5ea1_44_bees-15	Eus-5ea1_44_ants-13	Eus-5ea1_44_bees-15_4040	44	Eus-5ea1_44_ants-13_2572	44	0	bees 	Ants, bees and wasps	100.0
+taxongroup	Ter-605f_129_bees-4	Ter-605f_129_ants-2	Ter-605f_129_bees-4_4040	129	Ter-605f_129_ants-2_2572	129	0	bees 	Ants, bees and wasps	100.0
+taxongroup	Bee-ace3_19_bees-5	Bee-ace3_19_insects-19	Bee-ace3_19_bees-5_4040	19	Bee-ace3_19_insects-19_4008	19	0	bees 	insects	100.0
+taxongroup	Bom-c423_9_bees-16	Bom-c423_9_ants-14	Bom-c423_9_bees-16_4040	9	Bom-c423_9_ants-14_2572	9	0	bees 	Ants, bees and wasps	100.0
+taxongroup	Par-5c6e_160_bees-17	Par-5c6e_160_ants-15	Par-5c6e_160_bees-17_4040	160	Par-5c6e_160_ants-15_2572	160	0	bees 	Ants, bees and wasps	100.0
+taxongroup	Pol-db86_160_bees-6	Pol-db86_160_ants-4	Pol-db86_160_bees-6_4040	160	Pol-db86_160_ants-4_2572	160	0	bees 	Ants, bees and wasps	100.0
+taxongroup	Mim-33dd_104_bees-15	Mim-33dd_104_ants-11	Mim-33dd_104_bees-15_4040	104	Mim-33dd_104_ants-11_2572	104	0	bees 	Ants, bees and wasps	100.0
+taxongroup	Wes-8d71_322_bees-23	Wes-8d71_322_Hymenoptera-30	Wes-8d71_322_bees-23_4040	322	Wes-8d71_322_Hymenoptera-30_2573	322	0	bees 	Hymenoptera	100.0
+taxongroup	Hym-42c2_2_bees-15	Hym-42c2_2_Hymenoptera-1	Hym-42c2_2_bees-15_4040	2	Hym-42c2_2_Hymenoptera-1_2573	2	0	bees 	Hymenoptera	100.0
+taxongroup	Hymc9d7_3_bees-4	Hymc9d7_3_Hymenoptera-16	Hymc9d7_3_bees-4_4040	3	Hymc9d7_3_Hymenoptera-16_2573	3	0	bees 	Hymenoptera	100.0
+taxongroup	Eus-5ea1_44_bees-15	Eus-5ea1_44_Hymenoptera-3	Eus-5ea1_44_bees-15_4040	44	Eus-5ea1_44_Hymenoptera-3_2573	44	0	bees 	Hymenoptera	100.0
+taxongroup	Ins-960c_119_bees-8	Ins-960c_119_Hymenoptera-4	Ins-960c_119_bees-8_4040	119	Ins-960c_119_Hymenoptera-4_2573	119	0	bees 	Hymenoptera	100.0
+taxongroup	Ins-960c_54_bees-34	Ins-960c_54_Hymenoptera-27	Ins-960c_54_bees-34_4040	54	Ins-960c_54_Hymenoptera-27_2573	54	0	bees 	Hymenoptera	100.0
+taxongroup	Ter-605f_183_bees-15	Ter-605f_183_Hymenoptera-8	Ter-605f_183_bees-15_4040	183	Ter-605f_183_Hymenoptera-8_2573	183	0	bees 	Hymenoptera	100.0
+taxongroup	Ter-605f_9_bees-6	Ter-605f_9_Hymenoptera-13	Ter-605f_9_bees-6_4040	9	Ter-605f_9_Hymenoptera-13_2573	9	0	bees 	Hymenoptera	100.0
+taxongroup	Ant-938d_27_bees-15	Ant-938d_27_Hymenoptera-8	Ant-938d_27_bees-15_4040	27	Ant-938d_27_Hymenoptera-8_2573	27	0	bees 	Hymenoptera	100.0
+taxongroup	Broe6e5_4_bees-32	Broe6e5_4_animals-20	Broe6e5_4_bees-32_4040	4	Broe6e5_4_animals-20_44	4	0	bees 	Animals	100.0
+taxongroup	Ani-2170_64_bees-34	Ani-2170_64_animals-23	Ani-2170_64_bees-34_4040	64	Ani-2170_64_animals-23_44	64	0	bees 	Animals	100.0
+taxongroup	Lan-4994_76_bees-9	Lan-4994_76_animals-6	Lan-4994_76_bees-9_4040	76	Lan-4994_76_animals-6_44	76	0	bees 	Animals	100.0
+taxongroup	Eus-5ea1_23_bees-6	Eus-5ea1_23_animal-18	Eus-5ea1_23_bees-6_4040	23	Eus-5ea1_23_animal-18_44	23	0	bees 	Animals	100.0
+taxongroup	Picc848_8_ants-32	Picc848_8_ants-32	Picc848_8_ants-32_4891	8	Picc848_8_ants-32_4038	8	0	army ant	ants	100.0
+taxongroup	Pic-7ce8_53_ant-17	Pic-7ce8_53_ant-17	Pic-7ce8_53_ant-17_4891	53	Pic-7ce8_53_ant-17_4038	53	0	army ant	ants	100.0
+taxongroup	Com3ce5_41_ants-14	Com3ce5_41_ants-14	Com3ce5_41_ants-14_4891	41	Com3ce5_41_ants-14_4038	41	0	army ant	ants	100.0
+taxongroup	Eci-b4a9_8_ants-3	Eci-b4a9_8_ants-3	Eci-b4a9_8_ants-3_4891	8	Eci-b4a9_8_ants-3_4038	8	0	army ant	ants	100.0
+taxongroup	Pac8c58_20_ants-11	Pac8c58_20_ants-11	Pac8c58_20_ants-11_4891	20	Pac8c58_20_ants-11_4038	20	0	army ant	ants	100.0
+taxongroup	Eci-b4a9_19_ant-17	Eci-b4a9_19_ant-17	Eci-b4a9_19_ant-17_4891	19	Eci-b4a9_19_ant-17_4038	19	0	army ant	ants	100.0
+taxongroup	Eci-b4a9_19_ants-39	Eci-b4a9_19_ants-39	Eci-b4a9_19_ants-39_4891	19	Eci-b4a9_19_ants-39_4038	19	0	army ant	ants	100.0
+taxongroup	Eci-b4a9_3_ant-22	Eci-b4a9_3_ant-22	Eci-b4a9_3_ant-22_4891	3	Eci-b4a9_3_ant-22_4038	3	0	army ant	ants	100.0
+taxongroup	Eci-b4a9_4_ants-18	Eci-b4a9_4_ants-18	Eci-b4a9_4_ants-18_4891	4	Eci-b4a9_4_ants-18_4038	4	0	army ant	ants	100.0
+taxongroup	Eci-b4a9_19_ant-17	Eci-b4a9_19_ants-39	Eci-b4a9_19_ant-17_4891	19	Eci-b4a9_19_ants-39_4038	19	0	army ant	ants	100.0
+taxongroup	Eci-b4a9_23_ant-9	Eci-b4a9_23_ant-9	Eci-b4a9_23_ant-9_4891	23	Eci-b4a9_23_ant-9_4038	23	0	army ant	ants	100.0
+taxongroup	Eci-b4a9_2_ants-17	Eci-b4a9_2_ants-17	Eci-b4a9_2_ants-17_4891	2	Eci-b4a9_2_ants-17_4038	2	0	army ant	ants	100.0
+taxongroup	Too5d06_25_ants-14	Too5d06_25_ants-14	Too5d06_25_ants-14_4891	25	Too5d06_25_ants-14_4038	25	0	army ant	ants	100.0
+taxongroup	Wre-2b89_53_ants-16	Wre-2b89_53_ants-16	Wre-2b89_53_ants-16_4891	53	Wre-2b89_53_ants-16_4038	53	0	army ant	ants	100.0
+taxongroup	Ter-605f_287_ants-6	Ter-605f_287_ants-6	Ter-605f_287_ants-6_4891	287	Ter-605f_287_ants-6_4038	287	0	army ant	ants	100.0
+taxongroup	Swa-27b4_175_ant-17	Swa-27b4_175_ant-17	Swa-27b4_175_ant-17_4891	175	Swa-27b4_175_ant-17_4038	175	0	army ant	ants	100.0
+taxongroup	Swa-27b4_175_ants-2	Swa-27b4_175_ants-2	Swa-27b4_175_ants-2_4891	175	Swa-27b4_175_ants-2_4038	175	0	army ant	ants	100.0
+taxongroup	Swa-27b4_175_ants-2	Swa-27b4_175_ant-17	Swa-27b4_175_ants-2_4891	175	Swa-27b4_175_ant-17_4038	175	0	army ant	ants	100.0
+taxongroup	Swa-27b4_175_ant-17	Swa-27b4_175_ants-2	Swa-27b4_175_ant-17_4891	175	Swa-27b4_175_ants-2_4038	175	0	army ant	ants	100.0
+taxongroup	Hum-85c3_163_bees-21	Hum-85c3_163_animals-10	Hum-85c3_163_bees-21_4040	163	Hum-85c3_163_animals-10_44	163	0	bees 	Animals	100.0
+taxongroup	Wil-57af_158_being-34	Wil-57af_158_animal-7	Wil-57af_158_being-34_4040	158	Wil-57af_158_animal-7_44	158	0	bees 	Animals	100.0
+taxongroup	Cor-66f6_91_bees-17	Cor-66f6_91_animals-11	Cor-66f6_91_bees-17_4040	91	Cor-66f6_91_animals-11_44	91	0	bees 	Animals	100.0
+taxongroup	Com-9711_170_bees-29	Com-9711_170_animals-24	Com-9711_170_bees-29_4040	170	Com-9711_170_animals-24_44	170	0	bees 	Animals	100.0
+taxongroup	Col-6d94_160_bed-27	Col-6d94_160_animals-29	Col-6d94_160_bed-27_4040	160	Col-6d94_160_animals-29_44	160	0	bees 	Animals	100.0
+taxongroup	Flo-338d_6_bees-10	Flo-338d_6_animals-6	Flo-338d_6_bees-10_4040	6	Flo-338d_6_animals-6_44	6	0	bees 	Animals	100.0
+taxongroup	Lan-4994_90_bees-39	Lan-4994_90_animal-27	Lan-4994_90_bees-39_4040	90	Lan-4994_90_animal-27_44	90	0	bees 	Animals	100.0
+taxongroup	Swa6d2d_4_bees-16	Swa6d2d_4_animals-2	Swa6d2d_4_bees-16_4040	4	Swa6d2d_4_animals-2_44	4	0	bees 	Animals	100.0
+taxongroup	Bom-c423_9_bees-16	Bom-c423_9_Hymenoptera-8	Bom-c423_9_bees-16_4040	9	Bom-c423_9_Hymenoptera-8_2573	9	0	bees 	Hymenoptera	100.0
+taxongroup	Bee-1811_31_bees-20	Bee-1811_31_Hymenoptera-12	Bee-1811_31_bees-20_4040	31	Bee-1811_31_Hymenoptera-12_2573	31	0	bees 	Hymenoptera	100.0
+taxongroup	Ant-938d_2_bees-17	Ant-938d_2_Hymenoptera-23	Ant-938d_2_bees-17_4040	2	Ant-938d_2_Hymenoptera-23_2573	2	0	bees 	Hymenoptera	100.0
+taxongroup	Hem-78f3_5_bees-26	Hem-78f3_5_arthropods-16	Hem-78f3_5_bees-26_4040	5	Hem-78f3_5_arthropods-16_4632	5	0	bees 	arthropods	100.0
+taxongroup	Eur-fdbd_72_be-28	Eur-fdbd_72_arthropods-32	Eur-fdbd_72_be-28_4040	72	Eur-fdbd_72_arthropods-32_4632	72	0	bees 	arthropods	100.0
+taxongroup	Kle-14e2_4_bees-7	Kle-14e2_4_arthropods-4	Kle-14e2_4_bees-7_4040	4	Kle-14e2_4_arthropods-4_4632	4	0	bees 	arthropods	100.0
+taxongroup	Art-1308_154_bees-24	Art-1308_154_arthropods-2	Art-1308_154_bees-24_4040	154	Art-1308_154_arthropods-2_4632	154	0	bees 	arthropods	100.0
+taxongroup	Fos-19c4_4_bees-20	Fos-19c4_4_insects-12	Fos-19c4_4_bees-20_4040	4	Fos-19c4_4_insects-12_4008	4	0	bees 	insects	100.0
+taxongroup	Whib438_3_bees-11	Whib438_3_insects-4	Whib438_3_bees-11_4040	3	Whib438_3_insects-4_4008	3	0	bees 	insects	100.0
+taxongroup	Wes-8d71_356_bees-9	Wes-8d71_356_insects-16	Wes-8d71_356_bees-9_4040	356	Wes-8d71_356_insects-16_4008	356	0	bees 	insects	100.0
+taxongroup	Wes-8d71_269_Bees-1	Wes-8d71_269_insects-4	Wes-8d71_269_Bees-1_4040	269	Wes-8d71_269_insects-4_4008	269	0	bees 	insects	100.0
+taxongroup	Was-5a21_54_bees-42	Was-5a21_54_insects-40	Was-5a21_54_bees-42_4040	54	Was-5a21_54_insects-40_4008	54	0	bees 	insects	100.0
+taxongroup	Hym-42c2_2_bees-15	Hym-42c2_2_insects-7	Hym-42c2_2_bees-15_4040	2	Hym-42c2_2_insects-7_4008	2	0	bees 	insects	100.0
+taxongroup	Eus-5ea1_44_bees-15	Eus-5ea1_44_insects-10	Eus-5ea1_44_bees-15_4040	44	Eus-5ea1_44_insects-10_4008	44	0	bees 	insects	100.0
+taxongroup	Eur-0e68_106_bees-20	Eur-0e68_106_insects-5	Eur-0e68_106_bees-20_4040	106	Eur-0e68_106_insects-5_4008	106	0	bees 	insects	100.0
+taxongroup	Dom-6f87_272_bees-17	Dom-6f87_272_insects-10	Dom-6f87_272_bees-17_4040	272	Dom-6f87_272_insects-10_4008	272	0	bees 	insects	100.0
+taxongroup	Ins-960c_223_bees-10	Ins-960c_223_insects-2	Ins-960c_223_bees-10_4040	223	Ins-960c_223_insects-2_4008	223	0	bees 	insects	100.0
+taxongroup	Ins-960c_207_bees-5	Ins-960c_207_insects-2	Ins-960c_207_bees-5_4040	207	Ins-960c_207_insects-2_4008	207	0	bees 	insects	100.0
+taxongroup	Ins-960c_242_bees-7	Ins-960c_242_insects-2	Ins-960c_242_bees-7_4040	242	Ins-960c_242_insects-2_4008	242	0	bees 	insects	100.0
+taxongroup	Ins-960c_25_bees-11	Ins-960c_25_Insects-1	Ins-960c_25_bees-11_4040	25	Ins-960c_25_Insects-1_4008	25	0	bees 	insects	100.0
+taxongroup	Ins-960c_311_bees-11	Ins-960c_311_insects-2	Ins-960c_311_bees-11_4040	311	Ins-960c_311_insects-2_4008	311	0	bees 	insects	100.0
+taxongroup	Swa-27b4_153_bees-17	Swa-27b4_153_insects-5	Swa-27b4_153_bees-17_4040	153	Swa-27b4_153_insects-5_4008	153	0	bees 	insects	100.0
+taxongroup	Swa-27b4_153_bees-17	Swa-27b4_153_insects-7	Swa-27b4_153_bees-17_4040	153	Swa-27b4_153_insects-7_4008	153	0	bees 	insects	100.0
+taxongroup	Was-5a21_54_bees-42	Was-5a21_54_insects-26	Was-5a21_54_bees-42_4040	54	Was-5a21_54_insects-26_4008	54	0	bees 	insects	100.0
+taxongroup	Bur-f024_38_bees-23	Bur-f024_38_insects-13	Bur-f024_38_bees-23_4040	38	Bur-f024_38_insects-13_4008	38	0	bees 	insects	100.0
+taxongroup	Bee-ace3_208_Bees-1	Bee-ace3_208_insects-9	Bee-ace3_208_Bees-1_4040	208	Bee-ace3_208_insects-9_4008	208	0	bees 	insects	100.0
+taxongroup	Lep-f8ec_19_bees-49	Lep-f8ec_19_Hymenoptera-45	Lep-f8ec_19_bees-49_4040	19	Lep-f8ec_19_Hymenoptera-45_2573	19	0	bees 	Hymenoptera	100.0
+taxongroup	Soc-cc7f_57_bees-11	Soc-cc7f_57_Hymenoptera-7	Soc-cc7f_57_bees-11_4040	57	Soc-cc7f_57_Hymenoptera-7_2573	57	0	bees 	Hymenoptera	100.0
+taxongroup	Pol-db86_160_bees-6	Pol-db86_160_Hymenoptera-2	Pol-db86_160_bees-6_4040	160	Pol-db86_160_Hymenoptera-2_2573	160	0	bees 	Hymenoptera	100.0
+taxongroup	Pol-516e_72_bees-6	Pol-516e_72_Hymenoptera-3	Pol-516e_72_bees-6_4040	72	Pol-516e_72_Hymenoptera-3_2573	72	0	bees 	Hymenoptera	100.0
+taxongroup	Mim-33dd_227_bees-17	Mim-33dd_227_Hymenoptera-14	Mim-33dd_227_bees-17_4040	227	Mim-33dd_227_Hymenoptera-14_2573	227	0	bees 	Hymenoptera	100.0
+taxongroup	Bum-e9d6_7_bumblebees-2	Bum-e9d6_7_insects-5	Bum-e9d6_7_bumblebees-2_4265	7	Bum-e9d6_7_insects-5_4008	7	0	bumblebees	insects	100.0
+taxongroup	Was-5a21_207_wasp-9	Was-5a21_207_wasps-17	Was-5a21_207_wasp-9_5593	207	Was-5a21_207_wasps-17_4218	207	0	common wasp	wasps	100.0
+taxongroup	Was-5a21_207_wasp-9	Was-5a21_207_wasp-9	Was-5a21_207_wasp-9_5593	207	Was-5a21_207_wasp-9_4218	207	0	common wasp	wasps	100.0
+taxongroup	For-fc8f_2_ants-21	For-fc8f_2_ants-18	For-fc8f_2_ants-21_4324	2	For-fc8f_2_ants-18_462	2	0	wood ants	Ants	100.0
+taxongroup	Ter-605f_28_ants-16	Ter-605f_28_ants-16	Ter-605f_28_ants-16_4324	28	Ter-605f_28_ants-16_462	28	0	wood ants	Ants	100.0
+taxongroup	Ter-605f_28_ants-16	Ter-605f_28_ants-11	Ter-605f_28_ants-16_4324	28	Ter-605f_28_ants-11_462	28	0	wood ants	Ants	100.0
+taxongroup	Ter-605f_28_ants-11	Ter-605f_28_ants-11	Ter-605f_28_ants-11_4324	28	Ter-605f_28_ants-11_462	28	0	wood ants	Ants	100.0
+taxongroup	For-71bb_3_ants-15	For-71bb_3_ants-22	For-71bb_3_ants-15_4324	3	For-71bb_3_ants-22_462	3	0	wood ants	Ants	100.0
+taxongroup	For-2c70_9_ant-4	For-2c70_9_ant-4	For-2c70_9_ant-4_4324	9	For-2c70_9_ant-4_462	9	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-21	For-fc8f_2_ants-28	For-fc8f_2_ants-21_4324	2	For-fc8f_2_ants-28_462	2	0	wood ants	Ants	100.0
+taxongroup	For-2c70_2_ant-9	For-2c70_2_ant-9	For-2c70_2_ant-9_4324	2	For-2c70_2_ant-9_462	2	0	wood ants	Ants	100.0
+taxongroup	For12e9_3_ant-7	For12e9_3_ant-7	For12e9_3_ant-7_4324	3	For12e9_3_ant-7_462	3	0	wood ants	Ants	100.0
+taxongroup	For-53a6_2_ant-10	For-53a6_2_ant-10	For-53a6_2_ant-10_4324	2	For-53a6_2_ant-10_462	2	0	wood ants	Ants	100.0
+taxongroup	For-53a6_38_ants-3	For-53a6_38_ants-3	For-53a6_38_ants-3_4324	38	For-53a6_38_ants-3_462	38	0	wood ants	Ants	100.0
+taxongroup	For-2c70_2_ant-9	For-2c70_2_ant-16	For-2c70_2_ant-9_4324	2	For-2c70_2_ant-16_462	2	0	wood ants	Ants	100.0
+taxongroup	For-2c70_2_ant-16	For-2c70_2_ant-9	For-2c70_2_ant-16_4324	2	For-2c70_2_ant-9_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-24	For-fc8f_2_ants-18	For-fc8f_2_ants-24_4324	2	For-fc8f_2_ants-18_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-24	For-fc8f_2_ants-21	For-fc8f_2_ants-24_4324	2	For-fc8f_2_ants-21_462	2	0	wood ants	Ants	100.0
+taxongroup	Was-5a21_94_wasps-3	Was-5a21_94_insects-19	Was-5a21_94_wasps-3_4218	94	Was-5a21_94_insects-19_4008	94	0	wasps	insects	100.0
+taxongroup	For-fc8f_2_ants-21	For-fc8f_2_ants-24	For-fc8f_2_ants-21_4324	2	For-fc8f_2_ants-24_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-21	For-fc8f_2_ants-21	For-fc8f_2_ants-21_4324	2	For-fc8f_2_ants-21_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-28	For-fc8f_2_Formicidae-10	For-fc8f_2_ants-28_4324	2	For-fc8f_2_Formicidae-10_461	2	0	wood ants	Formicidae	100.0
+taxongroup	For-fc8f_2_ants-21	For-fc8f_2_Formicidae-10	For-fc8f_2_ants-21_4324	2	For-fc8f_2_Formicidae-10_461	2	0	wood ants	Formicidae	100.0
+taxongroup	For-fc8f_2_ants-24	For-fc8f_2_Formicidae-10	For-fc8f_2_ants-24_4324	2	For-fc8f_2_Formicidae-10_461	2	0	wood ants	Formicidae	100.0
+taxongroup	For-fc8f_2_ants-18	For-fc8f_2_Formicidae-10	For-fc8f_2_ants-18_4324	2	For-fc8f_2_Formicidae-10_461	2	0	wood ants	Formicidae	100.0
+taxongroup	For-fc8f_2_ants-6	For-fc8f_2_Formicidae-10	For-fc8f_2_ants-6_4324	2	For-fc8f_2_Formicidae-10_461	2	0	wood ants	Formicidae	100.0
+taxongroup	For-fc8f_2_ants-21	For-fc8f_2_ants-6	For-fc8f_2_ants-21_4324	2	For-fc8f_2_ants-6_4038	2	0	wood ants	ants	100.0
+taxongroup	For-fc8f_2_ants-24	For-fc8f_2_ants-6	For-fc8f_2_ants-24_4324	2	For-fc8f_2_ants-6_4038	2	0	wood ants	ants	100.0
+taxongroup	For-fc8f_11_ant-5	For-fc8f_11_ant-5	For-fc8f_11_ant-5_4324	11	For-fc8f_11_ant-5_4038	11	0	wood ants	ants	100.0
+taxongroup	For-fc8f_2_ants-18	For-fc8f_2_ants-6	For-fc8f_2_ants-18_4324	2	For-fc8f_2_ants-6_4038	2	0	wood ants	ants	100.0
+taxongroup	For-fc8f_2_ants-6	For-fc8f_2_ants-24	For-fc8f_2_ants-6_4324	2	For-fc8f_2_ants-24_4038	2	0	wood ants	ants	100.0
+taxongroup	For-fc8f_2_ants-6	For-fc8f_2_ants-28	For-fc8f_2_ants-6_4324	2	For-fc8f_2_ants-28_4038	2	0	wood ants	ants	100.0
+taxongroup	Ter-605f_28_ants-11	Ter-605f_28_ants-16	Ter-605f_28_ants-11_4324	28	Ter-605f_28_ants-16_462	28	0	wood ants	Ants	100.0
+taxongroup	For-71bb_3_ants-22	For-71bb_3_ants-15	For-71bb_3_ants-22_4324	3	For-71bb_3_ants-15_462	3	0	wood ants	Ants	100.0
+taxongroup	For-53a6_64_ants-7	For-53a6_64_ants-7	For-53a6_64_ants-7_4324	64	For-53a6_64_ants-7_462	64	0	wood ants	Ants	100.0
+taxongroup	For-2c70_2_ant-16	For-2c70_2_ant-16	For-2c70_2_ant-16_4324	2	For-2c70_2_ant-16_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-24	For-fc8f_2_ants-24	For-fc8f_2_ants-24_4324	2	For-fc8f_2_ants-24_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-24	For-fc8f_2_ants-28	For-fc8f_2_ants-24_4324	2	For-fc8f_2_ants-28_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-28	For-fc8f_2_ants-18	For-fc8f_2_ants-28_4324	2	For-fc8f_2_ants-18_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_4_ant-12	For-fc8f_4_ant-12	For-fc8f_4_ant-12_4324	4	For-fc8f_4_ant-12_462	4	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-18	For-fc8f_2_ants-24	For-fc8f_2_ants-18_4324	2	For-fc8f_2_ants-24_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-18	For-fc8f_2_ants-28	For-fc8f_2_ants-18_4324	2	For-fc8f_2_ants-28_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-28	For-fc8f_2_ants-21	For-fc8f_2_ants-28_4324	2	For-fc8f_2_ants-21_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-28	For-fc8f_2_ants-24	For-fc8f_2_ants-28_4324	2	For-fc8f_2_ants-24_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-28	For-fc8f_2_ants-28	For-fc8f_2_ants-28_4324	2	For-fc8f_2_ants-28_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-28	For-fc8f_2_ants-6	For-fc8f_2_ants-28_4324	2	For-fc8f_2_ants-6_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-6	For-fc8f_2_ants-21	For-fc8f_2_ants-6_4324	2	For-fc8f_2_ants-21_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-6	For-fc8f_2_ants-6	For-fc8f_2_ants-6_4324	2	For-fc8f_2_ants-6_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-18	For-fc8f_2_ants-21	For-fc8f_2_ants-18_4324	2	For-fc8f_2_ants-21_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-18	For-fc8f_2_ants-18	For-fc8f_2_ants-18_4324	2	For-fc8f_2_ants-18_462	2	0	wood ants	Ants	100.0
+taxongroup	For-fc8f_2_ants-6	For-fc8f_2_ants-18	For-fc8f_2_ants-6_4324	2	For-fc8f_2_ants-18_462	2	0	wood ants	Ants	100.0
+taxongroup	Forbe64_1_ants-3	Forbe64_1_ants-3	Forbe64_1_ants-3_4324	1	Forbe64_1_ants-3_462	1	0	wood ants	Ants	100.0
+taxongroup	For-71bb_4_ant-9	For-71bb_4_ant-9	For-71bb_4_ant-9_4324	4	For-71bb_4_ant-9_462	4	0	wood ants	Ants	100.0
+taxongroup	For-71bb_3_ants-22	For-71bb_3_ants-22	For-71bb_3_ants-22_4324	3	For-71bb_3_ants-22_462	3	0	wood ants	Ants	100.0
+taxongroup	For-71bb_3_ants-15	For-71bb_3_ants-15	For-71bb_3_ants-15_4324	3	For-71bb_3_ants-15_462	3	0	wood ants	Ants	100.0
+taxongroup	For-2c70_5_ant-4	For-2c70_5_ant-4	For-2c70_5_ant-4_4324	5	For-2c70_5_ant-4_462	5	0	wood ants	Ants	100.0
+taxongroup	For-53a6_4_ants-9	For-53a6_4_ants-9	For-53a6_4_ants-9_4324	4	For-53a6_4_ants-9_462	4	0	wood ants	Ants	100.0
+taxongroup	Was-5a21_12_wasps-5	Was-5a21_12_insects-17	Was-5a21_12_wasps-5_4218	12	Was-5a21_12_insects-17_4008	12	0	wasps	insects	100.0
+taxongroup	Was-5a21_39_wasp-33	Was-5a21_39_insects-23	Was-5a21_39_wasp-33_4218	39	Was-5a21_39_insects-23_4008	39	0	wasps	insects	100.0
+taxongroup	Was-5a21_207_wasps-4	Was-5a21_207_wasps-17	Was-5a21_207_wasps-4_5593	207	Was-5a21_207_wasps-17_4218	207	0	common wasp	wasps	100.0
+taxongroup	Mer-083d_4_hornets-11	Mer-083d_4_wasps-9	Mer-083d_4_hornets-11_4942	4	Mer-083d_4_wasps-9_4218	4	0	hornet	wasps	100.0
+taxongroup	Was-5a21_5_hornets-11	Was-5a21_5_wasps-5	Was-5a21_5_hornets-11_4942	5	Was-5a21_5_wasps-5_4218	5	0	hornet	wasps	100.0
+taxongroup	Vesb6c9_10_hornet-16	Vesb6c9_10_wasp-9	Vesb6c9_10_hornet-16_4942	10	Vesb6c9_10_wasp-9_4218	10	0	hornet	wasps	100.0
+taxongroup	Ves-4d9e_17_hornets-30	Ves-4d9e_17_wasps-22	Ves-4d9e_17_hornets-30_4942	17	Ves-4d9e_17_wasps-22_4218	17	0	hornet	wasps	100.0
+taxongroup	Wes-8d71_347_hornet-11	Wes-8d71_347_wasps-14	Wes-8d71_347_hornet-11_4942	347	Wes-8d71_347_wasps-14_4218	347	0	hornet	wasps	100.0
+taxongroup	Was-5a21_151_hornet-26	Was-5a21_151_wasp-12	Was-5a21_151_hornet-26_4942	151	Was-5a21_151_wasp-12_4218	151	0	hornet	wasps	100.0
+taxongroup	Hor-8eda_17_hornets-10	Hor-8eda_17_wasps-4	Hor-8eda_17_hornets-10_4942	17	Hor-8eda_17_wasps-4_4218	17	0	hornet	wasps	100.0
+taxongroup	Hor-8eda_17_hornet-18	Hor-8eda_17_wasps-4	Hor-8eda_17_hornet-18_4942	17	Hor-8eda_17_wasps-4_4218	17	0	hornet	wasps	100.0
+taxongroup	Hor-8eda_16_hornets-32	Hor-8eda_16_wasps-19	Hor-8eda_16_hornets-32_4942	16	Hor-8eda_16_wasps-19_4218	16	0	hornet	wasps	100.0
+taxongroup	Hor-8eda_8_hornets-6	Hor-8eda_8_wasps-4	Hor-8eda_8_hornets-6_4942	8	Hor-8eda_8_wasps-4_4218	8	0	hornet	wasps	100.0
+taxongroup	Hor-8eda_107_hornet-2	Hor-8eda_107_wasp-19	Hor-8eda_107_hornet-2_4942	107	Hor-8eda_107_wasp-19_4218	107	0	hornet	wasps	100.0
+taxongroup	Eur-5425_61_hornets-17	Eur-5425_61_wasps-15	Eur-5425_61_hornets-17_4942	61	Eur-5425_61_wasps-15_4218	61	0	hornet	wasps	100.0
+taxongroup	Hor-8eda_16_hornets-24	Hor-8eda_16_wasps-19	Hor-8eda_16_hornets-24_4942	16	Hor-8eda_16_wasps-19_4218	16	0	hornet	wasps	100.0
+taxongroup	Ves-4d9e_17_hornets-30	Ves-4d9e_17_wasps-33	Ves-4d9e_17_hornets-30_4942	17	Ves-4d9e_17_wasps-33_4218	17	0	hornet	wasps	100.0
+taxongroup	Lep-f8ec_390_hornet-24	Lep-f8ec_390_wasp-22	Lep-f8ec_390_hornet-24_4942	390	Lep-f8ec_390_wasp-22_4218	390	0	hornet	wasps	100.0
+taxongroup	Was-5a21_77_wasps-5	Was-5a21_77_insects-3	Was-5a21_77_wasps-5_4218	77	Was-5a21_77_insects-3_4008	77	0	wasps	insects	100.0
+taxongroup	Was-5a21_40_hornet-9	Was-5a21_40_wasp-4	Was-5a21_40_hornet-9_4942	40	Was-5a21_40_wasp-4_4218	40	0	hornet	wasps	100.0
+taxongroup	Was-5a21_17_hornet-9	Was-5a21_17_wasp-4	Was-5a21_17_hornet-9_4942	17	Was-5a21_17_wasp-4_4218	17	0	hornet	wasps	100.0
+taxongroup	Was-5a21_26_hornets-33	Was-5a21_26_wasp-3	Was-5a21_26_hornets-33_4942	26	Was-5a21_26_wasp-3_4218	26	0	hornet	wasps	100.0
+taxongroup	Was-5a21_26_hornets-33	Was-5a21_26_wasp-19	Was-5a21_26_hornets-33_4942	26	Was-5a21_26_wasp-19_4218	26	0	hornet	wasps	100.0
+taxongroup	Ves-4d9e_17_hornets-30	Ves-4d9e_17_wasps-28	Ves-4d9e_17_hornets-30_4942	17	Ves-4d9e_17_wasps-28_4218	17	0	hornet	wasps	100.0
+taxongroup	Ves-4d9e_17_hornets-30	Ves-4d9e_17_wasps-25	Ves-4d9e_17_hornets-30_4942	17	Ves-4d9e_17_wasps-25_4218	17	0	hornet	wasps	100.0
+taxongroup	Hor-8eda_34_hornet-13	Hor-8eda_34_wasp-10	Hor-8eda_34_hornet-13_4942	34	Hor-8eda_34_wasp-10_4218	34	0	hornet	wasps	100.0
+taxongroup	Hor-8eda_121_hornet-6	Hor-8eda_121_wasps-11	Hor-8eda_121_hornet-6_4942	121	Hor-8eda_121_wasps-11_4218	121	0	hornet	wasps	100.0
+taxongroup	Hor-8eda_121_hornet-2	Hor-8eda_121_wasps-11	Hor-8eda_121_hornet-2_4942	121	Hor-8eda_121_wasps-11_4218	121	0	hornet	wasps	100.0
+taxongroup	Hor-8eda_43_hornet-29	Hor-8eda_43_wasps-4	Hor-8eda_43_hornet-29_4942	43	Hor-8eda_43_wasps-4_4218	43	0	hornet	wasps	100.0
+taxongroup	Hor-8eda_15_hornets-14	Hor-8eda_15_wasps-17	Hor-8eda_15_hornets-14_4942	15	Hor-8eda_15_wasps-17_4218	15	0	hornet	wasps	100.0
+taxongroup	Hor-8eda_107_hornet-15	Hor-8eda_107_wasp-19	Hor-8eda_107_hornet-15_4942	107	Hor-8eda_107_wasp-19_4218	107	0	hornet	wasps	100.0
+taxongroup	Hor-8eda_34_Hornet-1	Hor-8eda_34_wasp-10	Hor-8eda_34_Hornet-1_4942	34	Hor-8eda_34_wasp-10_4218	34	0	hornet	wasps	100.0
+taxongroup	Eur-0e68_90_hornet-2	Eur-0e68_90_wasp-12	Eur-0e68_90_hornet-2_4942	90	Eur-0e68_90_wasp-12_4218	90	0	hornet	wasps	100.0
+taxongroup	Eur-0e68_24_hornet-22	Eur-0e68_24_wasps-8	Eur-0e68_24_hornet-22_4942	24	Eur-0e68_24_wasps-8_4218	24	0	hornet	wasps	100.0
+taxongroup	Eur-0e68_2_hornet-3	Eur-0e68_2_wasp-12	Eur-0e68_2_hornet-3_4942	2	Eur-0e68_2_wasp-12_4218	2	0	hornet	wasps	100.0
+taxongroup	Asi-8957_272_hornet-41	Asi-8957_272_wasp-45	Asi-8957_272_hornet-41_4942	272	Asi-8957_272_wasp-45_4218	272	0	hornet	wasps	100.0
+taxongroup	Wes-8d71_419_wasps-8	Wes-8d71_419_wasps-8	Wes-8d71_419_wasps-8_5593	419	Wes-8d71_419_wasps-8_4218	419	0	common wasp	wasps	100.0
+taxongroup	Was-5a21_207_wasp-9	Was-5a21_207_wasps-4	Was-5a21_207_wasp-9_5593	207	Was-5a21_207_wasps-4_4218	207	0	common wasp	wasps	100.0
+taxongroup	Was-5a21_207_wasps-4	Was-5a21_207_wasp-9	Was-5a21_207_wasps-4_5593	207	Was-5a21_207_wasp-9_4218	207	0	common wasp	wasps	100.0
+taxongroup	Was-5a21_207_wasps-17	Was-5a21_207_wasps-4	Was-5a21_207_wasps-17_5593	207	Was-5a21_207_wasps-4_4218	207	0	common wasp	wasps	100.0
+taxongroup	Was-5a21_207_wasps-17	Was-5a21_207_wasps-17	Was-5a21_207_wasps-17_5593	207	Was-5a21_207_wasps-17_4218	207	0	common wasp	wasps	100.0
+taxongroup	Was-5a21_207_wasps-17	Was-5a21_207_wasp-9	Was-5a21_207_wasps-17_5593	207	Was-5a21_207_wasp-9_4218	207	0	common wasp	wasps	100.0
+taxongroup	Ant-938d_24_formica-32	Ant-938d_24_ant-13	Ant-938d_24_formica-32_4323	24	Ant-938d_24_ant-13_462	24	0	formica	Ants	100.0
+taxongroup	For-53a6_2_ant-10	For-53a6_2_Formica-1	For-53a6_2_ant-10_4981	2	For-53a6_2_Formica-1_1035	2	0	hairy wood ant	Formica	100.0
+taxongroup	Aph-1a7e_109_hornet-16	Aph-1a7e_109_animals-5	Aph-1a7e_109_hornet-16_4942	109	Aph-1a7e_109_animals-5_44	109	0	hornet	Animals	100.0
+taxongroup	Eur-0e68_13_hornet-7	Eur-0e68_13_Vespa-10	Eur-0e68_13_hornet-7_4942	13	Eur-0e68_13_Vespa-10_1080	13	0	hornet	Vespa	100.0
+taxongroup	Eur-0e68_3_hornet-7	Eur-0e68_3_Vespa-10	Eur-0e68_3_hornet-7_4942	3	Eur-0e68_3_Vespa-10_1080	3	0	hornet	Vespa	100.0
+taxongroup	Eur-0e68_2_hornet-3	Eur-0e68_2_Vespa-5	Eur-0e68_2_hornet-3_4942	2	Eur-0e68_2_Vespa-5_1080	2	0	hornet	Vespa	100.0
+taxongroup	Eur-0e68_13_hornet-3	Eur-0e68_13_Vespa-10	Eur-0e68_13_hornet-3_4942	13	Eur-0e68_13_Vespa-10_1080	13	0	hornet	Vespa	100.0
+taxongroup	Was-5a21_151_hornet-26	Was-5a21_151_Vespa-34	Was-5a21_151_hornet-26_4942	151	Was-5a21_151_Vespa-34_1080	151	0	hornet	Vespa	100.0
+taxongroup	Was-5a21_26_hornets-33	Was-5a21_26_Vespa-36	Was-5a21_26_hornets-33_4942	26	Was-5a21_26_Vespa-36_1080	26	0	hornet	Vespa	100.0
+taxongroup	Hor-8eda_52_hornet-8	Hor-8eda_52_Vespa-35	Hor-8eda_52_hornet-8_4942	52	Hor-8eda_52_Vespa-35_1080	52	0	hornet	Vespa	100.0
+taxongroup	Hor-8eda_15_hornets-14	Hor-8eda_15_Vespidae-21	Hor-8eda_15_hornets-14_4942	15	Hor-8eda_15_Vespidae-21_863	15	0	hornet	Vespidae	100.0
+taxongroup	Hor-8eda_141_hornets-26	Hor-8eda_141_Wasps-19	Hor-8eda_141_hornets-26_4942	141	Hor-8eda_141_Wasps-19_864	141	0	hornet	Wasps	100.0
+taxongroup	Hor-8eda_141_hornets-26	Hor-8eda_141_Wasps-2	Hor-8eda_141_hornets-26_4942	141	Hor-8eda_141_Wasps-2_864	141	0	hornet	Wasps	100.0
+taxongroup	Hor-8eda_141_hornets-26	Hor-8eda_141_Wasps-6	Hor-8eda_141_hornets-26_4942	141	Hor-8eda_141_Wasps-6_864	141	0	hornet	Wasps	100.0
+taxongroup	Eur-0e68_105_hornets-2	Eur-0e68_105_insects-7	Eur-0e68_105_hornets-2_4942	105	Eur-0e68_105_insects-7_4008	105	0	hornet	insects	100.0
+taxongroup	Eur-0e68_106_hornets-14	Eur-0e68_106_insects-5	Eur-0e68_106_hornets-14_4942	106	Eur-0e68_106_insects-5_4008	106	0	hornet	insects	100.0
+taxongroup	Hor-8eda_20_hornet-6	Hor-8eda_20_wasp-19	Hor-8eda_20_hornet-6_4942	20	Hor-8eda_20_wasp-19_4218	20	0	hornet	wasps	100.0
+taxongroup	Coc-65ef_45_ants-18	Coc-65ef_45_ants-18	Coc-65ef_45_ants-18_4638	45	Coc-65ef_45_ants-18_462	45	0	leaf-cutter ants	Ants	100.0
+taxongroup	Lea-7e84_88_ant-5	Lea-7e84_88_ant-5	Lea-7e84_88_ant-5_4638	88	Lea-7e84_88_ant-5_462	88	0	leaf-cutter ants	Ants	100.0
+taxongroup	Was-5a21_2_wasps-41	Was-5a21_2_Hymenoptera-16	Was-5a21_2_wasps-41_4218	2	Was-5a21_2_Hymenoptera-16_2573	2	0	wasps	Hymenoptera	100.0
+taxongroup	Par-5c6e_6_wasps-39	Par-5c6e_6_animal-11	Par-5c6e_6_wasps-39_4218	6	Par-5c6e_6_animal-11_3812	6	0	wasps	animals	100.0
+taxongroup	Ves-1bba_23_wasps-2	Ves-1bba_23_animals-21	Ves-1bba_23_wasps-2_4218	23	Ves-1bba_23_animals-21_3812	23	0	wasps	animals	100.0
+taxongroup	Vesecbc_6_wasps-2	Vesecbc_6_animal-21	Vesecbc_6_wasps-2_4218	6	Vesecbc_6_animal-21_3812	6	0	wasps	animals	100.0
+taxongroup	Soc-cc7f_6_wasp-2	Soc-cc7f_6_animal-10	Soc-cc7f_6_wasp-2_4218	6	Soc-cc7f_6_animal-10_3812	6	0	wasps	animals	100.0
+taxongroup	Par-5c6e_160_wasps-20	Par-5c6e_160_ants-15	Par-5c6e_160_wasps-20_4218	160	Par-5c6e_160_ants-15_5114	160	0	wasps	ants, bees and wasps	100.0
+taxongroup	Mim-33dd_104_wasps-17	Mim-33dd_104_ants-11	Mim-33dd_104_wasps-17_4218	104	Mim-33dd_104_ants-11_5114	104	0	wasps	ants, bees and wasps	100.0
+taxongroup	Pol-db86_160_wasps-8	Pol-db86_160_ants-4	Pol-db86_160_wasps-8_4218	160	Pol-db86_160_ants-4_5114	160	0	wasps	ants, bees and wasps	100.0
+taxongroup	Soc-cc7f_57_wasps-16	Soc-cc7f_57_ants-9	Soc-cc7f_57_wasps-16_4218	57	Soc-cc7f_57_ants-9_5114	57	0	wasps	ants, bees and wasps	100.0
+taxongroup	Ter-605f_129_wasps-7	Ter-605f_129_ants-2	Ter-605f_129_wasps-7_4218	129	Ter-605f_129_ants-2_5114	129	0	wasps	ants, bees and wasps	100.0
+taxongroup	Pre-0725_131_wasps-19	Pre-0725_131_arthropods-21	Pre-0725_131_wasps-19_4218	131	Pre-0725_131_arthropods-21_4632	131	0	wasps	arthropods	100.0
+taxongroup	Ves-1bba_23_wasps-2	Ves-1bba_23_arthropods-10	Ves-1bba_23_wasps-2_4218	23	Ves-1bba_23_arthropods-10_4632	23	0	wasps	arthropods	100.0
+taxongroup	Kle-14e2_4_wasps-9	Kle-14e2_4_arthropods-4	Kle-14e2_4_wasps-9_4218	4	Kle-14e2_4_arthropods-4_4632	4	0	wasps	arthropods	100.0
+taxongroup	Was-5a21_36_wasp-2	Was-5a21_36_arthropod-16	Was-5a21_36_wasp-2_4218	36	Was-5a21_36_arthropod-16_4632	36	0	wasps	arthropods	100.0
+taxongroup	New-ec36_85_wasps-24	New-ec36_85_insects-33	New-ec36_85_wasps-24_4218	85	New-ec36_85_insects-33_4008	85	0	wasps	insects	100.0
+taxongroup	Mim-33dd_104_wasps-17	Mim-33dd_104_insects-8	Mim-33dd_104_wasps-17_4218	104	Mim-33dd_104_insects-8_4008	104	0	wasps	insects	100.0
+taxongroup	Pre-0725_27_wasps-5	Pre-0725_27_insects-16	Pre-0725_27_wasps-5_4218	27	Pre-0725_27_insects-16_4008	27	0	wasps	insects	100.0
+taxongroup	Sco-5d0f_172_wasps-16	Sco-5d0f_172_insects-5	Sco-5d0f_172_wasps-16_4218	172	Sco-5d0f_172_insects-5_4008	172	0	wasps	insects	100.0
+taxongroup	Swa-27b4_153_wasps-19	Swa-27b4_153_insects-5	Swa-27b4_153_wasps-19_4218	153	Swa-27b4_153_insects-5_4008	153	0	wasps	insects	100.0
+taxongroup	Swa-27b4_153_wasps-19	Swa-27b4_153_insects-7	Swa-27b4_153_wasps-19_4218	153	Swa-27b4_153_insects-7_4008	153	0	wasps	insects	100.0
+taxongroup	Pol-516e_4_wasps-23	Pol-516e_4_Insects-1	Pol-516e_4_wasps-23_4218	4	Pol-516e_4_Insects-1_4008	4	0	wasps	insects	100.0
+taxongroup	Was-5a21_16_wasps-18	Was-5a21_16_insects-9	Was-5a21_16_wasps-18_4218	16	Was-5a21_16_insects-9_4008	16	0	wasps	insects	100.0
+taxongroup	Was-5a21_54_wasps-17	Was-5a21_54_insects-26	Was-5a21_54_wasps-17_4218	54	Was-5a21_54_insects-26_4008	54	0	wasps	insects	100.0
+taxongroup	Was-5a21_54_wasps-17	Was-5a21_54_insects-40	Was-5a21_54_wasps-17_4218	54	Was-5a21_54_insects-40_4008	54	0	wasps	insects	100.0
+taxongroup	Was-5a21_54_wasps-45	Was-5a21_54_insects-26	Was-5a21_54_wasps-45_4218	54	Was-5a21_54_insects-26_4008	54	0	wasps	insects	100.0
+taxongroup	Was-5a21_54_wasps-45	Was-5a21_54_insects-40	Was-5a21_54_wasps-45_4218	54	Was-5a21_54_insects-40_4008	54	0	wasps	insects	100.0
+taxongroup	Was-5a21_39_wasp-12	Was-5a21_39_insects-23	Was-5a21_39_wasp-12_4218	39	Was-5a21_39_insects-23_4008	39	0	wasps	insects	100.0
+taxongroup	Was-5a21_63_wasp-5	Was-5a21_63_insects-9	Was-5a21_63_wasp-5_4218	63	Was-5a21_63_insects-9_4008	63	0	wasps	insects	100.0
+taxongroup	Was-5a21_2_wasp-2	Was-5a21_2_Hymenoptera-16	Was-5a21_2_wasp-2_4218	2	Was-5a21_2_Hymenoptera-16_2573	2	0	wasps	Hymenoptera	100.0
+taxongroup	Was-5a21_100_wasps-2	Was-5a21_100_Hymenoptera-7	Was-5a21_100_wasps-2_4218	100	Was-5a21_100_Hymenoptera-7_2573	100	0	wasps	Hymenoptera	100.0
+taxongroup	Att9414_1_ants-11	Att9414_1_ants-11	Att9414_1_ants-11_4638	1	Att9414_1_ants-11_462	1	0	leaf-cutter ants	Ants	100.0
+taxongroup	Lep-f8ec_19_wasps-51	Lep-f8ec_19_Hymenoptera-45	Lep-f8ec_19_wasps-51_4218	19	Lep-f8ec_19_Hymenoptera-45_2573	19	0	wasps	Hymenoptera	100.0
+taxongroup	Par-e8bc_181_wasps-9	Par-e8bc_181_Hymenoptera-12	Par-e8bc_181_wasps-9_4218	181	Par-e8bc_181_Hymenoptera-12_2573	181	0	wasps	Hymenoptera	100.0
+taxongroup	Mim-33dd_227_wasps-19	Mim-33dd_227_Hymenoptera-14	Mim-33dd_227_wasps-19_4218	227	Mim-33dd_227_Hymenoptera-14_2573	227	0	wasps	Hymenoptera	100.0
+taxongroup	Soc-cc7f_57_wasps-16	Soc-cc7f_57_Hymenoptera-7	Soc-cc7f_57_wasps-16_4218	57	Soc-cc7f_57_Hymenoptera-7_2573	57	0	wasps	Hymenoptera	100.0
+taxongroup	Ter-605f_183_wasps-17	Ter-605f_183_Hymenoptera-8	Ter-605f_183_wasps-17_4218	183	Ter-605f_183_Hymenoptera-8_2573	183	0	wasps	Hymenoptera	100.0
+taxongroup	Ter-605f_9_wasps-8	Ter-605f_9_Hymenoptera-13	Ter-605f_9_wasps-8_4218	9	Ter-605f_9_Hymenoptera-13_2573	9	0	wasps	Hymenoptera	100.0
+taxongroup	Pol-db86_160_wasps-8	Pol-db86_160_Hymenoptera-2	Pol-db86_160_wasps-8_4218	160	Pol-db86_160_Hymenoptera-2_2573	160	0	wasps	Hymenoptera	100.0
+taxongroup	Pol-516e_72_wasps-10	Pol-516e_72_Hymenoptera-3	Pol-516e_72_wasps-10_4218	72	Pol-516e_72_Hymenoptera-3_2573	72	0	wasps	Hymenoptera	100.0
+taxongroup	Pac-29db_8_ants-6	Pac-29db_8_ants-6	Pac-29db_8_ants-6_4891	8	Pac-29db_8_ants-6_4038	8	0	army ant	ants	100.0
+taxongroup	Eci-644a_3_ant-18	Eci-644a_3_ant-18	Eci-644a_3_ant-18_4891	3	Eci-644a_3_ant-18_4038	3	0	army ant	ants	100.0
+taxongroup	Eci-644a_134_ant-9	Eci-644a_134_ant-9	Eci-644a_134_ant-9_4891	134	Eci-644a_134_ant-9_4038	134	0	army ant	ants	100.0
+taxongroup	Mas-1837_15_Bombus-10	Mas-1837_15_bees-3	Mas-1837_15_Bombus-10_943	15	Mas-1837_15_bees-3_4040	15	0	Bombus	bees 	100.0
+taxongroup	Bla-af14_2_ant-4	Bla-af14_2_ant-4	Bla-af14_2_ant-4_1698	2	Bla-af14_2_ant-4_4038	2	0	Black garden ant	ants	100.0
+taxongroup	Bla-af14_2_ant-21	Bla-af14_2_ant-4	Bla-af14_2_ant-21_1698	2	Bla-af14_2_ant-4_4038	2	0	Black garden ant	ants	100.0
+taxongroup	Bla-af14_2_ant-21	Bla-af14_2_ant-21	Bla-af14_2_ant-21_1698	2	Bla-af14_2_ant-21_4038	2	0	Black garden ant	ants	100.0
+taxongroup	Bla-af14_2_ant-21	Bla-af14_2_ant-16	Bla-af14_2_ant-21_1698	2	Bla-af14_2_ant-16_4038	2	0	Black garden ant	ants	100.0
+taxongroup	Las-be5f_3_ant-11	Las-be5f_3_ant-11	Las-be5f_3_ant-11_1698	3	Las-be5f_3_ant-11_4038	3	0	Black garden ant	ants	100.0
+taxongroup	Blabf9a_12_ants-9	Blabf9a_12_ants-9	Blabf9a_12_ants-9_1698	12	Blabf9a_12_ants-9_4038	12	0	Black garden ant	ants	100.0
+taxongroup	Bla-af14_11_ant-3	Bla-af14_11_ant-3	Bla-af14_11_ant-3_1698	11	Bla-af14_11_ant-3_4038	11	0	Black garden ant	ants	100.0
+taxongroup	Blabf9a_12_ants-3	Blabf9a_12_ants-9	Blabf9a_12_ants-3_1698	12	Blabf9a_12_ants-9_4038	12	0	Black garden ant	ants	100.0
+taxongroup	Blabf9a_12_ants-3	Blabf9a_12_ants-3	Blabf9a_12_ants-3_1698	12	Blabf9a_12_ants-3_4038	12	0	Black garden ant	ants	100.0
+taxongroup	Blabf9a_12_ants-9	Blabf9a_12_ants-3	Blabf9a_12_ants-9_1698	12	Blabf9a_12_ants-3_4038	12	0	Black garden ant	ants	100.0
+taxongroup	Blabf9a_16_ants-3	Blabf9a_16_ants-3	Blabf9a_16_ants-3_1698	16	Blabf9a_16_ants-3_4038	16	0	Black garden ant	ants	100.0
+taxongroup	Nar-e858_329_Bombus-7	Nar-e858_329_bees-5	Nar-e858_329_Bombus-7_943	329	Nar-e858_329_bees-5_4040	329	0	Bombus	bees 	100.0
+taxongroup	Nar-e858_339_Bombus-11	Nar-e858_339_bees-7	Nar-e858_339_Bombus-11_943	339	Nar-e858_339_bees-7_4040	339	0	Bombus	bees 	100.0
+taxongroup	Mas-1837_15_Bombus-10	Mas-1837_15_bees-31	Mas-1837_15_Bombus-10_943	15	Mas-1837_15_bees-31_4040	15	0	Bombus	bees 	100.0
+taxongroup	Col-e01a_51_ants-9	Col-e01a_51_insects-6	Col-e01a_51_ants-9_462	51	Col-e01a_51_insects-6_4008	51	0	Ants	insects	100.0
+taxongroup	Bum-e9d6_61_Bombus-3	Bum-e9d6_61_bees-30	Bum-e9d6_61_Bombus-3_943	61	Bum-e9d6_61_bees-30_4040	61	0	Bombus	bees 	100.0
+taxongroup	Bum-e9d6_61_Bombus-3	Bum-e9d6_61_bees-40	Bum-e9d6_61_Bombus-3_943	61	Bum-e9d6_61_bees-40_4040	61	0	Bombus	bees 	100.0
+taxongroup	Bum-e9d6_90_Bombus-7	Bum-e9d6_90_Bees-1	Bum-e9d6_90_Bombus-7_943	90	Bum-e9d6_90_Bees-1_4040	90	0	Bombus	bees 	100.0
+taxongroup	Bum-e9d6_130_Bombus-6	Bum-e9d6_130_bees-9	Bum-e9d6_130_Bombus-6_943	130	Bum-e9d6_130_bees-9_4040	130	0	Bombus	bees 	100.0
+taxongroup	Bee-ace3_221_Bombus-6	Bee-ace3_221_bees-3	Bee-ace3_221_Bombus-6_943	221	Bee-ace3_221_bees-3_4040	221	0	Bombus	bees 	100.0
+taxongroup	Dom-6f87_171_Bombus-19	Dom-6f87_171_insects-3	Dom-6f87_171_Bombus-19_943	171	Dom-6f87_171_insects-3_4008	171	0	Bombus	insects	100.0
+taxongroup	Bomd33c_11_bumblebees-4	Bomd33c_11_bumblebee-10	Bomd33c_11_bumblebees-4_68	11	Bomd33c_11_bumblebee-10_4265	11	0	Buff-tailed bumblebee	bumblebees	100.0
+taxongroup	Bomd33c_11_bumblebee-10	Bomd33c_11_bumblebees-4	Bomd33c_11_bumblebee-10_68	11	Bomd33c_11_bumblebees-4_4265	11	0	Buff-tailed bumblebee	bumblebees	100.0
+taxongroup	Bomd33c_11_bumblebee-10	Bomd33c_11_bumblebee-10	Bomd33c_11_bumblebee-10_68	11	Bomd33c_11_bumblebee-10_4265	11	0	Buff-tailed bumblebee	bumblebees	100.0
+taxongroup	Bomd33c_11_bumblebees-4	Bomd33c_11_bumblebees-4	Bomd33c_11_bumblebees-4_68	11	Bomd33c_11_bumblebees-4_4265	11	0	Buff-tailed bumblebee	bumblebees	100.0
+taxongroup	Bum-e9d6_61_wasps-32	Bum-e9d6_61_wasps-32	Bum-e9d6_61_wasps-32_3607	61	Bum-e9d6_61_wasps-32_4218	61	0	Common wasp	wasps	100.0
+taxongroup	Bla-af14_2_ant-4	Bla-af14_2_ant-21	Bla-af14_2_ant-4_1698	2	Bla-af14_2_ant-21_4038	2	0	Black garden ant	ants	100.0
+taxongroup	Bla-af14_2_ant-4	Bla-af14_2_ant-16	Bla-af14_2_ant-4_1698	2	Bla-af14_2_ant-16_4038	2	0	Black garden ant	ants	100.0
+taxongroup	Bla-af14_2_ant-16	Bla-af14_2_ant-16	Bla-af14_2_ant-16_1698	2	Bla-af14_2_ant-16_4038	2	0	Black garden ant	ants	100.0
+taxongroup	Bla-af14_2_ant-16	Bla-af14_2_ant-21	Bla-af14_2_ant-16_1698	2	Bla-af14_2_ant-21_4038	2	0	Black garden ant	ants	100.0
+taxongroup	Ame-35ae_258_ants-17	Ame-35ae_258_insects-8	Ame-35ae_258_ants-17_462	258	Ame-35ae_258_insects-8_4008	258	0	Ants	insects	100.0
+taxongroup	Hea-9af6_19_ants-10	Hea-9af6_19_insects-8	Hea-9af6_19_ants-10_462	19	Hea-9af6_19_insects-8_4008	19	0	Ants	insects	100.0
+taxongroup	For12e9_5_ants-17	For12e9_5_insects-9	For12e9_5_ants-17_462	5	For12e9_5_insects-9_4008	5	0	Ants	insects	100.0
+taxongroup	Eus-5ea1_44_ants-13	Eus-5ea1_44_insects-10	Eus-5ea1_44_ants-13_462	44	Eus-5ea1_44_insects-10_4008	44	0	Ants	insects	100.0
+taxongroup	Sloeb60_9_Being-1	Sloeb60_9_animal-32	Sloeb60_9_Being-1_465	9	Sloeb60_9_animal-32_44	9	0	Bees 	Animals	100.0
+taxongroup	Bla-af14_2_ant-16	Bla-af14_2_ant-4	Bla-af14_2_ant-16_1698	2	Bla-af14_2_ant-4_462	2	0	Black garden ant	Ants	100.0
+taxongroup	Bla-af14_2_ant-16	Bla-af14_2_Lasius-29	Bla-af14_2_ant-16_1698	2	Bla-af14_2_Lasius-29_1099	2	0	Black garden ant	Lasius	100.0
+taxongroup	Bla-af14_2_ant-21	Bla-af14_2_Lasius-29	Bla-af14_2_ant-21_1698	2	Bla-af14_2_Lasius-29_1099	2	0	Black garden ant	Lasius	100.0
+taxongroup	Bla-af14_2_ant-4	Bla-af14_2_Lasius-29	Bla-af14_2_ant-4_1698	2	Bla-af14_2_Lasius-29_1099	2	0	Black garden ant	Lasius	100.0
+taxongroup	Las-be5f_3_ant-11	Las-be5f_3_Lasius-13	Las-be5f_3_ant-11_1698	3	Las-be5f_3_Lasius-13_1099	3	0	Black garden ant	Lasius	100.0
+taxongroup	For-fc8f_2_Formica-1	For-fc8f_2_ants-6	For-fc8f_2_Formica-1_1035	2	For-fc8f_2_ants-6_4038	2	0	Formica	ants	100.0
+taxongroup	For-fc8f_2_Formica-1	For-fc8f_2_ants-24	For-fc8f_2_Formica-1_1035	2	For-fc8f_2_ants-24_4038	2	0	Formica	ants	100.0
+taxongroup	For-fc8f_41_Formica-7	For-fc8f_41_ants-3	For-fc8f_41_Formica-7_1035	41	For-fc8f_41_ants-3_4038	41	0	Formica	ants	100.0
+taxongroup	For-fc8f_4_Formica-13	For-fc8f_4_ant-12	For-fc8f_4_Formica-13_1035	4	For-fc8f_4_ant-12_4038	4	0	Formica	ants	100.0
+taxongroup	For-fc8f_2_Formica-1	For-fc8f_2_ants-21	For-fc8f_2_Formica-1_1035	2	For-fc8f_2_ants-21_4038	2	0	Formica	ants	100.0
+taxongroup	Eur-2860_63_Formica-16	Eur-2860_63_ants-10	Eur-2860_63_Formica-16_1035	63	Eur-2860_63_ants-10_4038	63	0	Formica	ants	100.0
+taxongroup	For-fc8f_4_Formica-6	For-fc8f_4_ant-12	For-fc8f_4_Formica-6_1035	4	For-fc8f_4_ant-12_4038	4	0	Formica	ants	100.0
+taxongroup	For-71bb_3_Formica-10	For-71bb_3_ants-15	For-71bb_3_Formica-10_1035	3	For-71bb_3_ants-15_4038	3	0	Formica	ants	100.0
+taxongroup	For-71bb_3_Formica-10	For-71bb_3_ants-22	For-71bb_3_Formica-10_1035	3	For-71bb_3_ants-22_4038	3	0	Formica	ants	100.0
+taxongroup	For-53a6_4_Formica-12	For-53a6_4_ants-9	For-53a6_4_Formica-12_1035	4	For-53a6_4_ants-9_4038	4	0	Formica	ants	100.0
+taxongroup	For-53a6_4_Formica-16	For-53a6_4_ants-9	For-53a6_4_Formica-16_1035	4	For-53a6_4_ants-9_4038	4	0	Formica	ants	100.0
+taxongroup	For-2c70_2_Formica-1	For-2c70_2_ant-9	For-2c70_2_Formica-1_1035	2	For-2c70_2_ant-9_4038	2	0	Formica	ants	100.0
+taxongroup	For-2c70_2_Formica-1	For-2c70_2_ant-16	For-2c70_2_Formica-1_1035	2	For-2c70_2_ant-16_4038	2	0	Formica	ants	100.0
+taxongroup	For-53a6_2_Formica-1	For-53a6_2_ant-10	For-53a6_2_Formica-1_1035	2	For-53a6_2_ant-10_4038	2	0	Formica	ants	100.0
+taxongroup	Ant-938d_2_Formicidae-8	Ant-938d_2_Hymenoptera-23	Ant-938d_2_Formicidae-8_461	2	Ant-938d_2_Hymenoptera-23_2573	2	0	Formicidae	Hymenoptera	100.0
+taxongroup	Ant-938d_2_Formicidae-8	Ant-938d_2_insects-4	Ant-938d_2_Formicidae-8_461	2	Ant-938d_2_insects-4_4008	2	0	Formicidae	insects	100.0
+taxongroup	Asi-8957_2_hornet-24	Asi-8957_2_Vespa-6	Asi-8957_2_hornet-24_2210	2	Asi-8957_2_Vespa-6_1080	2	0	Hornet	Vespa	100.0
+taxongroup	For-fc8f_2_Formica-1	For-fc8f_2_ants-28	For-fc8f_2_Formica-1_1035	2	For-fc8f_2_ants-28_4038	2	0	Formica	ants	100.0
+taxongroup	For-fc8f_2_Formica-1	For-fc8f_2_ants-18	For-fc8f_2_Formica-1_1035	2	For-fc8f_2_ants-18_4038	2	0	Formica	ants	100.0
+taxongroup	Was-5a21_207_wasps-4	Was-5a21_207_wasps-4	Was-5a21_207_wasps-4_3607	207	Was-5a21_207_wasps-4_4218	207	0	Common wasp	wasps	100.0
+taxongroup	For-fc8f_11_Formica-9	For-fc8f_11_ant-5	For-fc8f_11_Formica-9_1035	11	For-fc8f_11_ant-5_4038	11	0	Formica	ants	100.0
+taxongroup	Wes-8d71_2_bee-4	Wes-8d71_2_bees-23	Wes-8d71_2_bee-4_2207	2	Wes-8d71_2_bees-23_4040	2	0	European honey bee	bees 	100.0
+taxongroup	Wes-8d71_2_bee-8	Wes-8d71_2_bees-23	Wes-8d71_2_bee-8_2207	2	Wes-8d71_2_bees-23_4040	2	0	European honey bee	bees 	100.0
+taxongroup	For-fc8f_6_Formica-5	For-fc8f_6_Ants-1	For-fc8f_6_Formica-5_1035	6	For-fc8f_6_Ants-1_462	6	0	Formica	Ants	100.0
+taxongroup	For-fc8f_2_Formica-1	For-fc8f_2_Formicidae-10	For-fc8f_2_Formica-1_1035	2	For-fc8f_2_Formicidae-10_461	2	0	Formica	Formicidae	100.0
+taxongroup	For-fc8f_3_Formica-1	For-fc8f_3_Formicidae-8	For-fc8f_3_Formica-1_1035	3	For-fc8f_3_Formicidae-8_461	3	0	Formica	Formicidae	100.0
+taxongroup	For5f16_6_ants-2	For5f16_6_insects-6	For5f16_6_ants-2_462	6	For5f16_6_insects-6_4008	6	0	Ants	insects	100.0
+taxongroup	Col-e01a_21_ants-4	Col-e01a_21_insects-2	Col-e01a_21_ants-4_462	21	Col-e01a_21_insects-2_4008	21	0	Ants	insects	100.0
+taxongroup	Eci-644a_46_ants-6	Eci-644a_46_Hymenoptera-3	Eci-644a_46_ants-6_462	46	Eci-644a_46_Hymenoptera-3_2573	46	0	Ants	Hymenoptera	100.0
+taxongroup	Eus-5ea1_44_ants-13	Eus-5ea1_44_ants-13	Eus-5ea1_44_ants-13_462	44	Eus-5ea1_44_ants-13_2572	44	0	Ants	Ants, bees and wasps	100.0
+taxongroup	Bom-c423_9_ants-14	Bom-c423_9_Hymenoptera-8	Bom-c423_9_ants-14_462	9	Bom-c423_9_Hymenoptera-8_2573	9	0	Ants	Hymenoptera	100.0
+taxongroup	Ant-938d_2_Ants-1	Ant-938d_2_Hymenoptera-23	Ant-938d_2_Ants-1_462	2	Ant-938d_2_Hymenoptera-23_2573	2	0	Ants	Hymenoptera	100.0
+taxongroup	Ter-605f_9_ants-3	Ter-605f_9_Hymenoptera-13	Ter-605f_9_ants-3_462	9	Ter-605f_9_Hymenoptera-13_2573	9	0	Ants	Hymenoptera	100.0
+taxongroup	Soc-cc7f_57_ants-9	Soc-cc7f_57_Hymenoptera-7	Soc-cc7f_57_ants-9_462	57	Soc-cc7f_57_Hymenoptera-7_2573	57	0	Ants	Hymenoptera	100.0
+taxongroup	Ter-605f_183_ants-10	Ter-605f_183_Hymenoptera-8	Ter-605f_183_ants-10_462	183	Ter-605f_183_Hymenoptera-8_2573	183	0	Ants	Hymenoptera	100.0
+taxongroup	Was-5a21_2_ant-24	Was-5a21_2_Hymenoptera-16	Was-5a21_2_ant-24_462	2	Was-5a21_2_Hymenoptera-16_2573	2	0	Ants	Hymenoptera	100.0
+taxongroup	Hym-42c2_2_ants-18	Hym-42c2_2_Hymenoptera-1	Hym-42c2_2_ants-18_462	2	Hym-42c2_2_Hymenoptera-1_2573	2	0	Ants	Hymenoptera	100.0
+taxongroup	Hym-42c2_107_ant-8	Hym-42c2_107_Hymenoptera-1	Hym-42c2_107_ant-8_462	107	Hym-42c2_107_Hymenoptera-1_2573	107	0	Ants	Hymenoptera	100.0
+taxongroup	Hymc9d7_3_ants-2	Hymc9d7_3_Hymenoptera-16	Hymc9d7_3_ants-2_462	3	Hymc9d7_3_Hymenoptera-16_2573	3	0	Ants	Hymenoptera	100.0
+taxongroup	Ins-960c_119_ants-11	Ins-960c_119_Hymenoptera-4	Ins-960c_119_ants-11_462	119	Ins-960c_119_Hymenoptera-4_2573	119	0	Ants	Hymenoptera	100.0
+taxongroup	Ins-960c_54_ants-31	Ins-960c_54_Hymenoptera-27	Ins-960c_54_ants-31_462	54	Ins-960c_54_Hymenoptera-27_2573	54	0	Ants	Hymenoptera	100.0
+taxongroup	Lep-f8ec_19_ants-47	Lep-f8ec_19_Hymenoptera-45	Lep-f8ec_19_ants-47_462	19	Lep-f8ec_19_Hymenoptera-45_2573	19	0	Ants	Hymenoptera	100.0
+taxongroup	Bee-1811_31_ants-18	Bee-1811_31_Hymenoptera-12	Bee-1811_31_ants-18_462	31	Bee-1811_31_Hymenoptera-12_2573	31	0	Ants	Hymenoptera	100.0
+taxongroup	Apo-f97b_28_ant-39	Apo-f97b_28_insects-2	Apo-f97b_28_ant-39_462	28	Apo-f97b_28_insects-2_4008	28	0	Ants	insects	100.0
+taxongroup	Bar-b361_109_ants-10	Bar-b361_109_Hymenoptera-6	Bar-b361_109_ants-10_462	109	Bar-b361_109_Hymenoptera-6_2573	109	0	Ants	Hymenoptera	100.0
+taxongroup	Eus-5ea1_44_ants-13	Eus-5ea1_44_Hymenoptera-3	Eus-5ea1_44_ants-13_462	44	Eus-5ea1_44_Hymenoptera-3_2573	44	0	Ants	Hymenoptera	100.0
+taxongroup	Hym-42c2_107_ant-8	Hym-42c2_107_Insects-4	Hym-42c2_107_ant-8_462	107	Hym-42c2_107_Insects-4_397	107	0	Ants	Insects	100.0
+taxongroup	Ant-938d_227_ants-10	Ant-938d_227_animals-2	Ant-938d_227_ants-10_462	227	Ant-938d_227_animals-2_3812	227	0	Ants	animals	100.0
+taxongroup	Ant-938d_110_ant-5	Ant-938d_110_animal-37	Ant-938d_110_ant-5_462	110	Ant-938d_110_animal-37_3812	110	0	Ants	animals	100.0
+taxongroup	Ant-938d_449_ants-13	Ant-938d_449_animals-18	Ant-938d_449_ants-13_462	449	Ant-938d_449_animals-18_3812	449	0	Ants	animals	100.0
+taxongroup	Too-567c_48_ants-28	Too-567c_48_animals-2	Too-567c_48_ants-28_462	48	Too-567c_48_animals-2_3812	48	0	Ants	animals	100.0
+taxongroup	Too-567c_48_ants-32	Too-567c_48_animals-2	Too-567c_48_ants-32_462	48	Too-567c_48_animals-2_3812	48	0	Ants	animals	100.0
+taxongroup	Sem2e6d_56_Ants-1	Sem2e6d_56_animal-4	Sem2e6d_56_Ants-1_462	56	Sem2e6d_56_animal-4_3812	56	0	Ants	animals	100.0
+taxongroup	Ant83a9_3_Ants-1	Ant83a9_3_animal-4	Ant83a9_3_Ants-1_462	3	Ant83a9_3_animal-4_3812	3	0	Ants	animals	100.0
+taxongroup	Ant-f910_50_ant-10	Ant-f910_50_animal-28	Ant-f910_50_ant-10_462	50	Ant-f910_50_animal-28_3812	50	0	Ants	animals	100.0
+taxongroup	Aph-1a7e_100_ants-24	Aph-1a7e_100_animals-21	Aph-1a7e_100_ants-24_462	100	Aph-1a7e_100_animals-21_3812	100	0	Ants	animals	100.0
+taxongroup	For-ac12_101_ants-24	For-ac12_101_animals-21	For-ac12_101_ants-24_462	101	For-ac12_101_animals-21_3812	101	0	Ants	animals	100.0
+taxongroup	Eus-5ea1_9_ants-9	Eus-5ea1_9_ants-9	Eus-5ea1_9_ants-9_462	9	Eus-5ea1_9_ants-9_2572	9	0	Ants	Ants, bees and wasps	100.0
+taxongroup	Bom-c423_9_ants-14	Bom-c423_9_ants-14	Bom-c423_9_ants-14_462	9	Bom-c423_9_ants-14_2572	9	0	Ants	Ants, bees and wasps	100.0
+taxongroup	Par-5c6e_160_ants-15	Par-5c6e_160_ants-15	Par-5c6e_160_ants-15_462	160	Par-5c6e_160_ants-15_2572	160	0	Ants	Ants, bees and wasps	100.0
+taxongroup	Mim-33dd_104_ants-11	Mim-33dd_104_ants-11	Mim-33dd_104_ants-11_462	104	Mim-33dd_104_ants-11_2572	104	0	Ants	Ants, bees and wasps	100.0
+taxongroup	Par-e8bc_140_ants-15	Par-e8bc_140_animals-12	Par-e8bc_140_ants-15_462	140	Par-e8bc_140_animals-12_44	140	0	Ants	Animals	100.0
+taxongroup	Lea-7e84_8_ants-6	Lea-7e84_8_animal-15	Lea-7e84_8_ants-6_462	8	Lea-7e84_8_animal-15_44	8	0	Ants	Animals	100.0
+taxongroup	Cal-fa4d_4_ants-13	Cal-fa4d_4_animals-23	Cal-fa4d_4_ants-13_462	4	Cal-fa4d_4_animals-23_44	4	0	Ants	Animals	100.0
+taxongroup	Cha-1a30_159_ants-21	Cha-1a30_159_animals-19	Cha-1a30_159_ants-21_462	159	Cha-1a30_159_animals-19_44	159	0	Ants	Animals	100.0
+taxongroup	Arm-33e3_114_ants-6	Arm-33e3_114_animals-13	Arm-33e3_114_ants-6_462	114	Arm-33e3_114_animals-13_44	114	0	Ants	Animals	100.0
+taxongroup	Bee-1811_372_ants-37	Bee-1811_372_animal-13	Bee-1811_372_ants-37_462	372	Bee-1811_372_animal-13_44	372	0	Ants	Animals	100.0
+taxongroup	Col-e01a_21_ants-4	Col-e01a_21_animals-10	Col-e01a_21_ants-4_462	21	Col-e01a_21_animals-10_44	21	0	Ants	Animals	100.0
+taxongroup	Com-9711_170_ants-31	Com-9711_170_animals-24	Com-9711_170_ants-31_462	170	Com-9711_170_animals-24_44	170	0	Ants	Animals	100.0
+taxongroup	Cor-66f6_91_ants-19	Cor-66f6_91_animals-11	Cor-66f6_91_ants-19_462	91	Cor-66f6_91_animals-11_44	91	0	Ants	Animals	100.0
+taxongroup	Aar-5e58_154_ant-19	Aar-5e58_154_animals-12	Aar-5e58_154_ant-19_462	154	Aar-5e58_154_animals-12_44	154	0	Ants	Animals	100.0
+taxongroup	Ani-2170_64_ants-32	Ani-2170_64_animals-8	Ani-2170_64_ants-32_462	64	Ani-2170_64_animals-8_44	64	0	Ants	Animals	100.0
+taxongroup	Gia-b75c_144_ants-10	Gia-b75c_144_animal-2	Gia-b75c_144_ants-10_462	144	Gia-b75c_144_animal-2_44	144	0	Ants	Animals	100.0
+taxongroup	Flo-338d_276_ants-27	Flo-338d_276_animal-11	Flo-338d_276_ants-27_462	276	Flo-338d_276_animal-11_44	276	0	Ants	Animals	100.0
+taxongroup	Ani-2170_64_ants-32	Ani-2170_64_animals-23	Ani-2170_64_ants-32_462	64	Ani-2170_64_animals-23_44	64	0	Ants	Animals	100.0
+taxongroup	Pre-b54c_37_ants-42	Pre-b54c_37_animals-28	Pre-b54c_37_ants-42_462	37	Pre-b54c_37_animals-28_44	37	0	Ants	Animals	100.0
+taxongroup	Soc-cc7f_57_ants-9	Soc-cc7f_57_ants-9	Soc-cc7f_57_ants-9_462	57	Soc-cc7f_57_ants-9_2572	57	0	Ants	Ants, bees and wasps	100.0
+taxongroup	Ter-605f_129_ants-2	Ter-605f_129_ants-2	Ter-605f_129_ants-2_462	129	Ter-605f_129_ants-2_2572	129	0	Ants	Ants, bees and wasps	100.0
+taxongroup	Fun-7367_352_ant-34	Fun-7367_352_arthropods-48	Fun-7367_352_ant-34_462	352	Fun-7367_352_arthropods-48_4632	352	0	Ants	arthropods	100.0
+taxongroup	Ant-938d_76_ants-5	Ant-938d_76_insects-3	Ant-938d_76_ants-5_462	76	Ant-938d_76_insects-3_4008	76	0	Ants	insects	100.0
+taxongroup	Ant-938d_110_ant-5	Ant-938d_110_insects-54	Ant-938d_110_ant-5_462	110	Ant-938d_110_insects-54_4008	110	0	Ants	insects	100.0
+taxongroup	Ant-938d_64_Ants-1	Ant-938d_64_insects-9	Ant-938d_64_Ants-1_462	64	Ant-938d_64_insects-9_4008	64	0	Ants	insects	100.0
+taxongroup	Ant-938d_2_Ants-1	Ant-938d_2_insects-4	Ant-938d_2_Ants-1_462	2	Ant-938d_2_insects-4_4008	2	0	Ants	insects	100.0
+taxongroup	Swa-27b4_153_ants-15	Swa-27b4_153_insects-5	Swa-27b4_153_ants-15_462	153	Swa-27b4_153_insects-5_4008	153	0	Ants	insects	100.0
+taxongroup	Swa-27b4_153_ants-15	Swa-27b4_153_insects-7	Swa-27b4_153_ants-15_462	153	Swa-27b4_153_insects-7_4008	153	0	Ants	insects	100.0
+taxongroup	Ven-071d_43_ants-24	Ven-071d_43_insects-16	Ven-071d_43_ants-24_462	43	Ven-071d_43_insects-16_4008	43	0	Ants	insects	100.0
+taxongroup	Sum-fc8d_93_ants-18	Sum-fc8d_93_Insects-1	Sum-fc8d_93_ants-18_462	93	Sum-fc8d_93_Insects-1_4008	93	0	Ants	insects	100.0
+taxongroup	Sem2e6d_25_ants-6	Sem2e6d_25_insects-2	Sem2e6d_25_ants-6_462	25	Sem2e6d_25_insects-2_4008	25	0	Ants	insects	100.0
+taxongroup	Ins-960c_223_ants-8	Ins-960c_223_insects-2	Ins-960c_223_ants-8_462	223	Ins-960c_223_insects-2_4008	223	0	Ants	insects	100.0
+taxongroup	Ins-960c_25_ants-13	Ins-960c_25_Insects-1	Ins-960c_25_ants-13_462	25	Ins-960c_25_Insects-1_4008	25	0	Ants	insects	100.0
+taxongroup	Ins-960c_67_ants-7	Ins-960c_67_Insects-1	Ins-960c_67_ants-7_462	67	Ins-960c_67_Insects-1_4008	67	0	Ants	insects	100.0
+taxongroup	Ins-960c_242_ants-11	Ins-960c_242_insects-2	Ins-960c_242_ants-11_462	242	Ins-960c_242_insects-2_4008	242	0	Ants	insects	100.0
+taxongroup	Mam-3742_508_ants-8	Mam-3742_508_insects-2	Mam-3742_508_ants-8_462	508	Mam-3742_508_insects-2_4008	508	0	Ants	insects	100.0
+taxongroup	Hym-42c2_2_ants-18	Hym-42c2_2_insects-7	Hym-42c2_2_ants-18_462	2	Hym-42c2_2_insects-7_4008	2	0	Ants	insects	100.0
+taxongroup	Ins-960c_311_ants-8	Ins-960c_311_insects-2	Ins-960c_311_ants-8_462	311	Ins-960c_311_insects-2_4008	311	0	Ants	insects	100.0
+taxongroup	Mim-33dd_104_ants-11	Mim-33dd_104_insects-8	Mim-33dd_104_ants-11_462	104	Mim-33dd_104_insects-8_4008	104	0	Ants	insects	100.0
+taxongroup	Nep-5975_98_ants-15	Nep-5975_98_insects-18	Nep-5975_98_ants-15_462	98	Nep-5975_98_insects-18_4008	98	0	Ants	insects	100.0
+taxongroup	Pan-f76a_41_ants-10	Pan-f76a_41_insects-20	Pan-f76a_41_ants-10_462	41	Pan-f76a_41_insects-20_4008	41	0	Ants	insects	100.0
+taxongroup	Ase-acb4_76_ants-22	Ase-acb4_76_insects-19	Ase-acb4_76_ants-22_462	76	Ase-acb4_76_insects-19_4008	76	0	Ants	insects	100.0
+taxongroup	Cal-fa4d_4_ants-13	Cal-fa4d_4_insects-8	Cal-fa4d_4_ants-13_462	4	Cal-fa4d_4_insects-8_4008	4	0	Ants	insects	100.0
+taxongroup	Dom-6f87_171_ants-30	Dom-6f87_171_insects-3	Dom-6f87_171_ants-30_462	171	Dom-6f87_171_insects-3_4008	171	0	Ants	insects	100.0
+taxongroup	Dom-6f87_272_ants-12	Dom-6f87_272_insects-10	Dom-6f87_272_ants-12_462	272	Dom-6f87_272_insects-10_4008	272	0	Ants	insects	100.0
+taxongroup	Eas-b7c7_26_ants-25	Eas-b7c7_26_insects-22	Eas-b7c7_26_ants-25_462	26	Eas-b7c7_26_insects-22_4008	26	0	Ants	insects	100.0
+taxongroup	Eci-644a_70_ants-18	Eci-644a_70_insects-3	Eci-644a_70_ants-18_462	70	Eci-644a_70_insects-3_4008	70	0	Ants	insects	100.0
+taxongroup	Eci-644a_71_ants-20	Eci-644a_71_insects-10	Eci-644a_71_ants-20_462	71	Eci-644a_71_insects-10_4008	71	0	Ants	insects	100.0
+taxongroup	Bur-f024_38_ants-20	Bur-f024_38_insects-13	Bur-f024_38_ants-20_462	38	Bur-f024_38_insects-13_4008	38	0	Ants	insects	100.0
+taxongroup	Hem-78f3_5_ants-24	Hem-78f3_5_arthropods-16	Hem-78f3_5_ants-24_462	5	Hem-78f3_5_arthropods-16_4632	5	0	Ants	arthropods	100.0
+taxongroup	Fro-2392_546_ants-7	Fro-2392_546_arthropods-10	Fro-2392_546_ants-7_462	546	Fro-2392_546_arthropods-10_4632	546	0	Ants	arthropods	100.0
+taxongroup	Eur-a59b_86_ants-30	Eur-a59b_86_arthropods-16	Eur-a59b_86_ants-30_462	86	Eur-a59b_86_arthropods-16_4632	86	0	Ants	arthropods	100.0
+taxongroup	Ant-938d_308_ants-16	Ant-938d_308_arthropod-2	Ant-938d_308_ants-16_462	308	Ant-938d_308_arthropod-2_4632	308	0	Ants	arthropods	100.0
+taxongroup	Pea-41a9_109_ants-6	Pea-41a9_109_arthropods-16	Pea-41a9_109_ants-6_462	109	Pea-41a9_109_arthropods-16_4632	109	0	Ants	arthropods	100.0
+taxongroup	Ant-938d_308_ants-30	Ant-938d_308_arthropod-2	Ant-938d_308_ants-30_462	308	Ant-938d_308_arthropod-2_4632	308	0	Ants	arthropods	100.0
+taxongroup	Ant-938d_70_ants-5	Ant-938d_70_arthropods-3	Ant-938d_70_ants-5_462	70	Ant-938d_70_arthropods-3_4632	70	0	Ants	arthropods	100.0
+taxongroup	Eur-a59b_86_ants-8	Eur-a59b_86_arthropods-16	Eur-a59b_86_ants-8_462	86	Eur-a59b_86_arthropods-16_4632	86	0	Ants	arthropods	100.0
+taxongroup	Man-05b8_132_ants-2	Man-05b8_132_arthropods-22	Man-05b8_132_ants-2_462	132	Man-05b8_132_arthropods-22_4632	132	0	Ants	arthropods	100.0
+taxongroup	Man-05b8_133_ants-18	Man-05b8_133_arthropods-4	Man-05b8_133_ants-18_462	133	Man-05b8_133_arthropods-4_4632	133	0	Ants	arthropods	100.0
+taxongroup	Nep-5975_98_ants-15	Nep-5975_98_arthropods-12	Nep-5975_98_ants-15_462	98	Nep-5975_98_arthropods-12_4632	98	0	Ants	arthropods	100.0
+taxongroup	Arm-33e3_149_ants-5	Arm-33e3_149_arthropod-20	Arm-33e3_149_ants-5_462	149	Arm-33e3_149_arthropod-20_4632	149	0	Ants	arthropods	100.0
+taxongroup	Eci-644a_143_ants-26	Eci-644a_143_arthropods-12	Eci-644a_143_ants-26_462	143	Eci-644a_143_arthropods-12_4632	143	0	Ants	arthropods	100.0
+taxongroup	Eci-644a_2_ant-10	Eci-644a_2_ant-10	Eci-644a_2_ant-10_4891	2	Eci-644a_2_ant-10_4038	2	0	army ant	ants	100.0
+taxongroup	Woo-c0f5_120_ants-4	Woo-c0f5_120_arthropods-18	Woo-c0f5_120_ants-4_4038	120	Woo-c0f5_120_arthropods-18_4632	120	0	ants	arthropods	100.0
+taxongroup	Fun-7367_352_ants-4	Fun-7367_352_arthropods-48	Fun-7367_352_ants-4_4038	352	Fun-7367_352_arthropods-48_4632	352	0	ants	arthropods	100.0
+taxongroup	Eci-b4a9_19_ants-39	Eci-b4a9_19_ant-17	Eci-b4a9_19_ants-39_4891	19	Eci-b4a9_19_ant-17_462	19	0	army ant	Ants	100.0
+taxongroup	Eci-b4a9_4_ants-18	Eci-b4a9_4_Eciton-4	Eci-b4a9_4_ants-18_4891	4	Eci-b4a9_4_Eciton-4_1012	4	0	army ant	Eciton	100.0
+taxongroup	Eci-b4a9_4_ants-18	Eci-b4a9_4_Eciton-1	Eci-b4a9_4_ants-18_4891	4	Eci-b4a9_4_Eciton-1_1012	4	0	army ant	Eciton	100.0
+taxongroup	Eci-644a_3_ant-18	Eci-644a_3_Eciton-16	Eci-644a_3_ant-18_4891	3	Eci-644a_3_Eciton-16_1012	3	0	army ant	Eciton	100.0
+taxongroup	Eci-644a_2_ant-10	Eci-644a_2_Eciton-1	Eci-644a_2_ant-10_4891	2	Eci-644a_2_Eciton-1_1012	2	0	army ant	Eciton	100.0
+taxongroup	Eci-644a_2_ant-10	Eci-644a_2_Eciton-14	Eci-644a_2_ant-10_4891	2	Eci-644a_2_Eciton-14_1012	2	0	army ant	Eciton	100.0
+taxongroup	Eci-b4a9_3_ant-22	Eci-b4a9_3_Eciton-10	Eci-b4a9_3_ant-22_4891	3	Eci-b4a9_3_Eciton-10_1012	3	0	army ant	Eciton	100.0
+taxongroup	Eci-b4a9_8_ants-3	Eci-b4a9_8_Eciton-1	Eci-b4a9_8_ants-3_4891	8	Eci-b4a9_8_Eciton-1_1012	8	0	army ant	Eciton	100.0
+taxongroup	Eci-b4a9_2_ants-17	Eci-b4a9_2_Eciton-1	Eci-b4a9_2_ants-17_4891	2	Eci-b4a9_2_Eciton-1_1012	2	0	army ant	Eciton	100.0
+taxongroup	Sah654d_1_ant-4	Sah654d_1_animals-24	Sah654d_1_ant-4_3258	1	Sah654d_1_animals-24_3812	1	0	Saharan silver ant	animals	100.0
+taxongroup	Ant-938d_2_Hymenoptera-23	Ant-938d_2_insects-4	Ant-938d_2_Hymenoptera-23_2573	2	Ant-938d_2_insects-4_4008	2	0	Hymenoptera	insects	100.0
+taxongroup	Sah-177c_2_ant-4	Sah-177c_2_ant-4	Sah-177c_2_ant-4_3258	2	Sah-177c_2_ant-4_462	2	0	Saharan silver ant	Ants	100.0
+taxongroup	Des-000c_363_ant-4	Des-000c_363_ant-4	Des-000c_363_ant-4_3258	363	Des-000c_363_ant-4_462	363	0	Saharan silver ant	Ants	100.0
+taxongroup	Sah654d_1_ant-4	Sah654d_1_ant-4	Sah654d_1_ant-4_3258	1	Sah654d_1_ant-4_462	1	0	Saharan silver ant	Ants	100.0
+taxongroup	For-fc8f_33_ants-2	For-fc8f_33_ants-2	For-fc8f_33_ants-2_1036	33	For-fc8f_33_ants-2_462	33	0	Wood ants	Ants	100.0
+taxongroup	For-fc8f_33_ant-34	For-fc8f_33_ants-2	For-fc8f_33_ant-34_1036	33	For-fc8f_33_ants-2_462	33	0	Wood ants	Ants	100.0
+taxongroup	For-fc8f_33_ant-34	For-fc8f_33_ant-49	For-fc8f_33_ant-34_1036	33	For-fc8f_33_ant-49_462	33	0	Wood ants	Ants	100.0
+taxongroup	For-fc8f_33_ant-34	For-fc8f_33_ant-34	For-fc8f_33_ant-34_1036	33	For-fc8f_33_ant-34_462	33	0	Wood ants	Ants	100.0
+taxongroup	For-fc8f_33_ant-49	For-fc8f_33_ants-2	For-fc8f_33_ant-49_1036	33	For-fc8f_33_ants-2_462	33	0	Wood ants	Ants	100.0
+taxongroup	For-fc8f_33_ants-2	For-fc8f_33_ant-34	For-fc8f_33_ants-2_1036	33	For-fc8f_33_ant-34_462	33	0	Wood ants	Ants	100.0
+taxongroup	For-fc8f_33_ants-2	For-fc8f_33_ant-49	For-fc8f_33_ants-2_1036	33	For-fc8f_33_ant-49_462	33	0	Wood ants	Ants	100.0
+taxongroup	Eur-a59b_85_ants-2	Eur-a59b_85_ants-2	Eur-a59b_85_ants-2_1036	85	Eur-a59b_85_ants-2_462	85	0	Wood ants	Ants	100.0
+taxongroup	For-fc8f_33_ant-49	For-fc8f_33_ant-49	For-fc8f_33_ant-49_1036	33	For-fc8f_33_ant-49_462	33	0	Wood ants	Ants	100.0
+taxongroup	For-fc8f_33_ant-49	For-fc8f_33_ant-34	For-fc8f_33_ant-49_1036	33	For-fc8f_33_ant-34_462	33	0	Wood ants	Ants	100.0
+taxongroup	Sym1a11_17_ants-2	Sym1a11_17_ants-2	Sym1a11_17_ants-2_1036	17	Sym1a11_17_ants-2_462	17	0	Wood ants	Ants	100.0
+taxongroup	Apo-f97b_125_hornet-5	Apo-f97b_125_wasp-14	Apo-f97b_125_hornet-5_2210	125	Apo-f97b_125_wasp-14_4218	125	0	Hornet	wasps	100.0
+taxongroup	For12e9_1_ants-2	For12e9_1_ants-2	For12e9_1_ants-2_1036	1	For12e9_1_ants-2_462	1	0	Wood ants	Ants	100.0

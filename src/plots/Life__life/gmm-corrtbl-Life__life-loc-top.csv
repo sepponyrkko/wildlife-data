@@ -1,0 +1,17 @@
+feat,pearson,p_pvalue,spearman,s_pvalue,N,group,relrole
+conj> ...,0.919,0.003,0.791,0.034,4.0,Life__life,location_topic
+conj<conj> fox,0.836,0.019,0.802,0.03,3.0,Life__life,location_topic
+conj<conj>amod> red,0.83,0.021,0.791,0.034,2.0,Life__life,location_topic
+conj<conj> ...,0.739,0.058,0.802,0.03,12.0,Life__life,location_topic
+conj<conj> wolf,0.706,0.076,0.612,0.144,2.0,Life__life,location_topic
+conj<conj>amod> european,0.673,0.098,0.757,0.049,3.0,Life__life,location_topic
+conj<conj> bear,0.635,0.125,0.612,0.144,5.0,Life__life,location_topic
+case> ...,0.629,0.13,0.478,0.278,4.0,Life__life,location_topic
+conj<conj>amod> ...,0.626,0.132,0.802,0.03,8.0,Life__life,location_topic
+conj<conj>amod> black,0.576,0.176,0.612,0.144,2.0,Life__life,location_topic
+conj>cc> and,0.561,0.19,0.632,0.127,2.0,Life__life,location_topic
+conj<conj> weasel,0.556,0.195,0.612,0.144,2.0,Life__life,location_topic
+conj<conj>amod> american,0.531,0.22,0.612,0.144,3.0,Life__life,location_topic
+nmod< ...,0.526,0.225,0.538,0.213,4.0,Life__life,location_topic
+conj>cc> ...,0.315,0.491,0.204,0.661,1.0,Life__life,location_topic
+conj<conj>compound> ...,-0.2,0.668,-0.045,0.924,3.0,Life__life,location_topic

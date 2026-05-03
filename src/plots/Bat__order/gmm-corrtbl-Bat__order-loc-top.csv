@@ -1,0 +1,12 @@
+feat,pearson,p_pvalue,spearman,s_pvalue,N,group,relrole
+case> ...,0.917,0.01,0.845,0.034,3,Bat__order,location_topic
+appos<amod> ...,0.901,0.014,0.845,0.034,4,Bat__order,location_topic
+det> the,0.782,0.066,0.828,0.042,4,Bat__order,location_topic
+appos> ...,0.714,0.111,0.648,0.164,5,Bat__order,location_topic
+compound> ...,-0.714,0.111,-0.621,0.188,4,Bat__order,location_topic
+appos< bat,-0.395,0.438,-0.393,0.441,2,Bat__order,location_topic
+amod> common,-0.339,0.511,-0.372,0.468,4,Bat__order,location_topic
+conj<appos>amod> ...,0.312,0.547,0.131,0.805,3,Bat__order,location_topic
+amod> ...,0.31,0.549,0.273,0.6,6,Bat__order,location_topic
+appos< ...,-0.274,0.599,-0.131,0.805,1,Bat__order,location_topic
+compound> blossom,0.008,0.988,0.131,0.805,3,Bat__order,location_topic

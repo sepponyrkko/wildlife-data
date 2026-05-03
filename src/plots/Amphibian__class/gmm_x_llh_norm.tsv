@@ -1,0 +1,8 @@
+source	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	31.43	0.89	21.13	0.63	0.56	19.92	25.43	Amphibian__class	73
+adaptation_topic	0.0	37.43	9.19	0.0	0.84	26.64	25.88	Amphibian__class	174
+free_topic	0.0	0.01	83.86	0.0	0.0	8.27	7.86	Amphibian__class	577
+location_comment	0.0	0.07	6.1	86.94	0.01	6.01	0.87	Amphibian__class	63
+location_topic	0.0	2.44	7.69	0.0	29.96	29.96	29.96	Amphibian__class	133
+taxongroup_comment	0.0	0.14	2.51	0.0	0.03	71.94	25.38	Amphibian__class	388
+taxongroup_topic	0.0	0.04	3.96	0.0	0.0	18.96	77.04	Amphibian__class	399

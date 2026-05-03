@@ -1,0 +1,8 @@
+source	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	28.58	2.6	12.43	0.0	0.0	28.58	27.82	Bat__order	53
+adaptation_topic	0.0	37.88	0.13	0.0	0.0	25.93	36.06	Bat__order	110
+free_topic	0.0	0.02	53.97	0.0	0.0	20.34	25.67	Bat__order	458
+location_comment	0.0	0.32	10.31	52.4	0.0	12.88	24.09	Bat__order	6
+location_topic	0.0	6.91	0.98	0.0	39.54	28.83	23.74	Bat__order	10
+taxongroup_comment	0.0	0.0	0.0	0.0	0.0	58.64	41.36	Bat__order	423
+taxongroup_topic	0.0	0.0	0.0	0.0	0.0	36.19	63.81	Bat__order	399

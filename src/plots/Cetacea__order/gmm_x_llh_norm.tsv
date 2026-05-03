@@ -1,0 +1,8 @@
+source	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	42.53	1.97	20.48	0.0	0.11	25.9	9.0	Cetacea__order	121
+adaptation_topic	0.0	57.86	16.02	0.0	0.0	10.88	15.24	Cetacea__order	181
+free_topic	0.0	0.3	85.5	0.0	0.0	6.64	7.56	Cetacea__order	421
+location_comment	0.0	0.05	1.14	95.7	0.0	2.12	1.0	Cetacea__order	40
+location_topic	0.0	2.05	11.14	0.0	28.94	28.94	28.94	Cetacea__order	103
+taxongroup_comment	0.0	0.05	1.71	0.0	0.0	90.97	7.27	Cetacea__order	220
+taxongroup_topic	0.0	0.02	0.59	0.0	0.0	6.46	92.92	Cetacea__order	224

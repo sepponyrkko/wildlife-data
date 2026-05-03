@@ -1,0 +1,1010 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Dol-b828_10_spider-46	Dol-b828_10_bogs-38	Dol-b828_10_spider-46_4865	10	Dol-b828_10_bogs-38_4511	10	0	raft spiders	bog	100.0
+location	Cro-4b5e_147_crab-9	Cro-4b5e_147_reef-20	Cro-4b5e_147_crab-9_5092	147	Cro-4b5e_147_reef-20_4532	147	0	hermit crabs	reefs	100.0
+location	Dol-b828_70_spider-4	Dol-b828_70_bog-15	Dol-b828_70_spider-4_4865	70	Dol-b828_70_bog-15_4511	70	0	raft spiders	bog	100.0
+location	Dol-b828_10_spider-29	Dol-b828_10_bogs-38	Dol-b828_10_spider-29_4865	10	Dol-b828_10_bogs-38_4511	10	0	raft spiders	bog	100.0
+location	Dolc856_8_spider-9	Dolc856_8_marshes-29	Dolc856_8_spider-9_4865	8	Dolc856_8_marshes-29_3807	8	0	raft spiders	marsh	100.0
+location	Sol-e070_77_Solifugae-2	Sol-e070_77_deserts-14	Sol-e070_77_Solifugae-2_3355	77	Sol-e070_77_deserts-14_3805	77	0	Solifugae	desert	87.0
+location	Dol-b828_61_spider-6	Dol-b828_61_lakes-15	Dol-b828_61_spider-6_4867	61	Dol-b828_61_lakes-15_4522	61	0	fishing spiders	lakes and ponds	83.0
+location	Her-fb77_159_crab-33	Her-fb77_158_reef-6	Her-fb77_159_crab-33_5092	159	Her-fb77_158_reef-6_4532	158	1	hermit crabs	reefs	50.0
+location	Her-fb77_159_crab-43	Her-fb77_158_reef-6	Her-fb77_159_crab-43_5092	159	Her-fb77_158_reef-6_4532	158	1	hermit crabs	reefs	50.0
+location	Her-fb77_157_crabs-6	Her-fb77_158_reef-6	Her-fb77_157_crabs-6_5092	157	Her-fb77_158_reef-6_4532	158	1	hermit crabs	reefs	50.0
+location	Her-fb77_159_crab-24	Her-fb77_158_reef-6	Her-fb77_159_crab-24_5092	159	Her-fb77_158_reef-6_4532	158	1	hermit crabs	reefs	50.0
+location	Dol-b828_71_spider-4	Dol-b828_70_bog-15	Dol-b828_71_spider-4_4865	71	Dol-b828_70_bog-15_4511	70	1	raft spiders	bog	50.0
+location	Sol-e070_100_Solifugae-22	Sol-e070_99_desert-29	Sol-e070_100_Solifugae-22_3355	100	Sol-e070_99_desert-29_3805	99	1	Solifugae	desert	43.5
+location	Dol-b828_9_Dolomedes-2	Dol-b828_10_bogs-38	Dol-b828_9_Dolomedes-2_2050	9	Dol-b828_10_bogs-38_4511	10	1	Dolomedes	bog	43.5
+location	Dol-b828_69_Dolomedes-2	Dol-b828_70_bog-15	Dol-b828_69_Dolomedes-2_2050	69	Dol-b828_70_bog-15_4511	70	1	Dolomedes	bog	43.5
+location	Tid-b2db_86_crabs-2	Tid-b2db_88_zone-8	Tid-b2db_86_crabs-2_2525	86	Tid-b2db_88_zone-8_4521	88	2	Hermit crabs	intertidal zone	33.333
+location	Her-fb77_156_crabs-2	Her-fb77_158_reef-6	Her-fb77_156_crabs-2_2525	156	Her-fb77_158_reef-6_4532	158	2	Hermit crabs	reefs	33.333
+location	Tar-bf27_19_tarantulas-6	Tar-bf27_21_desert-16	Tar-bf27_19_tarantulas-6_4198	19	Tar-bf27_21_desert-16_34	21	2	tarantulas	Desert	33.333
+location	Tar-bf27_19_tarantulas-6	Tar-bf27_21_rainforest-14	Tar-bf27_19_tarantulas-6_4198	19	Tar-bf27_21_rainforest-14_3811	21	2	tarantulas	rainforest	33.333
+location	Sol0749_7_spiders-6	Sol0749_9_deserts-15	Sol0749_7_spiders-6_5489	7	Sol0749_9_deserts-15_34	9	2	camel spiders	Desert	33.333
+location	Sol-e070_77_Solifugae-2	Sol-e070_75_desert-11	Sol-e070_77_Solifugae-2_3355	77	Sol-e070_75_desert-11_34	75	2	Solifugae	Desert	29.0
+location	Dol-b828_12_Dolomedes-1	Dol-b828_10_bogs-38	Dol-b828_12_Dolomedes-1_2050	12	Dol-b828_10_bogs-38_4511	10	2	Dolomedes	bog	29.0
+location	Dol-b828_72_Dolomedes-1	Dol-b828_70_bog-15	Dol-b828_72_Dolomedes-1_2050	72	Dol-b828_70_bog-15_4511	70	2	Dolomedes	bog	29.0
+location	Dol-b828_59_Dolomedes-1	Dol-b828_61_lakes-15	Dol-b828_59_Dolomedes-1_2050	59	Dol-b828_61_lakes-15_4522	61	2	Dolomedes	lakes and ponds	29.0
+location	Six-3725_35_spider-5	Six-3725_33_lakes-8	Six-3725_35_spider-5_2052	35	Six-3725_33_lakes-8_4522	33	2	Fishing spiders	lakes and ponds	27.667
+location	Dol-b828_61_spider-6	Dol-b828_63_bog-5	Dol-b828_61_spider-6_2052	61	Dol-b828_63_bog-5_4511	63	2	Fishing spiders	bog	27.667
+location	Dolc856_5_spider-15	Dolc856_8_marshes-29	Dolc856_5_spider-15_4865	5	Dolc856_8_marshes-29_3807	8	3	raft spiders	marsh	25.0
+location	Tid-b2db_85_crab-5	Tid-b2db_88_zone-8	Tid-b2db_85_crab-5_5092	85	Tid-b2db_88_zone-8_4521	88	3	hermit crabs	intertidal zone	25.0
+location	Her-fb77_155_crab-2	Her-fb77_158_reef-6	Her-fb77_155_crab-2_2525	155	Her-fb77_158_reef-6_4532	158	3	Hermit crabs	reefs	25.0
+location	Her-fb77_161_crabs-2	Her-fb77_158_reef-6	Her-fb77_161_crabs-2_2525	161	Her-fb77_158_reef-6_4532	158	3	Hermit crabs	reefs	25.0
+location	Dol-b828_67_Dolomedes-1	Dol-b828_70_bog-15	Dol-b828_67_Dolomedes-1_2050	67	Dol-b828_70_bog-15_4511	70	3	Dolomedes	bog	21.75
+location	Dol-b828_13_Dolomedes-1	Dol-b828_10_bogs-38	Dol-b828_13_Dolomedes-1_2050	13	Dol-b828_10_bogs-38_4511	10	3	Dolomedes	bog	21.75
+location	Dol-b828_79_Dolomedes-1	Dol-b828_76_wetlands-19	Dol-b828_79_Dolomedes-1_2050	79	Dol-b828_76_wetlands-19_4542	76	3	Dolomedes	wetlands	21.75
+location	Six-3725_36_spider-3	Six-3725_33_lakes-8	Six-3725_36_spider-3_2052	36	Six-3725_33_lakes-8_4522	33	3	Fishing spiders	lakes and ponds	20.75
+location	Six-3725_30_spider-5	Six-3725_33_lakes-8	Six-3725_30_spider-5_2052	30	Six-3725_33_lakes-8_4522	33	3	Fishing spiders	lakes and ponds	20.75
+location	Sol-e070_95_spider-6	Sol-e070_99_desert-29	Sol-e070_95_spider-6_5489	95	Sol-e070_99_desert-29_3805	99	4	camel spiders	desert	20.0
+location	Tid-b2db_84_crab-5	Tid-b2db_88_zone-8	Tid-b2db_84_crab-5_2525	84	Tid-b2db_88_zone-8_4521	88	4	Hermit crabs	intertidal zone	20.0
+location	Spi-b4d6_267_tarantulas-9	Spi-b4d6_271_desert-12	Spi-b4d6_267_tarantulas-9_4198	267	Spi-b4d6_271_desert-12_34	271	4	tarantulas	Desert	20.0
+location	Sol-e070_95_spider-21	Sol-e070_99_desert-29	Sol-e070_95_spider-21_5489	95	Sol-e070_99_desert-29_3805	99	4	camel spiders	desert	20.0
+location	Sol0749_5_spiders-2	Sol0749_9_deserts-15	Sol0749_5_spiders-2_3354	5	Sol0749_9_deserts-15_34	9	4	Camel spiders	Desert	20.0
+location	Tid-b2db_84_crab-5	Tid-b2db_80_zone-3	Tid-b2db_84_crab-5_2525	84	Tid-b2db_80_zone-3_4521	80	4	Hermit crabs	intertidal zone	20.0
+location	Tar-bf27_17_tarantula-10	Tar-bf27_21_desert-16	Tar-bf27_17_tarantula-10_4198	17	Tar-bf27_21_desert-16_3805	21	4	tarantulas	desert	20.0
+location	Tar-bf27_17_tarantula-10	Tar-bf27_21_rainforest-14	Tar-bf27_17_tarantula-10_4198	17	Tar-bf27_21_rainforest-14_3811	21	4	tarantulas	rainforest	20.0
+location	Her-fb77_162_crab-2	Her-fb77_158_reef-6	Her-fb77_162_crab-2_2525	162	Her-fb77_158_reef-6_4532	158	4	Hermit crabs	reefs	20.0
+location	Dol-b828_67_Dolomedes-1	Dol-b828_63_bog-5	Dol-b828_67_Dolomedes-1_2050	67	Dol-b828_63_bog-5_4511	63	4	Dolomedes	bog	17.4
+location	Dol-b828_59_Dolomedes-1	Dol-b828_63_bog-5	Dol-b828_59_Dolomedes-1_2050	59	Dol-b828_63_bog-5_4511	63	4	Dolomedes	bog	17.4
+location	Dol-b828_72_Dolomedes-1	Dol-b828_76_wetlands-19	Dol-b828_72_Dolomedes-1_2050	72	Dol-b828_76_wetlands-19_4542	76	4	Dolomedes	wetlands	17.4
+location	Dol-b828_80_Dolomedes-1	Dol-b828_76_wetlands-19	Dol-b828_80_Dolomedes-1_2050	80	Dol-b828_76_wetlands-19_4542	76	4	Dolomedes	wetlands	17.4
+location	Dol-b828_71_spider-4	Dol-b828_76_wetlands-19	Dol-b828_71_spider-4_4865	71	Dol-b828_76_wetlands-19_4542	76	5	raft spiders	wetlands	16.667
+location	Her-fb77_163_crab-2	Her-fb77_158_reef-6	Her-fb77_163_crab-2_2525	163	Her-fb77_158_reef-6_4532	158	5	Hermit crabs	reefs	16.667
+location	Tid-b2db_85_crab-5	Tid-b2db_80_zone-3	Tid-b2db_85_crab-5_5092	85	Tid-b2db_80_zone-3_4521	80	5	hermit crabs	intertidal zone	16.667
+location	Sol-e070_95_scorpion-11	Sol-e070_99_desert-29	Sol-e070_95_scorpion-11_5492	95	Sol-e070_99_desert-29_34	99	4	wind scorpion	Desert	16.6
+location	Sol-e070_95_scorpion-9	Sol-e070_99_desert-29	Sol-e070_95_scorpion-9_5492	95	Sol-e070_99_desert-29_34	99	4	wind scorpion	Desert	16.6
+location	Sol-e070_95_scorpion-17	Sol-e070_99_desert-29	Sol-e070_95_scorpion-17_5492	95	Sol-e070_99_desert-29_34	99	4	wind scorpion	Desert	16.6
+location	Sol0749_3_spiders-2	Sol0749_9_deserts-15	Sol0749_3_spiders-2_3354	3	Sol0749_9_deserts-15_3805	9	6	Camel spiders	desert	14.286
+location	Tar-bf27_15_tarantula-6	Tar-bf27_21_rainforest-14	Tar-bf27_15_tarantula-6_4198	15	Tar-bf27_21_rainforest-14_3811	21	6	tarantulas	rainforest	14.286
+location	Tar-bf27_15_tarantula-6	Tar-bf27_21_desert-16	Tar-bf27_15_tarantula-6_4198	15	Tar-bf27_21_desert-16_3805	21	6	tarantulas	desert	14.286
+location	Tid-b2db_86_crabs-2	Tid-b2db_80_zone-3	Tid-b2db_86_crabs-2_2525	86	Tid-b2db_80_zone-3_4521	80	6	Hermit crabs	intertidal zone	14.286
+location	Dol-b828_70_spider-4	Dol-b828_76_wetlands-19	Dol-b828_70_spider-4_4865	70	Dol-b828_76_wetlands-19_4542	76	6	raft spiders	wetlands	14.286
+location	Tar-bf27_16_birdeater-15	Tar-bf27_21_rainforest-14	Tar-bf27_16_birdeater-15_5019	16	Tar-bf27_21_rainforest-14_3811	21	5	goliath birdeater	rainforest	13.833
+location	Sol0749_2_spiders-2	Sol0749_9_deserts-15	Sol0749_2_spiders-2_3354	2	Sol0749_9_deserts-15_3805	9	7	Camel spiders	desert	12.5
+location	Tar-bf27_14_tarantula-7	Tar-bf27_21_rainforest-14	Tar-bf27_14_tarantula-7_4198	14	Tar-bf27_21_rainforest-14_3811	21	7	tarantulas	rainforest	12.5
+location	Tar-bf27_28_tarantula-8	Tar-bf27_21_rainforest-14	Tar-bf27_28_tarantula-8_4198	28	Tar-bf27_21_rainforest-14_3811	21	7	tarantulas	rainforest	12.5
+location	Dolc856_15_spider-3	Dolc856_8_marshes-29	Dolc856_15_spider-3_4865	15	Dolc856_8_marshes-29_3807	8	7	raft spiders	marsh	12.5
+location	Dol-b828_69_Dolomedes-2	Dol-b828_63_bog-5	Dol-b828_69_Dolomedes-2_2050	69	Dol-b828_63_bog-5_4511	63	6	Dolomedes	bog	12.429
+location	Sol-e070_93_Solifugae-3	Sol-e070_99_desert-29	Sol-e070_93_Solifugae-3_3355	93	Sol-e070_99_desert-29_34	99	6	Solifugae	Desert	12.429
+location	Dol-b828_67_Dolomedes-1	Dol-b828_61_lakes-15	Dol-b828_67_Dolomedes-1_2050	67	Dol-b828_61_lakes-15_4522	61	6	Dolomedes	lakes and ponds	12.429
+location	Dol-b828_4_Dolomedes-3	Dol-b828_10_bogs-38	Dol-b828_4_Dolomedes-3_2050	4	Dol-b828_10_bogs-38_4511	10	6	Dolomedes	bog	12.429
+location	Tid-b2db_33_crabs-9	Tid-b2db_25_zone-7	Tid-b2db_33_crabs-9_5092	33	Tid-b2db_25_zone-7_4521	25	8	hermit crabs	intertidal zone	11.111
+location	Tar-bf27_29_tarantulas-9	Tar-bf27_21_rainforest-14	Tar-bf27_29_tarantulas-9_4198	29	Tar-bf27_21_rainforest-14_3811	21	8	tarantulas	rainforest	11.111
+location	Dol-b828_69_Dolomedes-2	Dol-b828_76_wetlands-19	Dol-b828_69_Dolomedes-2_2050	69	Dol-b828_76_wetlands-19_4542	76	7	Dolomedes	wetlands	10.875
+location	Dol-b828_54_Dolomedes-1	Dol-b828_61_lakes-15	Dol-b828_54_Dolomedes-1_2050	54	Dol-b828_61_lakes-15_4522	61	7	Dolomedes	lakes and ponds	10.875
+location	Sol-e070_92_Solifugae-1	Sol-e070_99_desert-29	Sol-e070_92_Solifugae-1_3355	92	Sol-e070_99_desert-29_34	99	7	Solifugae	Desert	10.875
+location	Dol-b828_3_spiders-13	Dol-b828_10_bogs-38	Dol-b828_3_spiders-13_4868	3	Dol-b828_10_bogs-38_4511	10	7	wharf spiders	bog	10.375
+location	Dol-b828_3_spiders-16	Dol-b828_10_bogs-38	Dol-b828_3_spiders-16_4866	3	Dol-b828_10_bogs-38_4511	10	7	dock spiders	bog	10.375
+location	Dol-b828_3_spiders-7	Dol-b828_10_bogs-38	Dol-b828_3_spiders-7_4868	3	Dol-b828_10_bogs-38_4511	10	7	wharf spiders	bog	10.375
+location	Dol-b828_3_spiders-10	Dol-b828_10_bogs-38	Dol-b828_3_spiders-10_4868	3	Dol-b828_10_bogs-38_4511	10	7	wharf spiders	bog	10.375
+location	Tar-bf27_14_birdeater-25	Tar-bf27_21_rainforest-14	Tar-bf27_14_birdeater-25_5019	14	Tar-bf27_21_rainforest-14_3811	21	7	goliath birdeater	rainforest	10.375
+location	Tar-bf27_12_tarantulas-10	Tar-bf27_21_rainforest-14	Tar-bf27_12_tarantulas-10_4198	12	Tar-bf27_21_rainforest-14_3811	21	9	tarantulas	rainforest	10.0
+location	Dol-b828_70_spider-4	Dol-b828_61_lakes-15	Dol-b828_70_spider-4_4865	70	Dol-b828_61_lakes-15_4522	61	9	raft spiders	lakes and ponds	10.0
+location	Sol-e070_91_Solifugae-2	Sol-e070_99_desert-29	Sol-e070_91_Solifugae-2_3355	91	Sol-e070_99_desert-29_3805	99	8	Solifugae	desert	9.667
+location	Dol-b828_84_Dolomedes-1	Dol-b828_76_wetlands-19	Dol-b828_84_Dolomedes-1_2050	84	Dol-b828_76_wetlands-19_4542	76	8	Dolomedes	wetlands	9.667
+location	Dol-b828_69_Dolomedes-2	Dol-b828_61_lakes-15	Dol-b828_69_Dolomedes-2_2050	69	Dol-b828_61_lakes-15_4522	61	8	Dolomedes	lakes and ponds	9.667
+location	Dol-b828_71_spider-4	Dol-b828_61_lakes-15	Dol-b828_71_spider-4_4865	71	Dol-b828_61_lakes-15_4522	61	10	raft spiders	lakes and ponds	9.091
+location	Tar-bf27_31_tarantulas-7	Tar-bf27_21_rainforest-14	Tar-bf27_31_tarantulas-7_4198	31	Tar-bf27_21_rainforest-14_3811	21	10	tarantulas	rainforest	9.091
+location	Aus-dd73_3_crayfish-13	Aus-dd73_6_rivers-17	Aus-dd73_3_crayfish-13_1618	3	Aus-dd73_6_rivers-17_4533	6	3	Atlantic stream crayfish	rivers and streams	8.91
+location	Aus-dd73_3_crayfish-9	Aus-dd73_6_rivers-17	Aus-dd73_3_crayfish-9_1618	3	Aus-dd73_6_rivers-17_4533	6	3	Atlantic stream crayfish	rivers and streams	8.91
+location	Sol-e070_108_Solifugae-2	Sol-e070_99_desert-29	Sol-e070_108_Solifugae-2_3355	108	Sol-e070_99_desert-29_3805	99	9	Solifugae	desert	8.7
+location	Dol-b828_67_Dolomedes-1	Dol-b828_76_wetlands-19	Dol-b828_67_Dolomedes-1_2050	67	Dol-b828_76_wetlands-19_4542	76	9	Dolomedes	wetlands	8.7
+location	Dol-b828_52_Dolomedes-1	Dol-b828_61_lakes-15	Dol-b828_52_Dolomedes-1_2050	52	Dol-b828_61_lakes-15_4522	61	9	Dolomedes	lakes and ponds	8.7
+location	Dol-b828_61_spider-6	Dol-b828_70_bog-15	Dol-b828_61_spider-6_4867	61	Dol-b828_70_bog-15_4511	70	9	fishing spiders	bog	8.3
+location	Aus-dd73_31_pallipes-10	Aus-dd73_21_rivers-5	Aus-dd73_31_pallipes-10_1617	31	Aus-dd73_21_rivers-5_4533	21	10	Austropotamobius pallipes	rivers and streams	7.909
+location	Tar-bf27_9_tarantula-6	Tar-bf27_21_rainforest-14	Tar-bf27_9_tarantula-6_4198	9	Tar-bf27_21_rainforest-14_3811	21	12	tarantulas	rainforest	7.692
+location	Dol-b828_72_Dolomedes-1	Dol-b828_61_lakes-15	Dol-b828_72_Dolomedes-1_2050	72	Dol-b828_61_lakes-15_4522	61	11	Dolomedes	lakes and ponds	7.25
+location	Tid-b2db_33_crabs-9	Tid-b2db_20_zone-5	Tid-b2db_33_crabs-9_5092	33	Tid-b2db_20_zone-5_4521	20	13	hermit crabs	intertidal zone	7.143
+location	Dol-b828_89_spider-3	Dol-b828_76_wetlands-19	Dol-b828_89_spider-3_4865	89	Dol-b828_76_wetlands-19_4542	76	13	raft spiders	wetlands	7.143
+location	Tar-bf27_4_Theraphosidae-15	Tar-bf27_21_rainforest-14	Tar-bf27_4_Theraphosidae-15_822	4	Tar-bf27_21_rainforest-14_3811	21	17	Theraphosidae	rainforest	5.556
+location	Tar-bf27_4_Theraphosidae-15	Tar-bf27_21_desert-16	Tar-bf27_4_Theraphosidae-15_822	4	Tar-bf27_21_desert-16_3805	21	17	Theraphosidae	desert	5.556
+location	Euo-1402_51_spider-4	Euo-1402_33_mountains-17	Euo-1402_51_spider-4_2133	51	Euo-1402_33_mountains-17_4527	33	18	Himalayan jumping spider	mountains	5.263
+location	Dol-b828_61_spider-6	Dol-b828_76_wetlands-19	Dol-b828_61_spider-6_4867	61	Dol-b828_76_wetlands-19_4542	76	15	fishing spiders	wetlands	5.188
+location	Aus-dd73_37_pallipes-13	Aus-dd73_21_rivers-5	Aus-dd73_37_pallipes-13_1617	37	Aus-dd73_21_rivers-5_4533	21	16	Austropotamobius pallipes	rivers and streams	5.118
+location	Aus-dd73_37_pallipes-5	Aus-dd73_21_rivers-5	Aus-dd73_37_pallipes-5_1617	37	Aus-dd73_21_rivers-5_4533	21	16	Austropotamobius pallipes	rivers and streams	5.118
+location	Tar-bf27_2_Theraphosidae-14	Tar-bf27_21_desert-16	Tar-bf27_2_Theraphosidae-14_822	2	Tar-bf27_21_desert-16_34	21	19	Theraphosidae	Desert	5.0
+location	Tar-bf27_2_Theraphosidae-14	Tar-bf27_21_rainforest-14	Tar-bf27_2_Theraphosidae-14_822	2	Tar-bf27_21_rainforest-14_3811	21	19	Theraphosidae	rainforest	5.0
+location	Sol-e070_95_spider-21	Sol-e070_77_deserts-14	Sol-e070_95_spider-21_5491	95	Sol-e070_77_deserts-14_34	77	18	sun spider	Desert	4.368
+location	Sol-e070_95_spider-6	Sol-e070_77_deserts-14	Sol-e070_95_spider-6_5491	95	Sol-e070_77_deserts-14_3805	77	18	sun spider	desert	4.368
+location	Euo-1402_12_omnisuperstes-10	Euo-1402_33_mountains-17	Euo-1402_12_omnisuperstes-10_2134	12	Euo-1402_33_mountains-17_4527	33	21	Euophrys omnisuperstes	mountains	3.955
+location	Sol-e070_95_spider-21	Sol-e070_75_desert-11	Sol-e070_95_spider-21_5491	95	Sol-e070_75_desert-11_3805	75	20	sun spider	desert	3.952
+location	Sol-e070_95_spider-6	Sol-e070_75_desert-11	Sol-e070_95_spider-6_5491	95	Sol-e070_75_desert-11_34	75	20	sun spider	Desert	3.952
+location	Dol-b828_89_spider-3	Dol-b828_61_lakes-15	Dol-b828_89_spider-3_4865	89	Dol-b828_61_lakes-15_4522	61	28	raft spiders	lakes and ponds	3.448
+location	Euo-1402_2_spider-13	Euo-1402_33_mountains-17	Euo-1402_2_spider-13_2133	2	Euo-1402_33_mountains-17_4527	33	31	Himalayan jumping spider	mountains	3.125
+location	Euo-1402_2_spider-7	Euo-1402_33_mountains-17	Euo-1402_2_spider-7_2133	2	Euo-1402_33_mountains-17_4527	33	31	Himalayan jumping spider	mountains	3.125
+location	Wes-9ef7_21_wings-18	Wes-9ef7_47_wetland-12	Wes-9ef7_21_wings-18_2264	21	Wes-9ef7_47_wetland-12_4542	47	26	broad wing	wetlands	3.074
+location	Mal-994a_49_crabs-37	Mal-994a_82_ocean-12	Mal-994a_49_crabs-37_5092	49	Mal-994a_82_ocean-12_1354	82	33	hermit crabs	Deep ocean	2.941
+location	Mal-994a_49_crabs-39	Mal-994a_82_zone-8	Mal-994a_49_crabs-39_5092	49	Mal-994a_82_zone-8_4521	82	33	hermit crabs	intertidal zone	2.941
+location	Mal-994a_49_crabs-39	Mal-994a_82_ocean-12	Mal-994a_49_crabs-39_5092	49	Mal-994a_82_ocean-12_4515	82	33	hermit crabs	deep ocean	2.941
+location	Mal-994a_49_crabs-37	Mal-994a_82_zone-8	Mal-994a_49_crabs-37_5092	49	Mal-994a_82_zone-8_4521	82	33	hermit crabs	intertidal zone	2.941
+location	Six-3725_5_spiders-8	Six-3725_33_lakes-8	Six-3725_5_spiders-8_4866	5	Six-3725_33_lakes-8_4522	33	28	dock spiders	lakes and ponds	2.862
+location	Aus-dd73_3_crayfish-13	Aus-dd73_21_rivers-5	Aus-dd73_3_crayfish-13_1618	3	Aus-dd73_21_rivers-5_4533	21	18	Atlantic stream crayfish	rivers and streams	2.842
+location	Aus-dd73_3_crayfish-9	Aus-dd73_21_rivers-5	Aus-dd73_3_crayfish-9_1618	3	Aus-dd73_21_rivers-5_4533	21	18	Atlantic stream crayfish	rivers and streams	2.842
+location	Euo-1402_10_spiders-21	Euo-1402_33_mountains-17	Euo-1402_10_spiders-21_2133	10	Euo-1402_33_mountains-17_4527	33	23	Himalayan jumping spider	mountains	2.75
+location	Dol-b828_43_spiders-6	Dol-b828_76_wetlands-19	Dol-b828_43_spiders-6_4867	43	Dol-b828_76_wetlands-19_4542	76	33	fishing spiders	wetlands	2.441
+location	Aus-dd73_31_pallipes-10	Aus-dd73_6_rivers-17	Aus-dd73_31_pallipes-10_1617	31	Aus-dd73_6_rivers-17_4533	6	25	Austropotamobius pallipes	rivers and streams	2.208
+location	Gol-167c_4_spider-13	Gol-167c_40_rainforest-9	Gol-167c_4_spider-13_2383	4	Gol-167c_40_rainforest-9_3811	40	36	Goliath bird-eating spider	rainforest	2.162
+location	Tid-b2db_33_crabs-9	Tid-b2db_80_zone-3	Tid-b2db_33_crabs-9_5092	33	Tid-b2db_80_zone-3_4521	80	47	hermit crabs	intertidal zone	2.083
+location	Gol-167c_4_spider-13	Gol-167c_42_rainforest-6	Gol-167c_4_spider-13_2383	4	Gol-167c_42_rainforest-6_3811	42	38	Goliath bird-eating spider	rainforest	2.051
+location	Eur-fdbd_294_Eurypterida-41	Eur-fdbd_251_estuaries-28	Eur-fdbd_294_Eurypterida-41_2263	294	Eur-fdbd_251_estuaries-28_4517	251	43	Eurypterida	estuaries	1.977
+location	Eur-fdbd_295_Eurypterida-9	Eur-fdbd_251_estuaries-28	Eur-fdbd_295_Eurypterida-9_2263	295	Eur-fdbd_251_estuaries-28_4517	251	44	Eurypterida	estuaries	1.933
+location	Whi-b4c3_169_wings-39	Whi-b4c3_211_estuaries-16	Whi-b4c3_169_wings-39_2264	169	Whi-b4c3_211_estuaries-16_4517	211	42	broad wing	estuaries	1.93
+location	Aus-dd73_37_pallipes-13	Aus-dd73_6_rivers-17	Aus-dd73_37_pallipes-13_1617	37	Aus-dd73_6_rivers-17_4533	6	31	Austropotamobius pallipes	rivers and streams	1.794
+location	Aus-dd73_37_pallipes-5	Aus-dd73_6_rivers-17	Aus-dd73_37_pallipes-5_1617	37	Aus-dd73_6_rivers-17_4533	6	31	Austropotamobius pallipes	rivers and streams	1.794
+location	Tid-b2db_33_crabs-9	Tid-b2db_88_zone-8	Tid-b2db_33_crabs-9_5092	33	Tid-b2db_88_zone-8_4521	88	55	hermit crabs	intertidal zone	1.786
+location	Whi-b4c3_169_wings-39	Whi-b4c3_215_wetlands-26	Whi-b4c3_169_wings-39_2264	169	Whi-b4c3_215_wetlands-26_4542	215	46	broad wing	wetlands	1.766
+location	Eur-fdbd_300_Eurypterida-2	Eur-fdbd_251_estuaries-28	Eur-fdbd_300_Eurypterida-2_2263	300	Eur-fdbd_251_estuaries-28_4517	251	49	Eurypterida	estuaries	1.74
+location	Whi-b4c3_169_wings-39	Whi-b4c3_216_wetlands-4	Whi-b4c3_169_wings-39_2264	169	Whi-b4c3_216_wetlands-4_4542	216	47	broad wing	wetlands	1.729
+location	Tid-b2db_84_crab-5	Tid-b2db_25_zone-7	Tid-b2db_84_crab-5_2525	84	Tid-b2db_25_zone-7_4521	25	59	Hermit crabs	intertidal zone	1.667
+location	Tid-b2db_85_crab-5	Tid-b2db_25_zone-7	Tid-b2db_85_crab-5_5092	85	Tid-b2db_25_zone-7_4521	25	60	hermit crabs	intertidal zone	1.639
+location	Whi-b4c3_169_wings-39	Whi-b4c3_219_wetlands-18	Whi-b4c3_169_wings-39_2264	169	Whi-b4c3_219_wetlands-18_4542	219	50	broad wing	wetlands	1.627
+location	Tid-b2db_86_crabs-2	Tid-b2db_25_zone-7	Tid-b2db_86_crabs-2_2525	86	Tid-b2db_25_zone-7_4521	25	61	Hermit crabs	intertidal zone	1.613
+location	Whi-b4c3_159_wings-34	Whi-b4c3_211_estuaries-16	Whi-b4c3_159_wings-34_2264	159	Whi-b4c3_211_estuaries-16_4517	211	52	broad wing	estuaries	1.566
+location	Tid-b2db_84_crab-5	Tid-b2db_20_zone-5	Tid-b2db_84_crab-5_2525	84	Tid-b2db_20_zone-5_4521	20	64	Hermit crabs	intertidal zone	1.538
+location	Sho-fcec_21_wings-16	Sho-fcec_74_wetlands-17	Sho-fcec_21_wings-16_2264	21	Sho-fcec_74_wetlands-17_4542	74	53	broad wing	wetlands	1.537
+location	Tid-b2db_85_crab-5	Tid-b2db_20_zone-5	Tid-b2db_85_crab-5_5092	85	Tid-b2db_20_zone-5_4521	20	65	hermit crabs	intertidal zone	1.515
+location	Tid-b2db_86_crabs-2	Tid-b2db_20_zone-5	Tid-b2db_86_crabs-2_2525	86	Tid-b2db_20_zone-5_4521	20	66	Hermit crabs	intertidal zone	1.493
+location	Whi-b4c3_159_wings-34	Whi-b4c3_215_wetlands-26	Whi-b4c3_159_wings-34_2264	159	Whi-b4c3_215_wetlands-26_4542	215	56	broad wing	wetlands	1.456
+location	Whi-b4c3_159_wings-34	Whi-b4c3_216_wetlands-4	Whi-b4c3_159_wings-34_2264	159	Whi-b4c3_216_wetlands-4_4542	216	57	broad wing	wetlands	1.431
+location	Whi-b4c3_159_wings-34	Whi-b4c3_219_wetlands-18	Whi-b4c3_159_wings-34_2264	159	Whi-b4c3_219_wetlands-18_4542	219	60	broad wing	wetlands	1.361
+location	Eur-fdbd_314_Eurypterida-14	Eur-fdbd_251_estuaries-28	Eur-fdbd_314_Eurypterida-14_2263	314	Eur-fdbd_251_estuaries-28_4517	251	63	Eurypterida	estuaries	1.359
+location	Eur-fdbd_316_Eurypterida-17	Eur-fdbd_251_estuaries-28	Eur-fdbd_316_Eurypterida-17_2263	316	Eur-fdbd_251_estuaries-28_4517	251	65	Eurypterida	estuaries	1.318
+location	Eur-fdbd_322_Eurypterida-8	Eur-fdbd_251_estuaries-28	Eur-fdbd_322_Eurypterida-8_2263	322	Eur-fdbd_251_estuaries-28_4517	251	71	Eurypterida	estuaries	1.208
+location	Sol-e070_2_spiders-21	Sol-e070_75_desert-11	Sol-e070_2_spiders-21_5491	2	Sol-e070_75_desert-11_34	75	73	sun spider	Desert	1.122
+location	Sol-e070_2_spiders-15	Sol-e070_75_desert-11	Sol-e070_2_spiders-15_5491	2	Sol-e070_75_desert-11_34	75	73	sun spider	Desert	1.122
+location	Sol-e070_2_spiders-15	Sol-e070_77_deserts-14	Sol-e070_2_spiders-15_5491	2	Sol-e070_77_deserts-14_34	77	75	sun spider	Desert	1.092
+location	Sol-e070_2_spiders-21	Sol-e070_77_deserts-14	Sol-e070_2_spiders-21_5491	2	Sol-e070_77_deserts-14_3805	77	75	sun spider	desert	1.092
+location	Eur-fdbd_332_Eurypterida-10	Eur-fdbd_251_estuaries-28	Eur-fdbd_332_Eurypterida-10_2263	332	Eur-fdbd_251_estuaries-28_4517	251	81	Eurypterida	estuaries	1.061
+location	Eur-fdbd_334_Eurypterida-10	Eur-fdbd_251_estuaries-28	Eur-fdbd_334_Eurypterida-10_2263	334	Eur-fdbd_251_estuaries-28_4517	251	83	Eurypterida	estuaries	1.036
+location	Eur-fdbd_349_scorpion-12	Eur-fdbd_251_estuaries-28	Eur-fdbd_349_scorpion-12_4965	349	Eur-fdbd_251_estuaries-28_4517	251	98	sea scorpions	estuaries	1.01
+adaptation	Sco-5d0f_250_scorpions-4	Sco-5d0f_250_predators-2	Sco-5d0f_250_scorpions-4_5456	250	Sco-5d0f_250_predators-2_359	250	0	scorpions	Predator	100.0
+adaptation	Pre-0725_86_spiders-13	Pre-0725_86_predators-6	Pre-0725_86_spiders-13_1981	86	Pre-0725_86_predators-6_3939	86	0	Crab spiders	ambush predator	100.0
+adaptation	Sco-5d0f_210_scorpions-15	Sco-5d0f_210_viviparous-20	Sco-5d0f_210_scorpions-15_5456	210	Sco-5d0f_210_viviparous-20_3795	210	0	scorpions	viviparous	100.0
+adaptation	Sco-5d0f_177_scorpion-2	Sco-5d0f_177_predators-10	Sco-5d0f_177_scorpion-2_5456	177	Sco-5d0f_177_predators-10_3977	177	0	scorpions	predator	100.0
+adaptation	Sco-5d0f_160_scorpions-6	Sco-5d0f_160_predators-2	Sco-5d0f_160_scorpions-6_5456	160	Sco-5d0f_160_predators-2_3977	160	0	scorpions	predator	100.0
+adaptation	Sco-5d0f_167_scorpions-3	Sco-5d0f_167_predators-35	Sco-5d0f_167_scorpions-3_5456	167	Sco-5d0f_167_predators-35_3977	167	0	scorpions	predator	100.0
+adaptation	Sol-e070_83_scorpions-14	Sol-e070_83_predators-3	Sol-e070_83_scorpions-14_5456	83	Sol-e070_83_predators-3_3977	83	0	scorpions	predator	100.0
+adaptation	Eurb5f3_3_scorpions-2	Eurb5f3_3_predators-4	Eurb5f3_3_scorpions-2_4965	3	Eurb5f3_3_predators-4_359	3	0	sea scorpions	Predator	100.0
+adaptation	Sco-5d0f_129_scorpion-2	Sco-5d0f_129_nocturnal-5	Sco-5d0f_129_scorpion-2_5456	129	Sco-5d0f_129_nocturnal-5_3967	129	0	scorpions	nocturnal	100.0
+adaptation	Pre-0725_86_spiders-9	Pre-0725_86_predators-6	Pre-0725_86_spiders-9_4833	86	Pre-0725_86_predators-6_3939	86	0	crab spiders	ambush predator	100.0
+adaptation	Ter-605f_271_scorpions-14	Ter-605f_271_predators-43	Ter-605f_271_scorpions-14_5456	271	Ter-605f_271_predators-43_3977	271	0	scorpions	predator	100.0
+adaptation	Was-5a21_152_tarantula-10	Was-5a21_152_predators-8	Was-5a21_152_tarantula-10_4198	152	Was-5a21_152_predators-8_3977	152	0	tarantulas	predator	100.0
+adaptation	Spi-b4d6_246_tarantulas-16	Spi-b4d6_246_predators-19	Spi-b4d6_246_tarantulas-16_4198	246	Spi-b4d6_246_predators-19_3977	246	0	tarantulas	predator	100.0
+adaptation	Tar-bf27_196_tarantulas-11	Tar-bf27_196_predator-26	Tar-bf27_196_tarantulas-11_4198	196	Tar-bf27_196_predator-26_3977	196	0	tarantulas	predator	100.0
+adaptation	Art-1308_168_scorpions-7	Art-1308_168_care-30	Art-1308_168_scorpions-7_5456	168	Art-1308_168_care-30_7	168	0	scorpions	Maternal care	100.0
+adaptation	Dol-b828_27_Dolomedes-1	Dol-b828_27_predators-12	Dol-b828_27_Dolomedes-1_2050	27	Dol-b828_27_predators-12_359	27	0	Dolomedes	Predator	87.0
+adaptation	Dol-b828_42_Dolomedes-1	Dol-b828_42_Predators-3	Dol-b828_42_Dolomedes-1_2050	42	Dol-b828_42_Predators-3_3977	42	0	Dolomedes	predator	87.0
+adaptation	Wes-8d71_348_spiders-12	Wes-8d71_348_predators-2	Wes-8d71_348_spiders-12_2052	348	Wes-8d71_348_predators-2_359	348	0	Fishing spiders	Predator	83.0
+adaptation	Wes-8d71_348_spiders-15	Wes-8d71_348_predators-2	Wes-8d71_348_spiders-15_2052	348	Wes-8d71_348_predators-2_359	348	0	Fishing spiders	Predator	83.0
+adaptation	Wes-8d71_348_spiders-9	Wes-8d71_348_predators-2	Wes-8d71_348_spiders-9_4867	348	Wes-8d71_348_predators-2_3977	348	0	fishing spiders	predator	83.0
+adaptation	Dol-b828_43_spiders-6	Dol-b828_43_predators-3	Dol-b828_43_spiders-6_2052	43	Dol-b828_43_predators-3_3977	43	0	Fishing spiders	predator	83.0
+adaptation	Cro-4b5e_147_crab-9	Cro-4b5e_146_scavengers-17	Cro-4b5e_147_crab-9_5092	147	Cro-4b5e_146_scavengers-17_3979	146	1	hermit crabs	scavenger	50.0
+adaptation	Eurb5f3_4_scorpion-4	Eurb5f3_3_predators-4	Eurb5f3_4_scorpion-4_4965	4	Eurb5f3_3_predators-4_3977	3	1	sea scorpions	predator	50.0
+adaptation	Mal-994a_49_crabs-39	Mal-994a_50_scavengers-13	Mal-994a_49_crabs-39_5092	49	Mal-994a_50_scavengers-13_3979	50	1	hermit crabs	scavenger	50.0
+adaptation	Sco-5d0f_128_Scorpion-1	Sco-5d0f_129_nocturnal-5	Sco-5d0f_128_Scorpion-1_3289	128	Sco-5d0f_129_nocturnal-5_3967	129	1	Scorpions	nocturnal	50.0
+adaptation	Mal-994a_49_crabs-37	Mal-994a_50_scavengers-13	Mal-994a_49_crabs-37_5092	49	Mal-994a_50_scavengers-13_3979	50	1	hermit crabs	scavenger	50.0
+adaptation	Cra7d1e_2_spiders-2	Cra7d1e_3_camouflage-6	Cra7d1e_2_spiders-2_4833	2	Cra7d1e_3_camouflage-6_3947	3	1	crab spiders	camouflage	50.0
+adaptation	Dol-b828_42_Dolomedes-1	Dol-b828_43_predators-3	Dol-b828_42_Dolomedes-1_2050	42	Dol-b828_43_predators-3_359	43	1	Dolomedes	Predator	43.5
+adaptation	Dol-b828_41_Dolomedes-1	Dol-b828_42_Predators-3	Dol-b828_41_Dolomedes-1_2050	41	Dol-b828_42_Predators-3_359	42	1	Dolomedes	Predator	43.5
+adaptation	Six-3725_127_Dolomedes-18	Six-3725_126_predators-14	Six-3725_127_Dolomedes-18_2050	127	Six-3725_126_predators-14_3977	126	1	Dolomedes	predator	43.5
+adaptation	Pre-0725_86_spiders-13	Pre-0725_88_predators-3	Pre-0725_86_spiders-13_4833	86	Pre-0725_88_predators-3_3939	88	2	crab spiders	ambush predator	33.333
+adaptation	Sco-5d0f_231_scorpion-10	Sco-5d0f_229_nocturnal-16	Sco-5d0f_231_scorpion-10_5456	231	Sco-5d0f_229_nocturnal-16_3967	229	2	scorpions	nocturnal	33.333
+adaptation	Sol0749_7_spiders-6	Sol0749_9_predators-24	Sol0749_7_spiders-6_5489	7	Sol0749_9_predators-24_3977	9	2	camel spiders	predator	33.333
+adaptation	Ech-0064_29_scorpions-29	Ech-0064_31_viviparous-25	Ech-0064_29_scorpions-29_5456	29	Ech-0064_31_viviparous-25_3795	31	2	scorpions	viviparous	33.333
+adaptation	Des-000c_362_scorpions-13	Des-000c_360_nocturnal-8	Des-000c_362_scorpions-13_5456	362	Des-000c_360_nocturnal-8_3967	360	2	scorpions	nocturnal	33.333
+adaptation	Dec-07a4_5_crabs-21	Dec-07a4_3_scavengers-4	Dec-07a4_5_crabs-21_5092	5	Dec-07a4_3_scavengers-4_3979	3	2	hermit crabs	scavenger	33.333
+adaptation	Pre-0725_86_spiders-9	Pre-0725_88_predators-3	Pre-0725_86_spiders-9_4833	86	Pre-0725_88_predators-3_3939	88	2	crab spiders	ambush predator	33.333
+adaptation	Cro-4b5e_147_crab-9	Cro-4b5e_145_scavenger-24	Cro-4b5e_147_crab-9_5092	147	Cro-4b5e_145_scavenger-24_3979	145	2	hermit crabs	scavenger	33.333
+adaptation	Dec-07a4_5_crabs-7	Dec-07a4_3_scavengers-4	Dec-07a4_5_crabs-7_5092	5	Dec-07a4_3_scavengers-4_3979	3	2	hermit crabs	scavenger	33.333
+adaptation	Eurb5f3_1_scorpions-2	Eurb5f3_3_predators-4	Eurb5f3_1_scorpions-2_4965	1	Eurb5f3_3_predators-4_3977	3	2	sea scorpions	predator	33.333
+adaptation	Dec-07a4_5_crabs-24	Dec-07a4_3_scavengers-4	Dec-07a4_5_crabs-24_5092	5	Dec-07a4_3_scavengers-4_3979	3	2	hermit crabs	scavenger	33.333
+adaptation	Jum-50eb_109_spider-2	Jum-50eb_108_predator-22	Jum-50eb_109_spider-2_2133	109	Jum-50eb_108_predator-22_3977	108	1	Himalayan jumping spider	predator	33.0
+adaptation	Dol-b828_29_Dolomedes-1	Dol-b828_27_predators-12	Dol-b828_29_Dolomedes-1_2050	29	Dol-b828_27_predators-12_3977	27	2	Dolomedes	predator	29.0
+adaptation	Dol-b828_41_Dolomedes-1	Dol-b828_43_predators-3	Dol-b828_41_Dolomedes-1_2050	41	Dol-b828_43_predators-3_3977	43	2	Dolomedes	predator	29.0
+adaptation	Pre-0725_86_spiders-13	Pre-0725_83_predators-8	Pre-0725_86_spiders-13_4833	86	Pre-0725_83_predators-8_310	83	3	crab spiders	Ambush predator	25.0
+adaptation	Pre-0725_86_spiders-9	Pre-0725_83_predators-8	Pre-0725_86_spiders-9_4833	86	Pre-0725_83_predators-8_310	83	3	crab spiders	Ambush predator	25.0
+adaptation	Sco-5d0f_226_Scorpion-1	Sco-5d0f_229_nocturnal-16	Sco-5d0f_226_Scorpion-1_3289	226	Sco-5d0f_229_nocturnal-16_3967	229	3	Scorpions	nocturnal	25.0
+adaptation	Eurb5f3_6_scorpion-18	Eurb5f3_3_predators-4	Eurb5f3_6_scorpion-18_4965	6	Eurb5f3_3_predators-4_359	3	3	sea scorpions	Predator	25.0
+adaptation	Sco-5d0f_83_scorpion-5	Sco-5d0f_80_nocturnal-32	Sco-5d0f_83_scorpion-5_5456	83	Sco-5d0f_80_nocturnal-32_3967	80	3	scorpions	nocturnal	25.0
+adaptation	Sco-5d0f_213_scorpions-5	Sco-5d0f_210_viviparous-20	Sco-5d0f_213_scorpions-5_5456	213	Sco-5d0f_210_viviparous-20_3795	210	3	scorpions	viviparous	25.0
+adaptation	Cra7d1e_7_spider-3	Cra7d1e_3_camouflage-6	Cra7d1e_7_spider-3_4833	7	Cra7d1e_3_camouflage-6_3947	3	4	crab spiders	camouflage	20.0
+adaptation	Amb-b5dc_24_spiders-6	Amb-b5dc_20_camouflage-17	Amb-b5dc_24_spiders-6_4833	24	Amb-b5dc_20_camouflage-17_3947	20	4	crab spiders	camouflage	20.0
+adaptation	Spi-b4d6_258_spider-8	Spi-b4d6_262_camouflage-10	Spi-b4d6_258_spider-8_4833	258	Spi-b4d6_262_camouflage-10_3947	262	4	crab spiders	camouflage	20.0
+adaptation	Amb-b5dc_24_spiders-10	Amb-b5dc_20_camouflage-17	Amb-b5dc_24_spiders-10_4833	24	Amb-b5dc_20_camouflage-17_3947	20	4	crab spiders	camouflage	20.0
+adaptation	Sol0749_5_spiders-2	Sol0749_9_predators-24	Sol0749_5_spiders-2_3354	5	Sol0749_9_predators-24_359	9	4	Camel spiders	Predator	20.0
+adaptation	Viv-7a58_18_scorpions-7	Viv-7a58_22_viviparous-17	Viv-7a58_18_scorpions-7_5456	18	Viv-7a58_22_viviparous-17_3795	22	4	scorpions	viviparous	20.0
+adaptation	Sco-5d0f_206_scorpions-3	Sco-5d0f_210_viviparous-20	Sco-5d0f_206_scorpions-3_5456	206	Sco-5d0f_210_viviparous-20_3795	210	4	scorpions	viviparous	20.0
+adaptation	Dol-b828_41_Dolomedes-1	Dol-b828_37_predators-11	Dol-b828_41_Dolomedes-1_2050	41	Dol-b828_37_predators-11_359	37	4	Dolomedes	Predator	17.4
+adaptation	Sol0749_3_spiders-2	Sol0749_9_predators-24	Sol0749_3_spiders-2_3354	3	Sol0749_9_predators-24_359	9	6	Camel spiders	Predator	14.286
+adaptation	Sco-5d0f_235_Scorpion-1	Sco-5d0f_229_nocturnal-16	Sco-5d0f_235_Scorpion-1_3289	235	Sco-5d0f_229_nocturnal-16_3967	229	6	Scorpions	nocturnal	14.286
+adaptation	Eurb5f3_9_scorpion-18	Eurb5f3_3_predators-4	Eurb5f3_9_scorpion-18_4965	9	Eurb5f3_3_predators-4_3977	3	6	sea scorpions	predator	14.286
+adaptation	Bir-959d_10_wings-13	Bir-959d_5_predators-39	Bir-959d_10_wings-13_2264	10	Bir-959d_5_predators-39_3977	5	5	broad wing	predator	13.833
+adaptation	Spi0c92_59_spider-5	Spi0c92_55_predator-2	Spi0c92_59_spider-5_2133	59	Spi0c92_55_predator-2_359	55	4	Himalayan jumping spider	Predator	13.2
+adaptation	Art5035_5_scorpions-14	Art5035_12_moulting-4	Art5035_5_scorpions-14_5456	5	Art5035_12_moulting-4_3965	12	7	scorpions	moulting	12.5
+adaptation	Eurb5f3_10_scorpion-3	Eurb5f3_3_predators-4	Eurb5f3_10_scorpion-3_4965	10	Eurb5f3_3_predators-4_3977	3	7	sea scorpions	predator	12.5
+adaptation	Sol0749_2_spiders-2	Sol0749_9_predators-24	Sol0749_2_spiders-2_3354	2	Sol0749_9_predators-24_3977	9	7	Camel spiders	predator	12.5
+adaptation	Sol-e070_77_Solifugae-2	Sol-e070_83_predators-3	Sol-e070_77_Solifugae-2_3355	77	Sol-e070_83_predators-3_3977	83	6	Solifugae	predator	12.429
+adaptation	Eurb5f3_11_scorpion-3	Eurb5f3_3_predators-4	Eurb5f3_11_scorpion-3_4965	11	Eurb5f3_3_predators-4_359	3	8	sea scorpions	Predator	11.111
+adaptation	Art-1308_197_scorpion-8	Art-1308_189_moulting-16	Art-1308_197_scorpion-8_5456	197	Art-1308_189_moulting-16_3965	189	8	scorpions	moulting	11.111
+adaptation	Tar-bf27_203_birdeater-3	Tar-bf27_196_predator-26	Tar-bf27_203_birdeater-3_5019	203	Tar-bf27_196_predator-26_3977	196	7	goliath birdeater	predator	10.375
+adaptation	Tar-bf27_16_birdeater-15	Tar-bf27_23_burrowers-3	Tar-bf27_16_birdeater-15_5019	16	Tar-bf27_23_burrowers-3_3956	23	7	goliath birdeater	burrower	10.375
+adaptation	Bir-959d_10_wings-13	Bir-959d_3_predators-9	Bir-959d_10_wings-13_2264	10	Bir-959d_3_predators-9_359	3	7	broad wing	Predator	10.375
+adaptation	Sco-5d0f_259_Scorpion-1	Sco-5d0f_250_predators-2	Sco-5d0f_259_Scorpion-1_3289	259	Sco-5d0f_250_predators-2_3977	250	9	Scorpions	predator	10.0
+adaptation	Sol-e070_91_Solifugae-2	Sol-e070_83_predators-3	Sol-e070_91_Solifugae-2_3355	91	Sol-e070_83_predators-3_3977	83	8	Solifugae	predator	9.667
+adaptation	Jum-50eb_114_spider-2	Jum-50eb_108_predator-22	Jum-50eb_114_spider-2_2133	114	Jum-50eb_108_predator-22_359	108	6	Himalayan jumping spider	Predator	9.429
+adaptation	Amb-b5dc_24_spiders-6	Amb-b5dc_34_Camouflage-3	Amb-b5dc_24_spiders-6_1981	24	Amb-b5dc_34_Camouflage-3_319	34	10	Crab spiders	Camouflage	9.091
+adaptation	Amb-b5dc_24_spiders-10	Amb-b5dc_34_Camouflage-3	Amb-b5dc_24_spiders-10_4833	24	Amb-b5dc_34_Camouflage-3_319	34	10	crab spiders	Camouflage	9.091
+adaptation	Amb-b5dc_51_spiders-2	Amb-b5dc_46_predator-11	Amb-b5dc_51_spiders-2_2569	51	Amb-b5dc_46_predator-11_3939	46	5	Giant crab spiders	ambush predator	9.0
+adaptation	Sol-e070_92_Solifugae-1	Sol-e070_83_predators-3	Sol-e070_92_Solifugae-1_3355	92	Sol-e070_83_predators-3_359	83	9	Solifugae	Predator	8.7
+adaptation	Pre10d6_86_spiders-2	Pre10d6_97_predator-2	Pre10d6_86_spiders-2_3354	86	Pre10d6_97_predator-2_3977	97	11	Camel spiders	predator	8.333
+adaptation	Bir-959d_14_wings-24	Bir-959d_5_predators-39	Bir-959d_14_wings-24_2264	14	Bir-959d_5_predators-39_359	5	9	broad wing	Predator	8.3
+adaptation	Tar-bf27_14_birdeater-25	Tar-bf27_23_burrowers-3	Tar-bf27_14_birdeater-25_5019	14	Tar-bf27_23_burrowers-3_3956	23	9	goliath birdeater	burrower	8.3
+adaptation	Jum-50eb_115_spider-2	Jum-50eb_108_predator-22	Jum-50eb_115_spider-2_2133	115	Jum-50eb_108_predator-22_359	108	7	Himalayan jumping spider	Predator	8.25
+adaptation	Sol-e070_93_Solifugae-3	Sol-e070_83_predators-3	Sol-e070_93_Solifugae-3_3355	93	Sol-e070_83_predators-3_3977	83	10	Solifugae	predator	7.909
+adaptation	Art-1308_201_scorpion-4	Art-1308_189_moulting-16	Art-1308_201_scorpion-4_5456	201	Art-1308_189_moulting-16_3965	189	12	scorpions	moulting	7.692
+adaptation	Sol-e070_95_spider-6	Sol-e070_83_predators-3	Sol-e070_95_spider-6_5489	95	Sol-e070_83_predators-3_359	83	12	camel spiders	Predator	7.692
+adaptation	Pre10d6_85_spiders-2	Pre10d6_97_predator-2	Pre10d6_85_spiders-2_3354	85	Pre10d6_97_predator-2_3977	97	12	Camel spiders	predator	7.692
+adaptation	Decbe4c_14_crabs-17	Decbe4c_2_scavengers-2	Decbe4c_14_crabs-17_5092	14	Decbe4c_2_scavengers-2_3979	2	12	hermit crabs	scavenger	7.692
+adaptation	Sol-e070_95_spider-21	Sol-e070_83_predators-3	Sol-e070_95_spider-21_5489	95	Sol-e070_83_predators-3_359	83	12	camel spiders	Predator	7.692
+adaptation	Com-f222_17_wings-23	Com-f222_7_predator-7	Com-f222_17_wings-23_2264	17	Com-f222_7_predator-7_359	7	10	broad wing	Predator	7.545
+adaptation	Eur-bc75_30_wings-9	Eur-bc75_40_Moulting-1	Eur-bc75_30_wings-9_2264	30	Eur-bc75_40_Moulting-1_346	40	10	broad wing	Moulting	7.545
+adaptation	Jum-50eb_85_spiders-22	Jum-50eb_93_predators-16	Jum-50eb_85_spiders-22_2133	85	Jum-50eb_93_predators-16_359	93	8	Himalayan jumping spider	Predator	7.333
+adaptation	Art-1308_202_scorpions-6	Art-1308_189_moulting-16	Art-1308_202_scorpions-6_5456	202	Art-1308_189_moulting-16_3965	189	13	scorpions	moulting	7.143
+adaptation	Art-1308_202_scorpions-20	Art-1308_189_moulting-16	Art-1308_202_scorpions-20_5456	202	Art-1308_189_moulting-16_3965	189	13	scorpions	moulting	7.143
+adaptation	Bir-959d_14_wings-24	Bir-959d_3_predators-9	Bir-959d_14_wings-24_2264	14	Bir-959d_3_predators-9_3977	3	11	broad wing	predator	6.917
+adaptation	Art-1308_203_scorpion-29	Art-1308_189_moulting-16	Art-1308_203_scorpion-29_5456	203	Art-1308_189_moulting-16_3965	189	14	scorpions	moulting	6.667
+adaptation	Tri-09f5_433_scorpion-22	Tri-09f5_419_moulting-11	Tri-09f5_433_scorpion-22_5456	433	Tri-09f5_419_moulting-11_3965	419	14	scorpions	moulting	6.667
+adaptation	Sol-e070_95_scorpion-17	Sol-e070_83_predators-3	Sol-e070_95_scorpion-17_5492	95	Sol-e070_83_predators-3_359	83	12	wind scorpion	Predator	6.385
+adaptation	Sol-e070_95_scorpion-9	Sol-e070_83_predators-3	Sol-e070_95_scorpion-9_5492	95	Sol-e070_83_predators-3_359	83	12	wind scorpion	Predator	6.385
+adaptation	Sol-e070_95_scorpion-11	Sol-e070_83_predators-3	Sol-e070_95_scorpion-11_5492	95	Sol-e070_83_predators-3_359	83	12	wind scorpion	Predator	6.385
+adaptation	Jum-50eb_109_spider-2	Jum-50eb_99_predator-17	Jum-50eb_109_spider-2_2133	109	Jum-50eb_99_predator-17_359	99	10	Himalayan jumping spider	Predator	6.0
+adaptation	Bir-959d_18_wings-12	Bir-959d_5_predators-39	Bir-959d_18_wings-12_2264	18	Bir-959d_5_predators-39_3977	5	13	broad wing	predator	5.929
+adaptation	Dol-b828_10_spider-46	Dol-b828_27_predators-12	Dol-b828_10_spider-46_4865	10	Dol-b828_27_predators-12_3977	27	17	raft spiders	predator	5.556
+adaptation	Amb-b5dc_51_spiders-2	Amb-b5dc_34_Camouflage-3	Amb-b5dc_51_spiders-2_1981	51	Amb-b5dc_34_Camouflage-3_319	34	17	Crab spiders	Camouflage	5.556
+adaptation	Dol-b828_10_spider-29	Dol-b828_27_predators-12	Dol-b828_10_spider-29_4865	10	Dol-b828_27_predators-12_3977	27	17	raft spiders	predator	5.556
+adaptation	Pre10d6_86_spiders-2	Pre10d6_103_Predator-1	Pre10d6_86_spiders-2_3354	86	Pre10d6_103_Predator-1_3977	103	17	Camel spiders	predator	5.556
+adaptation	Amb-b5dc_51_spiders-2	Amb-b5dc_60_predators-36	Amb-b5dc_51_spiders-2_5111	51	Amb-b5dc_60_predators-36_3939	60	9	giant crab spiders	ambush predator	5.4
+adaptation	Pre10d6_85_spiders-2	Pre10d6_103_Predator-1	Pre10d6_85_spiders-2_3354	85	Pre10d6_103_Predator-1_359	103	18	Camel spiders	Predator	5.263
+adaptation	Bir-959d_20_wings-20	Bir-959d_5_predators-39	Bir-959d_20_wings-20_2264	20	Bir-959d_5_predators-39_3977	5	15	broad wing	predator	5.188
+adaptation	Bir-959d_18_wings-12	Bir-959d_3_predators-9	Bir-959d_18_wings-12_2264	18	Bir-959d_3_predators-9_359	3	15	broad wing	Predator	5.188
+adaptation	Sol-e070_100_Solifugae-22	Sol-e070_83_predators-3	Sol-e070_100_Solifugae-22_3355	100	Sol-e070_83_predators-3_3977	83	17	Solifugae	predator	4.833
+adaptation	Bir-959d_20_wings-20	Bir-959d_3_predators-9	Bir-959d_20_wings-20_2264	20	Bir-959d_3_predators-9_359	3	17	broad wing	Predator	4.611
+adaptation	Art-1308_168_scorpions-7	Art-1308_189_moulting-16	Art-1308_168_scorpions-7_5456	168	Art-1308_189_moulting-16_3965	189	21	scorpions	moulting	4.545
+adaptation	Ins-960c_47_scorpions-17	Ins-960c_26_care-9	Ins-960c_47_scorpions-17_5456	47	Ins-960c_26_care-9_3785	26	21	scorpions	maternal care	4.545
+adaptation	Jum-50eb_85_spiders-22	Jum-50eb_99_predator-17	Jum-50eb_85_spiders-22_2133	85	Jum-50eb_99_predator-17_359	99	14	Himalayan jumping spider	Predator	4.4
+adaptation	Pre10d6_86_spiders-2	Pre10d6_108_Predators-1	Pre10d6_86_spiders-2_3354	86	Pre10d6_108_Predators-1_3977	108	22	Camel spiders	predator	4.348
+adaptation	Pre10d6_85_spiders-2	Pre10d6_108_Predators-1	Pre10d6_85_spiders-2_3354	85	Pre10d6_108_Predators-1_359	108	23	Camel spiders	Predator	4.167
+taxongroup	Sol-e070_2_Arachnida-10	Sol-e070_2_animals-6	Sol-e070_2_Arachnida-10_378	2	Sol-e070_2_animals-6_44	2	0	Arachnida	Animals	100.0
+taxongroup	Jum-50eb_163_spider-31	Jum-50eb_163_spiders-16	Jum-50eb_163_spider-31_4132	163	Jum-50eb_163_spiders-16_5505	163	0	jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_163_spider-31	Jum-50eb_163_spiders-78	Jum-50eb_163_spider-31_4132	163	Jum-50eb_163_spiders-78_5505	163	0	jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_163_spiders-3	Jum-50eb_163_spiders-78	Jum-50eb_163_spiders-3_4132	163	Jum-50eb_163_spiders-78_5505	163	0	jumping spiders	spiders	100.0
+taxongroup	Euo-1402_51_spider-4	Euo-1402_51_spider-4	Euo-1402_51_spider-4_4132	51	Euo-1402_51_spider-4_5505	51	0	jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_163_spider-31	Jum-50eb_163_spiders-3	Jum-50eb_163_spider-31_4132	163	Jum-50eb_163_spiders-3_5505	163	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spider-45	Spi-b4d6_388_spider-45	Spi-b4d6_388_spider-45_4132	388	Spi-b4d6_388_spider-45_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_63_spider-2	Jum-50eb_63_spider-2	Jum-50eb_63_spider-2_4132	63	Jum-50eb_63_spider-2_5505	63	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-27	Spi-b4d6_388_spider-10	Spi-b4d6_388_spiders-27_4132	388	Spi-b4d6_388_spider-10_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-27	Spi-b4d6_388_spider-45	Spi-b4d6_388_spiders-27_4132	388	Spi-b4d6_388_spider-45_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-27	Spi-b4d6_388_spiders-22	Spi-b4d6_388_spiders-27_4132	388	Spi-b4d6_388_spiders-22_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-32	Spi-b4d6_388_spider-45	Spi-b4d6_388_spiders-32_4132	388	Spi-b4d6_388_spider-45_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-32	Spi-b4d6_388_spider-10	Spi-b4d6_388_spiders-32_4132	388	Spi-b4d6_388_spider-10_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Art-1308_149_spiders-7	Art-1308_149_spiders-7	Art-1308_149_spiders-7_4132	149	Art-1308_149_spiders-7_5505	149	0	jumping spiders	spiders	100.0
+taxongroup	Euo-1402_2_spider-13	Euo-1402_2_spider-7	Euo-1402_2_spider-13_4132	2	Euo-1402_2_spider-7_5505	2	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-27	Spi-b4d6_388_spiders-32	Spi-b4d6_388_spiders-27_4132	388	Spi-b4d6_388_spiders-32_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-36	Spi-b4d6_388_spiders-22	Spi-b4d6_388_spiders-36_4132	388	Spi-b4d6_388_spiders-22_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Jum2178_14_spiders-3	Jum2178_14_spiders-3	Jum2178_14_spiders-3_4132	14	Jum2178_14_spiders-3_5505	14	0	jumping spiders	spiders	100.0
+taxongroup	Jum2178_3_spider-5	Jum2178_3_spider-5	Jum2178_3_spider-5_4132	3	Jum2178_3_spider-5_5505	3	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spider-45	Spi-b4d6_388_spiders-22	Spi-b4d6_388_spider-45_4132	388	Spi-b4d6_388_spiders-22_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-32	Spi-b4d6_388_spiders-36	Spi-b4d6_388_spiders-32_4132	388	Spi-b4d6_388_spiders-36_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Art-1308_149_spiders-7	Art-1308_149_spiders-24	Art-1308_149_spiders-7_4132	149	Art-1308_149_spiders-24_5505	149	0	jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_17_spiders-3	Jum-50eb_17_spiders-3	Jum-50eb_17_spiders-3_4132	17	Jum-50eb_17_spiders-3_5505	17	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-22	Spi-b4d6_388_spider-10	Spi-b4d6_388_spiders-22_4132	388	Spi-b4d6_388_spider-10_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-22	Spi-b4d6_388_spider-45	Spi-b4d6_388_spiders-22_4132	388	Spi-b4d6_388_spider-45_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-22	Spi-b4d6_388_spiders-22	Spi-b4d6_388_spiders-22_4132	388	Spi-b4d6_388_spiders-22_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-22	Spi-b4d6_388_spiders-27	Spi-b4d6_388_spiders-22_4132	388	Spi-b4d6_388_spiders-27_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-22	Spi-b4d6_388_spiders-32	Spi-b4d6_388_spiders-22_4132	388	Spi-b4d6_388_spiders-32_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-22	Spi-b4d6_388_spiders-36	Spi-b4d6_388_spiders-22_4132	388	Spi-b4d6_388_spiders-36_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spider-10	Spi-b4d6_388_spider-10	Spi-b4d6_388_spider-10_4132	388	Spi-b4d6_388_spider-10_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Art-1308_149_spiders-24	Art-1308_149_spiders-24	Art-1308_149_spiders-24_4132	149	Art-1308_149_spiders-24_5505	149	0	jumping spiders	spiders	100.0
+taxongroup	Art-1308_149_spiders-24	Art-1308_149_spiders-7	Art-1308_149_spiders-24_4132	149	Art-1308_149_spiders-7_5505	149	0	jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_163_spider-31	Jum-50eb_163_Spiders-41	Jum-50eb_163_spider-31_4132	163	Jum-50eb_163_Spiders-41_3396	163	0	jumping spiders	Spiders	100.0
+taxongroup	Gol-167c_51_spider-30	Gol-167c_51_spider-12	Gol-167c_51_spider-30_5110	51	Gol-167c_51_spider-12_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_14_spider-4	Hun-23f5_14_spider-4	Hun-23f5_14_spider-4_5110	14	Hun-23f5_14_spider-4_5505	14	0	huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_55_spiders-5	Hun-23f5_55_spiders-5	Hun-23f5_55_spiders-5_5110	55	Hun-23f5_55_spiders-5_5505	55	0	huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_42_spider-5	Hun-23f5_42_spider-5	Hun-23f5_42_spider-5_5110	42	Hun-23f5_42_spider-5_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_14_spider-4	Hun-23f5_14_spiders-15	Hun-23f5_14_spider-4_5110	14	Hun-23f5_14_spiders-15_5505	14	0	huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_14_spiders-15	Hun-23f5_14_spider-4	Hun-23f5_14_spiders-15_5110	14	Hun-23f5_14_spider-4_5505	14	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spiders-17	Wol-0705_18_spiders-2	Wol-0705_18_spiders-17_5110	18	Wol-0705_18_spiders-2_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spiders-31	Wol-0705_18_spiders-31	Wol-0705_18_spiders-31_5110	18	Wol-0705_18_spiders-31_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spiders-31	Wol-0705_18_spiders-2	Wol-0705_18_spiders-31_5110	18	Wol-0705_18_spiders-2_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-51	Spi-7da6_42_spiders-68	Spi-7da6_42_spiders-51_5110	42	Spi-7da6_42_spiders-68_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Gol-167c_51_spider-30	Gol-167c_51_spider-36	Gol-167c_51_spider-30_5110	51	Gol-167c_51_spider-36_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Gol-167c_51_spider-16	Gol-167c_51_spider-30	Gol-167c_51_spider-16_5110	51	Gol-167c_51_spider-30_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Gol-167c_51_spider-36	Gol-167c_51_spider-12	Gol-167c_51_spider-36_5110	51	Gol-167c_51_spider-12_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Gol-167c_51_spider-30	Gol-167c_51_spider-30	Gol-167c_51_spider-30_5110	51	Gol-167c_51_spider-30_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Gol-167c_51_spider-36	Gol-167c_51_spider-36	Gol-167c_51_spider-36_5110	51	Gol-167c_51_spider-36_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Gol-167c_51_spider-36	Gol-167c_51_spider-16	Gol-167c_51_spider-36_5110	51	Gol-167c_51_spider-16_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Gol-167c_51_spider-12	Gol-167c_51_spider-36	Gol-167c_51_spider-12_5110	51	Gol-167c_51_spider-36_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Gol-167c_51_spider-16	Gol-167c_51_spider-12	Gol-167c_51_spider-16_5110	51	Gol-167c_51_spider-12_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Gol-167c_51_spider-36	Gol-167c_51_spider-30	Gol-167c_51_spider-36_5110	51	Gol-167c_51_spider-30_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_16_spider-17	Hun-23f5_16_spider-17	Hun-23f5_16_spider-17_5110	16	Hun-23f5_16_spider-17_5505	16	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spiders-31	Wol-0705_18_spider-11	Wol-0705_18_spiders-31_5110	18	Wol-0705_18_spider-11_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spiders-31	Wol-0705_18_spiders-17	Wol-0705_18_spiders-31_5110	18	Wol-0705_18_spiders-17_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Gol-167c_51_spider-16	Gol-167c_51_spider-36	Gol-167c_51_spider-16_5110	51	Gol-167c_51_spider-36_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Gol-167c_51_spider-12	Gol-167c_51_spider-30	Gol-167c_51_spider-12_5110	51	Gol-167c_51_spider-30_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Gol-167c_51_spider-12	Gol-167c_51_spider-16	Gol-167c_51_spider-12_5110	51	Gol-167c_51_spider-16_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Gol-167c_51_spider-12	Gol-167c_51_spider-12	Gol-167c_51_spider-12_5110	51	Gol-167c_51_spider-12_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Gol-167c_51_spider-30	Gol-167c_51_spider-16	Gol-167c_51_spider-30_5110	51	Gol-167c_51_spider-16_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Gol-167c_51_spider-16	Gol-167c_51_spider-16	Gol-167c_51_spider-16_5110	51	Gol-167c_51_spider-16_5505	51	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spider-45	Spi-b4d6_388_spider-10	Spi-b4d6_388_spider-45_4132	388	Spi-b4d6_388_spider-10_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-36	Spi-b4d6_388_spiders-32	Spi-b4d6_388_spiders-36_4132	388	Spi-b4d6_388_spiders-32_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Sco-5d0f_33_Arachnida-1	Sco-5d0f_33_animals-22	Sco-5d0f_33_Arachnida-1_378	33	Sco-5d0f_33_animals-22_44	33	0	Arachnida	Animals	100.0
+taxongroup	Pea-41a9_109_millipedes-12	Pea-41a9_109_arthropods-16	Pea-41a9_109_millipedes-12_5233	109	Pea-41a9_109_arthropods-16_4632	109	0	millipedes	arthropods	100.0
+taxongroup	Mil-11ed_49_millipedes-7	Mil-11ed_49_animals-32	Mil-11ed_49_millipedes-7_5233	49	Mil-11ed_49_animals-32_44	49	0	millipedes	Animals	100.0
+taxongroup	Mil-11ed_13_millipedes-8	Mil-11ed_13_animals-16	Mil-11ed_13_millipedes-8_5233	13	Mil-11ed_13_animals-16_44	13	0	millipedes	Animals	100.0
+taxongroup	For-ac12_101_millipedes-31	For-ac12_101_animals-21	For-ac12_101_millipedes-31_5233	101	For-ac12_101_animals-21_44	101	0	millipedes	Animals	100.0
+taxongroup	Fly-ac51_55_millipedes-8	Fly-ac51_55_Animals-1	Fly-ac51_55_millipedes-8_5233	55	Fly-ac51_55_Animals-1_44	55	0	millipedes	Animals	100.0
+taxongroup	Com-0bc9_64_millipedes-20	Com-0bc9_64_animal-2	Com-0bc9_64_millipedes-20_5233	64	Com-0bc9_64_animal-2_44	64	0	millipedes	Animals	100.0
+taxongroup	Det-2adf_13_millipedes-5	Det-2adf_13_animals-3	Det-2adf_13_millipedes-5_5233	13	Det-2adf_13_animals-3_44	13	0	millipedes	Animals	100.0
+taxongroup	Mile216_6_millipede-4	Mile216_6_animals-10	Mile216_6_millipede-4_5233	6	Mile216_6_animals-10_3812	6	0	millipedes	animals	100.0
+taxongroup	Tar-bf27_78_millipedes-13	Tar-bf27_78_arthropods-8	Tar-bf27_78_millipedes-13_5233	78	Tar-bf27_78_arthropods-8_4632	78	0	millipedes	arthropods	100.0
+taxongroup	Spi-b4d6_388_spiders-36	Spi-b4d6_388_spiders-36	Spi-b4d6_388_spiders-36_4132	388	Spi-b4d6_388_spiders-36_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Mil-11ed_78_millipede-5	Mil-11ed_78_arthropods-26	Mil-11ed_78_millipede-5_5233	78	Mil-11ed_78_arthropods-26_4632	78	0	millipedes	arthropods	100.0
+taxongroup	Mil-11ed_79_millipedes-2	Mil-11ed_79_arthropods-14	Mil-11ed_79_millipedes-2_5233	79	Mil-11ed_79_arthropods-14_4632	79	0	millipedes	arthropods	100.0
+taxongroup	Mil-11ed_234_millipedes-8	Mil-11ed_234_arthropod-16	Mil-11ed_234_millipedes-8_5233	234	Mil-11ed_234_arthropod-16_4632	234	0	millipedes	arthropods	100.0
+taxongroup	Art-1308_60_millipedes-25	Art-1308_60_arthropods-6	Art-1308_60_millipedes-25_5233	60	Art-1308_60_arthropods-6_4632	60	0	millipedes	arthropods	100.0
+taxongroup	Ins-960c_47_millipedes-9	Ins-960c_47_arthropods-3	Ins-960c_47_millipedes-9_5233	47	Ins-960c_47_arthropods-3_4632	47	0	millipedes	arthropods	100.0
+taxongroup	Eur-fdbd_68_millipede-17	Eur-fdbd_68_arthropods-9	Eur-fdbd_68_millipede-17_5233	68	Eur-fdbd_68_arthropods-9_4632	68	0	millipedes	arthropods	100.0
+taxongroup	Eur-fdbd_68_millipede-17	Eur-fdbd_68_arthropods-31	Eur-fdbd_68_millipede-17_5233	68	Eur-fdbd_68_arthropods-31_4632	68	0	millipedes	arthropods	100.0
+taxongroup	Lin-d5f9_22_spiders-16	Lin-d5f9_22_spiders-2	Lin-d5f9_22_spiders-16_5179	22	Lin-d5f9_22_spiders-2_5505	22	0	money spiders	spiders	100.0
+taxongroup	Lin475f_8_spiders-8	Lin475f_8_spiders-8	Lin475f_8_spiders-8_5179	8	Lin475f_8_spiders-8_5505	8	0	money spiders	spiders	100.0
+taxongroup	Lin475f_3_spider-12	Lin475f_3_spider-12	Lin475f_3_spider-12_5179	3	Lin475f_3_spider-12_5505	3	0	money spiders	spiders	100.0
+taxongroup	Dol-b828_10_spider-29	Dol-b828_10_spider-29	Dol-b828_10_spider-29_4865	10	Dol-b828_10_spider-29_5505	10	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_10_spider-46	Dol-b828_10_spider-46	Dol-b828_10_spider-46_4865	10	Dol-b828_10_spider-46_5505	10	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_3_spiders-13	Dol-b828_3_spiders-13	Dol-b828_3_spiders-13_4865	3	Dol-b828_3_spiders-13_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Spi0c92_59_spider-5	Spi0c92_59_spider-5	Spi0c92_59_spider-5_4132	59	Spi0c92_59_spider-5_5505	59	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spider-45	Spi-b4d6_388_spiders-27	Spi-b4d6_388_spider-45_4132	388	Spi-b4d6_388_spiders-27_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Euo-1402_2_spider-7	Euo-1402_2_spider-7	Euo-1402_2_spider-7_4132	2	Euo-1402_2_spider-7_5505	2	0	jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_155_spider-2	Jum-50eb_155_spider-2	Jum-50eb_155_spider-2_4132	155	Jum-50eb_155_spider-2_5505	155	0	jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_115_spider-2	Jum-50eb_115_spider-2	Jum-50eb_115_spider-2_4132	115	Jum-50eb_115_spider-2_5505	115	0	jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_130_spider-2	Jum-50eb_130_spider-2	Jum-50eb_130_spider-2_4132	130	Jum-50eb_130_spider-2_5505	130	0	jumping spiders	spiders	100.0
+taxongroup	Euo85c0_2_spider-8	Euo85c0_2_spider-4	Euo85c0_2_spider-8_4132	2	Euo85c0_2_spider-4_5505	2	0	jumping spiders	spiders	100.0
+taxongroup	Euo85c0_2_spider-8	Euo85c0_2_spider-8	Euo85c0_2_spider-8_4132	2	Euo85c0_2_spider-8_5505	2	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-27	Spi-b4d6_388_spiders-27	Spi-b4d6_388_spiders-27_4132	388	Spi-b4d6_388_spiders-27_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-32	Spi-b4d6_388_spiders-32	Spi-b4d6_388_spiders-32_4132	388	Spi-b4d6_388_spiders-32_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spider-10	Spi-b4d6_388_spider-45	Spi-b4d6_388_spider-10_4132	388	Spi-b4d6_388_spider-45_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_62_spider-2	Jum-50eb_62_spider-2	Jum-50eb_62_spider-2_4132	62	Jum-50eb_62_spider-2_5505	62	0	jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_33_spider-2	Jum-50eb_33_spider-2	Jum-50eb_33_spider-2_4132	33	Jum-50eb_33_spider-2_5505	33	0	jumping spiders	spiders	100.0
+taxongroup	Euo85c0_2_spider-4	Euo85c0_2_spider-4	Euo85c0_2_spider-4_4132	2	Euo85c0_2_spider-4_5505	2	0	jumping spiders	spiders	100.0
+taxongroup	Euo85c0_2_spider-4	Euo85c0_2_spider-8	Euo85c0_2_spider-4_4132	2	Euo85c0_2_spider-8_5505	2	0	jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_9_spider-2	Jum-50eb_9_spider-2	Jum-50eb_9_spider-2_4132	9	Jum-50eb_9_spider-2_5505	9	0	jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_74_spider-2	Jum-50eb_74_spider-2	Jum-50eb_74_spider-2_4132	74	Jum-50eb_74_spider-2_5505	74	0	jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_85_spiders-22	Jum-50eb_85_spiders-22	Jum-50eb_85_spiders-22_4132	85	Jum-50eb_85_spiders-22_5505	85	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spider-10	Spi-b4d6_388_spiders-36	Spi-b4d6_388_spider-10_4132	388	Spi-b4d6_388_spiders-36_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-36	Spi-b4d6_388_spider-10	Spi-b4d6_388_spiders-36_4132	388	Spi-b4d6_388_spider-10_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-27	Spi-b4d6_388_spiders-36	Spi-b4d6_388_spiders-27_4132	388	Spi-b4d6_388_spiders-36_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-36	Spi-b4d6_388_spiders-27	Spi-b4d6_388_spiders-36_4132	388	Spi-b4d6_388_spiders-27_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-36	Spi-b4d6_388_spider-45	Spi-b4d6_388_spiders-36_4132	388	Spi-b4d6_388_spider-45_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_117_spider-3	Spi-b4d6_117_spider-3	Spi-b4d6_117_spider-3_4132	117	Spi-b4d6_117_spider-3_5505	117	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spider-45	Spi-b4d6_388_spiders-32	Spi-b4d6_388_spider-45_4132	388	Spi-b4d6_388_spiders-32_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spider-45	Spi-b4d6_388_spiders-36	Spi-b4d6_388_spider-45_4132	388	Spi-b4d6_388_spiders-36_5505	388	0	jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_163_spider-31	Jum-50eb_163_spider-31	Jum-50eb_163_spider-31_4132	163	Jum-50eb_163_spider-31_5505	163	0	jumping spiders	spiders	100.0
+taxongroup	Euo-1402_10_spiders-21	Euo-1402_10_spiders-21	Euo-1402_10_spiders-21_4132	10	Euo-1402_10_spiders-21_5505	10	0	jumping spiders	spiders	100.0
+taxongroup	Euo-1402_2_spider-13	Euo-1402_2_spider-13	Euo-1402_2_spider-13_4132	2	Euo-1402_2_spider-13_5505	2	0	jumping spiders	spiders	100.0
+taxongroup	Euo-1402_2_spider-7	Euo-1402_2_spider-13	Euo-1402_2_spider-7_4132	2	Euo-1402_2_spider-13_5505	2	0	jumping spiders	spiders	100.0
+taxongroup	Hun-23f5_8_spider-5	Hun-23f5_8_spider-5	Hun-23f5_8_spider-5_5110	8	Hun-23f5_8_spider-5_5505	8	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-12	Spi-7da6_42_spiders-51	Spi-7da6_42_spiders-12_5110	42	Spi-7da6_42_spiders-51_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_14_spiders-15	Hun-23f5_14_spiders-15	Hun-23f5_14_spiders-15_5110	14	Hun-23f5_14_spiders-15_5505	14	0	huntsman spiders	spiders	100.0
+taxongroup	Ara-18f0_2_spider-2	Ara-18f0_2_spider-2	Ara-18f0_2_spider-2_4933	2	Ara-18f0_2_spider-2_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_2_spider-2	Ara-18f0_2_spider-23	Ara-18f0_2_spider-2_4933	2	Ara-18f0_2_spider-23_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_2_spider-12	Ara-18f0_2_spider-12	Ara-18f0_2_spider-12_4933	2	Ara-18f0_2_spider-12_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_2_spider-23	Ara-18f0_2_spider-23	Ara-18f0_2_spider-23_4933	2	Ara-18f0_2_spider-23_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_2_spider-18	Ara-18f0_2_spider-12	Ara-18f0_2_spider-18_4933	2	Ara-18f0_2_spider-12_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_2_spider-18	Ara-18f0_2_spider-23	Ara-18f0_2_spider-18_4933	2	Ara-18f0_2_spider-23_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_2_spider-18	Ara-18f0_2_spider-2	Ara-18f0_2_spider-18_4933	2	Ara-18f0_2_spider-2_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_2_spider-12	Ara-18f0_2_spider-23	Ara-18f0_2_spider-12_4933	2	Ara-18f0_2_spider-23_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_2_spider-12	Ara-18f0_2_spider-2	Ara-18f0_2_spider-12_4933	2	Ara-18f0_2_spider-2_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_2_spider-2	Ara-18f0_2_spider-18	Ara-18f0_2_spider-2_4933	2	Ara-18f0_2_spider-18_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_2_spider-18	Ara-18f0_2_spider-18	Ara-18f0_2_spider-18_4933	2	Ara-18f0_2_spider-18_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-45_4933	2	Arg-ab8e_2_spider-21_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-15_4933	2	Arg-ab8e_2_spider-28_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-15_4933	2	Arg-ab8e_2_spider-31_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_2_spider-12	Ara-18f0_2_spider-18	Ara-18f0_2_spider-12_4933	2	Ara-18f0_2_spider-18_5505	2	0	garden spider	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-12	Spi-7da6_42_spiders-68	Spi-7da6_42_spiders-12_5110	42	Spi-7da6_42_spiders-68_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Ara-5ffe_3_spider-13	Ara-5ffe_3_spider-13	Ara-5ffe_3_spider-13_4933	3	Ara-5ffe_3_spider-13_5505	3	0	garden spider	spiders	100.0
+taxongroup	Ara-5ffe_3_spider-13	Ara-5ffe_3_spider-17	Ara-5ffe_3_spider-13_4933	3	Ara-5ffe_3_spider-17_5505	3	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-42_4933	2	Arg-ab8e_2_spider-28_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-42_4933	2	Arg-ab8e_2_spider-31_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-42_4933	2	Arg-ab8e_2_spider-34_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-42_4933	2	Arg-ab8e_2_spider-42_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_32_spider-4	Arg-ab8e_32_spider-4	Arg-ab8e_32_spider-4_4933	32	Arg-ab8e_32_spider-4_5505	32	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_32_spider-4	Arg-ab8e_32_spiders-26	Arg-ab8e_32_spider-4_4933	32	Arg-ab8e_32_spiders-26_5505	32	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_31_spider-23	Arg-ab8e_31_spiders-16	Arg-ab8e_31_spider-23_4933	31	Arg-ab8e_31_spiders-16_5505	31	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_31_spider-23	Arg-ab8e_31_spider-4	Arg-ab8e_31_spider-23_4933	31	Arg-ab8e_31_spider-4_5505	31	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_31_spider-23	Arg-ab8e_31_spider-23	Arg-ab8e_31_spider-23_4933	31	Arg-ab8e_31_spider-23_5505	31	0	garden spider	spiders	100.0
+taxongroup	Orb98cd_20_spider-24	Orb98cd_20_spider-24	Orb98cd_20_spider-24_4933	20	Orb98cd_20_spider-24_5505	20	0	garden spider	spiders	100.0
+taxongroup	Decbe4c_14_crabs-17	Decbe4c_14_Decapoda-2	Decbe4c_14_crabs-17_5092	14	Decbe4c_14_Decapoda-2_2032	14	0	hermit crabs	Decapoda	100.0
+taxongroup	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-34_4933	2	Arg-ab8e_2_spider-15_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-42_4933	2	Arg-ab8e_2_spider-25_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-15_4933	2	Arg-ab8e_2_spider-7_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-42_4933	2	Arg-ab8e_2_spider-45_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-45_4933	2	Arg-ab8e_2_spider-28_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-7_4933	2	Arg-ab8e_2_spider-34_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-45_4933	2	Arg-ab8e_2_spider-7_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-45_4933	2	Arg-ab8e_2_spider-25_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-7_4933	2	Arg-ab8e_2_spider-31_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_28_spider-8	Ara-18f0_28_spider-8	Ara-18f0_28_spider-8_4933	28	Ara-18f0_28_spider-8_5505	28	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_2_spider-23	Ara-18f0_2_spider-12	Ara-18f0_2_spider-23_4933	2	Ara-18f0_2_spider-12_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_2_spider-23	Ara-18f0_2_spider-18	Ara-18f0_2_spider-23_4933	2	Ara-18f0_2_spider-18_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_2_spider-23	Ara-18f0_2_spider-2	Ara-18f0_2_spider-23_4933	2	Ara-18f0_2_spider-2_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-21_4933	2	Arg-ab8e_2_spider-34_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-18f0_2_spider-2	Ara-18f0_2_spider-12	Ara-18f0_2_spider-2_4933	2	Ara-18f0_2_spider-12_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-15_4933	2	Arg-ab8e_2_spider-34_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-15_4933	2	Arg-ab8e_2_spider-42_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-15_4933	2	Arg-ab8e_2_spider-45_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-21_4933	2	Arg-ab8e_2_spider-31_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-21_4933	2	Arg-ab8e_2_spider-15_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-21_4933	2	Arg-ab8e_2_spider-21_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-21_4933	2	Arg-ab8e_2_spider-25_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-21_4933	2	Arg-ab8e_2_spider-28_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-42_4933	2	Arg-ab8e_2_spider-7_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-21_4933	2	Arg-ab8e_2_spider-42_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-21_4933	2	Arg-ab8e_2_spider-45_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-21_4933	2	Arg-ab8e_2_spider-7_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_14_spider-7	Arg-ab8e_14_spider-7	Arg-ab8e_14_spider-7_4933	14	Arg-ab8e_14_spider-7_5505	14	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-15_4933	2	Arg-ab8e_2_spider-25_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-7_4933	2	Arg-ab8e_2_spider-45_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-15_4933	2	Arg-ab8e_2_spider-21_5505	2	0	garden spider	spiders	100.0
+taxongroup	Mal-994a_49_crabs-37	Mal-994a_49_Decapoda-33	Mal-994a_49_crabs-37_5092	49	Mal-994a_49_Decapoda-33_2032	49	0	hermit crabs	Decapoda	100.0
+taxongroup	Mal-994a_49_crabs-39	Mal-994a_49_Decapoda-33	Mal-994a_49_crabs-39_5092	49	Mal-994a_49_Decapoda-33_2032	49	0	hermit crabs	Decapoda	100.0
+taxongroup	Spi-7da6_42_spiders-45	Spi-7da6_42_spider-26	Spi-7da6_42_spiders-45_5110	42	Spi-7da6_42_spider-26_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spiders-2	Wol-0705_18_spiders-2	Wol-0705_18_spiders-2_5110	18	Wol-0705_18_spiders-2_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spider-26	Spi-7da6_42_spiders-39	Spi-7da6_42_spider-26_5110	42	Spi-7da6_42_spiders-39_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spider-26	Spi-7da6_42_spiders-33	Spi-7da6_42_spider-26_5110	42	Spi-7da6_42_spiders-33_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-45	Spi-7da6_42_spiders-33	Spi-7da6_42_spiders-45_5110	42	Spi-7da6_42_spiders-33_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-12	Spi-7da6_42_spiders-45	Spi-7da6_42_spiders-12_5110	42	Spi-7da6_42_spiders-45_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-12	Spi-7da6_42_spiders-39	Spi-7da6_42_spiders-12_5110	42	Spi-7da6_42_spiders-39_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-12	Spi-7da6_42_spiders-33	Spi-7da6_42_spiders-12_5110	42	Spi-7da6_42_spiders-33_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-12	Spi-7da6_42_spiders-12	Spi-7da6_42_spiders-12_5110	42	Spi-7da6_42_spiders-12_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-12	Spi-7da6_42_spider-26	Spi-7da6_42_spiders-12_5110	42	Spi-7da6_42_spider-26_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-45	Spi-7da6_42_spiders-12	Spi-7da6_42_spiders-45_5110	42	Spi-7da6_42_spiders-12_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-45	Spi-7da6_42_spiders-39	Spi-7da6_42_spiders-45_5110	42	Spi-7da6_42_spiders-39_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-45	Spi-7da6_42_spiders-45	Spi-7da6_42_spiders-45_5110	42	Spi-7da6_42_spiders-45_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-45	Spi-7da6_42_spiders-51	Spi-7da6_42_spiders-45_5110	42	Spi-7da6_42_spiders-51_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-51	Spi-7da6_42_spider-26	Spi-7da6_42_spiders-51_5110	42	Spi-7da6_42_spider-26_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-51	Spi-7da6_42_spiders-12	Spi-7da6_42_spiders-51_5110	42	Spi-7da6_42_spiders-12_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-51	Spi-7da6_42_spiders-39	Spi-7da6_42_spiders-51_5110	42	Spi-7da6_42_spiders-39_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-68	Spi-7da6_42_spiders-45	Spi-7da6_42_spiders-68_5110	42	Spi-7da6_42_spiders-45_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spider-26	Spi-7da6_42_spider-26	Spi-7da6_42_spider-26_5110	42	Spi-7da6_42_spider-26_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_33_spider-6	Hun-23f5_33_spider-6	Hun-23f5_33_spider-6_5110	33	Hun-23f5_33_spider-6_5505	33	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-45	Spi-7da6_42_spiders-68	Spi-7da6_42_spiders-45_5110	42	Spi-7da6_42_spiders-68_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-68	Spi-7da6_42_spiders-68	Spi-7da6_42_spiders-68_5110	42	Spi-7da6_42_spiders-68_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-68	Spi-7da6_42_spider-26	Spi-7da6_42_spiders-68_5110	42	Spi-7da6_42_spider-26_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-68	Spi-7da6_42_spiders-12	Spi-7da6_42_spiders-68_5110	42	Spi-7da6_42_spiders-12_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-68	Spi-7da6_42_spiders-33	Spi-7da6_42_spiders-68_5110	42	Spi-7da6_42_spiders-33_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-68	Spi-7da6_42_spiders-39	Spi-7da6_42_spiders-68_5110	42	Spi-7da6_42_spiders-39_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-51	Spi-7da6_42_spiders-51	Spi-7da6_42_spiders-51_5110	42	Spi-7da6_42_spiders-51_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-51	Spi-7da6_42_spiders-45	Spi-7da6_42_spiders-51_5110	42	Spi-7da6_42_spiders-45_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-39	Spi-7da6_42_spiders-68	Spi-7da6_42_spiders-39_5110	42	Spi-7da6_42_spiders-68_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spider-26	Spi-7da6_42_spiders-45	Spi-7da6_42_spider-26_5110	42	Spi-7da6_42_spiders-45_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spiders-2	Wol-0705_18_spiders-17	Wol-0705_18_spiders-2_5110	18	Wol-0705_18_spiders-17_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-33	Spi-7da6_42_spiders-39	Spi-7da6_42_spiders-33_5110	42	Spi-7da6_42_spiders-39_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spiders-2	Wol-0705_18_spider-11	Wol-0705_18_spiders-2_5110	18	Wol-0705_18_spider-11_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-33	Spi-7da6_42_spiders-45	Spi-7da6_42_spiders-33_5110	42	Spi-7da6_42_spiders-45_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-33	Spi-7da6_42_spiders-51	Spi-7da6_42_spiders-33_5110	42	Spi-7da6_42_spiders-51_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-33	Spi-7da6_42_spiders-68	Spi-7da6_42_spiders-33_5110	42	Spi-7da6_42_spiders-68_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-68	Spi-7da6_42_spiders-51	Spi-7da6_42_spiders-68_5110	42	Spi-7da6_42_spiders-51_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-39	Spi-7da6_42_spider-26	Spi-7da6_42_spiders-39_5110	42	Spi-7da6_42_spider-26_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-39	Spi-7da6_42_spiders-12	Spi-7da6_42_spiders-39_5110	42	Spi-7da6_42_spiders-12_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spiders-17	Wol-0705_18_spiders-31	Wol-0705_18_spiders-17_5110	18	Wol-0705_18_spiders-31_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-39	Spi-7da6_42_spiders-33	Spi-7da6_42_spiders-39_5110	42	Spi-7da6_42_spiders-33_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-39	Spi-7da6_42_spiders-39	Spi-7da6_42_spiders-39_5110	42	Spi-7da6_42_spiders-39_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-39	Spi-7da6_42_spiders-45	Spi-7da6_42_spiders-39_5110	42	Spi-7da6_42_spiders-45_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-39	Spi-7da6_42_spiders-51	Spi-7da6_42_spiders-39_5110	42	Spi-7da6_42_spiders-51_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-33	Spi-7da6_42_spiders-33	Spi-7da6_42_spiders-33_5110	42	Spi-7da6_42_spiders-33_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-33	Spi-7da6_42_spiders-12	Spi-7da6_42_spiders-33_5110	42	Spi-7da6_42_spiders-12_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-51	Spi-7da6_42_spiders-33	Spi-7da6_42_spiders-51_5110	42	Spi-7da6_42_spiders-33_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spider-26	Spi-7da6_42_spiders-12	Spi-7da6_42_spider-26_5110	42	Spi-7da6_42_spiders-12_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Tar-bf27_45_spiders-4	Tar-bf27_45_spiders-4	Tar-bf27_45_spiders-4_5110	45	Tar-bf27_45_spiders-4_5505	45	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spiders-33	Spi-7da6_42_spider-26	Spi-7da6_42_spiders-33_5110	42	Spi-7da6_42_spider-26_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spider-26	Spi-7da6_42_spiders-68	Spi-7da6_42_spider-26_5110	42	Spi-7da6_42_spiders-68_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Spi-7da6_42_spider-26	Spi-7da6_42_spiders-51	Spi-7da6_42_spider-26_5110	42	Spi-7da6_42_spiders-51_5505	42	0	huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_17_spiders-10	Hun-23f5_17_spiders-10	Hun-23f5_17_spiders-10_5110	17	Hun-23f5_17_spiders-10_5505	17	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spiders-17	Wol-0705_18_spiders-17	Wol-0705_18_spiders-17_5110	18	Wol-0705_18_spiders-17_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spiders-17	Wol-0705_18_spider-11	Wol-0705_18_spiders-17_5110	18	Wol-0705_18_spider-11_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spiders-2	Wol-0705_18_spiders-31	Wol-0705_18_spiders-2_5110	18	Wol-0705_18_spiders-31_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spider-11	Wol-0705_18_spider-11	Wol-0705_18_spider-11_5110	18	Wol-0705_18_spider-11_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spider-11	Wol-0705_18_spiders-17	Wol-0705_18_spider-11_5110	18	Wol-0705_18_spiders-17_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spider-11	Wol-0705_18_spiders-2	Wol-0705_18_spider-11_5110	18	Wol-0705_18_spiders-2_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Wol-0705_18_spider-11	Wol-0705_18_spiders-31	Wol-0705_18_spider-11_5110	18	Wol-0705_18_spiders-31_5505	18	0	huntsman spiders	spiders	100.0
+taxongroup	Dol-b828_3_spiders-16	Dol-b828_3_spiders-13	Dol-b828_3_spiders-16_4865	3	Dol-b828_3_spiders-13_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_3_spiders-16	Dol-b828_3_spiders-16	Dol-b828_3_spiders-16_4865	3	Dol-b828_3_spiders-16_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_89_spider-3	Dol-b828_89_spider-3	Dol-b828_89_spider-3_4865	89	Dol-b828_89_spider-3_5505	89	0	raft spiders	spiders	100.0
+taxongroup	Arm-33e3_151_spiders-13	Arm-33e3_151_arthropods-5	Arm-33e3_151_spiders-13_5505	151	Arm-33e3_151_arthropods-5_4632	151	0	spiders	arthropods	100.0
+taxongroup	Maj02db_5_spider-11	Maj02db_5_arthropod-7	Maj02db_5_spider-11_5505	5	Maj02db_5_arthropod-7_4632	5	0	spiders	arthropods	100.0
+taxongroup	Mot-7945_11_spiders-20	Mot-7945_11_arthropods-29	Mot-7945_11_spiders-20_5505	11	Mot-7945_11_arthropods-29_4632	11	0	spiders	arthropods	100.0
+taxongroup	Nep-5975_99_spiders-6	Nep-5975_99_arthropods-2	Nep-5975_99_spiders-6_5505	99	Nep-5975_99_arthropods-2_4632	99	0	spiders	arthropods	100.0
+taxongroup	Ins-960c_47_spiders-13	Ins-960c_47_arthropods-3	Ins-960c_47_spiders-13_5505	47	Ins-960c_47_arthropods-3_4632	47	0	spiders	arthropods	100.0
+taxongroup	Jum-50eb_4_spiders-2	Jum-50eb_4_arthropods-10	Jum-50eb_4_spiders-2_5505	4	Jum-50eb_4_arthropods-10_4632	4	0	spiders	arthropods	100.0
+taxongroup	Kle-14e2_4_spiders-23	Kle-14e2_4_arthropods-4	Kle-14e2_4_spiders-23_5505	4	Kle-14e2_4_arthropods-4_4632	4	0	spiders	arthropods	100.0
+taxongroup	Aga-1152_17_spiders-12	Aga-1152_17_arthropods-8	Aga-1152_17_spiders-12_5505	17	Aga-1152_17_arthropods-8_4632	17	0	spiders	arthropods	100.0
+taxongroup	Amb-b5dc_86_spiders-16	Amb-b5dc_86_arthropods-10	Amb-b5dc_86_spiders-16_5505	86	Amb-b5dc_86_arthropods-10_4632	86	0	spiders	arthropods	100.0
+taxongroup	Art-1308_213_spiders-26	Art-1308_213_arthropods-11	Art-1308_213_spiders-26_5505	213	Art-1308_213_arthropods-11_4632	213	0	spiders	arthropods	100.0
+taxongroup	Cru-e3ae_86_spider-23	Cru-e3ae_86_arthropod-16	Cru-e3ae_86_spider-23_5505	86	Cru-e3ae_86_arthropod-16_4632	86	0	spiders	arthropods	100.0
+taxongroup	Bro-92b5_13_spiders-10	Bro-92b5_13_arthropods-7	Bro-92b5_13_spiders-10_5505	13	Bro-92b5_13_arthropods-7_4632	13	0	spiders	arthropods	100.0
+taxongroup	Art-1308_60_spiders-11	Art-1308_60_arthropods-6	Art-1308_60_spiders-11_5505	60	Art-1308_60_arthropods-6_4632	60	0	spiders	arthropods	100.0
+taxongroup	Art-1308_78_spiders-39	Art-1308_78_arthropods-3	Art-1308_78_spiders-39_5505	78	Art-1308_78_arthropods-3_4632	78	0	spiders	arthropods	100.0
+taxongroup	Ani-161e_231_tarantulas-15	Ani-161e_231_animals-5	Ani-161e_231_tarantulas-15_4198	231	Ani-161e_231_animals-5_44	231	0	tarantulas	Animals	100.0
+taxongroup	Fos-19c4_4_spiders-27	Fos-19c4_4_arachnids-24	Fos-19c4_4_spiders-27_5505	4	Fos-19c4_4_arachnids-24_3993	4	0	spiders	arachnids	100.0
+taxongroup	Tar-bf27_198_tarantulas-2	Tar-bf27_198_animal-20	Tar-bf27_198_tarantulas-2_4198	198	Tar-bf27_198_animal-20_44	198	0	tarantulas	Animals	100.0
+taxongroup	Tar-bf27_147_tarantulas-11	Tar-bf27_147_animals-18	Tar-bf27_147_tarantulas-11_4198	147	Tar-bf27_147_animals-18_44	147	0	tarantulas	Animals	100.0
+taxongroup	Tar-bf27_85_tarantula-18	Tar-bf27_85_animals-15	Tar-bf27_85_tarantula-18_4198	85	Tar-bf27_85_animals-15_44	85	0	tarantulas	Animals	100.0
+taxongroup	Tar-bf27_9_tarantula-6	Tar-bf27_9_Arachnida-3	Tar-bf27_9_tarantula-6_4198	9	Tar-bf27_9_Arachnida-3_378	9	0	tarantulas	Arachnida	100.0
+taxongroup	Spi11b1_1_tarantulas-42	Spi11b1_1_Spider-1	Spi11b1_1_tarantulas-42_4198	1	Spi11b1_1_Spider-1_3396	1	0	tarantulas	Spiders	100.0
+taxongroup	Spi0c92_28_tarantula-15	Spi0c92_28_Spiders-1	Spi0c92_28_tarantula-15_4198	28	Spi0c92_28_Spiders-1_3396	28	0	tarantulas	Spiders	100.0
+taxongroup	Tar-bf27_8_tarantula-6	Tar-bf27_8_arthropods-3	Tar-bf27_8_tarantula-6_4198	8	Tar-bf27_8_arthropods-3_4632	8	0	tarantulas	arthropods	100.0
+taxongroup	Tar-bf27_159_tarantulas-9	Tar-bf27_159_arthropod-44	Tar-bf27_159_tarantulas-9_4198	159	Tar-bf27_159_arthropod-44_4632	159	0	tarantulas	arthropods	100.0
+taxongroup	Tar-bf27_156_tarantulas-18	Tar-bf27_156_arthropods-2	Tar-bf27_156_tarantulas-18_4198	156	Tar-bf27_156_arthropods-2_4632	156	0	tarantulas	arthropods	100.0
+taxongroup	Tar-bf27_79_tarantulas-15	Tar-bf27_79_arthropods-24	Tar-bf27_79_tarantulas-15_4198	79	Tar-bf27_79_arthropods-24_4632	79	0	tarantulas	arthropods	100.0
+taxongroup	Hor-ab9c_128_spiders-12	Hor-ab9c_128_arthropods-9	Hor-ab9c_128_spiders-12_5505	128	Hor-ab9c_128_arthropods-9_4632	128	0	spiders	arthropods	100.0
+taxongroup	Hemccca_2_spiders-12	Hemccca_2_arthropods-21	Hemccca_2_spiders-12_5505	2	Hemccca_2_arthropods-21_4632	2	0	spiders	arthropods	100.0
+taxongroup	Gol-9020_187_spiders-23	Gol-9020_187_arthropods-12	Gol-9020_187_spiders-23_5505	187	Gol-9020_187_arthropods-12_4632	187	0	spiders	arthropods	100.0
+taxongroup	Tar-bf27_78_spiders-17	Tar-bf27_78_arthropods-8	Tar-bf27_78_spiders-17_5505	78	Tar-bf27_78_arthropods-8_4632	78	0	spiders	arthropods	100.0
+taxongroup	Ara-8421_103_spiders-2	Ara-8421_103_arachnids-10	Ara-8421_103_spiders-2_5505	103	Ara-8421_103_arachnids-10_3993	103	0	spiders	arachnids	100.0
+taxongroup	Ara-8421_139_spider-49	Ara-8421_139_arachnids-29	Ara-8421_139_spider-49_5505	139	Ara-8421_139_arachnids-29_3993	139	0	spiders	arachnids	100.0
+taxongroup	Ara-8421_139_spider-49	Ara-8421_139_arachnids-52	Ara-8421_139_spider-49_5505	139	Ara-8421_139_arachnids-52_3993	139	0	spiders	arachnids	100.0
+taxongroup	Ara-8421_139_spider-49	Ara-8421_139_arachnids-7	Ara-8421_139_spider-49_5505	139	Ara-8421_139_arachnids-7_3993	139	0	spiders	arachnids	100.0
+taxongroup	Ara-8421_139_spiders-17	Ara-8421_139_arachnids-29	Ara-8421_139_spiders-17_5505	139	Ara-8421_139_arachnids-29_3993	139	0	spiders	arachnids	100.0
+taxongroup	Ara-8421_139_spiders-17	Ara-8421_139_arachnids-52	Ara-8421_139_spiders-17_5505	139	Ara-8421_139_arachnids-52_3993	139	0	spiders	arachnids	100.0
+taxongroup	Ara-8421_139_spiders-17	Ara-8421_139_arachnids-7	Ara-8421_139_spiders-17_5505	139	Ara-8421_139_arachnids-7_3993	139	0	spiders	arachnids	100.0
+taxongroup	Art-1308_259_spiders-6	Art-1308_259_arachnids-15	Art-1308_259_spiders-6_5505	259	Art-1308_259_arachnids-15_3993	259	0	spiders	arachnids	100.0
+taxongroup	Art-1308_60_spiders-11	Art-1308_60_arachnids-16	Art-1308_60_spiders-11_5505	60	Art-1308_60_arachnids-16_3993	60	0	spiders	arachnids	100.0
+taxongroup	Aracfba_3_spiders-18	Aracfba_3_arachnids-3	Aracfba_3_spiders-18_5505	3	Aracfba_3_arachnids-3_3993	3	0	spiders	arachnids	100.0
+taxongroup	Art-1308_259_spiders-22	Art-1308_259_arachnids-15	Art-1308_259_spiders-22_5505	259	Art-1308_259_arachnids-15_3993	259	0	spiders	arachnids	100.0
+taxongroup	Spi-b4d6_121_spiders-5	Spi-b4d6_121_arthropods-3	Spi-b4d6_121_spiders-5_5505	121	Spi-b4d6_121_arthropods-3_4632	121	0	spiders	arthropods	100.0
+taxongroup	Spi-b4d6_110_spiders-6	Spi-b4d6_110_arthropods-4	Spi-b4d6_110_spiders-6_5505	110	Spi-b4d6_110_arthropods-4_4632	110	0	spiders	arthropods	100.0
+taxongroup	Spi-b4d6_123_spiders-14	Spi-b4d6_123_arthropods-17	Spi-b4d6_123_spiders-14_5505	123	Spi-b4d6_123_arthropods-17_4632	123	0	spiders	arthropods	100.0
+taxongroup	Spi-b4d6_182_spiders-5	Spi-b4d6_182_arthropods-3	Spi-b4d6_182_spiders-5_5505	182	Spi-b4d6_182_arthropods-3_4632	182	0	spiders	arthropods	100.0
+taxongroup	Spi-b4d6_86_spiders-6	Spi-b4d6_86_arthropod-18	Spi-b4d6_86_spiders-6_5505	86	Spi-b4d6_86_arthropod-18_4632	86	0	spiders	arthropods	100.0
+taxongroup	Spi-b4d6_11_spiders-12	Spi-b4d6_11_arthropods-21	Spi-b4d6_11_spiders-12_5505	11	Spi-b4d6_11_arthropods-21_4632	11	0	spiders	arthropods	100.0
+taxongroup	Spi-b4d6_60_spiders-5	Spi-b4d6_60_arthropods-3	Spi-b4d6_60_spiders-5_5505	60	Spi-b4d6_60_arthropods-3_4632	60	0	spiders	arthropods	100.0
+taxongroup	Pre-0725_131_spiders-10	Pre-0725_131_arthropods-21	Pre-0725_131_spiders-10_5505	131	Pre-0725_131_arthropods-21_4632	131	0	spiders	arthropods	100.0
+taxongroup	Pel-cab2_40_spider-44	Pel-cab2_40_arthropods-40	Pel-cab2_40_spider-44_5505	40	Pel-cab2_40_arthropods-40_4632	40	0	spiders	arthropods	100.0
+taxongroup	Ven-77c9_97_spiders-12	Ven-77c9_97_arthropods-16	Ven-77c9_97_spiders-12_5505	97	Ven-77c9_97_arthropods-16_4632	97	0	spiders	arthropods	100.0
+taxongroup	Sco-5d0f_157_spiders-11	Sco-5d0f_157_arthropods-7	Sco-5d0f_157_spiders-11_5505	157	Sco-5d0f_157_arthropods-7_4632	157	0	spiders	arthropods	100.0
+taxongroup	Rin-8693_198_spiders-19	Rin-8693_198_arthropods-17	Rin-8693_198_spiders-19_5505	198	Rin-8693_198_arthropods-17_4632	198	0	spiders	arthropods	100.0
+taxongroup	Rin-8693_198_spider-11	Rin-8693_198_arthropods-17	Rin-8693_198_spider-11_5505	198	Rin-8693_198_arthropods-17_4632	198	0	spiders	arthropods	100.0
+taxongroup	Red-d827_64_spiders-9	Red-d827_64_arthropods-11	Red-d827_64_spiders-9_5505	64	Red-d827_64_arthropods-11_4632	64	0	spiders	arthropods	100.0
+taxongroup	Ven-071d_35_spiders-4	Ven-071d_35_arthropods-2	Ven-071d_35_spiders-4_5505	35	Ven-071d_35_arthropods-2_4632	35	0	spiders	arthropods	100.0
+taxongroup	Ves-1bba_108_spiders-12	Ves-1bba_108_arthropods-9	Ves-1bba_108_spiders-12_5505	108	Ves-1bba_108_arthropods-9_4632	108	0	spiders	arthropods	100.0
+taxongroup	Was-5a21_41_tarantula-3	Was-5a21_41_spider-15	Was-5a21_41_tarantula-3_4198	41	Was-5a21_41_spider-15_5505	41	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_38_tarantula-7	Tar-bf27_38_spider-2	Tar-bf27_38_tarantula-7_4198	38	Tar-bf27_38_spider-2_5505	38	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_38_tarantula-7	Tar-bf27_38_spider-16	Tar-bf27_38_tarantula-7_4198	38	Tar-bf27_38_spider-16_5505	38	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_38_tarantula-10	Tar-bf27_38_spider-2	Tar-bf27_38_tarantula-10_4198	38	Tar-bf27_38_spider-2_5505	38	0	tarantulas	spiders	100.0
+taxongroup	Hun1704_7_tarantula-12	Hun1704_7_spider-8	Hun1704_7_tarantula-12_4198	7	Hun1704_7_spider-8_5505	7	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_105_tarantula-26	Tar-bf27_105_spider-16	Tar-bf27_105_tarantula-26_4198	105	Tar-bf27_105_spider-16_5505	105	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_209_tarantula-16	Tar-bf27_209_spider-10	Tar-bf27_209_tarantula-16_4198	209	Tar-bf27_209_spider-10_5505	209	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_42_tarantulas-36	Tar-bf27_42_spiders-18	Tar-bf27_42_tarantulas-36_4198	42	Tar-bf27_42_spiders-18_5505	42	0	tarantulas	spiders	100.0
+taxongroup	Tar2870_7_tarantula-9	Tar2870_7_spider-22	Tar2870_7_tarantula-9_4198	7	Tar2870_7_spider-22_5505	7	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_42_tarantula-3	Tar-bf27_42_spiders-13	Tar-bf27_42_tarantula-3_4198	42	Tar-bf27_42_spiders-13_5505	42	0	tarantulas	spiders	100.0
+taxongroup	Spi-7da6_42_tarantulas-30	Spi-7da6_42_spiders-45	Spi-7da6_42_tarantulas-30_4198	42	Spi-7da6_42_spiders-45_5505	42	0	tarantulas	spiders	100.0
+taxongroup	Spi-7da6_42_tarantulas-30	Spi-7da6_42_spiders-51	Spi-7da6_42_tarantulas-30_4198	42	Spi-7da6_42_spiders-51_5505	42	0	tarantulas	spiders	100.0
+taxongroup	Tar2870_20_tarantula-7	Tar2870_20_spiders-46	Tar2870_20_tarantula-7_4198	20	Tar2870_20_spiders-46_5505	20	0	tarantulas	spiders	100.0
+taxongroup	Hun-23f5_14_tarantulas-11	Hun-23f5_14_spiders-15	Hun-23f5_14_tarantulas-11_4198	14	Hun-23f5_14_spiders-15_5505	14	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_105_tarantula-26	Tar-bf27_105_spider-3	Tar-bf27_105_tarantula-26_4198	105	Tar-bf27_105_spider-3_5505	105	0	tarantulas	spiders	100.0
+taxongroup	Ambee78_26_spiders-16	Ambee78_26_animals-12	Ambee78_26_spiders-16_5183	26	Ambee78_26_animals-12_44	26	0	trapdoor spiders	Animals	100.0
+taxongroup	Spi-b4d6_246_spiders-8	Spi-b4d6_246_Liphistiidae-3	Spi-b4d6_246_spiders-8_5183	246	Spi-b4d6_246_Liphistiidae-3_668	246	0	trapdoor spiders	Liphistiidae	100.0
+taxongroup	Ambee78_26_spiders-16	Ambee78_26_spiders-16	Ambee78_26_spiders-16_5183	26	Ambee78_26_spiders-16_5505	26	0	trapdoor spiders	spiders	100.0
+taxongroup	Lip-d786_20_spiders-4	Lip-d786_20_spiders-4	Lip-d786_20_spiders-4_5183	20	Lip-d786_20_spiders-4_5505	20	0	trapdoor spiders	spiders	100.0
+taxongroup	Spi-b4d6_381_spiders-10	Spi-b4d6_381_spiders-10	Spi-b4d6_381_spiders-10_5183	381	Spi-b4d6_381_spiders-10_5505	381	0	trapdoor spiders	spiders	100.0
+taxongroup	Lip-d786_2_spiders-8	Lip-d786_2_spiders-8	Lip-d786_2_spiders-8_5183	2	Lip-d786_2_spiders-8_5505	2	0	trapdoor spiders	spiders	100.0
+taxongroup	Spi-b4d6_381_spiders-17	Spi-b4d6_381_spiders-10	Spi-b4d6_381_spiders-17_5183	381	Spi-b4d6_381_spiders-10_5505	381	0	trapdoor spiders	spiders	100.0
+taxongroup	Spi-b4d6_246_spiders-40	Spi-b4d6_246_spiders-8	Spi-b4d6_246_spiders-40_5183	246	Spi-b4d6_246_spiders-8_5505	246	0	trapdoor spiders	spiders	100.0
+taxongroup	Eur-fdbd_139_trilobites-14	Eur-fdbd_139_arthropod-9	Eur-fdbd_139_trilobites-14_5578	139	Eur-fdbd_139_arthropod-9_4632	139	0	trilobites	arthropods	100.0
+taxongroup	Tri-09f5_19_trilobites-15	Tri-09f5_19_arthropods-11	Tri-09f5_19_trilobites-15_5578	19	Tri-09f5_19_arthropods-11_4632	19	0	trilobites	arthropods	100.0
+taxongroup	Tri-09f5_351_trilobites-4	Tri-09f5_351_arthropods-29	Tri-09f5_351_trilobites-4_5578	351	Tri-09f5_351_arthropods-29_4632	351	0	trilobites	arthropods	100.0
+taxongroup	Tri-09f5_14_trilobites-11	Tri-09f5_14_arthropods-7	Tri-09f5_14_trilobites-11_5578	14	Tri-09f5_14_arthropods-7_4632	14	0	trilobites	arthropods	100.0
+taxongroup	Tri-09f5_19_trilobites-20	Tri-09f5_19_arthropods-11	Tri-09f5_19_trilobites-20_5578	19	Tri-09f5_19_arthropods-11_4632	19	0	trilobites	arthropods	100.0
+taxongroup	Tri-09f5_420_trilobites-9	Tri-09f5_420_arthropods-26	Tri-09f5_420_trilobites-9_5578	420	Tri-09f5_420_arthropods-26_4632	420	0	trilobites	arthropods	100.0
+taxongroup	Tri-09f5_179_trilobites-21	Tri-09f5_179_arthropods-24	Tri-09f5_179_trilobites-21_5578	179	Tri-09f5_179_arthropods-24_4632	179	0	trilobites	arthropods	100.0
+taxongroup	Tar-bf27_43_tarantulas-6	Tar-bf27_43_spiders-2	Tar-bf27_43_tarantulas-6_4198	43	Tar-bf27_43_spiders-2_5505	43	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_212_tarantulas-11	Tar-bf27_212_spiders-5	Tar-bf27_212_tarantulas-11_4198	212	Tar-bf27_212_spiders-5_5505	212	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_40_tarantula-3	Tar-bf27_40_spider-18	Tar-bf27_40_tarantula-3_4198	40	Tar-bf27_40_spider-18_5505	40	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_42_tarantulas-21	Tar-bf27_42_spiders-13	Tar-bf27_42_tarantulas-21_4198	42	Tar-bf27_42_spiders-13_5505	42	0	tarantulas	spiders	100.0
+taxongroup	Spi-7da6_42_tarantulas-30	Spi-7da6_42_spiders-68	Spi-7da6_42_tarantulas-30_4198	42	Spi-7da6_42_spiders-68_5505	42	0	tarantulas	spiders	100.0
+taxongroup	Spi-7da6_42_tarantulas-30	Spi-7da6_42_spider-26	Spi-7da6_42_tarantulas-30_4198	42	Spi-7da6_42_spider-26_5505	42	0	tarantulas	spiders	100.0
+taxongroup	Spi-7da6_42_tarantulas-30	Spi-7da6_42_spiders-12	Spi-7da6_42_tarantulas-30_4198	42	Spi-7da6_42_spiders-12_5505	42	0	tarantulas	spiders	100.0
+taxongroup	Spi-7da6_42_tarantulas-30	Spi-7da6_42_spiders-33	Spi-7da6_42_tarantulas-30_4198	42	Spi-7da6_42_spiders-33_5505	42	0	tarantulas	spiders	100.0
+taxongroup	Spi-7da6_42_tarantulas-30	Spi-7da6_42_spiders-39	Spi-7da6_42_tarantulas-30_4198	42	Spi-7da6_42_spiders-39_5505	42	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_123_tarantula-3	Tar-bf27_123_spiders-9	Tar-bf27_123_tarantula-3_4198	123	Tar-bf27_123_spiders-9_5505	123	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_38_tarantula-10	Tar-bf27_38_spider-16	Tar-bf27_38_tarantula-10_4198	38	Tar-bf27_38_spider-16_5505	38	0	tarantulas	spiders	100.0
+taxongroup	Art-1308_274_tarantulas-2	Art-1308_274_spider-26	Art-1308_274_tarantulas-2_4198	274	Art-1308_274_spider-26_5505	274	0	tarantulas	spiders	100.0
+taxongroup	Spi-b4d6_267_tarantulas-9	Spi-b4d6_267_spiders-12	Spi-b4d6_267_tarantulas-9_4198	267	Spi-b4d6_267_spiders-12_5505	267	0	tarantulas	spiders	100.0
+taxongroup	Spi-b4d6_381_tarantulas-6	Spi-b4d6_381_spiders-17	Spi-b4d6_381_tarantulas-6_4198	381	Spi-b4d6_381_spiders-17_5505	381	0	tarantulas	spiders	100.0
+taxongroup	Spi-b4d6_188_tarantulas-8	Spi-b4d6_188_spiders-5	Spi-b4d6_188_tarantulas-8_4198	188	Spi-b4d6_188_spiders-5_5505	188	0	tarantulas	spiders	100.0
+taxongroup	Spi-b4d6_246_tarantulas-16	Spi-b4d6_246_spiders-8	Spi-b4d6_246_tarantulas-16_4198	246	Spi-b4d6_246_spiders-8_5505	246	0	tarantulas	spiders	100.0
+taxongroup	Spi-b4d6_184_tarantulas-13	Spi-b4d6_184_spider-28	Spi-b4d6_184_tarantulas-13_4198	184	Spi-b4d6_184_spider-28_5505	184	0	tarantulas	spiders	100.0
+taxongroup	Spi-b4d6_184_tarantulas-13	Spi-b4d6_184_spiders-2	Spi-b4d6_184_tarantulas-13_4198	184	Spi-b4d6_184_spiders-2_5505	184	0	tarantulas	spiders	100.0
+taxongroup	Spi-b4d6_381_tarantulas-6	Spi-b4d6_381_spiders-10	Spi-b4d6_381_tarantulas-6_4198	381	Spi-b4d6_381_spiders-10_5505	381	0	tarantulas	spiders	100.0
+taxongroup	Spi-b4d6_31_tarantulas-11	Spi-b4d6_31_spiders-3	Spi-b4d6_31_tarantulas-11_4198	31	Spi-b4d6_31_spiders-3_5505	31	0	tarantulas	spiders	100.0
+taxongroup	Spi-b4d6_422_tarantulas-2	Spi-b4d6_422_spiders-26	Spi-b4d6_422_tarantulas-2_4198	422	Spi-b4d6_422_spiders-26_5505	422	0	tarantulas	spiders	100.0
+taxongroup	Ore-6254_14_tarantula-15	Ore-6254_14_spider-16	Ore-6254_14_tarantula-15_4198	14	Ore-6254_14_spider-16_5505	14	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_42_tarantulas-36	Tar-bf27_42_spiders-13	Tar-bf27_42_tarantulas-36_4198	42	Tar-bf27_42_spiders-13_5505	42	0	tarantulas	spiders	100.0
+taxongroup	Spi-b4d6_31_tarantulas-11	Spi-b4d6_31_spiders-15	Spi-b4d6_31_tarantulas-11_4198	31	Spi-b4d6_31_spiders-15_5505	31	0	tarantulas	spiders	100.0
+taxongroup	Spi-b4d6_246_tarantulas-16	Spi-b4d6_246_spiders-40	Spi-b4d6_246_tarantulas-16_4198	246	Spi-b4d6_246_spiders-40_5505	246	0	tarantulas	spiders	100.0
+taxongroup	Hun-23f5_14_tarantulas-11	Hun-23f5_14_spider-4	Hun-23f5_14_tarantulas-11_4198	14	Hun-23f5_14_spider-4_5505	14	0	tarantulas	spiders	100.0
+taxongroup	Gol-167c_27_tarantulas-3	Gol-167c_27_spiders-7	Gol-167c_27_tarantulas-3_4198	27	Gol-167c_27_spiders-7_5505	27	0	tarantulas	spiders	100.0
+taxongroup	Gol-167c_13_tarantula-7	Gol-167c_13_spider-5	Gol-167c_13_tarantula-7_4198	13	Gol-167c_13_spider-5_5505	13	0	tarantulas	spiders	100.0
+taxongroup	Lep-b9c7_35_tarantulas-28	Lep-b9c7_35_spiders-25	Lep-b9c7_35_tarantulas-28_4198	35	Lep-b9c7_35_spiders-25_5505	35	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_212_tarantulas-11	Tar-bf27_212_spiders-18	Tar-bf27_212_tarantulas-11_4198	212	Tar-bf27_212_spiders-18_5505	212	0	tarantulas	spiders	100.0
+taxongroup	Tar-bf27_42_tarantulas-21	Tar-bf27_42_spiders-18	Tar-bf27_42_tarantulas-21_4198	42	Tar-bf27_42_spiders-18_5505	42	0	tarantulas	spiders	100.0
+taxongroup	Aph-1a7e_208_spiders-40	Aph-1a7e_208_arachnids-37	Aph-1a7e_208_spiders-40_5505	208	Aph-1a7e_208_arachnids-37_3993	208	0	spiders	arachnids	100.0
+taxongroup	Ara-8421_55_spiders-38	Ara-8421_55_arachnids-18	Ara-8421_55_spiders-38_5505	55	Ara-8421_55_arachnids-18_3993	55	0	spiders	arachnids	100.0
+taxongroup	Dol-b828_3_spiders-16	Dol-b828_3_spiders-7	Dol-b828_3_spiders-16_4865	3	Dol-b828_3_spiders-7_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Par-5c6e_6_scorpions-24	Par-5c6e_6_animal-11	Par-5c6e_6_scorpions-24_5456	6	Par-5c6e_6_animal-11_3812	6	0	scorpions	animals	100.0
+taxongroup	Sco-5d0f_145_scorpions-9	Sco-5d0f_145_animals-17	Sco-5d0f_145_scorpions-9_5456	145	Sco-5d0f_145_animals-17_44	145	0	scorpions	Animals	100.0
+taxongroup	Sco-5d0f_279_scorpion-2	Sco-5d0f_279_animal-7	Sco-5d0f_279_scorpion-2_5456	279	Sco-5d0f_279_animal-7_44	279	0	scorpions	Animals	100.0
+taxongroup	Sco-5d0f_288_scorpion-11	Sco-5d0f_288_animals-28	Sco-5d0f_288_scorpion-11_5456	288	Sco-5d0f_288_animals-28_44	288	0	scorpions	Animals	100.0
+taxongroup	Ara-8421_3_scorpions-9	Ara-8421_3_Arachnida-1	Ara-8421_3_scorpions-9_5456	3	Ara-8421_3_Arachnida-1_378	3	0	scorpions	Arachnida	100.0
+taxongroup	Sol-e070_2_scorpions-18	Sol-e070_2_Arachnida-10	Sol-e070_2_scorpions-18_5456	2	Sol-e070_2_Arachnida-10_378	2	0	scorpions	Arachnida	100.0
+taxongroup	Sco-5d0f_45_scorpions-4	Sco-5d0f_45_Arachnida-22	Sco-5d0f_45_scorpions-4_5456	45	Sco-5d0f_45_Arachnida-22_378	45	0	scorpions	Arachnida	100.0
+taxongroup	Arm-33e3_135_scorpions-29	Arm-33e3_135_animals-35	Arm-33e3_135_scorpions-29_5456	135	Arm-33e3_135_animals-35_3812	135	0	scorpions	animals	100.0
+taxongroup	Sol-e070_2_scorpions-18	Sol-e070_2_animals-6	Sol-e070_2_scorpions-18_5456	2	Sol-e070_2_animals-6_3812	2	0	scorpions	animals	100.0
+taxongroup	Viv0253_18_scorpions-31	Viv0253_18_animal-15	Viv0253_18_scorpions-31_5456	18	Viv0253_18_animal-15_3812	18	0	scorpions	animals	100.0
+taxongroup	Art-1308_259_scorpions-24	Art-1308_259_arachnids-15	Art-1308_259_scorpions-24_5456	259	Art-1308_259_arachnids-15_3993	259	0	scorpions	arachnids	100.0
+taxongroup	Ara-8421_125_spider-8	Ara-8421_125_arachnids-11	Ara-8421_125_spider-8_5505	125	Ara-8421_125_arachnids-11_3993	125	0	spiders	arachnids	100.0
+taxongroup	Aracfba_3_scorpions-8	Aracfba_3_arachnids-3	Aracfba_3_scorpions-8_5456	3	Aracfba_3_arachnids-3_3993	3	0	scorpions	arachnids	100.0
+taxongroup	Aracfba_3_scorpions-5	Aracfba_3_arachnids-3	Aracfba_3_scorpions-5_5456	3	Aracfba_3_arachnids-3_3993	3	0	scorpions	arachnids	100.0
+taxongroup	Aracfba_3_scorpions-11	Aracfba_3_arachnids-3	Aracfba_3_scorpions-11_5456	3	Aracfba_3_arachnids-3_3993	3	0	scorpions	arachnids	100.0
+taxongroup	Ara-8421_139_scorpions-20	Ara-8421_139_arachnids-29	Ara-8421_139_scorpions-20_5456	139	Ara-8421_139_arachnids-29_3993	139	0	scorpions	arachnids	100.0
+taxongroup	Ara-8421_139_scorpions-20	Ara-8421_139_arachnids-52	Ara-8421_139_scorpions-20_5456	139	Ara-8421_139_arachnids-52_3993	139	0	scorpions	arachnids	100.0
+taxongroup	Ara-8421_139_scorpions-20	Ara-8421_139_arachnids-7	Ara-8421_139_scorpions-20_5456	139	Ara-8421_139_arachnids-7_3993	139	0	scorpions	arachnids	100.0
+taxongroup	Sol-e070_28_scorpions-8	Sol-e070_28_arachnids-3	Sol-e070_28_scorpions-8_5456	28	Sol-e070_28_arachnids-3_3993	28	0	scorpions	arachnids	100.0
+taxongroup	Spi-b4d6_49_scorpions-3	Spi-b4d6_49_arachnids-12	Spi-b4d6_49_scorpions-3_5456	49	Spi-b4d6_49_arachnids-12_3993	49	0	scorpions	arachnids	100.0
+taxongroup	Spi-b4d6_77_scorpions-6	Spi-b4d6_77_arachnids-3	Spi-b4d6_77_scorpions-6_5456	77	Spi-b4d6_77_arachnids-3_3993	77	0	scorpions	arachnids	100.0
+taxongroup	Eur-fdbd_296_scorpions-17	Eur-fdbd_296_arachnids-20	Eur-fdbd_296_scorpions-17_5456	296	Eur-fdbd_296_arachnids-20_3993	296	0	scorpions	arachnids	100.0
+taxongroup	Sco-5d0f_210_scorpions-15	Sco-5d0f_210_arachnids-5	Sco-5d0f_210_scorpions-15_5456	210	Sco-5d0f_210_arachnids-5_3993	210	0	scorpions	arachnids	100.0
+taxongroup	Art-1308_213_scorpions-28	Art-1308_213_arthropods-11	Art-1308_213_scorpions-28_5456	213	Art-1308_213_arthropods-11_4632	213	0	scorpions	arthropods	100.0
+taxongroup	Art-1308_168_scorpions-7	Art-1308_168_arthropods-2	Art-1308_168_scorpions-7_5456	168	Art-1308_168_arthropods-2_4632	168	0	scorpions	arthropods	100.0
+taxongroup	Dol-b828_71_spider-4	Dol-b828_71_spider-4	Dol-b828_71_spider-4_4865	71	Dol-b828_71_spider-4_5505	71	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_10_spider-46	Dol-b828_10_spider-29	Dol-b828_10_spider-46_4865	10	Dol-b828_10_spider-29_5505	10	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_10_spider-29	Dol-b828_10_spider-46	Dol-b828_10_spider-29_4865	10	Dol-b828_10_spider-46_5505	10	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_3_spiders-13	Dol-b828_3_spiders-7	Dol-b828_3_spiders-13_4865	3	Dol-b828_3_spiders-7_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_3_spiders-13	Dol-b828_3_spiders-16	Dol-b828_3_spiders-13_4865	3	Dol-b828_3_spiders-16_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_3_spiders-7	Dol-b828_3_spiders-16	Dol-b828_3_spiders-7_4865	3	Dol-b828_3_spiders-16_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_3_spiders-7	Dol-b828_3_spiders-13	Dol-b828_3_spiders-7_4865	3	Dol-b828_3_spiders-13_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Nur-b8fd_9_spiders-27	Nur-b8fd_9_spiders-24	Nur-b8fd_9_spiders-27_4865	9	Nur-b8fd_9_spiders-24_5505	9	0	raft spiders	spiders	100.0
+taxongroup	Nur-b8fd_9_spiders-27	Nur-b8fd_9_spiders-27	Nur-b8fd_9_spiders-27_4865	9	Nur-b8fd_9_spiders-27_5505	9	0	raft spiders	spiders	100.0
+taxongroup	Nur-b8fd_9_spiders-24	Nur-b8fd_9_spiders-27	Nur-b8fd_9_spiders-24_4865	9	Nur-b8fd_9_spiders-27_5505	9	0	raft spiders	spiders	100.0
+taxongroup	Nur-b8fd_9_spider-6	Nur-b8fd_9_spiders-27	Nur-b8fd_9_spider-6_4865	9	Nur-b8fd_9_spiders-27_5505	9	0	raft spiders	spiders	100.0
+taxongroup	Nur-b8fd_9_spider-6	Nur-b8fd_9_spiders-24	Nur-b8fd_9_spider-6_4865	9	Nur-b8fd_9_spiders-24_5505	9	0	raft spiders	spiders	100.0
+taxongroup	Dolc856_5_spider-15	Dolc856_5_spider-15	Dolc856_5_spider-15_4865	5	Dolc856_5_spider-15_5505	5	0	raft spiders	spiders	100.0
+taxongroup	Dolc856_15_spider-3	Dolc856_15_spider-3	Dolc856_15_spider-3_4865	15	Dolc856_15_spider-3_5505	15	0	raft spiders	spiders	100.0
+taxongroup	Dolc856_8_spider-9	Dolc856_8_spider-9	Dolc856_8_spider-9_4865	8	Dolc856_8_spider-9_5505	8	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_3_spiders-10	Dol-b828_3_spiders-7	Dol-b828_3_spiders-10_4865	3	Dol-b828_3_spiders-7_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_3_spiders-10	Dol-b828_3_spiders-16	Dol-b828_3_spiders-10_4865	3	Dol-b828_3_spiders-16_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_3_spiders-10	Dol-b828_3_spiders-13	Dol-b828_3_spiders-10_4865	3	Dol-b828_3_spiders-13_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_3_spiders-16	Dol-b828_3_spiders-10	Dol-b828_3_spiders-16_4865	3	Dol-b828_3_spiders-10_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Nur-b8fd_9_spiders-24	Nur-b8fd_9_spider-6	Nur-b8fd_9_spiders-24_4865	9	Nur-b8fd_9_spider-6_5505	9	0	raft spiders	spiders	100.0
+taxongroup	Nur-b8fd_9_spiders-24	Nur-b8fd_9_spiders-24	Nur-b8fd_9_spiders-24_4865	9	Nur-b8fd_9_spiders-24_5505	9	0	raft spiders	spiders	100.0
+taxongroup	Nur-b8fd_9_spider-6	Nur-b8fd_9_spider-6	Nur-b8fd_9_spider-6_4865	9	Nur-b8fd_9_spider-6_5505	9	0	raft spiders	spiders	100.0
+taxongroup	Nur-b8fd_9_spiders-27	Nur-b8fd_9_spider-6	Nur-b8fd_9_spiders-27_4865	9	Nur-b8fd_9_spider-6_5505	9	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_3_spiders-13	Dol-b828_3_spiders-10	Dol-b828_3_spiders-13_4865	3	Dol-b828_3_spiders-10_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_70_spider-4	Dol-b828_70_spider-4	Dol-b828_70_spider-4_4865	70	Dol-b828_70_spider-4_5505	70	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_3_spiders-7	Dol-b828_3_spiders-7	Dol-b828_3_spiders-7_4865	3	Dol-b828_3_spiders-7_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_3_spiders-7	Dol-b828_3_spiders-10	Dol-b828_3_spiders-7_4865	3	Dol-b828_3_spiders-10_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Dol-b828_3_spiders-10	Dol-b828_3_spiders-10	Dol-b828_3_spiders-10_4865	3	Dol-b828_3_spiders-10_5505	3	0	raft spiders	spiders	100.0
+taxongroup	Art-1308_197_scorpion-8	Art-1308_197_arthropods-16	Art-1308_197_scorpion-8_5456	197	Art-1308_197_arthropods-16_4632	197	0	scorpions	arthropods	100.0
+taxongroup	Eurb5f3_1_scorpions-2	Eurb5f3_1_arthropods-10	Eurb5f3_1_scorpions-2_5456	1	Eurb5f3_1_arthropods-10_4632	1	0	scorpions	arthropods	100.0
+taxongroup	Mer-8390_2_scorpions-15	Mer-8390_2_arthropods-7	Mer-8390_2_scorpions-15_5456	2	Mer-8390_2_arthropods-7_4632	2	0	scorpions	arthropods	100.0
+taxongroup	Ara-8421_3_spiders-7	Ara-8421_3_Arachnida-1	Ara-8421_3_spiders-7_5505	3	Ara-8421_3_Arachnida-1_378	3	0	spiders	Arachnida	100.0
+taxongroup	Ara-8421_3_spiders-23	Ara-8421_3_Arachnida-1	Ara-8421_3_spiders-23_5505	3	Ara-8421_3_Arachnida-1_378	3	0	spiders	Arachnida	100.0
+taxongroup	Sco-5d0f_33_spiders-15	Sco-5d0f_33_Arthropoda-11	Sco-5d0f_33_spiders-15_5505	33	Sco-5d0f_33_Arthropoda-11_1573	33	0	spiders	Arthropoda	100.0
+taxongroup	Ani-161e_178_spiders-15	Ani-161e_178_Arthropoda-9	Ani-161e_178_spiders-15_5505	178	Ani-161e_178_Arthropoda-9_1573	178	0	spiders	Arthropoda	100.0
+taxongroup	Dol-b828_87_spider-5	Dol-b828_87_Arthropod-7	Dol-b828_87_spider-5_5505	87	Dol-b828_87_Arthropod-7_1572	87	0	spiders	Arthropods	100.0
+taxongroup	Spi-b4d6_439_spiders-9	Spi-b4d6_439_animals-5	Spi-b4d6_439_spiders-9_5505	439	Spi-b4d6_439_animals-5_3812	439	0	spiders	animals	100.0
+taxongroup	Pre-0725_137_spiders-8	Pre-0725_137_animals-29	Pre-0725_137_spiders-8_5505	137	Pre-0725_137_animals-29_3812	137	0	spiders	animals	100.0
+taxongroup	Sco-5d0f_33_spiders-15	Sco-5d0f_33_animals-22	Sco-5d0f_33_spiders-15_5505	33	Sco-5d0f_33_animals-22_3812	33	0	spiders	animals	100.0
+taxongroup	Sco-5d0f_131_spiders-10	Sco-5d0f_131_animals-8	Sco-5d0f_131_spiders-10_5505	131	Sco-5d0f_131_animals-8_3812	131	0	spiders	animals	100.0
+taxongroup	Tur-2bce_104_spiders-30	Tur-2bce_104_animals-25	Tur-2bce_104_spiders-30_5505	104	Tur-2bce_104_animals-25_3812	104	0	spiders	animals	100.0
+taxongroup	Spi-b4d6_443_spiders-10	Spi-b4d6_443_animals-3	Spi-b4d6_443_spiders-10_5505	443	Spi-b4d6_443_animals-3_3812	443	0	spiders	animals	100.0
+taxongroup	For-ac12_101_spiders-28	For-ac12_101_animals-21	For-ac12_101_spiders-28_5505	101	For-ac12_101_animals-21_3812	101	0	spiders	animals	100.0
+taxongroup	Jum-50eb_66_spiders-2	Jum-50eb_66_animals-7	Jum-50eb_66_spiders-2_5505	66	Jum-50eb_66_animals-7_3812	66	0	spiders	animals	100.0
+taxongroup	Aph-1a7e_109_spider-11	Aph-1a7e_109_animals-5	Aph-1a7e_109_spider-11_5505	109	Aph-1a7e_109_animals-5_3812	109	0	spiders	animals	100.0
+taxongroup	Ani-2170_6_spiders-60	Ani-2170_6_animal-4	Ani-2170_6_spiders-60_5505	6	Ani-2170_6_animal-4_3812	6	0	spiders	animals	100.0
+taxongroup	Ani-161e_178_spiders-15	Ani-161e_178_animal-5	Ani-161e_178_spiders-15_5505	178	Ani-161e_178_animal-5_3812	178	0	spiders	animals	100.0
+taxongroup	Amb-b5dc_8_spiders-26	Amb-b5dc_8_animal-8	Amb-b5dc_8_spiders-26_5505	8	Amb-b5dc_8_animal-8_3812	8	0	spiders	animals	100.0
+taxongroup	Com-0bc9_64_spiders-18	Com-0bc9_64_animal-2	Com-0bc9_64_spiders-18_5505	64	Com-0bc9_64_animal-2_3812	64	0	spiders	animals	100.0
+taxongroup	Ath-582c_311_spiders-37	Ath-582c_311_animals-39	Ath-582c_311_spiders-37_5505	311	Ath-582c_311_animals-39_3812	311	0	spiders	animals	100.0
+taxongroup	Arm-33e3_135_spiders-27	Arm-33e3_135_animals-35	Arm-33e3_135_spiders-27_5505	135	Arm-33e3_135_animals-35_3812	135	0	spiders	animals	100.0
+taxongroup	Ban-5f22_50_spiders-12	Ban-5f22_50_animal-4	Ban-5f22_50_spiders-12_5505	50	Ban-5f22_50_animal-4_3812	50	0	spiders	animals	100.0
+taxongroup	Bee-1811_372_spiders-43	Bee-1811_372_animal-13	Bee-1811_372_spiders-43_5505	372	Bee-1811_372_animal-13_3812	372	0	spiders	animals	100.0
+taxongroup	Spi-b4d6_77_spiders-8	Spi-b4d6_77_arachnids-3	Spi-b4d6_77_spiders-8_5505	77	Spi-b4d6_77_arachnids-3_3993	77	0	spiders	arachnids	100.0
+taxongroup	Spi-b4d6_89_spiders-17	Spi-b4d6_89_arachnids-29	Spi-b4d6_89_spiders-17_5505	89	Spi-b4d6_89_arachnids-29_3993	89	0	spiders	arachnids	100.0
+taxongroup	Spi-b4d6_451_spiders-49	Spi-b4d6_451_arachnids-19	Spi-b4d6_451_spiders-49_5505	451	Spi-b4d6_451_arachnids-19_3993	451	0	spiders	arachnids	100.0
+taxongroup	Orb-0601_53_spiders-8	Orb-0601_53_arachnid-2	Orb-0601_53_spiders-8_5505	53	Orb-0601_53_arachnid-2_3993	53	0	spiders	arachnids	100.0
+taxongroup	Orb-0601_36_spiders-8	Orb-0601_36_arachnid-26	Orb-0601_36_spiders-8_5505	36	Orb-0601_36_arachnid-26_3993	36	0	spiders	arachnids	100.0
+taxongroup	Ara-8421_3_spiders-20	Ara-8421_3_Arachnida-1	Ara-8421_3_spiders-20_5505	3	Ara-8421_3_Arachnida-1_378	3	0	spiders	Arachnida	100.0
+taxongroup	Sco-5d0f_33_spiders-15	Sco-5d0f_33_Arachnida-1	Sco-5d0f_33_spiders-15_5505	33	Sco-5d0f_33_Arachnida-1_378	33	0	spiders	Arachnida	100.0
+taxongroup	Mee-4cdd_141_scorpions-28	Mee-4cdd_141_arthropods-24	Mee-4cdd_141_scorpions-28_5456	141	Mee-4cdd_141_arthropods-24_4632	141	0	scorpions	arthropods	100.0
+taxongroup	Ins-960c_47_scorpions-17	Ins-960c_47_arthropods-3	Ins-960c_47_scorpions-17_5456	47	Ins-960c_47_arthropods-3_4632	47	0	scorpions	arthropods	100.0
+taxongroup	Eur-fdbd_2_scorpions-7	Eur-fdbd_2_arthropods-14	Eur-fdbd_2_scorpions-7_5456	2	Eur-fdbd_2_arthropods-14_4632	2	0	scorpions	arthropods	100.0
+taxongroup	Tar-bf27_156_scorpions-7	Tar-bf27_156_arthropods-2	Tar-bf27_156_scorpions-7_5456	156	Tar-bf27_156_arthropods-2_4632	156	0	scorpions	arthropods	100.0
+taxongroup	Ven-071d_35_scorpions-31	Ven-071d_35_arthropods-2	Ven-071d_35_scorpions-31_5456	35	Ven-071d_35_arthropods-2_4632	35	0	scorpions	arthropods	100.0
+taxongroup	Sco-5d0f_266_scorpions-4	Sco-5d0f_266_arthropods-12	Sco-5d0f_266_scorpions-4_5456	266	Sco-5d0f_266_arthropods-12_4632	266	0	scorpions	arthropods	100.0
+taxongroup	Nep-5975_99_scorpions-8	Nep-5975_99_arthropods-2	Nep-5975_99_scorpions-8_5456	99	Nep-5975_99_arthropods-2_4632	99	0	scorpions	arthropods	100.0
+taxongroup	Ech-581f_68_scorpions-19	Ech-581f_68_arthropods-15	Ech-581f_68_scorpions-19_5456	68	Ech-581f_68_arthropods-15_4632	68	0	scorpions	arthropods	100.0
+taxongroup	Art-1308_46_crab-17	Art-1308_46_Malacostraca-8	Art-1308_46_crab-17_5206	46	Art-1308_46_Malacostraca-8_403	46	0	spider crabs	Malacostraca	100.0
+taxongroup	Cru-e3ae_86_crab-24	Cru-e3ae_86_arthropod-16	Cru-e3ae_86_crab-24_5206	86	Cru-e3ae_86_arthropod-16_4632	86	0	spider crabs	arthropods	100.0
+taxongroup	Maj02db_5_crab-12	Maj02db_5_arthropod-7	Maj02db_5_crab-12_5206	5	Maj02db_5_arthropod-7_4632	5	0	spider crabs	arthropods	100.0
+taxongroup	Sed-c6ce_75_spiders-18	Sed-c6ce_75_animal-33	Sed-c6ce_75_spiders-18_5505	75	Sed-c6ce_75_animal-33_44	75	0	spiders	Animals	100.0
+taxongroup	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-45_4933	2	Arg-ab8e_2_spider-45_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-7_4933	2	Arg-ab8e_2_spider-21_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-45_4933	2	Arg-ab8e_2_spider-34_5505	2	0	garden spider	spiders	100.0
+taxongroup	Hun-23f5_31_spider-2	Hun-23f5_31_spider-2	Hun-23f5_31_spider-2_2567	31	Hun-23f5_31_spider-2_5505	31	0	Huntsman spiders	spiders	100.0
+taxongroup	Tar-bf27_44_spiders-2	Tar-bf27_44_spiders-2	Tar-bf27_44_spiders-2_2567	44	Tar-bf27_44_spiders-2_5505	44	0	Huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_2_spiders-2	Hun-23f5_2_spiders-2	Hun-23f5_2_spiders-2_2567	2	Hun-23f5_2_spiders-2_5505	2	0	Huntsman spiders	spiders	100.0
+taxongroup	Hun1704_4_spiders-2	Hun1704_4_spiders-2	Hun1704_4_spiders-2_2567	4	Hun1704_4_spiders-2_5505	4	0	Huntsman spiders	spiders	100.0
+taxongroup	Pred9d0_9_spiders-2	Pred9d0_9_spiders-2	Pred9d0_9_spiders-2_2567	9	Pred9d0_9_spiders-2_5505	9	0	Huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_78_spider-2	Hun-23f5_78_spider-2	Hun-23f5_78_spider-2_2567	78	Hun-23f5_78_spider-2_5505	78	0	Huntsman spiders	spiders	100.0
+taxongroup	Tho-4613_13_spiders-9	Tho-4613_13_spiders-21	Tho-4613_13_spiders-9_1981	13	Tho-4613_13_spiders-21_5505	13	0	Crab spiders	spiders	100.0
+taxongroup	Hun-23f5_70_spider-2	Hun-23f5_70_spider-2	Hun-23f5_70_spider-2_2567	70	Hun-23f5_70_spider-2_5505	70	0	Huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_68_spider-2	Hun-23f5_68_spider-2	Hun-23f5_68_spider-2_2567	68	Hun-23f5_68_spider-2_5505	68	0	Huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_64_spider-2	Hun-23f5_64_spider-2	Hun-23f5_64_spider-2_2567	64	Hun-23f5_64_spider-2_5505	64	0	Huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_50_spider-2	Hun-23f5_50_spider-2	Hun-23f5_50_spider-2_2567	50	Hun-23f5_50_spider-2_5505	50	0	Huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_1_spider-2	Hun-23f5_1_spider-2	Hun-23f5_1_spider-2_2567	1	Hun-23f5_1_spider-2_5505	1	0	Huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_47_spider-2	Hun-23f5_47_spider-2	Hun-23f5_47_spider-2_2567	47	Hun-23f5_47_spider-2_5505	47	0	Huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_40_spider-2	Hun-23f5_40_spider-2	Hun-23f5_40_spider-2_2567	40	Hun-23f5_40_spider-2_5505	40	0	Huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_25_spider-2	Hun-23f5_25_spider-2	Hun-23f5_25_spider-2_2567	25	Hun-23f5_25_spider-2_5505	25	0	Huntsman spiders	spiders	100.0
+taxongroup	Hun-23f5_10_spider-2	Hun-23f5_10_spider-2	Hun-23f5_10_spider-2_2567	10	Hun-23f5_10_spider-2_5505	10	0	Huntsman spiders	spiders	100.0
+taxongroup	Jum-50eb_163_spiders-78	Jum-50eb_163_Spiders-41	Jum-50eb_163_spiders-78_650	163	Jum-50eb_163_Spiders-41_3396	163	0	Jumping spiders	Spiders	100.0
+taxongroup	Tho-4613_14_spiders-37	Tho-4613_14_spiders-13	Tho-4613_14_spiders-37_1981	14	Tho-4613_14_spiders-13_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-38	Tho-4613_28_spiders-38	Tho-4613_28_spiders-38_1981	28	Tho-4613_28_spiders-38_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_21_spiders-24	Tho-4613_21_spiders-16	Tho-4613_21_spiders-24_1981	21	Tho-4613_21_spiders-16_5505	21	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_21_spiders-35	Tho-4613_21_spiders-16	Tho-4613_21_spiders-35_1981	21	Tho-4613_21_spiders-16_5505	21	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_13_spiders-9	Tho-4613_13_spiders-9	Tho-4613_13_spiders-9_1981	13	Tho-4613_13_spiders-9_5505	13	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-38	Tho-4613_28_spiders-20	Tho-4613_28_spiders-38_1981	28	Tho-4613_28_spiders-20_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Amb-b5dc_24_spiders-10	Amb-b5dc_24_spiders-10	Amb-b5dc_24_spiders-10_1981	24	Amb-b5dc_24_spiders-10_5505	24	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-38	Tho-4613_28_spiders-29	Tho-4613_28_spiders-38_1981	28	Tho-4613_28_spiders-29_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Eurcc05_11_spider-2	Eurcc05_11_spider-2	Eurcc05_11_spider-2_2189	11	Eurcc05_11_spider-2_5505	11	0	Garden spider	spiders	100.0
+taxongroup	Gol610a_18_spider-11	Gol610a_18_spider-11	Gol610a_18_spider-11_2383	18	Gol610a_18_spider-11_5505	18	0	Goliath bird-eating spider	spiders	100.0
+taxongroup	Too-567c_628_crab-24	Too-567c_628_animals-22	Too-567c_628_crab-24_2525	628	Too-567c_628_animals-22_44	628	0	Hermit crabs	Animals	100.0
+taxongroup	Too-567c_628_crab-24	Too-567c_628_Animal-3	Too-567c_628_crab-24_2525	628	Too-567c_628_Animal-3_44	628	0	Hermit crabs	Animals	100.0
+taxongroup	Jum-50eb_163_spiders-78	Jum-50eb_163_spiders-3	Jum-50eb_163_spiders-78_650	163	Jum-50eb_163_spiders-3_5505	163	0	Jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spider-10	Spi-b4d6_388_spiders-22	Spi-b4d6_388_spider-10_650	388	Spi-b4d6_388_spiders-22_5505	388	0	Jumping spiders	spiders	100.0
+taxongroup	Cru-e3ae_103_Malacostraca-33	Cru-e3ae_103_animals-45	Cru-e3ae_103_Malacostraca-33_403	103	Cru-e3ae_103_animals-45_44	103	0	Malacostraca	Animals	100.0
+taxongroup	Jum-50eb_163_spiders-78	Jum-50eb_163_spiders-16	Jum-50eb_163_spiders-78_650	163	Jum-50eb_163_spiders-16_5505	163	0	Jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_161_spider-2	Jum-50eb_161_spider-2	Jum-50eb_161_spider-2_650	161	Jum-50eb_161_spider-2_5505	161	0	Jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spider-10	Spi-b4d6_388_spiders-32	Spi-b4d6_388_spider-10_650	388	Spi-b4d6_388_spiders-32_5505	388	0	Jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spider-10	Spi-b4d6_388_spiders-27	Spi-b4d6_388_spider-10_650	388	Spi-b4d6_388_spiders-27_5505	388	0	Jumping spiders	spiders	100.0
+taxongroup	Jum-50eb_1_spider-2	Jum-50eb_1_spider-2	Jum-50eb_1_spider-2_650	1	Jum-50eb_1_spider-2_5505	1	0	Jumping spiders	spiders	100.0
+taxongroup	Spi-b4d6_388_spiders-32	Spi-b4d6_388_spiders-22	Spi-b4d6_388_spiders-32_650	388	Spi-b4d6_388_spiders-22_5505	388	0	Jumping spiders	spiders	100.0
+taxongroup	Tho-4613_3_spiders-25	Tho-4613_3_spider-5	Tho-4613_3_spiders-25_1981	3	Tho-4613_3_spider-5_5505	3	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_21_spiders-35	Tho-4613_21_spiders-24	Tho-4613_21_spiders-35_1981	21	Tho-4613_21_spiders-24_5505	21	0	Crab spiders	spiders	100.0
+taxongroup	Cru-e3ae_103_Maxillopoda-24	Cru-e3ae_103_animals-45	Cru-e3ae_103_Maxillopoda-24_406	103	Cru-e3ae_103_animals-45_3812	103	0	Maxillopoda	animals	100.0
+taxongroup	Tho-4613_14_spiders-13	Tho-4613_14_spiders-13	Tho-4613_14_spiders-13_1981	14	Tho-4613_14_spiders-13_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Pre-0725_86_spiders-13	Pre-0725_86_spiders-9	Pre-0725_86_spiders-13_1981	86	Pre-0725_86_spiders-9_5505	86	0	Crab spiders	spiders	100.0
+taxongroup	Pre-0725_86_spiders-9	Pre-0725_86_spiders-13	Pre-0725_86_spiders-9_1981	86	Pre-0725_86_spiders-13_5505	86	0	Crab spiders	spiders	100.0
+taxongroup	Pre-0725_86_spiders-9	Pre-0725_86_spiders-9	Pre-0725_86_spiders-9_1981	86	Pre-0725_86_spiders-9_5505	86	0	Crab spiders	spiders	100.0
+taxongroup	Pre-0725_86_spiders-13	Pre-0725_86_spiders-13	Pre-0725_86_spiders-13_1981	86	Pre-0725_86_spiders-13_5505	86	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_247_spiders-12	Spi-b4d6_247_spiders-12	Spi-b4d6_247_spiders-12_1981	247	Spi-b4d6_247_spiders-12_5505	247	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-8	Spi-b4d6_248_spiders-12	Spi-b4d6_248_spiders-8_1981	248	Spi-b4d6_248_spiders-12_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_14_spiders-54	Tho-4613_14_spiders-37	Tho-4613_14_spiders-54_1981	14	Tho-4613_14_spiders-37_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_14_spiders-13	Tho-4613_14_spiders-54	Tho-4613_14_spiders-13_1981	14	Tho-4613_14_spiders-54_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_14_spiders-13	Tho-4613_14_spiders-37	Tho-4613_14_spiders-13_1981	14	Tho-4613_14_spiders-37_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-29	Tho-4613_28_spiders-38	Tho-4613_28_spiders-29_1981	28	Tho-4613_28_spiders-38_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-29	Tho-4613_28_spiders-29	Tho-4613_28_spiders-29_1981	28	Tho-4613_28_spiders-29_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-29	Tho-4613_28_spiders-20	Tho-4613_28_spiders-29_1981	28	Tho-4613_28_spiders-20_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_14_spiders-13	Tho-4613_14_spiders-27	Tho-4613_14_spiders-13_1981	14	Tho-4613_14_spiders-27_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_15_spider-7	Tho-4613_15_spiders-19	Tho-4613_15_spider-7_1981	15	Tho-4613_15_spiders-19_5505	15	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-20	Tho-4613_28_spiders-29	Tho-4613_28_spiders-20_1981	28	Tho-4613_28_spiders-29_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-29	Tho-4613_28_spiders-3	Tho-4613_28_spiders-29_1981	28	Tho-4613_28_spiders-3_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-12	Spi-b4d6_248_spiders-8	Spi-b4d6_248_spiders-12_1981	248	Spi-b4d6_248_spiders-8_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-5	Spi-b4d6_248_spiders-2	Spi-b4d6_248_spiders-5_1981	248	Spi-b4d6_248_spiders-2_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-5	Spi-b4d6_248_spiders-12	Spi-b4d6_248_spiders-5_1981	248	Spi-b4d6_248_spiders-12_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-5	Spi-b4d6_248_spiders-8	Spi-b4d6_248_spiders-5_1981	248	Spi-b4d6_248_spiders-8_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-5	Spi-b4d6_248_spiders-5	Spi-b4d6_248_spiders-5_1981	248	Spi-b4d6_248_spiders-5_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-2	Spi-b4d6_248_spiders-8	Spi-b4d6_248_spiders-2_1981	248	Spi-b4d6_248_spiders-8_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_11_spiders-21	Tho-4613_11_spiders-21	Tho-4613_11_spiders-21_1981	11	Tho-4613_11_spiders-21_5505	11	0	Crab spiders	spiders	100.0
+taxongroup	Amb-b5dc_51_spiders-2	Amb-b5dc_51_spiders-2	Amb-b5dc_51_spiders-2_1981	51	Amb-b5dc_51_spiders-2_5505	51	0	Crab spiders	spiders	100.0
+taxongroup	Amb-b5dc_24_spiders-10	Amb-b5dc_24_spiders-6	Amb-b5dc_24_spiders-10_1981	24	Amb-b5dc_24_spiders-6_5505	24	0	Crab spiders	spiders	100.0
+taxongroup	Amb-b5dc_24_spiders-6	Amb-b5dc_24_spiders-6	Amb-b5dc_24_spiders-6_1981	24	Amb-b5dc_24_spiders-6_5505	24	0	Crab spiders	spiders	100.0
+taxongroup	Amb-b5dc_24_spiders-6	Amb-b5dc_24_spiders-10	Amb-b5dc_24_spiders-6_1981	24	Amb-b5dc_24_spiders-10_5505	24	0	Crab spiders	spiders	100.0
+taxongroup	Bum-e9d6_227_spiders-34	Bum-e9d6_227_spiders-34	Bum-e9d6_227_spiders-34_1981	227	Bum-e9d6_227_spiders-34_5505	227	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-8	Spi-b4d6_248_spiders-2	Spi-b4d6_248_spiders-8_1981	248	Spi-b4d6_248_spiders-2_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Nepfa56_11_spider-3	Nepfa56_11_spider-3	Nepfa56_11_spider-3_1981	11	Nepfa56_11_spider-3_5505	11	0	Crab spiders	spiders	100.0
+taxongroup	Jum-50eb_14_spiders-23	Jum-50eb_14_spiders-23	Jum-50eb_14_spiders-23_1981	14	Jum-50eb_14_spiders-23_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Jum-50eb_11_spiders-30	Jum-50eb_11_spiders-30	Jum-50eb_11_spiders-30_1981	11	Jum-50eb_11_spiders-30_5505	11	0	Crab spiders	spiders	100.0
+taxongroup	Sco-5d0f_33_Arachnida-1	Sco-5d0f_33_Arthropoda-11	Sco-5d0f_33_Arachnida-1_378	33	Sco-5d0f_33_Arthropoda-11_1573	33	0	Arachnida	Arthropoda	100.0
+taxongroup	Lis-67c8_33_Arachnida-3	Lis-67c8_33_Arthropoda-1	Lis-67c8_33_Arachnida-3_378	33	Lis-67c8_33_Arthropoda-1_1573	33	0	Arachnida	Arthropoda	100.0
+taxongroup	Ara-8421_2_Arachnida-7	Ara-8421_2_arthropods-3	Ara-8421_2_Arachnida-7_378	2	Ara-8421_2_arthropods-3_4632	2	0	Arachnida	arthropods	100.0
+taxongroup	Spi-b4d6_362_Araneae-3	Spi-b4d6_362_arachnid-9	Spi-b4d6_362_Araneae-3_3397	362	Spi-b4d6_362_arachnid-9_3993	362	0	Araneae	arachnids	100.0
+taxongroup	Jum-50eb_102_Araneidae-25	Jum-50eb_102_spiders-43	Jum-50eb_102_Araneidae-25_722	102	Jum-50eb_102_spiders-43_5505	102	0	Araneidae	spiders	100.0
+taxongroup	Orb-0601_46_Araneidae-30	Orb-0601_46_spider-5	Orb-0601_46_Araneidae-30_722	46	Orb-0601_46_spider-5_5505	46	0	Araneidae	spiders	100.0
+taxongroup	Orb-0601_7_Araneidae-10	Orb-0601_7_spiders-18	Orb-0601_7_Araneidae-10_722	7	Orb-0601_7_spiders-18_5505	7	0	Araneidae	spiders	100.0
+taxongroup	Orb-0601_2_Araneidae-10	Orb-0601_2_spider-8	Orb-0601_2_Araneidae-10_722	2	Orb-0601_2_spider-8_5505	2	0	Araneidae	spiders	100.0
+taxongroup	Orb-0601_2_Araneidae-10	Orb-0601_2_spiders-3	Orb-0601_2_Araneidae-10_722	2	Orb-0601_2_spiders-3_5505	2	0	Araneidae	spiders	100.0
+taxongroup	Amb-b5dc_61_Araneidae-34	Amb-b5dc_61_spiders-29	Amb-b5dc_61_Araneidae-34_722	61	Amb-b5dc_61_spiders-29_5505	61	0	Araneidae	spiders	100.0
+taxongroup	Ara-5ffe_16_Araneidae-23	Ara-5ffe_16_spiders-9	Ara-5ffe_16_Araneidae-23_722	16	Ara-5ffe_16_spiders-9_5505	16	0	Araneidae	spiders	100.0
+taxongroup	Amb-b5dc_61_Araneidae-34	Amb-b5dc_61_spiders-3	Amb-b5dc_61_Araneidae-34_722	61	Amb-b5dc_61_spiders-3_5505	61	0	Araneidae	spiders	100.0
+taxongroup	Art-1308_38_Arthropoda-1	Art-1308_38_animal-35	Art-1308_38_Arthropoda-1_1573	38	Art-1308_38_animal-35_44	38	0	Arthropoda	Animals	100.0
+taxongroup	Sco-5d0f_33_Arthropoda-11	Sco-5d0f_33_animals-22	Sco-5d0f_33_Arthropoda-11_1573	33	Sco-5d0f_33_animals-22_44	33	0	Arthropoda	Animals	100.0
+taxongroup	Mol-3928_2_Arthropoda-13	Mol-3928_2_animals-10	Mol-3928_2_Arthropoda-13_1573	2	Mol-3928_2_animals-10_44	2	0	Arthropoda	Animals	100.0
+taxongroup	Art-1308_38_Arthropoda-1	Art-1308_38_animal-5	Art-1308_38_Arthropoda-1_1573	38	Art-1308_38_animal-5_3812	38	0	Arthropoda	animals	100.0
+taxongroup	Ama-5544_2_weaver-11	Ama-5544_2_spider-17	Ama-5544_2_weaver-11_1472	2	Ama-5544_2_spider-17_5505	2	0	Black lace-weaver	spiders	100.0
+taxongroup	Tho-4613_13_spiders-21	Tho-4613_13_Spiders-1	Tho-4613_13_spiders-21_1981	13	Tho-4613_13_Spiders-1_3396	13	0	Crab spiders	Spiders	100.0
+taxongroup	Tho-4613_13_spiders-9	Tho-4613_13_Spiders-1	Tho-4613_13_spiders-9_1981	13	Tho-4613_13_Spiders-1_3396	13	0	Crab spiders	Spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-12	Spi-b4d6_248_spiders-2	Spi-b4d6_248_spiders-12_1981	248	Spi-b4d6_248_spiders-2_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-12	Spi-b4d6_248_spiders-12	Spi-b4d6_248_spiders-12_1981	248	Spi-b4d6_248_spiders-12_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-2	Spi-b4d6_248_spiders-5	Spi-b4d6_248_spiders-2_1981	248	Spi-b4d6_248_spiders-5_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Aph-1a7e_20_spiders-18	Aph-1a7e_20_spiders-18	Aph-1a7e_20_spiders-18_1981	20	Aph-1a7e_20_spiders-18_5505	20	0	Crab spiders	spiders	100.0
+taxongroup	Bee-ace3_237_spiders-10	Bee-ace3_237_spiders-10	Bee-ace3_237_spiders-10_1981	237	Bee-ace3_237_spiders-10_5505	237	0	Crab spiders	spiders	100.0
+taxongroup	Jum-50eb_11_spiders-48	Jum-50eb_11_spiders-30	Jum-50eb_11_spiders-48_1981	11	Jum-50eb_11_spiders-30_5505	11	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_14_spiders-54	Tho-4613_14_spiders-13	Tho-4613_14_spiders-54_1981	14	Tho-4613_14_spiders-13_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_51_spiders-4	Tho-4613_51_spiders-4	Tho-4613_51_spiders-4_1981	51	Tho-4613_51_spiders-4_5505	51	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_51_spiders-4	Tho-4613_51_spiders-14	Tho-4613_51_spiders-4_1981	51	Tho-4613_51_spiders-14_5505	51	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_14_spiders-54	Tho-4613_14_spiders-54	Tho-4613_14_spiders-54_1981	14	Tho-4613_14_spiders-54_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_3_spider-5	Tho-4613_3_spider-5	Tho-4613_3_spider-5_1981	3	Tho-4613_3_spider-5_5505	3	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_51_spiders-14	Tho-4613_51_spiders-4	Tho-4613_51_spiders-14_1981	51	Tho-4613_51_spiders-4_5505	51	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_4_spiders-11	Tho-4613_4_spiders-15	Tho-4613_4_spiders-11_1981	4	Tho-4613_4_spiders-15_5505	4	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_31_spiders-12	Tho-4613_31_spiders-12	Tho-4613_31_spiders-12_1981	31	Tho-4613_31_spiders-12_5505	31	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_11_spiders-2	Tho-4613_11_spiders-2	Tho-4613_11_spiders-2_1981	11	Tho-4613_11_spiders-2_5505	11	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_3_spiders-25	Tho-4613_3_spiders-25	Tho-4613_3_spiders-25_1981	3	Tho-4613_3_spiders-25_5505	3	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_14_spiders-27	Tho-4613_14_spiders-37	Tho-4613_14_spiders-27_1981	14	Tho-4613_14_spiders-37_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_14_spiders-27	Tho-4613_14_spiders-54	Tho-4613_14_spiders-27_1981	14	Tho-4613_14_spiders-54_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_14_spiders-37	Tho-4613_14_spiders-27	Tho-4613_14_spiders-37_1981	14	Tho-4613_14_spiders-27_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_14_spiders-37	Tho-4613_14_spiders-37	Tho-4613_14_spiders-37_1981	14	Tho-4613_14_spiders-37_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_11_spiders-21	Tho-4613_11_spiders-2	Tho-4613_11_spiders-21_1981	11	Tho-4613_11_spiders-2_5505	11	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_21_spiders-35	Tho-4613_21_spiders-35	Tho-4613_21_spiders-35_1981	21	Tho-4613_21_spiders-35_5505	21	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_22_spiders-5	Tho-4613_22_spiders-5	Tho-4613_22_spiders-5_1981	22	Tho-4613_22_spiders-5_5505	22	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_21_spiders-24	Tho-4613_21_spiders-24	Tho-4613_21_spiders-24_1981	21	Tho-4613_21_spiders-24_5505	21	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-20	Tho-4613_28_spiders-38	Tho-4613_28_spiders-20_1981	28	Tho-4613_28_spiders-38_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-20	Tho-4613_28_spiders-3	Tho-4613_28_spiders-20_1981	28	Tho-4613_28_spiders-3_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-3	Tho-4613_28_spiders-3	Tho-4613_28_spiders-3_1981	28	Tho-4613_28_spiders-3_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-3	Tho-4613_28_spiders-38	Tho-4613_28_spiders-3_1981	28	Tho-4613_28_spiders-38_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_15_spiders-19	Tho-4613_15_spider-7	Tho-4613_15_spiders-19_1981	15	Tho-4613_15_spider-7_5505	15	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-3	Tho-4613_28_spiders-29	Tho-4613_28_spiders-3_1981	28	Tho-4613_28_spiders-29_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-3	Tho-4613_28_spiders-20	Tho-4613_28_spiders-3_1981	28	Tho-4613_28_spiders-20_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_15_spider-7	Tho-4613_15_spider-7	Tho-4613_15_spider-7_1981	15	Tho-4613_15_spider-7_5505	15	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-38	Tho-4613_28_spiders-3	Tho-4613_28_spiders-38_1981	28	Tho-4613_28_spiders-3_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_21_spiders-24	Tho-4613_21_spiders-35	Tho-4613_21_spiders-24_1981	21	Tho-4613_21_spiders-35_5505	21	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_51_spiders-14	Tho-4613_51_spiders-14	Tho-4613_51_spiders-14_1981	51	Tho-4613_51_spiders-14_5505	51	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_14_spiders-27	Tho-4613_14_spiders-27	Tho-4613_14_spiders-27_1981	14	Tho-4613_14_spiders-27_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Jum-50eb_11_spiders-30	Jum-50eb_11_spiders-48	Jum-50eb_11_spiders-30_1981	11	Jum-50eb_11_spiders-48_5505	11	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_14_spiders-54	Tho-4613_14_spiders-27	Tho-4613_14_spiders-54_1981	14	Tho-4613_14_spiders-27_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-2	Spi-b4d6_248_spiders-2	Spi-b4d6_248_spiders-2_1981	248	Spi-b4d6_248_spiders-2_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-2	Spi-b4d6_248_spiders-12	Spi-b4d6_248_spiders-2_1981	248	Spi-b4d6_248_spiders-12_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-8	Spi-b4d6_248_spiders-5	Spi-b4d6_248_spiders-8_1981	248	Spi-b4d6_248_spiders-5_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-8	Spi-b4d6_248_spiders-8	Spi-b4d6_248_spiders-8_1981	248	Spi-b4d6_248_spiders-8_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_248_spiders-12	Spi-b4d6_248_spiders-5	Spi-b4d6_248_spiders-12_1981	248	Spi-b4d6_248_spiders-5_5505	248	0	Crab spiders	spiders	100.0
+taxongroup	Cra7d1e_2_spiders-2	Cra7d1e_2_spiders-2	Cra7d1e_2_spiders-2_1981	2	Cra7d1e_2_spiders-2_5505	2	0	Crab spiders	spiders	100.0
+taxongroup	Spi-b4d6_258_spider-8	Spi-b4d6_258_spider-8	Spi-b4d6_258_spider-8_1981	258	Spi-b4d6_258_spider-8_5505	258	0	Crab spiders	spiders	100.0
+taxongroup	Cra7d1e_7_spider-3	Cra7d1e_7_spider-3	Cra7d1e_7_spider-3_1981	7	Cra7d1e_7_spider-3_5505	7	0	Crab spiders	spiders	100.0
+taxongroup	Cra7d1e_12_spiders-8	Cra7d1e_12_spiders-8	Cra7d1e_12_spiders-8_1981	12	Cra7d1e_12_spiders-8_5505	12	0	Crab spiders	spiders	100.0
+taxongroup	Hun-23f5_3_spiders-7	Hun-23f5_3_spiders-7	Hun-23f5_3_spiders-7_1981	3	Hun-23f5_3_spiders-7_5505	3	0	Crab spiders	spiders	100.0
+taxongroup	Jum-50eb_11_spiders-48	Jum-50eb_11_spiders-48	Jum-50eb_11_spiders-48_1981	11	Jum-50eb_11_spiders-48_5505	11	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_21_spiders-16	Tho-4613_21_spiders-35	Tho-4613_21_spiders-16_1981	21	Tho-4613_21_spiders-35_5505	21	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_21_spiders-16	Tho-4613_21_spiders-24	Tho-4613_21_spiders-16_1981	21	Tho-4613_21_spiders-24_5505	21	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_21_spiders-16	Tho-4613_21_spiders-16	Tho-4613_21_spiders-16_1981	21	Tho-4613_21_spiders-16_5505	21	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_4_spiders-11	Tho-4613_4_spiders-11	Tho-4613_4_spiders-11_1981	4	Tho-4613_4_spiders-11_5505	4	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_14_spiders-27	Tho-4613_14_spiders-13	Tho-4613_14_spiders-27_1981	14	Tho-4613_14_spiders-13_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_4_spiders-15	Tho-4613_4_spiders-15	Tho-4613_4_spiders-15_1981	4	Tho-4613_4_spiders-15_5505	4	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_4_spiders-15	Tho-4613_4_spiders-11	Tho-4613_4_spiders-15_1981	4	Tho-4613_4_spiders-11_5505	4	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_46_spiders-6	Tho-4613_46_spiders-6	Tho-4613_46_spiders-6_1981	46	Tho-4613_46_spiders-6_5505	46	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_14_spiders-37	Tho-4613_14_spiders-54	Tho-4613_14_spiders-37_1981	14	Tho-4613_14_spiders-54_5505	14	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_28_spiders-20	Tho-4613_28_spiders-20	Tho-4613_28_spiders-20_1981	28	Tho-4613_28_spiders-20_5505	28	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_15_spiders-19	Tho-4613_15_spiders-19	Tho-4613_15_spiders-19_1981	15	Tho-4613_15_spiders-19_5505	15	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_13_spiders-21	Tho-4613_13_spiders-21	Tho-4613_13_spiders-21_1981	13	Tho-4613_13_spiders-21_5505	13	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_13_spiders-21	Tho-4613_13_spiders-9	Tho-4613_13_spiders-21_1981	13	Tho-4613_13_spiders-9_5505	13	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_11_spiders-2	Tho-4613_11_spiders-21	Tho-4613_11_spiders-2_1981	11	Tho-4613_11_spiders-21_5505	11	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_24_spiders-6	Tho-4613_24_spiders-6	Tho-4613_24_spiders-6_1981	24	Tho-4613_24_spiders-6_5505	24	0	Crab spiders	spiders	100.0
+taxongroup	Tho-4613_3_spider-5	Tho-4613_3_spiders-25	Tho-4613_3_spider-5_1981	3	Tho-4613_3_spiders-25_5505	3	0	Crab spiders	spiders	100.0
+taxongroup	Mil-11ed_2_Millipedes-1	Mil-11ed_2_arthropods-24	Mil-11ed_2_Millipedes-1_2851	2	Mil-11ed_2_arthropods-24_4632	2	0	Millipedes	arthropods	100.0
+taxongroup	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-7_4933	2	Arg-ab8e_2_spider-15_5505	2	0	garden spider	spiders	100.0
+taxongroup	Eur-0e68_88_spider-12	Eur-0e68_88_spider-12	Eur-0e68_88_spider-12_4933	88	Eur-0e68_88_spider-12_5505	88	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-25_4933	2	Arg-ab8e_2_spider-28_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-25_4933	2	Arg-ab8e_2_spider-25_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-25_4933	2	Arg-ab8e_2_spider-21_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-25_4933	2	Arg-ab8e_2_spider-45_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-31_4933	2	Arg-ab8e_2_spider-45_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-34_4933	2	Arg-ab8e_2_spider-7_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_26_spider-4	Arg-ab8e_26_spider-4	Arg-ab8e_26_spider-4_4933	26	Arg-ab8e_26_spider-4_5505	26	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_31_spiders-16	Arg-ab8e_31_spider-23	Arg-ab8e_31_spiders-16_4933	31	Arg-ab8e_31_spider-23_5505	31	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_31_spiders-16	Arg-ab8e_31_spider-4	Arg-ab8e_31_spiders-16_4933	31	Arg-ab8e_31_spider-4_5505	31	0	garden spider	spiders	100.0
+taxongroup	Eurcc05_10_spider-3	Eurcc05_10_spider-3	Eurcc05_10_spider-3_4933	10	Eurcc05_10_spider-3_5505	10	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-34_4933	2	Arg-ab8e_2_spider-34_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-34_4933	2	Arg-ab8e_2_spider-31_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-45_4933	2	Arg-ab8e_2_spider-15_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-28_4933	2	Arg-ab8e_2_spider-7_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-28_4933	2	Arg-ab8e_2_spider-42_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_31_spider-4	Arg-ab8e_31_spider-23	Arg-ab8e_31_spider-4_4933	31	Arg-ab8e_31_spider-23_5505	31	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-28_4933	2	Arg-ab8e_2_spider-34_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-28_4933	2	Arg-ab8e_2_spider-31_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-34_4933	2	Arg-ab8e_2_spider-28_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-34_4933	2	Arg-ab8e_2_spider-25_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-34_4933	2	Arg-ab8e_2_spider-21_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_31_spider-4	Arg-ab8e_31_spiders-16	Arg-ab8e_31_spider-4_4933	31	Arg-ab8e_31_spiders-16_5505	31	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_31_spider-4	Arg-ab8e_31_spider-4	Arg-ab8e_31_spider-4_4933	31	Arg-ab8e_31_spider-4_5505	31	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-31_4933	2	Arg-ab8e_2_spider-34_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-31_4933	2	Arg-ab8e_2_spider-28_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-5ffe_3_spider-17	Ara-5ffe_3_spider-13	Ara-5ffe_3_spider-17_4933	3	Ara-5ffe_3_spider-13_5505	3	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-31_4933	2	Arg-ab8e_2_spider-25_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-7_4933	2	Arg-ab8e_2_spider-25_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-25_4933	2	Arg-ab8e_2_spider-15_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_32_spiders-26	Arg-ab8e_32_spiders-26	Arg-ab8e_32_spiders-26_4933	32	Arg-ab8e_32_spiders-26_5505	32	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-42_4933	2	Arg-ab8e_2_spider-15_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-25_4933	2	Arg-ab8e_2_spider-31_5505	2	0	garden spider	spiders	100.0
+taxongroup	Ara-5ffe_3_spider-17	Ara-5ffe_3_spider-17	Ara-5ffe_3_spider-17_4933	3	Ara-5ffe_3_spider-17_5505	3	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-31_4933	2	Arg-ab8e_2_spider-31_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-28_4933	2	Arg-ab8e_2_spider-28_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-28_4933	2	Arg-ab8e_2_spider-25_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-28_4933	2	Arg-ab8e_2_spider-21_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-28_4933	2	Arg-ab8e_2_spider-15_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-42_4933	2	Arg-ab8e_2_spider-21_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-15_4933	2	Arg-ab8e_2_spider-15_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-7_4933	2	Arg-ab8e_2_spider-7_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_31_spiders-16	Arg-ab8e_31_spiders-16	Arg-ab8e_31_spiders-16_4933	31	Arg-ab8e_31_spiders-16_5505	31	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-7_4933	2	Arg-ab8e_2_spider-42_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-25_4933	2	Arg-ab8e_2_spider-7_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-25_4933	2	Arg-ab8e_2_spider-42_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-31_4933	2	Arg-ab8e_2_spider-7_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-31_4933	2	Arg-ab8e_2_spider-42_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-28_4933	2	Arg-ab8e_2_spider-45_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-34_4933	2	Arg-ab8e_2_spider-45_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-34_4933	2	Arg-ab8e_2_spider-42_5505	2	0	garden spider	spiders	100.0
+taxongroup	Eurcc05_1_spider-4	Eurcc05_1_spider-4	Eurcc05_1_spider-4_4933	1	Eurcc05_1_spider-4_5505	1	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-7	Arg-ab8e_2_spider-28	Arg-ab8e_2_spider-7_4933	2	Arg-ab8e_2_spider-28_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-45_4933	2	Arg-ab8e_2_spider-31_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-45	Arg-ab8e_2_spider-42	Arg-ab8e_2_spider-45_4933	2	Arg-ab8e_2_spider-42_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_32_spiders-26	Arg-ab8e_32_spider-4	Arg-ab8e_32_spiders-26_4933	32	Arg-ab8e_32_spider-4_5505	32	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-21	Arg-ab8e_2_spider-31_4933	2	Arg-ab8e_2_spider-21_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-31	Arg-ab8e_2_spider-15	Arg-ab8e_2_spider-31_4933	2	Arg-ab8e_2_spider-15_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_2_spider-25	Arg-ab8e_2_spider-34	Arg-ab8e_2_spider-25_4933	2	Arg-ab8e_2_spider-34_5505	2	0	garden spider	spiders	100.0
+taxongroup	Arg-ab8e_11_spiders-3	Arg-ab8e_11_spiders-3	Arg-ab8e_11_spiders-3_4933	11	Arg-ab8e_11_spiders-3_5505	11	0	garden spider	spiders	100.0
+taxongroup	Lin-d5f9_22_spiders-2	Lin-d5f9_22_spiders-2	Lin-d5f9_22_spiders-2_2714	22	Lin-d5f9_22_spiders-2_5505	22	0	Money spiders	spiders	100.0
+taxongroup	Ins-960c_94_arthropods-35	Ins-960c_94_animals-32	Ins-960c_94_arthropods-35_4632	94	Ins-960c_94_animals-32_44	94	0	arthropods	Animals	100.0
+taxongroup	Hem-78f3_6_arachnids-13	Hem-78f3_6_arthropods-9	Hem-78f3_6_arachnids-13_3993	6	Hem-78f3_6_arthropods-9_4632	6	0	arachnids	arthropods	100.0
+taxongroup	Mou-d137_51_arachnids-8	Mou-d137_51_arthropods-2	Mou-d137_51_arachnids-8_3993	51	Mou-d137_51_arthropods-2_4632	51	0	arachnids	arthropods	100.0
+taxongroup	Art-1308_181_arthropods-32	Art-1308_181_animal-52	Art-1308_181_arthropods-32_4632	181	Art-1308_181_animal-52_44	181	0	arthropods	Animals	100.0
+taxongroup	Art-1308_228_arthropods-49	Art-1308_228_animals-14	Art-1308_228_arthropods-49_4632	228	Art-1308_228_animals-14_44	228	0	arthropods	Animals	100.0
+taxongroup	Sol-e070_5_arthropods-16	Sol-e070_5_animals-20	Sol-e070_5_arthropods-16_4632	5	Sol-e070_5_animals-20_44	5	0	arthropods	Animals	100.0
+taxongroup	Fos-19c4_8_arthropods-11	Fos-19c4_8_animals-2	Fos-19c4_8_arthropods-11_4632	8	Fos-19c4_8_animals-2_44	8	0	arthropods	Animals	100.0
+taxongroup	Slo-4b9b_203_arthropods-38	Slo-4b9b_203_animal-41	Slo-4b9b_203_arthropods-38_4632	203	Slo-4b9b_203_animal-41_44	203	0	arthropods	Animals	100.0
+taxongroup	Tri-09f5_351_arthropods-29	Tri-09f5_351_animals-33	Tri-09f5_351_arthropods-29_4632	351	Tri-09f5_351_animals-33_44	351	0	arthropods	Animals	100.0
+taxongroup	Mea-f34c_155_arthropods-24	Mea-f34c_155_animals-26	Mea-f34c_155_arthropods-24_4632	155	Mea-f34c_155_animals-26_44	155	0	arthropods	Animals	100.0
+taxongroup	Art-1308_276_arthropods-5	Art-1308_276_animal-23	Art-1308_276_arthropods-5_4632	276	Art-1308_276_animal-23_44	276	0	arthropods	Animals	100.0
+taxongroup	Art-1308_195_arthropods-37	Art-1308_195_animals-9	Art-1308_195_arthropods-37_4632	195	Art-1308_195_animals-9_44	195	0	arthropods	Animals	100.0
+taxongroup	Hem-5b5a_3_arthropods-37	Hem-5b5a_3_animals-31	Hem-5b5a_3_arthropods-37_4632	3	Hem-5b5a_3_animals-31_44	3	0	arthropods	Animals	100.0
+taxongroup	Ins-960c_94_arthropods-35	Ins-960c_94_animals-12	Ins-960c_94_arthropods-35_4632	94	Ins-960c_94_animals-12_44	94	0	arthropods	Animals	100.0
+taxongroup	Ves-1bba_23_arthropods-10	Ves-1bba_23_animals-21	Ves-1bba_23_arthropods-10_4632	23	Ves-1bba_23_animals-21_44	23	0	arthropods	Animals	100.0
+taxongroup	Mol-3928_63_arthropods-17	Mol-3928_63_animal-11	Mol-3928_63_arthropods-17_4632	63	Mol-3928_63_animal-11_44	63	0	arthropods	Animals	100.0
+taxongroup	Mol-3928_63_arthropods-6	Mol-3928_63_animal-11	Mol-3928_63_arthropods-6_4632	63	Mol-3928_63_animal-11_44	63	0	arthropods	Animals	100.0
+taxongroup	Par-e7cb_126_arthropods-19	Par-e7cb_126_animal-22	Par-e7cb_126_arthropods-19_4632	126	Par-e7cb_126_animal-22_44	126	0	arthropods	Animals	100.0
+taxongroup	Art-1308_276_arthropods-5	Art-1308_276_animals-9	Art-1308_276_arthropods-5_4632	276	Art-1308_276_animals-9_3812	276	0	arthropods	animals	100.0
+taxongroup	Art-1308_99_arthropods-7	Art-1308_99_animal-34	Art-1308_99_arthropods-7_4632	99	Art-1308_99_animal-34_3812	99	0	arthropods	animals	100.0
+taxongroup	Art-1308_60_arachnids-16	Art-1308_60_arthropods-6	Art-1308_60_arachnids-16_3993	60	Art-1308_60_arthropods-6_4632	60	0	arachnids	arthropods	100.0
+taxongroup	Spi-b4d6_7_arachnids-8	Spi-b4d6_7_arthropods-13	Spi-b4d6_7_arachnids-8_3993	7	Spi-b4d6_7_arthropods-13_4632	7	0	arachnids	arthropods	100.0
+taxongroup	Ara-8421_29_arachnids-5	Ara-8421_29_arthropods-3	Ara-8421_29_arachnids-5_3993	29	Ara-8421_29_arthropods-3_4632	29	0	arachnids	arthropods	100.0
+taxongroup	Spi-b4d6_85_arachnids-40	Spi-b4d6_85_arthropod-23	Spi-b4d6_85_arachnids-40_3993	85	Spi-b4d6_85_arthropod-23_4632	85	0	arachnids	arthropods	100.0
+taxongroup	Orb-0601_125_weavers-17	Orb-0601_125_Araneae-8	Orb-0601_125_weavers-17_723	125	Orb-0601_125_Araneae-8_3397	125	0	Orb weavers	Araneae	100.0
+taxongroup	Orb-0601_125_weavers-17	Orb-0601_125_Spiders-1	Orb-0601_125_weavers-17_723	125	Orb-0601_125_Spiders-1_3396	125	0	Orb weavers	Spiders	100.0
+taxongroup	Hun-23f5_23_Salticidae-14	Hun-23f5_23_spiders-17	Hun-23f5_23_Salticidae-14_649	23	Hun-23f5_23_spiders-17_5505	23	0	Salticidae	spiders	100.0
+taxongroup	Hun-23f5_23_Salticidae-14	Hun-23f5_23_spiders-5	Hun-23f5_23_Salticidae-14_649	23	Hun-23f5_23_spiders-5_5505	23	0	Salticidae	spiders	100.0
+taxongroup	Jum-50eb_22_Salticidae-53	Jum-50eb_22_spider-79	Jum-50eb_22_Salticidae-53_649	22	Jum-50eb_22_spider-79_5505	22	0	Salticidae	spiders	100.0
+taxongroup	Jum-50eb_2_Salticidae-12	Jum-50eb_2_spiders-7	Jum-50eb_2_Salticidae-12_649	2	Jum-50eb_2_spiders-7_5505	2	0	Salticidae	spiders	100.0
+taxongroup	Jum-50eb_2_Salticidae-12	Jum-50eb_2_spiders-2	Jum-50eb_2_Salticidae-12_649	2	Jum-50eb_2_spiders-2_5505	2	0	Salticidae	spiders	100.0
+taxongroup	Spi-b4d6_451_Spider-41	Spi-b4d6_451_arachnids-19	Spi-b4d6_451_Spider-41_3396	451	Spi-b4d6_451_arachnids-19_3993	451	0	Spiders	arachnids	100.0
+taxongroup	Spi-b4d6_451_Spiders-3	Spi-b4d6_451_arachnids-19	Spi-b4d6_451_Spiders-3_3396	451	Spi-b4d6_451_arachnids-19_3993	451	0	Spiders	arachnids	100.0
+taxongroup	Spi-b4d6_136_Spiders-1	Spi-b4d6_136_arachnids-6	Spi-b4d6_136_Spiders-1_3396	136	Spi-b4d6_136_arachnids-6_3993	136	0	Spiders	arachnids	100.0
+taxongroup	Aracfba_1_Spiders-1	Aracfba_1_arachnids-12	Aracfba_1_Spiders-1_3396	1	Aracfba_1_arachnids-12_3993	1	0	Spiders	arachnids	100.0
+taxongroup	Spi-b4d6_42_Spiders-1	Spi-b4d6_42_arthropods-7	Spi-b4d6_42_Spiders-1_3396	42	Spi-b4d6_42_arthropods-7_4632	42	0	Spiders	arthropods	100.0
+taxongroup	Spi-b4d6_2_Spiders-1	Spi-b4d6_2_arthropods-10	Spi-b4d6_2_Spiders-1_3396	2	Spi-b4d6_2_arthropods-10_4632	2	0	Spiders	arthropods	100.0
+taxongroup	Spi-b4d6_16_arachnids-4	Spi-b4d6_16_animals-27	Spi-b4d6_16_arachnids-4_3993	16	Spi-b4d6_16_animals-27_44	16	0	arachnids	Animals	100.0
+taxongroup	Spe-51aa_49_arachnids-17	Spe-51aa_49_animals-2	Spe-51aa_49_arachnids-17_3993	49	Spe-51aa_49_animals-2_44	49	0	arachnids	Animals	100.0
+taxongroup	Pre-b54c_37_arachnids-46	Pre-b54c_37_animals-28	Pre-b54c_37_arachnids-46_3993	37	Pre-b54c_37_animals-28_44	37	0	arachnids	Animals	100.0
+taxongroup	Sem-88a0_20_arachnids-20	Sem-88a0_20_animals-3	Sem-88a0_20_arachnids-20_3993	20	Sem-88a0_20_animals-3_44	20	0	arachnids	Animals	100.0
+taxongroup	Ara-8421_77_arachnids-6	Ara-8421_77_animal-19	Ara-8421_77_arachnids-6_3993	77	Ara-8421_77_animal-19_44	77	0	arachnids	Animals	100.0
+taxongroup	Tar-edfc_82_arachnids-16	Tar-edfc_82_arthropods-12	Tar-edfc_82_arachnids-16_3993	82	Tar-edfc_82_arthropods-12_4632	82	0	arachnids	arthropods	100.0
+taxongroup	Sol-e070_2_spiders-21	Sol-e070_2_animals-6	Sol-e070_2_spiders-21_5489	2	Sol-e070_2_animals-6_44	2	0	camel spiders	Animals	100.0
+taxongroup	Sol-e070_2_spiders-15	Sol-e070_2_animals-6	Sol-e070_2_spiders-15_5489	2	Sol-e070_2_animals-6_44	2	0	camel spiders	Animals	100.0
+taxongroup	Sol-e070_2_spiders-15	Sol-e070_2_Arachnida-10	Sol-e070_2_spiders-15_5489	2	Sol-e070_2_Arachnida-10_378	2	0	camel spiders	Arachnida	100.0
+taxongroup	Sol-e070_2_spiders-21	Sol-e070_2_Arachnida-10	Sol-e070_2_spiders-21_5489	2	Sol-e070_2_Arachnida-10_378	2	0	camel spiders	Arachnida	100.0
+taxongroup	Tri-09f5_120_trilobites-15	Tri-09f5_120_arthropods-13	Tri-09f5_120_trilobites-15_5578	120	Tri-09f5_120_arthropods-13_4632	120	0	trilobites	arthropods	100.0

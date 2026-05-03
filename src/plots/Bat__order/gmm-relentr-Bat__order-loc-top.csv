@@ -1,0 +1,24 @@
+,feat,cluster,pw_entr,feat_n,N,group,relrole
+1,amod> common,0,0.486,3,8,Bat__order,location_topic
+5,appos> ...,0,0.167,2,8,Bat__order,location_topic
+8,compound> blossom,0,0.594,3,8,Bat__order,location_topic
+12,amod> common,1,0.047,1,7,Bat__order,location_topic
+16,appos> ...,1,0.015,1,7,Bat__order,location_topic
+17,case> ...,1,0.375,2,7,Bat__order,location_topic
+18,compound> ...,1,0.293,2,7,Bat__order,location_topic
+21,det> the,1,0.047,1,7,Bat__order,location_topic
+22,amod> ...,2,0.589,3,6,Bat__order,location_topic
+24,appos< ...,2,0.312,1,6,Bat__order,location_topic
+26,appos<amod> ...,2,0.081,1,6,Bat__order,location_topic
+32,det> the,2,0.081,1,6,Bat__order,location_topic
+36,appos< bat,3,0.491,2,7,Bat__order,location_topic
+37,appos<amod> ...,3,0.613,3,7,Bat__order,location_topic
+40,compound> ...,3,0.293,2,7,Bat__order,location_topic
+44,amod> ...,4,0.382,2,5,Bat__order,location_topic
+49,appos> ...,4,0.089,1,5,Bat__order,location_topic
+50,case> ...,4,0.191,1,5,Bat__order,location_topic
+54,det> the,4,0.134,1,5,Bat__order,location_topic
+55,amod> ...,5,0.013,1,6,Bat__order,location_topic
+60,appos> ...,5,0.044,1,6,Bat__order,location_topic
+64,conj<appos>amod> ...,5,0.936,3,6,Bat__order,location_topic
+65,det> the,5,0.081,1,6,Bat__order,location_topic

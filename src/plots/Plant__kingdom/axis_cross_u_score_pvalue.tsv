@@ -1,0 +1,8 @@
+rel_role	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	1.0	0.028	0.062	0.025	0.19	0.072	0.064	Plant__kingdom	12
+adaptation_topic	0.028	1.0	0.072	0.106	0.088	0.132	0.168	Plant__kingdom	13
+free_topic	0.062	0.072	1.0	0.001	0.071	0.0	0.0	Plant__kingdom	975
+location_comment	0.025	0.106	0.001	1.0	0.005	0.011	0.007	Plant__kingdom	94
+location_topic	0.19	0.088	0.071	0.005	1.0	0.023	0.081	Plant__kingdom	85
+taxongroup_comment	0.072	0.132	0.0	0.011	0.023	1.0	0.037	Plant__kingdom	272
+taxongroup_topic	0.064	0.168	0.0	0.007	0.081	0.037	1.0	Plant__kingdom	265

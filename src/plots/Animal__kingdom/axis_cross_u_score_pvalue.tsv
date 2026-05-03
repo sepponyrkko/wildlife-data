@@ -1,0 +1,8 @@
+rel_role	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	1.0	0.016	0.004	0.017	0.002	0.021	0.01	Animal__kingdom	56
+adaptation_topic	0.016	1.0	0.0	0.002	0.227	0.0	0.0	Animal__kingdom	83
+free_topic	0.004	0.0	1.0	0.006	0.0	0.0	0.0	Animal__kingdom	982
+location_comment	0.017	0.002	0.006	1.0	0.008	0.041	0.015	Animal__kingdom	52
+location_topic	0.002	0.227	0.0	0.008	1.0	0.007	0.013	Animal__kingdom	99
+taxongroup_comment	0.021	0.0	0.0	0.041	0.007	1.0	0.046	Animal__kingdom	503
+taxongroup_topic	0.01	0.0	0.0	0.015	0.013	0.046	1.0	Animal__kingdom	491

@@ -1,0 +1,765 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Sca-88f4_90_scallop-20	Sca-88f4_90_bed-53	Sca-88f4_90_scallop-20_5321	90	Sca-88f4_90_bed-53_4510	90	0	scallops	sea bed	100.0
+location	Sca-88f4_90_scallop-3	Sca-88f4_90_bed-53	Sca-88f4_90_scallop-3_5321	90	Sca-88f4_90_bed-53_4510	90	0	scallops	sea bed	100.0
+location	Con61cd_13_snails-2	Con61cd_14_Reef-23	Con61cd_13_snails-2_1966	13	Con61cd_14_Reef-23_4532	14	1	Cone snails	reefs	50.0
+location	Sca-88f4_89_Scallops-1	Sca-88f4_90_bed-53	Sca-88f4_89_Scallops-1_5321	89	Sca-88f4_90_bed-53_4510	90	1	scallops	sea bed	50.0
+location	Sca-88f4_91_scallops-14	Sca-88f4_90_bed-53	Sca-88f4_91_scallops-14_5321	91	Sca-88f4_90_bed-53_4510	90	1	scallops	sea bed	50.0
+location	Con61cd_13_Cone-1	Con61cd_14_Reef-23	Con61cd_13_Cone-1_1968	13	Con61cd_14_Reef-23_4532	14	1	Cones	reefs	41.5
+location	Sca-88f4_92_scallop-4	Sca-88f4_90_bed-53	Sca-88f4_92_scallop-4_5321	92	Sca-88f4_90_bed-53_4510	90	2	scallops	sea bed	33.333
+location	Con61cd_6_snails-8	Con61cd_14_Reef-23	Con61cd_6_snails-8_1966	6	Con61cd_14_Reef-23_4532	14	8	Cone snails	reefs	11.111
+location	Con61cd_7_cone-9	Con61cd_14_Reef-23	Con61cd_7_cone-9_4825	7	Con61cd_14_Reef-23_4532	14	7	cones	reefs	10.375
+location	Con61cd_5_snail-4	Con61cd_14_Reef-23	Con61cd_5_snail-4_4823	5	Con61cd_14_Reef-23_4532	14	9	cone snails	reefs	10.0
+location	Con61cd_6_Cone-7	Con61cd_14_Reef-23	Con61cd_6_Cone-7_1968	6	Con61cd_14_Reef-23_4532	14	8	Cones	reefs	9.222
+location	Con61cd_4_snail-4	Con61cd_14_Reef-23	Con61cd_4_snail-4_4823	4	Con61cd_14_Reef-23_4532	14	10	cone snails	reefs	9.091
+location	Con61cd_5_cone-3	Con61cd_14_Reef-23	Con61cd_5_cone-3_4825	5	Con61cd_14_Reef-23_4532	14	9	cones	reefs	8.3
+location	Sea-f7d0_47_cones-22	Sea-f7d0_38_Reef-1	Sea-f7d0_47_cones-22_4825	47	Sea-f7d0_38_Reef-1_4532	38	9	cones	reefs	8.3
+location	Con61cd_2_snails-10	Con61cd_14_Reef-23	Con61cd_2_snails-10_4823	2	Con61cd_14_Reef-23_4532	14	12	cone snails	reefs	7.692
+location	Con61cd_4_cone-3	Con61cd_14_Reef-23	Con61cd_4_cone-3_4825	4	Con61cd_14_Reef-23_4532	14	10	cones	reefs	7.545
+location	Con61cd_2_cone-9	Con61cd_14_Reef-23	Con61cd_2_cone-9_4825	2	Con61cd_14_Reef-23_4532	14	12	cones	reefs	6.385
+location	Sha-8b9d_201_cone-17	Sha-8b9d_181_reefs-2	Sha-8b9d_201_cone-17_4825	201	Sha-8b9d_181_reefs-2_4532	181	20	cones	reefs	3.952
+location	Sca-88f4_121_scallop-9	Sca-88f4_90_bed-53	Sca-88f4_121_scallop-9_3026	121	Sca-88f4_90_bed-53_4510	90	31	Scallops	sea bed	3.125
+location	Sea-f7d0_47_cones-22	Sea-f7d0_2_reef-6	Sea-f7d0_47_cones-22_4825	47	Sea-f7d0_2_reef-6_4532	2	45	cones	reefs	1.804
+location	Por-f868_77_cone-26	Por-f868_29_seas-9	Por-f868_77_cone-26_4825	77	Por-f868_29_seas-9_1367	29	48	cones	Shallow seas	1.694
+location	Por-f868_78_cone-14	Por-f868_29_seas-9	Por-f868_78_cone-14_4825	78	Por-f868_29_seas-9_1367	29	49	cones	Shallow seas	1.66
+location	Mol-3928_288_snails-5	Mol-3928_217_reef-10	Mol-3928_288_snails-5_4823	288	Mol-3928_217_reef-10_4532	217	71	cone snails	reefs	1.389
+location	Sca-88f4_154_Pectinidae-12	Sca-88f4_90_bed-53	Sca-88f4_154_Pectinidae-12_3027	154	Sca-88f4_90_bed-53_4510	90	64	Pectinidae	sea bed	1.338
+location	Sca-88f4_162_Pectinidae-3	Sca-88f4_90_bed-53	Sca-88f4_162_Pectinidae-3_3027	162	Sca-88f4_90_bed-53_4510	90	72	Pectinidae	sea bed	1.192
+location	Mol-3928_288_cone-4	Mol-3928_217_reef-10	Mol-3928_288_cone-4_4825	288	Mol-3928_217_reef-10_4532	217	71	cones	reefs	1.153
+location	Sca-88f4_2_Scallop-1	Sca-88f4_90_bed-53	Sca-88f4_2_Scallop-1_3026	2	Sca-88f4_90_bed-53_4510	90	88	Scallops	sea bed	1.124
+location	Mol-3928_290_cone-5	Mol-3928_217_reef-10	Mol-3928_290_cone-5_4825	290	Mol-3928_217_reef-10_4532	217	73	cones	reefs	1.122
+location	Sca-88f4_173_Pectinidae-4	Sca-88f4_90_bed-53	Sca-88f4_173_Pectinidae-4_3027	173	Sca-88f4_90_bed-53_4510	90	83	Pectinidae	sea bed	1.036
+location	Mol-3928_136_cone-23	Mol-3928_217_reef-10	Mol-3928_136_cone-23_4825	136	Mol-3928_217_reef-10_4532	217	81	cones	reefs	1.012
+location	Sca-88f4_175_Pectinidae-6	Sca-88f4_90_bed-53	Sca-88f4_175_Pectinidae-6_3027	175	Sca-88f4_90_bed-53_4510	90	85	Pectinidae	sea bed	1.012
+adaptation	Cam-4bd8_61_Sepia-36	Cam-4bd8_61_camouflage-7	Cam-4bd8_61_Sepia-36_1275	61	Cam-4bd8_61_camouflage-7_3947	61	0	Sepia	camouflage	100.0
+adaptation	Gia-2984_43_cuttlefish-2	Gia-2984_43_Predators-4	Gia-2984_43_cuttlefish-2_4649	43	Gia-2984_43_Predators-4_359	43	0	giant cuttlefish	Predator	100.0
+adaptation	Amm5689_8_ammonite-10	Amm5689_8_predators-18	Amm5689_8_ammonite-10_4597	8	Amm5689_8_predators-18_359	8	0	ammonites	Predator	100.0
+adaptation	Gre-e890_93_sepia-15	Gre-e890_93_camouflage-24	Gre-e890_93_sepia-15_4465	93	Gre-e890_93_camouflage-24_3947	93	0	sepia	camouflage	100.0
+adaptation	Com-c2e9_37_cuttlefish-49	Com-c2e9_37_predators-14	Com-c2e9_37_cuttlefish-49_4803	37	Com-c2e9_37_predators-14_359	37	0	common cuttlefish	Predator	100.0
+adaptation	Com-c2e9_37_cuttlefish-7	Com-c2e9_37_predators-14	Com-c2e9_37_cuttlefish-7_4803	37	Com-c2e9_37_predators-14_359	37	0	common cuttlefish	Predator	100.0
+adaptation	Cam-4bd8_61_Sepia-36	Cam-4bd8_61_camouflage-49	Cam-4bd8_61_Sepia-36_1275	61	Cam-4bd8_61_camouflage-49_3947	61	0	Sepia	camouflage	100.0
+adaptation	Cam-4bd8_61_officinalis-37	Cam-4bd8_61_camouflage-49	Cam-4bd8_61_officinalis-37_1932	61	Cam-4bd8_61_camouflage-49_3947	61	0	Sepia officinalis	camouflage	87.0
+adaptation	Cam-4bd8_61_officinalis-37	Cam-4bd8_61_camouflage-7	Cam-4bd8_61_officinalis-37_1932	61	Cam-4bd8_61_camouflage-7_3947	61	0	Sepia officinalis	camouflage	87.0
+adaptation	Hum-85c3_174_cone-16	Hum-85c3_174_predator-48	Hum-85c3_174_cone-16_4825	174	Hum-85c3_174_predator-48_359	174	0	cones	Predator	83.0
+adaptation	Com-c2e9_38_cuttlefish-2	Com-c2e9_37_predators-14	Com-c2e9_38_cuttlefish-2_4803	38	Com-c2e9_37_predators-14_3977	37	1	common cuttlefish	predator	50.0
+adaptation	Cut-3792_206_Sepia-1	Cut-3792_205_camouflage-7	Cut-3792_206_Sepia-1_1275	206	Cut-3792_205_camouflage-7_3947	205	1	Sepia	camouflage	50.0
+adaptation	Cut-3792_206_Sepia-1	Cut-3792_207_camouflage-2	Cut-3792_206_Sepia-1_1275	206	Cut-3792_207_camouflage-2_3947	207	1	Sepia	camouflage	50.0
+adaptation	Amb-94f9_193_ammonites-25	Amb-94f9_194_predator-11	Amb-94f9_193_ammonites-25_4597	193	Amb-94f9_194_predator-11_359	194	1	ammonites	Predator	50.0
+adaptation	Gia-2984_29_cuttlefish-3	Gia-2984_30_predators-8	Gia-2984_29_cuttlefish-3_4649	29	Gia-2984_30_predators-8_359	30	1	giant cuttlefish	Predator	50.0
+adaptation	Cut-3792_206_officinalis-2	Cut-3792_205_camouflage-7	Cut-3792_206_officinalis-2_1932	206	Cut-3792_205_camouflage-7_3947	205	1	Sepia officinalis	camouflage	43.5
+adaptation	Cut-3792_206_officinalis-2	Cut-3792_207_camouflage-2	Cut-3792_206_officinalis-2_1932	206	Cut-3792_207_camouflage-2_3947	207	1	Sepia officinalis	camouflage	43.5
+adaptation	Gia-2984_44_cuttlefish-39	Gia-2984_43_Predators-4	Gia-2984_44_cuttlefish-39_1611	44	Gia-2984_43_Predators-4_359	43	1	Australian giant cuttlefish	Predator	41.5
+adaptation	Gia-2984_44_cuttlefish-4	Gia-2984_43_Predators-4	Gia-2984_44_cuttlefish-4_1611	44	Gia-2984_43_Predators-4_359	43	1	Australian giant cuttlefish	Predator	41.5
+adaptation	Tilb5d0_4_cone-16	Tilb5d0_5_predators-13	Tilb5d0_4_cone-16_4825	4	Tilb5d0_5_predators-13_359	5	1	cones	Predator	41.5
+adaptation	Tur-06de_108_cones-18	Tur-06de_107_predators-13	Tur-06de_108_cones-18_4825	108	Tur-06de_107_predators-13_3977	107	1	cones	predator	41.5
+adaptation	Hum-85c3_175_cone-4	Hum-85c3_174_predator-48	Hum-85c3_175_cone-4_4825	175	Hum-85c3_174_predator-48_3977	174	1	cones	predator	41.5
+adaptation	Cam-4bd8_59_cuttlefish-9	Cam-4bd8_57_camouflage-8	Cam-4bd8_59_cuttlefish-9_4803	59	Cam-4bd8_57_camouflage-8_3947	57	2	common cuttlefish	camouflage	33.333
+adaptation	Com-c2e9_37_cuttlefish-49	Com-c2e9_35_predator-19	Com-c2e9_37_cuttlefish-49_1931	37	Com-c2e9_35_predator-19_359	35	2	Common cuttlefish	Predator	33.333
+adaptation	Com-c2e9_21_cuttlefish-2	Com-c2e9_19_camouflaging-2	Com-c2e9_21_cuttlefish-2_1931	21	Com-c2e9_19_camouflaging-2_3947	19	2	Common cuttlefish	camouflage	33.333
+adaptation	Com-c2e9_37_cuttlefish-7	Com-c2e9_35_camouflage-13	Com-c2e9_37_cuttlefish-7_4803	37	Com-c2e9_35_camouflage-13_3947	35	2	common cuttlefish	camouflage	33.333
+adaptation	Com-c2e9_37_cuttlefish-49	Com-c2e9_35_camouflage-13	Com-c2e9_37_cuttlefish-49_4803	37	Com-c2e9_35_camouflage-13_3947	35	2	common cuttlefish	camouflage	33.333
+adaptation	Gia-2984_39_cuttlefish-8	Gia-2984_41_predators-32	Gia-2984_39_cuttlefish-8_4649	39	Gia-2984_41_predators-32_359	41	2	giant cuttlefish	Predator	33.333
+adaptation	Gia-2984_43_cuttlefish-2	Gia-2984_41_predators-32	Gia-2984_43_cuttlefish-2_4649	43	Gia-2984_41_predators-32_359	41	2	giant cuttlefish	Predator	33.333
+adaptation	Cam-4bd8_59_cuttlefish-9	Cam-4bd8_61_camouflage-49	Cam-4bd8_59_cuttlefish-9_4803	59	Cam-4bd8_61_camouflage-49_3947	61	2	common cuttlefish	camouflage	33.333
+adaptation	Cut-3792_6_cuttlefish-25	Cut-3792_8_predators-2	Cut-3792_6_cuttlefish-25_4649	6	Cut-3792_8_predators-2_3977	8	2	giant cuttlefish	predator	33.333
+adaptation	Cam-4bd8_59_cuttlefish-9	Cam-4bd8_61_camouflage-7	Cam-4bd8_59_cuttlefish-9_4803	59	Cam-4bd8_61_camouflage-7_3947	61	2	common cuttlefish	camouflage	33.333
+adaptation	Com-c2e9_37_cuttlefish-7	Com-c2e9_35_predator-19	Com-c2e9_37_cuttlefish-7_4803	37	Com-c2e9_35_predator-19_359	35	2	common cuttlefish	Predator	33.333
+adaptation	Ple-f864_113_ammonites-14	Ple-f864_111_predators-36	Ple-f864_113_ammonites-14_4597	113	Ple-f864_111_predators-36_3977	111	2	ammonites	predator	33.333
+adaptation	Cut-3792_6_Sepia-27	Cut-3792_8_predators-2	Cut-3792_6_Sepia-27_1275	6	Cut-3792_8_predators-2_359	8	2	Sepia	Predator	33.333
+adaptation	Com-c2e9_39_Sepia-1	Com-c2e9_37_predators-14	Com-c2e9_39_Sepia-1_1275	39	Com-c2e9_37_predators-14_359	37	2	Sepia	Predator	33.333
+adaptation	Com-c2e9_39_officinalis-2	Com-c2e9_37_predators-14	Com-c2e9_39_officinalis-2_1932	39	Com-c2e9_37_predators-14_3977	37	2	Sepia officinalis	predator	29.0
+adaptation	Cut-3792_206_officinalis-2	Cut-3792_208_camouflage-5	Cut-3792_206_officinalis-2_1932	206	Cut-3792_208_camouflage-5_3947	208	2	Sepia officinalis	camouflage	29.0
+adaptation	Cam-4bd8_61_officinalis-37	Cam-4bd8_63_camouflage-8	Cam-4bd8_61_officinalis-37_1932	61	Cam-4bd8_63_camouflage-8_3947	63	2	Sepia officinalis	camouflage	29.0
+adaptation	Pan-f76a_25_cone-13	Pan-f76a_27_predators-10	Pan-f76a_25_cone-13_4825	25	Pan-f76a_27_predators-10_3977	27	2	cones	predator	27.667
+adaptation	Humafb4_13_devil-27	Humafb4_11_migration-8	Humafb4_13_devil-27_5108	13	Humafb4_11_migration-8_3781	11	2	red devil	migration	27.667
+adaptation	Tur-06de_109_cone-8	Tur-06de_107_predators-13	Tur-06de_109_cone-8_4825	109	Tur-06de_107_predators-13_3977	107	2	cones	predator	27.667
+adaptation	Amm5689_11_Ammonites-7	Amm5689_8_predators-18	Amm5689_11_Ammonites-7_1495	11	Amm5689_8_predators-18_3977	8	3	Ammonites	predator	25.0
+adaptation	Com-c2e9_38_cuttlefish-2	Com-c2e9_35_camouflage-13	Com-c2e9_38_cuttlefish-2_4803	38	Com-c2e9_35_camouflage-13_3947	35	3	common cuttlefish	camouflage	25.0
+adaptation	Cam-4bd8_59_cuttlefish-9	Cam-4bd8_56_Camouflage-1	Cam-4bd8_59_cuttlefish-9_4803	59	Cam-4bd8_56_Camouflage-1_319	56	3	common cuttlefish	Camouflage	25.0
+adaptation	Cut-3792_197_cuttlefish-4	Cut-3792_194_predators-63	Cut-3792_197_cuttlefish-4_4803	197	Cut-3792_194_predators-63_359	194	3	common cuttlefish	Predator	25.0
+adaptation	Com-c2e9_38_cuttlefish-2	Com-c2e9_35_predator-19	Com-c2e9_38_cuttlefish-2_4803	38	Com-c2e9_35_predator-19_359	35	3	common cuttlefish	Predator	25.0
+adaptation	Com-c2e9_37_cuttlefish-49	Com-c2e9_34_predators-4	Com-c2e9_37_cuttlefish-49_4803	37	Com-c2e9_34_predators-4_359	34	3	common cuttlefish	Predator	25.0
+adaptation	Com-c2e9_37_cuttlefish-7	Com-c2e9_34_predators-4	Com-c2e9_37_cuttlefish-7_4803	37	Com-c2e9_34_predators-4_359	34	3	common cuttlefish	Predator	25.0
+adaptation	Com-c2e9_22_cuttlefish-2	Com-c2e9_19_camouflaging-2	Com-c2e9_22_cuttlefish-2_4803	22	Com-c2e9_19_camouflaging-2_3947	19	3	common cuttlefish	camouflage	25.0
+adaptation	Neo-e8a9_16_snails-19	Neo-e8a9_19_predators-4	Neo-e8a9_16_snails-19_4823	16	Neo-e8a9_19_predators-4_359	19	3	cone snails	Predator	25.0
+adaptation	Neo-e8a9_16_snails-11	Neo-e8a9_19_predators-4	Neo-e8a9_16_snails-11_4823	16	Neo-e8a9_19_predators-4_359	19	3	cone snails	Predator	25.0
+adaptation	Neo-e8a9_16_snails-16	Neo-e8a9_19_predators-4	Neo-e8a9_16_snails-16_4823	16	Neo-e8a9_19_predators-4_359	19	3	cone snails	Predator	25.0
+adaptation	Cam-4bd8_61_officinalis-37	Cam-4bd8_64_camouflage-15	Cam-4bd8_61_officinalis-37_1932	61	Cam-4bd8_64_camouflage-15_3947	64	3	Sepia officinalis	camouflage	21.75
+adaptation	Cut-3792_252_officinalis-25	Cut-3792_249_camouflage-32	Cut-3792_252_officinalis-25_1932	252	Cut-3792_249_camouflage-32_3947	249	3	Sepia officinalis	camouflage	21.75
+adaptation	Gia-2984_44_cuttlefish-4	Gia-2984_41_predators-32	Gia-2984_44_cuttlefish-4_1611	44	Gia-2984_41_predators-32_3977	41	3	Australian giant cuttlefish	predator	20.75
+adaptation	Gia-2984_44_cuttlefish-39	Gia-2984_41_predators-32	Gia-2984_44_cuttlefish-39_1611	44	Gia-2984_41_predators-32_3977	41	3	Australian giant cuttlefish	predator	20.75
+adaptation	Com-c2e9_38_cuttlefish-2	Com-c2e9_34_predators-4	Com-c2e9_38_cuttlefish-2_4803	38	Com-c2e9_34_predators-4_3977	34	4	common cuttlefish	predator	20.0
+adaptation	Cam-4bd8_59_cuttlefish-9	Cam-4bd8_55_Camouflage-1	Cam-4bd8_59_cuttlefish-9_4803	59	Cam-4bd8_55_Camouflage-1_319	55	4	common cuttlefish	Camouflage	20.0
+adaptation	Gia-2984_47_cuttlefish-24	Gia-2984_43_Predators-4	Gia-2984_47_cuttlefish-24_1609	47	Gia-2984_43_Predators-4_3977	43	4	Giant cuttlefish	predator	20.0
+adaptation	Com-c2e9_39_Sepia-1	Com-c2e9_35_predator-19	Com-c2e9_39_Sepia-1_1275	39	Com-c2e9_35_predator-19_3977	35	4	Sepia	predator	20.0
+adaptation	Gia-2984_79_cuttlefish-2	Gia-2984_83_spawning-9	Gia-2984_79_cuttlefish-2_4649	79	Gia-2984_83_spawning-9_366	83	4	giant cuttlefish	Spawning	20.0
+adaptation	Gia-2984_65_cuttlefish-2	Gia-2984_61_spawning-21	Gia-2984_65_cuttlefish-2_4649	65	Gia-2984_61_spawning-21_3982	61	4	giant cuttlefish	spawning	20.0
+adaptation	Com-c2e9_39_officinalis-2	Com-c2e9_35_predator-19	Com-c2e9_39_officinalis-2_1932	39	Com-c2e9_35_predator-19_359	35	4	Sepia officinalis	Predator	17.4
+adaptation	Gia-2984_92_cuttlefish-50	Gia-2984_87_semelparous-2	Gia-2984_92_cuttlefish-50_4649	92	Gia-2984_87_semelparous-2_3980	87	5	giant cuttlefish	semelparous	16.667
+adaptation	Cut-3792_13_sepia-21	Cut-3792_8_predators-2	Cut-3792_13_sepia-21_4465	13	Cut-3792_8_predators-2_3977	8	5	sepia	predator	16.667
+adaptation	Gia-2984_10_cuttlefish-2	Gia-2984_15_semelparous-4	Gia-2984_10_cuttlefish-2_4649	10	Gia-2984_15_semelparous-4_3980	15	5	giant cuttlefish	semelparous	16.667
+adaptation	Gia-2984_66_cuttlefish-10	Gia-2984_61_spawning-21	Gia-2984_66_cuttlefish-10_4649	66	Gia-2984_61_spawning-21_366	61	5	giant cuttlefish	Spawning	16.667
+adaptation	Gia-2984_92_cuttlefish-14	Gia-2984_87_semelparous-2	Gia-2984_92_cuttlefish-14_4649	92	Gia-2984_87_semelparous-2_3980	87	5	giant cuttlefish	semelparous	16.667
+adaptation	Com-c2e9_42_Sepia-1	Com-c2e9_37_predators-14	Com-c2e9_42_Sepia-1_1275	42	Com-c2e9_37_predators-14_359	37	5	Sepia	Predator	16.667
+adaptation	Com-c2e9_39_Sepia-1	Com-c2e9_34_predators-4	Com-c2e9_39_Sepia-1_1275	39	Com-c2e9_34_predators-4_3977	34	5	Sepia	predator	16.667
+adaptation	Cam-4bd8_61_Sepia-36	Cam-4bd8_56_Camouflage-1	Cam-4bd8_61_Sepia-36_1275	61	Cam-4bd8_56_Camouflage-1_319	56	5	Sepia	Camouflage	16.667
+adaptation	Com-c2e9_39_officinalis-2	Com-c2e9_34_predators-4	Com-c2e9_39_officinalis-2_1932	39	Com-c2e9_34_predators-4_3977	34	5	Sepia officinalis	predator	14.5
+adaptation	Cam-4bd8_61_officinalis-37	Cam-4bd8_56_Camouflage-1	Cam-4bd8_61_officinalis-37_1932	61	Cam-4bd8_56_Camouflage-1_319	56	5	Sepia officinalis	Camouflage	14.5
+adaptation	Com-c2e9_42_officinalis-2	Com-c2e9_37_predators-14	Com-c2e9_42_officinalis-2_1932	42	Com-c2e9_37_predators-14_359	37	5	Sepia officinalis	Predator	14.5
+adaptation	Gia-2984_55_cuttlefish-11	Gia-2984_61_spawning-21	Gia-2984_55_cuttlefish-11_4649	55	Gia-2984_61_spawning-21_3982	61	6	giant cuttlefish	spawning	14.286
+adaptation	Tig-454c_105_sepia-10	Tig-454c_99_camouflage-26	Tig-454c_105_sepia-10_4465	105	Tig-454c_99_camouflage-26_3947	99	6	sepia	camouflage	14.286
+adaptation	Gia-2984_55_cuttlefish-5	Gia-2984_61_spawning-21	Gia-2984_55_cuttlefish-5_4649	55	Gia-2984_61_spawning-21_3982	61	6	giant cuttlefish	spawning	14.286
+adaptation	Gia-2984_55_cuttlefish-31	Gia-2984_61_spawning-21	Gia-2984_55_cuttlefish-31_4649	55	Gia-2984_61_spawning-21_3982	61	6	giant cuttlefish	spawning	14.286
+adaptation	Gia-2984_47_cuttlefish-24	Gia-2984_41_predators-32	Gia-2984_47_cuttlefish-24_1609	47	Gia-2984_41_predators-32_3977	41	6	Giant cuttlefish	predator	14.286
+adaptation	Cam-4bd8_61_Sepia-36	Cam-4bd8_55_Camouflage-1	Cam-4bd8_61_Sepia-36_1275	61	Cam-4bd8_55_Camouflage-1_319	55	6	Sepia	Camouflage	14.286
+adaptation	Ven-071d_24_snails-20	Ven-071d_30_predators-24	Ven-071d_24_snails-20_4823	24	Ven-071d_30_predators-24_3977	30	6	cone snails	predator	14.286
+adaptation	Com-c2e9_42_Sepia-1	Com-c2e9_35_predator-19	Com-c2e9_42_Sepia-1_1275	42	Com-c2e9_35_predator-19_359	35	7	Sepia	Predator	12.5
+adaptation	Cam-4bd8_61_officinalis-37	Cam-4bd8_55_Camouflage-1	Cam-4bd8_61_officinalis-37_1932	61	Cam-4bd8_55_Camouflage-1_319	55	6	Sepia officinalis	Camouflage	12.429
+adaptation	Tig-454c_105_sepia-10	Tig-454c_97_camouflage-6	Tig-454c_105_sepia-10_4465	105	Tig-454c_97_camouflage-6_3947	97	8	sepia	camouflage	11.111
+adaptation	Com-c2e9_42_Sepia-1	Com-c2e9_34_predators-4	Com-c2e9_42_Sepia-1_1275	42	Com-c2e9_34_predators-4_359	34	8	Sepia	Predator	11.111
+adaptation	Cut-3792_252_Sepia-24	Cut-3792_260_Camouflage-14	Cut-3792_252_Sepia-24_1275	252	Cut-3792_260_Camouflage-14_319	260	8	Sepia	Camouflage	11.111
+adaptation	Cam-4bd8_59_cuttlefish-9	Cam-4bd8_51_Camouflage-1	Cam-4bd8_59_cuttlefish-9_1931	59	Cam-4bd8_51_Camouflage-1_319	51	8	Common cuttlefish	Camouflage	11.111
+adaptation	Cut-3792_252_Sepia-27	Cut-3792_260_Camouflage-14	Cut-3792_252_Sepia-27_1275	252	Cut-3792_260_Camouflage-14_319	260	8	Sepia	Camouflage	11.111
+adaptation	Com-c2e9_42_officinalis-2	Com-c2e9_35_predator-19	Com-c2e9_42_officinalis-2_1932	42	Com-c2e9_35_predator-19_359	35	7	Sepia officinalis	Predator	10.875
+adaptation	Gia-2984_92_cuttlefish-50	Gia-2984_83_spawning-9	Gia-2984_92_cuttlefish-50_4649	92	Gia-2984_83_spawning-9_366	83	9	giant cuttlefish	Spawning	10.0
+adaptation	Gia-2984_92_cuttlefish-14	Gia-2984_83_spawning-9	Gia-2984_92_cuttlefish-14_4649	92	Gia-2984_83_spawning-9_366	83	9	giant cuttlefish	Spawning	10.0
+adaptation	Gia-2984_70_cuttlefish-2	Gia-2984_61_spawning-21	Gia-2984_70_cuttlefish-2_4649	70	Gia-2984_61_spawning-21_366	61	9	giant cuttlefish	Spawning	10.0
+adaptation	Cut-3792_252_officinalis-25	Cut-3792_260_Camouflage-14	Cut-3792_252_officinalis-25_1932	252	Cut-3792_260_Camouflage-14_319	260	8	Sepia officinalis	Camouflage	9.667
+adaptation	Cam-4bd8_61_Sepia-36	Cam-4bd8_71_Camouflage-1	Cam-4bd8_61_Sepia-36_1275	61	Cam-4bd8_71_Camouflage-1_319	71	10	Sepia	Camouflage	9.091
+adaptation	Com-c2e9_47_sepia-14	Com-c2e9_37_predators-14	Com-c2e9_47_sepia-14_4465	47	Com-c2e9_37_predators-14_359	37	10	sepia	Predator	9.091
+adaptation	Cam-4bd8_59_cuttlefish-9	Cam-4bd8_49_Camouflage-1	Cam-4bd8_59_cuttlefish-9_4803	59	Cam-4bd8_49_Camouflage-1_319	49	10	common cuttlefish	Camouflage	9.091
+adaptation	Cam-4bd8_61_Sepia-36	Cam-4bd8_51_Camouflage-1	Cam-4bd8_61_Sepia-36_1275	61	Cam-4bd8_51_Camouflage-1_319	51	10	Sepia	Camouflage	9.091
+adaptation	Cep-fb80_60_Sepia-51	Cep-fb80_71_predators-23	Cep-fb80_60_Sepia-51_1275	60	Cep-fb80_71_predators-23_359	71	11	Sepia	Predator	8.333
+adaptation	Cep-fb80_60_Sepia-58	Cep-fb80_71_predators-23	Cep-fb80_60_Sepia-58_1275	60	Cep-fb80_71_predators-23_359	71	11	Sepia	Predator	8.333
+adaptation	Cam-4bd8_61_officinalis-37	Cam-4bd8_71_Camouflage-1	Cam-4bd8_61_officinalis-37_1932	61	Cam-4bd8_71_Camouflage-1_319	71	10	Sepia officinalis	Camouflage	7.909
+adaptation	Cam-4bd8_61_officinalis-37	Cam-4bd8_51_Camouflage-1	Cam-4bd8_61_officinalis-37_1932	61	Cam-4bd8_51_Camouflage-1_319	51	10	Sepia officinalis	Camouflage	7.909
+adaptation	Com-c2e9_47_sepia-14	Com-c2e9_35_predator-19	Com-c2e9_47_sepia-14_4465	47	Com-c2e9_35_predator-19_359	35	12	sepia	Predator	7.692
+adaptation	Cam-4bd8_59_cuttlefish-9	Cam-4bd8_71_Camouflage-1	Cam-4bd8_59_cuttlefish-9_1931	59	Cam-4bd8_71_Camouflage-1_319	71	12	Common cuttlefish	Camouflage	7.692
+adaptation	Com-c2e9_47_sepia-14	Com-c2e9_34_predators-4	Com-c2e9_47_sepia-14_4465	47	Com-c2e9_34_predators-4_3977	34	13	sepia	predator	7.143
+adaptation	Cam-4bd8_61_officinalis-37	Cam-4bd8_49_Camouflage-1	Cam-4bd8_61_officinalis-37_1932	61	Cam-4bd8_49_Camouflage-1_319	49	12	Sepia officinalis	Camouflage	6.692
+adaptation	Cam-4bd8_59_cuttlefish-9	Cam-4bd8_45_Camouflage-1	Cam-4bd8_59_cuttlefish-9_1931	59	Cam-4bd8_45_Camouflage-1_319	45	14	Common cuttlefish	Camouflage	6.667
+adaptation	Gia-2984_47_cuttlefish-24	Gia-2984_61_spawning-21	Gia-2984_47_cuttlefish-24_1609	47	Gia-2984_61_spawning-21_3982	61	14	Giant cuttlefish	spawning	6.667
+adaptation	Cor-7fba_5_aspersa-8	Cor-7fba_18_hibernation-15	Cor-7fba_5_aspersa-8_2520	5	Cor-7fba_18_hibernation-15_3959	18	13	Helix aspersa	hibernation	6.214
+adaptation	Hum-2735_23_devil-21	Hum-2735_36_migrations-10	Hum-2735_23_devil-21_5108	23	Hum-2735_36_migrations-10_1	36	13	red devil	Migration	5.929
+adaptation	Rab-34dd_224_Cone-22	Rab-34dd_211_predators-16	Rab-34dd_224_Cone-22_1968	224	Rab-34dd_211_predators-16_359	211	13	Cones	Predator	5.929
+adaptation	Gia-2984_47_cuttlefish-24	Gia-2984_30_predators-8	Gia-2984_47_cuttlefish-24_1609	47	Gia-2984_30_predators-8_359	30	17	Giant cuttlefish	Predator	5.556
+adaptation	Gia-2984_44_cuttlefish-39	Gia-2984_30_predators-8	Gia-2984_44_cuttlefish-39_1611	44	Gia-2984_30_predators-8_359	30	14	Australian giant cuttlefish	Predator	5.533
+adaptation	Gia-2984_44_cuttlefish-4	Gia-2984_30_predators-8	Gia-2984_44_cuttlefish-4_1611	44	Gia-2984_30_predators-8_3977	30	14	Australian giant cuttlefish	predator	5.533
+adaptation	Spa-e46a_44_scallop-10	Spa-e46a_26_spawning-7	Spa-e46a_44_scallop-10_5321	44	Spa-e46a_26_spawning-7_3982	26	18	scallops	spawning	5.263
+adaptation	Cam-4bd8_61_officinalis-37	Cam-4bd8_45_Camouflage-1	Cam-4bd8_61_officinalis-37_1932	61	Cam-4bd8_45_Camouflage-1_319	45	16	Sepia officinalis	Camouflage	5.118
+adaptation	Eur-c08e_64_Cone-34	Eur-c08e_80_predators-16	Eur-c08e_64_Cone-34_1968	64	Eur-c08e_80_predators-16_359	80	16	Cones	Predator	4.882
+adaptation	Gia-2984_44_cuttlefish-39	Gia-2984_61_spawning-21	Gia-2984_44_cuttlefish-39_1611	44	Gia-2984_61_spawning-21_3982	61	17	Australian giant cuttlefish	spawning	4.611
+adaptation	Gia-2984_44_cuttlefish-4	Gia-2984_61_spawning-21	Gia-2984_44_cuttlefish-4_1611	44	Gia-2984_61_spawning-21_3982	61	17	Australian giant cuttlefish	spawning	4.611
+adaptation	Oct-f4f7_30_dofleini-7	Oct-f4f7_12_predators-6	Oct-f4f7_30_dofleini-7_2931	30	Oct-f4f7_12_predators-6_359	12	18	Enteroctopus dofleini	Predator	4.579
+adaptation	Oct-f4f7_30_dofleini-7	Oct-f4f7_12_camouflage-16	Oct-f4f7_30_dofleini-7_2931	30	Oct-f4f7_12_camouflage-16_3947	12	18	Enteroctopus dofleini	camouflage	4.579
+adaptation	Cut-3792_238_sepia-9	Cut-3792_260_Camouflage-14	Cut-3792_238_sepia-9_4465	238	Cut-3792_260_Camouflage-14_319	260	22	sepia	Camouflage	4.348
+adaptation	Spa-e46a_44_scallop-10	Spa-e46a_21_spawning-13	Spa-e46a_44_scallop-10_5321	44	Spa-e46a_21_spawning-13_3982	21	23	scallops	spawning	4.167
+adaptation	Cut-3792_236_sepia-6	Cut-3792_260_Camouflage-14	Cut-3792_236_sepia-6_4465	236	Cut-3792_260_Camouflage-14_319	260	24	sepia	Camouflage	4.0
+adaptation	Hum-2735_23_devil-21	Hum-2735_43_camouflage-34	Hum-2735_23_devil-21_5108	23	Hum-2735_43_camouflage-34_3947	43	20	red devil	camouflage	3.952
+adaptation	Gia-2984_2_cuttlefish-3	Gia-2984_15_semelparous-4	Gia-2984_2_cuttlefish-3_1611	2	Gia-2984_15_semelparous-4_3980	15	13	Australian giant cuttlefish	semelparous	3.857
+adaptation	Gia-2984_2_cuttlefish-11	Gia-2984_15_semelparous-4	Gia-2984_2_cuttlefish-11_1611	2	Gia-2984_15_semelparous-4_3980	15	13	Australian giant cuttlefish	semelparous	3.857
+adaptation	Eur-c08e_64_Cone-34	Eur-c08e_85_predator-24	Eur-c08e_64_Cone-34_1968	64	Eur-c08e_85_predator-24_359	85	21	Cones	Predator	3.773
+adaptation	Gia-d1de_2_octopus-17	Gia-d1de_28_Predators-7	Gia-d1de_2_octopus-17_2930	2	Gia-d1de_28_Predators-7_3977	28	26	North Pacific giant octopus	predator	3.704
+adaptation	Cut-3792_234_sepia-4	Cut-3792_260_Camouflage-14	Cut-3792_234_sepia-4_4465	234	Cut-3792_260_Camouflage-14_319	260	26	sepia	Camouflage	3.704
+adaptation	Cut-3792_233_sepia-10	Cut-3792_260_Camouflage-14	Cut-3792_233_sepia-10_4465	233	Cut-3792_260_Camouflage-14_319	260	27	sepia	Camouflage	3.571
+adaptation	Gre-e890_93_sepia-15	Gre-e890_120_predators-9	Gre-e890_93_sepia-15_4465	93	Gre-e890_120_predators-9_3977	120	27	sepia	predator	3.571
+adaptation	Gre-e890_93_sepia-15	Gre-e890_122_Predators-1	Gre-e890_93_sepia-15_4465	93	Gre-e890_122_Predators-1_3977	122	29	sepia	predator	3.333
+adaptation	Gre-e890_93_sepia-15	Gre-e890_123_predators-5	Gre-e890_93_sepia-15_4465	93	Gre-e890_123_predators-5_3977	123	30	sepia	predator	3.226
+adaptation	Gia-d1de_2_octopus-17	Gia-d1de_32_predators-7	Gia-d1de_2_octopus-17_2930	2	Gia-d1de_32_predators-7_3977	32	30	North Pacific giant octopus	predator	3.226
+adaptation	Cor-7fba_135_snail-85	Cor-7fba_104_hibernation-10	Cor-7fba_135_snail-85_5088	135	Cor-7fba_104_hibernation-10_3959	104	31	garden snail	hibernation	3.125
+adaptation	Cor-7fba_135_snail-32	Cor-7fba_104_hibernation-10	Cor-7fba_135_snail-32_5088	135	Cor-7fba_104_hibernation-10_3959	104	31	garden snail	hibernation	3.125
+adaptation	Gia-2984_47_cuttlefish-24	Gia-2984_15_semelparous-4	Gia-2984_47_cuttlefish-24_1609	47	Gia-2984_15_semelparous-4_3980	15	32	Giant cuttlefish	semelparous	3.03
+adaptation	Gre-e890_93_sepia-15	Gre-e890_125_predators-29	Gre-e890_93_sepia-15_4465	93	Gre-e890_125_predators-29_3977	125	32	sepia	predator	3.03
+taxongroup	Amm-5730_13_Cephalopoda-8	Amm-5730_13_Mollusca-5	Amm-5730_13_Cephalopoda-8_385	13	Amm-5730_13_Mollusca-5_2857	13	0	Cephalopoda	Mollusca	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-85	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-85_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-50	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-50_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-52	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-52_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-1	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-1_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-17	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-17_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-13	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-13_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-80	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-80_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-75	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-75_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-73	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-73_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-99	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-99_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-94	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-94_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-92	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-92_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-90	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-90_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-8	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-8_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-68	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-68_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-46	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_Sepia-46_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-6	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-6_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-73	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-73_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-75	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-75_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-23	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-23_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-30	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-30_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-35	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-35_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-46	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-46_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-94	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-94_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-50	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_Sepia-50_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-13	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-13_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-10	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-10_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-103	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-103_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-101	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-101_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-48	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-48_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-46	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-46_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-44	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-44_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-37	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-37_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-48	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-48_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-23	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-23_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-1	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-1_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-17	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-17_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-14	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-14_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-13	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-13_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-10	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-10_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-103	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-103_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-101	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-101_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-101	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-101_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-103	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-103_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-10	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-10_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-13	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-13_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-39	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-39_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-17	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-17_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-44	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-44_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-99	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-99_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-90	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-90_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-57	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-57_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-62	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-62_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-23	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-23_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-94	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-94_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-92	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-92_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-8	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-8_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-85	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-85_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-80	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-80_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-35	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-35_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-44	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_Sepia-44_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-30	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_Sepia-30_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Oct-f4f7_302_Cephalopoda-2	Oct-f4f7_302_mollusc-6	Oct-f4f7_302_Cephalopoda-2_385	302	Oct-f4f7_302_mollusc-6_5235	302	0	Cephalopoda	molluscs	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_cuttlefish-128_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-1	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-1_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-35	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-35_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-30	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-30_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_cuttlefish-72_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_cuttlefish-113_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_cuttlefish-22_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_cuttlefish-22_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_cuttlefish-61_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_cuttlefish-72_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_cuttlefish-98_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_cuttlefish-56_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_cuttlefish-43_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_cuttlefish-29_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_cuttlefish-119_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-8	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-8_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_cuttlefish-119_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_cuttlefish-113_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_cuttlefish-72_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_cuttlefish-113_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_cuttlefish-119_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_cuttlefish-128_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_cuttlefish-22_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_cuttlefish-29_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_cuttlefish-128_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_cuttlefish-22_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_cuttlefish-29_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_cuttlefish-43_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_cuttlefish-56_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-85	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-85_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-80	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-80_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-75	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-75_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-73	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-73_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-90	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-90_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-92	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-92_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-48	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_Sepia-48_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-14	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-14_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-6	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_Sepia-6_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-57	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_Sepia-57_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-80	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_Sepia-80_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-75	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_Sepia-75_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-73	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_Sepia-73_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-37	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-37_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-1	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-1_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-14	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_Sepia-14_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-50	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-50_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-23	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-23_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-30	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-30_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-35	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-35_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-37	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-37_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-39	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-39_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-44	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-44_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-46	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-46_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-48	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-48_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-52	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-52_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-17	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-17_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-57	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-57_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-62	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-62_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-68	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-68_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-6	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_Sepia-6_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-99	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-99_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-50	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-50_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-52	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-52_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-1	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-1_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-68	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-68_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-62	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-62_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-57	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-57_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-52	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-52_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-50	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-50_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-48	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-48_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-46	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-46_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-44	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-44_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-68	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-68_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Cut-3792_30_cuttlefish-3	Cut-3792_30_Sepia-5	Cut-3792_30_cuttlefish-3_4803	30	Cut-3792_30_Sepia-5_1275	30	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-39	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-39_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-37	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-37_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-14	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-14_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-23	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-23_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-57	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-57_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-30	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-30_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-35	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-35_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-17	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-17_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-23	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-23_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-39	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-39_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-30	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-30_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-94	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-94_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-6	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-6_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-73	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-73_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-75	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-75_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-80	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-80_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-85	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-85_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-8	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-8_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-99	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-99_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Cep-fb80_60_cuttlefish-49	Cep-fb80_60_Sepia-51	Cep-fb80_60_cuttlefish-49_4803	60	Cep-fb80_60_Sepia-51_1275	60	0	common cuttlefish	Sepia	100.0
+taxongroup	Cep-fb80_60_cuttlefish-49	Cep-fb80_60_Sepia-58	Cep-fb80_60_cuttlefish-49_4803	60	Cep-fb80_60_Sepia-58_1275	60	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-68	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-68_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Com-c2e9_2_cuttlefish-3	Com-c2e9_2_Sepia-9	Com-c2e9_2_cuttlefish-3_4803	2	Com-c2e9_2_Sepia-9_1275	2	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-52	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-52_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-50	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-50_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-85	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-85_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-8	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-8_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-90	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-90_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-62	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-62_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-57	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-57_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-46	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-46_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-99	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-99_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-48	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-48_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-52	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-52_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-50	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-50_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-48	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-48_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Cep-fb80_60_cuttlefish-56	Cep-fb80_60_Sepia-51	Cep-fb80_60_cuttlefish-56_4803	60	Cep-fb80_60_Sepia-51_1275	60	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-6	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-6_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-75	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-75_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-73	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-73_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-39	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-39_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-46	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-46_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-17	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-17_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-1	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-1_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-23	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-23_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-30	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-30_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-35	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-35_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-37	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-37_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-44	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-44_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-90	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-90_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-92	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-92_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-17	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-17_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-101	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-101_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-6	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-6_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-37	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-37_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-14	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-14_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-35	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-35_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-37	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-37_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-39	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-39_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-44	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-44_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-46	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-46_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-103	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-103_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-50	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-50_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-10	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-10_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-68	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-68_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-62	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-62_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-57	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-57_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-52	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-52_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-50	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-50_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-48	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-48_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-46	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-46_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-44	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-44_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-39	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-39_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-30	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-30_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-23	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-23_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-1	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-1_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-73	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-73_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-6	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-6_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-68	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-68_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-62	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-62_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_Sepia-101	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_Sepia-101_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-75	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-75_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-13	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-13_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-80	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-80_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-73	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-73_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-80	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-80_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-35	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-35_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-37	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-37_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-44	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-44_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-6	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-6_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-75	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-75_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-103	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-103_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-1	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-1_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-14	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-14_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-13	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-13_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-10	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-10_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-103	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-103_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-101	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_Sepia-101_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-101	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-101_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_Sepia-10	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_Sepia-10_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-52	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_Sepia-52_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-103	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-103_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-10	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-10_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-13	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-13_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-14	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-14_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-17	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-17_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-94	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-94_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-92	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-92_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-90	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-90_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-8	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-8_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_Sepia-85	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_Sepia-85_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_cuttlefish-61_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_cuttlefish-61_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_cuttlefish-56_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Oct-f4f7_210_octopuses-10	Oct-f4f7_210_molluscs-20	Oct-f4f7_210_octopuses-10_5274	210	Oct-f4f7_210_molluscs-20_5235	210	0	octopuses	molluscs	100.0
+taxongroup	Oct-f4f7_285_octopuses-2	Oct-f4f7_285_animals-28	Oct-f4f7_285_octopuses-2_5274	285	Oct-f4f7_285_animals-28_3812	285	0	octopuses	animals	100.0
+taxongroup	Oct-f4f7_162_octopuses-28	Oct-f4f7_162_animals-34	Oct-f4f7_162_octopuses-28_5274	162	Oct-f4f7_162_animals-34_3812	162	0	octopuses	animals	100.0
+taxongroup	Oct-f4f7_210_octopuses-10	Oct-f4f7_210_cephalopods-38	Oct-f4f7_210_octopuses-10_5274	210	Oct-f4f7_210_cephalopods-38_4000	210	0	octopuses	cephalopods	100.0
+taxongroup	Oct-f4f7_108_octopuses-5	Oct-f4f7_108_cephalopods-3	Oct-f4f7_108_octopuses-5_5274	108	Oct-f4f7_108_cephalopods-3_4000	108	0	octopuses	cephalopods	100.0
+taxongroup	Too-567c_27_octopuses-16	Too-567c_27_cephalopods-2	Too-567c_27_octopuses-16_5274	27	Too-567c_27_cephalopods-2_4000	27	0	octopuses	cephalopods	100.0
+taxongroup	Ven-071d_48_octopuses-49	Ven-071d_48_cephalopods-46	Ven-071d_48_octopuses-49_5274	48	Ven-071d_48_cephalopods-46_4000	48	0	octopuses	cephalopods	100.0
+taxongroup	Oct-f4f7_270_octopuses-5	Oct-f4f7_270_cephalopods-24	Oct-f4f7_270_octopuses-5_5274	270	Oct-f4f7_270_cephalopods-24_4000	270	0	octopuses	cephalopods	100.0
+taxongroup	Oct-f4f7_210_octopuses-30	Oct-f4f7_210_cephalopods-38	Oct-f4f7_210_octopuses-30_5274	210	Oct-f4f7_210_cephalopods-38_4000	210	0	octopuses	cephalopods	100.0
+taxongroup	Oct-f4f7_287_octopuses-7	Oct-f4f7_287_cephalopods-14	Oct-f4f7_287_octopuses-7_5274	287	Oct-f4f7_287_cephalopods-14_4000	287	0	octopuses	cephalopods	100.0
+taxongroup	Oct-f4f7_210_octopuses-3	Oct-f4f7_210_cephalopods-38	Oct-f4f7_210_octopuses-3_5274	210	Oct-f4f7_210_cephalopods-38_4000	210	0	octopuses	cephalopods	100.0
+taxongroup	Mol-3928_11_octopuses-11	Mol-3928_11_molluscs-2	Mol-3928_11_octopuses-11_5274	11	Mol-3928_11_molluscs-2_5235	11	0	octopuses	molluscs	100.0
+taxongroup	Mol-3928_250_octopuses-6	Mol-3928_250_molluscs-4	Mol-3928_250_octopuses-6_5274	250	Mol-3928_250_molluscs-4_5235	250	0	octopuses	molluscs	100.0
+taxongroup	Oct-f4f7_2_octopuses-5	Oct-f4f7_2_mollusc-18	Oct-f4f7_2_octopuses-5_5274	2	Oct-f4f7_2_mollusc-18_5235	2	0	octopuses	molluscs	100.0
+taxongroup	Oct-f4f7_210_octopuses-30	Oct-f4f7_210_molluscs-20	Oct-f4f7_210_octopuses-30_5274	210	Oct-f4f7_210_molluscs-20_5235	210	0	octopuses	molluscs	100.0
+taxongroup	Mol-3928_219_molluscs-17	Mol-3928_219_animals-8	Mol-3928_219_molluscs-17_5235	219	Mol-3928_219_animals-8_3812	219	0	molluscs	animals	100.0
+taxongroup	Oct-f4f7_210_octopuses-3	Oct-f4f7_210_molluscs-20	Oct-f4f7_210_octopuses-3_5274	210	Oct-f4f7_210_molluscs-20_5235	210	0	octopuses	molluscs	100.0
+taxongroup	Sca-88f4_38_scallop-6	Sca-88f4_38_animal-17	Sca-88f4_38_scallop-6_5321	38	Sca-88f4_38_animal-17_44	38	0	scallops	Animals	100.0
+taxongroup	Sca-88f4_29_scallop-5	Sca-88f4_29_animal-37	Sca-88f4_29_scallop-5_5321	29	Sca-88f4_29_animal-37_44	29	0	scallops	Animals	100.0
+taxongroup	Sca-88f4_70_scallop-6	Sca-88f4_70_animal-20	Sca-88f4_70_scallop-6_5321	70	Sca-88f4_70_animal-20_44	70	0	scallops	Animals	100.0
+taxongroup	Aqu-83c9_68_scallops-7	Aqu-83c9_68_molluscs-3	Aqu-83c9_68_scallops-7_5321	68	Aqu-83c9_68_molluscs-3_5235	68	0	scallops	molluscs	100.0
+taxongroup	Mol-3928_250_scallops-15	Mol-3928_250_molluscs-4	Mol-3928_250_scallops-15_5321	250	Mol-3928_250_molluscs-4_5235	250	0	scallops	molluscs	100.0
+taxongroup	Sca-88f4_160_Scallops-1	Sca-88f4_160_molluscs-9	Sca-88f4_160_Scallops-1_5321	160	Sca-88f4_160_molluscs-9_5235	160	0	scallops	molluscs	100.0
+taxongroup	Oct-f4f7_211_scallops-23	Oct-f4f7_211_molluscs-13	Oct-f4f7_211_scallops-23_5321	211	Oct-f4f7_211_molluscs-13_5235	211	0	scallops	molluscs	100.0
+taxongroup	Her-0461_61_snails-3	Her-0461_61_animals-25	Her-0461_61_snails-3_4006	61	Her-0461_61_animals-25_44	61	0	snails and slugs	Animals	100.0
+taxongroup	Gas-eef8_88_snails-3	Gas-eef8_88_animals-20	Gas-eef8_88_snails-3_4006	88	Gas-eef8_88_animals-20_44	88	0	snails and slugs	Animals	100.0
+taxongroup	Gia-d1de_161_octopuses-7	Gia-d1de_161_animals-14	Gia-d1de_161_octopuses-7_5274	161	Gia-d1de_161_animals-14_3812	161	0	octopuses	animals	100.0
+taxongroup	Oct-f4f7_351_octopuses-4	Oct-f4f7_351_animals-9	Oct-f4f7_351_octopuses-4_5274	351	Oct-f4f7_351_animals-9_3812	351	0	octopuses	animals	100.0
+taxongroup	Oct-f4f7_351_octopuses-4	Oct-f4f7_351_animals-22	Oct-f4f7_351_octopuses-4_5274	351	Oct-f4f7_351_animals-22_3812	351	0	octopuses	animals	100.0
+taxongroup	Oct-f4f7_382_octopuses-6	Oct-f4f7_382_animals-14	Oct-f4f7_382_octopuses-6_5274	382	Oct-f4f7_382_animals-14_3812	382	0	octopuses	animals	100.0
+taxongroup	Bra-cd5f_2_molluscs-38	Bra-cd5f_2_animals-13	Bra-cd5f_2_molluscs-38_5235	2	Bra-cd5f_2_animals-13_3812	2	0	molluscs	animals	100.0
+taxongroup	Mol-3928_82_mollusc-3	Mol-3928_82_animal-10	Mol-3928_82_mollusc-3_5235	82	Mol-3928_82_animal-10_3812	82	0	molluscs	animals	100.0
+taxongroup	Mol-3928_107_molluscs-40	Mol-3928_107_animal-21	Mol-3928_107_molluscs-40_5235	107	Mol-3928_107_animal-21_3812	107	0	molluscs	animals	100.0
+taxongroup	Mol-3928_253_molluscs-8	Mol-3928_253_animals-27	Mol-3928_253_molluscs-8_5235	253	Mol-3928_253_animals-27_3812	253	0	molluscs	animals	100.0
+taxongroup	Mol-3928_43_molluscs-37	Mol-3928_43_animal-13	Mol-3928_43_molluscs-37_5235	43	Mol-3928_43_animal-13_3812	43	0	molluscs	animals	100.0
+taxongroup	Man-d9fd_119_molluscs-36	Man-d9fd_119_animals-9	Man-d9fd_119_molluscs-36_5235	119	Man-d9fd_119_animals-9_3812	119	0	molluscs	animals	100.0
+taxongroup	Ech-1003_270_molluscs-31	Ech-1003_270_animal-15	Ech-1003_270_molluscs-31_5235	270	Ech-1003_270_animal-15_3812	270	0	molluscs	animals	100.0
+taxongroup	Com-6e0a_10_molluscs-17	Com-6e0a_10_animal-7	Com-6e0a_10_molluscs-17_5235	10	Com-6e0a_10_animal-7_3812	10	0	molluscs	animals	100.0
+taxongroup	Cro-0859_15_molluscs-26	Cro-0859_15_animals-4	Cro-0859_15_molluscs-26_5235	15	Cro-0859_15_animals-4_3812	15	0	molluscs	animals	100.0
+taxongroup	Cro-9102_13_molluscs-18	Cro-9102_13_animals-11	Cro-9102_13_molluscs-18_5235	13	Cro-9102_13_animals-11_3812	13	0	molluscs	animals	100.0
+taxongroup	Con61cd_10_molluscs-25	Con61cd_10_animals-13	Con61cd_10_molluscs-25_5235	10	Con61cd_10_animals-13_3812	10	0	molluscs	animals	100.0
+taxongroup	Bra0616_3_molluscs-10	Bra0616_3_animals-4	Bra0616_3_molluscs-10_5235	3	Bra0616_3_animals-4_3812	3	0	molluscs	animals	100.0
+taxongroup	Bio-20c0_106_molluscs-25	Bio-20c0_106_animals-5	Bio-20c0_106_molluscs-25_5235	106	Bio-20c0_106_animals-5_3812	106	0	molluscs	animals	100.0
+taxongroup	Biv-02de_56_molluscs-3	Biv-02de_56_animal-14	Biv-02de_56_molluscs-3_5235	56	Biv-02de_56_animal-14_3812	56	0	molluscs	animals	100.0
+taxongroup	Fly-ac51_55_molluscs-4	Fly-ac51_55_Animals-1	Fly-ac51_55_molluscs-4_5235	55	Fly-ac51_55_Animals-1_3812	55	0	molluscs	animals	100.0
+taxongroup	Her-2dde_58_molluscs-20	Her-2dde_58_animals-9	Her-2dde_58_molluscs-20_5235	58	Her-2dde_58_animals-9_3812	58	0	molluscs	animals	100.0
+taxongroup	Hip-b9f2_425_molluscs-6	Hip-b9f2_425_animals-2	Hip-b9f2_425_molluscs-6_5235	425	Hip-b9f2_425_animals-2_3812	425	0	molluscs	animals	100.0
+taxongroup	Ani-161e_231_octopuses-17	Ani-161e_231_animals-5	Ani-161e_231_octopuses-17_5274	231	Ani-161e_231_animals-5_44	231	0	octopuses	Animals	100.0
+taxongroup	Mol-3928_70_octopuses-9	Mol-3928_70_Cephalopoda-1	Mol-3928_70_octopuses-9_5274	70	Mol-3928_70_Cephalopoda-1_385	70	0	octopuses	Cephalopoda	100.0
+taxongroup	Ven-071d_48_octopuses-49	Ven-071d_48_Molluscs-53	Ven-071d_48_octopuses-49_5274	48	Ven-071d_48_Molluscs-53_2856	48	0	octopuses	Molluscs	100.0
+taxongroup	Mol-3928_12_snails-4	Mol-3928_12_molluscs-14	Mol-3928_12_snails-4_4006	12	Mol-3928_12_molluscs-14_5235	12	0	snails and slugs	molluscs	100.0
+taxongroup	Squ-0cc5_56_squid-30	Squ-0cc5_56_animal-22	Squ-0cc5_56_squid-30_5517	56	Squ-0cc5_56_animal-22_3812	56	0	squid	animals	100.0
+taxongroup	Cep-fb80_12_squid-25	Cep-fb80_12_cephalopods-2	Cep-fb80_12_squid-25_5517	12	Cep-fb80_12_cephalopods-2_4000	12	0	squid	cephalopods	100.0
+taxongroup	Cep-fb80_60_squid-40	Cep-fb80_60_cephalopod-10	Cep-fb80_60_squid-40_5517	60	Cep-fb80_60_cephalopod-10_4000	60	0	squid	cephalopods	100.0
+taxongroup	Cam-4bd8_6_squid-45	Cam-4bd8_6_cephalopods-42	Cam-4bd8_6_squid-45_5517	6	Cam-4bd8_6_cephalopods-42_4000	6	0	squid	cephalopods	100.0
+taxongroup	Cep-fb80_2_squid-27	Cep-fb80_2_cephalopod-2	Cep-fb80_2_squid-27_5517	2	Cep-fb80_2_cephalopod-2_4000	2	0	squid	cephalopods	100.0
+taxongroup	Bio-20c0_175_squid-10	Bio-20c0_175_cephalopods-2	Bio-20c0_175_squid-10_5517	175	Bio-20c0_175_cephalopods-2_4000	175	0	squid	cephalopods	100.0
+taxongroup	Cep-fb80_64_squids-2	Cep-fb80_64_cephalopods-18	Cep-fb80_64_squids-2_5517	64	Cep-fb80_64_cephalopods-18_4000	64	0	squid	cephalopods	100.0
+taxongroup	Cep-fb80_256_squid-43	Cep-fb80_256_cephalopods-33	Cep-fb80_256_squid-43_5517	256	Cep-fb80_256_cephalopods-33_4000	256	0	squid	cephalopods	100.0
+taxongroup	Cep-fb80_87_squid-11	Cep-fb80_87_cephalopods-9	Cep-fb80_87_squid-11_5517	87	Cep-fb80_87_cephalopods-9_4000	87	0	squid	cephalopods	100.0
+taxongroup	Ind-6274_32_squid-17	Ind-6274_32_cephalopods-14	Ind-6274_32_squid-17_5517	32	Ind-6274_32_cephalopods-14_4000	32	0	squid	cephalopods	100.0
+taxongroup	Mol-3928_66_squids-15	Mol-3928_66_cephalopods-18	Mol-3928_66_squids-15_5517	66	Mol-3928_66_cephalopods-18_4000	66	0	squid	cephalopods	100.0
+taxongroup	Whi-b4c3_484_squid-24	Whi-b4c3_484_cephalopods-19	Whi-b4c3_484_squid-24_5517	484	Whi-b4c3_484_cephalopods-19_4000	484	0	squid	cephalopods	100.0
+taxongroup	Amb-b5dc_86_squid-28	Amb-b5dc_86_cephalopod-22	Amb-b5dc_86_squid-28_5517	86	Amb-b5dc_86_cephalopod-22_4000	86	0	squid	cephalopods	100.0
+taxongroup	Ste-0d9f_40_squid-35	Ste-0d9f_40_cephalopods-31	Ste-0d9f_40_squid-35_5517	40	Ste-0d9f_40_cephalopods-31_4000	40	0	squid	cephalopods	100.0
+taxongroup	Sou-ccab_33_squid-12	Sou-ccab_33_cephalopods-4	Sou-ccab_33_squid-12_5517	33	Sou-ccab_33_cephalopods-4_4000	33	0	squid	cephalopods	100.0
+taxongroup	Squ-0cc5_20_squids-18	Squ-0cc5_20_cephalopods-6	Squ-0cc5_20_squids-18_5517	20	Squ-0cc5_20_cephalopods-6_4000	20	0	squid	cephalopods	100.0
+taxongroup	Squ-0cc5_118_squids-5	Squ-0cc5_118_cephalopods-3	Squ-0cc5_118_squids-5_5517	118	Squ-0cc5_118_cephalopods-3_4000	118	0	squid	cephalopods	100.0
+taxongroup	Pre-0725_34_squid-29	Pre-0725_34_cephalopods-24	Pre-0725_34_squid-29_5517	34	Pre-0725_34_cephalopods-24_4000	34	0	squid	cephalopods	100.0
+taxongroup	Mol-3928_250_squids-8	Mol-3928_250_molluscs-4	Mol-3928_250_squids-8_5517	250	Mol-3928_250_molluscs-4_5235	250	0	squid	molluscs	100.0
+taxongroup	Mol-3928_11_squid-26	Mol-3928_11_molluscs-2	Mol-3928_11_squid-26_5517	11	Mol-3928_11_molluscs-2_5235	11	0	squid	molluscs	100.0
+taxongroup	Mol-3928_11_squid-30	Mol-3928_11_molluscs-2	Mol-3928_11_squid-30_5517	11	Mol-3928_11_molluscs-2_5235	11	0	squid	molluscs	100.0
+taxongroup	Squ-0cc5_2_squid-2	Squ-0cc5_2_mollusc-9	Squ-0cc5_2_squid-2_5517	2	Squ-0cc5_2_mollusc-9_5235	2	0	squid	molluscs	100.0
+taxongroup	Squ-0cc5_56_squid-30	Squ-0cc5_56_mollusc-2	Squ-0cc5_56_squid-30_5517	56	Squ-0cc5_56_mollusc-2_5235	56	0	squid	molluscs	100.0
+taxongroup	Ani-161e_194_squids-22	Ani-161e_194_molluscs-2	Ani-161e_194_squids-22_5517	194	Ani-161e_194_molluscs-2_5235	194	0	squid	molluscs	100.0
+taxongroup	Amb-b5dc_86_squid-28	Amb-b5dc_86_molluscs-23	Amb-b5dc_86_squid-28_5517	86	Amb-b5dc_86_molluscs-23_5235	86	0	squid	molluscs	100.0
+taxongroup	Sem-88a0_20_squid-30	Sem-88a0_20_molluscs-24	Sem-88a0_20_squid-30_5517	20	Sem-88a0_20_molluscs-24_5235	20	0	squid	molluscs	100.0
+taxongroup	Spa-e46a_405_squid-5	Spa-e46a_405_molluscs-26	Spa-e46a_405_squid-5_5517	405	Spa-e46a_405_molluscs-26_5235	405	0	squid	molluscs	100.0
+taxongroup	Squ-0cc5_2_squid-2	Squ-0cc5_2_molluscs-33	Squ-0cc5_2_squid-2_5517	2	Squ-0cc5_2_molluscs-33_5235	2	0	squid	molluscs	100.0
+taxongroup	Squ-0cc5_141_squids-2	Squ-0cc5_141_animal-28	Squ-0cc5_141_squids-2_5517	141	Squ-0cc5_141_animal-28_3812	141	0	squid	animals	100.0
+taxongroup	Squ-0cc5_230_squid-11	Squ-0cc5_230_animal-16	Squ-0cc5_230_squid-11_5517	230	Squ-0cc5_230_animal-16_3812	230	0	squid	animals	100.0
+taxongroup	Sty-a835_2_snails-10	Sty-a835_2_molluscs-17	Sty-a835_2_snails-10_4006	2	Sty-a835_2_molluscs-17_5235	2	0	snails and slugs	molluscs	100.0
+taxongroup	Spe-c6ef_107_squid-17	Spe-c6ef_107_animals-23	Spe-c6ef_107_squid-17_5517	107	Spe-c6ef_107_animals-23_3812	107	0	squid	animals	100.0
+taxongroup	Mol-3928_300_snails-8	Mol-3928_300_molluscs-4	Mol-3928_300_snails-8_4006	300	Mol-3928_300_molluscs-4_5235	300	0	snails and slugs	molluscs	100.0
+taxongroup	Cep-fb80_462_squid-22	Cep-fb80_462_animals-37	Cep-fb80_462_squid-22_5517	462	Cep-fb80_462_animals-37_44	462	0	squid	Animals	100.0
+taxongroup	Cep-fb80_340_squids-3	Cep-fb80_340_animals-31	Cep-fb80_340_squids-3_5517	340	Cep-fb80_340_animals-31_44	340	0	squid	Animals	100.0
+taxongroup	Bio-20c0_148_squid-11	Bio-20c0_148_animals-3	Bio-20c0_148_squid-11_5517	148	Bio-20c0_148_animals-3_44	148	0	squid	Animals	100.0
+taxongroup	Bio-20c0_148_squid-11	Bio-20c0_148_animal-26	Bio-20c0_148_squid-11_5517	148	Bio-20c0_148_animal-26_44	148	0	squid	Animals	100.0
+taxongroup	Ich-89df_474_squids-40	Ich-89df_474_animals-30	Ich-89df_474_squids-40_5517	474	Ich-89df_474_animals-30_44	474	0	squid	Animals	100.0
+taxongroup	Ani-161e_194_squids-22	Ani-161e_194_animal-8	Ani-161e_194_squids-22_5517	194	Ani-161e_194_animal-8_44	194	0	squid	Animals	100.0
+taxongroup	Sem-88a0_20_squid-30	Sem-88a0_20_animals-3	Sem-88a0_20_squid-30_5517	20	Sem-88a0_20_animals-3_44	20	0	squid	Animals	100.0
+taxongroup	Spa-e46a_40_squid-10	Spa-e46a_40_animals-3	Spa-e46a_40_squid-10_5517	40	Spa-e46a_40_animals-3_44	40	0	squid	Animals	100.0
+taxongroup	Squ-0cc5_41_squid-7	Squ-0cc5_41_animal-26	Squ-0cc5_41_squid-7_5517	41	Squ-0cc5_41_animal-26_44	41	0	squid	Animals	100.0
+taxongroup	Hum-2735_146_squid-25	Hum-2735_146_animals-36	Hum-2735_146_squid-25_5517	146	Hum-2735_146_animals-36_44	146	0	squid	Animals	100.0
+taxongroup	Cep-fb80_2_squid-27	Cep-fb80_2_Cephalopoda-10	Cep-fb80_2_squid-27_5517	2	Cep-fb80_2_Cephalopoda-10_385	2	0	squid	Cephalopoda	100.0
+taxongroup	Com-c2e9_52_squid-5	Com-c2e9_52_Cephalopod-2	Com-c2e9_52_squid-5_5517	52	Com-c2e9_52_Cephalopod-2_386	52	0	squid	Cephalopods	100.0
+taxongroup	Bra-cd5f_44_molluscs-29	Bra-cd5f_44_animal-25	Bra-cd5f_44_molluscs-29_5235	44	Bra-cd5f_44_animal-25_3812	44	0	molluscs	animals	100.0
+taxongroup	Mol-3928_2_molluscs-19	Mol-3928_2_animals-10	Mol-3928_2_molluscs-19_5235	2	Mol-3928_2_animals-10_3812	2	0	molluscs	animals	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_cuttlefish-43_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_cuttlefish-61_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_cuttlefish-113_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_cuttlefish-119_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_cuttlefish-128_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_cuttlefish-22_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_cuttlefish-43_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_cuttlefish-56_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_cuttlefish-29_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_cuttlefish-98_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_cuttlefish-72_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_cuttlefish-128_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_cuttlefish-72_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_cuttlefish-119_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_cuttlefish-56_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_cuttlefish-72_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Mol-3928_133_molluscs-7	Mol-3928_133_animal-15	Mol-3928_133_molluscs-7_5235	133	Mol-3928_133_animal-15_3812	133	0	molluscs	animals	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_cuttlefish-98_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-98_4803	11	Sep-9969_11_cuttlefish-98_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_cuttlefish-98_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_cuttlefish-72_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_cuttlefish-61_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_cuttlefish-56_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_cuttlefish-43_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_cuttlefish-29_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_cuttlefish-22_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-113_4803	11	Sep-9969_11_cuttlefish-43_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_cuttlefish-29_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_cuttlefish-113_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_cuttlefish-119_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-29_4803	11	Sep-9969_11_cuttlefish-61_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_cuttlefish-98_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-119_4803	11	Sep-9969_11_cuttlefish-98_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-119_4803	11	Sep-9969_11_cuttlefish-72_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_cuttlefish-113_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-119_4803	11	Sep-9969_11_cuttlefish-22_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-119_4803	11	Sep-9969_11_cuttlefish-43_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_cuttlefish-128_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_cuttlefish-113_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_cuttlefish-43_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_cuttlefish-61_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_cuttlefish-29_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_cuttlefish-98_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_cuttlefish-72_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_cuttlefish-61_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_cuttlefish-56_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_cuttlefish-43_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_cuttlefish-29_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_cuttlefish-128_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-128_4803	11	Sep-9969_11_cuttlefish-119_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_cuttlefish-98_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-98	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_cuttlefish-98_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_cuttlefish-119_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_cuttlefish-22_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_cuttlefish-29_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_cuttlefish-43_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_cuttlefish-56_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_cuttlefish-61_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-61_4803	11	Sep-9969_11_cuttlefish-72_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-56_4803	11	Sep-9969_11_cuttlefish-113_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-61	Sep-9969_11_cuttlefish-119_4803	11	Sep-9969_11_cuttlefish-61_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_cuttlefish-128_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-43	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-43_4803	11	Sep-9969_11_cuttlefish-22_1276	11	0	common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Cep-fb80_60_cuttlefish-49	Cep-fb80_60_cephalopod-10	Cep-fb80_60_cuttlefish-49_4803	60	Cep-fb80_60_cephalopod-10_4000	60	0	common cuttlefish	cephalopods	100.0
+taxongroup	Ani-161e_210_molluscs-16	Ani-161e_210_animals-27	Ani-161e_210_molluscs-16_5235	210	Ani-161e_210_animals-27_3812	210	0	molluscs	animals	100.0
+taxongroup	Ani-161e_194_molluscs-2	Ani-161e_194_animal-8	Ani-161e_194_molluscs-2_5235	194	Ani-161e_194_animal-8_3812	194	0	molluscs	animals	100.0
+taxongroup	Ani-161e_5_molluscs-22	Ani-161e_5_animal-5	Ani-161e_5_molluscs-22_5235	5	Ani-161e_5_animal-5_3812	5	0	molluscs	animals	100.0
+taxongroup	Ani-161e_210_molluscs-16	Ani-161e_210_animal-33	Ani-161e_210_molluscs-16_5235	210	Ani-161e_210_animal-33_3812	210	0	molluscs	animals	100.0
+taxongroup	Ani-161e_207_molluscs-38	Ani-161e_207_animals-41	Ani-161e_207_molluscs-38_5235	207	Ani-161e_207_animals-41_3812	207	0	molluscs	animals	100.0
+taxongroup	Ant-f3cd_99_molluscs-19	Ant-f3cd_99_animals-2	Ant-f3cd_99_molluscs-19_5235	99	Ant-f3cd_99_animals-2_3812	99	0	molluscs	animals	100.0
+taxongroup	Ani-161e_207_molluscs-38	Ani-161e_207_animals-16	Ani-161e_207_molluscs-38_5235	207	Ani-161e_207_animals-16_3812	207	0	molluscs	animals	100.0
+taxongroup	Ani-161e_210_molluscs-16	Ani-161e_210_animals-4	Ani-161e_210_molluscs-16_5235	210	Ani-161e_210_animals-4_3812	210	0	molluscs	animals	100.0
+taxongroup	Squ-0cc5_56_mollusc-2	Squ-0cc5_56_animal-22	Squ-0cc5_56_mollusc-2_5235	56	Squ-0cc5_56_animal-22_3812	56	0	molluscs	animals	100.0
+taxongroup	Spe-51aa_48_molluscs-25	Spe-51aa_48_animals-6	Spe-51aa_48_molluscs-25_5235	48	Spe-51aa_48_animals-6_3812	48	0	molluscs	animals	100.0
+taxongroup	Cam-4bd8_224_molluscs-28	Cam-4bd8_224_animals-5	Cam-4bd8_224_molluscs-28_5235	224	Cam-4bd8_224_animals-5_3812	224	0	molluscs	animals	100.0
+taxongroup	Cep-fb80_60_cuttlefish-56	Cep-fb80_60_cephalopod-10	Cep-fb80_60_cuttlefish-56_4803	60	Cep-fb80_60_cephalopod-10_4000	60	0	common cuttlefish	cephalopods	100.0
+taxongroup	Con-acfe_14_snails-12	Con-acfe_14_Conidae-18	Con-acfe_14_snails-12_4823	14	Con-acfe_14_Conidae-18_545	14	0	cone snails	Conidae	100.0
+taxongroup	Con-acfe_119_snails-22	Con-acfe_119_Conidae-13	Con-acfe_119_snails-22_4823	119	Con-acfe_119_Conidae-13_545	119	0	cone snails	Conidae	100.0
+taxongroup	Con-acfe_184_snails-9	Con-acfe_184_Gastropoda-11	Con-acfe_184_snails-9_4823	184	Con-acfe_184_Gastropoda-11_393	184	0	cone snails	Gastropoda	100.0
+taxongroup	Neo-e8a9_16_snails-11	Neo-e8a9_16_Neogastropoda-1	Neo-e8a9_16_snails-11_4823	16	Neo-e8a9_16_Neogastropoda-1_3758	16	0	cone snails	Neogastropoda	100.0
+taxongroup	Neo-e8a9_16_snails-16	Neo-e8a9_16_Neogastropoda-1	Neo-e8a9_16_snails-16_4823	16	Neo-e8a9_16_Neogastropoda-1_3758	16	0	cone snails	Neogastropoda	100.0
+taxongroup	Neo-e8a9_16_snails-19	Neo-e8a9_16_Neogastropoda-1	Neo-e8a9_16_snails-19_4823	16	Neo-e8a9_16_Neogastropoda-1_3758	16	0	cone snails	Neogastropoda	100.0
+taxongroup	Con-acfe_2_snails-11	Con-acfe_2_molluscs-29	Con-acfe_2_snails-11_4823	2	Con-acfe_2_molluscs-29_5235	2	0	cone snails	molluscs	100.0
+taxongroup	Con-acfe_2_snails-25	Con-acfe_2_molluscs-29	Con-acfe_2_snails-25_4823	2	Con-acfe_2_molluscs-29_5235	2	0	cone snails	molluscs	100.0
+taxongroup	Gri-95f2_2_octopuses-16	Gri-95f2_2_octopuses-16	Gri-95f2_2_octopuses-16_5066	2	Gri-95f2_2_octopuses-16_5274	2	0	dumbo octopuses	octopuses	100.0
+taxongroup	Cor-7fba_135_snail-85	Cor-7fba_135_Helix-90	Cor-7fba_135_snail-85_5088	135	Cor-7fba_135_Helix-90_1069	135	0	garden snail	Helix	100.0
+taxongroup	Cor-7fba_135_snail-32	Cor-7fba_135_Helix-90	Cor-7fba_135_snail-32_5088	135	Cor-7fba_135_Helix-90_1069	135	0	garden snail	Helix	100.0
+taxongroup	Hel-28c5_5_snail-17	Hel-28c5_5_Helix-5	Hel-28c5_5_snail-17_5088	5	Hel-28c5_5_Helix-5_1069	5	0	garden snail	Helix	100.0
+taxongroup	Gia-2984_2_cuttlefish-3	Gia-2984_2_Sepia-15	Gia-2984_2_cuttlefish-3_4649	2	Gia-2984_2_Sepia-15_1275	2	0	giant cuttlefish	Sepia	100.0
+taxongroup	Cut-3792_6_cuttlefish-25	Cut-3792_6_Sepia-27	Cut-3792_6_cuttlefish-25_4649	6	Cut-3792_6_Sepia-27_1275	6	0	giant cuttlefish	Sepia	100.0
+taxongroup	Gia-2984_2_cuttlefish-11	Gia-2984_2_Sepia-15	Gia-2984_2_cuttlefish-11_4649	2	Gia-2984_2_Sepia-15_1275	2	0	giant cuttlefish	Sepia	100.0
+taxongroup	Com-c2e9_11_cuttlefish-16	Com-c2e9_11_Sepia-1	Com-c2e9_11_cuttlefish-16_4803	11	Com-c2e9_11_Sepia-1_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-62	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-62_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-57	Sep-9969_11_cuttlefish-72_4803	11	Sep-9969_11_Sepia-57_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-35	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-35_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-8	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-8_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-101	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-101_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-23	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-23_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-94	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-94_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-92	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-92_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-8	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-8_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-13	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-13_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-85	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-85_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-101	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-101_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-103	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-103_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-10	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-10_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-6	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-6_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-62	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-62_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-1	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-1_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-37	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-37_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-48	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-48_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-46	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-46_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-44	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-44_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-90	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-90_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-80	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-80_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-85	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-85_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-68	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-68_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-99	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-99_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-39	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-39_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-17	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-17_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-14	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-14_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-13	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-13_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-10	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-10_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-103	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-103_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-99	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-99_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-23	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-23_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-30	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-30_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-35	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-35_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-1	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-1_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-94	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-94_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-92	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-92_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-68	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-68_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-62	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-62_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-39	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-39_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-113	Sep-9969_11_Sepia-37	Sep-9969_11_cuttlefish-113_1931	11	Sep-9969_11_Sepia-37_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Nau-13d7_59_Cephalopod-11	Nau-13d7_59_Mollusca-17	Nau-13d7_59_Cephalopod-11_386	59	Nau-13d7_59_Mollusca-17_2857	59	0	Cephalopods	Mollusca	100.0
+taxongroup	Sep-9969_11_cuttlefish-98	Sep-9969_11_Sepia-99	Sep-9969_11_cuttlefish-98_1931	11	Sep-9969_11_Sepia-99_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-75	Sep-9969_11_cuttlefish-22_1931	11	Sep-9969_11_Sepia-75_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-99	Sep-9969_11_cuttlefish-22_1931	11	Sep-9969_11_Sepia-99_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-94	Sep-9969_11_cuttlefish-22_1931	11	Sep-9969_11_Sepia-94_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-92	Sep-9969_11_cuttlefish-22_1931	11	Sep-9969_11_Sepia-92_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-90	Sep-9969_11_cuttlefish-22_1931	11	Sep-9969_11_Sepia-90_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-85	Sep-9969_11_cuttlefish-22_1931	11	Sep-9969_11_Sepia-85_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-80	Sep-9969_11_cuttlefish-22_1931	11	Sep-9969_11_Sepia-80_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-73	Sep-9969_11_cuttlefish-22_1931	11	Sep-9969_11_Sepia-73_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-6	Sep-9969_11_cuttlefish-22_1931	11	Sep-9969_11_Sepia-6_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-68	Sep-9969_11_cuttlefish-22_1931	11	Sep-9969_11_Sepia-68_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-57	Sep-9969_11_cuttlefish-22_1931	11	Sep-9969_11_Sepia-57_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-8	Sep-9969_11_cuttlefish-22_1931	11	Sep-9969_11_Sepia-8_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-85	Sep-9969_11_cuttlefish-72_1931	11	Sep-9969_11_Sepia-85_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-8	Sep-9969_11_cuttlefish-72_1931	11	Sep-9969_11_Sepia-8_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Cep-fb80_60_cuttlefish-56	Cep-fb80_60_Sepia-58	Cep-fb80_60_cuttlefish-56_1931	60	Cep-fb80_60_Sepia-58_1275	60	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-90	Sep-9969_11_cuttlefish-72_1931	11	Sep-9969_11_Sepia-90_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-94	Sep-9969_11_cuttlefish-128_1931	11	Sep-9969_11_Sepia-94_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-128	Sep-9969_11_Sepia-92	Sep-9969_11_cuttlefish-128_1931	11	Sep-9969_11_Sepia-92_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-80	Sep-9969_11_cuttlefish-72_1931	11	Sep-9969_11_Sepia-80_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-62	Sep-9969_11_cuttlefish-22_1931	11	Sep-9969_11_Sepia-62_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-73	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-73_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-14	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-14_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-14	Sep-9969_11_cuttlefish-72_1931	11	Sep-9969_11_Sepia-14_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-30	Sep-9969_11_cuttlefish-29_1931	11	Sep-9969_11_Sepia-30_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-90	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-90_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-29	Sep-9969_11_Sepia-39	Sep-9969_11_cuttlefish-29_1931	11	Sep-9969_11_Sepia-39_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-52	Sep-9969_11_cuttlefish-22_1931	11	Sep-9969_11_Sepia-52_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-99	Sep-9969_11_cuttlefish-72_1931	11	Sep-9969_11_Sepia-99_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Com-c2e9_2_cuttlefish-7	Com-c2e9_2_Sepia-9	Com-c2e9_2_cuttlefish-7_1931	2	Com-c2e9_2_Sepia-9_1275	2	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-101	Sep-9969_11_cuttlefish-72_1931	11	Sep-9969_11_Sepia-101_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-103	Sep-9969_11_cuttlefish-72_1931	11	Sep-9969_11_Sepia-103_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-10	Sep-9969_11_cuttlefish-72_1931	11	Sep-9969_11_Sepia-10_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_Sepia-13	Sep-9969_11_cuttlefish-72_1931	11	Sep-9969_11_Sepia-13_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Cep-fb80_255_ammonites-9	Cep-fb80_255_cephalopods-6	Cep-fb80_255_ammonites-9_4597	255	Cep-fb80_255_cephalopods-6_4000	255	0	ammonites	cephalopods	100.0
+taxongroup	Hum-2735_151_Squid-9	Hum-2735_151_Cephalopod-1	Hum-2735_151_Squid-9_3416	151	Hum-2735_151_Cephalopod-1_386	151	0	Squid	Cephalopods	100.0
+taxongroup	Amm-d362_192_ammonites-15	Amm-d362_192_animal-34	Amm-d362_192_ammonites-15_4597	192	Amm-d362_192_animal-34_44	192	0	ammonites	Animals	100.0
+taxongroup	Din-756f_542_ammonites-27	Din-756f_542_animals-8	Din-756f_542_ammonites-27_4597	542	Din-756f_542_animals-8_44	542	0	ammonites	Animals	100.0
+taxongroup	Amm-d362_257_ammonites-10	Amm-d362_257_Cephalopod-21	Amm-d362_257_ammonites-10_4597	257	Amm-d362_257_Cephalopod-21_386	257	0	ammonites	Cephalopods	100.0
+taxongroup	Amm-d362_257_ammonites-2	Amm-d362_257_Cephalopod-21	Amm-d362_257_ammonites-2_4597	257	Amm-d362_257_Cephalopod-21_386	257	0	ammonites	Cephalopods	100.0
+taxongroup	Mol-3928_211_ammonite-71	Mol-3928_211_cephalopod-33	Mol-3928_211_ammonite-71_4597	211	Mol-3928_211_cephalopod-33_4000	211	0	ammonites	cephalopods	100.0
+taxongroup	Mol-3928_211_ammonite-71	Mol-3928_211_cephalopod-11	Mol-3928_211_ammonite-71_4597	211	Mol-3928_211_cephalopod-11_4000	211	0	ammonites	cephalopods	100.0
+taxongroup	Amm-5730_2_ammonites-5	Amm-5730_2_cephalopods-12	Amm-5730_2_ammonites-5_4597	2	Amm-5730_2_cephalopods-12_4000	2	0	ammonites	cephalopods	100.0
+taxongroup	Gas-eef8_166_ammonites-8	Gas-eef8_166_cephalopods-12	Gas-eef8_166_ammonites-8_4597	166	Gas-eef8_166_cephalopods-12_4000	166	0	ammonites	cephalopods	100.0
+taxongroup	Amm-d362_67_ammonite-25	Amm-d362_67_mollusc-12	Amm-d362_67_ammonite-25_4597	67	Amm-d362_67_mollusc-12_5235	67	0	ammonites	molluscs	100.0
+taxongroup	Amm-d362_67_ammonite-6	Amm-d362_67_mollusc-12	Amm-d362_67_ammonite-6_4597	67	Amm-d362_67_mollusc-12_5235	67	0	ammonites	molluscs	100.0
+taxongroup	Ani-2170_330_cephalopods-32	Ani-2170_330_animals-21	Ani-2170_330_cephalopods-32_4000	330	Ani-2170_330_animals-21_44	330	0	cephalopods	Animals	100.0
+taxongroup	Ani-2170_6_cephalopods-58	Ani-2170_6_animal-4	Ani-2170_6_cephalopods-58_4000	6	Ani-2170_6_animal-4_44	6	0	cephalopods	Animals	100.0
+taxongroup	Cep-fb80_410_cephalopods-46	Cep-fb80_410_animal-36	Cep-fb80_410_cephalopods-46_4000	410	Cep-fb80_410_animal-36_44	410	0	cephalopods	Animals	100.0
+taxongroup	Amb-b5dc_8_cephalopods-22	Amb-b5dc_8_animal-8	Amb-b5dc_8_cephalopods-22_4000	8	Amb-b5dc_8_animal-8_44	8	0	cephalopods	Animals	100.0
+taxongroup	Cep-fb80_29_cephalopod-7	Cep-fb80_29_animals-41	Cep-fb80_29_cephalopod-7_4000	29	Cep-fb80_29_animals-41_44	29	0	cephalopods	Animals	100.0
+taxongroup	Ant-f3cd_49_cephalopods-17	Ant-f3cd_49_animals-5	Ant-f3cd_49_cephalopods-17_4000	49	Ant-f3cd_49_animals-5_44	49	0	cephalopods	Animals	100.0
+taxongroup	Bio-20c0_106_cephalopod-24	Bio-20c0_106_animals-5	Bio-20c0_106_cephalopod-24_4000	106	Bio-20c0_106_animals-5_44	106	0	cephalopods	Animals	100.0
+taxongroup	Oct-f4f7_323_cephalopods-5	Oct-f4f7_323_animals-10	Oct-f4f7_323_cephalopods-5_4000	323	Oct-f4f7_323_animals-10_44	323	0	cephalopods	Animals	100.0
+taxongroup	Ant-f3cd_49_cephalopods-17	Ant-f3cd_49_animal-54	Ant-f3cd_49_cephalopods-17_4000	49	Ant-f3cd_49_animal-54_44	49	0	cephalopods	Animals	100.0
+taxongroup	Oct-f4f7_107_cephalopod-7	Oct-f4f7_107_animals-41	Oct-f4f7_107_cephalopod-7_4000	107	Oct-f4f7_107_animals-41_44	107	0	cephalopods	Animals	100.0
+taxongroup	Ant-f3cd_242_cephalopods-14	Ant-f3cd_242_Animals-19	Ant-f3cd_242_cephalopods-14_4000	242	Ant-f3cd_242_Animals-19_44	242	0	cephalopods	Animals	100.0
+taxongroup	Ven-071d_48_cephalopods-46	Ven-071d_48_Molluscs-53	Ven-071d_48_cephalopods-46_4000	48	Ven-071d_48_Molluscs-53_2856	48	0	cephalopods	Molluscs	100.0
+taxongroup	Con-438a_2_snails-2	Con-438a_2_Conidae-15	Con-438a_2_snails-2_1966	2	Con-438a_2_Conidae-15_545	2	0	Cone snails	Conidae	100.0
+taxongroup	Con-438a_2_snails-11	Con-438a_2_Conidae-15	Con-438a_2_snails-11_1966	2	Con-438a_2_Conidae-15_545	2	0	Cone snails	Conidae	100.0
+taxongroup	Asc-4810_255_Gastropoda-20	Asc-4810_255_animals-11	Asc-4810_255_Gastropoda-20_393	255	Asc-4810_255_animals-11_44	255	0	Gastropoda	Animals	100.0
+taxongroup	Cor-7fba_130_Gastropoda-10	Cor-7fba_130_Mollusca-8	Cor-7fba_130_Gastropoda-10_393	130	Cor-7fba_130_Mollusca-8_2857	130	0	Gastropoda	Mollusca	100.0
+taxongroup	Gas-eef8_2_Gastropoda-25	Gas-eef8_2_Mollusca-23	Gas-eef8_2_Gastropoda-25_393	2	Gas-eef8_2_Mollusca-23_2857	2	0	Gastropoda	Mollusca	100.0
+taxongroup	Gas-eef8_5_Gastropoda-3	Gas-eef8_5_Mollusca-16	Gas-eef8_5_Gastropoda-3_393	5	Gas-eef8_5_Mollusca-16_2857	5	0	Gastropoda	Mollusca	100.0
+taxongroup	Gas-eef8_9_Gastropoda-1	Gas-eef8_9_Mollusca-21	Gas-eef8_9_Gastropoda-1_393	9	Gas-eef8_9_Mollusca-21_2857	9	0	Gastropoda	Mollusca	100.0
+taxongroup	Mol-3928_2_Mollusca-1	Mol-3928_2_animals-10	Mol-3928_2_Mollusca-1_2857	2	Mol-3928_2_animals-10_44	2	0	Mollusca	Animals	100.0
+taxongroup	Gia-d1de_2_octopus-17	Gia-d1de_2_cephalopod-23	Gia-d1de_2_octopus-17_2930	2	Gia-d1de_2_cephalopod-23_4000	2	0	North Pacific giant octopus	cephalopods	100.0
+taxongroup	Oct-f4f7_2_Octopoda-22	Oct-f4f7_2_mollusc-18	Oct-f4f7_2_Octopoda-22_2938	2	Oct-f4f7_2_mollusc-18_5235	2	0	Octopoda	molluscs	100.0
+taxongroup	Sep-9969_4_Sepia-22	Sep-9969_4_Sepiida-2	Sep-9969_4_Sepia-22_1275	4	Sep-9969_4_Sepiida-2_3742	4	0	Sepia	Sepiida	100.0
+taxongroup	Cep-fb80_317_Sepia-13	Cep-fb80_317_cephalopods-10	Cep-fb80_317_Sepia-13_1275	317	Cep-fb80_317_cephalopods-10_4000	317	0	Sepia	cephalopods	100.0
+taxongroup	Cep-fb80_60_Sepia-58	Cep-fb80_60_cephalopod-10	Cep-fb80_60_Sepia-58_1275	60	Cep-fb80_60_cephalopod-10_4000	60	0	Sepia	cephalopods	100.0
+taxongroup	Sep-4f87_10_Sepia-1	Sep-4f87_10_cephalopod-3	Sep-4f87_10_Sepia-1_1275	10	Sep-4f87_10_cephalopod-3_4000	10	0	Sepia	cephalopods	100.0
+taxongroup	Sep-4f87_17_Sepia-1	Sep-4f87_17_cephalopod-3	Sep-4f87_17_Sepia-1_1275	17	Sep-4f87_17_cephalopod-3_4000	17	0	Sepia	cephalopods	100.0
+taxongroup	Sep-4f87_1_Sepia-1	Sep-4f87_1_cephalopod-3	Sep-4f87_1_Sepia-1_1275	1	Sep-4f87_1_cephalopod-3_4000	1	0	Sepia	cephalopods	100.0
+taxongroup	Sep-4f87_18_Sepia-1	Sep-4f87_18_cephalopod-3	Sep-4f87_18_Sepia-1_1275	18	Sep-4f87_18_cephalopod-3_4000	18	0	Sepia	cephalopods	100.0
+taxongroup	Sep-4f87_5_Sepia-1	Sep-4f87_5_cephalopod-3	Sep-4f87_5_Sepia-1_1275	5	Sep-4f87_5_cephalopod-3_4000	5	0	Sepia	cephalopods	100.0
+taxongroup	Cep-fb80_60_Sepia-51	Cep-fb80_60_cephalopod-10	Cep-fb80_60_Sepia-51_1275	60	Cep-fb80_60_cephalopod-10_4000	60	0	Sepia	cephalopods	100.0
+taxongroup	Cam-4bd8_61_Sepia-36	Cam-4bd8_61_cephalopods-10	Cam-4bd8_61_Sepia-36_1275	61	Cam-4bd8_61_cephalopods-10_4000	61	0	Sepia	cephalopods	100.0
+taxongroup	Cam-4bd8_61_Sepia-36	Cam-4bd8_61_cephalopods-45	Cam-4bd8_61_Sepia-36_1275	61	Cam-4bd8_61_cephalopods-45_4000	61	0	Sepia	cephalopods	100.0
+taxongroup	Cam-4bd8_61_Sepia-36	Cam-4bd8_61_cephalopods-4	Cam-4bd8_61_Sepia-36_1275	61	Cam-4bd8_61_cephalopods-4_4000	61	0	Sepia	cephalopods	100.0
+taxongroup	Sep-9969_11_cuttlefish-22	Sep-9969_11_Sepia-48	Sep-9969_11_cuttlefish-22_4803	11	Sep-9969_11_Sepia-48_1275	11	0	common cuttlefish	Sepia	100.0
+taxongroup	Ani-161e_220_cephalopods-3	Ani-161e_220_molluscs-11	Ani-161e_220_cephalopods-3_4000	220	Ani-161e_220_molluscs-11_5235	220	0	cephalopods	molluscs	100.0
+taxongroup	Cep-fb80_155_cephalopods-5	Cep-fb80_155_molluscs-3	Cep-fb80_155_cephalopods-5_4000	155	Cep-fb80_155_molluscs-3_5235	155	0	cephalopods	molluscs	100.0
+taxongroup	Amb-b5dc_86_cephalopod-22	Amb-b5dc_86_molluscs-23	Amb-b5dc_86_cephalopod-22_4000	86	Amb-b5dc_86_molluscs-23_5235	86	0	cephalopods	molluscs	100.0
+taxongroup	Cep95f7_8_cephalopods-2	Cep95f7_8_molluscs-7	Cep95f7_8_cephalopods-2_4000	8	Cep95f7_8_molluscs-7_5235	8	0	cephalopods	molluscs	100.0
+taxongroup	Cep-fb80_403_cephalopods-6	Cep-fb80_403_molluscs-4	Cep-fb80_403_cephalopods-6_4000	403	Cep-fb80_403_molluscs-4_5235	403	0	cephalopods	molluscs	100.0
+taxongroup	Bio-20c0_106_cephalopod-24	Bio-20c0_106_molluscs-25	Bio-20c0_106_cephalopod-24_4000	106	Bio-20c0_106_molluscs-25_5235	106	0	cephalopods	molluscs	100.0
+taxongroup	Oct-f4f7_316_cephalopods-6	Oct-f4f7_316_molluscs-14	Oct-f4f7_316_cephalopods-6_4000	316	Oct-f4f7_316_molluscs-14_5235	316	0	cephalopods	molluscs	100.0
+taxongroup	Oct-f4f7_316_cephalopods-11	Oct-f4f7_316_molluscs-14	Oct-f4f7_316_cephalopods-11_4000	316	Oct-f4f7_316_molluscs-14_5235	316	0	cephalopods	molluscs	100.0
+taxongroup	Oct-f4f7_308_cephalopods-18	Oct-f4f7_308_molluscs-14	Oct-f4f7_308_cephalopods-18_4000	308	Oct-f4f7_308_molluscs-14_5235	308	0	cephalopods	molluscs	100.0
+taxongroup	Oct-f4f7_308_cephalopods-5	Oct-f4f7_308_molluscs-14	Oct-f4f7_308_cephalopods-5_4000	308	Oct-f4f7_308_molluscs-14_5235	308	0	cephalopods	molluscs	100.0
+taxongroup	Oct-f4f7_210_cephalopods-38	Oct-f4f7_210_molluscs-20	Oct-f4f7_210_cephalopods-38_4000	210	Oct-f4f7_210_molluscs-20_5235	210	0	cephalopods	molluscs	100.0
+taxongroup	Aqu-83c9_69_cephalopods-9	Aqu-83c9_69_molluscs-2	Aqu-83c9_69_cephalopods-9_4000	69	Aqu-83c9_69_molluscs-2_5235	69	0	cephalopods	molluscs	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-72_1931	11	Sep-9969_11_cuttlefish-56_1276	11	0	Common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-75	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-75_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-50	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-50_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-52	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-52_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-57	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-57_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_Sepia-17	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_Sepia-17_1275	11	0	Common cuttlefish	Sepia	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-56	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_cuttlefish-56_1276	11	0	Common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-29	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_cuttlefish-29_1276	11	0	Common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_cuttlefish-128_1276	11	0	Common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-113	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_cuttlefish-113_1276	11	0	Common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-119_1931	11	Sep-9969_11_cuttlefish-119_1276	11	0	Common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-22	Sep-9969_11_cuttlefish-72_1931	11	Sep-9969_11_cuttlefish-22_1276	11	0	Common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-119	Sep-9969_11_cuttlefish-72_1931	11	Sep-9969_11_cuttlefish-119_1276	11	0	Common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Sep-9969_11_cuttlefish-72	Sep-9969_11_cuttlefish-128	Sep-9969_11_cuttlefish-72_1931	11	Sep-9969_11_cuttlefish-128_1276	11	0	Common cuttlefish	Sepia cuttlefish	100.0
+taxongroup	Squ-0cc5_154_squid-4	Squ-0cc5_154_mollusc-9	Squ-0cc5_154_squid-4_5517	154	Squ-0cc5_154_mollusc-9_5235	154	0	squid	molluscs	100.0

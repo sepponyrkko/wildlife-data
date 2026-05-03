@@ -1,0 +1,8 @@
+rel_role	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	1.0	0.0	0.0	0.0	0.0	0.0	0.0	Carnivora__order	351
+adaptation_topic	0.0	1.0	0.0	0.0	0.0	0.0	0.001	Carnivora__order	393
+free_topic	0.0	0.0	1.0	0.0	0.0	0.0	0.001	Carnivora__order	972
+location_comment	0.0	0.0	0.0	1.0	0.0	0.0	0.0	Carnivora__order	366
+location_topic	0.0	0.0	0.0	0.0	1.0	0.0	0.0	Carnivora__order	476
+taxongroup_comment	0.0	0.0	0.0	0.0	0.0	1.0	0.0	Carnivora__order	414
+taxongroup_topic	0.0	0.001	0.001	0.0	0.0	0.0	1.0	Carnivora__order	396

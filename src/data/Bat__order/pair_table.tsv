@@ -1,0 +1,993 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Com07fd_2_bat-9	Com07fd_3_rainforest-11	Com07fd_2_bat-9_1913	2	Com07fd_3_rainforest-11_3811	3	1	Common blossom bat	rainforest	50.0
+location	Com07fd_2_bats-3	Com07fd_3_rainforest-11	Com07fd_2_bats-3_1913	2	Com07fd_3_rainforest-11_3811	3	1	Common blossom bat	rainforest	50.0
+location	Com-a11e_13_bat-3	Com-a11e_12_rainforests-7	Com-a11e_13_bat-3_1913	13	Com-a11e_12_rainforests-7_3811	12	1	Common blossom bat	rainforest	50.0
+location	Com-a11e_13_bat-3	Com-a11e_15_rainforest-6	Com-a11e_13_bat-3_4795	13	Com-a11e_15_rainforest-6_3811	15	2	common blossom bat	rainforest	33.333
+location	Com-a11e_9_bat-3	Com-a11e_12_rainforests-7	Com-a11e_9_bat-3_4795	9	Com-a11e_12_rainforests-7_3811	12	3	common blossom bat	rainforest	25.0
+location	Bat-2d5b_285_brasiliensis-11	Bat-2d5b_263_deserts-16	Bat-2d5b_285_brasiliensis-11_2847	285	Bat-2d5b_263_deserts-16_34	263	22	Tadarida brasiliensis	Desert	3.783
+location	Bat-2d5b_234_bat-22	Bat-2d5b_263_deserts-16	Bat-2d5b_234_bat-22_2846	234	Bat-2d5b_263_deserts-16_34	263	29	Mexican free-tailed bat	Desert	2.667
+location	Bat-2d5b_234_bat-17	Bat-2d5b_263_deserts-16	Bat-2d5b_234_bat-17_2846	234	Bat-2d5b_263_deserts-16_3805	263	29	Mexican free-tailed bat	desert	2.667
+location	Meg-fd01_353_bat-19	Meg-fd01_323_rainforests-20	Meg-fd01_353_bat-19_2728	353	Meg-fd01_323_rainforests-20_3811	323	30	Little long-fingered bat	rainforest	2.129
+location	Mam-3742_525_rotundus-22	Mam-3742_596_rainforest-36	Mam-3742_525_rotundus-22_1964	525	Mam-3742_596_rainforest-36_3811	596	71	Desmodus rotundus	rainforest	1.208
+location	Mam-3742_525_bat-19	Mam-3742_596_rainforest-36	Mam-3742_525_bat-19_4822	525	Mam-3742_596_rainforest-36_3811	596	71	vampire bat	rainforest	1.153
+adaptation	Com-8568_28_bats-3	Com-8568_28_hibernation-12	Com-8568_28_bats-3_4812	28	Com-8568_28_hibernation-12_338	28	0	noctule bat	Hibernation	100.0
+adaptation	Bat-2d5b_362_bat-17	Bat-2d5b_362_social-26	Bat-2d5b_362_bat-17_4821	362	Bat-2d5b_362_social-26_3788	362	0	common vampire bat	social	100.0
+adaptation	Hor-ab9c_161_bat-2	Hor-ab9c_161_social-10	Hor-ab9c_161_bat-2_636	161	Hor-ab9c_161_social-10_3788	161	0	Horseshoe bats	social	100.0
+adaptation	Hor-ab9c_136_bats-6	Hor-ab9c_136_nocturnal-8	Hor-ab9c_136_bats-6_4127	136	Hor-ab9c_136_nocturnal-8_3967	136	0	horseshoe bats	nocturnal	100.0
+adaptation	Hor-ab9c_136_bat-17	Hor-ab9c_136_nocturnal-8	Hor-ab9c_136_bat-17_4127	136	Hor-ab9c_136_nocturnal-8_3967	136	0	horseshoe bats	nocturnal	100.0
+adaptation	Hor-ab9c_172_bats-6	Hor-ab9c_172_Hibernation-1	Hor-ab9c_172_bats-6_4127	172	Hor-ab9c_172_Hibernation-1_3959	172	0	horseshoe bats	hibernation	100.0
+adaptation	Bat-2d5b_362_rotundus-20	Bat-2d5b_362_social-26	Bat-2d5b_362_rotundus-20_1964	362	Bat-2d5b_362_social-26_3788	362	0	Desmodus rotundus	social	87.0
+adaptation	Str-48f8_6_bats-28	Str-48f8_6_migration-13	Str-48f8_6_bats-28_5526	6	Str-48f8_6_migration-13_3781	6	0	straw-coloured fruit bat	migration	80.0
+adaptation	Gre-c26f_42_bats-6	Gre-c26f_42_nocturnal-8	Gre-c26f_42_bats-6_2440	42	Gre-c26f_42_nocturnal-8_3967	42	0	Greater bulldog bat	nocturnal	66.0
+adaptation	Gre-c26f_42_bats-3	Gre-c26f_42_nocturnal-8	Gre-c26f_42_bats-3_2440	42	Gre-c26f_42_nocturnal-8_3967	42	0	Greater bulldog bat	nocturnal	66.0
+adaptation	Mam-3742_437_bats-20	Mam-3742_437_Social-1	Mam-3742_437_bats-20_5050	437	Mam-3742_437_Social-1_3788	437	0	greater bulldog bat	social	66.0
+adaptation	Vam-5657_52_bats-6	Vam-5657_51_social-3	Vam-5657_52_bats-6_1963	52	Vam-5657_51_social-3_3788	51	1	Common vampire bat	social	50.0
+adaptation	Com-2ad3_9_bat-16	Com-2ad3_8_social-7	Com-2ad3_9_bat-16_1963	9	Com-2ad3_8_social-7_3788	8	1	Common vampire bat	social	50.0
+adaptation	Com-2ad3_9_bat-16	Com-2ad3_8_social-19	Com-2ad3_9_bat-16_1963	9	Com-2ad3_8_social-19_3788	8	1	Common vampire bat	social	50.0
+adaptation	Vam-5657_52_bats-21	Vam-5657_51_social-3	Vam-5657_52_bats-21_1963	52	Vam-5657_51_social-3_3788	51	1	Common vampire bat	social	50.0
+adaptation	Hor-ab9c_162_bats-9	Hor-ab9c_161_social-10	Hor-ab9c_162_bats-9_4127	162	Hor-ab9c_161_social-10_3788	161	1	horseshoe bats	social	50.0
+adaptation	Com-8568_28_bats-3	Com-8568_27_Hibernation-6	Com-8568_28_bats-3_4812	28	Com-8568_27_Hibernation-6_3959	27	1	noctule bat	hibernation	50.0
+adaptation	Hor-ab9c_173_bat-2	Hor-ab9c_172_Hibernation-1	Hor-ab9c_173_bat-2_636	173	Hor-ab9c_172_Hibernation-1_338	172	1	Horseshoe bats	Hibernation	50.0
+adaptation	Hor-ab9c_170_bats-6	Hor-ab9c_171_hibernation-24	Hor-ab9c_170_bats-6_4127	170	Hor-ab9c_171_hibernation-24_3959	171	1	horseshoe bats	hibernation	50.0
+adaptation	Hor-ab9c_160_bat-4	Hor-ab9c_161_social-10	Hor-ab9c_160_bat-4_4127	160	Hor-ab9c_161_social-10_3788	161	1	horseshoe bats	social	50.0
+adaptation	Hor-ab9c_135_bat-9	Hor-ab9c_136_nocturnal-8	Hor-ab9c_135_bat-9_4127	135	Hor-ab9c_136_nocturnal-8_3967	136	1	horseshoe bats	nocturnal	50.0
+adaptation	Hor-ab9c_172_bats-6	Hor-ab9c_171_hibernation-24	Hor-ab9c_172_bats-6_4127	172	Hor-ab9c_171_hibernation-24_338	171	1	horseshoe bats	Hibernation	50.0
+adaptation	Hem0083_5_bat-8	Hem0083_4_suckers-2	Hem0083_5_bat-8_4822	5	Hem0083_4_suckers-2_336	4	1	vampire bat	Blood sucker	41.5
+adaptation	Str-48f8_6_bats-28	Str-48f8_7_migration-2	Str-48f8_6_bats-28_5526	6	Str-48f8_7_migration-2_3781	7	1	straw-coloured fruit bat	migration	40.0
+adaptation	Mex-2908_107_bat-5	Mex-2908_106_social-9	Mex-2908_107_bat-5_2846	107	Mex-2908_106_social-9_3788	106	1	Mexican free-tailed bat	social	40.0
+adaptation	Mex-2908_81_bat-5	Mex-2908_82_nocturnal-7	Mex-2908_81_bat-5_2846	81	Mex-2908_82_nocturnal-7_3967	82	1	Mexican free-tailed bat	nocturnal	40.0
+adaptation	Hor-ab9c_134_bats-3	Hor-ab9c_136_nocturnal-8	Hor-ab9c_134_bats-3_4216	134	Hor-ab9c_136_nocturnal-8_3967	136	2	vesper bats	nocturnal	33.333
+adaptation	Hor-ab9c_134_bats-18	Hor-ab9c_136_nocturnal-8	Hor-ab9c_134_bats-18_4216	134	Hor-ab9c_136_nocturnal-8_3967	136	2	vesper bats	nocturnal	33.333
+adaptation	Vam-5657_52_bats-21	Vam-5657_54_social-4	Vam-5657_52_bats-21_4821	52	Vam-5657_54_social-4_3788	54	2	common vampire bat	social	33.333
+adaptation	Hor-ab9c_173_bat-2	Hor-ab9c_171_hibernation-24	Hor-ab9c_173_bat-2_636	173	Hor-ab9c_171_hibernation-24_338	171	2	Horseshoe bats	Hibernation	33.333
+adaptation	Vam-5657_52_bats-6	Vam-5657_54_social-4	Vam-5657_52_bats-6_4821	52	Vam-5657_54_social-4_3788	54	2	common vampire bat	social	33.333
+adaptation	Com-8568_28_bats-3	Com-8568_30_Hibernation-1	Com-8568_28_bats-3_4812	28	Com-8568_30_Hibernation-1_338	30	2	noctule bat	Hibernation	33.333
+adaptation	Hor-ab9c_162_bats-9	Hor-ab9c_164_social-7	Hor-ab9c_162_bats-9_4127	162	Hor-ab9c_164_social-7_3788	164	2	horseshoe bats	social	33.333
+adaptation	Hor-ab9c_136_bats-6	Hor-ab9c_137_predators-19	Hor-ab9c_136_bats-6_2709	136	Hor-ab9c_137_predators-19_3977	137	1	Lesser horseshoe bat	predator	33.0
+adaptation	Hor-ab9c_172_bats-6	Hor-ab9c_173_Predators-8	Hor-ab9c_172_bats-6_2709	172	Hor-ab9c_173_Predators-8_359	173	1	Lesser horseshoe bat	Predator	33.0
+adaptation	Gre-c26f_43_bats-3	Gre-c26f_42_nocturnal-8	Gre-c26f_43_bats-3_5050	43	Gre-c26f_42_nocturnal-8_3967	42	1	greater bulldog bat	nocturnal	33.0
+adaptation	Hor-ab9c_136_bat-17	Hor-ab9c_137_predators-19	Hor-ab9c_136_bat-17_5177	136	Hor-ab9c_137_predators-19_359	137	1	lesser horseshoe bat	Predator	33.0
+adaptation	Mex-2908_104_bats-34	Mex-2908_106_social-9	Mex-2908_104_bats-34_2846	104	Mex-2908_106_social-9_3788	106	2	Mexican free-tailed bat	social	26.667
+adaptation	Col-e01a_24_bats-19	Col-e01a_22_social-4	Col-e01a_24_bats-19_2846	24	Col-e01a_22_social-4_3788	22	2	Mexican free-tailed bat	social	26.667
+adaptation	Mex-2908_104_bat-50	Mex-2908_106_social-9	Mex-2908_104_bat-50_2846	104	Mex-2908_106_social-9_3788	106	2	Mexican free-tailed bat	social	26.667
+adaptation	Bat-2d5b_355_bat-53	Bat-2d5b_353_Social-8	Bat-2d5b_355_bat-53_2846	355	Bat-2d5b_353_Social-8_3788	353	2	Mexican free-tailed bat	social	26.667
+adaptation	Bat-2d5b_355_bat-9	Bat-2d5b_353_Social-8	Bat-2d5b_355_bat-9_2846	355	Bat-2d5b_353_Social-8_3788	353	2	Mexican free-tailed bat	social	26.667
+adaptation	Hor-ab9c_161_bat-2	Hor-ab9c_164_social-7	Hor-ab9c_161_bat-2_636	161	Hor-ab9c_164_social-7_3788	164	3	Horseshoe bats	social	25.0
+adaptation	Bul-4be2_9_bat-19	Bul-4be2_6_social-7	Bul-4be2_9_bat-19_5050	9	Bul-4be2_6_social-7_3788	6	3	greater bulldog bat	social	25.0
+adaptation	Hor-ab9c_172_bats-6	Hor-ab9c_174_predators-7	Hor-ab9c_172_bats-6_2709	172	Hor-ab9c_174_predators-7_3977	174	2	Lesser horseshoe bat	predator	22.0
+adaptation	Hor-ab9c_170_bats-6	Hor-ab9c_172_Hibernation-1	Hor-ab9c_170_bats-6_2709	170	Hor-ab9c_172_Hibernation-1_3959	172	2	Lesser horseshoe bat	hibernation	22.0
+adaptation	Hor-ab9c_177_bats-26	Hor-ab9c_175_predators-3	Hor-ab9c_177_bats-26_5177	177	Hor-ab9c_175_predators-3_359	175	2	lesser horseshoe bat	Predator	22.0
+adaptation	Hor-ab9c_177_bats-8	Hor-ab9c_175_predators-3	Hor-ab9c_177_bats-8_2709	177	Hor-ab9c_175_predators-3_3977	175	2	Lesser horseshoe bat	predator	22.0
+adaptation	Hor-ab9c_135_bat-9	Hor-ab9c_137_predators-19	Hor-ab9c_135_bat-9_2709	135	Hor-ab9c_137_predators-19_3977	137	2	Lesser horseshoe bat	predator	22.0
+adaptation	Hor-ab9c_154_bat-7	Hor-ab9c_152_hibernation-11	Hor-ab9c_154_bat-7_5177	154	Hor-ab9c_152_hibernation-11_3959	152	2	lesser horseshoe bat	hibernation	22.0
+adaptation	Bul-4be2_8_bats-3	Bul-4be2_6_social-7	Bul-4be2_8_bats-3_2440	8	Bul-4be2_6_social-7_3788	6	2	Greater bulldog bat	social	22.0
+adaptation	Bat-2d5b_362_rotundus-20	Bat-2d5b_359_social-8	Bat-2d5b_362_rotundus-20_1964	362	Bat-2d5b_359_social-8_3788	359	3	Desmodus rotundus	social	21.75
+adaptation	Hor-ab9c_160_bat-4	Hor-ab9c_164_social-7	Hor-ab9c_160_bat-4_4127	160	Hor-ab9c_164_social-7_3788	164	4	horseshoe bats	social	20.0
+adaptation	Str-48f8_10_bat-6	Str-48f8_7_migration-2	Str-48f8_10_bat-6_5526	10	Str-48f8_7_migration-2_3781	7	3	straw-coloured fruit bat	migration	20.0
+adaptation	Bro-acd0_9_bat-6	Bro-acd0_13_hibernation-17	Bro-acd0_9_bat-6_4737	9	Bro-acd0_13_hibernation-17_338	13	4	brown long-eared bat	Hibernation	20.0
+adaptation	Col-e01a_24_bats-19	Col-e01a_21_social-19	Col-e01a_24_bats-19_2846	24	Col-e01a_21_social-19_3788	21	3	Mexican free-tailed bat	social	20.0
+adaptation	Com-a11e_13_bat-3	Com-a11e_17_pollinators-5	Com-a11e_13_bat-3_1913	13	Com-a11e_17_pollinators-5_3974	17	4	Common blossom bat	pollinator	20.0
+adaptation	Bro-acd0_18_bat-19	Bro-acd0_13_hibernation-17	Bro-acd0_18_bat-19_4737	18	Bro-acd0_13_hibernation-17_3959	13	5	brown long-eared bat	hibernation	16.667
+adaptation	Bat-2d5b_244_bat-51	Bat-2d5b_249_nocturnal-16	Bat-2d5b_244_bat-51_4795	244	Bat-2d5b_249_nocturnal-16_3967	249	5	common blossom bat	nocturnal	16.667
+adaptation	Com-8568_28_bats-3	Com-8568_23_hibernation-34	Com-8568_28_bats-3_4812	28	Com-8568_23_hibernation-34_3959	23	5	noctule bat	hibernation	16.667
+adaptation	Mex-2908_42_bat-5	Mex-2908_47_migration-3	Mex-2908_42_bat-5_2846	42	Mex-2908_47_migration-3_1	47	5	Mexican free-tailed bat	Migration	16.667
+adaptation	Bat-2d5b_244_bat-63	Bat-2d5b_249_nocturnal-16	Bat-2d5b_244_bat-63_1913	244	Bat-2d5b_249_nocturnal-16_3967	249	5	Common blossom bat	nocturnal	16.667
+adaptation	Bat-2d5b_244_bat-40	Bat-2d5b_249_nocturnal-16	Bat-2d5b_244_bat-40_4795	244	Bat-2d5b_249_nocturnal-16_3967	249	5	common blossom bat	nocturnal	16.667
+adaptation	Bul-4be2_3_bat-4	Bul-4be2_6_social-7	Bul-4be2_3_bat-4_2440	3	Bul-4be2_6_social-7_3788	6	3	Greater bulldog bat	social	16.5
+adaptation	Bul-4be2_3_bats-26	Bul-4be2_6_social-7	Bul-4be2_3_bats-26_2440	3	Bul-4be2_6_social-7_3788	6	3	Greater bulldog bat	social	16.5
+adaptation	Bat-2d5b_355_bat-53	Bat-2d5b_357_hibernation-7	Bat-2d5b_355_bat-53_1797	355	Bat-2d5b_357_hibernation-7_3959	357	2	Brown big-eared bat	hibernation	16.333
+adaptation	Bat-2d5b_355_bat-9	Bat-2d5b_357_hibernation-7	Bat-2d5b_355_bat-9_1797	355	Bat-2d5b_357_hibernation-7_3959	357	2	Brown big-eared bat	hibernation	16.333
+adaptation	Str-48f8_10_bat-6	Str-48f8_6_migration-13	Str-48f8_10_bat-6_5526	10	Str-48f8_6_migration-13_3781	6	4	straw-coloured fruit bat	migration	16.0
+adaptation	Str-48f8_2_bat-15	Str-48f8_6_migration-13	Str-48f8_2_bat-15_5526	2	Str-48f8_6_migration-13_3781	6	4	straw-coloured fruit bat	migration	16.0
+adaptation	Mex-2908_43_bats-5	Mex-2908_47_migration-3	Mex-2908_43_bats-5_2846	43	Mex-2908_47_migration-3_3781	47	4	Mexican free-tailed bat	migration	16.0
+adaptation	Str-48f8_2_bat-6	Str-48f8_6_migration-13	Str-48f8_2_bat-6_5526	2	Str-48f8_6_migration-13_3781	6	4	straw-coloured fruit bat	migration	16.0
+adaptation	Str-48f8_28_bats-9	Str-48f8_25_nocturnal-15	Str-48f8_28_bats-9_3438	28	Str-48f8_25_nocturnal-15_3967	25	3	Straw-coloured fruit bat	nocturnal	15.0
+adaptation	Str-48f8_28_bats-21	Str-48f8_25_nocturnal-15	Str-48f8_28_bats-21_5526	28	Str-48f8_25_nocturnal-15_3967	25	3	straw-coloured fruit bat	nocturnal	15.0
+adaptation	Mex-2908_53_bat-5	Mex-2908_47_migration-3	Mex-2908_53_bat-5_2846	53	Mex-2908_47_migration-3_1	47	6	Mexican free-tailed bat	Migration	14.286
+adaptation	Hor-ab9c_155_bat-4	Hor-ab9c_161_social-10	Hor-ab9c_155_bat-4_4127	155	Hor-ab9c_161_social-10_3788	161	6	horseshoe bats	social	14.286
+adaptation	Hor-ab9c_170_bats-6	Hor-ab9c_164_social-7	Hor-ab9c_170_bats-6_4127	170	Hor-ab9c_164_social-7_3788	164	6	horseshoe bats	social	14.286
+adaptation	Str-48f8_2_bat-15	Str-48f8_7_migration-2	Str-48f8_2_bat-15_5526	2	Str-48f8_7_migration-2_3781	7	5	straw-coloured fruit bat	migration	13.333
+adaptation	Str-48f8_2_bat-6	Str-48f8_7_migration-2	Str-48f8_2_bat-6_5526	2	Str-48f8_7_migration-2_1	7	5	straw-coloured fruit bat	Migration	13.333
+adaptation	Bul-4be2_2_bats-28	Bul-4be2_6_social-7	Bul-4be2_2_bats-28_2440	2	Bul-4be2_6_social-7_3788	6	4	Greater bulldog bat	social	13.2
+adaptation	Bul-4be2_2_bats-10	Bul-4be2_6_social-7	Bul-4be2_2_bats-10_2440	2	Bul-4be2_6_social-7_3788	6	4	Greater bulldog bat	social	13.2
+adaptation	Bul-4be2_2_bat-2	Bul-4be2_6_social-7	Bul-4be2_2_bat-2_2440	2	Bul-4be2_6_social-7_3788	6	4	Greater bulldog bat	social	13.2
+adaptation	Bul-4be2_2_bats-13	Bul-4be2_6_social-7	Bul-4be2_2_bats-13_2440	2	Bul-4be2_6_social-7_3788	6	4	Greater bulldog bat	social	13.2
+adaptation	Hor-ab9c_143_bat-2	Hor-ab9c_136_nocturnal-8	Hor-ab9c_143_bat-2_636	143	Hor-ab9c_136_nocturnal-8_3967	136	7	Horseshoe bats	nocturnal	12.5
+adaptation	Meg-fd01_192_bat-16	Meg-fd01_199_nocturnal-22	Meg-fd01_192_bat-16_4795	192	Meg-fd01_199_nocturnal-22_3967	199	7	common blossom bat	nocturnal	12.5
+adaptation	Com-8568_37_bats-3	Com-8568_30_Hibernation-1	Com-8568_37_bats-3_4812	37	Com-8568_30_Hibernation-1_338	30	7	noctule bat	Hibernation	12.5
+adaptation	Hor-ab9c_154_bat-7	Hor-ab9c_161_social-10	Hor-ab9c_154_bat-7_4127	154	Hor-ab9c_161_social-10_3788	161	7	horseshoe bats	social	12.5
+adaptation	Meg-fd01_168_helvum-13	Meg-fd01_174_herbivorous-8	Meg-fd01_168_helvum-13_3439	168	Meg-fd01_174_herbivorous-8_3784	174	6	Eidolon helvum	herbivorous	12.429
+adaptation	Bat-2d5b_355_bat-53	Bat-2d5b_358_hibernation-8	Bat-2d5b_355_bat-53_1797	355	Bat-2d5b_358_hibernation-8_338	358	3	Brown big-eared bat	Hibernation	12.25
+adaptation	Bat-2d5b_355_bat-9	Bat-2d5b_358_hibernation-8	Bat-2d5b_355_bat-9_1797	355	Bat-2d5b_358_hibernation-8_3959	358	3	Brown big-eared bat	hibernation	12.25
+adaptation	Str-48f8_19_bat-6	Str-48f8_25_nocturnal-15	Str-48f8_19_bat-6_5526	19	Str-48f8_25_nocturnal-15_3967	25	6	straw-coloured fruit bat	nocturnal	11.429
+adaptation	Meg-fd01_192_bat-16	Meg-fd01_200_nocturnal-21	Meg-fd01_192_bat-16_1913	192	Meg-fd01_200_nocturnal-21_3967	200	8	Common blossom bat	nocturnal	11.111
+adaptation	Com-a11e_9_bat-3	Com-a11e_17_pollinators-5	Com-a11e_9_bat-3_4795	9	Com-a11e_17_pollinators-5_3974	17	8	common blossom bat	pollinator	11.111
+adaptation	Hor-ab9c_172_bats-6	Hor-ab9c_164_social-7	Hor-ab9c_172_bats-6_4127	172	Hor-ab9c_164_social-7_3788	164	8	horseshoe bats	social	11.111
+adaptation	Hum13cf_6_bats-8	Hum13cf_11_migration-24	Hum13cf_6_bats-8_2848	6	Hum13cf_11_migration-24_3781	11	5	Brazilian free-tailed bat	migration	11.0
+adaptation	Com-8568_37_bats-3	Com-8568_28_hibernation-12	Com-8568_37_bats-3_4812	37	Com-8568_28_hibernation-12_3959	28	9	noctule bat	hibernation	10.0
+adaptation	Mex-2908_89_bat-5	Mex-2908_82_nocturnal-7	Mex-2908_89_bat-5_2846	89	Mex-2908_82_nocturnal-7_3967	82	7	Mexican free-tailed bat	nocturnal	10.0
+adaptation	Bro-acd0_6_bats-16	Bro-acd0_13_hibernation-17	Bro-acd0_6_bats-16_4737	6	Bro-acd0_13_hibernation-17_3959	13	7	brown long-eared bat	hibernation	10.0
+adaptation	Bro-acd0_6_bat-20	Bro-acd0_13_hibernation-17	Bro-acd0_6_bat-20_4737	6	Bro-acd0_13_hibernation-17_3959	13	7	brown long-eared bat	hibernation	10.0
+adaptation	Hor-ab9c_127_bat-2	Hor-ab9c_136_nocturnal-8	Hor-ab9c_127_bat-2_636	127	Hor-ab9c_136_nocturnal-8_3967	136	9	Horseshoe bats	nocturnal	10.0
+adaptation	Hor-ab9c_173_bat-2	Hor-ab9c_164_social-7	Hor-ab9c_173_bat-2_636	173	Hor-ab9c_164_social-7_3788	164	9	Horseshoe bats	social	10.0
+adaptation	Com-8568_28_bats-3	Com-8568_19_migration-14	Com-8568_28_bats-3_4812	28	Com-8568_19_migration-14_1	19	9	noctule bat	Migration	10.0
+adaptation	Dau8139_10_bat-8	Dau8139_2_hibernation-12	Dau8139_10_bat-8_4855	10	Dau8139_2_hibernation-12_338	2	8	water bat	Hibernation	9.222
+adaptation	Com-8568_37_bats-3	Com-8568_27_Hibernation-6	Com-8568_37_bats-3_4812	37	Com-8568_27_Hibernation-6_338	27	10	noctule bat	Hibernation	9.091
+adaptation	Meg-fd01_168_bat-10	Meg-fd01_174_herbivorous-8	Meg-fd01_168_bat-10_3438	168	Meg-fd01_174_herbivorous-8_3784	174	6	Straw-coloured fruit bat	herbivorous	8.571
+adaptation	Meg-fd01_168_bat-19	Meg-fd01_174_herbivorous-8	Meg-fd01_168_bat-19_5526	168	Meg-fd01_174_herbivorous-8_3784	174	6	straw-coloured fruit bat	herbivorous	8.571
+adaptation	Mex-2908_58_bats-8	Mex-2908_47_migration-3	Mex-2908_58_bats-8_2846	58	Mex-2908_47_migration-3_3781	47	11	Mexican free-tailed bat	migration	8.333
+adaptation	Hor-ab9c_173_bat-2	Hor-ab9c_161_social-10	Hor-ab9c_173_bat-2_636	173	Hor-ab9c_161_social-10_3788	161	12	Horseshoe bats	social	7.692
+adaptation	Bro-acd0_21_bats-5	Bro-acd0_13_hibernation-17	Bro-acd0_21_bats-5_1798	21	Bro-acd0_13_hibernation-17_338	13	8	Common long-eared bat	Hibernation	7.333
+adaptation	Bro-acd0_5_bat-7	Bro-acd0_13_hibernation-17	Bro-acd0_5_bat-7_1798	5	Bro-acd0_13_hibernation-17_338	13	8	Common long-eared bat	Hibernation	7.333
+adaptation	Bro-acd0_2_auritus-15	Bro-acd0_13_hibernation-17	Bro-acd0_2_auritus-15_1796	2	Bro-acd0_13_hibernation-17_338	13	11	Plecotus auritus	Hibernation	7.25
+adaptation	Com-8568_28_bats-3	Com-8568_15_hibernation-22	Com-8568_28_bats-3_4812	28	Com-8568_15_hibernation-22_338	15	13	noctule bat	Hibernation	7.143
+adaptation	Bro-acd0_2_bat-6	Bro-acd0_13_hibernation-17	Bro-acd0_2_bat-6_1798	2	Bro-acd0_13_hibernation-17_338	13	11	Common long-eared bat	Hibernation	6.917
+adaptation	Bro-acd0_2_bat-12	Bro-acd0_13_hibernation-17	Bro-acd0_2_bat-12_1798	2	Bro-acd0_13_hibernation-17_3959	13	11	Common long-eared bat	hibernation	6.917
+adaptation	Bro-acd0_2_bat-22	Bro-acd0_13_hibernation-17	Bro-acd0_2_bat-22_1798	2	Bro-acd0_13_hibernation-17_3959	13	11	Common long-eared bat	hibernation	6.917
+adaptation	Com-a11e_3_bat-4	Com-a11e_17_pollinators-5	Com-a11e_3_bat-4_1913	3	Com-a11e_17_pollinators-5_3974	17	14	Common blossom bat	pollinator	6.667
+adaptation	Com-8568_37_bats-3	Com-8568_23_hibernation-34	Com-8568_37_bats-3_4812	37	Com-8568_23_hibernation-34_3959	23	14	noctule bat	hibernation	6.667
+adaptation	Str-48f8_33_bats-8	Str-48f8_25_nocturnal-15	Str-48f8_33_bats-8_3438	33	Str-48f8_25_nocturnal-15_3967	25	8	Straw-coloured fruit bat	nocturnal	6.667
+adaptation	Col-e01a_24_bats-19	Col-e01a_35_colonial-5	Col-e01a_24_bats-19_2846	24	Col-e01a_35_colonial-5_3950	35	11	Mexican free-tailed bat	colonial	6.667
+adaptation	Com-a11e_2_bat-4	Com-a11e_17_pollinators-5	Com-a11e_2_bat-4_4795	2	Com-a11e_17_pollinators-5_3974	17	15	common blossom bat	pollinator	6.25
+adaptation	Com-8568_28_bats-3	Com-8568_13_migration-8	Com-8568_28_bats-3_4812	28	Com-8568_13_migration-8_3781	13	15	noctule bat	migration	6.25
+adaptation	Com-a11e_2_bat-19	Com-a11e_17_pollinators-5	Com-a11e_2_bat-19_4795	2	Com-a11e_17_pollinators-5_3974	17	15	common blossom bat	pollinator	6.25
+adaptation	Com-a11e_2_bat-15	Com-a11e_17_pollinators-5	Com-a11e_2_bat-15_4795	2	Com-a11e_17_pollinators-5_3974	17	15	common blossom bat	pollinator	6.25
+adaptation	Str-48f8_19_bat-6	Str-48f8_7_migration-2	Str-48f8_19_bat-6_5526	19	Str-48f8_7_migration-2_3781	7	12	straw-coloured fruit bat	migration	6.154
+adaptation	Mex-2908_66_bat-5	Mex-2908_82_nocturnal-7	Mex-2908_66_bat-5_2846	66	Mex-2908_82_nocturnal-7_3967	82	16	Mexican free-tailed bat	nocturnal	5.882
+adaptation	Str-48f8_19_bat-6	Str-48f8_6_migration-13	Str-48f8_19_bat-6_5526	19	Str-48f8_6_migration-13_3781	6	13	straw-coloured fruit bat	migration	5.714
+adaptation	Str-48f8_38_bat-6	Str-48f8_25_nocturnal-15	Str-48f8_38_bat-6_5526	38	Str-48f8_25_nocturnal-15_3967	25	13	straw-coloured fruit bat	nocturnal	5.714
+adaptation	Str-48f8_38_bat-13	Str-48f8_25_nocturnal-15	Str-48f8_38_bat-13_5526	38	Str-48f8_25_nocturnal-15_3967	25	13	straw-coloured fruit bat	nocturnal	5.714
+adaptation	Hor-ab9c_181_bat-2	Hor-ab9c_164_social-7	Hor-ab9c_181_bat-2_636	181	Hor-ab9c_164_social-7_3788	164	17	Horseshoe bats	social	5.556
+adaptation	Com-a11e_6_bat-3	Com-a11e_17_pollinators-5	Com-a11e_6_bat-3_4795	6	Com-a11e_17_pollinators-5_3974	17	11	common blossom bat	pollinator	5.5
+adaptation	Tor-e831_47_bat-6	Tor-e831_57_nocturnal-12	Tor-e831_47_bat-6_4737	47	Tor-e831_57_nocturnal-12_3967	57	10	brown long-eared bat	nocturnal	5.455
+adaptation	Meg-fd01_192_bat-16	Meg-fd01_174_herbivorous-8	Meg-fd01_192_bat-16_1913	192	Meg-fd01_174_herbivorous-8_3784	174	18	Common blossom bat	herbivorous	5.263
+adaptation	Com-8568_37_bats-3	Com-8568_19_migration-14	Com-8568_37_bats-3_4812	37	Com-8568_19_migration-14_3781	19	18	noctule bat	migration	5.263
+adaptation	Hor-ab9c_143_bat-2	Hor-ab9c_161_social-10	Hor-ab9c_143_bat-2_636	143	Hor-ab9c_161_social-10_3788	161	18	Horseshoe bats	social	5.263
+adaptation	Bat-2d5b_234_bat-17	Bat-2d5b_249_nocturnal-16	Bat-2d5b_234_bat-17_2846	234	Bat-2d5b_249_nocturnal-16_3967	249	15	Mexican free-tailed bat	nocturnal	5.0
+adaptation	Str-48f8_10_bat-6	Str-48f8_25_nocturnal-15	Str-48f8_10_bat-6_5526	10	Str-48f8_25_nocturnal-15_3967	25	15	straw-coloured fruit bat	nocturnal	5.0
+adaptation	Bat-2d5b_234_bat-22	Bat-2d5b_249_nocturnal-16	Bat-2d5b_234_bat-22_2846	234	Bat-2d5b_249_nocturnal-16_3967	249	15	Mexican free-tailed bat	nocturnal	5.0
+adaptation	Mex-2908_38_bats-7	Mex-2908_47_migration-3	Mex-2908_38_bats-7_2848	38	Mex-2908_47_migration-3_1	47	9	Brazilian free-tailed bat	Migration	4.9
+adaptation	Bat-2d5b_226_Rhinolophidae-27	Bat-2d5b_246_hibernation-19	Bat-2d5b_226_Rhinolophidae-27_635	226	Bat-2d5b_246_hibernation-19_3959	246	20	Rhinolophidae	hibernation	4.762
+adaptation	Hor-ab9c_181_bat-2	Hor-ab9c_161_social-10	Hor-ab9c_181_bat-2_636	181	Hor-ab9c_161_social-10_3788	161	20	Horseshoe bats	social	4.762
+adaptation	Bat-2d5b_226_Rhinolophidae-27	Bat-2d5b_246_hibernation-2	Bat-2d5b_226_Rhinolophidae-27_635	226	Bat-2d5b_246_hibernation-2_338	246	20	Rhinolophidae	Hibernation	4.762
+adaptation	Mex-2908_98_bat-5	Mex-2908_82_nocturnal-7	Mex-2908_98_bat-5_2846	98	Mex-2908_82_nocturnal-7_3967	82	16	Mexican free-tailed bat	nocturnal	4.706
+adaptation	Bro-acd0_31_auritus-3	Bro-acd0_13_hibernation-17	Bro-acd0_31_auritus-3_1796	31	Bro-acd0_13_hibernation-17_338	13	18	Plecotus auritus	Hibernation	4.579
+adaptation	Hor-ab9c_143_bat-2	Hor-ab9c_164_social-7	Hor-ab9c_143_bat-2_636	143	Hor-ab9c_164_social-7_3788	164	21	Horseshoe bats	social	4.545
+adaptation	Bat-2d5b_285_brasiliensis-11	Bat-2d5b_266_nocturnal-4	Bat-2d5b_285_brasiliensis-11_2847	285	Bat-2d5b_266_nocturnal-4_3967	266	19	Tadarida brasiliensis	nocturnal	4.35
+adaptation	Bat-2d5b_244_bat-63	Bat-2d5b_266_nocturnal-4	Bat-2d5b_244_bat-63_1913	244	Bat-2d5b_266_nocturnal-4_3967	266	22	Common blossom bat	nocturnal	4.348
+adaptation	Bat-2d5b_244_bat-51	Bat-2d5b_266_nocturnal-4	Bat-2d5b_244_bat-51_1913	244	Bat-2d5b_266_nocturnal-4_3967	266	22	Common blossom bat	nocturnal	4.348
+adaptation	Bat-2d5b_244_bat-40	Bat-2d5b_266_nocturnal-4	Bat-2d5b_244_bat-40_1913	244	Bat-2d5b_266_nocturnal-4_3967	266	22	Common blossom bat	nocturnal	4.348
+adaptation	Bat-2d5b_288_bat-21	Bat-2d5b_266_nocturnal-4	Bat-2d5b_288_bat-21_4737	288	Bat-2d5b_266_nocturnal-4_3967	266	22	brown long-eared bat	nocturnal	4.348
+adaptation	Com-8568_37_bats-3	Com-8568_15_hibernation-22	Com-8568_37_bats-3_4812	37	Com-8568_15_hibernation-22_3959	15	22	noctule bat	hibernation	4.348
+adaptation	Bat-2d5b_288_bat-13	Bat-2d5b_266_nocturnal-4	Bat-2d5b_288_bat-13_4737	288	Bat-2d5b_266_nocturnal-4_3967	266	22	brown long-eared bat	nocturnal	4.348
+adaptation	Bat-2d5b_288_bat-3	Bat-2d5b_266_nocturnal-4	Bat-2d5b_288_bat-3_4737	288	Bat-2d5b_266_nocturnal-4_3967	266	22	brown long-eared bat	nocturnal	4.348
+adaptation	Str-48f8_43_bat-6	Str-48f8_25_nocturnal-15	Str-48f8_43_bat-6_5526	43	Str-48f8_25_nocturnal-15_3967	25	18	straw-coloured fruit bat	nocturnal	4.211
+adaptation	Mex-2908_100_bats-5	Mex-2908_82_nocturnal-7	Mex-2908_100_bats-5_2846	100	Mex-2908_82_nocturnal-7_3967	82	18	Mexican free-tailed bat	nocturnal	4.211
+adaptation	Bat-2d5b_226_bats-2	Bat-2d5b_249_nocturnal-16	Bat-2d5b_226_bats-2_4216	226	Bat-2d5b_249_nocturnal-16_3967	249	23	vesper bats	nocturnal	4.167
+adaptation	Bat-2d5b_226_bats-25	Bat-2d5b_249_nocturnal-16	Bat-2d5b_226_bats-25_4216	226	Bat-2d5b_249_nocturnal-16_3967	249	23	vesper bats	nocturnal	4.167
+adaptation	Bat-2d5b_226_bats-34	Bat-2d5b_249_nocturnal-16	Bat-2d5b_226_bats-34_4216	226	Bat-2d5b_249_nocturnal-16_3967	249	23	vesper bats	nocturnal	4.167
+adaptation	Bat-2d5b_226_bats-44	Bat-2d5b_249_nocturnal-16	Bat-2d5b_226_bats-44_4216	226	Bat-2d5b_249_nocturnal-16_3967	249	23	vesper bats	nocturnal	4.167
+adaptation	Bat-2d5b_226_bats-18	Bat-2d5b_249_nocturnal-16	Bat-2d5b_226_bats-18_4216	226	Bat-2d5b_249_nocturnal-16_3967	249	23	vesper bats	nocturnal	4.167
+adaptation	Syc-8f11_32_bat-3	Syc-8f11_9_pollinators-5	Syc-8f11_32_bat-3_1913	32	Syc-8f11_9_pollinators-5_3974	9	23	Common blossom bat	pollinator	4.167
+adaptation	Bat-2d5b_226_Rhinolophidae-27	Bat-2d5b_249_nocturnal-16	Bat-2d5b_226_Rhinolophidae-27_635	226	Bat-2d5b_249_nocturnal-16_3967	249	23	Rhinolophidae	nocturnal	4.167
+adaptation	Syc-8f11_32_bat-10	Syc-8f11_9_pollinators-5	Syc-8f11_32_bat-10_1913	32	Syc-8f11_9_pollinators-5_3974	9	23	Common blossom bat	pollinator	4.167
+adaptation	Syc-8f11_32_bat-16	Syc-8f11_9_pollinators-5	Syc-8f11_32_bat-16_4795	32	Syc-8f11_9_pollinators-5_3974	9	23	common blossom bat	pollinator	4.167
+adaptation	Bat-2d5b_288_auritus-16	Bat-2d5b_268_hibernation-13	Bat-2d5b_288_auritus-16_1796	288	Bat-2d5b_268_hibernation-13_3959	268	20	Plecotus auritus	hibernation	4.143
+adaptation	Bul-4be2_21_bats-15	Bul-4be2_6_social-7	Bul-4be2_21_bats-15_2440	21	Bul-4be2_6_social-7_3788	6	15	Greater bulldog bat	social	4.125
+taxongroup	Mou-29bd_34_Chiroptera-9	Mou-29bd_34_Mammalia-7	Mou-29bd_34_Chiroptera-9_1655	34	Mou-29bd_34_Mammalia-7_19	34	0	Chiroptera	Mammalia	100.0
+taxongroup	Hor-ab9c_141_bat-32	Hor-ab9c_141_bat-48	Hor-ab9c_141_bat-32_4127	141	Hor-ab9c_141_bat-48_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_177_bats-26	Hor-ab9c_177_bats-26	Hor-ab9c_177_bats-26_4127	177	Hor-ab9c_177_bats-26_4665	177	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-17	Hor-ab9c_141_bat-8	Hor-ab9c_141_bat-17_4127	141	Hor-ab9c_141_bat-8_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-44_4127	224	Hor-ab9c_224_bat-44_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-44_4127	224	Hor-ab9c_224_bat-35_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_177_bats-8	Hor-ab9c_177_bats-26	Hor-ab9c_177_bats-8_4127	177	Hor-ab9c_177_bats-26_4665	177	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-32	Hor-ab9c_141_bat-22	Hor-ab9c_141_bat-32_4127	141	Hor-ab9c_141_bat-22_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-44_4127	224	Hor-ab9c_224_bat-58_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-44_4127	224	Hor-ab9c_224_bat-53_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_95_bat-8	Hor-ab9c_95_bat-8	Hor-ab9c_95_bat-8_4127	95	Hor-ab9c_95_bat-8_4665	95	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_219_bat-28	Hor-ab9c_219_bat-21	Hor-ab9c_219_bat-28_4127	219	Hor-ab9c_219_bat-21_4665	219	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-44_4127	224	Hor-ab9c_224_bat-68_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-32	Hor-ab9c_141_bat-8	Hor-ab9c_141_bat-32_4127	141	Hor-ab9c_141_bat-8_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_79_bats-3	Hor-ab9c_79_bats-6	Hor-ab9c_79_bats-3_4127	79	Hor-ab9c_79_bats-6_4665	79	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-44_4127	224	Hor-ab9c_224_bat-9_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_184_bat-13	Hor-ab9c_184_bat-4	Hor-ab9c_184_bat-13_4127	184	Hor-ab9c_184_bat-4_4665	184	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_79_bats-3	Hor-ab9c_79_bats-3	Hor-ab9c_79_bats-3_4127	79	Hor-ab9c_79_bats-3_4665	79	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_177_bats-26	Hor-ab9c_177_bats-8	Hor-ab9c_177_bats-26_4127	177	Hor-ab9c_177_bats-8_4665	177	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-17_4127	224	Hor-ab9c_224_bat-9_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_219_bat-16	Hor-ab9c_219_bat-21	Hor-ab9c_219_bat-16_4127	219	Hor-ab9c_219_bat-21_4665	219	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-35_4127	224	Hor-ab9c_224_bat-44_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-22	Hor-ab9c_141_bat-48	Hor-ab9c_141_bat-22_4127	141	Hor-ab9c_141_bat-48_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-22	Hor-ab9c_141_bat-8	Hor-ab9c_141_bat-22_4127	141	Hor-ab9c_141_bat-8_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-17	Hor-ab9c_141_bat-48	Hor-ab9c_141_bat-17_4127	141	Hor-ab9c_141_bat-48_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_219_bat-16	Hor-ab9c_219_bat-16	Hor-ab9c_219_bat-16_4127	219	Hor-ab9c_219_bat-16_4665	219	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_219_bat-16	Hor-ab9c_219_bat-28	Hor-ab9c_219_bat-16_4127	219	Hor-ab9c_219_bat-28_4665	219	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-22	Hor-ab9c_141_bat-17	Hor-ab9c_141_bat-22_4127	141	Hor-ab9c_141_bat-17_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-35_4127	224	Hor-ab9c_224_bat-17_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-35_4127	224	Hor-ab9c_224_bat-26_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-35_4127	224	Hor-ab9c_224_bat-53_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-32	Hor-ab9c_141_bat-32	Hor-ab9c_141_bat-32_4127	141	Hor-ab9c_141_bat-32_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_82_bat-5	Hor-ab9c_82_bat-5	Hor-ab9c_82_bat-5_4127	82	Hor-ab9c_82_bat-5_4665	82	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-32	Hor-ab9c_205_bat-41	Hor-ab9c_205_bat-32_4127	205	Hor-ab9c_205_bat-41_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-41	Hor-ab9c_205_bat-73	Hor-ab9c_205_bat-41_4127	205	Hor-ab9c_205_bat-73_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-41	Hor-ab9c_205_bats-11	Hor-ab9c_205_bat-41_4127	205	Hor-ab9c_205_bats-11_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_30_bats-10	Hor-ab9c_30_bats-10	Hor-ab9c_30_bats-10_4127	30	Hor-ab9c_30_bats-10_4665	30	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-41	Hor-ab9c_205_bats-17	Hor-ab9c_205_bat-41_4127	205	Hor-ab9c_205_bats-17_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_36_bats-14	Hor-ab9c_36_bats-14	Hor-ab9c_36_bats-14_4127	36	Hor-ab9c_36_bats-14_4665	36	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-59	Hor-ab9c_205_bat-41	Hor-ab9c_205_bat-59_4127	205	Hor-ab9c_205_bat-41_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_25_bats-6	Hor-ab9c_25_bats-6	Hor-ab9c_25_bats-6_4127	25	Hor-ab9c_25_bats-6_4665	25	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-22	Hor-ab9c_141_bat-22	Hor-ab9c_141_bat-22_4127	141	Hor-ab9c_141_bat-22_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_25_bats-6	Hor-ab9c_25_bats-21	Hor-ab9c_25_bats-6_4127	25	Hor-ab9c_25_bats-21_4665	25	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_25_bats-21	Hor-ab9c_25_bats-6	Hor-ab9c_25_bats-21_4127	25	Hor-ab9c_25_bats-6_4665	25	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-9	Hor-ab9c_199_bat-20	Hor-ab9c_199_bat-9_4127	199	Hor-ab9c_199_bat-20_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-26_4127	224	Hor-ab9c_224_bat-9_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-26_4127	224	Hor-ab9c_224_bat-68_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-26_4127	224	Hor-ab9c_224_bat-58_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-26_4127	224	Hor-ab9c_224_bat-53_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-26_4127	224	Hor-ab9c_224_bat-26_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-26_4127	224	Hor-ab9c_224_bat-44_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-26_4127	224	Hor-ab9c_224_bat-35_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_216_bat-4	Hor-ab9c_216_bat-4	Hor-ab9c_216_bat-4_4127	216	Hor-ab9c_216_bat-4_4665	216	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_184_bat-4	Hor-ab9c_184_bat-4	Hor-ab9c_184_bat-4_4127	184	Hor-ab9c_184_bat-4_4665	184	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_184_bat-4	Hor-ab9c_184_bat-13	Hor-ab9c_184_bat-4_4127	184	Hor-ab9c_184_bat-13_4665	184	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-32	Hor-ab9c_205_bats-17	Hor-ab9c_205_bat-32_4127	205	Hor-ab9c_205_bats-17_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-32	Hor-ab9c_205_bats-11	Hor-ab9c_205_bat-32_4127	205	Hor-ab9c_205_bats-11_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-32	Hor-ab9c_205_bat-73	Hor-ab9c_205_bat-32_4127	205	Hor-ab9c_205_bat-73_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-32	Hor-ab9c_205_bat-59	Hor-ab9c_205_bat-32_4127	205	Hor-ab9c_205_bat-59_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-32	Hor-ab9c_205_bat-50	Hor-ab9c_205_bat-32_4127	205	Hor-ab9c_205_bat-50_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-41	Hor-ab9c_205_bat-59	Hor-ab9c_205_bat-41_4127	205	Hor-ab9c_205_bat-59_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-35_4127	224	Hor-ab9c_224_bat-35_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_184_bat-13	Hor-ab9c_184_bat-13	Hor-ab9c_184_bat-13_4127	184	Hor-ab9c_184_bat-13_4665	184	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_2_Chiroptera-8	Bat-2d5b_2_mammals-4	Bat-2d5b_2_Chiroptera-8_1655	2	Bat-2d5b_2_mammals-4_3797	2	0	Chiroptera	mammals	100.0
+taxongroup	Bat-2d5b_427_bat-37	Bat-2d5b_427_bat-56	Bat-2d5b_427_bat-37_4127	427	Bat-2d5b_427_bat-56_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-9_4127	224	Hor-ab9c_224_bat-26_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_113_bats-3	Hor-ab9c_113_bats-3	Hor-ab9c_113_bats-3_4127	113	Hor-ab9c_113_bats-3_4665	113	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-9_4127	224	Hor-ab9c_224_bat-35_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-9_4127	224	Hor-ab9c_224_bat-44_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-9_4127	224	Hor-ab9c_224_bat-53_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-9_4127	224	Hor-ab9c_224_bat-58_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-37	Bat-2d5b_427_bat-48	Bat-2d5b_427_bat-37_4127	427	Bat-2d5b_427_bat-48_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-20	Bat-2d5b_427_bat-48	Bat-2d5b_427_bat-20_4127	427	Bat-2d5b_427_bat-48_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-18	Bat-2d5b_226_bats-25	Bat-2d5b_226_bats-18_4127	226	Bat-2d5b_226_bats-25_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-18	Bat-2d5b_226_bats-34	Bat-2d5b_226_bats-18_4127	226	Bat-2d5b_226_bats-34_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-18	Bat-2d5b_226_bats-44	Bat-2d5b_226_bats-18_4127	226	Bat-2d5b_226_bats-44_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-56	Bat-2d5b_427_bat-37	Bat-2d5b_427_bat-56_4127	427	Bat-2d5b_427_bat-37_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-37	Bat-2d5b_427_bat-37	Bat-2d5b_427_bat-37_4127	427	Bat-2d5b_427_bat-37_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-25	Hor-ab9c_205_bats-11	Hor-ab9c_205_bats-25_4127	205	Hor-ab9c_205_bats-11_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-22	Hor-ab9c_141_bat-32	Hor-ab9c_141_bat-22_4127	141	Hor-ab9c_141_bat-32_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_118_bat-15	Hor-ab9c_118_bat-15	Hor-ab9c_118_bat-15_4127	118	Hor-ab9c_118_bat-15_4665	118	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-9_4127	224	Hor-ab9c_224_bat-68_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-68_4127	224	Hor-ab9c_224_bat-35_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-68_4127	224	Hor-ab9c_224_bat-26_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-68_4127	224	Hor-ab9c_224_bat-17_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-50	Hor-ab9c_205_bat-41	Hor-ab9c_205_bat-50_4127	205	Hor-ab9c_205_bat-41_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-50	Hor-ab9c_205_bat-59	Hor-ab9c_205_bat-50_4127	205	Hor-ab9c_205_bat-59_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-50	Hor-ab9c_205_bat-73	Hor-ab9c_205_bat-50_4127	205	Hor-ab9c_205_bat-73_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-53_4127	224	Hor-ab9c_224_bat-68_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_214_bat-33	Hor-ab9c_214_bat-33	Hor-ab9c_214_bat-33_4127	214	Hor-ab9c_214_bat-33_4665	214	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_227_bats-16	Hor-ab9c_227_bats-16	Hor-ab9c_227_bats-16_4127	227	Hor-ab9c_227_bats-16_4665	227	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_136_bat-17	Hor-ab9c_136_bat-17	Hor-ab9c_136_bat-17_4127	136	Hor-ab9c_136_bat-17_4665	136	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_66_bat-40	Hor-ab9c_66_bat-6	Hor-ab9c_66_bat-40_4127	66	Hor-ab9c_66_bat-6_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_136_bats-6	Hor-ab9c_136_bats-6	Hor-ab9c_136_bats-6_4127	136	Hor-ab9c_136_bats-6_4665	136	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_74_bat-10	Hor-ab9c_74_bat-10	Hor-ab9c_74_bat-10_4127	74	Hor-ab9c_74_bat-10_4665	74	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_78_bats-18	Hor-ab9c_78_bats-18	Hor-ab9c_78_bats-18_4127	78	Hor-ab9c_78_bats-18_4665	78	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_215_bats-7	Hor-ab9c_215_bats-7	Hor-ab9c_215_bats-7_4127	215	Hor-ab9c_215_bats-7_4665	215	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-26_4127	224	Hor-ab9c_224_bat-17_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_219_bat-28	Hor-ab9c_219_bat-16	Hor-ab9c_219_bat-28_4127	219	Hor-ab9c_219_bat-16_4665	219	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_172_bats-6	Hor-ab9c_172_bats-6	Hor-ab9c_172_bats-6_4127	172	Hor-ab9c_172_bats-6_4665	172	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_219_bat-21	Hor-ab9c_219_bat-21	Hor-ab9c_219_bat-21_4127	219	Hor-ab9c_219_bat-21_4665	219	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_219_bat-21	Hor-ab9c_219_bat-28	Hor-ab9c_219_bat-21_4127	219	Hor-ab9c_219_bat-28_4665	219	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_86_bats-23	Hor-ab9c_86_bats-23	Hor-ab9c_86_bats-23_4127	86	Hor-ab9c_86_bats-23_4665	86	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_177_bats-8	Hor-ab9c_177_bats-8	Hor-ab9c_177_bats-8_4127	177	Hor-ab9c_177_bats-8_4665	177	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-17_4127	224	Hor-ab9c_224_bat-68_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-53_4127	224	Hor-ab9c_224_bat-58_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-9_4127	224	Hor-ab9c_224_bat-17_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_136_bats-6	Hor-ab9c_136_bat-17	Hor-ab9c_136_bats-6_4127	136	Hor-ab9c_136_bat-17_4665	136	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_214_bat-22	Hor-ab9c_214_bat-22	Hor-ab9c_214_bat-22_4127	214	Hor-ab9c_214_bat-22_4665	214	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-68_4127	224	Hor-ab9c_224_bat-9_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-68_4127	224	Hor-ab9c_224_bat-68_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-68_4127	224	Hor-ab9c_224_bat-58_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-68_4127	224	Hor-ab9c_224_bat-53_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-68_4127	224	Hor-ab9c_224_bat-44_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-9_4127	224	Hor-ab9c_224_bat-9_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-53_4127	224	Hor-ab9c_224_bat-9_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_113_bats-3	Hor-ab9c_113_bats-11	Hor-ab9c_113_bats-3_4127	113	Hor-ab9c_113_bats-11_4665	113	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-53_4127	224	Hor-ab9c_224_bat-53_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-53_4127	224	Hor-ab9c_224_bat-44_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-53_4127	224	Hor-ab9c_224_bat-35_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-53_4127	224	Hor-ab9c_224_bat-26_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-53_4127	224	Hor-ab9c_224_bat-17_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_113_bats-11	Hor-ab9c_113_bats-3	Hor-ab9c_113_bats-11_4127	113	Hor-ab9c_113_bats-3_4665	113	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_113_bats-11	Hor-ab9c_113_bats-11	Hor-ab9c_113_bats-11_4127	113	Hor-ab9c_113_bats-11_4665	113	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_25_bats-21	Hor-ab9c_25_bats-21	Hor-ab9c_25_bats-21_4127	25	Hor-ab9c_25_bats-21_4665	25	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-32	Hor-ab9c_205_bat-32	Hor-ab9c_205_bat-32_4127	205	Hor-ab9c_205_bat-32_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-41	Hor-ab9c_205_bats-25	Hor-ab9c_205_bat-41_4127	205	Hor-ab9c_205_bats-25_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-73	Hor-ab9c_205_bat-32	Hor-ab9c_205_bat-73_4127	205	Hor-ab9c_205_bat-32_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-17	Hor-ab9c_141_bat-17	Hor-ab9c_141_bat-17_4127	141	Hor-ab9c_141_bat-17_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-73	Hor-ab9c_205_bats-11	Hor-ab9c_205_bat-73_4127	205	Hor-ab9c_205_bats-11_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_237_bat-10	Hor-ab9c_237_bats-39	Hor-ab9c_237_bat-10_4127	237	Hor-ab9c_237_bats-39_4665	237	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-53	Hor-ab9c_199_bat-34	Hor-ab9c_199_bat-53_4127	199	Hor-ab9c_199_bat-34_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_237_bat-10	Hor-ab9c_237_bat-10	Hor-ab9c_237_bat-10_4127	237	Hor-ab9c_237_bat-10_4665	237	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_54_bats-5	Hor-ab9c_54_bats-5	Hor-ab9c_54_bats-5_4127	54	Hor-ab9c_54_bats-5_4665	54	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_154_bat-7	Hor-ab9c_154_bat-7	Hor-ab9c_154_bat-7_4127	154	Hor-ab9c_154_bat-7_4665	154	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-53	Hor-ab9c_199_bat-9	Hor-ab9c_199_bat-53_4127	199	Hor-ab9c_199_bat-9_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-73	Hor-ab9c_205_bats-25	Hor-ab9c_205_bat-73_4127	205	Hor-ab9c_205_bats-25_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-59	Hor-ab9c_205_bats-11	Hor-ab9c_205_bat-59_4127	205	Hor-ab9c_205_bats-11_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_235_bat-13	Hor-ab9c_235_bat-13	Hor-ab9c_235_bat-13_4127	235	Hor-ab9c_235_bat-13_4665	235	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-73	Hor-ab9c_205_bat-73	Hor-ab9c_205_bat-73_4127	205	Hor-ab9c_205_bat-73_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_58_bats-12	Hor-ab9c_58_bats-12	Hor-ab9c_58_bats-12_4127	58	Hor-ab9c_58_bats-12_4665	58	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-73	Hor-ab9c_205_bat-41	Hor-ab9c_205_bat-73_4127	205	Hor-ab9c_205_bat-41_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_229_bats-18	Hor-ab9c_229_bats-18	Hor-ab9c_229_bats-18_4127	229	Hor-ab9c_229_bats-18_4665	229	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-73	Hor-ab9c_205_bat-50	Hor-ab9c_205_bat-73_4127	205	Hor-ab9c_205_bat-50_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-53	Hor-ab9c_199_bat-20	Hor-ab9c_199_bat-53_4127	199	Hor-ab9c_199_bat-20_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-73	Hor-ab9c_205_bat-59	Hor-ab9c_205_bat-73_4127	205	Hor-ab9c_205_bat-59_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-32	Hor-ab9c_141_bat-17	Hor-ab9c_141_bat-32_4127	141	Hor-ab9c_141_bat-17_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-17_4127	224	Hor-ab9c_224_bat-26_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-73	Hor-ab9c_205_bats-17	Hor-ab9c_205_bat-73_4127	205	Hor-ab9c_205_bats-17_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-17_4127	224	Hor-ab9c_224_bat-35_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-35_4127	224	Hor-ab9c_224_bat-58_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-32	Hor-ab9c_205_bats-25	Hor-ab9c_205_bat-32_4127	205	Hor-ab9c_205_bats-25_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-59	Hor-ab9c_205_bat-59	Hor-ab9c_205_bat-59_4127	205	Hor-ab9c_205_bat-59_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-59	Hor-ab9c_205_bats-17	Hor-ab9c_205_bat-59_4127	205	Hor-ab9c_205_bats-17_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-59	Hor-ab9c_205_bats-25	Hor-ab9c_205_bat-59_4127	205	Hor-ab9c_205_bats-25_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_237_bat-10	Hor-ab9c_237_bats-44	Hor-ab9c_237_bat-10_4127	237	Hor-ab9c_237_bats-44_4665	237	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-35_4127	224	Hor-ab9c_224_bat-9_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_79_bats-6	Hor-ab9c_79_bats-3	Hor-ab9c_79_bats-6_4127	79	Hor-ab9c_79_bats-3_4665	79	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_79_bats-6	Hor-ab9c_79_bats-6	Hor-ab9c_79_bats-6_4127	79	Hor-ab9c_79_bats-6_4665	79	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-17_4127	224	Hor-ab9c_224_bat-17_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Gre-c26f_67_bat-3	Gre-c26f_67_bat-3	Gre-c26f_67_bat-3_5050	67	Gre-c26f_67_bat-3_4665	67	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_61_bats-3	Gre-c26f_61_bats-3	Gre-c26f_61_bats-3_5050	61	Gre-c26f_61_bats-3_4665	61	0	greater bulldog bat	bats	100.0
+taxongroup	Gre8a5c_3_bat-11	Gre8a5c_3_bat-11	Gre8a5c_3_bat-11_5050	3	Gre8a5c_3_bat-11_4665	3	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_51_bat-4	Gre-c26f_51_bat-4	Gre-c26f_51_bat-4_5050	51	Gre-c26f_51_bat-4_4665	51	0	greater bulldog bat	bats	100.0
+taxongroup	Gre8a5c_3_bats-3	Gre8a5c_3_bat-11	Gre8a5c_3_bats-3_5050	3	Gre8a5c_3_bat-11_4665	3	0	greater bulldog bat	bats	100.0
+taxongroup	Gre8a5c_3_bats-3	Gre8a5c_3_bats-3	Gre8a5c_3_bats-3_5050	3	Gre8a5c_3_bats-3_4665	3	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_21_bats-15	Bul-4be2_21_bats-6	Bul-4be2_21_bats-15_5050	21	Bul-4be2_21_bats-6_4665	21	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_23_bat-4	Bul-4be2_23_bat-4	Bul-4be2_23_bat-4_5050	23	Bul-4be2_23_bat-4_4665	23	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bats-28	Bul-4be2_2_bats-28	Bul-4be2_2_bats-28_5050	2	Bul-4be2_2_bats-28_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bats-28	Bul-4be2_2_bats-13	Bul-4be2_2_bats-28_5050	2	Bul-4be2_2_bats-13_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bats-28	Bul-4be2_2_bats-10	Bul-4be2_2_bats-28_5050	2	Bul-4be2_2_bats-10_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bats-28	Bul-4be2_2_bat-2	Bul-4be2_2_bats-28_5050	2	Bul-4be2_2_bat-2_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bat-2	Bul-4be2_2_bat-2	Bul-4be2_2_bat-2_5050	2	Bul-4be2_2_bat-2_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_21_bats-15	Bul-4be2_21_bats-15	Bul-4be2_21_bats-15_5050	21	Bul-4be2_21_bats-15_4665	21	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bat-2	Bul-4be2_2_bats-10	Bul-4be2_2_bat-2_5050	2	Bul-4be2_2_bats-10_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Gre8a5c_3_bat-11	Gre8a5c_3_bats-3	Gre8a5c_3_bat-11_5050	3	Gre8a5c_3_bats-3_4665	3	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bats-10	Bul-4be2_2_bat-2	Bul-4be2_2_bats-10_5050	2	Bul-4be2_2_bat-2_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Hor-ab9c_141_bat-48	Hor-ab9c_141_bat-48	Hor-ab9c_141_bat-48_4127	141	Hor-ab9c_141_bat-48_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-48	Hor-ab9c_141_bat-8	Hor-ab9c_141_bat-48_4127	141	Hor-ab9c_141_bat-8_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_84_bats-3	Hor-ab9c_84_bats-3	Hor-ab9c_84_bats-3_4127	84	Hor-ab9c_84_bats-3_4665	84	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-8	Hor-ab9c_141_bat-48	Hor-ab9c_141_bat-8_4127	141	Hor-ab9c_141_bat-48_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-48	Hor-ab9c_141_bat-17	Hor-ab9c_141_bat-48_4127	141	Hor-ab9c_141_bat-17_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-8	Hor-ab9c_141_bat-8	Hor-ab9c_141_bat-8_4127	141	Hor-ab9c_141_bat-8_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_219_bat-21	Hor-ab9c_219_bat-16	Hor-ab9c_219_bat-21_4127	219	Hor-ab9c_219_bat-16_4665	219	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-59	Hor-ab9c_205_bat-73	Hor-ab9c_205_bat-59_4127	205	Hor-ab9c_205_bat-73_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-53	Hor-ab9c_199_bat-43	Hor-ab9c_199_bat-53_4127	199	Hor-ab9c_199_bat-43_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-35_4127	224	Hor-ab9c_224_bat-68_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-17_4127	224	Hor-ab9c_224_bat-44_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-17	Hor-ab9c_141_bat-32	Hor-ab9c_141_bat-17_4127	141	Hor-ab9c_141_bat-32_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-44_4127	224	Hor-ab9c_224_bat-17_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_48_bat-8	Les-c392_48_bat-8	Les-c392_48_bat-8_4127	48	Les-c392_48_bat-8_4665	48	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_2_bat-30	Les-c392_2_bat-30	Les-c392_2_bat-30_4127	2	Les-c392_2_bat-30_4665	2	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_2_bat-30	Les-c392_2_bat-19	Les-c392_2_bat-30_4127	2	Les-c392_2_bat-19_4665	2	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_2_bat-19	Les-c392_2_bat-4	Les-c392_2_bat-19_4127	2	Les-c392_2_bat-4_4665	2	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_5_bats-12	Les-c392_5_bats-12	Les-c392_5_bats-12_4127	5	Les-c392_5_bats-12_4665	5	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_25_bat-3	Les-c392_25_bat-3	Les-c392_25_bat-3_4127	25	Les-c392_25_bat-3_4665	25	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_2_bat-19	Les-c392_2_bat-19	Les-c392_2_bat-19_4127	2	Les-c392_2_bat-19_4665	2	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_2_bat-19	Les-c392_2_bat-30	Les-c392_2_bat-19_4127	2	Les-c392_2_bat-30_4665	2	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_15_bat-3	Les-c392_15_bat-3	Les-c392_15_bat-3_4127	15	Les-c392_15_bat-3_4665	15	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_48_bat-25	Les-c392_48_bat-25	Les-c392_48_bat-25_4127	48	Les-c392_48_bat-25_4665	48	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_48_bat-25	Les-c392_48_bat-8	Les-c392_48_bat-25_4127	48	Les-c392_48_bat-8_4665	48	0	horseshoe bats	bats	100.0
+taxongroup	Les00fe_8_bats-3	Les00fe_8_bats-3	Les00fe_8_bats-3_4127	8	Les00fe_8_bats-3_4665	8	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-41	Hor-ab9c_205_bat-32	Hor-ab9c_205_bat-41_4127	205	Hor-ab9c_205_bat-32_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-9	Hor-ab9c_199_bat-53	Hor-ab9c_199_bat-9_4127	199	Hor-ab9c_199_bat-53_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-41	Hor-ab9c_205_bat-50	Hor-ab9c_205_bat-41_4127	205	Hor-ab9c_205_bat-50_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-48	Hor-ab9c_141_bat-32	Hor-ab9c_141_bat-48_4127	141	Hor-ab9c_141_bat-32_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-48	Hor-ab9c_141_bat-22	Hor-ab9c_141_bat-48_4127	141	Hor-ab9c_141_bat-22_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_48_bat-8	Les-c392_48_bat-25	Les-c392_48_bat-8_4127	48	Les-c392_48_bat-25_4665	48	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_4_bat-3	Les-c392_4_bat-3	Les-c392_4_bat-3_4127	4	Les-c392_4_bat-3_4665	4	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_50_bat-13	Les-c392_50_bat-13	Les-c392_50_bat-13_4127	50	Les-c392_50_bat-13_4665	50	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_50_bat-13	Les-c392_50_bat-7	Les-c392_50_bat-13_4127	50	Les-c392_50_bat-7_4665	50	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_50_bat-7	Les-c392_50_bat-7	Les-c392_50_bat-7_4127	50	Les-c392_50_bat-7_4665	50	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_11_bat-4	Les-c392_11_bat-4	Les-c392_11_bat-4_4127	11	Les-c392_11_bat-4_4665	11	0	horseshoe bats	bats	100.0
+taxongroup	Les00fe_5_bats-3	Les00fe_5_bats-3	Les00fe_5_bats-3_4127	5	Les00fe_5_bats-3_4665	5	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-44_4127	224	Hor-ab9c_224_bat-26_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_219_bat-28	Hor-ab9c_219_bat-28	Hor-ab9c_219_bat-28_4127	219	Hor-ab9c_219_bat-28_4665	219	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_155_bat-4	Hor-ab9c_155_bat-4	Hor-ab9c_155_bat-4_4127	155	Hor-ab9c_155_bat-4_4665	155	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-59	Hor-ab9c_205_bat-50	Hor-ab9c_205_bat-59_4127	205	Hor-ab9c_205_bat-50_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_2_bat-30	Les-c392_2_bat-4	Les-c392_2_bat-30_4127	2	Les-c392_2_bat-4_4665	2	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_16_bats-3	Les-c392_16_bats-3	Les-c392_16_bats-3_4127	16	Les-c392_16_bats-3_4665	16	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-17_4127	224	Hor-ab9c_224_bat-58_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_7_bats-3	Les-c392_7_bats-7	Les-c392_7_bats-3_4127	7	Les-c392_7_bats-7_4665	7	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-17_4127	224	Hor-ab9c_224_bat-53_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-8	Hor-ab9c_141_bat-32	Hor-ab9c_141_bat-8_4127	141	Hor-ab9c_141_bat-32_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-8	Hor-ab9c_141_bat-22	Hor-ab9c_141_bat-8_4127	141	Hor-ab9c_141_bat-22_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-8	Hor-ab9c_141_bat-17	Hor-ab9c_141_bat-8_4127	141	Hor-ab9c_141_bat-17_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_7_bats-7	Les-c392_7_bats-7	Les-c392_7_bats-7_4127	7	Les-c392_7_bats-7_4665	7	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_2_bat-4	Les-c392_2_bat-19	Les-c392_2_bat-4_4127	2	Les-c392_2_bat-19_4665	2	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_2_bat-4	Les-c392_2_bat-30	Les-c392_2_bat-4_4127	2	Les-c392_2_bat-30_4665	2	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_2_bat-4	Les-c392_2_bat-4	Les-c392_2_bat-4_4127	2	Les-c392_2_bat-4_4665	2	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_34_bat-8	Les-c392_34_bat-8	Les-c392_34_bat-8_4127	34	Les-c392_34_bat-8_4665	34	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_35_bats-8	Les-c392_35_bats-8	Les-c392_35_bats-8_4127	35	Les-c392_35_bats-8_4665	35	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_40_bat-4	Les-c392_40_bat-4	Les-c392_40_bat-4_4127	40	Les-c392_40_bat-4_4665	40	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_43_bat-4	Les-c392_43_bat-4	Les-c392_43_bat-4_4127	43	Les-c392_43_bat-4_4665	43	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_29_bat-3	Les-c392_29_bat-3	Les-c392_29_bat-3_4127	29	Les-c392_29_bat-3_4665	29	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_1_bat-3	Les-c392_1_bat-3	Les-c392_1_bat-3_4127	1	Les-c392_1_bat-3_4665	1	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_50_bat-7	Les-c392_50_bat-13	Les-c392_50_bat-7_4127	50	Les-c392_50_bat-13_4665	50	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_57_bat-18	Les-c392_57_bat-18	Les-c392_57_bat-18_4127	57	Les-c392_57_bat-18_4665	57	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_185_bat-12	Hor-ab9c_185_bat-12	Hor-ab9c_185_bat-12_4127	185	Hor-ab9c_185_bat-12_4665	185	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_57_bat-18	Les-c392_57_bat-23	Les-c392_57_bat-18_4127	57	Les-c392_57_bat-23_4665	57	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_71_bat-3	Les-c392_71_bat-3	Les-c392_71_bat-3_4127	71	Les-c392_71_bat-3_4665	71	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_7_bats-3	Les-c392_7_bats-3	Les-c392_7_bats-3_4127	7	Les-c392_7_bats-3_4665	7	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_5_bats-12	Les-c392_5_bat-4	Les-c392_5_bats-12_4127	5	Les-c392_5_bat-4_4665	5	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_57_bat-23	Les-c392_57_bat-18	Les-c392_57_bat-23_4127	57	Les-c392_57_bat-18_4665	57	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_57_bat-23	Les-c392_57_bat-23	Les-c392_57_bat-23_4127	57	Les-c392_57_bat-23_4665	57	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_64_bat-3	Les-c392_64_bat-3	Les-c392_64_bat-3_4127	64	Les-c392_64_bat-3_4665	64	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_5_bat-4	Les-c392_5_bat-4	Les-c392_5_bat-4_4127	5	Les-c392_5_bat-4_4665	5	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_5_bat-4	Les-c392_5_bats-12	Les-c392_5_bat-4_4127	5	Les-c392_5_bats-12_4665	5	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_63_bat-3	Les-c392_63_bat-3	Les-c392_63_bat-3_4127	63	Les-c392_63_bat-3_4665	63	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_141_bat-17	Hor-ab9c_141_bat-22	Hor-ab9c_141_bat-17_4127	141	Hor-ab9c_141_bat-22_4665	141	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_66_bat-40	Hor-ab9c_66_bat-40	Hor-ab9c_66_bat-40_4127	66	Hor-ab9c_66_bat-40_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_66_bat-15	Hor-ab9c_66_bat-15	Hor-ab9c_66_bat-15_4127	66	Hor-ab9c_66_bat-15_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Mega968_2_megabats-2	Mega968_2_bats-5	Mega968_2_megabats-2_4152	2	Mega968_2_bats-5_4665	2	0	megabats	bats	100.0
+taxongroup	Com-a11e_2_megabat-23	Com-a11e_2_bat-4	Com-a11e_2_megabat-23_4152	2	Com-a11e_2_bat-4_4665	2	0	megabats	bats	100.0
+taxongroup	Com-a11e_2_megabat-23	Com-a11e_2_bat-19	Com-a11e_2_megabat-23_4152	2	Com-a11e_2_bat-19_4665	2	0	megabats	bats	100.0
+taxongroup	Com-a11e_2_megabat-23	Com-a11e_2_bat-15	Com-a11e_2_megabat-23_4152	2	Com-a11e_2_bat-15_4665	2	0	megabats	bats	100.0
+taxongroup	Meg-fd01_192_megabat-9	Meg-fd01_192_bat-16	Meg-fd01_192_megabat-9_4152	192	Meg-fd01_192_bat-16_4665	192	0	megabats	bats	100.0
+taxongroup	Meg-fd01_139_megabats-2	Meg-fd01_139_bat-20	Meg-fd01_139_megabats-2_4152	139	Meg-fd01_139_bat-20_4665	139	0	megabats	bats	100.0
+taxongroup	Meg-fd01_104_megabats-7	Meg-fd01_104_bats-11	Meg-fd01_104_megabats-7_4152	104	Meg-fd01_104_bats-11_4665	104	0	megabats	bats	100.0
+taxongroup	Meg-fd01_212_megabats-6	Meg-fd01_212_bats-4	Meg-fd01_212_megabats-6_4152	212	Meg-fd01_212_bats-4_4665	212	0	megabats	bats	100.0
+taxongroup	Meg-fd01_182_megabat-6	Meg-fd01_182_bat-30	Meg-fd01_182_megabat-6_4152	182	Meg-fd01_182_bat-30_4665	182	0	megabats	bats	100.0
+taxongroup	Meg-fd01_104_megabats-33	Meg-fd01_104_bats-11	Meg-fd01_104_megabats-33_4152	104	Meg-fd01_104_bats-11_4665	104	0	megabats	bats	100.0
+taxongroup	Meg-fd01_295_megabat-12	Meg-fd01_295_bat-40	Meg-fd01_295_megabat-12_4152	295	Meg-fd01_295_bat-40_4665	295	0	megabats	bats	100.0
+taxongroup	Meg-fd01_181_megabats-5	Meg-fd01_181_bats-3	Meg-fd01_181_megabats-5_4152	181	Meg-fd01_181_bats-3_4665	181	0	megabats	bats	100.0
+taxongroup	Meg-fd01_240_megabat-8	Meg-fd01_240_bat-24	Meg-fd01_240_megabat-8_4152	240	Meg-fd01_240_bat-24_4665	240	0	megabats	bats	100.0
+taxongroup	Meg-fd01_444_megabats-13	Meg-fd01_444_bats-5	Meg-fd01_444_megabats-13_4152	444	Meg-fd01_444_bats-5_4665	444	0	megabats	bats	100.0
+taxongroup	Meg-fd01_312_megabat-8	Meg-fd01_312_bat-25	Meg-fd01_312_megabat-8_4152	312	Meg-fd01_312_bat-25_4665	312	0	megabats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-17	Hor-ab9c_205_bats-17	Hor-ab9c_205_bats-17_4127	205	Hor-ab9c_205_bats-17_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Meg-fd01_335_megabat-21	Meg-fd01_335_bat-15	Meg-fd01_335_megabat-21_4152	335	Meg-fd01_335_bat-15_4665	335	0	megabats	bats	100.0
+taxongroup	Bat-2d5b_255_megabats-10	Bat-2d5b_255_bats-3	Bat-2d5b_255_megabats-10_4152	255	Bat-2d5b_255_bats-3_4665	255	0	megabats	bats	100.0
+taxongroup	Bat-2d5b_244_megabats-14	Bat-2d5b_244_bat-51	Bat-2d5b_244_megabats-14_4152	244	Bat-2d5b_244_bat-51_4665	244	0	megabats	bats	100.0
+taxongroup	Bat-2d5b_244_megabats-14	Bat-2d5b_244_bat-63	Bat-2d5b_244_megabats-14_4152	244	Bat-2d5b_244_bat-63_4665	244	0	megabats	bats	100.0
+taxongroup	Bat-2d5b_77_megabats-23	Bat-2d5b_77_bats-32	Bat-2d5b_77_megabats-23_4152	77	Bat-2d5b_77_bats-32_4665	77	0	megabats	bats	100.0
+taxongroup	Bat-2d5b_244_megabats-14	Bat-2d5b_244_bat-40	Bat-2d5b_244_megabats-14_4152	244	Bat-2d5b_244_bat-40_4665	244	0	megabats	bats	100.0
+taxongroup	Meg-fd01_181_megabats-5	Meg-fd01_181_mammals-12	Meg-fd01_181_megabats-5_4152	181	Meg-fd01_181_mammals-12_3797	181	0	megabats	mammals	100.0
+taxongroup	Meg-fd01_146_megabats-5	Meg-fd01_146_mammals-3	Meg-fd01_146_megabats-5_4152	146	Meg-fd01_146_mammals-3_3797	146	0	megabats	mammals	100.0
+taxongroup	Bat-2d5b_40_megabats-14	Bat-2d5b_40_mammals-32	Bat-2d5b_40_megabats-14_4152	40	Bat-2d5b_40_mammals-32_3797	40	0	megabats	mammals	100.0
+taxongroup	Com-8568_37_bats-3	Com-8568_37_bats-3	Com-8568_37_bats-3_4812	37	Com-8568_37_bats-3_4665	37	0	noctule bat	bats	100.0
+taxongroup	Com-8568_28_bats-3	Com-8568_28_bats-3	Com-8568_28_bats-3_4812	28	Com-8568_28_bats-3_4665	28	0	noctule bat	bats	100.0
+taxongroup	Com-8568_96_bat-6	Com-8568_96_bat-6	Com-8568_96_bat-6_4812	96	Com-8568_96_bat-6_4665	96	0	noctule bat	bats	100.0
+taxongroup	Bat-2d5b_312_bat-4	Bat-2d5b_312_bat-4	Bat-2d5b_312_bat-4_4812	312	Bat-2d5b_312_bat-4_4665	312	0	noctule bat	bats	100.0
+taxongroup	Meg-fd01_351_megabat-17	Meg-fd01_351_animal-13	Meg-fd01_351_megabat-17_4152	351	Meg-fd01_351_animal-13_3812	351	0	megabats	animals	100.0
+taxongroup	Meg-fd01_354_megabats-30	Meg-fd01_354_animals-19	Meg-fd01_354_megabats-30_4152	354	Meg-fd01_354_animals-19_3812	354	0	megabats	animals	100.0
+taxongroup	Bat-2d5b_65_megabats-23	Bat-2d5b_65_Chiroptera-12	Bat-2d5b_65_megabats-23_4152	65	Bat-2d5b_65_Chiroptera-12_1655	65	0	megabats	Chiroptera	100.0
+taxongroup	Hor-ab9c_66_bat-26	Hor-ab9c_66_bat-26	Hor-ab9c_66_bat-26_4127	66	Hor-ab9c_66_bat-26_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-53	Hor-ab9c_224_bat-58_4127	224	Hor-ab9c_224_bat-53_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-44	Hor-ab9c_224_bat-58_4127	224	Hor-ab9c_224_bat-44_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-35	Hor-ab9c_224_bat-58_4127	224	Hor-ab9c_224_bat-35_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-26	Hor-ab9c_224_bat-58_4127	224	Hor-ab9c_224_bat-26_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-17	Hor-ab9c_224_bat-58_4127	224	Hor-ab9c_224_bat-17_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_214_bat-33	Hor-ab9c_214_bat-22	Hor-ab9c_214_bat-33_5177	214	Hor-ab9c_214_bat-22_4665	214	0	lesser horseshoe bat	bats	100.0
+taxongroup	Hor-ab9c_214_bat-22	Hor-ab9c_214_bat-33	Hor-ab9c_214_bat-22_5177	214	Hor-ab9c_214_bat-33_4665	214	0	lesser horseshoe bat	bats	100.0
+taxongroup	Lit-b9d2_15_bat-5	Lit-b9d2_15_bat-5	Lit-b9d2_15_bat-5_5184	15	Lit-b9d2_15_bat-5_4665	15	0	little bent-wing bat	bats	100.0
+taxongroup	Lit-b9d2_1_bat-5	Lit-b9d2_1_bat-5	Lit-b9d2_1_bat-5_5184	1	Lit-b9d2_1_bat-5_4665	1	0	little bent-wing bat	bats	100.0
+taxongroup	Lit-b9d2_4_bat-5	Lit-b9d2_4_bat-5	Lit-b9d2_4_bat-5_5184	4	Lit-b9d2_4_bat-5_4665	4	0	little bent-wing bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-19	Ser-d28b_2_Eptesicus-5	Ser-d28b_2_bat-19_5462	2	Ser-d28b_2_Eptesicus-5_1019	2	0	serotine bat	Eptesicus	100.0
+taxongroup	Ser-d28b_2_bat-23	Ser-d28b_2_Eptesicus-5	Ser-d28b_2_bat-23_5462	2	Ser-d28b_2_Eptesicus-5_1019	2	0	serotine bat	Eptesicus	100.0
+taxongroup	Ser-d28b_2_bat-3	Ser-d28b_2_Eptesicus-5	Ser-d28b_2_bat-3_5462	2	Ser-d28b_2_Eptesicus-5_1019	2	0	serotine bat	Eptesicus	100.0
+taxongroup	Ept-9841_2_bats-11	Ept-9841_2_bats-6	Ept-9841_2_bats-11_5462	2	Ept-9841_2_bats-6_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ept-9841_2_bats-11	Ept-9841_2_bats-11	Ept-9841_2_bats-11_5462	2	Ept-9841_2_bats-11_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-3	Ser-d28b_2_bat-19	Ser-d28b_2_bat-3_5462	2	Ser-d28b_2_bat-19_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-3	Ser-d28b_2_bat-23	Ser-d28b_2_bat-3_5462	2	Ser-d28b_2_bat-23_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-3	Ser-d28b_2_bat-30	Ser-d28b_2_bat-3_5462	2	Ser-d28b_2_bat-30_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-30	Ser-d28b_2_bat-15	Ser-d28b_2_bat-30_5462	2	Ser-d28b_2_bat-15_4665	2	0	serotine bat	bats	100.0
+taxongroup	Sop-b20a_2_pipistrelle-3	Sop-b20a_2_Pipistrellus-5	Sop-b20a_2_pipistrelle-3_3908	2	Sop-b20a_2_Pipistrellus-5_1215	2	0	soprano pipistrelle	Pipistrellus	100.0
+taxongroup	Sop-b20a_2_pipistrelle-3	Sop-b20a_2_bat-13	Sop-b20a_2_pipistrelle-3_3908	2	Sop-b20a_2_bat-13_4665	2	0	soprano pipistrelle	bats	100.0
+taxongroup	Lit-b9d2_2_bat-12	Lit-b9d2_2_bat-22	Lit-b9d2_2_bat-12_4216	2	Lit-b9d2_2_bat-22_4665	2	0	vesper bats	bats	100.0
+taxongroup	Lit-b9d2_2_bat-22	Lit-b9d2_2_bat-22	Lit-b9d2_2_bat-22_4216	2	Lit-b9d2_2_bat-22_4665	2	0	vesper bats	bats	100.0
+taxongroup	Hor-ab9c_134_bats-18	Hor-ab9c_134_bats-18	Hor-ab9c_134_bats-18_4216	134	Hor-ab9c_134_bats-18_4665	134	0	vesper bats	bats	100.0
+taxongroup	Lit-b9d2_2_bat-22	Lit-b9d2_2_bat-6	Lit-b9d2_2_bat-22_4216	2	Lit-b9d2_2_bat-6_4665	2	0	vesper bats	bats	100.0
+taxongroup	Hor-ab9c_134_bats-18	Hor-ab9c_134_bats-3	Hor-ab9c_134_bats-18_4216	134	Hor-ab9c_134_bats-3_4665	134	0	vesper bats	bats	100.0
+taxongroup	Hor-ab9c_134_bats-3	Hor-ab9c_134_bats-3	Hor-ab9c_134_bats-3_4216	134	Hor-ab9c_134_bats-3_4665	134	0	vesper bats	bats	100.0
+taxongroup	Hor-ab9c_134_bats-3	Hor-ab9c_134_bats-18	Hor-ab9c_134_bats-3_4216	134	Hor-ab9c_134_bats-18_4665	134	0	vesper bats	bats	100.0
+taxongroup	Lit-b9d2_2_bat-22	Lit-b9d2_2_bat-12	Lit-b9d2_2_bat-22_4216	2	Lit-b9d2_2_bat-12_4665	2	0	vesper bats	bats	100.0
+taxongroup	Lit-b9d2_2_bat-6	Lit-b9d2_2_bat-12	Lit-b9d2_2_bat-6_4216	2	Lit-b9d2_2_bat-12_4665	2	0	vesper bats	bats	100.0
+taxongroup	Mou-29bd_11_bats-17	Mou-29bd_11_bats-17	Mou-29bd_11_bats-17_4216	11	Mou-29bd_11_bats-17_4665	11	0	vesper bats	bats	100.0
+taxongroup	Min-f5ef_17_bats-15	Min-f5ef_17_bats-15	Min-f5ef_17_bats-15_4216	17	Min-f5ef_17_bats-15_4665	17	0	vesper bats	bats	100.0
+taxongroup	Lit-b9d2_2_bat-12	Lit-b9d2_2_bat-12	Lit-b9d2_2_bat-12_4216	2	Lit-b9d2_2_bat-12_4665	2	0	vesper bats	bats	100.0
+taxongroup	Lit-b9d2_2_bat-12	Lit-b9d2_2_bat-6	Lit-b9d2_2_bat-12_4216	2	Lit-b9d2_2_bat-6_4665	2	0	vesper bats	bats	100.0
+taxongroup	Lit-b9d2_2_bat-6	Lit-b9d2_2_bat-6	Lit-b9d2_2_bat-6_4216	2	Lit-b9d2_2_bat-6_4665	2	0	vesper bats	bats	100.0
+taxongroup	Lit-b9d2_2_bat-6	Lit-b9d2_2_bat-22	Lit-b9d2_2_bat-6_4216	2	Lit-b9d2_2_bat-22_4665	2	0	vesper bats	bats	100.0
+taxongroup	Ple-2127_2_bats-14	Ple-2127_2_bat-7	Ple-2127_2_bats-14_4216	2	Ple-2127_2_bat-7_4665	2	0	vesper bats	bats	100.0
+taxongroup	Ple-2127_2_bats-14	Ple-2127_2_bats-14	Ple-2127_2_bats-14_4216	2	Ple-2127_2_bats-14_4665	2	0	vesper bats	bats	100.0
+taxongroup	Ple-2127_2_bat-7	Ple-2127_2_bats-14	Ple-2127_2_bat-7_4216	2	Ple-2127_2_bats-14_4665	2	0	vesper bats	bats	100.0
+taxongroup	Ple-2127_2_bat-7	Ple-2127_2_bat-7	Ple-2127_2_bat-7_4216	2	Ple-2127_2_bat-7_4665	2	0	vesper bats	bats	100.0
+taxongroup	Ept-9841_2_bats-11	Ept-9841_2_bats-14	Ept-9841_2_bats-11_5462	2	Ept-9841_2_bats-14_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-30	Ser-d28b_2_bat-19	Ser-d28b_2_bat-30_5462	2	Ser-d28b_2_bat-19_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ept-9841_2_bats-11	Ept-9841_2_Eptesicus-1	Ept-9841_2_bats-11_5462	2	Ept-9841_2_Eptesicus-1_1019	2	0	serotine bat	Eptesicus	100.0
+taxongroup	Ser-d28b_17_bat-3	Ser-d28b_17_bat-3	Ser-d28b_17_bat-3_5462	17	Ser-d28b_17_bat-3_4665	17	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-15	Ser-d28b_2_Eptesicus-5	Ser-d28b_2_bat-15_5462	2	Ser-d28b_2_Eptesicus-5_1019	2	0	serotine bat	Eptesicus	100.0
+taxongroup	Ser-d28b_2_bat-30	Ser-d28b_2_Eptesicus-5	Ser-d28b_2_bat-30_5462	2	Ser-d28b_2_Eptesicus-5_1019	2	0	serotine bat	Eptesicus	100.0
+taxongroup	Ept-9841_2_bats-11	Ept-9841_2_Vespertilionidae-19	Ept-9841_2_bats-11_5462	2	Ept-9841_2_Vespertilionidae-19_860	2	0	serotine bat	Vespertilionidae	100.0
+taxongroup	Ser-d28b_2_bat-23	Ser-d28b_2_bat-23	Ser-d28b_2_bat-23_5462	2	Ser-d28b_2_bat-23_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-19	Ser-d28b_2_bat-23	Ser-d28b_2_bat-19_5462	2	Ser-d28b_2_bat-23_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-15	Ser-d28b_2_bat-23	Ser-d28b_2_bat-15_5462	2	Ser-d28b_2_bat-23_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-15	Ser-d28b_2_bat-30	Ser-d28b_2_bat-15_5462	2	Ser-d28b_2_bat-30_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-15	Ser-d28b_2_bat-3	Ser-d28b_2_bat-15_5462	2	Ser-d28b_2_bat-3_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-19	Ser-d28b_2_bat-15	Ser-d28b_2_bat-19_5462	2	Ser-d28b_2_bat-15_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-19	Ser-d28b_2_bat-19	Ser-d28b_2_bat-19_5462	2	Ser-d28b_2_bat-19_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-19	Ser-d28b_2_bat-30	Ser-d28b_2_bat-19_5462	2	Ser-d28b_2_bat-30_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-15	Ser-d28b_2_bat-15	Ser-d28b_2_bat-15_5462	2	Ser-d28b_2_bat-15_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-19	Ser-d28b_2_bat-3	Ser-d28b_2_bat-19_5462	2	Ser-d28b_2_bat-3_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-23	Ser-d28b_2_bat-15	Ser-d28b_2_bat-23_5462	2	Ser-d28b_2_bat-15_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-23	Ser-d28b_2_bat-19	Ser-d28b_2_bat-23_5462	2	Ser-d28b_2_bat-19_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-3	Ser-d28b_2_bat-3	Ser-d28b_2_bat-3_5462	2	Ser-d28b_2_bat-3_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-15	Ser-d28b_2_bat-19	Ser-d28b_2_bat-15_5462	2	Ser-d28b_2_bat-19_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-23	Ser-d28b_2_bat-30	Ser-d28b_2_bat-23_5462	2	Ser-d28b_2_bat-30_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-30	Ser-d28b_2_bat-30	Ser-d28b_2_bat-30_5462	2	Ser-d28b_2_bat-30_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-3	Ser-d28b_2_bat-15	Ser-d28b_2_bat-3_5462	2	Ser-d28b_2_bat-15_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_48_bat-3	Ser-d28b_48_bat-3	Ser-d28b_48_bat-3_5462	48	Ser-d28b_48_bat-3_4665	48	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-30	Ser-d28b_2_bat-3	Ser-d28b_2_bat-30_5462	2	Ser-d28b_2_bat-3_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_33_bat-3	Ser-d28b_33_bat-3	Ser-d28b_33_bat-3_5462	33	Ser-d28b_33_bat-3_4665	33	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_12_bat-3	Ser-d28b_12_bat-3	Ser-d28b_12_bat-3_5462	12	Ser-d28b_12_bat-3_4665	12	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-23	Ser-d28b_2_bat-3	Ser-d28b_2_bat-23_5462	2	Ser-d28b_2_bat-3_4665	2	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_35_bats-5	Ser-d28b_35_bats-5	Ser-d28b_35_bats-5_5462	35	Ser-d28b_35_bats-5_4665	35	0	serotine bat	bats	100.0
+taxongroup	Ser-d28b_2_bat-30	Ser-d28b_2_bat-23	Ser-d28b_2_bat-30_5462	2	Ser-d28b_2_bat-23_4665	2	0	serotine bat	bats	100.0
+taxongroup	Hor-ab9c_66_bat-26	Hor-ab9c_66_bat-15	Hor-ab9c_66_bat-26_4127	66	Hor-ab9c_66_bat-15_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-17	Hor-ab9c_205_bats-11	Hor-ab9c_205_bats-17_4127	205	Hor-ab9c_205_bats-11_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_66_bat-15	Hor-ab9c_66_bat-26	Hor-ab9c_66_bat-15_4127	66	Hor-ab9c_66_bat-26_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-44	Bat-2d5b_226_bats-25	Bat-2d5b_226_bats-44_4127	226	Bat-2d5b_226_bats-25_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_160_bat-4	Hor-ab9c_160_bat-4	Hor-ab9c_160_bat-4_4127	160	Hor-ab9c_160_bat-4_4665	160	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_35_bats-13	Hor-ab9c_35_bats-13	Hor-ab9c_35_bats-13_4127	35	Hor-ab9c_35_bats-13_4665	35	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-50	Hor-ab9c_205_bats-25	Hor-ab9c_205_bat-50_4127	205	Hor-ab9c_205_bats-25_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-50	Hor-ab9c_205_bats-17	Hor-ab9c_205_bat-50_4127	205	Hor-ab9c_205_bats-17_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_229_bats-18	Hor-ab9c_229_bat-31	Hor-ab9c_229_bats-18_4127	229	Hor-ab9c_229_bat-31_4665	229	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-34	Hor-ab9c_199_bat-53	Hor-ab9c_199_bat-34_4127	199	Hor-ab9c_199_bat-53_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-34	Hor-ab9c_199_bat-9	Hor-ab9c_199_bat-34_4127	199	Hor-ab9c_199_bat-9_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_53_bats-3	Hor-ab9c_53_bats-3	Hor-ab9c_53_bats-3_4127	53	Hor-ab9c_53_bats-3_4665	53	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_237_bats-44	Hor-ab9c_237_bat-10	Hor-ab9c_237_bats-44_4127	237	Hor-ab9c_237_bat-10_4665	237	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_203_bats-3	Hor-ab9c_203_bats-3	Hor-ab9c_203_bats-3_4127	203	Hor-ab9c_203_bats-3_4665	203	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-50	Hor-ab9c_205_bats-11	Hor-ab9c_205_bat-50_4127	205	Hor-ab9c_205_bats-11_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-20	Hor-ab9c_199_bat-34	Hor-ab9c_199_bat-20_4127	199	Hor-ab9c_199_bat-34_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-48	Bat-2d5b_427_bat-29	Bat-2d5b_427_bat-48_4127	427	Bat-2d5b_427_bat-29_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-37	Bat-2d5b_427_bat-29	Bat-2d5b_427_bat-37_4127	427	Bat-2d5b_427_bat-29_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_206_bat-29	Hor-ab9c_206_bat-29	Hor-ab9c_206_bat-29_4127	206	Hor-ab9c_206_bat-29_4665	206	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-56	Bat-2d5b_427_bat-56	Bat-2d5b_427_bat-56_4127	427	Bat-2d5b_427_bat-56_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-56	Bat-2d5b_427_bat-29	Bat-2d5b_427_bat-56_4127	427	Bat-2d5b_427_bat-29_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-56	Bat-2d5b_427_bat-48	Bat-2d5b_427_bat-56_4127	427	Bat-2d5b_427_bat-48_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-44	Bat-2d5b_226_bats-18	Bat-2d5b_226_bats-44_4127	226	Bat-2d5b_226_bats-18_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-48	Bat-2d5b_427_bat-56	Bat-2d5b_427_bat-48_4127	427	Bat-2d5b_427_bat-56_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-20	Bat-2d5b_427_bat-56	Bat-2d5b_427_bat-20_4127	427	Bat-2d5b_427_bat-56_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-20	Bat-2d5b_427_bat-37	Bat-2d5b_427_bat-20_4127	427	Bat-2d5b_427_bat-37_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-48	Bat-2d5b_427_bat-20	Bat-2d5b_427_bat-48_4127	427	Bat-2d5b_427_bat-20_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-20	Bat-2d5b_427_bat-29	Bat-2d5b_427_bat-20_4127	427	Bat-2d5b_427_bat-29_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-48	Bat-2d5b_427_bat-37	Bat-2d5b_427_bat-48_4127	427	Bat-2d5b_427_bat-37_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-48	Bat-2d5b_427_bat-48	Bat-2d5b_427_bat-48_4127	427	Bat-2d5b_427_bat-48_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_162_bats-9	Hor-ab9c_162_bats-9	Hor-ab9c_162_bats-9_4127	162	Hor-ab9c_162_bats-9_4665	162	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-25	Hor-ab9c_205_bat-50	Hor-ab9c_205_bats-25_4127	205	Hor-ab9c_205_bat-50_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_237_bats-44	Hor-ab9c_237_bats-44	Hor-ab9c_237_bats-44_4127	237	Hor-ab9c_237_bats-44_4665	237	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_237_bats-44	Hor-ab9c_237_bats-39	Hor-ab9c_237_bats-44_4127	237	Hor-ab9c_237_bats-39_4665	237	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-9	Hor-ab9c_199_bat-34	Hor-ab9c_199_bat-9_4127	199	Hor-ab9c_199_bat-34_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-9	Hor-ab9c_199_bat-43	Hor-ab9c_199_bat-9_4127	199	Hor-ab9c_199_bat-43_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_66_bat-15	Hor-ab9c_66_bat-40	Hor-ab9c_66_bat-15_4127	66	Hor-ab9c_66_bat-40_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_66_bat-15	Hor-ab9c_66_bat-6	Hor-ab9c_66_bat-15_4127	66	Hor-ab9c_66_bat-6_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-17	Hor-ab9c_205_bat-32	Hor-ab9c_205_bats-17_4127	205	Hor-ab9c_205_bat-32_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-17	Hor-ab9c_205_bat-41	Hor-ab9c_205_bats-17_4127	205	Hor-ab9c_205_bat-41_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-34	Hor-ab9c_199_bat-43	Hor-ab9c_199_bat-34_4127	199	Hor-ab9c_199_bat-43_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-34	Hor-ab9c_199_bat-34	Hor-ab9c_199_bat-34_4127	199	Hor-ab9c_199_bat-34_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-34	Hor-ab9c_199_bat-20	Hor-ab9c_199_bat-34_4127	199	Hor-ab9c_199_bat-20_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-17	Hor-ab9c_205_bat-50	Hor-ab9c_205_bats-17_4127	205	Hor-ab9c_205_bat-50_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-17	Hor-ab9c_205_bat-59	Hor-ab9c_205_bats-17_4127	205	Hor-ab9c_205_bat-59_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-17	Hor-ab9c_205_bat-73	Hor-ab9c_205_bats-17_4127	205	Hor-ab9c_205_bat-73_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-25	Hor-ab9c_205_bat-41	Hor-ab9c_205_bats-25_4127	205	Hor-ab9c_205_bat-41_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_145_bats-6	Hor-ab9c_145_bats-6	Hor-ab9c_145_bats-6_4127	145	Hor-ab9c_145_bats-6_4665	145	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_170_bats-6	Hor-ab9c_170_bats-6	Hor-ab9c_170_bats-6_4127	170	Hor-ab9c_170_bats-6_4665	170	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_196_bats-17	Hor-ab9c_196_bats-17	Hor-ab9c_196_bats-17_4127	196	Hor-ab9c_196_bats-17_4665	196	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-20	Hor-ab9c_199_bat-9	Hor-ab9c_199_bat-20_4127	199	Hor-ab9c_199_bat-9_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-20	Hor-ab9c_199_bat-53	Hor-ab9c_199_bat-20_4127	199	Hor-ab9c_199_bat-53_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-50	Hor-ab9c_205_bat-50	Hor-ab9c_205_bat-50_4127	205	Hor-ab9c_205_bat-50_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-50	Hor-ab9c_205_bat-32	Hor-ab9c_205_bat-50_4127	205	Hor-ab9c_205_bat-32_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_237_bats-39	Hor-ab9c_237_bats-44	Hor-ab9c_237_bats-39_4127	237	Hor-ab9c_237_bats-44_4665	237	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_237_bats-39	Hor-ab9c_237_bats-39	Hor-ab9c_237_bats-39_4127	237	Hor-ab9c_237_bats-39_4665	237	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_237_bats-39	Hor-ab9c_237_bat-10	Hor-ab9c_237_bats-39_4127	237	Hor-ab9c_237_bat-10_4665	237	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_124_bats-4	Hor-ab9c_124_bats-4	Hor-ab9c_124_bats-4_4127	124	Hor-ab9c_124_bats-4_4665	124	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-59	Hor-ab9c_205_bat-32	Hor-ab9c_205_bat-59_4127	205	Hor-ab9c_205_bat-32_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-9	Hor-ab9c_199_bat-9	Hor-ab9c_199_bat-9_4127	199	Hor-ab9c_199_bat-9_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-25	Hor-ab9c_205_bat-59	Hor-ab9c_205_bats-25_4127	205	Hor-ab9c_205_bat-59_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-25	Hor-ab9c_205_bat-73	Hor-ab9c_205_bats-25_4127	205	Hor-ab9c_205_bat-73_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-20	Bat-2d5b_427_bat-20	Bat-2d5b_427_bat-20_4127	427	Bat-2d5b_427_bat-20_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Les-c392_7_bats-7	Les-c392_7_bats-3	Les-c392_7_bats-7_4127	7	Les-c392_7_bats-3_4665	7	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_16_bat-14	Hor-ab9c_16_bat-14	Hor-ab9c_16_bat-14_4127	16	Hor-ab9c_16_bat-14_4665	16	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-25	Hor-ab9c_205_bat-32	Hor-ab9c_205_bats-25_4127	205	Hor-ab9c_205_bat-32_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_66_bat-26	Hor-ab9c_66_bat-40	Hor-ab9c_66_bat-26_4127	66	Hor-ab9c_66_bat-40_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_66_bat-26	Hor-ab9c_66_bat-6	Hor-ab9c_66_bat-26_4127	66	Hor-ab9c_66_bat-6_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-17	Hor-ab9c_205_bats-25	Hor-ab9c_205_bats-17_4127	205	Hor-ab9c_205_bats-25_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_135_bat-9	Hor-ab9c_135_bat-9	Hor-ab9c_135_bat-9_4127	135	Hor-ab9c_135_bat-9_4665	135	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_229_bat-31	Hor-ab9c_229_bats-18	Hor-ab9c_229_bat-31_4127	229	Hor-ab9c_229_bats-18_4665	229	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_229_bat-31	Hor-ab9c_229_bat-31	Hor-ab9c_229_bat-31_4127	229	Hor-ab9c_229_bat-31_4665	229	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_66_bat-40	Hor-ab9c_66_bat-15	Hor-ab9c_66_bat-40_4127	66	Hor-ab9c_66_bat-15_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-9	Hor-ab9c_224_bat-58_4127	224	Hor-ab9c_224_bat-9_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_66_bat-40	Hor-ab9c_66_bat-26	Hor-ab9c_66_bat-40_4127	66	Hor-ab9c_66_bat-26_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_136_bat-17	Hor-ab9c_136_bats-6	Hor-ab9c_136_bat-17_4127	136	Hor-ab9c_136_bats-6_4665	136	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_225_bat-22	Hor-ab9c_225_bat-8	Hor-ab9c_225_bat-22_4127	225	Hor-ab9c_225_bat-8_4665	225	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_225_bat-22	Hor-ab9c_225_bat-22	Hor-ab9c_225_bat-22_4127	225	Hor-ab9c_225_bat-22_4665	225	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bat-41	Hor-ab9c_205_bat-41	Hor-ab9c_205_bat-41_4127	205	Hor-ab9c_205_bat-41_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-68	Hor-ab9c_224_bat-58_4127	224	Hor-ab9c_224_bat-68_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-58	Hor-ab9c_224_bat-58_4127	224	Hor-ab9c_224_bat-58_4665	224	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_75_bat-22	Hor-ab9c_75_bat-22	Hor-ab9c_75_bat-22_4127	75	Hor-ab9c_75_bat-22_4665	75	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-25	Hor-ab9c_205_bats-25	Hor-ab9c_205_bats-25_4127	205	Hor-ab9c_205_bats-25_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_66_bat-6	Hor-ab9c_66_bat-15	Hor-ab9c_66_bat-6_4127	66	Hor-ab9c_66_bat-15_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_66_bat-6	Hor-ab9c_66_bat-26	Hor-ab9c_66_bat-6_4127	66	Hor-ab9c_66_bat-26_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_66_bat-6	Hor-ab9c_66_bat-40	Hor-ab9c_66_bat-6_4127	66	Hor-ab9c_66_bat-40_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_66_bat-6	Hor-ab9c_66_bat-6	Hor-ab9c_66_bat-6_4127	66	Hor-ab9c_66_bat-6_4665	66	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_225_bat-8	Hor-ab9c_225_bat-8	Hor-ab9c_225_bat-8_4127	225	Hor-ab9c_225_bat-8_4665	225	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_225_bat-8	Hor-ab9c_225_bat-22	Hor-ab9c_225_bat-8_4127	225	Hor-ab9c_225_bat-22_4665	225	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_67_bat-12	Hor-ab9c_67_bat-12	Hor-ab9c_67_bat-12_4127	67	Hor-ab9c_67_bat-12_4665	67	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_205_bats-25	Hor-ab9c_205_bats-17	Hor-ab9c_205_bats-25_4127	205	Hor-ab9c_205_bats-17_4665	205	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-20	Hor-ab9c_199_bat-20	Hor-ab9c_199_bat-20_4127	199	Hor-ab9c_199_bat-20_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-37	Bat-2d5b_427_bat-20	Bat-2d5b_427_bat-37_4127	427	Bat-2d5b_427_bat-20_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_199_bat-20	Hor-ab9c_199_bat-43	Hor-ab9c_199_bat-20_4127	199	Hor-ab9c_199_bat-43_4665	199	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-29	Bat-2d5b_427_bat-20	Bat-2d5b_427_bat-29_4127	427	Bat-2d5b_427_bat-20_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-34	Bat-2d5b_226_bats-25	Bat-2d5b_226_bats-34_4127	226	Bat-2d5b_226_bats-25_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-56	Bat-2d5b_427_bat-20	Bat-2d5b_427_bat-56_4127	427	Bat-2d5b_427_bat-20_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-25	Bat-2d5b_226_bats-44	Bat-2d5b_226_bats-25_4127	226	Bat-2d5b_226_bats-44_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-44	Bat-2d5b_226_bats-2	Bat-2d5b_226_bats-44_4127	226	Bat-2d5b_226_bats-2_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-44	Bat-2d5b_226_bats-34	Bat-2d5b_226_bats-44_4127	226	Bat-2d5b_226_bats-34_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-18	Bat-2d5b_226_bats-2	Bat-2d5b_226_bats-18_4127	226	Bat-2d5b_226_bats-2_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-18	Bat-2d5b_226_bats-18	Bat-2d5b_226_bats-18_4127	226	Bat-2d5b_226_bats-18_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-2	Bat-2d5b_226_bats-18	Bat-2d5b_226_bats-2_4127	226	Bat-2d5b_226_bats-18_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-2	Bat-2d5b_226_bats-25	Bat-2d5b_226_bats-2_4127	226	Bat-2d5b_226_bats-25_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-2	Bat-2d5b_226_bats-2	Bat-2d5b_226_bats-2_4127	226	Bat-2d5b_226_bats-2_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-2	Bat-2d5b_226_bats-34	Bat-2d5b_226_bats-2_4127	226	Bat-2d5b_226_bats-34_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-2	Bat-2d5b_226_bats-44	Bat-2d5b_226_bats-2_4127	226	Bat-2d5b_226_bats-44_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-44	Bat-2d5b_226_bats-44	Bat-2d5b_226_bats-44_4127	226	Bat-2d5b_226_bats-44_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-25	Bat-2d5b_226_bats-34	Bat-2d5b_226_bats-25_4127	226	Bat-2d5b_226_bats-34_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-34	Bat-2d5b_226_bats-44	Bat-2d5b_226_bats-34_4127	226	Bat-2d5b_226_bats-44_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-34	Bat-2d5b_226_bats-34	Bat-2d5b_226_bats-34_4127	226	Bat-2d5b_226_bats-34_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-34	Bat-2d5b_226_bats-2	Bat-2d5b_226_bats-34_4127	226	Bat-2d5b_226_bats-2_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-34	Bat-2d5b_226_bats-18	Bat-2d5b_226_bats-34_4127	226	Bat-2d5b_226_bats-18_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-29	Bat-2d5b_427_bat-29	Bat-2d5b_427_bat-29_4127	427	Bat-2d5b_427_bat-29_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-25	Bat-2d5b_226_bats-2	Bat-2d5b_226_bats-25_4127	226	Bat-2d5b_226_bats-2_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-25	Bat-2d5b_226_bats-25	Bat-2d5b_226_bats-25_4127	226	Bat-2d5b_226_bats-25_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_226_bats-25	Bat-2d5b_226_bats-18	Bat-2d5b_226_bats-25_4127	226	Bat-2d5b_226_bats-18_4665	226	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-29	Bat-2d5b_427_bat-56	Bat-2d5b_427_bat-29_4127	427	Bat-2d5b_427_bat-56_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-29	Bat-2d5b_427_bat-48	Bat-2d5b_427_bat-29_4127	427	Bat-2d5b_427_bat-48_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Bat-2d5b_427_bat-29	Bat-2d5b_427_bat-37	Bat-2d5b_427_bat-29_4127	427	Bat-2d5b_427_bat-37_4665	427	0	horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_118_bat-15	Hor-ab9c_118_bat-4	Hor-ab9c_118_bat-15_4127	118	Hor-ab9c_118_bat-4_4665	118	0	horseshoe bats	bats	100.0
+taxongroup	Gre-c26f_22_bat-4	Gre-c26f_22_bat-4	Gre-c26f_22_bat-4_5050	22	Gre-c26f_22_bat-4_4665	22	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_49_bat-3	Gre-c26f_49_bat-3	Gre-c26f_49_bat-3_5050	49	Gre-c26f_49_bat-3_4665	49	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_7_bat-4	Gre-c26f_7_bat-4	Gre-c26f_7_bat-4_5050	7	Gre-c26f_7_bat-4_4665	7	0	greater bulldog bat	bats	100.0
+taxongroup	Mex-2908_147_bat-5	Mex-2908_147_bat-5	Mex-2908_147_bat-5_2846	147	Mex-2908_147_bat-5_4665	147	0	Mexican free-tailed bat	bats	100.0
+taxongroup	Hor-ab9c_107_bat-2	Hor-ab9c_107_bat-2	Hor-ab9c_107_bat-2_636	107	Hor-ab9c_107_bat-2_4665	107	0	Horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_190_bat-2	Hor-ab9c_190_bat-2	Hor-ab9c_190_bat-2_636	190	Hor-ab9c_190_bat-2_4665	190	0	Horseshoe bats	bats	100.0
+taxongroup	Mex-2908_150_bat-5	Mex-2908_150_bat-5	Mex-2908_150_bat-5_2846	150	Mex-2908_150_bat-5_4665	150	0	Mexican free-tailed bat	bats	100.0
+taxongroup	Mex-2908_42_bat-5	Mex-2908_42_bat-5	Mex-2908_42_bat-5_2846	42	Mex-2908_42_bat-5_4665	42	0	Mexican free-tailed bat	bats	100.0
+taxongroup	Mex-2908_151_bat-5	Mex-2908_151_bat-5	Mex-2908_151_bat-5_2846	151	Mex-2908_151_bat-5_4665	151	0	Mexican free-tailed bat	bats	100.0
+taxongroup	Mex-2908_136_bat-5	Mex-2908_136_bat-5	Mex-2908_136_bat-5_2846	136	Mex-2908_136_bat-5_4665	136	0	Mexican free-tailed bat	bats	100.0
+taxongroup	Mex-2908_125_bat-5	Mex-2908_125_bat-5	Mex-2908_125_bat-5_2846	125	Mex-2908_125_bat-5_4665	125	0	Mexican free-tailed bat	bats	100.0
+taxongroup	Mex-2908_9_bat-5	Mex-2908_9_bat-5	Mex-2908_9_bat-5_2846	9	Mex-2908_9_bat-5_4665	9	0	Mexican free-tailed bat	bats	100.0
+taxongroup	Mex-2908_66_bat-5	Mex-2908_66_bat-5	Mex-2908_66_bat-5_2846	66	Mex-2908_66_bat-5_4665	66	0	Mexican free-tailed bat	bats	100.0
+taxongroup	Mex-2908_33_bat-5	Mex-2908_33_bat-5	Mex-2908_33_bat-5_2846	33	Mex-2908_33_bat-5_4665	33	0	Mexican free-tailed bat	bats	100.0
+taxongroup	Mex-2908_1_bat-5	Mex-2908_1_bat-5	Mex-2908_1_bat-5_2846	1	Mex-2908_1_bat-5_4665	1	0	Mexican free-tailed bat	bats	100.0
+taxongroup	Mex-2908_58_bats-8	Mex-2908_58_bats-8	Mex-2908_58_bats-8_2846	58	Mex-2908_58_bats-8_4665	58	0	Mexican free-tailed bat	bats	100.0
+taxongroup	Mex-2908_53_bat-5	Mex-2908_53_bat-5	Mex-2908_53_bat-5_2846	53	Mex-2908_53_bat-5_4665	53	0	Mexican free-tailed bat	bats	100.0
+taxongroup	Mex-2908_27_bat-5	Mex-2908_27_bat-5	Mex-2908_27_bat-5_2846	27	Mex-2908_27_bat-5_4665	27	0	Mexican free-tailed bat	bats	100.0
+taxongroup	Com-2ad3_47_bat-4	Com-2ad3_47_bat-4	Com-2ad3_47_bat-4_1963	47	Com-2ad3_47_bat-4_4665	47	0	Common vampire bat	bats	100.0
+taxongroup	Meg-fd01_2_Pteropodidae-5	Meg-fd01_2_Chiroptera-9	Meg-fd01_2_Pteropodidae-5_683	2	Meg-fd01_2_Chiroptera-9_1655	2	0	Pteropodidae	Chiroptera	100.0
+taxongroup	Bat-2d5b_65_Pteropodidae-20	Bat-2d5b_65_Chiroptera-12	Bat-2d5b_65_Pteropodidae-20_683	65	Bat-2d5b_65_Chiroptera-12_1655	65	0	Pteropodidae	Chiroptera	100.0
+taxongroup	Meg-fd01_2_Pteropodidae-5	Meg-fd01_2_bats-11	Meg-fd01_2_Pteropodidae-5_683	2	Meg-fd01_2_bats-11_4665	2	0	Pteropodidae	bats	100.0
+taxongroup	Hor-ab9c_30_Rhinolophidae-17	Hor-ab9c_30_bats-10	Hor-ab9c_30_Rhinolophidae-17_635	30	Hor-ab9c_30_bats-10_4665	30	0	Rhinolophidae	bats	100.0
+taxongroup	Bat-2d5b_226_Rhinolophidae-27	Bat-2d5b_226_bats-44	Bat-2d5b_226_Rhinolophidae-27_635	226	Bat-2d5b_226_bats-44_4665	226	0	Rhinolophidae	bats	100.0
+taxongroup	Bat-2d5b_226_Rhinolophidae-27	Bat-2d5b_226_bats-34	Bat-2d5b_226_Rhinolophidae-27_635	226	Bat-2d5b_226_bats-34_4665	226	0	Rhinolophidae	bats	100.0
+taxongroup	Bat-2d5b_226_Rhinolophidae-27	Bat-2d5b_226_bats-2	Bat-2d5b_226_Rhinolophidae-27_635	226	Bat-2d5b_226_bats-2_4665	226	0	Rhinolophidae	bats	100.0
+taxongroup	Bat-2d5b_226_Rhinolophidae-27	Bat-2d5b_226_bats-25	Bat-2d5b_226_Rhinolophidae-27_635	226	Bat-2d5b_226_bats-25_4665	226	0	Rhinolophidae	bats	100.0
+taxongroup	Bat-2d5b_226_Rhinolophidae-27	Bat-2d5b_226_bats-18	Bat-2d5b_226_Rhinolophidae-27_635	226	Bat-2d5b_226_bats-18_4665	226	0	Rhinolophidae	bats	100.0
+taxongroup	Hor-ab9c_4_Rhinolophidae-24	Hor-ab9c_4_bats-13	Hor-ab9c_4_Rhinolophidae-24_635	4	Hor-ab9c_4_bats-13_4665	4	0	Rhinolophidae	bats	100.0
+taxongroup	Hor-ab9c_4_Rhinolophidae-24	Hor-ab9c_4_bats-2	Hor-ab9c_4_Rhinolophidae-24_635	4	Hor-ab9c_4_bats-2_4665	4	0	Rhinolophidae	bats	100.0
+taxongroup	Ser-d28b_44_bat-8	Ser-d28b_44_bat-8	Ser-d28b_44_bat-8_3298	44	Ser-d28b_44_bat-8_4665	44	0	Serotine bat	bats	100.0
+taxongroup	Ser-d28b_44_bat-8	Ser-d28b_44_mammals-19	Ser-d28b_44_bat-8_3298	44	Ser-d28b_44_mammals-19_3797	44	0	Serotine bat	mammals	100.0
+taxongroup	Hor-ab9c_1_bat-2	Hor-ab9c_1_bat-2	Hor-ab9c_1_bat-2_636	1	Hor-ab9c_1_bat-2_4665	1	0	Horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_50_bat-2	Hor-ab9c_50_bat-2	Hor-ab9c_50_bat-2_636	50	Hor-ab9c_50_bat-2_4665	50	0	Horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_192_bat-2	Hor-ab9c_192_bat-2	Hor-ab9c_192_bat-2_636	192	Hor-ab9c_192_bat-2_4665	192	0	Horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_210_bat-2	Hor-ab9c_210_bat-2	Hor-ab9c_210_bat-2_636	210	Hor-ab9c_210_bat-2_4665	210	0	Horseshoe bats	bats	100.0
+taxongroup	Vam-5657_4_bat-13	Vam-5657_4_bat-24	Vam-5657_4_bat-13_1963	4	Vam-5657_4_bat-24_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_4_bat-13	Vam-5657_4_bat-13	Vam-5657_4_bat-13_1963	4	Vam-5657_4_bat-13_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_52_bats-6	Vam-5657_52_bats-6	Vam-5657_52_bats-6_1963	52	Vam-5657_52_bats-6_4665	52	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_4_bat-3	Vam-5657_4_bat-3	Vam-5657_4_bat-3_1963	4	Vam-5657_4_bat-3_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_99_bat-4	Vam-5657_99_bat-4	Vam-5657_99_bat-4_1963	99	Vam-5657_99_bat-4_4665	99	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_89_bat-15	Vam-5657_89_bat-15	Vam-5657_89_bat-15_1963	89	Vam-5657_89_bat-15_4665	89	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_79_bat-4	Vam-5657_79_bat-25	Vam-5657_79_bat-4_1963	79	Vam-5657_79_bat-25_4665	79	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_79_bat-4	Vam-5657_79_bat-31	Vam-5657_79_bat-4_1963	79	Vam-5657_79_bat-31_4665	79	0	Common vampire bat	bats	100.0
+taxongroup	Bir-5aa1_81_bat-5	Bir-5aa1_81_bat-5	Bir-5aa1_81_bat-5_1963	81	Bir-5aa1_81_bat-5_4665	81	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_80_bat-5	Vam-5657_80_bat-5	Vam-5657_80_bat-5_1963	80	Vam-5657_80_bat-5_4665	80	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_79_bat-4	Vam-5657_79_bat-4	Vam-5657_79_bat-4_1963	79	Vam-5657_79_bat-4_4665	79	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_79_bat-25	Vam-5657_79_mammals-11	Vam-5657_79_bat-25_1963	79	Vam-5657_79_mammals-11_3797	79	0	Common vampire bat	mammals	100.0
+taxongroup	Vam-5657_79_bat-31	Vam-5657_79_mammals-11	Vam-5657_79_bat-31_1963	79	Vam-5657_79_mammals-11_3797	79	0	Common vampire bat	mammals	100.0
+taxongroup	Vam-5657_79_bat-4	Vam-5657_79_mammals-11	Vam-5657_79_bat-4_1963	79	Vam-5657_79_mammals-11_3797	79	0	Common vampire bat	mammals	100.0
+taxongroup	Vam-5657_80_bat-5	Vam-5657_80_mammal-14	Vam-5657_80_bat-5_1963	80	Vam-5657_80_mammal-14_3797	80	0	Common vampire bat	mammals	100.0
+taxongroup	Hor-ab9c_21_bat-2	Hor-ab9c_21_bat-2	Hor-ab9c_21_bat-2_636	21	Hor-ab9c_21_bat-2_4665	21	0	Horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_127_bat-2	Hor-ab9c_127_bat-2	Hor-ab9c_127_bat-2_636	127	Hor-ab9c_127_bat-2_4665	127	0	Horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_181_bat-2	Hor-ab9c_181_bat-2	Hor-ab9c_181_bat-2_636	181	Hor-ab9c_181_bat-2_4665	181	0	Horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_220_bat-2	Hor-ab9c_220_bat-2	Hor-ab9c_220_bat-2_636	220	Hor-ab9c_220_bat-2_4665	220	0	Horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_189_bat-2	Hor-ab9c_189_bat-2	Hor-ab9c_189_bat-2_636	189	Hor-ab9c_189_bat-2_4665	189	0	Horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_99_bat-2	Hor-ab9c_99_bat-2	Hor-ab9c_99_bat-2_636	99	Hor-ab9c_99_bat-2_4665	99	0	Horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_108_bat-2	Hor-ab9c_108_bat-2	Hor-ab9c_108_bat-2_636	108	Hor-ab9c_108_bat-2_4665	108	0	Horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_83_bat-2	Hor-ab9c_83_bat-2	Hor-ab9c_83_bat-2_636	83	Hor-ab9c_83_bat-2_4665	83	0	Horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_173_bat-2	Hor-ab9c_173_bat-2	Hor-ab9c_173_bat-2_636	173	Hor-ab9c_173_bat-2_4665	173	0	Horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_71_bat-2	Hor-ab9c_71_bat-2	Hor-ab9c_71_bat-2_636	71	Hor-ab9c_71_bat-2_4665	71	0	Horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_70_bat-2	Hor-ab9c_70_bat-2	Hor-ab9c_70_bat-2_636	70	Hor-ab9c_70_bat-2_4665	70	0	Horseshoe bats	bats	100.0
+taxongroup	Hor-ab9c_143_bat-2	Hor-ab9c_143_bat-2	Hor-ab9c_143_bat-2_636	143	Hor-ab9c_143_bat-2_4665	143	0	Horseshoe bats	bats	100.0
+taxongroup	Ser-d28b_44_bat-8	Ser-d28b_44_mammals-64	Ser-d28b_44_bat-8_3298	44	Ser-d28b_44_mammals-64_3797	44	0	Serotine bat	mammals	100.0
+taxongroup	Ept-9841_2_Vespertilionidae-19	Ept-9841_2_bats-6	Ept-9841_2_Vespertilionidae-19_860	2	Ept-9841_2_bats-6_4665	2	0	Vespertilionidae	bats	100.0
+taxongroup	Ept-9841_2_Vespertilionidae-19	Ept-9841_2_bats-14	Ept-9841_2_Vespertilionidae-19_860	2	Ept-9841_2_bats-14_4665	2	0	Vespertilionidae	bats	100.0
+taxongroup	Lea-e91f_42_bats-14	Lea-e91f_42_animals-8	Lea-e91f_42_bats-14_4665	42	Lea-e91f_42_animals-8_44	42	0	bats	Animals	100.0
+taxongroup	Bat-2d5b_319_bats-18	Bat-2d5b_319_animal-23	Bat-2d5b_319_bats-18_4665	319	Bat-2d5b_319_animal-23_3812	319	0	bats	animals	100.0
+taxongroup	Bat-2d5b_377_bats-12	Bat-2d5b_377_animals-2	Bat-2d5b_377_bats-12_4665	377	Bat-2d5b_377_animals-2_3812	377	0	bats	animals	100.0
+taxongroup	Bee-1811_372_bats-18	Bee-1811_372_animal-13	Bee-1811_372_bats-18_4665	372	Bee-1811_372_animal-13_3812	372	0	bats	animals	100.0
+taxongroup	Bat-2d5b_11_bats-16	Bat-2d5b_11_animals-6	Bat-2d5b_11_bats-16_4665	11	Bat-2d5b_11_animals-6_3812	11	0	bats	animals	100.0
+taxongroup	Bat-2d5b_20_bats-6	Bat-2d5b_20_animal-11	Bat-2d5b_20_bats-6_4665	20	Bat-2d5b_20_animal-11_3812	20	0	bats	animals	100.0
+taxongroup	Bat-2d5b_207_bat-35	Bat-2d5b_207_animals-23	Bat-2d5b_207_bat-35_4665	207	Bat-2d5b_207_animals-23_3812	207	0	bats	animals	100.0
+taxongroup	Cam-4bd8_161_bats-10	Cam-4bd8_161_animals-7	Cam-4bd8_161_bats-10_4665	161	Cam-4bd8_161_animals-7_3812	161	0	bats	animals	100.0
+taxongroup	Aye-787b_47_bat-32	Aye-787b_47_animals-25	Aye-787b_47_bat-32_4665	47	Aye-787b_47_animals-25_3812	47	0	bats	animals	100.0
+taxongroup	Arc-00d6_28_bat-24	Arc-00d6_28_animals-8	Arc-00d6_28_bat-24_4665	28	Arc-00d6_28_animals-8_3812	28	0	bats	animals	100.0
+taxongroup	Bat-2d5b_471_bat-2	Bat-2d5b_471_animal-6	Bat-2d5b_471_bat-2_4665	471	Bat-2d5b_471_animal-6_3812	471	0	bats	animals	100.0
+taxongroup	Ace6f0f_9_bats-11	Ace6f0f_9_animals-19	Ace6f0f_9_bats-11_4665	9	Ace6f0f_9_animals-19_3812	9	0	bats	animals	100.0
+taxongroup	Mer-5a4a_112_bats-51	Mer-5a4a_112_animals-31	Mer-5a4a_112_bats-51_4665	112	Mer-5a4a_112_animals-31_3812	112	0	bats	animals	100.0
+taxongroup	Mon-93c6_243_bats-20	Mon-93c6_243_animals-17	Mon-93c6_243_bats-20_4665	243	Mon-93c6_243_animals-17_3812	243	0	bats	animals	100.0
+taxongroup	Com-2ad3_106_bats-8	Com-2ad3_106_animals-14	Com-2ad3_106_bats-8_4665	106	Com-2ad3_106_animals-14_3812	106	0	bats	animals	100.0
+taxongroup	Com-2ad3_61_bats-2	Com-2ad3_61_animals-16	Com-2ad3_61_bats-2_4665	61	Com-2ad3_61_animals-16_3812	61	0	bats	animals	100.0
+taxongroup	Com-2ad3_109_bats-10	Com-2ad3_109_animal-30	Com-2ad3_109_bats-10_4665	109	Com-2ad3_109_animal-30_3812	109	0	bats	animals	100.0
+taxongroup	Fli-9841_4_bats-13	Fli-9841_4_animals-25	Fli-9841_4_bats-13_4665	4	Fli-9841_4_animals-25_3812	4	0	bats	animals	100.0
+taxongroup	Flo-338d_150_bats-16	Flo-338d_150_animals-3	Flo-338d_150_bats-16_4665	150	Flo-338d_150_animals-3_3812	150	0	bats	animals	100.0
+taxongroup	Flo-338d_137_bats-7	Flo-338d_137_animals-2	Flo-338d_137_bats-7_4665	137	Flo-338d_137_animals-2_3812	137	0	bats	animals	100.0
+taxongroup	Flo-338d_146_bats-11	Flo-338d_146_animals-17	Flo-338d_146_bats-11_4665	146	Flo-338d_146_animals-17_3812	146	0	bats	animals	100.0
+taxongroup	Fli-9841_4_bats-13	Fli-9841_4_animal-7	Fli-9841_4_bats-13_4665	4	Fli-9841_4_animal-7_3812	4	0	bats	animals	100.0
+taxongroup	Cro-9102_345_bats-30	Cro-9102_345_animals-19	Cro-9102_345_bats-30_4665	345	Cro-9102_345_animals-19_3812	345	0	bats	animals	100.0
+taxongroup	Mar-4f64_14_bats-44	Mar-4f64_14_animals-38	Mar-4f64_14_bats-44_4665	14	Mar-4f64_14_animals-38_3812	14	0	bats	animals	100.0
+taxongroup	Mam-3742_14_bat-14	Mam-3742_14_animal-28	Mam-3742_14_bat-14_4665	14	Mam-3742_14_animal-28_3812	14	0	bats	animals	100.0
+taxongroup	Lis-67c8_12_bats-25	Lis-67c8_12_animal-2	Lis-67c8_12_bats-25_4665	12	Lis-67c8_12_animal-2_3812	12	0	bats	animals	100.0
+taxongroup	Bat-2d5b_102_bats-5	Bat-2d5b_102_mammals-14	Bat-2d5b_102_bats-5_4665	102	Bat-2d5b_102_mammals-14_3797	102	0	bats	mammals	100.0
+taxongroup	Mou-29bd_34_bat-5	Mou-29bd_34_Mammalia-7	Mou-29bd_34_bat-5_4665	34	Mou-29bd_34_Mammalia-7_19	34	0	bats	Mammalia	100.0
+taxongroup	Ept-9841_2_Vespertilionidae-19	Ept-9841_2_bats-11	Ept-9841_2_Vespertilionidae-19_860	2	Ept-9841_2_bats-11_4665	2	0	Vespertilionidae	bats	100.0
+taxongroup	Pip-ba7a_2_Vespertilionidae-10	Pip-ba7a_2_bats-6	Pip-ba7a_2_Vespertilionidae-10_860	2	Pip-ba7a_2_bats-6_4665	2	0	Vespertilionidae	bats	100.0
+taxongroup	Mou-29bd_2_Vespertilionidae-22	Mou-29bd_2_bats-18	Mou-29bd_2_Vespertilionidae-22_860	2	Mou-29bd_2_bats-18_4665	2	0	Vespertilionidae	bats	100.0
+taxongroup	Mou-29bd_2_Vespertilionidae-22	Mou-29bd_2_bats-5	Mou-29bd_2_Vespertilionidae-22_860	2	Mou-29bd_2_bats-5_4665	2	0	Vespertilionidae	bats	100.0
+taxongroup	Pte-62aa_232_bats-14	Pte-62aa_232_animals-8	Pte-62aa_232_bats-14_4665	232	Pte-62aa_232_animals-8_44	232	0	bats	Animals	100.0
+taxongroup	Vam-5657_4_bat-24	Vam-5657_4_bat-3	Vam-5657_4_bat-24_1963	4	Vam-5657_4_bat-3_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_40_bats-3	Com-2ad3_40_bats-3	Com-2ad3_40_bats-3_1963	40	Com-2ad3_40_bats-3_4665	40	0	Common vampire bat	bats	100.0
+taxongroup	Bat-2d5b_7_bats-10	Bat-2d5b_7_mammals-6	Bat-2d5b_7_bats-10_4665	7	Bat-2d5b_7_mammals-6_3797	7	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_244_bat-40	Bat-2d5b_244_bat-63	Bat-2d5b_244_bat-40_1913	244	Bat-2d5b_244_bat-63_4665	244	0	Common blossom bat	bats	100.0
+taxongroup	Com-a11e_2_bat-19	Com-a11e_2_bat-15	Com-a11e_2_bat-19_1913	2	Com-a11e_2_bat-15_4665	2	0	Common blossom bat	bats	100.0
+taxongroup	Com-a11e_2_bat-15	Com-a11e_2_bat-4	Com-a11e_2_bat-15_1913	2	Com-a11e_2_bat-4_4665	2	0	Common blossom bat	bats	100.0
+taxongroup	Com-a11e_2_bat-15	Com-a11e_2_bat-15	Com-a11e_2_bat-15_1913	2	Com-a11e_2_bat-15_4665	2	0	Common blossom bat	bats	100.0
+taxongroup	Com-a11e_13_bat-3	Com-a11e_13_bat-3	Com-a11e_13_bat-3_1913	13	Com-a11e_13_bat-3_4665	13	0	Common blossom bat	bats	100.0
+taxongroup	Com07fd_2_bats-3	Com07fd_2_bats-3	Com07fd_2_bats-3_1913	2	Com07fd_2_bats-3_4665	2	0	Common blossom bat	bats	100.0
+taxongroup	Com07fd_2_bats-3	Com07fd_2_bat-9	Com07fd_2_bats-3_1913	2	Com07fd_2_bat-9_4665	2	0	Common blossom bat	bats	100.0
+taxongroup	Com-a11e_2_bat-19	Com-a11e_2_bat-19	Com-a11e_2_bat-19_1913	2	Com-a11e_2_bat-19_4665	2	0	Common blossom bat	bats	100.0
+taxongroup	Com-a11e_2_bat-15	Com-a11e_2_bat-19	Com-a11e_2_bat-15_1913	2	Com-a11e_2_bat-19_4665	2	0	Common blossom bat	bats	100.0
+taxongroup	Com-a11e_9_bat-3	Com-a11e_9_bat-3	Com-a11e_9_bat-3_1913	9	Com-a11e_9_bat-3_4665	9	0	Common blossom bat	bats	100.0
+taxongroup	Com-a11e_3_bat-4	Com-a11e_3_bat-4	Com-a11e_3_bat-4_1913	3	Com-a11e_3_bat-4_4665	3	0	Common blossom bat	bats	100.0
+taxongroup	Bat-2d5b_244_bat-51	Bat-2d5b_244_bat-63	Bat-2d5b_244_bat-51_1913	244	Bat-2d5b_244_bat-63_4665	244	0	Common blossom bat	bats	100.0
+taxongroup	Bat-2d5b_244_bat-51	Bat-2d5b_244_bat-51	Bat-2d5b_244_bat-51_1913	244	Bat-2d5b_244_bat-51_4665	244	0	Common blossom bat	bats	100.0
+taxongroup	Bat-2d5b_244_bat-51	Bat-2d5b_244_bat-40	Bat-2d5b_244_bat-51_1913	244	Bat-2d5b_244_bat-40_4665	244	0	Common blossom bat	bats	100.0
+taxongroup	Com-a11e_2_bat-19	Com-a11e_2_bat-4	Com-a11e_2_bat-19_1913	2	Com-a11e_2_bat-4_4665	2	0	Common blossom bat	bats	100.0
+taxongroup	Com-2ad3_60_bat-4	Com-2ad3_60_bat-4	Com-2ad3_60_bat-4_1963	60	Com-2ad3_60_bat-4_4665	60	0	Common vampire bat	bats	100.0
+taxongroup	Meg-fd01_192_bat-16	Meg-fd01_192_bat-16	Meg-fd01_192_bat-16_1913	192	Meg-fd01_192_bat-16_4665	192	0	Common blossom bat	bats	100.0
+taxongroup	Bat-2d5b_244_bat-63	Bat-2d5b_244_megabats-14	Bat-2d5b_244_bat-63_1913	244	Bat-2d5b_244_megabats-14_4152	244	0	Common blossom bat	megabats	100.0
+taxongroup	Com-a11e_2_bat-4	Com-a11e_2_megabat-23	Com-a11e_2_bat-4_1913	2	Com-a11e_2_megabat-23_4152	2	0	Common blossom bat	megabats	100.0
+taxongroup	Com-a11e_2_bat-15	Com-a11e_2_megabat-23	Com-a11e_2_bat-15_1913	2	Com-a11e_2_megabat-23_4152	2	0	Common blossom bat	megabats	100.0
+taxongroup	Com-a11e_2_bat-19	Com-a11e_2_megabat-23	Com-a11e_2_bat-19_1913	2	Com-a11e_2_megabat-23_4152	2	0	Common blossom bat	megabats	100.0
+taxongroup	Bat-2d5b_244_bat-51	Bat-2d5b_244_megabats-14	Bat-2d5b_244_bat-51_1913	244	Bat-2d5b_244_megabats-14_4152	244	0	Common blossom bat	megabats	100.0
+taxongroup	Bat-2d5b_244_bat-40	Bat-2d5b_244_megabats-14	Bat-2d5b_244_bat-40_1913	244	Bat-2d5b_244_megabats-14_4152	244	0	Common blossom bat	megabats	100.0
+taxongroup	Meg-fd01_192_bat-16	Meg-fd01_192_megabat-9	Meg-fd01_192_bat-16_1913	192	Meg-fd01_192_megabat-9_4152	192	0	Common blossom bat	megabats	100.0
+taxongroup	Vam-5657_34_bat-4	Vam-5657_34_animal-20	Vam-5657_34_bat-4_1963	34	Vam-5657_34_animal-20_44	34	0	Common vampire bat	Animals	100.0
+taxongroup	Vam-5657_4_bat-3	Vam-5657_4_Desmodus-15	Vam-5657_4_bat-3_1963	4	Vam-5657_4_Desmodus-15_1008	4	0	Common vampire bat	Desmodus	100.0
+taxongroup	Vam-5657_4_bat-24	Vam-5657_4_Desmodus-15	Vam-5657_4_bat-24_1963	4	Vam-5657_4_Desmodus-15_1008	4	0	Common vampire bat	Desmodus	100.0
+taxongroup	Vam-5657_4_bat-13	Vam-5657_4_Desmodus-15	Vam-5657_4_bat-13_1963	4	Vam-5657_4_Desmodus-15_1008	4	0	Common vampire bat	Desmodus	100.0
+taxongroup	Vam-5657_4_bat-36	Vam-5657_4_Desmodus-15	Vam-5657_4_bat-36_1963	4	Vam-5657_4_Desmodus-15_1008	4	0	Common vampire bat	Desmodus	100.0
+taxongroup	Com-a11e_2_bat-4	Com-a11e_2_bat-4	Com-a11e_2_bat-4_1913	2	Com-a11e_2_bat-4_4665	2	0	Common blossom bat	bats	100.0
+taxongroup	Com-a11e_2_bat-4	Com-a11e_2_bat-19	Com-a11e_2_bat-4_1913	2	Com-a11e_2_bat-19_4665	2	0	Common blossom bat	bats	100.0
+taxongroup	Com-a11e_2_bat-4	Com-a11e_2_bat-15	Com-a11e_2_bat-4_1913	2	Com-a11e_2_bat-15_4665	2	0	Common blossom bat	bats	100.0
+taxongroup	Bat-2d5b_244_bat-63	Bat-2d5b_244_bat-63	Bat-2d5b_244_bat-63_1913	244	Bat-2d5b_244_bat-63_4665	244	0	Common blossom bat	bats	100.0
+taxongroup	Ves-e0c0_2_Chiroptera-11	Ves-e0c0_2_mammals-18	Ves-e0c0_2_Chiroptera-11_1655	2	Ves-e0c0_2_mammals-18_3797	2	0	Chiroptera	mammals	100.0
+taxongroup	Min-f5ef_3_Chiroptera-13	Min-f5ef_3_mammals-6	Min-f5ef_3_Chiroptera-13_1655	3	Min-f5ef_3_mammals-6_3797	3	0	Chiroptera	mammals	100.0
+taxongroup	Mam-3742_36_Chiroptera-27	Mam-3742_36_mammals-25	Mam-3742_36_Chiroptera-27_1655	36	Mam-3742_36_mammals-25_3797	36	0	Chiroptera	mammals	100.0
+taxongroup	Syc-8f11_32_bat-10	Syc-8f11_32_Syconycteris-18	Syc-8f11_32_bat-10_1913	32	Syc-8f11_32_Syconycteris-18_1300	32	0	Common blossom bat	Syconycteris	100.0
+taxongroup	Syc-8f11_32_bat-16	Syc-8f11_32_Syconycteris-12	Syc-8f11_32_bat-16_1913	32	Syc-8f11_32_Syconycteris-12_1300	32	0	Common blossom bat	Syconycteris	100.0
+taxongroup	Syc-8f11_32_bat-16	Syc-8f11_32_Syconycteris-18	Syc-8f11_32_bat-16_1913	32	Syc-8f11_32_Syconycteris-18_1300	32	0	Common blossom bat	Syconycteris	100.0
+taxongroup	Syc-8f11_32_bat-10	Syc-8f11_32_Syconycteris-5	Syc-8f11_32_bat-10_1913	32	Syc-8f11_32_Syconycteris-5_1300	32	0	Common blossom bat	Syconycteris	100.0
+taxongroup	Syc-8f11_32_bat-10	Syc-8f11_32_Syconycteris-12	Syc-8f11_32_bat-10_1913	32	Syc-8f11_32_Syconycteris-12_1300	32	0	Common blossom bat	Syconycteris	100.0
+taxongroup	Syc-8f11_32_bat-3	Syc-8f11_32_Syconycteris-12	Syc-8f11_32_bat-3_1913	32	Syc-8f11_32_Syconycteris-12_1300	32	0	Common blossom bat	Syconycteris	100.0
+taxongroup	Syc-8f11_32_bat-3	Syc-8f11_32_Syconycteris-18	Syc-8f11_32_bat-3_1913	32	Syc-8f11_32_Syconycteris-18_1300	32	0	Common blossom bat	Syconycteris	100.0
+taxongroup	Syc-8f11_32_bat-3	Syc-8f11_32_Syconycteris-5	Syc-8f11_32_bat-3_1913	32	Syc-8f11_32_Syconycteris-5_1300	32	0	Common blossom bat	Syconycteris	100.0
+taxongroup	Syc-8f11_32_bat-16	Syc-8f11_32_Syconycteris-5	Syc-8f11_32_bat-16_1913	32	Syc-8f11_32_Syconycteris-5_1300	32	0	Common blossom bat	Syconycteris	100.0
+taxongroup	Com07fd_2_bat-9	Com07fd_2_bat-9	Com07fd_2_bat-9_1913	2	Com07fd_2_bat-9_4665	2	0	Common blossom bat	bats	100.0
+taxongroup	Syc-8f11_32_bat-10	Syc-8f11_32_bat-16	Syc-8f11_32_bat-10_1913	32	Syc-8f11_32_bat-16_4665	32	0	Common blossom bat	bats	100.0
+taxongroup	Syc-8f11_32_bat-10	Syc-8f11_32_bat-3	Syc-8f11_32_bat-10_1913	32	Syc-8f11_32_bat-3_4665	32	0	Common blossom bat	bats	100.0
+taxongroup	Syc-8f11_32_bat-3	Syc-8f11_32_bat-16	Syc-8f11_32_bat-3_1913	32	Syc-8f11_32_bat-16_4665	32	0	Common blossom bat	bats	100.0
+taxongroup	Syc-8f11_32_bat-3	Syc-8f11_32_bat-3	Syc-8f11_32_bat-3_1913	32	Syc-8f11_32_bat-3_4665	32	0	Common blossom bat	bats	100.0
+taxongroup	Syc-8f11_32_bat-10	Syc-8f11_32_bat-10	Syc-8f11_32_bat-10_1913	32	Syc-8f11_32_bat-10_4665	32	0	Common blossom bat	bats	100.0
+taxongroup	Syc-8f11_32_bat-16	Syc-8f11_32_bat-3	Syc-8f11_32_bat-16_1913	32	Syc-8f11_32_bat-3_4665	32	0	Common blossom bat	bats	100.0
+taxongroup	Syc-8f11_32_bat-16	Syc-8f11_32_bat-16	Syc-8f11_32_bat-16_1913	32	Syc-8f11_32_bat-16_4665	32	0	Common blossom bat	bats	100.0
+taxongroup	Syc-8f11_32_bat-16	Syc-8f11_32_bat-10	Syc-8f11_32_bat-16_1913	32	Syc-8f11_32_bat-10_4665	32	0	Common blossom bat	bats	100.0
+taxongroup	Syc-8f11_32_bat-3	Syc-8f11_32_bat-10	Syc-8f11_32_bat-3_1913	32	Syc-8f11_32_bat-10_4665	32	0	Common blossom bat	bats	100.0
+taxongroup	Com07fd_2_bat-9	Com07fd_2_bats-3	Com07fd_2_bat-9_1913	2	Com07fd_2_bats-3_4665	2	0	Common blossom bat	bats	100.0
+taxongroup	Bat-2d5b_244_bat-63	Bat-2d5b_244_bat-40	Bat-2d5b_244_bat-63_1913	244	Bat-2d5b_244_bat-40_4665	244	0	Common blossom bat	bats	100.0
+taxongroup	Bat-2d5b_244_bat-63	Bat-2d5b_244_bat-51	Bat-2d5b_244_bat-63_1913	244	Bat-2d5b_244_bat-51_4665	244	0	Common blossom bat	bats	100.0
+taxongroup	Bat-2d5b_244_bat-40	Bat-2d5b_244_bat-40	Bat-2d5b_244_bat-40_1913	244	Bat-2d5b_244_bat-40_4665	244	0	Common blossom bat	bats	100.0
+taxongroup	Bat-2d5b_244_bat-40	Bat-2d5b_244_bat-51	Bat-2d5b_244_bat-40_1913	244	Bat-2d5b_244_bat-51_4665	244	0	Common blossom bat	bats	100.0
+taxongroup	Des-ca42_5_bat-41	Des-ca42_5_Desmodus-35	Des-ca42_5_bat-41_1963	5	Des-ca42_5_Desmodus-35_1008	5	0	Common vampire bat	Desmodus	100.0
+taxongroup	Des-ca42_5_bat-26	Des-ca42_5_Desmodus-35	Des-ca42_5_bat-26_1963	5	Des-ca42_5_Desmodus-35_1008	5	0	Common vampire bat	Desmodus	100.0
+taxongroup	Des-ca42_5_bat-26	Des-ca42_5_Desmodus-46	Des-ca42_5_bat-26_1963	5	Des-ca42_5_Desmodus-46_1008	5	0	Common vampire bat	Desmodus	100.0
+taxongroup	Des-ca42_5_bat-17	Des-ca42_5_bat-26	Des-ca42_5_bat-17_1963	5	Des-ca42_5_bat-26_4665	5	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_52_bats-6	Vam-5657_52_bats-21	Vam-5657_52_bats-6_1963	52	Vam-5657_52_bats-21_4665	52	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_52_bats-21	Vam-5657_52_bats-21	Vam-5657_52_bats-21_1963	52	Vam-5657_52_bats-21_4665	52	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_52_bats-21	Vam-5657_52_bats-6	Vam-5657_52_bats-21_1963	52	Vam-5657_52_bats-6_4665	52	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_57_bat-3	Com-2ad3_57_bat-3	Com-2ad3_57_bat-3_1963	57	Com-2ad3_57_bat-3_4665	57	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_23_bat-3	Com-2ad3_23_bat-3	Com-2ad3_23_bat-3_1963	23	Com-2ad3_23_bat-3_4665	23	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_117_bat-3	Com-2ad3_117_bat-3	Com-2ad3_117_bat-3_1963	117	Com-2ad3_117_bat-3_4665	117	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_99_bat-3	Com-2ad3_99_bat-3	Com-2ad3_99_bat-3_1963	99	Com-2ad3_99_bat-3_4665	99	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_103_bat-7	Com-2ad3_103_bat-7	Com-2ad3_103_bat-7_1963	103	Com-2ad3_103_bat-7_4665	103	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_103_bat-7	Com-2ad3_103_bat-13	Com-2ad3_103_bat-7_1963	103	Com-2ad3_103_bat-13_4665	103	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_12_bat-4	Com-2ad3_12_bat-4	Com-2ad3_12_bat-4_1963	12	Com-2ad3_12_bat-4_4665	12	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_9_bat-16	Com-2ad3_9_bat-16	Com-2ad3_9_bat-16_1963	9	Com-2ad3_9_bat-16_4665	9	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_19_bat-12	Com-2ad3_19_bat-12	Com-2ad3_19_bat-12_1963	19	Com-2ad3_19_bat-12_4665	19	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_71_bat-3	Com-2ad3_71_bat-3	Com-2ad3_71_bat-3_1963	71	Com-2ad3_71_bat-3_4665	71	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_2_bat-16	Com-2ad3_2_bat-16	Com-2ad3_2_bat-16_1963	2	Com-2ad3_2_bat-16_4665	2	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_86_bats-7	Com-2ad3_86_bats-7	Com-2ad3_86_bats-7_1963	86	Com-2ad3_86_bats-7_4665	86	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_58_bat-3	Com-2ad3_58_bat-3	Com-2ad3_58_bat-3_1963	58	Com-2ad3_58_bat-3_4665	58	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_84_bat-3	Com-2ad3_84_bat-3	Com-2ad3_84_bat-3_1963	84	Com-2ad3_84_bat-3_4665	84	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_24_bat-4	Com-2ad3_24_bat-4	Com-2ad3_24_bat-4_1963	24	Com-2ad3_24_bat-4_4665	24	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_4_bat-13	Vam-5657_4_bat-3	Vam-5657_4_bat-13_1963	4	Vam-5657_4_bat-3_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_79_bat-31	Vam-5657_79_bat-25	Vam-5657_79_bat-31_1963	79	Vam-5657_79_bat-25_4665	79	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_79_bat-31	Vam-5657_79_bat-31	Vam-5657_79_bat-31_1963	79	Vam-5657_79_bat-31_4665	79	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_79_bat-31	Vam-5657_79_bat-4	Vam-5657_79_bat-31_1963	79	Vam-5657_79_bat-4_4665	79	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_2_bat-4	Com-2ad3_2_bat-16	Com-2ad3_2_bat-4_1963	2	Com-2ad3_2_bat-16_4665	2	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_2_bat-4	Com-2ad3_2_bat-4	Com-2ad3_2_bat-4_1963	2	Com-2ad3_2_bat-4_4665	2	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_4_bat-3	Vam-5657_4_bat-36	Vam-5657_4_bat-3_1963	4	Vam-5657_4_bat-36_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_103_bat-13	Com-2ad3_103_bat-7	Com-2ad3_103_bat-13_1963	103	Com-2ad3_103_bat-7_4665	103	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_103_bat-13	Com-2ad3_103_bat-13	Com-2ad3_103_bat-13_1963	103	Com-2ad3_103_bat-13_4665	103	0	Common vampire bat	bats	100.0
+taxongroup	Des-ca42_5_bat-17	Des-ca42_5_bat-41	Des-ca42_5_bat-17_1963	5	Des-ca42_5_bat-41_4665	5	0	Common vampire bat	bats	100.0
+taxongroup	Des-ca42_5_bat-17	Des-ca42_5_bat-17	Des-ca42_5_bat-17_1963	5	Des-ca42_5_bat-17_4665	5	0	Common vampire bat	bats	100.0
+taxongroup	Des-ca42_5_bat-17	Des-ca42_5_Desmodus-35	Des-ca42_5_bat-17_1963	5	Des-ca42_5_Desmodus-35_1008	5	0	Common vampire bat	Desmodus	100.0
+taxongroup	Mam-3742_525_bat-19	Mam-3742_525_bat-19	Mam-3742_525_bat-19_1963	525	Mam-3742_525_bat-19_4665	525	0	Common vampire bat	bats	100.0
+taxongroup	Des-ca42_5_bat-41	Des-ca42_5_Desmodus-46	Des-ca42_5_bat-41_1963	5	Des-ca42_5_Desmodus-46_1008	5	0	Common vampire bat	Desmodus	100.0
+taxongroup	Mam-3742_525_bat-19	Mam-3742_525_Desmodus-21	Mam-3742_525_bat-19_1963	525	Mam-3742_525_Desmodus-21_1008	525	0	Common vampire bat	Desmodus	100.0
+taxongroup	Des-ca42_5_bat-17	Des-ca42_5_Desmodus-46	Des-ca42_5_bat-17_1963	5	Des-ca42_5_Desmodus-46_1008	5	0	Common vampire bat	Desmodus	100.0
+taxongroup	Com-2ad3_2_bat-16	Com-2ad3_2_Desmodus-6	Com-2ad3_2_bat-16_1963	2	Com-2ad3_2_Desmodus-6_1008	2	0	Common vampire bat	Desmodus	100.0
+taxongroup	Com-2ad3_2_bat-4	Com-2ad3_2_Desmodus-6	Com-2ad3_2_bat-4_1963	2	Com-2ad3_2_Desmodus-6_1008	2	0	Common vampire bat	Desmodus	100.0
+taxongroup	Vam-5657_4_bat-3	Vam-5657_4_bat-13	Vam-5657_4_bat-3_1963	4	Vam-5657_4_bat-13_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_4_bat-3	Vam-5657_4_bat-24	Vam-5657_4_bat-3_1963	4	Vam-5657_4_bat-24_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_4_bat-24	Vam-5657_4_bat-24	Vam-5657_4_bat-24_1963	4	Vam-5657_4_bat-24_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_43_bats-9	Vam-5657_43_bats-9	Vam-5657_43_bats-9_1963	43	Vam-5657_43_bats-9_4665	43	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_4_bat-24	Vam-5657_4_bat-13	Vam-5657_4_bat-24_1963	4	Vam-5657_4_bat-13_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_4_bat-24	Vam-5657_4_bat-36	Vam-5657_4_bat-24_1963	4	Vam-5657_4_bat-36_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_79_bat-25	Vam-5657_79_bat-4	Vam-5657_79_bat-25_1963	79	Vam-5657_79_bat-4_4665	79	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_34_bat-4	Vam-5657_34_bat-4	Vam-5657_34_bat-4_1963	34	Vam-5657_34_bat-4_4665	34	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_79_bat-25	Vam-5657_79_bat-25	Vam-5657_79_bat-25_1963	79	Vam-5657_79_bat-25_4665	79	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_79_bat-25	Vam-5657_79_bat-31	Vam-5657_79_bat-25_1963	79	Vam-5657_79_bat-31_4665	79	0	Common vampire bat	bats	100.0
+taxongroup	Com-2ad3_2_bat-16	Com-2ad3_2_bat-4	Com-2ad3_2_bat-16_1963	2	Com-2ad3_2_bat-4_4665	2	0	Common vampire bat	bats	100.0
+taxongroup	Com2b1a_11_bats-3	Com2b1a_11_bats-3	Com2b1a_11_bats-3_1963	11	Com2b1a_11_bats-3_4665	11	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_4_bat-36	Vam-5657_4_bat-24	Vam-5657_4_bat-36_1963	4	Vam-5657_4_bat-24_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_4_bat-36	Vam-5657_4_bat-36	Vam-5657_4_bat-36_1963	4	Vam-5657_4_bat-36_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_4_bat-36	Vam-5657_4_bat-3	Vam-5657_4_bat-36_1963	4	Vam-5657_4_bat-3_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_4_bat-36	Vam-5657_4_bat-13	Vam-5657_4_bat-36_1963	4	Vam-5657_4_bat-13_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Vam-5657_4_bat-13	Vam-5657_4_bat-36	Vam-5657_4_bat-13_1963	4	Vam-5657_4_bat-36_4665	4	0	Common vampire bat	bats	100.0
+taxongroup	Des-ca42_5_bat-26	Des-ca42_5_bat-17	Des-ca42_5_bat-26_1963	5	Des-ca42_5_bat-17_4665	5	0	Common vampire bat	bats	100.0
+taxongroup	Des-ca42_5_bat-41	Des-ca42_5_bat-26	Des-ca42_5_bat-41_1963	5	Des-ca42_5_bat-26_4665	5	0	Common vampire bat	bats	100.0
+taxongroup	Des-ca42_5_bat-41	Des-ca42_5_bat-17	Des-ca42_5_bat-41_1963	5	Des-ca42_5_bat-17_4665	5	0	Common vampire bat	bats	100.0
+taxongroup	Des-ca42_5_bat-41	Des-ca42_5_bat-41	Des-ca42_5_bat-41_1963	5	Des-ca42_5_bat-41_4665	5	0	Common vampire bat	bats	100.0
+taxongroup	Bat-2d5b_7_bats-10	Bat-2d5b_7_mammal-18	Bat-2d5b_7_bats-10_4665	7	Bat-2d5b_7_mammal-18_3797	7	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_458_bats-2	Bat-2d5b_458_mammals-4	Bat-2d5b_458_bats-2_4665	458	Bat-2d5b_458_mammals-4_3797	458	0	bats	mammals	100.0
+taxongroup	Gre-c26f_7_bat-4	Gre-c26f_7_bat-8	Gre-c26f_7_bat-4_5050	7	Gre-c26f_7_bat-8_4665	7	0	greater bulldog bat	bats	100.0
+taxongroup	Des-ca42_5_bat-26	Des-ca42_5_bat-41	Des-ca42_5_bat-26_4821	5	Des-ca42_5_bat-41_4665	5	0	common vampire bat	bats	100.0
+taxongroup	Des-ca42_5_bat-26	Des-ca42_5_bat-26	Des-ca42_5_bat-26_4821	5	Des-ca42_5_bat-26_4665	5	0	common vampire bat	bats	100.0
+taxongroup	Gre-c26f_51_bat-4	Gre-c26f_51_bat-10	Gre-c26f_51_bat-4_5050	51	Gre-c26f_51_bat-10_4665	51	0	greater bulldog bat	bats	100.0
+taxongroup	Bat-2d5b_313_bat-8	Bat-2d5b_313_bat-8	Bat-2d5b_313_bat-8_5050	313	Bat-2d5b_313_bat-8_4665	313	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bats-13	Bul-4be2_2_bats-13	Bul-4be2_2_bats-13_5050	2	Bul-4be2_2_bats-13_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bats-13	Bul-4be2_2_bat-2	Bul-4be2_2_bats-13_5050	2	Bul-4be2_2_bat-2_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bats-10	Bul-4be2_2_bats-28	Bul-4be2_2_bats-10_5050	2	Bul-4be2_2_bats-28_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bats-10	Bul-4be2_2_bats-13	Bul-4be2_2_bats-10_5050	2	Bul-4be2_2_bats-13_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bats-10	Bul-4be2_2_bats-10	Bul-4be2_2_bats-10_5050	2	Bul-4be2_2_bats-10_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_21_bats-6	Bul-4be2_21_bats-6	Bul-4be2_21_bats-6_5050	21	Bul-4be2_21_bats-6_4665	21	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_21_bats-6	Bul-4be2_21_bats-15	Bul-4be2_21_bats-6_5050	21	Bul-4be2_21_bats-15_4665	21	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bats-13	Bul-4be2_2_bats-28	Bul-4be2_2_bats-13_5050	2	Bul-4be2_2_bats-28_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_9_bat-19	Bul-4be2_9_bat-19	Bul-4be2_9_bat-19_5050	9	Bul-4be2_9_bat-19_4665	9	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bats-13	Bul-4be2_2_bats-10	Bul-4be2_2_bats-13_5050	2	Bul-4be2_2_bats-10_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bat-2	Bul-4be2_2_bats-28	Bul-4be2_2_bat-2_5050	2	Bul-4be2_2_bats-28_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_2_bat-7	Gre-c26f_2_bat-7	Gre-c26f_2_bat-7_5050	2	Gre-c26f_2_bat-7_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_2_bat-7	Gre-c26f_2_bat-4	Gre-c26f_2_bat-7_5050	2	Gre-c26f_2_bat-4_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_60_bat-3	Gre-c26f_60_bat-3	Gre-c26f_60_bat-3_5050	60	Gre-c26f_60_bat-3_4665	60	0	greater bulldog bat	bats	100.0
+taxongroup	Bul-4be2_2_bat-2	Bul-4be2_2_bats-13	Bul-4be2_2_bat-2_5050	2	Bul-4be2_2_bats-13_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_51_bat-10	Gre-c26f_51_bat-4	Gre-c26f_51_bat-10_5050	51	Gre-c26f_51_bat-4_4665	51	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_7_bat-8	Gre-c26f_7_bat-8	Gre-c26f_7_bat-8_5050	7	Gre-c26f_7_bat-8_4665	7	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_2_bat-4	Gre-c26f_2_bat-7	Gre-c26f_2_bat-4_5050	2	Gre-c26f_2_bat-7_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_6_bat-3	Gre-c26f_6_bat-3	Gre-c26f_6_bat-3_5050	6	Gre-c26f_6_bat-3_4665	6	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_2_bat-4	Gre-c26f_2_bat-4	Gre-c26f_2_bat-4_5050	2	Gre-c26f_2_bat-4_4665	2	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_74_bat-3	Gre-c26f_74_bat-3	Gre-c26f_74_bat-3_5050	74	Gre-c26f_74_bat-3_4665	74	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_35_bat-3	Gre-c26f_35_bat-3	Gre-c26f_35_bat-3_5050	35	Gre-c26f_35_bat-3_4665	35	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_26_bat-4	Gre-c26f_26_bat-4	Gre-c26f_26_bat-4_5050	26	Gre-c26f_26_bat-4_4665	26	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_25_bat-3	Gre-c26f_25_bat-3	Gre-c26f_25_bat-3_5050	25	Gre-c26f_25_bat-3_4665	25	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_51_bat-10	Gre-c26f_51_bat-10	Gre-c26f_51_bat-10_5050	51	Gre-c26f_51_bat-10_4665	51	0	greater bulldog bat	bats	100.0
+taxongroup	Gre-c26f_7_bat-8	Gre-c26f_7_bat-4	Gre-c26f_7_bat-8_5050	7	Gre-c26f_7_bat-4_4665	7	0	greater bulldog bat	bats	100.0
+taxongroup	Bat-2d5b_380_bats-3	Bat-2d5b_380_bats-3	Bat-2d5b_380_bats-3_5050	380	Bat-2d5b_380_bats-3_4665	380	0	greater bulldog bat	bats	100.0
+taxongroup	But-d525_24_bats-13	But-d525_24_mammals-3	But-d525_24_bats-13_4665	24	But-d525_24_mammals-3_3797	24	0	bats	mammals	100.0
+taxongroup	Fal-22b0_19_bats-14	Fal-22b0_19_mammals-12	Fal-22b0_19_bats-14_4665	19	Fal-22b0_19_mammals-12_3797	19	0	bats	mammals	100.0
+taxongroup	Mex-2908_143_bat-6	Mex-2908_143_mammal-11	Mex-2908_143_bat-6_4665	143	Mex-2908_143_mammal-11_3797	143	0	bats	mammals	100.0
+taxongroup	Mex1501_9_bats-5	Mex1501_9_mammals-13	Mex1501_9_bats-5_4665	9	Mex1501_9_mammals-13_3797	9	0	bats	mammals	100.0
+taxongroup	Car-fccf_24_bats-21	Car-fccf_24_mammals-9	Car-fccf_24_bats-21_4665	24	Car-fccf_24_mammals-9_3797	24	0	bats	mammals	100.0
+taxongroup	Mer-5a4a_112_bats-51	Mer-5a4a_112_mammals-47	Mer-5a4a_112_bats-51_4665	112	Mer-5a4a_112_mammals-47_3797	112	0	bats	mammals	100.0
+taxongroup	Meg-fd01_172_bat-38	Meg-fd01_172_mammals-3	Meg-fd01_172_bat-38_4665	172	Meg-fd01_172_mammals-3_3797	172	0	bats	mammals	100.0
+taxongroup	Meg-fd01_238_bats-5	Meg-fd01_238_mammals-38	Meg-fd01_238_bats-5_4665	238	Meg-fd01_238_mammals-38_3797	238	0	bats	mammals	100.0
+taxongroup	Meg-fd01_96_bat-5	Meg-fd01_96_mammals-38	Meg-fd01_96_bat-5_4665	96	Meg-fd01_96_mammals-38_3797	96	0	bats	mammals	100.0
+taxongroup	Meg-fd01_216_bats-5	Meg-fd01_216_mammals-16	Meg-fd01_216_bats-5_4665	216	Meg-fd01_216_mammals-16_3797	216	0	bats	mammals	100.0
+taxongroup	Meg-fd01_181_bats-3	Meg-fd01_181_mammals-12	Meg-fd01_181_bats-3_4665	181	Meg-fd01_181_mammals-12_3797	181	0	bats	mammals	100.0
+taxongroup	Cic-663f_165_bats-13	Cic-663f_165_mammals-8	Cic-663f_165_bats-13_4665	165	Cic-663f_165_mammals-8_3797	165	0	bats	mammals	100.0
+taxongroup	Mam-3742_36_bats-29	Mam-3742_36_mammals-25	Mam-3742_36_bats-29_4665	36	Mam-3742_36_mammals-25_3797	36	0	bats	mammals	100.0
+taxongroup	Kiw-aebd_45_bat-23	Kiw-aebd_45_mammals-18	Kiw-aebd_45_bat-23_4665	45	Kiw-aebd_45_mammals-18_3797	45	0	bats	mammals	100.0
+taxongroup	Col-e01a_24_bats-19	Col-e01a_24_mammals-28	Col-e01a_24_bats-19_4665	24	Col-e01a_24_mammals-28_3797	24	0	bats	mammals	100.0
+taxongroup	Gli-5224_46_bats-22	Gli-5224_46_mammals-2	Gli-5224_46_bats-22_4665	46	Gli-5224_46_mammals-2_3797	46	0	bats	mammals	100.0
+taxongroup	Flo-338d_269_bats-11	Flo-338d_269_mammals-32	Flo-338d_269_bats-11_4665	269	Flo-338d_269_mammals-32_3797	269	0	bats	mammals	100.0
+taxongroup	Fli-9841_28_bat-13	Fli-9841_28_mammals-5	Fli-9841_28_bat-13_4665	28	Fli-9841_28_mammals-5_3797	28	0	bats	mammals	100.0
+taxongroup	Kag-2289_105_bats-8	Kag-2289_105_mammals-4	Kag-2289_105_bats-8_4665	105	Kag-2289_105_mammals-4_3797	105	0	bats	mammals	100.0
+taxongroup	Cro-5646_335_bats-11	Cro-5646_335_mammals-2	Cro-5646_335_bats-11_4665	335	Cro-5646_335_mammals-2_3797	335	0	bats	mammals	100.0
+taxongroup	Kag-2289_105_bats-8	Kag-2289_105_mammals-28	Kag-2289_105_bats-8_4665	105	Kag-2289_105_mammals-28_3797	105	0	bats	mammals	100.0
+taxongroup	Ind-c6bf_43_bat-33	Ind-c6bf_43_mammals-4	Ind-c6bf_43_bat-33_4665	43	Ind-c6bf_43_mammals-4_3797	43	0	bats	mammals	100.0
+taxongroup	Lea-e91f_23_bats-6	Lea-e91f_23_mammals-12	Lea-e91f_23_bats-6_4665	23	Lea-e91f_23_mammals-12_3797	23	0	bats	mammals	100.0
+taxongroup	Mam-3742_258_bat-20	Mam-3742_258_mammals-2	Mam-3742_258_bat-20_4665	258	Mam-3742_258_mammals-2_3797	258	0	bats	mammals	100.0
+taxongroup	Mam-3742_6_bats-16	Mam-3742_6_mammals-5	Mam-3742_6_bats-16_4665	6	Mam-3742_6_mammals-5_3797	6	0	bats	mammals	100.0
+taxongroup	Lep-b9c7_35_bats-46	Lep-b9c7_35_mammals-43	Lep-b9c7_35_bats-46_4665	35	Lep-b9c7_35_mammals-43_3797	35	0	bats	mammals	100.0
+taxongroup	Hye-f31b_149_bats-11	Hye-f31b_149_mammals-8	Hye-f31b_149_bats-11_4665	149	Hye-f31b_149_mammals-8_3797	149	0	bats	mammals	100.0
+taxongroup	Hum-85c3_193_bats-54	Hum-85c3_193_mammals-44	Hum-85c3_193_bats-54_4665	193	Hum-85c3_193_mammals-44_3797	193	0	bats	mammals	100.0
+taxongroup	Hem-5b5a_6_bats-14	Hem-5b5a_6_mammals-10	Hem-5b5a_6_bats-14_4665	6	Hem-5b5a_6_mammals-10_3797	6	0	bats	mammals	100.0
+taxongroup	Min-f5ef_26_bat-15	Min-f5ef_26_mammals-4	Min-f5ef_26_bat-15_4665	26	Min-f5ef_26_mammals-4_3797	26	0	bats	mammals	100.0
+taxongroup	Mex-2908_8_bat-10	Mex-2908_8_mammal-13	Mex-2908_8_bat-10_4665	8	Mex-2908_8_mammal-13_3797	8	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_320_bat-4	Bat-2d5b_320_mammals-9	Bat-2d5b_320_bat-4_4665	320	Bat-2d5b_320_mammals-9_3797	320	0	bats	mammals	100.0
+taxongroup	Ame-c3c3_43_bats-12	Ame-c3c3_43_mammals-21	Ame-c3c3_43_bats-12_4665	43	Ame-c3c3_43_mammals-21_3797	43	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_5_bat-3	Bat-2d5b_5_mammal-10	Bat-2d5b_5_bat-3_4665	5	Bat-2d5b_5_mammal-10_3797	5	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_36_bats-3	Bat-2d5b_36_mammals-23	Bat-2d5b_36_bats-3_4665	36	Bat-2d5b_36_mammals-23_3797	36	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_5_bat-18	Bat-2d5b_5_mammal-10	Bat-2d5b_5_bat-18_4665	5	Bat-2d5b_5_mammal-10_3797	5	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_158_bats-2	Bat-2d5b_158_mammals-22	Bat-2d5b_158_bats-2_4665	158	Bat-2d5b_158_mammals-22_3797	158	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_309_bats-2	Bat-2d5b_309_mammals-18	Bat-2d5b_309_bats-2_4665	309	Bat-2d5b_309_mammals-18_3797	309	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_165_bat-15	Bat-2d5b_165_mammal-7	Bat-2d5b_165_bat-15_4665	165	Bat-2d5b_165_mammal-7_3797	165	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_260_bats-4	Bat-2d5b_260_mammals-15	Bat-2d5b_260_bats-4_4665	260	Bat-2d5b_260_mammals-15_3797	260	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_426_bats-5	Bat-2d5b_426_mammals-18	Bat-2d5b_426_bats-5_4665	426	Bat-2d5b_426_mammals-18_3797	426	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_155_bats-27	Bat-2d5b_155_mammals-3	Bat-2d5b_155_bats-27_4665	155	Bat-2d5b_155_mammals-3_3797	155	0	bats	mammals	100.0
+taxongroup	Bla-4edd_92_bats-22	Bla-4edd_92_mammals-18	Bla-4edd_92_bats-22_4665	92	Bla-4edd_92_mammals-18_3797	92	0	bats	mammals	100.0
+taxongroup	Bir-ebe4_542_bats-15	Bir-ebe4_542_mammals-10	Bir-ebe4_542_bats-15_4665	542	Bir-ebe4_542_mammals-10_3797	542	0	bats	mammals	100.0
+taxongroup	Bee-1811_372_bats-18	Bee-1811_372_mammals-16	Bee-1811_372_bats-18_4665	372	Bee-1811_372_mammals-16_3797	372	0	bats	mammals	100.0
+taxongroup	Ven-071d_76_bats-16	Ven-071d_76_mammals-6	Ven-071d_76_bats-16_4665	76	Ven-071d_76_mammals-6_3797	76	0	bats	mammals	100.0
+taxongroup	Shr-2a0f_49_bats-24	Shr-2a0f_49_mammals-4	Shr-2a0f_49_bats-24_4665	49	Shr-2a0f_49_mammals-4_3797	49	0	bats	mammals	100.0
+taxongroup	New-ec36_77_bat-4	New-ec36_77_mammals-8	New-ec36_77_bat-4_4665	77	New-ec36_77_mammals-8_3797	77	0	bats	mammals	100.0
+taxongroup	New-ec36_48_bats-12	New-ec36_48_mammals-9	New-ec36_48_bats-12_4665	48	New-ec36_48_mammals-9_3797	48	0	bats	mammals	100.0
+taxongroup	Sho-fcec_73_bats-32	Sho-fcec_73_mammals-18	Sho-fcec_73_bats-32_4665	73	Sho-fcec_73_mammals-18_3797	73	0	bats	mammals	100.0
+taxongroup	Scr-c9e6_15_bats-28	Scr-c9e6_15_mammals-25	Scr-c9e6_15_bats-28_4665	15	Scr-c9e6_15_mammals-25_3797	15	0	bats	mammals	100.0
+taxongroup	Oce-3ad5_44_bats-5	Oce-3ad5_44_mammals-23	Oce-3ad5_44_bats-5_4665	44	Oce-3ad5_44_mammals-23_3797	44	0	bats	mammals	100.0
+taxongroup	Ves-e0c0_2_bats-30	Ves-e0c0_2_mammals-18	Ves-e0c0_2_bats-30_4665	2	Ves-e0c0_2_mammals-18_3797	2	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_331_bats-6	Bat-2d5b_331_mammals-4	Bat-2d5b_331_bats-6_4665	331	Bat-2d5b_331_mammals-4_3797	331	0	bats	mammals	100.0
+taxongroup	Ani-161e_244_bats-13	Ani-161e_244_mammals-3	Ani-161e_244_bats-13_4665	244	Ani-161e_244_mammals-3_3797	244	0	bats	mammals	100.0
+taxongroup	Ani-57f1_169_bats-2	Ani-57f1_169_mammals-6	Ani-57f1_169_bats-2_4665	169	Ani-57f1_169_mammals-6_3797	169	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_114_bats-7	Bat-2d5b_114_mammals-16	Bat-2d5b_114_bats-7_4665	114	Bat-2d5b_114_mammals-16_3797	114	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_227_bats-6	Bat-2d5b_227_mammals-4	Bat-2d5b_227_bats-6_4665	227	Bat-2d5b_227_mammals-4_3797	227	0	bats	mammals	100.0
+taxongroup	Haa-eeec_59_bat-27	Haa-eeec_59_mammals-15	Haa-eeec_59_bat-27_4665	59	Haa-eeec_59_mammals-15_3797	59	0	bats	mammals	100.0
+taxongroup	Eur-9431_125_bats-7	Eur-9431_125_mammals-2	Eur-9431_125_bats-7_4665	125	Eur-9431_125_mammals-2_3797	125	0	bats	mammals	100.0
+taxongroup	Bat-2d5b_309_bats-2	Bat-2d5b_309_vertebrates-6	Bat-2d5b_309_bats-2_4665	309	Bat-2d5b_309_vertebrates-6_3935	309	0	bats	vertebrates	100.0
+taxongroup	Bat-2d5b_175_bats-2	Bat-2d5b_175_vertebrates-15	Bat-2d5b_175_bats-2_4665	175	Bat-2d5b_175_vertebrates-15_3935	175	0	bats	vertebrates	100.0
+taxongroup	Bla-4edd_92_bats-22	Bla-4edd_92_vertebrates-6	Bla-4edd_92_bats-22_4665	92	Bla-4edd_92_vertebrates-6_3935	92	0	bats	vertebrates	100.0
+taxongroup	Mos-3d44_148_bats-22	Mos-3d44_148_vertebrates-20	Mos-3d44_148_bats-22_4665	148	Mos-3d44_148_vertebrates-20_3935	148	0	bats	vertebrates	100.0
+taxongroup	Pte-62aa_58_bats-12	Pte-62aa_58_vertebrate-5	Pte-62aa_58_bats-12_4665	58	Pte-62aa_58_vertebrate-5_3935	58	0	bats	vertebrates	100.0
+taxongroup	Com-a681_84_bats-6	Com-a681_84_vertebrates-4	Com-a681_84_bats-6_4665	84	Com-a681_84_vertebrates-4_3935	84	0	bats	vertebrates	100.0
+taxongroup	Lep-b9c7_35_bats-46	Lep-b9c7_35_vertebrates-33	Lep-b9c7_35_bats-46_4665	35	Lep-b9c7_35_vertebrates-33_3935	35	0	bats	vertebrates	100.0
+taxongroup	Lea-e91f_6_bats-24	Lea-e91f_6_vertebrates-28	Lea-e91f_6_bats-24_4665	6	Lea-e91f_6_vertebrates-28_3935	6	0	bats	vertebrates	100.0
+taxongroup	Lea-e91f_6_bats-37	Lea-e91f_6_vertebrates-28	Lea-e91f_6_bats-37_4665	6	Lea-e91f_6_vertebrates-28_3935	6	0	bats	vertebrates	100.0
+taxongroup	Bro-acd0_2_bat-6	Bro-acd0_2_Plecotus-14	Bro-acd0_2_bat-6_4737	2	Bro-acd0_2_Plecotus-14_1218	2	0	brown long-eared bat	Plecotus	100.0
+taxongroup	Bro-acd0_2_bat-12	Bro-acd0_2_Plecotus-14	Bro-acd0_2_bat-12_4737	2	Bro-acd0_2_Plecotus-14_1218	2	0	brown long-eared bat	Plecotus	100.0
+taxongroup	Bro-acd0_2_bat-22	Bro-acd0_2_Plecotus-14	Bro-acd0_2_bat-22_4737	2	Bro-acd0_2_Plecotus-14_1218	2	0	brown long-eared bat	Plecotus	100.0
+taxongroup	Bro-acd0_2_bat-6	Bro-acd0_2_bat-22	Bro-acd0_2_bat-6_4737	2	Bro-acd0_2_bat-22_4665	2	0	brown long-eared bat	bats	100.0
+taxongroup	Bro-acd0_2_bat-12	Bro-acd0_2_bat-6	Bro-acd0_2_bat-12_4737	2	Bro-acd0_2_bat-6_4665	2	0	brown long-eared bat	bats	100.0
+taxongroup	Bro-acd0_9_bat-6	Bro-acd0_9_bat-6	Bro-acd0_9_bat-6_4737	9	Bro-acd0_9_bat-6_4665	9	0	brown long-eared bat	bats	100.0
+taxongroup	Bro-acd0_18_bat-19	Bro-acd0_18_bat-19	Bro-acd0_18_bat-19_4737	18	Bro-acd0_18_bat-19_4665	18	0	brown long-eared bat	bats	100.0
+taxongroup	Bro-acd0_2_bat-22	Bro-acd0_2_bat-6	Bro-acd0_2_bat-22_4737	2	Bro-acd0_2_bat-6_4665	2	0	brown long-eared bat	bats	100.0
+taxongroup	Bro-acd0_2_bat-12	Bro-acd0_2_bat-12	Bro-acd0_2_bat-12_4737	2	Bro-acd0_2_bat-12_4665	2	0	brown long-eared bat	bats	100.0
+taxongroup	Bro-acd0_2_bat-12	Bro-acd0_2_bat-22	Bro-acd0_2_bat-12_4737	2	Bro-acd0_2_bat-22_4665	2	0	brown long-eared bat	bats	100.0
+taxongroup	Bro-acd0_2_bat-6	Bro-acd0_2_bat-12	Bro-acd0_2_bat-6_4737	2	Bro-acd0_2_bat-12_4665	2	0	brown long-eared bat	bats	100.0
+taxongroup	Bro-acd0_2_bat-22	Bro-acd0_2_bat-22	Bro-acd0_2_bat-22_4737	2	Bro-acd0_2_bat-22_4665	2	0	brown long-eared bat	bats	100.0
+taxongroup	Bro-acd0_2_bat-22	Bro-acd0_2_bat-12	Bro-acd0_2_bat-22_4737	2	Bro-acd0_2_bat-12_4665	2	0	brown long-eared bat	bats	100.0
+taxongroup	Bro-acd0_2_bat-6	Bro-acd0_2_bat-6	Bro-acd0_2_bat-6_4737	2	Bro-acd0_2_bat-6_4665	2	0	brown long-eared bat	bats	100.0

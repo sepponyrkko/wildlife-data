@@ -1,0 +1,8 @@
+source	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	37.45	0.01	4.5	0.0	0.01	37.45	20.59	Lizard__suborder	75
+adaptation_topic	0.0	25.68	25.68	0.0	0.0	23.59	25.05	Lizard__suborder	143
+free_topic	0.0	0.0	45.86	0.0	0.0	30.62	23.52	Lizard__suborder	730
+location_comment	0.0	0.0	2.04	44.54	0.0	39.07	14.36	Lizard__suborder	28
+location_topic	0.0	0.01	4.73	0.0	51.15	24.43	19.67	Lizard__suborder	94
+taxongroup_comment	0.0	0.0	0.34	0.0	0.0	89.94	9.72	Lizard__suborder	300
+taxongroup_topic	0.0	0.0	1.1	0.0	0.0	19.99	78.91	Lizard__suborder	303

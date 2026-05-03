@@ -1,0 +1,8 @@
+source	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	44.77	0.0	22.66	0.15	3.74	15.36	13.34	Plant__kingdom	12
+adaptation_topic	0.0	80.74	6.83	0.06	0.1	7.52	4.75	Plant__kingdom	13
+free_topic	0.0	0.0	84.54	0.36	0.18	8.6	6.32	Plant__kingdom	975
+location_comment	0.0	0.0	5.48	91.84	0.01	1.59	1.08	Plant__kingdom	94
+location_topic	0.0	0.0	11.2	0.07	76.87	6.13	5.73	Plant__kingdom	85
+taxongroup_comment	0.0	0.0	11.35	0.03	0.01	77.86	10.76	Plant__kingdom	272
+taxongroup_topic	0.0	0.0	12.27	0.0	0.01	7.51	80.22	Plant__kingdom	265

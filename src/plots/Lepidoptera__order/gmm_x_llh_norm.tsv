@@ -1,0 +1,8 @@
+source	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	64.55	0.0	3.98	0.0	0.0	25.9	5.57	Lepidoptera__order	95
+adaptation_topic	0.01	34.0	11.74	0.0	0.0	28.6	25.65	Lepidoptera__order	113
+free_topic	0.0	0.0	59.53	0.0	0.0	34.62	5.86	Lepidoptera__order	271
+location_comment	0.0	0.0	0.18	93.98	0.0	4.42	1.42	Lepidoptera__order	38
+location_topic	0.0	0.29	5.87	0.0	31.28	31.28	31.28	Lepidoptera__order	73
+taxongroup_comment	0.0	0.0	0.0	0.0	0.0	100.0	0.0	Lepidoptera__order	320
+taxongroup_topic	0.0	0.0	0.0	0.0	0.0	39.84	60.16	Lepidoptera__order	247

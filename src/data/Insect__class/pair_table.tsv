@@ -1,0 +1,996 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Ani-ab87_79_locust-7	Ani-ab87_79_desert-6	Ani-ab87_79_locust-7_4859	79	Ani-ab87_79_desert-6_3805	79	0	desert locust	desert	100.0
+location	Nom-aef8_117_locust-14	Nom-aef8_117_desert-13	Nom-aef8_117_locust-14_4859	117	Nom-aef8_117_desert-13_3805	117	0	desert locust	desert	100.0
+location	Des-78ef_194_locust-19	Des-78ef_194_desert-18	Des-78ef_194_locust-19_4859	194	Des-78ef_194_desert-18_3805	194	0	desert locust	desert	100.0
+location	Des94f5_4_locust-3	Des94f5_4_desert-2	Des94f5_4_locust-3_4859	4	Des94f5_4_desert-2_3805	4	0	desert locust	desert	100.0
+location	Des-78ef_283_locust-7	Des-78ef_283_desert-6	Des-78ef_283_locust-7_4859	283	Des-78ef_283_desert-6_34	283	0	desert locust	Desert	100.0
+location	Sch-31f7_3_locust-9	Sch-31f7_3_desert-8	Sch-31f7_3_locust-9_4859	3	Sch-31f7_3_desert-8_34	3	0	desert locust	Desert	100.0
+location	Swa-27b4_247_locust-16	Swa-27b4_247_desert-15	Swa-27b4_247_locust-16_4859	247	Swa-27b4_247_desert-15_34	247	0	desert locust	Desert	100.0
+location	Des-78ef_116_locust-3	Des-78ef_116_desert-2	Des-78ef_116_locust-3_4859	116	Des-78ef_116_desert-2_34	116	0	desert locust	Desert	100.0
+location	Des-78ef_230_locust-2	Des-78ef_230_Desert-1	Des-78ef_230_locust-2_4859	230	Des-78ef_230_Desert-1_34	230	0	desert locust	Desert	100.0
+location	Des-78ef_223_locust-2	Des-78ef_223_Desert-1	Des-78ef_223_locust-2_4859	223	Des-78ef_223_Desert-1_34	223	0	desert locust	Desert	100.0
+location	Des-78ef_258_locust-5	Des-78ef_258_desert-4	Des-78ef_258_locust-5_4859	258	Des-78ef_258_desert-4_34	258	0	desert locust	Desert	100.0
+location	Des-78ef_253_locust-5	Des-78ef_253_desert-4	Des-78ef_253_locust-5_4859	253	Des-78ef_253_desert-4_34	253	0	desert locust	Desert	100.0
+location	Des-78ef_249_locust-6	Des-78ef_249_desert-5	Des-78ef_249_locust-6_4859	249	Des-78ef_249_desert-5_34	249	0	desert locust	Desert	100.0
+location	Des-78ef_231_locust-2	Des-78ef_231_Desert-1	Des-78ef_231_locust-2_4859	231	Des-78ef_231_Desert-1_34	231	0	desert locust	Desert	100.0
+location	Des-78ef_281_locust-7	Des-78ef_281_desert-6	Des-78ef_281_locust-7_4859	281	Des-78ef_281_desert-6_34	281	0	desert locust	Desert	100.0
+location	Des-78ef_219_locust-2	Des-78ef_219_Desert-1	Des-78ef_219_locust-2_4859	219	Des-78ef_219_Desert-1_34	219	0	desert locust	Desert	100.0
+location	Des-78ef_244_locust-5	Des-78ef_244_desert-4	Des-78ef_244_locust-5_4859	244	Des-78ef_244_desert-4_34	244	0	desert locust	Desert	100.0
+location	Des-78ef_215_locust-2	Des-78ef_215_Desert-1	Des-78ef_215_locust-2_4859	215	Des-78ef_215_Desert-1_34	215	0	desert locust	Desert	100.0
+location	Des-78ef_2_locust-3	Des-78ef_2_desert-2	Des-78ef_2_locust-3_4859	2	Des-78ef_2_desert-2_34	2	0	desert locust	Desert	100.0
+location	Des-78ef_30_locust-2	Des-78ef_30_Desert-1	Des-78ef_30_locust-2_4859	30	Des-78ef_30_Desert-1_34	30	0	desert locust	Desert	100.0
+location	Des-78ef_94_locust-15	Des-78ef_94_desert-14	Des-78ef_94_locust-15_4859	94	Des-78ef_94_desert-14_34	94	0	desert locust	Desert	100.0
+location	Des-78ef_90_locust-2	Des-78ef_90_Desert-1	Des-78ef_90_locust-2_4859	90	Des-78ef_90_Desert-1_34	90	0	desert locust	Desert	100.0
+location	Des-78ef_87_locust-8	Des-78ef_87_desert-7	Des-78ef_87_locust-8_4859	87	Des-78ef_87_desert-7_34	87	0	desert locust	Desert	100.0
+location	Des-78ef_81_locust-2	Des-78ef_81_Desert-1	Des-78ef_81_locust-2_4859	81	Des-78ef_81_Desert-1_34	81	0	desert locust	Desert	100.0
+location	Des-78ef_52_locust-2	Des-78ef_52_Desert-1	Des-78ef_52_locust-2_4859	52	Des-78ef_52_Desert-1_34	52	0	desert locust	Desert	100.0
+location	Des-78ef_45_locust-11	Des-78ef_45_desert-10	Des-78ef_45_locust-11_4859	45	Des-78ef_45_desert-10_34	45	0	desert locust	Desert	100.0
+location	Des-78ef_334_locust-2	Des-78ef_334_Desert-1	Des-78ef_334_locust-2_4859	334	Des-78ef_334_Desert-1_34	334	0	desert locust	Desert	100.0
+location	Des-78ef_31_locust-6	Des-78ef_31_desert-5	Des-78ef_31_locust-6_4859	31	Des-78ef_31_desert-5_34	31	0	desert locust	Desert	100.0
+location	Des-78ef_19_locust-2	Des-78ef_19_Desert-1	Des-78ef_19_locust-2_4859	19	Des-78ef_19_Desert-1_3805	19	0	desert locust	desert	100.0
+location	Sch-31f7_3_locust-25	Sch-31f7_3_desert-8	Sch-31f7_3_locust-25_4859	3	Sch-31f7_3_desert-8_3805	3	0	desert locust	desert	100.0
+location	Des-78ef_214_locust-7	Des-78ef_214_desert-6	Des-78ef_214_locust-7_4859	214	Des-78ef_214_desert-6_3805	214	0	desert locust	desert	100.0
+location	Des-78ef_159_locust-2	Des-78ef_159_Desert-1	Des-78ef_159_locust-2_4859	159	Des-78ef_159_Desert-1_3805	159	0	desert locust	desert	100.0
+location	Des-78ef_158_locust-22	Des-78ef_158_desert-10	Des-78ef_158_locust-22_4859	158	Des-78ef_158_desert-10_3805	158	0	desert locust	desert	100.0
+location	Des-78ef_158_locust-11	Des-78ef_158_desert-21	Des-78ef_158_locust-11_4859	158	Des-78ef_158_desert-21_3805	158	0	desert locust	desert	100.0
+location	Des-78ef_158_locust-11	Des-78ef_158_desert-10	Des-78ef_158_locust-11_4859	158	Des-78ef_158_desert-10_3805	158	0	desert locust	desert	100.0
+location	Des-78ef_152_locust-2	Des-78ef_152_Desert-1	Des-78ef_152_locust-2_4859	152	Des-78ef_152_Desert-1_3805	152	0	desert locust	desert	100.0
+location	Des-78ef_151_locust-10	Des-78ef_151_desert-9	Des-78ef_151_locust-10_4859	151	Des-78ef_151_desert-9_3805	151	0	desert locust	desert	100.0
+location	Des-78ef_150_locust-2	Des-78ef_150_Desert-1	Des-78ef_150_locust-2_4859	150	Des-78ef_150_Desert-1_3805	150	0	desert locust	desert	100.0
+location	Des-78ef_121_locust-2	Des-78ef_121_Desert-1	Des-78ef_121_locust-2_4859	121	Des-78ef_121_Desert-1_3805	121	0	desert locust	desert	100.0
+location	Des-78ef_156_locust-2	Des-78ef_156_Desert-1	Des-78ef_156_locust-2_4859	156	Des-78ef_156_Desert-1_3805	156	0	desert locust	desert	100.0
+location	Des-78ef_161_locust-17	Des-78ef_161_desert-16	Des-78ef_161_locust-17_4859	161	Des-78ef_161_desert-16_3805	161	0	desert locust	desert	100.0
+location	Des-78ef_168_locust-2	Des-78ef_168_Desert-1	Des-78ef_168_locust-2_4859	168	Des-78ef_168_Desert-1_3805	168	0	desert locust	desert	100.0
+location	Des-78ef_212_locust-2	Des-78ef_212_Desert-1	Des-78ef_212_locust-2_4859	212	Des-78ef_212_Desert-1_3805	212	0	desert locust	desert	100.0
+location	Des-78ef_206_locust-2	Des-78ef_206_Desert-1	Des-78ef_206_locust-2_4859	206	Des-78ef_206_Desert-1_3805	206	0	desert locust	desert	100.0
+location	Des-78ef_158_locust-22	Des-78ef_158_desert-21	Des-78ef_158_locust-22_4859	158	Des-78ef_158_desert-21_3805	158	0	desert locust	desert	100.0
+location	Des-78ef_1_locust-2	Des-78ef_1_Desert-1	Des-78ef_1_locust-2_4859	1	Des-78ef_1_Desert-1_3805	1	0	desert locust	desert	100.0
+location	Des-78ef_169_locust-9	Des-78ef_169_desert-8	Des-78ef_169_locust-9_4859	169	Des-78ef_169_desert-8_3805	169	0	desert locust	desert	100.0
+location	Des-78ef_199_locust-2	Des-78ef_199_Desert-1	Des-78ef_199_locust-2_4859	199	Des-78ef_199_Desert-1_3805	199	0	desert locust	desert	100.0
+location	Des-78ef_17_locust-4	Des-78ef_17_desert-3	Des-78ef_17_locust-4_4859	17	Des-78ef_17_desert-3_3805	17	0	desert locust	desert	100.0
+location	Des-78ef_16_locust-3	Des-78ef_16_desert-2	Des-78ef_16_locust-3_4859	16	Des-78ef_16_desert-2_3805	16	0	desert locust	desert	100.0
+location	Des-78ef_16_locust-11	Des-78ef_16_desert-2	Des-78ef_16_locust-11_4859	16	Des-78ef_16_desert-2_3805	16	0	desert locust	desert	100.0
+location	Des-78ef_5_locust-3	Des-78ef_5_desert-2	Des-78ef_5_locust-3_4859	5	Des-78ef_5_desert-2_34	5	0	desert locust	Desert	100.0
+location	Des-78ef_11_locust-3	Des-78ef_11_desert-2	Des-78ef_11_locust-3_4859	11	Des-78ef_11_desert-2_34	11	0	desert locust	Desert	100.0
+location	Des-78ef_111_locust-3	Des-78ef_111_desert-2	Des-78ef_111_locust-3_4859	111	Des-78ef_111_desert-2_3805	111	0	desert locust	desert	100.0
+location	Wet-a585_159_dragonflies-10	Wet-a585_159_wetlands-3	Wet-a585_159_dragonflies-10_4546	159	Wet-a585_159_wetlands-3_4542	159	0	dragonflies	wetlands	100.0
+location	Dra-48f6_276_dragonfly-2	Dra-48f6_276_wetlands-26	Dra-48f6_276_dragonfly-2_4546	276	Dra-48f6_276_wetlands-26_4542	276	0	dragonflies	wetlands	100.0
+location	Hig-d0f9_2_midge-25	Hig-d0f9_2_bogs-57	Hig-d0f9_2_midge-25_3870	2	Hig-d0f9_2_bogs-57_4511	2	0	highland midge	bog	100.0
+location	Hig-d0f9_2_midge-3	Hig-d0f9_2_bogs-57	Hig-d0f9_2_midge-3_3870	2	Hig-d0f9_2_bogs-57_4511	2	0	highland midge	bog	100.0
+location	Hig-d0f9_2_midge-25	Hig-d0f9_2_marshes-59	Hig-d0f9_2_midge-25_3870	2	Hig-d0f9_2_marshes-59_3807	2	0	highland midge	marsh	100.0
+location	Hig-d0f9_2_midge-3	Hig-d0f9_2_marshes-59	Hig-d0f9_2_midge-3_3870	2	Hig-d0f9_2_marshes-59_3807	2	0	highland midge	marsh	100.0
+location	Des-78ef_61_locust-30	Des-78ef_61_desert-29	Des-78ef_61_locust-30_4859	61	Des-78ef_61_desert-29_3805	61	0	desert locust	desert	100.0
+location	Dyt-06e1_2_beetles-31	Dyt-06e1_2_wetlands-36	Dyt-06e1_2_beetles-31_5049	2	Dyt-06e1_2_wetlands-36_4542	2	0	great diving beetle	wetlands	66.0
+location	Dra-48f6_126_dragonflies-27	Dra-48f6_125_swamps-19	Dra-48f6_126_dragonflies-27_4546	126	Dra-48f6_125_swamps-19_3808	125	1	dragonflies	swamp	50.0
+location	Dra-48f6_126_dragonflies-27	Dra-48f6_127_bogs-40	Dra-48f6_126_dragonflies-27_4546	126	Dra-48f6_127_bogs-40_4511	127	1	dragonflies	bog	50.0
+location	Wet-a585_159_dragonflies-10	Wet-a585_158_Wetlands-1	Wet-a585_159_dragonflies-10_4546	159	Wet-a585_158_Wetlands-1_1382	158	1	dragonflies	Wetlands	50.0
+location	Wet-a585_159_dragonflies-10	Wet-a585_160_wetlands-12	Wet-a585_159_dragonflies-10_4546	159	Wet-a585_160_wetlands-12_4542	160	1	dragonflies	wetlands	50.0
+location	Aes-8e92_21_isoceles-2	Aes-8e92_20_marshes-12	Aes-8e92_21_isoceles-2_190	21	Aes-8e92_20_marshes-12_3807	20	1	Aeshna isoceles	marsh	43.5
+location	Coc-890e_11_ladybird-14	Coc-890e_10_parkland-16	Coc-890e_11_ladybird-14_4785	11	Coc-890e_10_parkland-16_4529	10	1	seven-spot ladybird 	parkland	37.5
+location	Coc-890e_11_ladybird-23	Coc-890e_10_parkland-16	Coc-890e_11_ladybird-23_4785	11	Coc-890e_10_parkland-16_4529	10	1	seven-spot ladybird 	parkland	37.5
+location	Hig-d0f9_4_midges-3	Hig-d0f9_2_marshes-59	Hig-d0f9_4_midges-3_3870	4	Hig-d0f9_2_marshes-59_3807	2	2	highland midge	marsh	33.333
+location	Dra-48f6_129_dragonflies-2	Dra-48f6_127_bogs-40	Dra-48f6_129_dragonflies-2_4546	129	Dra-48f6_127_bogs-40_4511	127	2	dragonflies	bog	33.333
+location	Hig-d0f9_4_midges-3	Hig-d0f9_2_bogs-57	Hig-d0f9_4_midges-3_3870	4	Hig-d0f9_2_bogs-57_4511	2	2	highland midge	bog	33.333
+location	Des-78ef_242_Locust-3	Des-78ef_244_desert-4	Des-78ef_242_Locust-3_2037	242	Des-78ef_244_desert-4_34	244	2	Desert locust	Desert	33.333
+location	Aes-8e92_23_hawker-3	Aes-8e92_25_marshes-11	Aes-8e92_23_hawker-3_189	23	Aes-8e92_25_marshes-11_3807	25	2	Norfolk hawker	marsh	33.333
+location	Wet-a585_159_dragonflies-10	Wet-a585_157_swamp-36	Wet-a585_159_dragonflies-10_4546	159	Wet-a585_157_swamp-36_3808	157	2	dragonflies	swamp	33.333
+location	Sta-7425_15_dragonflies-29	Sta-7425_18_marshes-16	Sta-7425_15_dragonflies-29_4546	15	Sta-7425_18_marshes-16_3807	18	3	dragonflies	marsh	25.0
+location	Aes-8e92_23_hawker-3	Aes-8e92_20_marshes-12	Aes-8e92_23_hawker-3_189	23	Aes-8e92_20_marshes-12_3807	20	3	Norfolk hawker	marsh	25.0
+location	Dra-48f6_130_dragonfly-17	Dra-48f6_127_bogs-40	Dra-48f6_130_dragonfly-17_4546	130	Dra-48f6_127_bogs-40_4511	127	3	dragonflies	bog	25.0
+location	Eur-be6c_29_dragonflies-16	Eur-be6c_26_marshes-12	Eur-be6c_29_dragonflies-16_4546	29	Eur-be6c_26_marshes-12_3807	26	3	dragonflies	marsh	25.0
+location	Dra-48f6_131_dragonfly-7	Dra-48f6_127_bogs-40	Dra-48f6_131_dragonfly-7_4546	131	Dra-48f6_127_bogs-40_4511	127	4	dragonflies	bog	20.0
+location	Dra-48f6_131_dragonflies-34	Dra-48f6_127_bogs-40	Dra-48f6_131_dragonflies-34_4546	131	Dra-48f6_127_bogs-40_4511	127	4	dragonflies	bog	20.0
+location	Dra-48f6_129_dragonflies-2	Dra-48f6_125_swamps-19	Dra-48f6_129_dragonflies-2_4546	129	Dra-48f6_125_swamps-19_3808	125	4	dragonflies	swamp	20.0
+location	Des-78ef_299_Locust-2	Des-78ef_303_Desert-1	Des-78ef_299_Locust-2_2037	299	Des-78ef_303_Desert-1_3805	303	4	Desert locust	desert	20.0
+location	Des-78ef_262_Locust-8	Des-78ef_258_desert-4	Des-78ef_262_Locust-8_2037	262	Des-78ef_258_desert-4_34	258	4	Desert locust	Desert	20.0
+location	Aes-8e92_29_isoceles-2	Aes-8e92_25_marshes-11	Aes-8e92_29_isoceles-2_190	29	Aes-8e92_25_marshes-11_3807	25	4	Aeshna isoceles	marsh	17.4
+location	Aes-8e92_16_isoceles-2	Aes-8e92_20_marshes-12	Aes-8e92_16_isoceles-2_190	16	Aes-8e92_20_marshes-12_3807	20	4	Aeshna isoceles	marsh	17.4
+location	Aes-8e92_21_isoceles-2	Aes-8e92_25_marshes-11	Aes-8e92_21_isoceles-2_190	21	Aes-8e92_25_marshes-11_3807	25	4	Aeshna isoceles	marsh	17.4
+location	Dra-48f6_130_dragonfly-17	Dra-48f6_125_swamps-19	Dra-48f6_130_dragonfly-17_4546	130	Dra-48f6_125_swamps-19_3808	125	5	dragonflies	swamp	16.667
+location	Dra-48f6_132_dragonflies-9	Dra-48f6_127_bogs-40	Dra-48f6_132_dragonflies-9_4546	132	Dra-48f6_127_bogs-40_4511	127	5	dragonflies	bog	16.667
+location	Coc-890e_5_septempunctata-2	Coc-890e_10_parkland-16	Coc-890e_5_septempunctata-2_1896	5	Coc-890e_10_parkland-16_4529	10	5	Coccinella septempunctata	parkland	14.5
+location	Dra-48f6_131_dragonfly-7	Dra-48f6_125_swamps-19	Dra-48f6_131_dragonfly-7_4546	131	Dra-48f6_125_swamps-19_3808	125	6	dragonflies	swamp	14.286
+location	Wet-a585_159_dragonflies-10	Wet-a585_165_Wetland-1	Wet-a585_159_dragonflies-10_4546	159	Wet-a585_165_Wetland-1_1382	165	6	dragonflies	Wetlands	14.286
+location	Coc-890e_16_ladybird-5	Coc-890e_10_parkland-16	Coc-890e_16_ladybird-5_4785	16	Coc-890e_10_parkland-16_4529	10	6	seven-spot ladybird 	parkland	14.286
+location	Dra-48f6_131_dragonflies-34	Dra-48f6_125_swamps-19	Dra-48f6_131_dragonflies-34_4546	131	Dra-48f6_125_swamps-19_3808	125	6	dragonflies	swamp	14.286
+location	Aes-8e92_14_dragonflies-23	Aes-8e92_20_marshes-12	Aes-8e92_14_dragonflies-23_4546	14	Aes-8e92_20_marshes-12_3807	20	6	dragonflies	marsh	14.286
+location	Red-2707_35_dragonflies-25	Red-2707_28_marshes-7	Red-2707_35_dragonflies-25_4546	35	Red-2707_28_marshes-7_3807	28	7	dragonflies	marsh	12.5
+location	Coc-890e_2_ladybird-8	Coc-890e_10_parkland-16	Coc-890e_2_ladybird-8_4785	2	Coc-890e_10_parkland-16_4529	10	8	seven-spot ladybird 	parkland	11.111
+location	Coc-890e_2_ladybird-42	Coc-890e_10_parkland-16	Coc-890e_2_ladybird-42_4785	2	Coc-890e_10_parkland-16_4529	10	8	seven-spot ladybird 	parkland	11.111
+location	Coc-890e_2_ladybug-19	Coc-890e_10_parkland-16	Coc-890e_2_ladybug-19_4786	2	Coc-890e_10_parkland-16_4529	10	8	seven-spotted ladybug	parkland	9.222
+location	Aes-8e92_29_isoceles-2	Aes-8e92_20_marshes-12	Aes-8e92_29_isoceles-2_190	29	Aes-8e92_20_marshes-12_3807	20	9	Aeshna isoceles	marsh	8.7
+location	Aes-8e92_16_isoceles-2	Aes-8e92_25_marshes-11	Aes-8e92_16_isoceles-2_190	16	Aes-8e92_25_marshes-11_3807	25	9	Aeshna isoceles	marsh	8.7
+location	Aes-8e92_14_dragonflies-23	Aes-8e92_25_marshes-11	Aes-8e92_14_dragonflies-23_4546	14	Aes-8e92_25_marshes-11_3807	25	11	dragonflies	marsh	8.333
+location	Cul-95a9_19_midge-63	Cul-95a9_31_marshes-20	Cul-95a9_19_midge-63_164	19	Cul-95a9_31_marshes-20_3807	31	12	Highland midge	marsh	7.692
+location	Nor-d13e_196_Odonata-13	Nor-d13e_211_wetlands-12	Nor-d13e_196_Odonata-13_2943	196	Nor-d13e_211_wetlands-12_4542	211	15	Odonata	wetlands	6.25
+location	Gre-b5ff_49_mayflies-14	Gre-b5ff_39_rivers-18	Gre-b5ff_49_mayflies-14_5227	49	Gre-b5ff_39_rivers-18_4533	39	10	mayflies	rivers and streams	6.0
+location	Wet-a585_159_dragonflies-10	Wet-a585_175_Wetland-1	Wet-a585_159_dragonflies-10_4546	159	Wet-a585_175_Wetland-1_1382	175	16	dragonflies	Wetlands	5.882
+location	Aes-8e92_4_hawker-16	Aes-8e92_20_marshes-12	Aes-8e92_4_hawker-16_189	4	Aes-8e92_20_marshes-12_3807	20	16	Norfolk hawker	marsh	5.882
+location	Wet-a585_159_dragonflies-10	Wet-a585_142_Wetland-1	Wet-a585_159_dragonflies-10_4546	159	Wet-a585_142_Wetland-1_1382	142	17	dragonflies	Wetlands	5.556
+location	Aes-8e92_3_hawker-11	Aes-8e92_20_marshes-12	Aes-8e92_3_hawker-11_3881	3	Aes-8e92_20_marshes-12_3807	20	17	green-eyed hawker	marsh	4.611
+location	Aes-8e92_4_hawker-16	Aes-8e92_25_marshes-11	Aes-8e92_4_hawker-16_189	4	Aes-8e92_25_marshes-11_3807	25	21	Norfolk hawker	marsh	4.545
+location	Aes-8e92_3_hawker-11	Aes-8e92_25_marshes-11	Aes-8e92_3_hawker-11_3881	3	Aes-8e92_25_marshes-11_3807	25	22	green-eyed hawker	marsh	3.609
+location	Cal-b12b_36_Odonata-3	Cal-b12b_7_rivers-4	Cal-b12b_36_Odonata-3_2943	36	Cal-b12b_7_rivers-4_4533	7	29	Odonata	rivers and streams	3.333
+location	Cal-b12b_37_mayflies-11	Cal-b12b_7_rivers-4	Cal-b12b_37_mayflies-11_5227	37	Cal-b12b_7_rivers-4_4533	7	30	mayflies	rivers and streams	3.226
+location	Dra-48f6_307_Odonata-34	Dra-48f6_276_wetlands-26	Dra-48f6_307_Odonata-34_2943	307	Dra-48f6_276_wetlands-26_4542	276	31	Odonata	wetlands	3.125
+location	Dra-48f6_307_demoiselle-38	Dra-48f6_276_wetlands-26	Dra-48f6_307_demoiselle-38_4657	307	Dra-48f6_276_wetlands-26_4542	276	31	banded demoiselle	wetlands	3.125
+location	Dra-48f6_307_demoiselle-38	Dra-48f6_273_wetlands-7	Dra-48f6_307_demoiselle-38_4657	307	Dra-48f6_273_wetlands-7_4542	273	34	banded demoiselle	wetlands	2.857
+location	Dra-48f6_307_Odonata-34	Dra-48f6_273_wetlands-7	Dra-48f6_307_Odonata-34_2943	307	Dra-48f6_273_wetlands-7_4542	273	34	Odonata	wetlands	2.857
+location	Cal-b12b_47_Odonata-3	Cal-b12b_7_rivers-4	Cal-b12b_47_Odonata-3_2943	47	Cal-b12b_7_rivers-4_4533	7	40	Odonata	rivers and streams	2.439
+location	Nor-d13e_196_Odonata-13	Nor-d13e_139_wetlands-37	Nor-d13e_196_Odonata-13_2943	196	Nor-d13e_139_wetlands-37_4542	139	57	Odonata	wetlands	1.724
+location	Ani-ab87_117_dragonflies-11	Ani-ab87_179_Marsh-9	Ani-ab87_117_dragonflies-11_4546	117	Ani-ab87_179_Marsh-9_36	179	62	dragonflies	Marsh	1.587
+location	Dra-48f6_344_Odonata-5	Dra-48f6_276_wetlands-26	Dra-48f6_344_Odonata-5_2943	344	Dra-48f6_276_wetlands-26_4542	276	68	Odonata	wetlands	1.449
+location	Dra-48f6_344_Odonata-5	Dra-48f6_273_wetlands-7	Dra-48f6_344_Odonata-5_2943	344	Dra-48f6_273_wetlands-7_4542	273	71	Odonata	wetlands	1.389
+location	Dra-48f6_360_Odonata-2	Dra-48f6_276_wetlands-26	Dra-48f6_360_Odonata-2_2943	360	Dra-48f6_276_wetlands-26_4542	276	84	Odonata	wetlands	1.176
+location	Dra-48f6_360_Odonata-2	Dra-48f6_273_wetlands-7	Dra-48f6_360_Odonata-2_2943	360	Dra-48f6_273_wetlands-7_4542	273	87	Odonata	wetlands	1.136
+location	Com-43a2_104_beetles-13	Com-43a2_168_wetlands-15	Com-43a2_104_beetles-13_5049	104	Com-43a2_168_wetlands-15_4542	168	64	great diving beetle	wetlands	1.015
+adaptation	Gree5e5_4_beetles-11	Gree5e5_4_predators-16	Gree5e5_4_beetles-11_2438	4	Gree5e5_4_predators-16_3977	4	0	Great diving beetle	predator	100.0
+adaptation	Hum-85c3_271_dragonflies-7	Hum-85c3_271_predators-2	Hum-85c3_271_dragonflies-7_4546	271	Hum-85c3_271_predators-2_359	271	0	dragonflies	Predator	100.0
+adaptation	Fro-2392_143_dragonfly-21	Fro-2392_143_predator-17	Fro-2392_143_dragonfly-21_4546	143	Fro-2392_143_predator-17_359	143	0	dragonflies	Predator	100.0
+adaptation	Gree5e5_4_beetles-3	Gree5e5_4_predators-16	Gree5e5_4_beetles-3_2438	4	Gree5e5_4_predators-16_3977	4	0	Great diving beetle	predator	100.0
+adaptation	Bee-ace3_12_dragonflies-20	Bee-ace3_12_predators-16	Bee-ace3_12_dragonflies-20_4546	12	Bee-ace3_12_predators-16_3977	12	0	dragonflies	predator	100.0
+adaptation	Pre-0725_103_dragonflies-48	Pre-0725_103_predators-20	Pre-0725_103_dragonflies-48_4546	103	Pre-0725_103_predators-20_3977	103	0	dragonflies	predator	100.0
+adaptation	Dun-cad0_139_beetle-16	Dun-cad0_139_Metamorphosis-2	Dun-cad0_139_beetle-16_4874	139	Dun-cad0_139_Metamorphosis-2_343	139	0	dung beetles	Metamorphosis	100.0
+adaptation	Des-78ef_45_locust-11	Des-78ef_45_moulting-4	Des-78ef_45_locust-11_4859	45	Des-78ef_45_moulting-4_3965	45	0	desert locust	moulting	100.0
+adaptation	Bee-ace3_12_dragonflies-20	Bee-ace3_12_predators-2	Bee-ace3_12_dragonflies-20_4546	12	Bee-ace3_12_predators-2_359	12	0	dragonflies	Predator	100.0
+adaptation	Bee-1811_372_dragonflies-30	Bee-1811_372_predators-14	Bee-1811_372_dragonflies-30_4546	372	Bee-1811_372_predators-14_359	372	0	dragonflies	Predator	100.0
+adaptation	Pre-0725_103_dragonflies-48	Pre-0725_103_predators-2	Pre-0725_103_dragonflies-48_4546	103	Pre-0725_103_predators-2_359	103	0	dragonflies	Predator	100.0
+adaptation	Pal-f57e_68_dragonflies-3	Pal-f57e_68_predator-25	Pal-f57e_68_dragonflies-3_4546	68	Pal-f57e_68_predator-25_359	68	0	dragonflies	Predator	100.0
+adaptation	Gir-04d2_6_weevils-8	Gir-04d2_6_dimorphism-16	Gir-04d2_6_weevils-8_5014	6	Gir-04d2_6_dimorphism-16_14	6	0	giraffe weevil	Sexual dimorphism	100.0
+adaptation	Gir-04d2_21_weevil-2	Gir-04d2_21_dimorphism-5	Gir-04d2_21_weevil-2_5014	21	Gir-04d2_21_dimorphism-5_14	21	0	giraffe weevil	Sexual dimorphism	100.0
+adaptation	Wes-8d71_347_dragonflies-19	Wes-8d71_347_predators-2	Wes-8d71_347_dragonflies-19_4546	347	Wes-8d71_347_predators-2_359	347	0	dragonflies	Predator	100.0
+adaptation	Ter-605f_271_dragonflies-12	Ter-605f_271_predators-43	Ter-605f_271_dragonflies-12_4546	271	Ter-605f_271_predators-43_359	271	0	dragonflies	Predator	100.0
+adaptation	Dra-48f6_248_dragonflies-2	Dra-48f6_248_predators-10	Dra-48f6_248_dragonflies-2_4546	248	Dra-48f6_248_predators-10_359	248	0	dragonflies	Predator	100.0
+adaptation	Gre87e4_9_Dragonfly-16	Gre87e4_9_predator-6	Gre87e4_9_Dragonfly-16_1387	9	Gre87e4_9_predator-6_359	9	0	Dragonflies	Predator	100.0
+adaptation	Bla-975a_69_Cockroaches-1	Bla-975a_69_communication-4	Bla-975a_69_Cockroaches-1_1903	69	Bla-975a_69_communication-4_13	69	0	Cockroaches	Chemical communication	100.0
+adaptation	Sem-88a0_20_mayflies-17	Sem-88a0_20_semelparous-2	Sem-88a0_20_mayflies-17_5227	20	Sem-88a0_20_semelparous-2_3980	20	0	mayflies	semelparous	100.0
+adaptation	Pre-0725_96_dragonflies-7	Pre-0725_96_predators-2	Pre-0725_96_dragonflies-7_4546	96	Pre-0725_96_predators-2_3977	96	0	dragonflies	predator	100.0
+adaptation	Fly-ac51_195_dragonflies-9	Fly-ac51_195_predators-15	Fly-ac51_195_dragonflies-9_4546	195	Fly-ac51_195_predators-15_3977	195	0	dragonflies	predator	100.0
+adaptation	Coc-890e_16_ladybird-5	Coc-890e_16_predators-45	Coc-890e_16_ladybird-5_4785	16	Coc-890e_16_predators-45_3977	16	0	seven-spot ladybird 	predator	100.0
+adaptation	Spa-e46a_40_mayflies-8	Spa-e46a_40_semelparous-6	Spa-e46a_40_mayflies-8_5227	40	Spa-e46a_40_semelparous-6_3980	40	0	mayflies	semelparous	100.0
+adaptation	Ant-938d_43_mantids-5	Ant-938d_43_metamorphosis-18	Ant-938d_43_mantids-5_5218	43	Ant-938d_43_metamorphosis-18_3962	43	0	mantids	metamorphosis	83.0
+adaptation	Dyt-7468_43_beetles-10	Dyt-7468_43_predator-7	Dyt-7468_43_beetles-10_2438	43	Dyt-7468_43_predator-7_359	43	0	Great diving beetle	Predator	66.0
+adaptation	Dyt-7468_43_beetle-21	Dyt-7468_43_predator-7	Dyt-7468_43_beetle-21_2438	43	Dyt-7468_43_predator-7_3977	43	0	Great diving beetle	predator	66.0
+adaptation	Gir-04d2_7_weevil-19	Gir-04d2_6_dimorphism-16	Gir-04d2_7_weevil-19_5014	7	Gir-04d2_6_dimorphism-16_14	6	1	giraffe weevil	Sexual dimorphism	50.0
+adaptation	Ins-960c_298_cockroach-4	Ins-960c_299_Communication-3	Ins-960c_298_cockroach-4_4790	298	Ins-960c_299_Communication-3_13	299	1	cockroaches	Chemical communication	50.0
+adaptation	Gir-04d2_21_weevil-2	Gir-04d2_22_dimorphism-5	Gir-04d2_21_weevil-2_5014	21	Gir-04d2_22_dimorphism-5_14	22	1	giraffe weevil	Sexual dimorphism	50.0
+adaptation	Ins-960c_298_cockroach-4	Ins-960c_299_communication-6	Ins-960c_298_cockroach-4_4790	298	Ins-960c_299_communication-6_13	299	1	cockroaches	Chemical communication	50.0
+adaptation	Ani-ab87_79_locust-7	Ani-ab87_80_migration-21	Ani-ab87_79_locust-7_4859	79	Ani-ab87_80_migration-21_3781	80	1	desert locust	migration	50.0
+adaptation	Ani-ab87_79_locust-7	Ani-ab87_78_migration-14	Ani-ab87_79_locust-7_4859	79	Ani-ab87_78_migration-14_3781	78	1	desert locust	migration	50.0
+adaptation	Bla-975a_70_cockroaches-7	Bla-975a_69_communication-4	Bla-975a_70_cockroaches-7_4790	70	Bla-975a_69_communication-4_13	69	1	cockroaches	Chemical communication	50.0
+adaptation	Gir-04d2_23_weevils-3	Gir-04d2_22_dimorphism-5	Gir-04d2_23_weevils-3_5014	23	Gir-04d2_22_dimorphism-5_14	22	1	giraffe weevil	Sexual dimorphism	50.0
+adaptation	Swa-27b4_247_locust-16	Swa-27b4_246_swarming-8	Swa-27b4_247_locust-16_4859	247	Swa-27b4_246_swarming-8_3983	246	1	desert locust	swarming	50.0
+adaptation	Sem-88a0_20_mayflies-17	Sem-88a0_19_semelparous-6	Sem-88a0_20_mayflies-17_5227	20	Sem-88a0_19_semelparous-6_3980	19	1	mayflies	semelparous	50.0
+adaptation	Spa-e46a_40_mayflies-8	Spa-e46a_39_semelparous-6	Spa-e46a_40_mayflies-8_5227	40	Spa-e46a_39_semelparous-6_3980	39	1	mayflies	semelparous	50.0
+adaptation	Gir-04d2_7_weevil-12	Gir-04d2_6_dimorphism-16	Gir-04d2_7_weevil-12_5014	7	Gir-04d2_6_dimorphism-16_3791	6	1	giraffe weevil	sexual dimorphism	50.0
+adaptation	Bla-975a_68_Blattodea-1	Bla-975a_69_communication-4	Bla-975a_68_Blattodea-1_1904	68	Bla-975a_69_communication-4_13	69	1	Blattodea	Chemical communication	43.5
+adaptation	Coc709c_6_ladybirds-4	Coc709c_7_predators-17	Coc709c_6_ladybirds-4_1895	6	Coc709c_7_predators-17_3977	7	1	Seven-spot ladybird 	predator	37.5
+adaptation	Spa-e46a_40_mayflies-8	Spa-e46a_38_semelparous-17	Spa-e46a_40_mayflies-8_5227	40	Spa-e46a_38_semelparous-17_3980	38	2	mayflies	semelparous	33.333
+adaptation	Bla-975a_71_cockroaches-7	Bla-975a_69_communication-4	Bla-975a_71_cockroaches-7_4790	71	Bla-975a_69_communication-4_13	69	2	cockroaches	Chemical communication	33.333
+adaptation	Spa-e46a_8_mayflies-20	Spa-e46a_10_spawning-29	Spa-e46a_8_mayflies-20_5227	8	Spa-e46a_10_spawning-29_366	10	2	mayflies	Spawning	33.333
+adaptation	Sem-88a0_20_mayflies-17	Sem-88a0_18_semelparous-18	Sem-88a0_20_mayflies-17_5227	20	Sem-88a0_18_semelparous-18_3980	18	2	mayflies	semelparous	33.333
+adaptation	Ani-ab87_79_locust-7	Ani-ab87_81_migration-17	Ani-ab87_79_locust-7_4859	79	Ani-ab87_81_migration-17_1	81	2	desert locust	Migration	33.333
+adaptation	Dun-cad0_141_beetle-6	Dun-cad0_139_Metamorphosis-2	Dun-cad0_141_beetle-6_4874	141	Dun-cad0_139_Metamorphosis-2_343	139	2	dung beetles	Metamorphosis	33.333
+adaptation	Dun-cad0_141_beetle-29	Dun-cad0_139_Metamorphosis-2	Dun-cad0_141_beetle-29_4874	141	Dun-cad0_139_Metamorphosis-2_343	139	2	dung beetles	Metamorphosis	33.333
+adaptation	Met-e231_30_dragonflies-8	Met-e231_32_metamorphosis-24	Met-e231_30_dragonflies-8_4546	30	Met-e231_32_metamorphosis-24_3962	32	2	dragonflies	metamorphosis	33.333
+adaptation	Met-e231_30_dragonflies-8	Met-e231_28_metamorphosis-16	Met-e231_30_dragonflies-8_4546	30	Met-e231_28_metamorphosis-16_3962	28	2	dragonflies	metamorphosis	33.333
+adaptation	Met-e231_30_dragonflies-8	Met-e231_32_metamorphosis-14	Met-e231_30_dragonflies-8_4546	30	Met-e231_32_metamorphosis-14_3962	32	2	dragonflies	metamorphosis	33.333
+adaptation	Sem-88a0_148_Ephemeroptera-8	Sem-88a0_146_semelparous-40	Sem-88a0_148_Ephemeroptera-8_2833	148	Sem-88a0_146_semelparous-40_3980	146	2	Ephemeroptera	semelparous	33.333
+adaptation	Sem-88a0_148_Ephemeroptera-8	Sem-88a0_146_semelparous-17	Sem-88a0_148_Ephemeroptera-8_2833	148	Sem-88a0_146_semelparous-17_3980	146	2	Ephemeroptera	semelparous	33.333
+adaptation	Dyt-7468_43_beetle-21	Dyt-7468_42_predators-16	Dyt-7468_43_beetle-21_5049	43	Dyt-7468_42_predators-16_359	42	1	great diving beetle	Predator	33.0
+adaptation	Dyt-7468_43_beetles-10	Dyt-7468_42_predators-16	Dyt-7468_43_beetles-10_2438	43	Dyt-7468_42_predators-16_3977	42	1	Great diving beetle	predator	33.0
+adaptation	Dyt-7468_43_beetles-10	Dyt-7468_44_predators-12	Dyt-7468_43_beetles-10_2438	43	Dyt-7468_44_predators-12_359	44	1	Great diving beetle	Predator	33.0
+adaptation	Dyt-7468_43_beetle-21	Dyt-7468_44_predators-12	Dyt-7468_43_beetle-21_2438	43	Dyt-7468_44_predators-12_359	44	1	Great diving beetle	Predator	33.0
+adaptation	Sca-5045_25_stercoraria-18	Sca-5045_23_predators-11	Sca-5045_25_stercoraria-18_3286	25	Sca-5045_23_predators-11_3977	23	2	Scathophaga stercoraria	predator	29.0
+adaptation	Dra-48f6_169_dragonfly-4	Dra-48f6_166_metamorphosis-17	Dra-48f6_169_dragonfly-4_4546	169	Dra-48f6_166_metamorphosis-17_3962	166	3	dragonflies	metamorphosis	25.0
+adaptation	Ani-ab87_79_locust-7	Ani-ab87_82_migration-2	Ani-ab87_79_locust-7_4859	79	Ani-ab87_82_migration-2_3781	82	3	desert locust	migration	25.0
+adaptation	Odo-661a_71_Anisoptera-19	Odo-661a_74_predators-18	Odo-661a_71_Anisoptera-19_1386	71	Odo-661a_74_predators-18_359	74	3	Anisoptera	Predator	25.0
+adaptation	Bla-975a_72_cockroach-6	Bla-975a_69_communication-4	Bla-975a_72_cockroach-6_4790	72	Bla-975a_69_communication-4_13	69	3	cockroaches	Chemical communication	25.0
+adaptation	Sem-88a0_148_Ephemeroptera-8	Sem-88a0_145_semelparous-9	Sem-88a0_148_Ephemeroptera-8_2833	148	Sem-88a0_145_semelparous-9_3980	145	3	Ephemeroptera	semelparous	25.0
+adaptation	Coc-890e_11_ladybird-14	Coc-890e_13_predators-16	Coc-890e_11_ladybird-14_4785	11	Coc-890e_13_predators-16_3977	13	2	seven-spot ladybird 	predator	25.0
+adaptation	Coc-890e_16_ladybird-5	Coc-890e_13_predators-16	Coc-890e_16_ladybird-5_4785	16	Coc-890e_13_predators-16_3977	13	3	seven-spot ladybird 	predator	25.0
+adaptation	Coc-890e_11_ladybird-23	Coc-890e_13_predators-16	Coc-890e_11_ladybird-23_4785	11	Coc-890e_13_predators-16_3977	13	2	seven-spot ladybird 	predator	25.0
+adaptation	Met-e231_30_dragonflies-8	Met-e231_27_Metamorphosis-1	Met-e231_30_dragonflies-8_4546	30	Met-e231_27_Metamorphosis-1_343	27	3	dragonflies	Metamorphosis	25.0
+adaptation	Des-78ef_199_locust-2	Des-78ef_202_swarming-14	Des-78ef_199_locust-2_4859	199	Des-78ef_202_swarming-14_3983	202	3	desert locust	swarming	25.0
+adaptation	Lam-c047_2_worm-8	Lam-c047_5_bioluminescence-5	Lam-c047_2_worm-8_5148	2	Lam-c047_5_bioluminescence-5_3946	5	3	common glow-worm	bioluminescence	25.0
+adaptation	Dun-cad0_142_Scarabaeoidea-8	Dun-cad0_139_Metamorphosis-2	Dun-cad0_142_Scarabaeoidea-8_2069	142	Dun-cad0_139_Metamorphosis-2_343	139	3	Scarabaeoidea	Metamorphosis	25.0
+adaptation	Sca-5045_25_stercoraria-18	Sca-5045_22_predators-4	Sca-5045_25_stercoraria-18_3286	25	Sca-5045_22_predators-4_3977	22	3	Scathophaga stercoraria	predator	21.75
+adaptation	Met-e231_30_dragonflies-8	Met-e231_34_Metamorphosis-1	Met-e231_30_dragonflies-8_4546	30	Met-e231_34_Metamorphosis-1_343	34	4	dragonflies	Metamorphosis	20.0
+adaptation	Des-78ef_206_locust-2	Des-78ef_202_swarming-14	Des-78ef_206_locust-2_4859	206	Des-78ef_202_swarming-14_3983	202	4	desert locust	swarming	20.0
+adaptation	Met-e231_30_dragonflies-8	Met-e231_34_metamorphosis-8	Met-e231_30_dragonflies-8_4546	30	Met-e231_34_metamorphosis-8_3962	34	4	dragonflies	metamorphosis	20.0
+adaptation	Swa-27b4_247_locust-16	Swa-27b4_251_swarming-2	Swa-27b4_247_locust-16_4859	247	Swa-27b4_251_swarming-2_3983	251	4	desert locust	swarming	20.0
+adaptation	May-973b_62_mayflies-16	May-973b_58_metamorphosis-9	May-973b_62_mayflies-16_5227	62	May-973b_58_metamorphosis-9_3962	58	4	mayflies	metamorphosis	20.0
+adaptation	Copb941_15_beetles-3	Copb941_11_eaters-3	Copb941_15_beetles-3_2068	15	Copb941_11_eaters-3_3	11	4	Dung beetles	Dung eater	20.0
+adaptation	Bla-975a_73_Cockroaches-1	Bla-975a_69_communication-4	Bla-975a_73_Cockroaches-1_1903	73	Bla-975a_69_communication-4_13	69	4	Cockroaches	Chemical communication	20.0
+adaptation	Dun-cad0_51_beetles-18	Dun-cad0_47_metamorphosis-8	Dun-cad0_51_beetles-18_2068	51	Dun-cad0_47_metamorphosis-8_3962	47	4	Dung beetles	metamorphosis	20.0
+adaptation	Dun-cad0_51_beetle-11	Dun-cad0_47_metamorphosis-8	Dun-cad0_51_beetle-11_4874	51	Dun-cad0_47_metamorphosis-8_3962	47	4	dung beetles	metamorphosis	20.0
+adaptation	Ban-e8fb_30_demoiselle-3	Ban-e8fb_26_territorial-4	Ban-e8fb_30_demoiselle-3_4657	30	Ban-e8fb_26_territorial-4_3985	26	4	banded demoiselle	territorial	20.0
+adaptation	Sca-5045_25_stercoraria-18	Sca-5045_21_predators-30	Sca-5045_25_stercoraria-18_3286	25	Sca-5045_21_predators-30_359	21	4	Scathophaga stercoraria	Predator	17.4
+adaptation	Sca-5045_25_stercoraria-18	Sca-5045_21_predators-33	Sca-5045_25_stercoraria-18_3286	25	Sca-5045_21_predators-33_3977	21	4	Scathophaga stercoraria	predator	17.4
+adaptation	May-973b_63_mayflies-29	May-973b_58_metamorphosis-9	May-973b_63_mayflies-29_5227	63	May-973b_58_metamorphosis-9_3962	58	5	mayflies	metamorphosis	16.667
+adaptation	Lam23fd_2_worms-4	Lam23fd_7_predators-15	Lam23fd_2_worms-4_2653	2	Lam23fd_7_predators-15_359	7	5	Common glow-worm	Predator	16.667
+adaptation	Bla-975a_64_cockroaches-2	Bla-975a_69_communication-4	Bla-975a_64_cockroaches-2_4790	64	Bla-975a_69_communication-4_13	69	5	cockroaches	Chemical communication	16.667
+adaptation	Sem-88a0_148_Ephemeroptera-8	Sem-88a0_153_semelparous-2	Sem-88a0_148_Ephemeroptera-8_2833	148	Sem-88a0_153_semelparous-2_3980	153	5	Ephemeroptera	semelparous	16.667
+adaptation	Sem2e6d_27_Cockroaches-1	Sem2e6d_22_communication-2	Sem2e6d_27_Cockroaches-1_1903	27	Sem2e6d_22_communication-2_13	22	5	Cockroaches	Chemical communication	16.667
+adaptation	Bla-975a_74_Blattodea-1	Bla-975a_69_communication-4	Bla-975a_74_Blattodea-1_1904	74	Bla-975a_69_communication-4_13	69	5	Blattodea	Chemical communication	14.5
+adaptation	Bla-975a_63_Cockroaches-1	Bla-975a_69_communication-4	Bla-975a_63_Cockroaches-1_1903	63	Bla-975a_69_communication-4_13	69	6	Cockroaches	Chemical communication	14.286
+adaptation	Fir-e344_25_worm-9	Fir-e344_20_predators-8	Fir-e344_25_worm-9_2655	25	Fir-e344_20_predators-8_359	20	5	European glow-worm	Predator	13.833
+adaptation	Ara-1963_42_worm-22	Ara-1963_37_predators-5	Ara-1963_42_worm-22_5148	42	Ara-1963_37_predators-5_3977	37	5	common glow-worm	predator	12.5
+adaptation	Des-78ef_52_locust-2	Des-78ef_45_moulting-4	Des-78ef_52_locust-2_4859	52	Des-78ef_45_moulting-4_3965	45	7	desert locust	moulting	12.5
+adaptation	Coc709c_2_ladybirds-4	Coc709c_7_predators-17	Coc709c_2_ladybirds-4_1895	2	Coc709c_7_predators-17_3977	7	5	Seven-spot ladybird 	predator	12.5
+adaptation	Met-e231_30_dragonflies-8	Met-e231_37_Metamorphosis-1	Met-e231_30_dragonflies-8_4546	30	Met-e231_37_Metamorphosis-1_343	37	7	dragonflies	Metamorphosis	12.5
+adaptation	Des-78ef_194_locust-19	Des-78ef_202_swarming-14	Des-78ef_194_locust-19_4859	194	Des-78ef_202_swarming-14_3983	202	8	desert locust	swarming	11.111
+adaptation	Copb941_3_beetle-18	Copb941_11_eaters-3	Copb941_3_beetle-18_2068	3	Copb941_11_eaters-3_3	11	8	Dung beetles	Dung eater	11.111
+adaptation	Lam23fd_1_worm-10	Lam23fd_7_predators-15	Lam23fd_1_worm-10_5148	1	Lam23fd_7_predators-15_3977	7	6	common glow-worm	predator	10.714
+adaptation	Fir-e344_25_worm-9	Fir-e344_32_predators-7	Fir-e344_25_worm-9_2655	25	Fir-e344_32_predators-7_3977	32	7	European glow-worm	predator	10.375
+adaptation	Coc-890e_5_septempunctata-2	Coc-890e_13_predators-16	Coc-890e_5_septempunctata-2_1896	5	Coc-890e_13_predators-16_3977	13	8	Coccinella septempunctata	predator	9.667
+adaptation	Fir-e344_25_worm-9	Fir-e344_33_predators-16	Fir-e344_25_worm-9_2655	25	Fir-e344_33_predators-16_3977	33	8	European glow-worm	predator	9.222
+adaptation	Fir-e344_25_worm-9	Fir-e344_33_bioluminescence-8	Fir-e344_25_worm-9_2655	25	Fir-e344_33_bioluminescence-8_3946	33	8	European glow-worm	bioluminescence	9.222
+adaptation	Ara-1963_18_mayflies-5	Ara-1963_8_metamorphosis-5	Ara-1963_18_mayflies-5_5227	18	Ara-1963_8_metamorphosis-5_3962	8	10	mayflies	metamorphosis	9.091
+adaptation	Sem-88a0_148_Ephemeroptera-8	Sem-88a0_137_semelparous-10	Sem-88a0_148_Ephemeroptera-8_2833	148	Sem-88a0_137_semelparous-10_3980	137	11	Ephemeroptera	semelparous	8.333
+adaptation	Coc-9207_189_septempunctata-38	Coc-9207_179_predators-13	Coc-9207_189_septempunctata-38_1896	189	Coc-9207_179_predators-13_3977	179	10	Coccinella septempunctata	predator	7.909
+adaptation	May-973b_70_mayfly-10	May-973b_58_metamorphosis-9	May-973b_70_mayfly-10_5227	70	May-973b_58_metamorphosis-9_3962	58	12	mayflies	metamorphosis	7.692
+adaptation	Lep-f8ec_359_dragonflies-17	Lep-f8ec_347_communication-20	Lep-f8ec_359_dragonflies-17_4546	359	Lep-f8ec_347_communication-20_17	347	12	dragonflies	Visual communication	7.692
+adaptation	Met-e231_30_dragonflies-8	Met-e231_18_Metamorphosis-1	Met-e231_30_dragonflies-8_4546	30	Met-e231_18_Metamorphosis-1_343	18	12	dragonflies	Metamorphosis	7.692
+adaptation	Fir-e344_25_worm-9	Fir-e344_35_bioluminescence-12	Fir-e344_25_worm-9_2655	25	Fir-e344_35_bioluminescence-12_3946	35	10	European glow-worm	bioluminescence	7.545
+adaptation	Art-1308_213_worm-17	Art-1308_222_predators-14	Art-1308_213_worm-17_2653	213	Art-1308_222_predators-14_359	222	9	Common glow-worm	Predator	7.5
+adaptation	Com-43a2_104_beetles-13	Com-43a2_112_hibernation-6	Com-43a2_104_beetles-13_5049	104	Com-43a2_112_hibernation-6_3959	112	8	great diving beetle	hibernation	7.333
+adaptation	Coc-890e_5_septempunctata-2	Coc-890e_16_predators-45	Coc-890e_5_septempunctata-2_1896	5	Coc-890e_16_predators-45_3977	16	11	Coccinella septempunctata	predator	7.25
+adaptation	Spa-e46a_8_mayflies-20	Spa-e46a_21_spawning-13	Spa-e46a_8_mayflies-20_5227	8	Spa-e46a_21_spawning-13_3982	21	13	mayflies	spawning	7.143
+adaptation	Odo-661a_61_Anisoptera-3	Odo-661a_74_predators-18	Odo-661a_61_Anisoptera-3_1386	61	Odo-661a_74_predators-18_359	74	13	Anisoptera	Predator	7.143
+adaptation	Coc-890e_2_ladybug-19	Coc-890e_13_predators-16	Coc-890e_2_ladybug-19_4786	2	Coc-890e_13_predators-16_359	13	11	seven-spotted ladybug	Predator	6.917
+adaptation	Lam-c047_112_worm-11	Lam-c047_102_predators-16	Lam-c047_112_worm-11_2653	112	Lam-c047_102_predators-16_359	102	10	Common glow-worm	Predator	6.818
+adaptation	Ban-e8fb_38_splendens-49	Ban-e8fb_26_territorial-4	Ban-e8fb_38_splendens-49_1635	38	Ban-e8fb_26_territorial-4_3985	26	12	Calopteryx splendens	territorial	6.692
+adaptation	Ban-e8fb_38_splendens-8	Ban-e8fb_26_territorial-4	Ban-e8fb_38_splendens-8_1635	38	Ban-e8fb_26_territorial-4_3985	26	12	Calopteryx splendens	territorial	6.692
+adaptation	Des-78ef_31_locust-6	Des-78ef_45_moulting-4	Des-78ef_31_locust-6_4859	31	Des-78ef_45_moulting-4_3965	45	14	desert locust	moulting	6.667
+adaptation	Dun-cad0_33_beetle-5	Dun-cad0_47_metamorphosis-8	Dun-cad0_33_beetle-5_2068	33	Dun-cad0_47_metamorphosis-8_3962	47	14	Dung beetles	metamorphosis	6.667
+adaptation	Sem-88a0_148_Ephemeroptera-8	Sem-88a0_134_semelparous-14	Sem-88a0_148_Ephemeroptera-8_2833	148	Sem-88a0_134_semelparous-14_3980	134	14	Ephemeroptera	semelparous	6.667
+adaptation	Spa-e46a_40_mayflies-8	Spa-e46a_26_spawning-7	Spa-e46a_40_mayflies-8_5227	40	Spa-e46a_26_spawning-7_366	26	14	mayflies	Spawning	6.667
+adaptation	Des-78ef_30_locust-2	Des-78ef_45_moulting-4	Des-78ef_30_locust-2_4859	30	Des-78ef_45_moulting-4_3965	45	15	desert locust	moulting	6.25
+adaptation	Spa-e46a_524_mayfly-3	Spa-e46a_539_spawning-2	Spa-e46a_524_mayfly-3_5227	524	Spa-e46a_539_spawning-2_3982	539	15	mayflies	spawning	6.25
+adaptation	Sem-88a0_148_Ephemeroptera-8	Sem-88a0_133_semelparous-15	Sem-88a0_148_Ephemeroptera-8_2833	148	Sem-88a0_133_semelparous-15_3980	133	15	Ephemeroptera	semelparous	6.25
+adaptation	Sca-7ebf_150_flies-8	Sca-7ebf_140_Predators-1	Sca-7ebf_150_flies-8_3285	150	Sca-7ebf_140_Predators-1_359	140	10	Yellow dung fly	Predator	6.0
+adaptation	Odo-661a_58_Anisoptera-10	Odo-661a_74_predators-18	Odo-661a_58_Anisoptera-10_1386	58	Odo-661a_74_predators-18_359	74	16	Anisoptera	Predator	5.882
+adaptation	Aes-417b_36_Anisoptera-3	Aes-417b_20_predators-12	Aes-417b_36_Anisoptera-3_1386	36	Aes-417b_20_predators-12_3977	20	16	Anisoptera	predator	5.882
+adaptation	Des-78ef_61_locust-30	Des-78ef_45_moulting-4	Des-78ef_61_locust-30_4859	61	Des-78ef_45_moulting-4_3965	45	16	desert locust	moulting	5.882
+adaptation	May-973b_42_mayflies-2	May-973b_58_metamorphosis-9	May-973b_42_mayflies-2_5227	42	May-973b_58_metamorphosis-9_3962	58	16	mayflies	metamorphosis	5.882
+adaptation	Odo-661a_57_Anisoptera-2	Odo-661a_74_predators-18	Odo-661a_57_Anisoptera-2_1386	57	Odo-661a_74_predators-18_3977	74	17	Anisoptera	predator	5.556
+adaptation	Fir-e344_25_worm-9	Fir-e344_11_metamorphosis-21	Fir-e344_25_worm-9_2655	25	Fir-e344_11_metamorphosis-21_3962	11	14	European glow-worm	metamorphosis	5.533
+adaptation	Coc-890e_2_ladybug-19	Coc-890e_16_predators-45	Coc-890e_2_ladybug-19_4786	2	Coc-890e_16_predators-45_359	16	14	seven-spotted ladybug	Predator	5.533
+adaptation	Bla-975a_54_Blattodea-1	Bla-975a_69_communication-4	Bla-975a_54_Blattodea-1_1904	54	Bla-975a_69_communication-4_13	69	15	Blattodea	Chemical communication	5.438
+adaptation	Bee-1811_18_beetles-21	Bee-1811_9_metamorphosis-11	Bee-1811_18_beetles-21_2507	18	Bee-1811_9_metamorphosis-11_3962	9	9	Asian lady beetle	metamorphosis	5.4
+adaptation	Bee-1811_18_beetles-2	Bee-1811_9_metamorphosis-11	Bee-1811_18_beetles-2_2507	18	Bee-1811_9_metamorphosis-11_3962	9	9	Asian lady beetle	metamorphosis	5.4
+adaptation	Bee-1811_18_beetles-18	Bee-1811_9_metamorphosis-11	Bee-1811_18_beetles-18_2507	18	Bee-1811_9_metamorphosis-11_3962	9	9	Asian lady beetle	metamorphosis	5.4
+adaptation	May-973b_40_mayflies-30	May-973b_58_metamorphosis-9	May-973b_40_mayflies-30_5227	40	May-973b_58_metamorphosis-9_3962	58	18	mayflies	metamorphosis	5.263
+adaptation	Spa-e46a_8_mayflies-20	Spa-e46a_26_spawning-7	Spa-e46a_8_mayflies-20_5227	8	Spa-e46a_26_spawning-7_366	26	18	mayflies	Spawning	5.263
+adaptation	Sca-5045_3_fly-9	Sca-5045_21_predators-30	Sca-5045_3_fly-9_5454	3	Sca-5045_21_predators-30_359	21	18	yellow dung fly	Predator	5.263
+adaptation	Sca-5045_3_fly-9	Sca-5045_21_predators-33	Sca-5045_3_fly-9_3285	3	Sca-5045_21_predators-33_3977	21	18	Yellow dung fly	predator	5.263
+adaptation	Sca-5045_3_fly-9	Sca-5045_22_predators-4	Sca-5045_3_fly-9_3285	3	Sca-5045_22_predators-4_3977	22	19	Yellow dung fly	predator	5.0
+adaptation	Spa-e46a_40_mayflies-8	Spa-e46a_21_spawning-13	Spa-e46a_40_mayflies-8_5227	40	Spa-e46a_21_spawning-13_3982	21	19	mayflies	spawning	5.0
+adaptation	Sca-5045_3_fly-9	Sca-5045_23_predators-11	Sca-5045_3_fly-9_3285	3	Sca-5045_23_predators-11_3977	23	20	Yellow dung fly	predator	4.762
+adaptation	Sca-7ebf_127_fly-10	Sca-7ebf_140_Predators-1	Sca-7ebf_127_fly-10_3285	127	Sca-7ebf_140_Predators-1_3977	140	13	Yellow dung fly	predator	4.714
+adaptation	Pre-0725_30_mantids-8	Pre-0725_12_mimicry-29	Pre-0725_30_mantids-8_5218	30	Pre-0725_12_mimicry-29_3963	12	18	mantids	mimicry	4.368
+adaptation	Pre-0725_30_mantids-8	Pre-0725_12_camouflage-27	Pre-0725_30_mantids-8_5218	30	Pre-0725_12_camouflage-27_3947	12	18	mantids	camouflage	4.368
+adaptation	Sem2e6d_44_Cockroaches-1	Sem2e6d_22_communication-2	Sem2e6d_44_Cockroaches-1_1903	44	Sem2e6d_22_communication-2_13	22	22	Cockroaches	Chemical communication	4.348
+adaptation	May-973b_36_mayflies-4	May-973b_58_metamorphosis-9	May-973b_36_mayflies-4_5227	36	May-973b_58_metamorphosis-9_3962	58	22	mayflies	metamorphosis	4.348
+adaptation	Odo-661a_97_Dragonfly-49	Odo-661a_74_predators-18	Odo-661a_97_Dragonfly-49_1387	97	Odo-661a_74_predators-18_359	74	23	Dragonflies	Predator	4.167
+adaptation	Aes-417b_36_Anisoptera-3	Aes-417b_13_predators-5	Aes-417b_36_Anisoptera-3_1386	36	Aes-417b_13_predators-5_359	13	23	Anisoptera	Predator	4.167
+adaptation	Pre-0725_30_mantids-8	Pre-0725_11_mimicry-7	Pre-0725_30_mantids-8_5218	30	Pre-0725_11_mimicry-7_3963	11	19	mantids	mimicry	4.15
+adaptation	Com-a9dd_118_mayflies-12	Com-a9dd_94_moulting-17	Com-a9dd_118_mayflies-12_5227	118	Com-a9dd_94_moulting-17_3965	94	24	mayflies	moulting	4.0
+adaptation	Ban-e8fb_2_demoiselle-3	Ban-e8fb_26_territorial-4	Ban-e8fb_2_demoiselle-3_4657	2	Ban-e8fb_26_territorial-4_3985	26	24	banded demoiselle	territorial	4.0
+adaptation	Lam-c047_81_noctiluca-4	Lam-c047_102_predators-16	Lam-c047_81_noctiluca-4_2654	81	Lam-c047_102_predators-16_359	102	21	Lampyris noctiluca	Predator	3.955
+adaptation	Sca-7ebf_155_fly-20	Sca-7ebf_140_Predators-1	Sca-7ebf_155_fly-20_3287	155	Sca-7ebf_140_Predators-1_3977	140	15	Common yellow dung fly	predator	3.875
+adaptation	Spa-e46a_524_mayfly-3	Spa-e46a_499_spawning-18	Spa-e46a_524_mayfly-3_5227	524	Spa-e46a_499_spawning-18_3982	499	25	mayflies	spawning	3.846
+adaptation	Des-78ef_19_locust-2	Des-78ef_45_moulting-4	Des-78ef_19_locust-2_4859	19	Des-78ef_45_moulting-4_3965	45	26	desert locust	moulting	3.704
+adaptation	Sem-88a0_148_Ephemeroptera-8	Sem-88a0_122_semelparous-8	Sem-88a0_148_Ephemeroptera-8_2833	148	Sem-88a0_122_semelparous-8_3980	122	26	Ephemeroptera	semelparous	3.704
+adaptation	May-973b_84_mayflies-15	May-973b_58_metamorphosis-9	May-973b_84_mayflies-15_5227	84	May-973b_58_metamorphosis-9_3962	58	26	mayflies	metamorphosis	3.704
+adaptation	May-973b_85_mayflies-5	May-973b_58_metamorphosis-9	May-973b_85_mayflies-5_5227	85	May-973b_58_metamorphosis-9_3962	58	27	mayflies	metamorphosis	3.571
+adaptation	Ban-e8fb_2_splendens-6	Ban-e8fb_26_territorial-4	Ban-e8fb_2_splendens-6_1635	2	Ban-e8fb_26_territorial-4_3985	26	24	Calopteryx splendens	territorial	3.48
+adaptation	Bla-975a_93_Blattodea-1	Bla-975a_69_communication-4	Bla-975a_93_Blattodea-1_1904	93	Bla-975a_69_communication-4_13	69	24	Blattodea	Chemical communication	3.48
+adaptation	Fir-e344_25_worm-9	Fir-e344_48_bioluminescence-3	Fir-e344_25_worm-9_2655	25	Fir-e344_48_bioluminescence-3_3946	48	23	European glow-worm	bioluminescence	3.458
+adaptation	Des-78ef_17_locust-4	Des-78ef_45_moulting-4	Des-78ef_17_locust-4_4859	17	Des-78ef_45_moulting-4_3965	45	28	desert locust	moulting	3.448
+adaptation	Bla-975a_94_Blattodea-1	Bla-975a_69_communication-4	Bla-975a_94_Blattodea-1_1904	94	Bla-975a_69_communication-4_13	69	25	Blattodea	Chemical communication	3.346
+adaptation	Des-78ef_16_locust-3	Des-78ef_45_moulting-4	Des-78ef_16_locust-3_4859	16	Des-78ef_45_moulting-4_3965	45	29	desert locust	moulting	3.333
+adaptation	Des-78ef_16_locust-11	Des-78ef_45_moulting-4	Des-78ef_16_locust-11_4859	16	Des-78ef_45_moulting-4_3965	45	29	desert locust	moulting	3.333
+adaptation	Spa-e46a_524_mayfly-3	Spa-e46a_553_spawning-25	Spa-e46a_524_mayfly-3_5227	524	Spa-e46a_553_spawning-25_366	553	29	mayflies	Spawning	3.333
+adaptation	Sca-7ebf_159_fly-16	Sca-7ebf_140_Predators-1	Sca-7ebf_159_fly-16_5454	159	Sca-7ebf_140_Predators-1_359	140	19	yellow dung fly	Predator	3.3
+adaptation	Spa-e46a_40_mayflies-8	Spa-e46a_10_spawning-29	Spa-e46a_40_mayflies-8_5227	40	Spa-e46a_10_spawning-29_3982	10	30	mayflies	spawning	3.226
+adaptation	Bla-975a_38_Cockroaches-1	Bla-975a_69_communication-4	Bla-975a_38_Cockroaches-1_1903	38	Bla-975a_69_communication-4_13	69	31	Cockroaches	Chemical communication	3.125
+adaptation	May-973b_89_Tisza-6	May-973b_58_metamorphosis-9	May-973b_89_Tisza-6_3548	89	May-973b_58_metamorphosis-9_3962	58	31	Tisza mayfly	metamorphosis	3.125
+adaptation	Lam-c047_75_noctiluca-8	Lam-c047_102_predators-16	Lam-c047_75_noctiluca-8_2654	75	Lam-c047_102_predators-16_3977	102	27	Lampyris noctiluca	predator	3.107
+adaptation	Nom-aef8_117_locust-14	Nom-aef8_85_nomadic-60	Nom-aef8_117_locust-14_4859	117	Nom-aef8_85_nomadic-60_3786	85	32	desert locust	nomadic	3.03
+adaptation	Mon-6a24_252_beetle-25	Mon-6a24_269_metamorphosis-27	Mon-6a24_252_beetle-25_2507	252	Mon-6a24_269_metamorphosis-27_3962	269	17	Asian lady beetle	metamorphosis	3.0
+adaptation	Art-1308_213_worm-17	Art-1308_189_moulting-16	Art-1308_213_worm-17_5148	213	Art-1308_189_moulting-16_3965	189	24	common glow-worm	moulting	3.0
+adaptation	Nom-aef8_117_locust-14	Nom-aef8_84_nomadic-3	Nom-aef8_117_locust-14_4859	117	Nom-aef8_84_nomadic-3_3786	84	33	desert locust	nomadic	2.941
+adaptation	Bla-975a_36_Cockroaches-1	Bla-975a_69_communication-4	Bla-975a_36_Cockroaches-1_1903	36	Bla-975a_69_communication-4_13	69	33	Cockroaches	Chemical communication	2.941
+adaptation	Sem-88a0_148_Ephemeroptera-8	Sem-88a0_181_semelparous-5	Sem-88a0_148_Ephemeroptera-8_2833	148	Sem-88a0_181_semelparous-5_3980	181	33	Ephemeroptera	semelparous	2.941
+adaptation	Des-78ef_11_locust-3	Des-78ef_45_moulting-4	Des-78ef_11_locust-3_4859	11	Des-78ef_45_moulting-4_3965	45	34	desert locust	moulting	2.857
+adaptation	Sem-88a0_148_Ephemeroptera-8	Sem-88a0_183_semelparous-10	Sem-88a0_148_Ephemeroptera-8_2833	148	Sem-88a0_183_semelparous-10_3980	183	35	Ephemeroptera	semelparous	2.778
+adaptation	Ter-605f_40_mantids-13	Ter-605f_11_metamorphosis-9	Ter-605f_40_mantids-13_5218	40	Ter-605f_11_metamorphosis-9_3962	11	29	mantids	metamorphosis	2.767
+adaptation	Ter-605f_40_mantids-13	Ter-605f_11_metamorphosis-15	Ter-605f_40_mantids-13_5218	40	Ter-605f_11_metamorphosis-15_3962	11	29	mantids	metamorphosis	2.767
+taxongroup	Odo-661a_10_Anisoptera-7	Odo-661a_10_Odonata-16	Odo-661a_10_Anisoptera-7_1386	10	Odo-661a_10_Odonata-16_2943	10	0	Anisoptera	Odonata	100.0
+taxongroup	Gre-e890_103_insects-5	Gre-e890_103_animal-2	Gre-e890_103_insects-5_4008	103	Gre-e890_103_animal-2_3812	103	0	insects	animals	100.0
+taxongroup	Ins-960c_399_insects-4	Ins-960c_399_animals-54	Ins-960c_399_insects-4_4008	399	Ins-960c_399_animals-54_44	399	0	insects	Animals	100.0
+taxongroup	Dro-82dc_24_Insects-1	Dro-82dc_24_animals-5	Dro-82dc_24_Insects-1_4008	24	Dro-82dc_24_animals-5_44	24	0	insects	Animals	100.0
+taxongroup	Arm-33e3_135_insects-25	Arm-33e3_135_animals-35	Arm-33e3_135_insects-25_4008	135	Arm-33e3_135_animals-35_44	135	0	insects	Animals	100.0
+taxongroup	Ara-0423_37_insects-16	Ara-0423_37_animals-21	Ara-0423_37_insects-16_4008	37	Ara-0423_37_animals-21_44	37	0	insects	Animals	100.0
+taxongroup	Par-e8bc_212_insects-19	Par-e8bc_212_animal-7	Par-e8bc_212_insects-19_4008	212	Par-e8bc_212_animal-7_44	212	0	insects	Animals	100.0
+taxongroup	Zyg-4cb9_6_insects-7	Zyg-4cb9_6_animals-11	Zyg-4cb9_6_insects-7_4008	6	Zyg-4cb9_6_animals-11_44	6	0	insects	Animals	100.0
+taxongroup	Toq-9767_63_insects-9	Toq-9767_63_animals-5	Toq-9767_63_insects-9_4008	63	Toq-9767_63_animals-5_44	63	0	insects	Animals	100.0
+taxongroup	Pre-146e_3_insects-6	Pre-146e_3_animals-23	Pre-146e_3_insects-6_4008	3	Pre-146e_3_animals-23_44	3	0	insects	Animals	100.0
+taxongroup	Poi-3a9d_28_insects-15	Poi-3a9d_28_animals-18	Poi-3a9d_28_insects-15_4008	28	Poi-3a9d_28_animals-18_44	28	0	insects	Animals	100.0
+taxongroup	Cal-fa4d_4_insects-8	Cal-fa4d_4_animals-23	Cal-fa4d_4_insects-8_4008	4	Cal-fa4d_4_animals-23_3812	4	0	insects	animals	100.0
+taxongroup	For-ac12_98_insects-14	For-ac12_98_animals-25	For-ac12_98_insects-14_4008	98	For-ac12_98_animals-25_3812	98	0	insects	animals	100.0
+taxongroup	Ant-938d_110_insects-54	Ant-938d_110_animal-37	Ant-938d_110_insects-54_4008	110	Ant-938d_110_animal-37_3812	110	0	insects	animals	100.0
+taxongroup	Hip-b9f2_425_Insects-4	Hip-b9f2_425_animals-2	Hip-b9f2_425_Insects-4_4008	425	Hip-b9f2_425_animals-2_3812	425	0	insects	animals	100.0
+taxongroup	Bee-1811_474_insects-3	Bee-1811_474_animal-38	Bee-1811_474_insects-3_4008	474	Bee-1811_474_animal-38_3812	474	0	insects	animals	100.0
+taxongroup	Com-0bc9_64_insects-5	Com-0bc9_64_animal-2	Com-0bc9_64_insects-5_4008	64	Com-0bc9_64_animal-2_3812	64	0	insects	animals	100.0
+taxongroup	Cop-86c6_49_insects-2	Cop-86c6_49_animals-10	Cop-86c6_49_insects-2_4008	49	Cop-86c6_49_animals-10_3812	49	0	insects	animals	100.0
+taxongroup	Bro-d72d_233_insects-21	Bro-d72d_233_animal-6	Bro-d72d_233_insects-21_4008	233	Bro-d72d_233_animal-6_3812	233	0	insects	animals	100.0
+taxongroup	Col-e01a_21_insects-2	Col-e01a_21_animals-10	Col-e01a_21_insects-2_4008	21	Col-e01a_21_animals-10_3812	21	0	insects	animals	100.0
+taxongroup	Hou-905b_222_insects-14	Hou-905b_222_Animals-1	Hou-905b_222_insects-14_4008	222	Hou-905b_222_Animals-1_3812	222	0	insects	animals	100.0
+taxongroup	Ins-960c_5_Insects-1	Ins-960c_5_animals-8	Ins-960c_5_Insects-1_4008	5	Ins-960c_5_animals-8_3812	5	0	insects	animals	100.0
+taxongroup	Ins-960c_5_Insects-1	Ins-960c_5_animal-25	Ins-960c_5_Insects-1_4008	5	Ins-960c_5_animal-25_3812	5	0	insects	animals	100.0
+taxongroup	Eur-24a9_156_insects-8	Eur-24a9_156_animals-2	Eur-24a9_156_insects-8_4008	156	Eur-24a9_156_animals-2_3812	156	0	insects	animals	100.0
+taxongroup	Bee-1811_168_beetles-16	Bee-1811_168_beetles-16	Bee-1811_168_beetles-16_5068	168	Bee-1811_168_beetles-16_4669	168	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-25	Bee-1811_89_beetles-13	Bee-1811_89_beetles-25_5068	89	Bee-1811_89_beetles-13_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-25	Bee-1811_89_beetles-19	Bee-1811_89_beetles-25_5068	89	Bee-1811_89_beetles-19_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-25	Bee-1811_89_beetles-25	Bee-1811_89_beetles-25_5068	89	Bee-1811_89_beetles-25_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_287_beetles-15	Bee-1811_287_beetles-15	Bee-1811_287_beetles-15_5068	287	Bee-1811_287_beetles-15_4669	287	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_67_beetles-34	Bee-1811_67_beetles-3	Bee-1811_67_beetles-34_5068	67	Bee-1811_67_beetles-3_4669	67	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_67_beetles-34	Bee-1811_67_beetles-34	Bee-1811_67_beetles-34_5068	67	Bee-1811_67_beetles-34_4669	67	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-13	Bee-1811_89_beetles-13	Bee-1811_89_beetles-13_5068	89	Bee-1811_89_beetles-13_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_168_beetles-12	Bee-1811_168_beetles-12	Bee-1811_168_beetles-12_5068	168	Bee-1811_168_beetles-12_4669	168	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-13	Bee-1811_89_beetles-9	Bee-1811_89_beetles-13_5068	89	Bee-1811_89_beetles-9_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_67_beetles-34	Bee-1811_67_beetles-9	Bee-1811_67_beetles-34_5068	67	Bee-1811_67_beetles-9_4669	67	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_168_beetles-16	Bee-1811_168_beetles-12	Bee-1811_168_beetles-16_5068	168	Bee-1811_168_beetles-12_4669	168	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-13	Bee-1811_89_beetles-19	Bee-1811_89_beetles-13_5068	89	Bee-1811_89_beetles-19_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Har-4ec2_48_ladybird-3	Har-4ec2_48_ladybird-13	Har-4ec2_48_ladybird-3_5083	48	Har-4ec2_48_ladybird-13_4070	48	0	harlequin ladybird	ladybirds	100.0
+taxongroup	Har-4ec2_48_ladybird-13	Har-4ec2_48_ladybird-3	Har-4ec2_48_ladybird-13_5083	48	Har-4ec2_48_ladybird-3_4070	48	0	harlequin ladybird	ladybirds	100.0
+taxongroup	Har-4ec2_48_ladybird-3	Har-4ec2_48_ladybird-3	Har-4ec2_48_ladybird-3_5083	48	Har-4ec2_48_ladybird-3_4070	48	0	harlequin ladybird	ladybirds	100.0
+taxongroup	Har-4ec2_48_ladybird-13	Har-4ec2_48_ladybird-13	Har-4ec2_48_ladybird-13_5083	48	Har-4ec2_48_ladybird-13_4070	48	0	harlequin ladybird	ladybirds	100.0
+taxongroup	Ant-938d_312_Aphids-1	Ant-938d_312_insects-5	Ant-938d_312_Aphids-1_1529	312	Ant-938d_312_insects-5_4008	312	0	Aphids	insects	100.0
+taxongroup	Mos-3d44_156_mosquitoes-6	Mos-3d44_156_animals-11	Mos-3d44_156_mosquitoes-6_5246	156	Mos-3d44_156_animals-11_3812	156	0	mosquitoes	animals	100.0
+taxongroup	Pre-0725_22_mosquitoes-20	Pre-0725_22_animals-26	Pre-0725_22_mosquitoes-20_5246	22	Pre-0725_22_animals-26_44	22	0	mosquitoes	Animals	100.0
+taxongroup	Par-e8bc_5_mosquitoes-28	Par-e8bc_5_animals-21	Par-e8bc_5_mosquitoes-28_5246	5	Par-e8bc_5_animals-21_44	5	0	mosquitoes	Animals	100.0
+taxongroup	Mos-3d44_6_mosquitoes-4	Mos-3d44_6_animals-9	Mos-3d44_6_mosquitoes-4_5246	6	Mos-3d44_6_animals-9_44	6	0	mosquitoes	Animals	100.0
+taxongroup	Pre-0725_22_mosquitoes-20	Pre-0725_22_animals-4	Pre-0725_22_mosquitoes-20_5246	22	Pre-0725_22_animals-4_44	22	0	mosquitoes	Animals	100.0
+taxongroup	Pyt-d6ca_75_mosquitoes-38	Pyt-d6ca_75_animals-70	Pyt-d6ca_75_mosquitoes-38_5246	75	Pyt-d6ca_75_animals-70_44	75	0	mosquitoes	Animals	100.0
+taxongroup	Hum-85c3_163_mosquitoes-17	Hum-85c3_163_animals-10	Hum-85c3_163_mosquitoes-17_5246	163	Hum-85c3_163_animals-10_44	163	0	mosquitoes	Animals	100.0
+taxongroup	Mos-3d44_156_mosquitoes-6	Mos-3d44_156_animals-16	Mos-3d44_156_mosquitoes-6_5246	156	Mos-3d44_156_animals-16_44	156	0	mosquitoes	Animals	100.0
+taxongroup	Ins-960c_399_mosquitoes-45	Ins-960c_399_animals-54	Ins-960c_399_mosquitoes-45_5246	399	Ins-960c_399_animals-54_44	399	0	mosquitoes	Animals	100.0
+taxongroup	Fly-ac51_4_mosquitoes-21	Fly-ac51_4_Diptera-1	Fly-ac51_4_mosquitoes-21_5246	4	Fly-ac51_4_Diptera-1_2279	4	0	mosquitoes	Diptera	100.0
+taxongroup	Par-e8bc_97_mosquitoes-16	Par-e8bc_97_arthropods-6	Par-e8bc_97_mosquitoes-16_5246	97	Par-e8bc_97_arthropods-6_4632	97	0	mosquitoes	arthropods	100.0
+taxongroup	Par-e8bc_121_mosquitoes-20	Par-e8bc_121_arthropods-26	Par-e8bc_121_mosquitoes-20_5246	121	Par-e8bc_121_arthropods-26_4632	121	0	mosquitoes	arthropods	100.0
+taxongroup	Sem-88a0_34_mosquitoes-13	Sem-88a0_34_insects-8	Sem-88a0_34_mosquitoes-13_5246	34	Sem-88a0_34_insects-8_4008	34	0	mosquitoes	insects	100.0
+taxongroup	Ins-960c_399_mosquitoes-45	Ins-960c_399_insects-4	Ins-960c_399_mosquitoes-45_5246	399	Ins-960c_399_insects-4_4008	399	0	mosquitoes	insects	100.0
+taxongroup	Spa-e46a_8_mosquitoes-22	Spa-e46a_8_insects-14	Spa-e46a_8_mosquitoes-22_5246	8	Spa-e46a_8_insects-14_4008	8	0	mosquitoes	insects	100.0
+taxongroup	Hem-5b5a_23_mosquitoes-6	Hem-5b5a_23_insects-3	Hem-5b5a_23_mosquitoes-6_5246	23	Hem-5b5a_23_insects-3_4008	23	0	mosquitoes	insects	100.0
+taxongroup	Per-01a0_76_cicada-33	Per-01a0_76_animals-16	Per-01a0_76_cicada-33_5203	76	Per-01a0_76_animals-16_44	76	0	periodical cicadas	Animals	100.0
+taxongroup	Per-01a0_76_cicadas-7	Per-01a0_76_animals-16	Per-01a0_76_cicadas-7_5203	76	Per-01a0_76_animals-16_44	76	0	periodical cicadas	Animals	100.0
+taxongroup	Spa-e46a_8_mayflies-20	Spa-e46a_8_insects-14	Spa-e46a_8_mayflies-20_5227	8	Spa-e46a_8_insects-14_4008	8	0	mayflies	insects	100.0
+taxongroup	Ins-960c_331_mayflies-15	Ins-960c_331_insects-5	Ins-960c_331_mayflies-15_5227	331	Ins-960c_331_insects-5_4008	331	0	mayflies	insects	100.0
+taxongroup	Atl-f357_81_mayflies-11	Atl-f357_81_insects-22	Atl-f357_81_mayflies-11_5227	81	Atl-f357_81_insects-22_4008	81	0	mayflies	insects	100.0
+taxongroup	May0ac9_10_mayflies-6	May0ac9_10_insects-13	May0ac9_10_mayflies-6_5227	10	May0ac9_10_insects-13_4008	10	0	mayflies	insects	100.0
+taxongroup	Hem-5b5a_21_insects-6	Hem-5b5a_21_arthropod-29	Hem-5b5a_21_insects-6_4008	21	Hem-5b5a_21_arthropod-29_4632	21	0	insects	arthropods	100.0
+taxongroup	Cor-ff2a_4_insects-10	Cor-ff2a_4_arthropods-13	Cor-ff2a_4_insects-10_4008	4	Cor-ff2a_4_arthropods-13_4632	4	0	insects	arthropods	100.0
+taxongroup	Cru-e3ae_8_insects-12	Cru-e3ae_8_arthropods-8	Cru-e3ae_8_insects-12_4008	8	Cru-e3ae_8_arthropods-8_4632	8	0	insects	arthropods	100.0
+taxongroup	Eur-fdbd_136_insects-6	Eur-fdbd_136_arthropods-2	Eur-fdbd_136_insects-6_4008	136	Eur-fdbd_136_arthropods-2_4632	136	0	insects	arthropods	100.0
+taxongroup	Ins-960c_48_insects-2	Ins-960c_48_arthropods-6	Ins-960c_48_insects-2_4008	48	Ins-960c_48_arthropods-6_4632	48	0	insects	arthropods	100.0
+taxongroup	Ins-960c_71_Insects-1	Ins-960c_71_arthropods-16	Ins-960c_71_Insects-1_4008	71	Ins-960c_71_arthropods-16_4632	71	0	insects	arthropods	100.0
+taxongroup	Ins-960c_47_insects-23	Ins-960c_47_arthropods-3	Ins-960c_47_insects-23_4008	47	Ins-960c_47_arthropods-3_4632	47	0	insects	arthropods	100.0
+taxongroup	Ins-960c_45_insects-5	Ins-960c_45_arthropods-9	Ins-960c_45_insects-5_4008	45	Ins-960c_45_arthropods-9_4632	45	0	insects	arthropods	100.0
+taxongroup	Art-1308_39_insects-7	Art-1308_39_arthropod-2	Art-1308_39_insects-7_4008	39	Art-1308_39_arthropod-2_4632	39	0	insects	arthropods	100.0
+taxongroup	Art-1308_293_insects-7	Art-1308_293_arthropods-4	Art-1308_293_insects-7_4008	293	Art-1308_293_arthropods-4_4632	293	0	insects	arthropods	100.0
+taxongroup	Ech-581f_68_insects-24	Ech-581f_68_arthropods-15	Ech-581f_68_insects-24_4008	68	Ech-581f_68_arthropods-15_4632	68	0	insects	arthropods	100.0
+taxongroup	Eci-644a_163_Insects-1	Eci-644a_163_arthropods-4	Eci-644a_163_Insects-1_4008	163	Eci-644a_163_arthropods-4_4632	163	0	insects	arthropods	100.0
+taxongroup	Mou-d137_51_insects-6	Mou-d137_51_arthropods-2	Mou-d137_51_insects-6_4008	51	Mou-d137_51_arthropods-2_4632	51	0	insects	arthropods	100.0
+taxongroup	Nep-5975_98_insects-18	Nep-5975_98_arthropods-12	Nep-5975_98_insects-18_4008	98	Nep-5975_98_arthropods-12_4632	98	0	insects	arthropods	100.0
+taxongroup	Wad-b1c9_2_insects-38	Wad-b1c9_2_arthropods-34	Wad-b1c9_2_insects-38_4008	2	Wad-b1c9_2_arthropods-34_4632	2	0	insects	arthropods	100.0
+taxongroup	Har-4ec2_94_ladybird-12	Har-4ec2_94_beetle-29	Har-4ec2_94_ladybird-12_4070	94	Har-4ec2_94_beetle-29_4669	94	0	ladybirds	beetles	100.0
+taxongroup	Har-4ec2_94_ladybird-12	Har-4ec2_94_beetle-53	Har-4ec2_94_ladybird-12_4070	94	Har-4ec2_94_beetle-53_4669	94	0	ladybirds	beetles	100.0
+taxongroup	Har-4ec2_94_ladybird-12	Har-4ec2_94_beetle-5	Har-4ec2_94_ladybird-12_4070	94	Har-4ec2_94_beetle-5_4669	94	0	ladybirds	beetles	100.0
+taxongroup	Har-4ec2_94_ladybird-22	Har-4ec2_94_beetle-29	Har-4ec2_94_ladybird-22_4070	94	Har-4ec2_94_beetle-29_4669	94	0	ladybirds	beetles	100.0
+taxongroup	Har-4ec2_94_ladybird-22	Har-4ec2_94_beetle-53	Har-4ec2_94_ladybird-22_4070	94	Har-4ec2_94_beetle-53_4669	94	0	ladybirds	beetles	100.0
+taxongroup	Har-4ec2_94_ladybird-22	Har-4ec2_94_beetle-5	Har-4ec2_94_ladybird-22_4070	94	Har-4ec2_94_beetle-5_4669	94	0	ladybirds	beetles	100.0
+taxongroup	Pre-0725_55_ladybirds-21	Pre-0725_55_beetles-19	Pre-0725_55_ladybirds-21_4070	55	Pre-0725_55_beetles-19_4669	55	0	ladybirds	beetles	100.0
+taxongroup	Sem-88a0_20_mayflies-17	Sem-88a0_20_animals-3	Sem-88a0_20_mayflies-17_5227	20	Sem-88a0_20_animals-3_44	20	0	mayflies	Animals	100.0
+taxongroup	Spa-e46a_40_mayflies-8	Spa-e46a_40_animals-3	Spa-e46a_40_mayflies-8_5227	40	Spa-e46a_40_animals-3_44	40	0	mayflies	Animals	100.0
+taxongroup	May-973b_254_mayflies-48	May-973b_254_insects-46	May-973b_254_mayflies-48_5227	254	May-973b_254_insects-46_4008	254	0	mayflies	insects	100.0
+taxongroup	Bee-1811_280_beetles-19	Bee-1811_280_beetles-14	Bee-1811_280_beetles-19_5068	280	Bee-1811_280_beetles-14_4669	280	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_280_beetles-19	Bee-1811_280_beetle-5	Bee-1811_280_beetles-19_5068	280	Bee-1811_280_beetle-5_4669	280	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_280_beetles-19	Bee-1811_280_beetles-19	Bee-1811_280_beetles-19_5068	280	Bee-1811_280_beetles-19_4669	280	0	ground beetles	beetles	100.0
+taxongroup	Fir6ffd_2_fireflies-2	Fir6ffd_2_insects-14	Fir6ffd_2_fireflies-2_4113	2	Fir6ffd_2_insects-14_4008	2	0	fireflies	insects	100.0
+taxongroup	Dun-cad0_74_beetle-51	Dun-cad0_74_beetle-51	Dun-cad0_74_beetle-51_4874	74	Dun-cad0_74_beetle-51_4669	74	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_16_beetles-70	Dun-cad0_16_beetles-70	Dun-cad0_16_beetles-70_4874	16	Dun-cad0_16_beetles-70_4669	16	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_16_beetles-70	Dun-cad0_16_beetles-60	Dun-cad0_16_beetles-70_4874	16	Dun-cad0_16_beetles-60_4669	16	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_16_beetles-70	Dun-cad0_16_beetles-43	Dun-cad0_16_beetles-70_4874	16	Dun-cad0_16_beetles-43_4669	16	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_16_beetles-70	Dun-cad0_16_beetles-34	Dun-cad0_16_beetles-70_4874	16	Dun-cad0_16_beetles-34_4669	16	0	dung beetles	beetles	100.0
+taxongroup	Fir-e344_84_fireflies-2	Fir-e344_84_Coleoptera-21	Fir-e344_84_fireflies-2_4113	84	Fir-e344_84_Coleoptera-21_1661	84	0	fireflies	Coleoptera	100.0
+taxongroup	Bio-20c0_4_fireflies-28	Bio-20c0_4_arthropods-25	Bio-20c0_4_fireflies-28_4113	4	Bio-20c0_4_arthropods-25_4632	4	0	fireflies	arthropods	100.0
+taxongroup	Bee-1811_7_firefly-13	Bee-1811_7_beetles-44	Bee-1811_7_firefly-13_4113	7	Bee-1811_7_beetles-44_4669	7	0	fireflies	beetles	100.0
+taxongroup	Bee-1811_7_firefly-13	Bee-1811_7_beetles-51	Bee-1811_7_firefly-13_4113	7	Bee-1811_7_beetles-51_4669	7	0	fireflies	beetles	100.0
+taxongroup	Bee-1811_245_fireflies-10	Bee-1811_245_beetles-3	Bee-1811_245_fireflies-10_4113	245	Bee-1811_245_beetles-3_4669	245	0	fireflies	beetles	100.0
+taxongroup	Bee-1811_126_fireflies-14	Bee-1811_126_beetles-4	Bee-1811_126_fireflies-14_4113	126	Bee-1811_126_beetles-4_4669	126	0	fireflies	beetles	100.0
+taxongroup	Ins-960c_274_fireflies-7	Ins-960c_274_beetles-9	Ins-960c_274_fireflies-7_4113	274	Ins-960c_274_beetles-9_4669	274	0	fireflies	beetles	100.0
+taxongroup	Fir-e344_3_fireflies-9	Fir-e344_3_beetles-6	Fir-e344_3_fireflies-9_4113	3	Fir-e344_3_beetles-6_4669	3	0	fireflies	beetles	100.0
+taxongroup	Fir-e344_87_gnat-36	Fir-e344_87_Diptera-44	Fir-e344_87_gnat-36_4617	87	Fir-e344_87_Diptera-44_2279	87	0	fungus gnats	Diptera	100.0
+taxongroup	Bee-1811_168_beetles-12	Bee-1811_168_beetles-16	Bee-1811_168_beetles-12_5068	168	Bee-1811_168_beetles-16_4669	168	0	ground beetles	beetles	100.0
+taxongroup	Fly-ac51_64_gnats-9	Fly-ac51_64_diptera-16	Fly-ac51_64_gnats-9_4617	64	Fly-ac51_64_diptera-16_4974	64	0	fungus gnats	diptera	100.0
+taxongroup	Fir-e344_87_gnat-36	Fir-e344_87_flies-42	Fir-e344_87_gnat-36_4617	87	Fir-e344_87_flies-42_4973	87	0	fungus gnats	flies	100.0
+taxongroup	Gir-04d2_7_weevil-12	Gir-04d2_7_beetle-4	Gir-04d2_7_weevil-12_5014	7	Gir-04d2_7_beetle-4_4669	7	0	giraffe weevil	beetles	100.0
+taxongroup	Gir-04d2_7_weevil-19	Gir-04d2_7_beetle-4	Gir-04d2_7_weevil-19_5014	7	Gir-04d2_7_beetle-4_4669	7	0	giraffe weevil	beetles	100.0
+taxongroup	Ort-3af1_2_grasshoppers-31	Ort-3af1_2_insects-27	Ort-3af1_2_grasshoppers-31_5288	2	Ort-3af1_2_insects-27_4008	2	0	grasshoppers and crickets	insects	100.0
+taxongroup	Gree5e5_4_beetles-3	Gree5e5_4_beetles-11	Gree5e5_4_beetles-3_5049	4	Gree5e5_4_beetles-11_4669	4	0	great diving beetle	beetles	100.0
+taxongroup	Gree5e5_4_beetles-11	Gree5e5_4_beetles-3	Gree5e5_4_beetles-11_5049	4	Gree5e5_4_beetles-3_4669	4	0	great diving beetle	beetles	100.0
+taxongroup	Dyt-7468_35_beetle-12	Dyt-7468_35_beetle-12	Dyt-7468_35_beetle-12_5049	35	Dyt-7468_35_beetle-12_4669	35	0	great diving beetle	beetles	100.0
+taxongroup	Gree5e5_4_beetles-11	Gree5e5_4_beetles-11	Gree5e5_4_beetles-11_5049	4	Gree5e5_4_beetles-11_4669	4	0	great diving beetle	beetles	100.0
+taxongroup	Gre-cc70_2_beetle-13	Gre-cc70_2_beetle-4	Gre-cc70_2_beetle-13_5049	2	Gre-cc70_2_beetle-4_4669	2	0	great diving beetle	beetles	100.0
+taxongroup	Gre-cc70_3_beetle-4	Gre-cc70_3_beetle-4	Gre-cc70_3_beetle-4_5049	3	Gre-cc70_3_beetle-4_4669	3	0	great diving beetle	beetles	100.0
+taxongroup	Gree5e5_4_beetles-3	Gree5e5_4_beetles-3	Gree5e5_4_beetles-3_5049	4	Gree5e5_4_beetles-3_4669	4	0	great diving beetle	beetles	100.0
+taxongroup	Gre-cc70_14_beetle-7	Gre-cc70_14_beetle-7	Gre-cc70_14_beetle-7_5049	14	Gre-cc70_14_beetle-7_4669	14	0	great diving beetle	beetles	100.0
+taxongroup	Dun-cad0_13_beetle-5	Dun-cad0_13_beetle-5	Dun-cad0_13_beetle-5_4874	13	Dun-cad0_13_beetle-5_4669	13	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-51	Dun-cad0_147_beetle-57	Dun-cad0_147_beetles-51_4874	147	Dun-cad0_147_beetle-57_4669	147	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_16_beetles-34	Dun-cad0_16_beetles-60	Dun-cad0_16_beetles-34_4874	16	Dun-cad0_16_beetles-60_4669	16	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-51	Dun-cad0_147_beetle-62	Dun-cad0_147_beetles-51_4874	147	Dun-cad0_147_beetle-62_4669	147	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_96_beetle-7	Dun-cad0_96_beetle-7	Dun-cad0_96_beetle-7_4874	96	Dun-cad0_96_beetle-7_4669	96	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-32	Dun-cad0_147_beetles-32	Dun-cad0_147_beetles-32_4874	147	Dun-cad0_147_beetles-32_4669	147	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_74_beetle-40	Dun-cad0_74_beetle-40	Dun-cad0_74_beetle-40_4874	74	Dun-cad0_74_beetle-40_4669	74	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_74_beetle-40	Dun-cad0_74_beetle-51	Dun-cad0_74_beetle-40_4874	74	Dun-cad0_74_beetle-51_4669	74	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-89	Dun-cad0_147_beetles-51	Dun-cad0_147_beetles-89_4874	147	Dun-cad0_147_beetles-51_4669	147	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-89	Dun-cad0_147_beetles-89	Dun-cad0_147_beetles-89_4874	147	Dun-cad0_147_beetles-89_4669	147	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_51_beetles-18	Dun-cad0_51_beetles-18	Dun-cad0_51_beetles-18_4874	51	Dun-cad0_51_beetles-18_4669	51	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_51_beetles-18	Dun-cad0_51_beetle-11	Dun-cad0_51_beetles-18_4874	51	Dun-cad0_51_beetle-11_4669	51	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetle-57	Dun-cad0_147_beetle-57	Dun-cad0_147_beetle-57_4874	147	Dun-cad0_147_beetle-57_4669	147	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_16_beetles-43	Dun-cad0_16_beetles-34	Dun-cad0_16_beetles-43_4874	16	Dun-cad0_16_beetles-34_4669	16	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_16_beetles-43	Dun-cad0_16_beetles-43	Dun-cad0_16_beetles-43_4874	16	Dun-cad0_16_beetles-43_4669	16	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-32	Dun-cad0_147_beetle-62	Dun-cad0_147_beetles-32_4874	147	Dun-cad0_147_beetle-62_4669	147	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-32	Dun-cad0_147_beetle-57	Dun-cad0_147_beetles-32_4874	147	Dun-cad0_147_beetle-57_4669	147	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_141_beetle-6	Dun-cad0_141_beetle-6	Dun-cad0_141_beetle-6_4874	141	Dun-cad0_141_beetle-6_4669	141	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-51	Dun-cad0_147_beetles-51	Dun-cad0_147_beetles-51_4874	147	Dun-cad0_147_beetles-51_4669	147	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-51	Dun-cad0_147_beetles-89	Dun-cad0_147_beetles-51_4874	147	Dun-cad0_147_beetles-89_4669	147	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-51	Dun-cad0_147_beetles-9	Dun-cad0_147_beetles-51_4874	147	Dun-cad0_147_beetles-9_4669	147	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_16_beetles-34	Dun-cad0_16_beetles-34	Dun-cad0_16_beetles-34_4874	16	Dun-cad0_16_beetles-34_4669	16	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_16_beetles-34	Dun-cad0_16_beetles-43	Dun-cad0_16_beetles-34_4874	16	Dun-cad0_16_beetles-43_4669	16	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_98_beetle-10	Dun-cad0_98_beetle-10	Dun-cad0_98_beetle-10_4874	98	Dun-cad0_98_beetle-10_4669	98	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_16_beetles-34	Dun-cad0_16_beetles-70	Dun-cad0_16_beetles-34_4874	16	Dun-cad0_16_beetles-70_4669	16	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_16_beetles-60	Dun-cad0_16_beetles-70	Dun-cad0_16_beetles-60_4874	16	Dun-cad0_16_beetles-70_4669	16	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_134_beetle-7	Dun-cad0_134_beetle-7	Dun-cad0_134_beetle-7_4874	134	Dun-cad0_134_beetle-7_4669	134	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_141_beetle-29	Dun-cad0_141_beetle-29	Dun-cad0_141_beetle-29_4874	141	Dun-cad0_141_beetle-29_4669	141	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_141_beetle-29	Dun-cad0_141_beetle-6	Dun-cad0_141_beetle-29_4874	141	Dun-cad0_141_beetle-6_4669	141	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_74_beetle-51	Dun-cad0_74_beetle-40	Dun-cad0_74_beetle-51_4874	74	Dun-cad0_74_beetle-40_4669	74	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-51	Dun-cad0_147_beetles-32	Dun-cad0_147_beetles-51_4874	147	Dun-cad0_147_beetles-32_4669	147	0	dung beetles	beetles	100.0
+taxongroup	Gre-cc70_2_beetle-4	Gre-cc70_2_beetle-4	Gre-cc70_2_beetle-4_5049	2	Gre-cc70_2_beetle-4_4669	2	0	great diving beetle	beetles	100.0
+taxongroup	Gre-cc70_2_beetle-4	Gre-cc70_2_beetle-13	Gre-cc70_2_beetle-4_5049	2	Gre-cc70_2_beetle-13_4669	2	0	great diving beetle	beetles	100.0
+taxongroup	Gre-cc70_2_beetle-13	Gre-cc70_2_beetle-13	Gre-cc70_2_beetle-13_5049	2	Gre-cc70_2_beetle-13_4669	2	0	great diving beetle	beetles	100.0
+taxongroup	Gro-2286_16_beetles-28	Gro-2286_16_beetles-28	Gro-2286_16_beetles-28_5068	16	Gro-2286_16_beetles-28_4669	16	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_46_beetles-8	Gro-2286_46_beetles-13	Gro-2286_46_beetles-8_5068	46	Gro-2286_46_beetles-13_4669	46	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_16_beetles-28	Gro-2286_16_beetles-16	Gro-2286_16_beetles-28_5068	16	Gro-2286_16_beetles-16_4669	16	0	ground beetles	beetles	100.0
+taxongroup	Eur-3123_208_beetles-9	Eur-3123_208_beetles-9	Eur-3123_208_beetles-9_5068	208	Eur-3123_208_beetles-9_4669	208	0	ground beetles	beetles	100.0
+taxongroup	Ear-b650_253_beetles-25	Ear-b650_253_beetles-25	Ear-b650_253_beetles-25_5068	253	Ear-b650_253_beetles-25_4669	253	0	ground beetles	beetles	100.0
+taxongroup	Ear-b650_253_beetles-25	Ear-b650_253_beetles-22	Ear-b650_253_beetles-25_5068	253	Ear-b650_253_beetles-22_4669	253	0	ground beetles	beetles	100.0
+taxongroup	Ear-b650_253_beetles-22	Ear-b650_253_beetles-25	Ear-b650_253_beetles-22_5068	253	Ear-b650_253_beetles-25_4669	253	0	ground beetles	beetles	100.0
+taxongroup	Ear-b650_253_beetles-22	Ear-b650_253_beetles-22	Ear-b650_253_beetles-22_5068	253	Ear-b650_253_beetles-22_4669	253	0	ground beetles	beetles	100.0
+taxongroup	Bur-d18a_115_beetles-3	Bur-d18a_115_beetles-3	Bur-d18a_115_beetles-3_5068	115	Bur-d18a_115_beetles-3_4669	115	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_46_beetles-13	Gro-2286_46_beetles-20	Gro-2286_46_beetles-13_5068	46	Gro-2286_46_beetles-20_4669	46	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_16_beetles-35	Gro-2286_16_beetles-16	Gro-2286_16_beetles-35_5068	16	Gro-2286_16_beetles-16_4669	16	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_35_beetles-3	Gro-2286_35_beetles-3	Gro-2286_35_beetles-3_5068	35	Gro-2286_35_beetles-3_4669	35	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_46_beetles-13	Gro-2286_46_beetles-8	Gro-2286_46_beetles-13_5068	46	Gro-2286_46_beetles-8_4669	46	0	ground beetles	beetles	100.0
+taxongroup	Wes-0eef_158_beetles-22	Wes-0eef_158_beetles-22	Wes-0eef_158_beetles-22_5068	158	Wes-0eef_158_beetles-22_4669	158	0	ground beetles	beetles	100.0
+taxongroup	Mar-9812_187_beetle-17	Mar-9812_187_beetle-17	Mar-9812_187_beetle-17_5068	187	Mar-9812_187_beetle-17_4669	187	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-25	Bee-1811_89_beetles-9	Bee-1811_89_beetles-25_5068	89	Bee-1811_89_beetles-9_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_67_beetles-9	Bee-1811_67_beetles-9	Bee-1811_67_beetles-9_5068	67	Bee-1811_67_beetles-9_4669	67	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_67_beetles-9	Bee-1811_67_beetles-3	Bee-1811_67_beetles-9_5068	67	Bee-1811_67_beetles-3_4669	67	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_67_beetles-9	Bee-1811_67_beetles-34	Bee-1811_67_beetles-9_5068	67	Bee-1811_67_beetles-34_4669	67	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-19	Bee-1811_89_beetles-13	Bee-1811_89_beetles-19_5068	89	Bee-1811_89_beetles-13_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-19	Bee-1811_89_beetles-19	Bee-1811_89_beetles-19_5068	89	Bee-1811_89_beetles-19_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-19	Bee-1811_89_beetles-25	Bee-1811_89_beetles-19_5068	89	Bee-1811_89_beetles-25_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-19	Bee-1811_89_beetles-9	Bee-1811_89_beetles-19_5068	89	Bee-1811_89_beetles-9_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_67_beetles-3	Bee-1811_67_beetles-9	Bee-1811_67_beetles-3_5068	67	Bee-1811_67_beetles-9_4669	67	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_67_beetles-3	Bee-1811_67_beetles-3	Bee-1811_67_beetles-3_5068	67	Bee-1811_67_beetles-3_4669	67	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_67_beetles-3	Bee-1811_67_beetles-34	Bee-1811_67_beetles-3_5068	67	Bee-1811_67_beetles-34_4669	67	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_179_beetles-5	Bee-1811_179_beetles-5	Bee-1811_179_beetles-5_5068	179	Bee-1811_179_beetles-5_4669	179	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_287_beetles-15	Bee-1811_287_beetles-12	Bee-1811_287_beetles-15_5068	287	Bee-1811_287_beetles-12_4669	287	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_37_beetles-37	Gro-2286_37_beetles-37	Gro-2286_37_beetles-37_5068	37	Gro-2286_37_beetles-37_4669	37	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_13_beetles-7	Gro-2286_13_beetles-7	Gro-2286_13_beetles-7_5068	13	Gro-2286_13_beetles-7_4669	13	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-9	Bee-1811_89_beetles-13	Bee-1811_89_beetles-9_5068	89	Bee-1811_89_beetles-13_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_46_beetles-13	Gro-2286_46_beetles-13	Gro-2286_46_beetles-13_5068	46	Gro-2286_46_beetles-13_4669	46	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-9	Bee-1811_89_beetles-19	Bee-1811_89_beetles-9_5068	89	Bee-1811_89_beetles-19_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-9	Bee-1811_89_beetles-25	Bee-1811_89_beetles-9_5068	89	Bee-1811_89_beetles-25_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-9	Bee-1811_89_beetles-9	Bee-1811_89_beetles-9_5068	89	Bee-1811_89_beetles-9_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_280_beetle-5	Bee-1811_280_beetle-5	Bee-1811_280_beetle-5_5068	280	Bee-1811_280_beetle-5_4669	280	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_280_beetle-5	Bee-1811_280_beetles-14	Bee-1811_280_beetle-5_5068	280	Bee-1811_280_beetles-14_4669	280	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_280_beetle-5	Bee-1811_280_beetles-19	Bee-1811_280_beetle-5_5068	280	Bee-1811_280_beetles-19_4669	280	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_280_beetles-14	Bee-1811_280_beetles-19	Bee-1811_280_beetles-14_5068	280	Bee-1811_280_beetles-19_4669	280	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_280_beetles-14	Bee-1811_280_beetles-14	Bee-1811_280_beetles-14_5068	280	Bee-1811_280_beetles-14_4669	280	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_89_beetles-13	Bee-1811_89_beetles-25	Bee-1811_89_beetles-13_5068	89	Bee-1811_89_beetles-25_4669	89	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_280_beetles-14	Bee-1811_280_beetle-5	Bee-1811_280_beetles-14_5068	280	Bee-1811_280_beetle-5_4669	280	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_287_beetles-12	Bee-1811_287_beetles-12	Bee-1811_287_beetles-12_5068	287	Bee-1811_287_beetles-12_4669	287	0	ground beetles	beetles	100.0
+taxongroup	Bee-1811_287_beetles-12	Bee-1811_287_beetles-15	Bee-1811_287_beetles-12_5068	287	Bee-1811_287_beetles-15_4669	287	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_16_beetles-16	Gro-2286_16_beetles-16	Gro-2286_16_beetles-16_5068	16	Gro-2286_16_beetles-16_4669	16	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_48_beetles-13	Gro-2286_48_beetles-13	Gro-2286_48_beetles-13_5068	48	Gro-2286_48_beetles-13_4669	48	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_29_beetles-12	Gro-2286_29_beetles-12	Gro-2286_29_beetles-12_5068	29	Gro-2286_29_beetles-12_4669	29	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_47_beetles-26	Gro-2286_47_beetles-26	Gro-2286_47_beetles-26_5068	47	Gro-2286_47_beetles-26_4669	47	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_16_beetles-16	Gro-2286_16_beetles-28	Gro-2286_16_beetles-16_5068	16	Gro-2286_16_beetles-28_4669	16	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_16_beetles-35	Gro-2286_16_beetles-35	Gro-2286_16_beetles-35_5068	16	Gro-2286_16_beetles-35_4669	16	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_46_beetles-8	Gro-2286_46_beetles-8	Gro-2286_46_beetles-8_5068	46	Gro-2286_46_beetles-8_4669	46	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_46_beetles-8	Gro-2286_46_beetles-20	Gro-2286_46_beetles-8_5068	46	Gro-2286_46_beetles-20_4669	46	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_16_beetles-16	Gro-2286_16_beetles-35	Gro-2286_16_beetles-16_5068	16	Gro-2286_16_beetles-35_4669	16	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_16_beetles-35	Gro-2286_16_beetles-28	Gro-2286_16_beetles-35_5068	16	Gro-2286_16_beetles-28_4669	16	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_46_beetles-20	Gro-2286_46_beetles-8	Gro-2286_46_beetles-20_5068	46	Gro-2286_46_beetles-8_4669	46	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_46_beetles-20	Gro-2286_46_beetles-20	Gro-2286_46_beetles-20_5068	46	Gro-2286_46_beetles-20_4669	46	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_46_beetles-20	Gro-2286_46_beetles-13	Gro-2286_46_beetles-20_5068	46	Gro-2286_46_beetles-13_4669	46	0	ground beetles	beetles	100.0
+taxongroup	Ins-960c_387_beetles-3	Ins-960c_387_beetles-3	Ins-960c_387_beetles-3_5068	387	Ins-960c_387_beetles-3_4669	387	0	ground beetles	beetles	100.0
+taxongroup	Gro-2286_16_beetles-28	Gro-2286_16_beetles-35	Gro-2286_16_beetles-28_5068	16	Gro-2286_16_beetles-35_4669	16	0	ground beetles	beetles	100.0
+taxongroup	Tar-edfc_81_beetles-20	Tar-edfc_81_animals-14	Tar-edfc_81_beetles-20_5453	81	Tar-edfc_81_animals-14_44	81	0	scarab beetles	Animals	100.0
+taxongroup	Bee-1811_365_beetles-18	Bee-1811_365_animals-26	Bee-1811_365_beetles-18_5453	365	Bee-1811_365_animals-26_44	365	0	scarab beetles	Animals	100.0
+taxongroup	Sca-9595_12_beetles-35	Sca-9595_12_beetles-28	Sca-9595_12_beetles-35_5519	12	Sca-9595_12_beetles-28_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_20_beetles-4	Sta-0aa5_20_beetles-4	Sta-0aa5_20_beetles-4_5519	20	Sta-0aa5_20_beetles-4_4669	20	0	stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_18_beetle-14	Sta-0aa5_18_beetle-14	Sta-0aa5_18_beetle-14_5519	18	Sta-0aa5_18_beetle-14_4669	18	0	stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_13_beetles-15	Sta-0aa5_13_beetles-15	Sta-0aa5_13_beetles-15_5519	13	Sta-0aa5_13_beetles-15_4669	13	0	stag beetles	beetles	100.0
+taxongroup	Sta61d4_2_beetle-4	Sta61d4_2_beetles-14	Sta61d4_2_beetle-4_5519	2	Sta61d4_2_beetles-14_4669	2	0	stag beetles	beetles	100.0
+taxongroup	Sta61d4_2_beetle-4	Sta61d4_2_beetle-4	Sta61d4_2_beetle-4_5519	2	Sta61d4_2_beetle-4_4669	2	0	stag beetles	beetles	100.0
+taxongroup	Sta61d4_11_beetles-5	Sta61d4_11_beetles-5	Sta61d4_11_beetles-5_5519	11	Sta61d4_11_beetles-5_4669	11	0	stag beetles	beetles	100.0
+taxongroup	Sta61d4_2_beetles-14	Sta61d4_2_beetle-4	Sta61d4_2_beetles-14_5519	2	Sta61d4_2_beetle-4_4669	2	0	stag beetles	beetles	100.0
+taxongroup	Sta61d4_2_beetles-14	Sta61d4_2_beetles-14	Sta61d4_2_beetles-14_5519	2	Sta61d4_2_beetles-14_4669	2	0	stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_20_beetles-7	Sta-0aa5_20_beetles-7	Sta-0aa5_20_beetles-7_5519	20	Sta-0aa5_20_beetles-7_4669	20	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_12_beetles-35	Sca-9595_12_beetles-17	Sca-9595_12_beetles-35_5519	12	Sca-9595_12_beetles-17_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_12_beetles-8	Sca-9595_12_beetles-35	Sca-9595_12_beetles-8_5519	12	Sca-9595_12_beetles-35_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_12_beetles-17	Sca-9595_12_beetles-17	Sca-9595_12_beetles-17_5519	12	Sca-9595_12_beetles-17_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_12_beetles-28	Sca-9595_12_beetles-8	Sca-9595_12_beetles-28_5519	12	Sca-9595_12_beetles-8_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_9_beetles-12	Sca-9595_9_beetles-12	Sca-9595_9_beetles-12_5519	9	Sca-9595_9_beetles-12_4669	9	0	stag beetles	beetles	100.0
+taxongroup	Par5cb2_24_beetles-15	Par5cb2_24_beetles-15	Par5cb2_24_beetles-15_5519	24	Par5cb2_24_beetles-15_4669	24	0	stag beetles	beetles	100.0
+taxongroup	Bee-1811_581_beetles-9	Bee-1811_581_beetle-16	Bee-1811_581_beetles-9_5519	581	Bee-1811_581_beetle-16_4669	581	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_12_beetles-17	Sca-9595_12_beetles-35	Sca-9595_12_beetles-17_5519	12	Sca-9595_12_beetles-35_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Bee-1811_581_beetles-9	Bee-1811_581_beetles-9	Bee-1811_581_beetles-9_5519	581	Bee-1811_581_beetles-9_4669	581	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_12_beetles-17	Sca-9595_12_beetles-28	Sca-9595_12_beetles-17_5519	12	Sca-9595_12_beetles-28_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_12_beetles-8	Sca-9595_12_beetles-17	Sca-9595_12_beetles-8_5519	12	Sca-9595_12_beetles-17_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_12_beetles-28	Sca-9595_12_beetles-17	Sca-9595_12_beetles-28_5519	12	Sca-9595_12_beetles-17_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_12_beetles-8	Sca-9595_12_beetles-28	Sca-9595_12_beetles-8_5519	12	Sca-9595_12_beetles-28_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Pha-dde5_196_insects-9	Pha-dde5_196_insects-9	Pha-dde5_196_insects-9_5334	196	Pha-dde5_196_insects-9_4008	196	0	stick insects	insects	100.0
+taxongroup	Pha-dde5_94_insects-5	Pha-dde5_94_insects-5	Pha-dde5_94_insects-5_5334	94	Pha-dde5_94_insects-5_4008	94	0	stick insects	insects	100.0
+taxongroup	Pha-dde5_205_insects-22	Pha-dde5_205_insects-22	Pha-dde5_205_insects-22_5334	205	Pha-dde5_205_insects-22_4008	205	0	stick insects	insects	100.0
+taxongroup	Pha-dde5_40_insects-3	Pha-dde5_40_insects-3	Pha-dde5_40_insects-3_5334	40	Pha-dde5_40_insects-3_4008	40	0	stick insects	insects	100.0
+taxongroup	Ase-acb4_76_insects-19	Ase-acb4_76_insects-19	Ase-acb4_76_insects-19_5334	76	Ase-acb4_76_insects-19_4008	76	0	stick insects	insects	100.0
+taxongroup	Sta-0aa5_20_beetles-4	Sta-0aa5_20_beetles-7	Sta-0aa5_20_beetles-4_5519	20	Sta-0aa5_20_beetles-7_4669	20	0	stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_20_beetles-7	Sta-0aa5_20_beetles-4	Sta-0aa5_20_beetles-7_5519	20	Sta-0aa5_20_beetles-4_4669	20	0	stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_6_beetle-29	Sta-0aa5_6_beetle-29	Sta-0aa5_6_beetle-29_5519	6	Sta-0aa5_6_beetle-29_4669	6	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_12_beetles-17	Sca-9595_12_beetles-8	Sca-9595_12_beetles-17_5519	12	Sca-9595_12_beetles-8_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Coc-890e_2_ladybird-8	Coc-890e_2_Coccinella-1	Coc-890e_2_ladybird-8_4785	2	Coc-890e_2_Coccinella-1_981	2	0	seven-spot ladybird 	Coccinella	100.0
+taxongroup	Coc-890e_2_ladybird-8	Coc-890e_2_beetle-31	Coc-890e_2_ladybird-8_4785	2	Coc-890e_2_beetle-31_4669	2	0	seven-spot ladybird 	beetles	100.0
+taxongroup	Coc-890e_2_ladybird-42	Coc-890e_2_beetle-31	Coc-890e_2_ladybird-42_4785	2	Coc-890e_2_beetle-31_4669	2	0	seven-spot ladybird 	beetles	100.0
+taxongroup	Coc709c_13_ladybird-19	Coc709c_13_ladybird-19	Coc709c_13_ladybird-19_4785	13	Coc709c_13_ladybird-19_4070	13	0	seven-spot ladybird 	ladybirds	100.0
+taxongroup	Coc-890e_2_ladybird-8	Coc-890e_2_ladybird-8	Coc-890e_2_ladybird-8_4785	2	Coc-890e_2_ladybird-8_4070	2	0	seven-spot ladybird 	ladybirds	100.0
+taxongroup	Coc-890e_2_ladybird-8	Coc-890e_2_ladybird-42	Coc-890e_2_ladybird-8_4785	2	Coc-890e_2_ladybird-42_4070	2	0	seven-spot ladybird 	ladybirds	100.0
+taxongroup	Coc-890e_2_ladybird-42	Coc-890e_2_ladybird-8	Coc-890e_2_ladybird-42_4785	2	Coc-890e_2_ladybird-8_4070	2	0	seven-spot ladybird 	ladybirds	100.0
+taxongroup	Coc-890e_16_ladybird-5	Coc-890e_16_ladybird-5	Coc-890e_16_ladybird-5_4785	16	Coc-890e_16_ladybird-5_4070	16	0	seven-spot ladybird 	ladybirds	100.0
+taxongroup	Coc-890e_2_ladybird-42	Coc-890e_2_ladybird-42	Coc-890e_2_ladybird-42_4785	2	Coc-890e_2_ladybird-42_4070	2	0	seven-spot ladybird 	ladybirds	100.0
+taxongroup	Sil-d352_4_beetles-9	Sil-d352_4_beetles-12	Sil-d352_4_beetles-9_4749	4	Sil-d352_4_beetles-12_4669	4	0	sexton beetles	beetles	100.0
+taxongroup	Sil-d352_4_beetles-12	Sil-d352_4_beetles-9	Sil-d352_4_beetles-12_4749	4	Sil-d352_4_beetles-9_4669	4	0	sexton beetles	beetles	100.0
+taxongroup	Sil-d352_4_beetles-12	Sil-d352_4_beetles-12	Sil-d352_4_beetles-12_4749	4	Sil-d352_4_beetles-12_4669	4	0	sexton beetles	beetles	100.0
+taxongroup	Sil-d352_4_beetles-9	Sil-d352_4_beetles-9	Sil-d352_4_beetles-9_4749	4	Sil-d352_4_beetles-9_4669	4	0	sexton beetles	beetles	100.0
+taxongroup	Sta-0aa5_34_beetle-17	Sta-0aa5_34_beetle-17	Sta-0aa5_34_beetle-17_5519	34	Sta-0aa5_34_beetle-17_4669	34	0	stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_14_beetles-3	Sta-0aa5_14_beetles-3	Sta-0aa5_14_beetles-3_5519	14	Sta-0aa5_14_beetles-3_4669	14	0	stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_9_beetles-3	Sta-0aa5_9_beetles-3	Sta-0aa5_9_beetles-3_5519	9	Sta-0aa5_9_beetles-3_4669	9	0	stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_39_beetles-6	Sta-0aa5_39_beetles-6	Sta-0aa5_39_beetles-6_5519	39	Sta-0aa5_39_beetles-6_4669	39	0	stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_34_beetle-27	Sta-0aa5_34_beetle-27	Sta-0aa5_34_beetle-27_5519	34	Sta-0aa5_34_beetle-27_4669	34	0	stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_34_beetle-27	Sta-0aa5_34_beetle-17	Sta-0aa5_34_beetle-27_5519	34	Sta-0aa5_34_beetle-17_4669	34	0	stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_34_beetle-17	Sta-0aa5_34_beetle-27	Sta-0aa5_34_beetle-17_5519	34	Sta-0aa5_34_beetle-27_4669	34	0	stag beetles	beetles	100.0
+taxongroup	Sta61d4_4_beetle-13	Sta61d4_4_beetle-13	Sta61d4_4_beetle-13_5519	4	Sta61d4_4_beetle-13_4669	4	0	stag beetles	beetles	100.0
+taxongroup	Sta61d4_22_beetle-3	Sta61d4_22_beetle-3	Sta61d4_22_beetle-3_5519	22	Sta61d4_22_beetle-3_4669	22	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_12_beetles-35	Sca-9595_12_beetles-35	Sca-9595_12_beetles-35_5519	12	Sca-9595_12_beetles-35_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_12_beetles-8	Sca-9595_12_beetles-8	Sca-9595_12_beetles-8_5519	12	Sca-9595_12_beetles-8_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_12_beetles-35	Sca-9595_12_beetles-8	Sca-9595_12_beetles-35_5519	12	Sca-9595_12_beetles-8_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_12_beetles-28	Sca-9595_12_beetles-28	Sca-9595_12_beetles-28_5519	12	Sca-9595_12_beetles-28_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Sca-9595_12_beetles-28	Sca-9595_12_beetles-35	Sca-9595_12_beetles-28_5519	12	Sca-9595_12_beetles-35_4669	12	0	stag beetles	beetles	100.0
+taxongroup	Man-05b8_8_insects-27	Man-05b8_8_insects-7	Man-05b8_8_insects-27_5334	8	Man-05b8_8_insects-7_4008	8	0	stick insects	insects	100.0
+taxongroup	Man-05b8_8_insects-7	Man-05b8_8_insects-27	Man-05b8_8_insects-7_5334	8	Man-05b8_8_insects-27_4008	8	0	stick insects	insects	100.0
+taxongroup	Man-05b8_8_insects-7	Man-05b8_8_insects-14	Man-05b8_8_insects-7_5334	8	Man-05b8_8_insects-14_4008	8	0	stick insects	insects	100.0
+taxongroup	Sol-e070_78_termites-12	Sol-e070_78_arthropods-24	Sol-e070_78_termites-12_5540	78	Sol-e070_78_arthropods-24_4632	78	0	termites	arthropods	100.0
+taxongroup	Dom-6f87_272_termites-14	Dom-6f87_272_insects-10	Dom-6f87_272_termites-14_5540	272	Dom-6f87_272_insects-10_4008	272	0	termites	insects	100.0
+taxongroup	Eas-b7c7_26_termites-27	Eas-b7c7_26_insects-22	Eas-b7c7_26_termites-27_5540	26	Eas-b7c7_26_insects-22_4008	26	0	termites	insects	100.0
+taxongroup	Bla-975a_2_termites-11	Bla-975a_2_insects-6	Bla-975a_2_termites-11_5540	2	Bla-975a_2_insects-6_4008	2	0	termites	insects	100.0
+taxongroup	Red-f843_177_termites-28	Red-f843_177_insects-12	Red-f843_177_termites-28_5540	177	Red-f843_177_insects-12_4008	177	0	termites	insects	100.0
+taxongroup	Red-f843_178_termites-12	Red-f843_178_Insects-1	Red-f843_178_termites-12_5540	178	Red-f843_178_Insects-1_4008	178	0	termites	insects	100.0
+taxongroup	Sco-5d0f_172_termites-12	Sco-5d0f_172_insects-5	Sco-5d0f_172_termites-12_5540	172	Sco-5d0f_172_insects-5_4008	172	0	termites	insects	100.0
+taxongroup	Swa-27b4_153_termites-21	Swa-27b4_153_insects-7	Swa-27b4_153_termites-21_5540	153	Swa-27b4_153_insects-7_4008	153	0	termites	insects	100.0
+taxongroup	Swa-27b4_153_termites-21	Swa-27b4_153_insects-5	Swa-27b4_153_termites-21_5540	153	Swa-27b4_153_insects-5_4008	153	0	termites	insects	100.0
+taxongroup	Lea-7e84_45_termites-18	Lea-7e84_45_insects-7	Lea-7e84_45_termites-18_5540	45	Lea-7e84_45_insects-7_4008	45	0	termites	insects	100.0
+taxongroup	Pan-f76a_41_termites-12	Pan-f76a_41_insects-20	Pan-f76a_41_termites-12_5540	41	Pan-f76a_41_insects-20_4008	41	0	termites	insects	100.0
+taxongroup	Mim-33dd_104_termites-13	Mim-33dd_104_insects-8	Mim-33dd_104_termites-13_5540	104	Mim-33dd_104_insects-8_4008	104	0	termites	insects	100.0
+taxongroup	Mam-3742_508_termites-10	Mam-3742_508_insects-2	Mam-3742_508_termites-10_5540	508	Mam-3742_508_insects-2_4008	508	0	termites	insects	100.0
+taxongroup	Ter-605f_189_termites-13	Ter-605f_189_insects-5	Ter-605f_189_termites-13_5540	189	Ter-605f_189_insects-5_4008	189	0	termites	insects	100.0
+taxongroup	Ter-605f_54_termite-18	Ter-605f_54_insects-12	Ter-605f_54_termite-18_5540	54	Ter-605f_54_insects-12_4008	54	0	termites	insects	100.0
+taxongroup	Ter-605f_98_termites-5	Ter-605f_98_insects-3	Ter-605f_98_termites-5_5540	98	Ter-605f_98_insects-3_4008	98	0	termites	insects	100.0
+taxongroup	Ter-605f_128_termites-3	Ter-605f_128_insects-6	Ter-605f_128_termites-3_5540	128	Ter-605f_128_insects-6_4008	128	0	termites	insects	100.0
+taxongroup	Ter-605f_518_termites-18	Ter-605f_518_insects-2	Ter-605f_518_termites-18_5540	518	Ter-605f_518_insects-2_4008	518	0	termites	insects	100.0
+taxongroup	Ins-960c_311_termites-6	Ins-960c_311_insects-2	Ins-960c_311_termites-6_5540	311	Ins-960c_311_insects-2_4008	311	0	termites	insects	100.0
+taxongroup	Ins-960c_67_termites-12	Ins-960c_67_Insects-1	Ins-960c_67_termites-12_5540	67	Ins-960c_67_Insects-1_4008	67	0	termites	insects	100.0
+taxongroup	Ins-960c_25_termites-15	Ins-960c_25_Insects-1	Ins-960c_25_termites-15_5540	25	Ins-960c_25_Insects-1_4008	25	0	termites	insects	100.0
+taxongroup	Ter-605f_105_termite-10	Ter-605f_105_insects-4	Ter-605f_105_termite-10_5540	105	Ter-605f_105_insects-4_4008	105	0	termites	insects	100.0
+taxongroup	Hemccca_2_bugs-36	Hemccca_2_arthropods-21	Hemccca_2_bugs-36_5090	2	Hemccca_2_arthropods-21_4632	2	0	true bugs	arthropods	100.0
+taxongroup	Hemccca_2_bugs-25	Hemccca_2_arthropods-21	Hemccca_2_bugs-25_5090	2	Hemccca_2_arthropods-21_4632	2	0	true bugs	arthropods	100.0
+taxongroup	Hemccca_2_bug-3	Hemccca_2_arthropods-21	Hemccca_2_bug-3_5090	2	Hemccca_2_arthropods-21_4632	2	0	true bugs	arthropods	100.0
+taxongroup	Met-e231_30_bugs-12	Met-e231_30_insects-2	Met-e231_30_bugs-12_5090	30	Met-e231_30_insects-2_4008	30	0	true bugs	insects	100.0
+taxongroup	Ven-071d_43_bugs-21	Ven-071d_43_insects-16	Ven-071d_43_bugs-21_5090	43	Ven-071d_43_insects-16_4008	43	0	true bugs	insects	100.0
+taxongroup	Cic-663f_2_bugs-20	Cic-663f_2_insects-13	Cic-663f_2_bugs-20_5090	2	Cic-663f_2_insects-13_4008	2	0	true bugs	insects	100.0
+taxongroup	Dom-6f87_274_termites-8	Dom-6f87_274_insects-3	Dom-6f87_274_termites-8_5540	274	Dom-6f87_274_insects-3_4008	274	0	termites	insects	100.0
+taxongroup	Pea-41a9_109_termites-10	Pea-41a9_109_arthropods-16	Pea-41a9_109_termites-10_5540	109	Pea-41a9_109_arthropods-16_4632	109	0	termites	arthropods	100.0
+taxongroup	Man-05b8_8_insects-14	Man-05b8_8_insects-14	Man-05b8_8_insects-14_5334	8	Man-05b8_8_insects-14_4008	8	0	stick insects	insects	100.0
+taxongroup	Woo-c0f5_120_termites-6	Woo-c0f5_120_arthropods-18	Woo-c0f5_120_termites-6_5540	120	Woo-c0f5_120_arthropods-18_4632	120	0	termites	arthropods	100.0
+taxongroup	Man-05b8_8_insects-27	Man-05b8_8_insects-27	Man-05b8_8_insects-27_5334	8	Man-05b8_8_insects-27_4008	8	0	stick insects	insects	100.0
+taxongroup	Man-05b8_8_insects-27	Man-05b8_8_insects-14	Man-05b8_8_insects-27_5334	8	Man-05b8_8_insects-14_4008	8	0	stick insects	insects	100.0
+taxongroup	Man-05b8_22_insects-6	Man-05b8_22_insects-6	Man-05b8_22_insects-6_5334	22	Man-05b8_22_insects-6_4008	22	0	stick insects	insects	100.0
+taxongroup	Man-05b8_8_insects-14	Man-05b8_8_insects-7	Man-05b8_8_insects-14_5334	8	Man-05b8_8_insects-7_4008	8	0	stick insects	insects	100.0
+taxongroup	Man-05b8_8_insects-14	Man-05b8_8_insects-27	Man-05b8_8_insects-14_5334	8	Man-05b8_8_insects-27_4008	8	0	stick insects	insects	100.0
+taxongroup	Man-05b8_128_insects-5	Man-05b8_128_insects-5	Man-05b8_128_insects-5_5334	128	Man-05b8_128_insects-5_4008	128	0	stick insects	insects	100.0
+taxongroup	Man-05b8_8_insects-7	Man-05b8_8_insects-7	Man-05b8_8_insects-7_5334	8	Man-05b8_8_insects-7_4008	8	0	stick insects	insects	100.0
+taxongroup	Too-567c_84_termites-16	Too-567c_84_animal-34	Too-567c_84_termites-16_5540	84	Too-567c_84_animal-34_44	84	0	termites	Animals	100.0
+taxongroup	Too-567c_84_termite-53	Too-567c_84_animal-34	Too-567c_84_termite-53_5540	84	Too-567c_84_animal-34_44	84	0	termites	Animals	100.0
+taxongroup	Eus-5ea1_126_termites-4	Eus-5ea1_126_animals-18	Eus-5ea1_126_termites-4_5540	126	Eus-5ea1_126_animals-18_44	126	0	termites	Animals	100.0
+taxongroup	Cen-cfeb_80_termite-25	Cen-cfeb_80_animal-22	Cen-cfeb_80_termite-25_5540	80	Cen-cfeb_80_animal-22_44	80	0	termites	Animals	100.0
+taxongroup	Chi-c10a_287_termites-29	Chi-c10a_287_animal-12	Chi-c10a_287_termites-29_5540	287	Chi-c10a_287_animal-12_44	287	0	termites	Animals	100.0
+taxongroup	Aar-5e58_123_termite-7	Aar-5e58_123_animals-11	Aar-5e58_123_termite-7_5540	123	Aar-5e58_123_animals-11_44	123	0	termites	Animals	100.0
+taxongroup	Par-e8bc_140_termites-17	Par-e8bc_140_animals-12	Par-e8bc_140_termites-17_5540	140	Par-e8bc_140_animals-12_44	140	0	termites	Animals	100.0
+taxongroup	Mam-3742_492_termites-15	Mam-3742_492_animal-33	Mam-3742_492_termites-15_5540	492	Mam-3742_492_animal-33_44	492	0	termites	Animals	100.0
+taxongroup	Ter-605f_245_termite-12	Ter-605f_245_animals-22	Ter-605f_245_termite-12_5540	245	Ter-605f_245_animals-22_44	245	0	termites	Animals	100.0
+taxongroup	Gia-b75c_144_termites-12	Gia-b75c_144_animal-2	Gia-b75c_144_termites-12_5540	144	Gia-b75c_144_animal-2_44	144	0	termites	Animals	100.0
+taxongroup	Coc-890e_2_ladybird-42	Coc-890e_2_Coccinella-1	Coc-890e_2_ladybird-42_4785	2	Coc-890e_2_Coccinella-1_981	2	0	seven-spot ladybird 	Coccinella	100.0
+taxongroup	Dun-cad0_16_beetles-43	Dun-cad0_16_beetles-70	Dun-cad0_16_beetles-43_5453	16	Dun-cad0_16_beetles-70_4874	16	0	scarab beetles	dung beetles	100.0
+taxongroup	Bee-1811_365_beetles-39	Bee-1811_365_animals-26	Bee-1811_365_beetles-39_5453	365	Bee-1811_365_animals-26_44	365	0	scarab beetles	Animals	100.0
+taxongroup	Bee-1811_87_beetles-33	Bee-1811_87_beetles-33	Bee-1811_87_beetles-33_5453	87	Bee-1811_87_beetles-33_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Bur-d18a_113_beetles-6	Bur-d18a_113_beetles-6	Bur-d18a_113_beetles-6_5453	113	Bur-d18a_113_beetles-6_4669	113	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_365_beetles-18	Bee-1811_365_beetles-39	Bee-1811_365_beetles-18_5453	365	Bee-1811_365_beetles-39_4669	365	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_365_beetles-18	Bee-1811_365_beetles-18	Bee-1811_365_beetles-18_5453	365	Bee-1811_365_beetles-18_4669	365	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_87_beetles-21	Bee-1811_87_beetles-39	Bee-1811_87_beetles-21_5453	87	Bee-1811_87_beetles-39_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Dun-cad0_16_beetles-60	Dun-cad0_16_beetles-43	Dun-cad0_16_beetles-60_5453	16	Dun-cad0_16_beetles-43_4669	16	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_87_beetles-33	Bee-1811_87_beetles-21	Bee-1811_87_beetles-33_5453	87	Bee-1811_87_beetles-21_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_365_beetles-39	Bee-1811_365_beetles-39	Bee-1811_365_beetles-39_5453	365	Bee-1811_365_beetles-39_4669	365	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_87_beetles-39	Bee-1811_87_beetles-21	Bee-1811_87_beetles-39_5453	87	Bee-1811_87_beetles-21_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_87_beetles-21	Bee-1811_87_beetles-27	Bee-1811_87_beetles-21_5453	87	Bee-1811_87_beetles-27_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_272_beetles-20	Bee-1811_272_beetles-20	Bee-1811_272_beetles-20_5453	272	Bee-1811_272_beetles-20_4669	272	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_87_beetles-21	Bee-1811_87_beetles-21	Bee-1811_87_beetles-21_5453	87	Bee-1811_87_beetles-21_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_87_beetles-33	Bee-1811_87_beetles-39	Bee-1811_87_beetles-33_5453	87	Bee-1811_87_beetles-39_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_87_beetles-39	Bee-1811_87_beetles-27	Bee-1811_87_beetles-39_5453	87	Bee-1811_87_beetles-27_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Tar-edfc_81_beetles-20	Tar-edfc_81_beetles-20	Tar-edfc_81_beetles-20_5453	81	Tar-edfc_81_beetles-20_4669	81	0	scarab beetles	beetles	100.0
+taxongroup	Dun-cad0_16_beetles-43	Dun-cad0_16_beetles-60	Dun-cad0_16_beetles-43_5453	16	Dun-cad0_16_beetles-60_4874	16	0	scarab beetles	dung beetles	100.0
+taxongroup	Sca-9595_13_beetles-33	Sca-9595_13_beetles-26	Sca-9595_13_beetles-33_5453	13	Sca-9595_13_beetles-26_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Sca-9595_13_beetles-33	Sca-9595_13_beetles-33	Sca-9595_13_beetles-33_5453	13	Sca-9595_13_beetles-33_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Sca-9595_13_beetles-11	Sca-9595_13_beetles-33	Sca-9595_13_beetles-11_5453	13	Sca-9595_13_beetles-33_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Sca-9595_13_beetles-33	Sca-9595_13_beetles-19	Sca-9595_13_beetles-33_5453	13	Sca-9595_13_beetles-19_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Sca-9595_13_beetles-11	Sca-9595_13_beetles-26	Sca-9595_13_beetles-11_5453	13	Sca-9595_13_beetles-26_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Sca-9595_11_beetles-9	Sca-9595_11_beetles-9	Sca-9595_11_beetles-9_5453	11	Sca-9595_11_beetles-9_4669	11	0	scarab beetles	beetles	100.0
+taxongroup	Dun-cad0_9_beetles-25	Dun-cad0_9_beetles-25	Dun-cad0_9_beetles-25_5453	9	Dun-cad0_9_beetles-25_4669	9	0	scarab beetles	beetles	100.0
+taxongroup	Dun9430_2_beetle-6	Dun9430_2_beetle-6	Dun9430_2_beetle-6_5453	2	Dun9430_2_beetle-6_4669	2	0	scarab beetles	beetles	100.0
+taxongroup	Dun-cad0_16_beetles-60	Dun-cad0_16_beetles-34	Dun-cad0_16_beetles-60_5453	16	Dun-cad0_16_beetles-34_4669	16	0	scarab beetles	beetles	100.0
+taxongroup	Dun-cad0_16_beetles-60	Dun-cad0_16_Coleoptera-1	Dun-cad0_16_beetles-60_5453	16	Dun-cad0_16_Coleoptera-1_1661	16	0	scarab beetles	Coleoptera	100.0
+taxongroup	Nea-9375_56_beetle-3	Nea-9375_56_Coleoptera-9	Nea-9375_56_beetle-3_5453	56	Nea-9375_56_Coleoptera-9_1661	56	0	scarab beetles	Coleoptera	100.0
+taxongroup	Dun-cad0_16_beetles-43	Dun-cad0_16_Coleoptera-1	Dun-cad0_16_beetles-43_5453	16	Dun-cad0_16_Coleoptera-1_1661	16	0	scarab beetles	Coleoptera	100.0
+taxongroup	Dun-cad0_16_beetles-34	Dun-cad0_16_Coleoptera-1	Dun-cad0_16_beetles-34_5453	16	Dun-cad0_16_Coleoptera-1_1661	16	0	scarab beetles	Coleoptera	100.0
+taxongroup	Dun-cad0_16_beetles-70	Dun-cad0_16_Coleoptera-1	Dun-cad0_16_beetles-70_5453	16	Dun-cad0_16_Coleoptera-1_1661	16	0	scarab beetles	Coleoptera	100.0
+taxongroup	Dun-cad0_16_beetles-60	Dun-cad0_16_beetles-60	Dun-cad0_16_beetles-60_5453	16	Dun-cad0_16_beetles-60_2068	16	0	scarab beetles	Dung beetles	100.0
+taxongroup	Dun-cad0_9_beetles-25	Dun-cad0_9_Scarabaeoidea-8	Dun-cad0_9_beetles-25_5453	9	Dun-cad0_9_Scarabaeoidea-8_2069	9	0	scarab beetles	Scarabaeoidea	100.0
+taxongroup	Sca-9595_13_beetles-33	Sca-9595_13_beetles-11	Sca-9595_13_beetles-33_5453	13	Sca-9595_13_beetles-11_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Sca-9595_13_beetles-26	Sca-9595_13_beetles-33	Sca-9595_13_beetles-26_5453	13	Sca-9595_13_beetles-33_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Sca-9595_13_beetles-11	Sca-9595_13_beetles-11	Sca-9595_13_beetles-11_5453	13	Sca-9595_13_beetles-11_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Sca-1262_2_beetles-15	Sca-1262_2_beetles-15	Sca-1262_2_beetles-15_5453	2	Sca-1262_2_beetles-15_4669	2	0	scarab beetles	beetles	100.0
+taxongroup	Sca-9595_13_beetles-26	Sca-9595_13_beetles-19	Sca-9595_13_beetles-26_5453	13	Sca-9595_13_beetles-19_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Sca-9595_13_beetles-26	Sca-9595_13_beetles-26	Sca-9595_13_beetles-26_5453	13	Sca-9595_13_beetles-26_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Sca-9595_13_beetles-19	Sca-9595_13_beetles-11	Sca-9595_13_beetles-19_5453	13	Sca-9595_13_beetles-11_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Sca-9595_13_beetles-11	Sca-9595_13_beetles-19	Sca-9595_13_beetles-11_5453	13	Sca-9595_13_beetles-19_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Sca-9595_13_beetles-26	Sca-9595_13_beetles-11	Sca-9595_13_beetles-26_5453	13	Sca-9595_13_beetles-11_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Sca-1262_2_beetles-25	Sca-1262_2_beetles-15	Sca-1262_2_beetles-25_5453	2	Sca-1262_2_beetles-15_4669	2	0	scarab beetles	beetles	100.0
+taxongroup	Ani-161e_243_beetle-23	Ani-161e_243_beetle-23	Ani-161e_243_beetle-23_5453	243	Ani-161e_243_beetle-23_4669	243	0	scarab beetles	beetles	100.0
+taxongroup	Sca-1262_21_beetles-7	Sca-1262_21_beetles-7	Sca-1262_21_beetles-7_5453	21	Sca-1262_21_beetles-7_4669	21	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_87_beetles-33	Bee-1811_87_beetles-27	Bee-1811_87_beetles-33_5453	87	Bee-1811_87_beetles-27_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_469_beetles-20	Bee-1811_469_beetles-20	Bee-1811_469_beetles-20_5453	469	Bee-1811_469_beetles-20_4669	469	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_87_beetles-39	Bee-1811_87_beetles-33	Bee-1811_87_beetles-39_5453	87	Bee-1811_87_beetles-33_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_87_beetles-39	Bee-1811_87_beetles-39	Bee-1811_87_beetles-39_5453	87	Bee-1811_87_beetles-39_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_365_beetles-39	Bee-1811_365_beetles-18	Bee-1811_365_beetles-39_5453	365	Bee-1811_365_beetles-18_4669	365	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_87_beetles-27	Bee-1811_87_beetles-21	Bee-1811_87_beetles-27_5453	87	Bee-1811_87_beetles-21_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_87_beetles-27	Bee-1811_87_beetles-27	Bee-1811_87_beetles-27_5453	87	Bee-1811_87_beetles-27_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_87_beetles-27	Bee-1811_87_beetles-33	Bee-1811_87_beetles-27_5453	87	Bee-1811_87_beetles-33_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_87_beetles-27	Bee-1811_87_beetles-39	Bee-1811_87_beetles-27_5453	87	Bee-1811_87_beetles-39_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_87_beetles-21	Bee-1811_87_beetles-33	Bee-1811_87_beetles-21_5453	87	Bee-1811_87_beetles-33_4669	87	0	scarab beetles	beetles	100.0
+taxongroup	Bee-1811_59_beetles-4	Bee-1811_59_beetles-4	Bee-1811_59_beetles-4_5453	59	Bee-1811_59_beetles-4_4669	59	0	scarab beetles	beetles	100.0
+taxongroup	Sca-1262_2_beetles-15	Sca-1262_2_beetles-25	Sca-1262_2_beetles-15_5453	2	Sca-1262_2_beetles-25_4669	2	0	scarab beetles	beetles	100.0
+taxongroup	Sca-9595_13_beetles-19	Sca-9595_13_beetles-19	Sca-9595_13_beetles-19_5453	13	Sca-9595_13_beetles-19_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Sca-9595_13_beetles-19	Sca-9595_13_beetles-26	Sca-9595_13_beetles-19_5453	13	Sca-9595_13_beetles-26_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Sca-9595_13_beetles-19	Sca-9595_13_beetles-33	Sca-9595_13_beetles-19_5453	13	Sca-9595_13_beetles-33_4669	13	0	scarab beetles	beetles	100.0
+taxongroup	Nea-9375_56_beetle-3	Nea-9375_56_beetle-3	Nea-9375_56_beetle-3_5453	56	Nea-9375_56_beetle-3_4669	56	0	scarab beetles	beetles	100.0
+taxongroup	Sca-1262_2_beetles-25	Sca-1262_2_beetles-25	Sca-1262_2_beetles-25_5453	2	Sca-1262_2_beetles-25_4669	2	0	scarab beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-32	Dun-cad0_147_beetles-51	Dun-cad0_147_beetles-32_4874	147	Dun-cad0_147_beetles-51_4669	147	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-32	Dun-cad0_147_beetles-89	Dun-cad0_147_beetles-32_4874	147	Dun-cad0_147_beetles-89_4669	147	0	dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-32	Dun-cad0_147_beetles-9	Dun-cad0_147_beetles-32_4874	147	Dun-cad0_147_beetles-9_4669	147	0	dung beetles	beetles	100.0
+taxongroup	Bure833_3_beetles-8	Bure833_3_beetles-8	Bure833_3_beetles-8_1821	3	Bure833_3_beetles-8_4669	3	0	Sexton beetles	beetles	100.0
+taxongroup	Lis-67c8_57_Insecta-3	Lis-67c8_57_Arthropoda-1	Lis-67c8_57_Insecta-3_396	57	Lis-67c8_57_Arthropoda-1_1573	57	0	Insecta	Arthropoda	100.0
+taxongroup	Coc01f6_8_Ladybirds-1	Coc01f6_8_beetles-10	Coc01f6_8_Ladybirds-1_534	8	Coc01f6_8_beetles-10_4669	8	0	Ladybirds	beetles	100.0
+taxongroup	Fir-e344_2_Lampyridae-2	Fir-e344_2_beetles-8	Fir-e344_2_Lampyridae-2_608	2	Fir-e344_2_beetles-8_4669	2	0	Lampyridae	beetles	100.0
+taxongroup	Whi-b4c3_487_Odonata-34	Whi-b4c3_487_insects-5	Whi-b4c3_487_Odonata-34_2943	487	Whi-b4c3_487_insects-5_4008	487	0	Odonata	insects	100.0
+taxongroup	Odo-661a_67_Odonata-2	Odo-661a_67_insects-13	Odo-661a_67_Odonata-2_2943	67	Odo-661a_67_insects-13_4008	67	0	Odonata	insects	100.0
+taxongroup	Man-05b8_22_Orthoptera-17	Man-05b8_22_insects-6	Man-05b8_22_Orthoptera-17_2962	22	Man-05b8_22_insects-6_4008	22	0	Orthoptera	insects	100.0
+taxongroup	Man-05b8_8_Orthoptera-19	Man-05b8_8_insects-14	Man-05b8_8_Orthoptera-19_2962	8	Man-05b8_8_insects-14_4008	8	0	Orthoptera	insects	100.0
+taxongroup	Man-05b8_8_Orthoptera-19	Man-05b8_8_insects-27	Man-05b8_8_Orthoptera-19_2962	8	Man-05b8_8_insects-27_4008	8	0	Orthoptera	insects	100.0
+taxongroup	Man-05b8_8_Orthoptera-19	Man-05b8_8_insects-7	Man-05b8_8_Orthoptera-19_2962	8	Man-05b8_8_insects-7_4008	8	0	Orthoptera	insects	100.0
+taxongroup	Ort-3af1_2_Orthoptera-1	Ort-3af1_2_insects-27	Ort-3af1_2_Orthoptera-1_2962	2	Ort-3af1_2_insects-27_4008	2	0	Orthoptera	insects	100.0
+taxongroup	Ano-c42e_2_Orthoptera-10	Ano-c42e_2_insects-6	Ano-c42e_2_Orthoptera-10_2962	2	Ano-c42e_2_insects-6_4008	2	0	Orthoptera	insects	100.0
+taxongroup	Dun-cad0_9_Scarabaeoidea-8	Dun-cad0_9_beetles-25	Dun-cad0_9_Scarabaeoidea-8_2069	9	Dun-cad0_9_beetles-25_4669	9	0	Scarabaeoidea	beetles	100.0
+taxongroup	Dun-cad0_142_Scarabaeoidea-8	Dun-cad0_142_beetle-4	Dun-cad0_142_Scarabaeoidea-8_2069	142	Dun-cad0_142_beetle-4_4669	142	0	Scarabaeoidea	beetles	100.0
+taxongroup	Sta-0aa5_1_beetle-2	Sta-0aa5_1_beetle-2	Sta-0aa5_1_beetle-2_3418	1	Sta-0aa5_1_beetle-2_4669	1	0	Stag beetles	beetles	100.0
+taxongroup	Dun-cad0_84_beetle-14	Dun-cad0_84_beetle-14	Dun-cad0_84_beetle-14_2068	84	Dun-cad0_84_beetle-14_4669	84	0	Dung beetles	beetles	100.0
+taxongroup	Sta-0aa5_4_beetle-2	Sta-0aa5_4_beetle-2	Sta-0aa5_4_beetle-2_3418	4	Sta-0aa5_4_beetle-2_4669	4	0	Stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_32_beetle-2	Sta-0aa5_32_beetle-2	Sta-0aa5_32_beetle-2_3418	32	Sta-0aa5_32_beetle-2_4669	32	0	Stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_31_beetle-2	Sta-0aa5_31_beetle-2	Sta-0aa5_31_beetle-2_3418	31	Sta-0aa5_31_beetle-2_4669	31	0	Stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_2_beetles-2	Sta-0aa5_2_beetles-2	Sta-0aa5_2_beetles-2_3418	2	Sta-0aa5_2_beetles-2_4669	2	0	Stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_2_beetles-2	Sta-0aa5_2_beetles-11	Sta-0aa5_2_beetles-2_3418	2	Sta-0aa5_2_beetles-11_4669	2	0	Stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_2_beetles-11	Sta-0aa5_2_beetles-2	Sta-0aa5_2_beetles-11_3418	2	Sta-0aa5_2_beetles-2_4669	2	0	Stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_2_beetles-11	Sta-0aa5_2_beetles-11	Sta-0aa5_2_beetles-11_3418	2	Sta-0aa5_2_beetles-11_4669	2	0	Stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_21_beetle-2	Sta-0aa5_21_beetle-2	Sta-0aa5_21_beetle-2_3418	21	Sta-0aa5_21_beetle-2_4669	21	0	Stag beetles	beetles	100.0
+taxongroup	Sta61d4_14_beetles-2	Sta61d4_14_beetles-2	Sta61d4_14_beetles-2_3418	14	Sta61d4_14_beetles-2_4669	14	0	Stag beetles	beetles	100.0
+taxongroup	Sta-0aa5_25_beetle-2	Sta-0aa5_25_beetle-2	Sta-0aa5_25_beetle-2_3418	25	Sta-0aa5_25_beetle-2_4669	25	0	Stag beetles	beetles	100.0
+taxongroup	Ter-605f_15_Termites-1	Ter-605f_15_animal-35	Ter-605f_15_Termites-1_3487	15	Ter-605f_15_animal-35_44	15	0	Termites	Animals	100.0
+taxongroup	Ter3498_5_Termites-1	Ter3498_5_insects-9	Ter3498_5_Termites-1_3487	5	Ter3498_5_insects-9_4008	5	0	Termites	insects	100.0
+taxongroup	Lep-f8ec_647_Insecta-7	Lep-f8ec_647_Arthropoda-5	Lep-f8ec_647_Insecta-7_396	647	Lep-f8ec_647_Arthropoda-5_1573	647	0	Insecta	Arthropoda	100.0
+taxongroup	Ins-960c_90_Insecta-19	Ins-960c_90_animal-13	Ins-960c_90_Insecta-19_396	90	Ins-960c_90_animal-13_44	90	0	Insecta	Animals	100.0
+taxongroup	Hem-78f3_22_Hemiptera-1	Hem-78f3_22_insects-8	Hem-78f3_22_Hemiptera-1_2524	22	Hem-78f3_22_insects-8_4008	22	0	Hemiptera	insects	100.0
+taxongroup	Cic-663f_2_Hemiptera-17	Cic-663f_2_insects-13	Cic-663f_2_Hemiptera-17_2524	2	Cic-663f_2_insects-13_4008	2	0	Hemiptera	insects	100.0
+taxongroup	Dun-cad0_147_beetles-89	Dun-cad0_147_beetle-57	Dun-cad0_147_beetles-89_2068	147	Dun-cad0_147_beetle-57_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-89	Dun-cad0_147_beetle-62	Dun-cad0_147_beetles-89_2068	147	Dun-cad0_147_beetle-62_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-89	Dun-cad0_147_beetles-32	Dun-cad0_147_beetles-89_2068	147	Dun-cad0_147_beetles-32_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Sem-88a0_148_Ephemeroptera-8	Sem-88a0_148_insects-2	Sem-88a0_148_Ephemeroptera-8_2833	148	Sem-88a0_148_insects-2_4008	148	0	Ephemeroptera	insects	100.0
+taxongroup	Bum-e9d6_331_Flies-38	Bum-e9d6_331_Insects-22	Bum-e9d6_331_Flies-38_2278	331	Bum-e9d6_331_Insects-22_397	331	0	Flies	Insects	100.0
+taxongroup	Giaa534_2_wetas-3	Giaa534_2_insects-9	Giaa534_2_wetas-3_2362	2	Giaa534_2_insects-9_4008	2	0	Giant wetas	insects	100.0
+taxongroup	Gro936a_9_beetles-8	Gro936a_9_beetles-8	Gro936a_9_beetles-8_2475	9	Gro936a_9_beetles-8_4669	9	0	Ground beetles	beetles	100.0
+taxongroup	Hemccca_2_Hemiptera-27	Hemccca_2_arthropods-21	Hemccca_2_Hemiptera-27_2524	2	Hemccca_2_arthropods-21_4632	2	0	Hemiptera	arthropods	100.0
+taxongroup	Hem-78f3_5_Hemiptera-7	Hem-78f3_5_arthropods-16	Hem-78f3_5_Hemiptera-7_2524	5	Hem-78f3_5_arthropods-16_4632	5	0	Hemiptera	arthropods	100.0
+taxongroup	Sem-88a0_148_Hemiptera-19	Sem-88a0_148_insects-2	Sem-88a0_148_Hemiptera-19_2524	148	Sem-88a0_148_insects-2_4008	148	0	Hemiptera	insects	100.0
+taxongroup	Hem-78f3_54_Hemiptera-13	Hem-78f3_54_insects-8	Hem-78f3_54_Hemiptera-13_2524	54	Hem-78f3_54_insects-8_4008	54	0	Hemiptera	insects	100.0
+taxongroup	Bla-975a_33_Termites-1	Bla-975a_33_insects-4	Bla-975a_33_Termites-1_3487	33	Bla-975a_33_insects-4_4008	33	0	Termites	insects	100.0
+taxongroup	Liz-2f75_152_Termites-1	Liz-2f75_152_insects-19	Liz-2f75_152_Termites-1_3487	152	Liz-2f75_152_insects-19_4008	152	0	Termites	insects	100.0
+taxongroup	Ter-605f_54_Termite-1	Ter-605f_54_insects-12	Ter-605f_54_Termite-1_3487	54	Ter-605f_54_insects-12_4008	54	0	Termites	insects	100.0
+taxongroup	Hou-905b_222_aphids-26	Hou-905b_222_Animals-1	Hou-905b_222_aphids-26_4612	222	Hou-905b_222_Animals-1_3812	222	0	aphids	animals	100.0
+taxongroup	Par-5c6e_6_aphids-26	Par-5c6e_6_animal-11	Par-5c6e_6_aphids-26_4612	6	Par-5c6e_6_animal-11_3812	6	0	aphids	animals	100.0
+taxongroup	Art-1308_17_aphids-33	Art-1308_17_arthropods-3	Art-1308_17_aphids-33_4612	17	Art-1308_17_arthropods-3_4632	17	0	aphids	arthropods	100.0
+taxongroup	Hemccca_2_aphids-33	Hemccca_2_arthropods-21	Hemccca_2_aphids-33_4612	2	Hemccca_2_arthropods-21_4632	2	0	aphids	arthropods	100.0
+taxongroup	Gol-9020_187_aphids-21	Gol-9020_187_arthropods-12	Gol-9020_187_aphids-21_4612	187	Gol-9020_187_arthropods-12_4632	187	0	aphids	arthropods	100.0
+taxongroup	Aph-b93b_26_aphids-13	Aph-b93b_26_insects-11	Aph-b93b_26_aphids-13_4612	26	Aph-b93b_26_insects-11_4008	26	0	aphids	insects	100.0
+taxongroup	Aph-b93b_5_aphid-21	Aph-b93b_5_insects-6	Aph-b93b_5_aphid-21_4612	5	Aph-b93b_5_insects-6_4008	5	0	aphids	insects	100.0
+taxongroup	Ase-acb4_76_aphids-16	Ase-acb4_76_insects-19	Ase-acb4_76_aphids-16_4612	76	Ase-acb4_76_insects-19_4008	76	0	aphids	insects	100.0
+taxongroup	Eur-07b4_87_aphids-39	Eur-07b4_87_Insects-1	Eur-07b4_87_aphids-39_4612	87	Eur-07b4_87_Insects-1_4008	87	0	aphids	insects	100.0
+taxongroup	Lep-f8ec_447_aphids-12	Lep-f8ec_447_insects-15	Lep-f8ec_447_aphids-12_4612	447	Lep-f8ec_447_insects-15_4008	447	0	aphids	insects	100.0
+taxongroup	Lep-f8ec_447_aphids-12	Lep-f8ec_447_insects-10	Lep-f8ec_447_aphids-12_4612	447	Lep-f8ec_447_insects-10_4008	447	0	aphids	insects	100.0
+taxongroup	Hou-905b_222_aphids-26	Hou-905b_222_insects-14	Hou-905b_222_aphids-26_4612	222	Hou-905b_222_insects-14_4008	222	0	aphids	insects	100.0
+taxongroup	Ins-960c_232_aphids-7	Ins-960c_232_insects-4	Ins-960c_232_aphids-7_4612	232	Ins-960c_232_insects-4_4008	232	0	aphids	insects	100.0
+taxongroup	Par-e8bc_47_aphids-10	Par-e8bc_47_insects-8	Par-e8bc_47_aphids-10_4612	47	Par-e8bc_47_insects-8_4008	47	0	aphids	insects	100.0
+taxongroup	Aph-1a7e_45_aphids-3	Aph-1a7e_45_bugs-40	Aph-1a7e_45_aphids-3_4612	45	Aph-1a7e_45_bugs-40_5090	45	0	aphids	true bugs	100.0
+taxongroup	Coc-65ef_7_aphids-16	Coc-65ef_7_bugs-20	Coc-65ef_7_aphids-16_4612	7	Coc-65ef_7_bugs-20_5090	7	0	aphids	true bugs	100.0
+taxongroup	Lep-f8ec_19_aphids-60	Lep-f8ec_19_bugs-64	Lep-f8ec_19_aphids-60_4612	19	Lep-f8ec_19_bugs-64_5090	19	0	aphids	true bugs	100.0
+taxongroup	Hemccca_2_aphids-33	Hemccca_2_bug-3	Hemccca_2_aphids-33_4612	2	Hemccca_2_bug-3_5090	2	0	aphids	true bugs	100.0
+taxongroup	Hemccca_2_aphids-33	Hemccca_2_bugs-25	Hemccca_2_aphids-33_4612	2	Hemccca_2_bugs-25_5090	2	0	aphids	true bugs	100.0
+taxongroup	Hemccca_2_aphids-33	Hemccca_2_bugs-36	Hemccca_2_aphids-33_4612	2	Hemccca_2_bugs-36_5090	2	0	aphids	true bugs	100.0
+taxongroup	Hem-78f3_2_aphids-35	Hem-78f3_2_bugs-42	Hem-78f3_2_aphids-35_4612	2	Hem-78f3_2_bugs-42_5090	2	0	aphids	true bugs	100.0
+taxongroup	Hem-78f3_2_aphids-35	Hem-78f3_2_bugs-49	Hem-78f3_2_aphids-35_4612	2	Hem-78f3_2_bugs-49_5090	2	0	aphids	true bugs	100.0
+taxongroup	Hem-78f3_2_aphids-35	Hem-78f3_2_bugs-22	Hem-78f3_2_aphids-35_4612	2	Hem-78f3_2_bugs-22_5090	2	0	aphids	true bugs	100.0
+taxongroup	Hem-78f3_2_aphids-35	Hem-78f3_2_bugs-45	Hem-78f3_2_aphids-35_4612	2	Hem-78f3_2_bugs-45_5090	2	0	aphids	true bugs	100.0
+taxongroup	Ban-e8fb_2_demoiselle-3	Ban-e8fb_2_Calopteryx-5	Ban-e8fb_2_demoiselle-3_4657	2	Ban-e8fb_2_Calopteryx-5_950	2	0	banded demoiselle	Calopteryx	100.0
+taxongroup	Dra-48f6_307_demoiselle-38	Dra-48f6_307_Odonata-34	Dra-48f6_307_demoiselle-38_4657	307	Dra-48f6_307_Odonata-34_2943	307	0	banded demoiselle	Odonata	100.0
+taxongroup	Gro936a_4_beetles-8	Gro936a_4_animals-19	Gro936a_4_beetles-8_4669	4	Gro936a_4_animals-19_44	4	0	beetles	Animals	100.0
+taxongroup	Pur9a15_3_aphids-8	Pur9a15_3_animal-16	Pur9a15_3_aphids-8_4612	3	Pur9a15_3_animal-16_3812	3	0	aphids	animals	100.0
+taxongroup	Aph-1a7e_104_aphids-8	Aph-1a7e_104_animals-22	Aph-1a7e_104_aphids-8_4612	104	Aph-1a7e_104_animals-22_3812	104	0	aphids	animals	100.0
+taxongroup	Ter-605f_2_Termites-1	Ter-605f_2_insects-8	Ter-605f_2_Termites-1_3487	2	Ter-605f_2_insects-8_4008	2	0	Termites	insects	100.0
+taxongroup	Apa-2e97_41_aphids-20	Apa-2e97_41_animal-35	Apa-2e97_41_aphids-20_4612	41	Apa-2e97_41_animal-35_3812	41	0	aphids	animals	100.0
+taxongroup	Sca-5045_3_fly-9	Sca-5045_3_Scathophaga-11	Sca-5045_3_fly-9_3285	3	Sca-5045_3_Scathophaga-11_1267	3	0	Yellow dung fly	Scathophaga	100.0
+taxongroup	Aph-b93b_2_aphid-11	Aph-b93b_2_Hemiptera-20	Aph-b93b_2_aphid-11_4612	2	Aph-b93b_2_Hemiptera-20_2524	2	0	aphids	Hemiptera	100.0
+taxongroup	Hemccca_2_aphids-33	Hemccca_2_Hemiptera-27	Hemccca_2_aphids-33_4612	2	Hemccca_2_Hemiptera-27_2524	2	0	aphids	Hemiptera	100.0
+taxongroup	Lep-f8ec_19_aphids-60	Lep-f8ec_19_Hemiptera-56	Lep-f8ec_19_aphids-60_4612	19	Lep-f8ec_19_Hemiptera-56_2524	19	0	aphids	Hemiptera	100.0
+taxongroup	Hem-78f3_209_aphid-19	Hem-78f3_209_Hemiptera-5	Hem-78f3_209_aphid-19_4612	209	Hem-78f3_209_Hemiptera-5_2524	209	0	aphids	Hemiptera	100.0
+taxongroup	Hem-78f3_2_aphids-35	Hem-78f3_2_Hemiptera-1	Hem-78f3_2_aphids-35_4612	2	Hem-78f3_2_Hemiptera-1_2524	2	0	aphids	Hemiptera	100.0
+taxongroup	Dun-cad0_73_beetle-20	Dun-cad0_73_beetle-20	Dun-cad0_73_beetle-20_2068	73	Dun-cad0_73_beetle-20_4669	73	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_87_beetles-3	Dun-cad0_87_beetles-3	Dun-cad0_87_beetles-3_2068	87	Dun-cad0_87_beetles-3_4669	87	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_13_beetle-5	Dun-cad0_13_animals-15	Dun-cad0_13_beetle-5_2068	13	Dun-cad0_13_animals-15_3812	13	0	Dung beetles	animals	100.0
+taxongroup	Kle-14e2_44_beetle-6	Kle-14e2_44_beetle-6	Kle-14e2_44_beetle-6_2068	44	Kle-14e2_44_beetle-6_4669	44	0	Dung beetles	beetles	100.0
+taxongroup	Mil-11ed_190_beetles-16	Mil-11ed_190_beetles-16	Mil-11ed_190_beetles-16_2068	190	Mil-11ed_190_beetles-16_4669	190	0	Dung beetles	beetles	100.0
+taxongroup	Mil-11ed_190_beetles-16	Mil-11ed_190_beetles-27	Mil-11ed_190_beetles-16_2068	190	Mil-11ed_190_beetles-27_4669	190	0	Dung beetles	beetles	100.0
+taxongroup	Bee-1811_516_beetle-15	Bee-1811_516_beetle-15	Bee-1811_516_beetle-15_2068	516	Bee-1811_516_beetle-15_4669	516	0	Dung beetles	beetles	100.0
+taxongroup	Mil-11ed_190_beetles-27	Mil-11ed_190_beetles-27	Mil-11ed_190_beetles-27_2068	190	Mil-11ed_190_beetles-27_4669	190	0	Dung beetles	beetles	100.0
+taxongroup	Mil-11ed_190_beetles-27	Mil-11ed_190_beetles-16	Mil-11ed_190_beetles-27_2068	190	Mil-11ed_190_beetles-16_4669	190	0	Dung beetles	beetles	100.0
+taxongroup	Sca16ff_7_beetles-3	Sca16ff_7_beetles-3	Sca16ff_7_beetles-3_2068	7	Sca16ff_7_beetles-3_4669	7	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetle-62	Dun-cad0_147_beetles-32	Dun-cad0_147_beetle-62_2068	147	Dun-cad0_147_beetles-32_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetle-62	Dun-cad0_147_beetle-62	Dun-cad0_147_beetle-62_2068	147	Dun-cad0_147_beetle-62_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetle-62	Dun-cad0_147_beetle-57	Dun-cad0_147_beetle-62_2068	147	Dun-cad0_147_beetle-57_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_87_beetles-3	Dun-cad0_87_beetle-17	Dun-cad0_87_beetles-3_2068	87	Dun-cad0_87_beetle-17_4669	87	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetle-57	Dun-cad0_147_beetles-9	Dun-cad0_147_beetle-57_2068	147	Dun-cad0_147_beetles-9_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetle-57	Dun-cad0_147_beetles-32	Dun-cad0_147_beetle-57_2068	147	Dun-cad0_147_beetles-32_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_139_beetle-16	Dun-cad0_139_beetle-16	Dun-cad0_139_beetle-16_2068	139	Dun-cad0_139_beetle-16_4669	139	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_10_beetles-18	Dun-cad0_10_beetles-18	Dun-cad0_10_beetles-18_2068	10	Dun-cad0_10_beetles-18_4669	10	0	Dung beetles	beetles	100.0
+taxongroup	Bee-1811_463_beetle-5	Bee-1811_463_beetle-5	Bee-1811_463_beetle-5_2068	463	Bee-1811_463_beetle-5_4669	463	0	Dung beetles	beetles	100.0
+taxongroup	Bee-1811_477_beetle-14	Bee-1811_477_beetle-14	Bee-1811_477_beetle-14_2068	477	Bee-1811_477_beetle-14_4669	477	0	Dung beetles	beetles	100.0
+taxongroup	Copb941_3_beetle-18	Copb941_3_beetle-18	Copb941_3_beetle-18_2068	3	Copb941_3_beetle-18_4669	3	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_33_beetle-5	Dun-cad0_33_animal-21	Dun-cad0_33_beetle-5_2068	33	Dun-cad0_33_animal-21_3812	33	0	Dung beetles	animals	100.0
+taxongroup	Aph-1a7e_88_Aphids-1	Aph-1a7e_88_insects-22	Aph-1a7e_88_Aphids-1_1529	88	Aph-1a7e_88_insects-22_4008	88	0	Aphids	insects	100.0
+taxongroup	Aphe0a9_7_Aphids-1	Aphe0a9_7_insects-8	Aphe0a9_7_Aphids-1_1529	7	Aphe0a9_7_insects-8_4008	7	0	Aphids	insects	100.0
+taxongroup	Neo-e4e0_66_Aphids-1	Neo-e4e0_66_insects-6	Neo-e4e0_66_Aphids-1_1529	66	Neo-e4e0_66_insects-6_4008	66	0	Aphids	insects	100.0
+taxongroup	Pas09ae_4_beetles-11	Pas09ae_4_beetles-2	Pas09ae_4_beetles-11_2998	4	Pas09ae_4_beetles-2_4669	4	0	Bess beetles	beetles	100.0
+taxongroup	Pas09ae_4_beetles-2	Pas09ae_4_beetles-11	Pas09ae_4_beetles-2_2998	4	Pas09ae_4_beetles-11_4669	4	0	Bess beetles	beetles	100.0
+taxongroup	Pas09ae_4_beetles-2	Pas09ae_4_beetles-2	Pas09ae_4_beetles-2_2998	4	Pas09ae_4_beetles-2_4669	4	0	Bess beetles	beetles	100.0
+taxongroup	Pas09ae_4_beetles-11	Pas09ae_4_beetles-11	Pas09ae_4_beetles-11_2998	4	Pas09ae_4_beetles-11_4669	4	0	Bess beetles	beetles	100.0
+taxongroup	Bla-975a_36_Cockroaches-1	Bla-975a_36_insects-5	Bla-975a_36_Cockroaches-1_1903	36	Bla-975a_36_insects-5_4008	36	0	Cockroaches	insects	100.0
+taxongroup	Coc-65ef_79_Cockroaches-1	Coc-65ef_79_insects-4	Coc-65ef_79_Cockroaches-1_1903	79	Coc-65ef_79_insects-4_4008	79	0	Cockroaches	insects	100.0
+taxongroup	Coc-65ef_163_Cockroaches-1	Coc-65ef_163_insects-6	Coc-65ef_163_Cockroaches-1_1903	163	Coc-65ef_163_insects-6_4008	163	0	Cockroaches	insects	100.0
+taxongroup	Coc3b21_5_Cockroaches-1	Coc3b21_5_insects-13	Coc3b21_5_Cockroaches-1_1903	5	Coc3b21_5_insects-13_4008	5	0	Cockroaches	insects	100.0
+taxongroup	Swa-27b4_228_Cockroaches-4	Swa-27b4_228_insects-2	Swa-27b4_228_Cockroaches-4_1903	228	Swa-27b4_228_insects-2_4008	228	0	Cockroaches	insects	100.0
+taxongroup	Bee-1811_4_Coleoptera-2	Bee-1811_4_animal-30	Bee-1811_4_Coleoptera-2_1661	4	Bee-1811_4_animal-30_44	4	0	Coleoptera	Animals	100.0
+taxongroup	Lit-f642_64_Coleoptera-8	Lit-f642_64_insects-2	Lit-f642_64_Coleoptera-8_1661	64	Lit-f642_64_insects-2_4008	64	0	Coleoptera	insects	100.0
+taxongroup	Fly-ac51_36_Coleoptera-20	Fly-ac51_36_insects-5	Fly-ac51_36_Coleoptera-20_1661	36	Fly-ac51_36_insects-5_4008	36	0	Coleoptera	insects	100.0
+taxongroup	Lam-c047_2_worm-8	Lam-c047_2_Lampyris-28	Lam-c047_2_worm-8_2653	2	Lam-c047_2_Lampyris-28_1096	2	0	Common glow-worm	Lampyris	100.0
+taxongroup	Lam23fd_2_worms-4	Lam23fd_2_beetles-8	Lam23fd_2_worms-4_2653	2	Lam23fd_2_beetles-8_4669	2	0	Common glow-worm	beetles	100.0
+taxongroup	Lam-c047_2_worm-8	Lam-c047_2_beetle-24	Lam-c047_2_worm-8_2653	2	Lam-c047_2_beetle-24_4669	2	0	Common glow-worm	beetles	100.0
+taxongroup	Bum-e9d6_331_Diptera-33	Bum-e9d6_331_Insects-22	Bum-e9d6_331_Diptera-33_2279	331	Bum-e9d6_331_Insects-22_397	331	0	Diptera	Insects	100.0
+taxongroup	Cop-86c6_51_Diptera-14	Cop-86c6_51_insects-6	Cop-86c6_51_Diptera-14_2279	51	Cop-86c6_51_insects-6_4008	51	0	Diptera	insects	100.0
+taxongroup	Odo-661a_97_Dragonfly-49	Odo-661a_97_Odonata-46	Odo-661a_97_Dragonfly-49_1387	97	Odo-661a_97_Odonata-46_2943	97	0	Dragonflies	Odonata	100.0
+taxongroup	Odo-661a_97_Dragonfly-49	Odo-661a_97_Odonata-42	Odo-661a_97_Dragonfly-49_1387	97	Odo-661a_97_Odonata-42_2943	97	0	Dragonflies	Odonata	100.0
+taxongroup	Bee-1811_516_beetle-15	Bee-1811_516_Beetle-4	Bee-1811_516_beetle-15_2068	516	Bee-1811_516_Beetle-4_1660	516	0	Dung beetles	Beetles	100.0
+taxongroup	Dun-cad0_74_beetle-51	Dun-cad0_74_Beetle-12	Dun-cad0_74_beetle-51_2068	74	Dun-cad0_74_Beetle-12_1660	74	0	Dung beetles	Beetles	100.0
+taxongroup	Dun9430_10_beetles-8	Dun9430_10_beetles-8	Dun9430_10_beetles-8_2068	10	Dun9430_10_beetles-8_4669	10	0	Dung beetles	beetles	100.0
+taxongroup	Dun9430_20_beetles-3	Dun9430_20_beetles-3	Dun9430_20_beetles-3_2068	20	Dun9430_20_beetles-3_4669	20	0	Dung beetles	beetles	100.0
+taxongroup	Dun9430_14_beetles-19	Dun9430_14_beetle-10	Dun9430_14_beetles-19_2068	14	Dun9430_14_beetle-10_4669	14	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetle-62	Dun-cad0_147_beetles-9	Dun-cad0_147_beetle-62_2068	147	Dun-cad0_147_beetles-9_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_33_beetle-5	Dun-cad0_33_beetle-5	Dun-cad0_33_beetle-5_2068	33	Dun-cad0_33_beetle-5_4669	33	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_135_beetle-16	Dun-cad0_135_beetle-16	Dun-cad0_135_beetle-16_2068	135	Dun-cad0_135_beetle-16_4669	135	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_69_beetle-4	Dun-cad0_69_beetle-4	Dun-cad0_69_beetle-4_2068	69	Dun-cad0_69_beetle-4_4669	69	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-9	Dun-cad0_147_beetles-51	Dun-cad0_147_beetles-9_2068	147	Dun-cad0_147_beetles-51_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_87_beetle-17	Dun-cad0_87_beetle-17	Dun-cad0_87_beetle-17_2068	87	Dun-cad0_87_beetle-17_4669	87	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetle-62	Dun-cad0_147_beetles-51	Dun-cad0_147_beetle-62_2068	147	Dun-cad0_147_beetles-51_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetle-57	Dun-cad0_147_beetles-89	Dun-cad0_147_beetle-57_2068	147	Dun-cad0_147_beetles-89_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_51_beetle-11	Dun-cad0_51_beetle-11	Dun-cad0_51_beetle-11_2068	51	Dun-cad0_51_beetle-11_4669	51	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_51_beetle-11	Dun-cad0_51_beetles-18	Dun-cad0_51_beetle-11_2068	51	Dun-cad0_51_beetles-18_4669	51	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-9	Dun-cad0_147_beetles-9	Dun-cad0_147_beetles-9_2068	147	Dun-cad0_147_beetles-9_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetle-57	Dun-cad0_147_beetles-51	Dun-cad0_147_beetle-57_2068	147	Dun-cad0_147_beetles-51_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun9430_14_beetles-19	Dun9430_14_beetles-19	Dun9430_14_beetles-19_2068	14	Dun9430_14_beetles-19_4669	14	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-9	Dun-cad0_147_beetles-89	Dun-cad0_147_beetles-9_2068	147	Dun-cad0_147_beetles-89_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun9430_14_beetle-10	Dun9430_14_beetle-10	Dun9430_14_beetle-10_2068	14	Dun9430_14_beetle-10_4669	14	0	Dung beetles	beetles	100.0
+taxongroup	Bon-c081_278_beetles-9	Bon-c081_278_beetles-9	Bon-c081_278_beetles-9_2068	278	Bon-c081_278_beetles-9_4669	278	0	Dung beetles	beetles	100.0
+taxongroup	Dun9430_17_beetle-8	Dun9430_17_beetle-8	Dun9430_17_beetle-8_2068	17	Dun9430_17_beetle-8_4669	17	0	Dung beetles	beetles	100.0
+taxongroup	Dun9430_25_beetle-7	Dun9430_25_beetle-7	Dun9430_25_beetle-7_2068	25	Dun9430_25_beetle-7_4669	25	0	Dung beetles	beetles	100.0
+taxongroup	Dun9430_4_beetle-18	Dun9430_4_beetle-18	Dun9430_4_beetle-18_2068	4	Dun9430_4_beetle-18_4669	4	0	Dung beetles	beetles	100.0
+taxongroup	Dun9430_14_beetle-10	Dun9430_14_beetles-19	Dun9430_14_beetle-10_2068	14	Dun9430_14_beetles-19_4669	14	0	Dung beetles	beetles	100.0
+taxongroup	Copb941_15_beetles-3	Copb941_15_beetles-3	Copb941_15_beetles-3_2068	15	Copb941_15_beetles-3_4669	15	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_141_beetle-6	Dun-cad0_141_beetle-29	Dun-cad0_141_beetle-6_2068	141	Dun-cad0_141_beetle-29_4669	141	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-9	Dun-cad0_147_beetle-57	Dun-cad0_147_beetles-9_2068	147	Dun-cad0_147_beetle-57_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-89	Dun-cad0_147_beetles-9	Dun-cad0_147_beetles-89_2068	147	Dun-cad0_147_beetles-9_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_65_beetle-17	Dun-cad0_65_beetle-17	Dun-cad0_65_beetle-17_2068	65	Dun-cad0_65_beetle-17_4669	65	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-9	Dun-cad0_147_beetle-62	Dun-cad0_147_beetles-9_2068	147	Dun-cad0_147_beetle-62_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetles-9	Dun-cad0_147_beetles-32	Dun-cad0_147_beetles-9_2068	147	Dun-cad0_147_beetles-32_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_75_beetle-4	Dun-cad0_75_beetle-4	Dun-cad0_75_beetle-4_2068	75	Dun-cad0_75_beetle-4_4669	75	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetle-62	Dun-cad0_147_beetles-89	Dun-cad0_147_beetle-62_2068	147	Dun-cad0_147_beetles-89_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Dun-cad0_147_beetle-57	Dun-cad0_147_beetle-62	Dun-cad0_147_beetle-57_2068	147	Dun-cad0_147_beetle-62_4669	147	0	Dung beetles	beetles	100.0
+taxongroup	Bee-ace3_47_beetles-19	Bee-ace3_47_animal-3	Bee-ace3_47_beetles-19_4669	47	Bee-ace3_47_animal-3_44	47	0	beetles	Animals	100.0
+taxongroup	Bee-1811_372_beetles-40	Bee-1811_372_animal-13	Bee-1811_372_beetles-40_4669	372	Bee-1811_372_animal-13_44	372	0	beetles	Animals	100.0
+taxongroup	Odo-661a_70_dragonflies-23	Odo-661a_70_insects-13	Odo-661a_70_dragonflies-23_4546	70	Odo-661a_70_insects-13_4008	70	0	dragonflies	insects	100.0
+taxongroup	Odo-661a_10_dragonfly-3	Odo-661a_10_Odonata-16	Odo-661a_10_dragonfly-3_4546	10	Odo-661a_10_Odonata-16_2943	10	0	dragonflies	Odonata	100.0
+taxongroup	Odo-661a_96_dragonflies-4	Odo-661a_96_Odonata-3	Odo-661a_96_dragonflies-4_4546	96	Odo-661a_96_Odonata-3_2943	96	0	dragonflies	Odonata	100.0
+taxongroup	Odo-661a_96_dragonflies-4	Odo-661a_96_Odonata-20	Odo-661a_96_dragonflies-4_4546	96	Odo-661a_96_Odonata-20_2943	96	0	dragonflies	Odonata	100.0
+taxongroup	Dra-48f6_29_dragonflies-28	Dra-48f6_29_Odonata-5	Dra-48f6_29_dragonflies-28_4546	29	Dra-48f6_29_Odonata-5_2943	29	0	dragonflies	Odonata	100.0
+taxongroup	Dra-48f6_2_dragonfly-2	Dra-48f6_2_Odonata-15	Dra-48f6_2_dragonfly-2_4546	2	Dra-48f6_2_Odonata-15_2943	2	0	dragonflies	Odonata	100.0
+taxongroup	Broe6e5_4_dragonflies-29	Broe6e5_4_animals-20	Broe6e5_4_dragonflies-29_4546	4	Broe6e5_4_animals-20_3812	4	0	dragonflies	animals	100.0
+taxongroup	Bee-1811_372_dragonflies-30	Bee-1811_372_animal-13	Bee-1811_372_dragonflies-30_4546	372	Bee-1811_372_animal-13_3812	372	0	dragonflies	animals	100.0
+taxongroup	Com-0bc9_64_dragonflies-8	Com-0bc9_64_animal-2	Com-0bc9_64_dragonflies-8_4546	64	Com-0bc9_64_animal-2_3812	64	0	dragonflies	animals	100.0
+taxongroup	Mer-5a4a_112_dragonflies-35	Mer-5a4a_112_animals-31	Mer-5a4a_112_dragonflies-35_4546	112	Mer-5a4a_112_animals-31_3812	112	0	dragonflies	animals	100.0
+taxongroup	Red-2707_35_dragonflies-25	Red-2707_35_animal-2	Red-2707_35_dragonflies-25_4546	35	Red-2707_35_animal-2_3812	35	0	dragonflies	animals	100.0
+taxongroup	Mal-71cc_108_dragonflies-25	Mal-71cc_108_arthropods-34	Mal-71cc_108_dragonflies-25_4546	108	Mal-71cc_108_arthropods-34_4632	108	0	dragonflies	arthropods	100.0
+taxongroup	Ins-960c_331_dragonflies-11	Ins-960c_331_insects-5	Ins-960c_331_dragonflies-11_4546	331	Ins-960c_331_insects-5_4008	331	0	dragonflies	insects	100.0
+taxongroup	May-973b_3_dragonflies-18	May-973b_3_insects-10	May-973b_3_dragonflies-18_4546	3	May-973b_3_insects-10_4008	3	0	dragonflies	insects	100.0
+taxongroup	Met-e231_30_dragonflies-8	Met-e231_30_insects-2	Met-e231_30_dragonflies-8_4546	30	Met-e231_30_insects-2_4008	30	0	dragonflies	insects	100.0
+taxongroup	Ort-3af1_2_crickets-36	Ort-3af1_2_insects-27	Ort-3af1_2_crickets-36_5545	2	Ort-3af1_2_insects-27_4008	2	0	bush crickets	insects	100.0
+taxongroup	Pre-0725_30_dragonflies-10	Pre-0725_30_insects-5	Pre-0725_30_dragonflies-10_4546	30	Pre-0725_30_insects-5_4008	30	0	dragonflies	insects	100.0
+taxongroup	Cam-4bd8_157_dragonflies-22	Cam-4bd8_157_insects-3	Cam-4bd8_157_dragonflies-22_4546	157	Cam-4bd8_157_insects-3_4008	157	0	dragonflies	insects	100.0
+taxongroup	Cam-4bd8_157_dragonflies-8	Cam-4bd8_157_insects-3	Cam-4bd8_157_dragonflies-8_4546	157	Cam-4bd8_157_insects-3_4008	157	0	dragonflies	insects	100.0
+taxongroup	Bee-ace3_239_dragonflies-12	Bee-ace3_239_insects-3	Bee-ace3_239_dragonflies-12_4546	239	Bee-ace3_239_insects-3_4008	239	0	dragonflies	insects	100.0
+taxongroup	Com-0bc9_64_dragonflies-8	Com-0bc9_64_insects-5	Com-0bc9_64_dragonflies-8_4546	64	Com-0bc9_64_insects-5_4008	64	0	dragonflies	insects	100.0
+taxongroup	Dra-48f6_17_dragonflies-51	Dra-48f6_17_insects-8	Dra-48f6_17_dragonflies-51_4546	17	Dra-48f6_17_insects-8_4008	17	0	dragonflies	insects	100.0
+taxongroup	Sta-7425_15_dragonflies-29	Sta-7425_15_insects-18	Sta-7425_15_dragonflies-29_4546	15	Sta-7425_15_insects-18_4008	15	0	dragonflies	insects	100.0
+taxongroup	Swa-27b4_252_dragonflies-15	Swa-27b4_252_insects-8	Swa-27b4_252_dragonflies-15_4546	252	Swa-27b4_252_insects-8_4008	252	0	dragonflies	insects	100.0
+taxongroup	Spa-e46a_8_dragonflies-18	Spa-e46a_8_insects-14	Spa-e46a_8_dragonflies-18_4546	8	Spa-e46a_8_insects-14_4008	8	0	dragonflies	insects	100.0
+taxongroup	Dun-cad0_74_beetle-40	Dun-cad0_74_Beetle-12	Dun-cad0_74_beetle-40_4874	74	Dun-cad0_74_Beetle-12_1660	74	0	dung beetles	Beetles	100.0
+taxongroup	Odo-661a_2_dragonflies-12	Odo-661a_2_Odonata-1	Odo-661a_2_dragonflies-12_4546	2	Odo-661a_2_Odonata-1_2943	2	0	dragonflies	Odonata	100.0
+taxongroup	Odo-661a_92_dragonflies-12	Odo-661a_92_Odonata-3	Odo-661a_92_dragonflies-12_4546	92	Odo-661a_92_Odonata-3_2943	92	0	dragonflies	Odonata	100.0
+taxongroup	Odo2a3e_22_dragonflies-3	Odo2a3e_22_Damselflies-1	Odo2a3e_22_dragonflies-3_4546	22	Odo2a3e_22_Damselflies-1_2942	22	0	dragonflies	Damselflies and dragonflies	100.0
+taxongroup	Coc-65ef_258_cockroach-2	Coc-65ef_258_animal-34	Coc-65ef_258_cockroach-2_4790	258	Coc-65ef_258_animal-34_44	258	0	cockroaches	Animals	100.0
+taxongroup	Poi-3a9d_28_cockroaches-28	Poi-3a9d_28_animals-18	Poi-3a9d_28_cockroaches-28_4790	28	Poi-3a9d_28_animals-18_44	28	0	cockroaches	Animals	100.0
+taxongroup	Tar-edfc_82_cockroaches-18	Tar-edfc_82_arthropods-12	Tar-edfc_82_cockroaches-18_4790	82	Tar-edfc_82_arthropods-12_4632	82	0	cockroaches	arthropods	100.0
+taxongroup	Bla-975a_2_cockroaches-9	Bla-975a_2_insects-6	Bla-975a_2_cockroaches-9_4790	2	Bla-975a_2_insects-6_4008	2	0	cockroaches	insects	100.0
+taxongroup	Met-e231_30_cockroaches-4	Met-e231_30_insects-2	Met-e231_30_cockroaches-4_4790	30	Met-e231_30_insects-2_4008	30	0	cockroaches	insects	100.0
+taxongroup	Man-05b8_22_cockroaches-20	Man-05b8_22_insects-6	Man-05b8_22_cockroaches-20_4790	22	Man-05b8_22_insects-6_4008	22	0	cockroaches	insects	100.0
+taxongroup	Coc-65ef_170_cockroaches-2	Coc-65ef_170_insects-39	Coc-65ef_170_cockroaches-2_4790	170	Coc-65ef_170_insects-39_4008	170	0	cockroaches	insects	100.0
+taxongroup	Coc-65ef_140_cockroaches-5	Coc-65ef_140_insects-3	Coc-65ef_140_cockroaches-5_4790	140	Coc-65ef_140_insects-3_4008	140	0	cockroaches	insects	100.0
+taxongroup	Coc-65ef_134_cockroaches-5	Coc-65ef_134_insects-3	Coc-65ef_134_cockroaches-5_4790	134	Coc-65ef_134_insects-3_4008	134	0	cockroaches	insects	100.0
+taxongroup	Sem-88a0_34_cockroaches-15	Sem-88a0_34_insects-8	Sem-88a0_34_cockroaches-15_4790	34	Sem-88a0_34_insects-8_4008	34	0	cockroaches	insects	100.0
+taxongroup	Poi-3a9d_28_cockroaches-28	Poi-3a9d_28_insects-15	Poi-3a9d_28_cockroaches-28_4790	28	Poi-3a9d_28_insects-15_4008	28	0	cockroaches	insects	100.0
+taxongroup	Des-78ef_2_locust-3	Des-78ef_2_Acrididae-25	Des-78ef_2_locust-3_4859	2	Des-78ef_2_Acrididae-25_439	2	0	desert locust	Acrididae	100.0
+taxongroup	Des-78ef_283_locust-7	Des-78ef_283_Schistocerca-9	Des-78ef_283_locust-7_4859	283	Des-78ef_283_Schistocerca-9_1268	283	0	desert locust	Schistocerca	100.0
+taxongroup	Des-78ef_2_locust-3	Des-78ef_2_Schistocerca-5	Des-78ef_2_locust-3_4859	2	Des-78ef_2_Schistocerca-5_1268	2	0	desert locust	Schistocerca	100.0
+taxongroup	Ani-ab87_79_locust-7	Ani-ab87_79_Schistocerca-9	Ani-ab87_79_locust-7_4859	79	Ani-ab87_79_Schistocerca-9_1268	79	0	desert locust	Schistocerca	100.0
+taxongroup	Des-78ef_281_locust-7	Des-78ef_281_Schistocerca-9	Des-78ef_281_locust-7_4859	281	Des-78ef_281_Schistocerca-9_1268	281	0	desert locust	Schistocerca	100.0
+taxongroup	Des-78ef_249_locust-6	Des-78ef_249_Schistocerca-8	Des-78ef_249_locust-6_4859	249	Des-78ef_249_Schistocerca-8_1268	249	0	desert locust	Schistocerca	100.0
+taxongroup	Swa-27b4_247_locust-16	Swa-27b4_247_Schistocerca-18	Swa-27b4_247_locust-16_4859	247	Swa-27b4_247_Schistocerca-18_1268	247	0	desert locust	Schistocerca	100.0
+taxongroup	Dun-cad0_87_beetle-17	Dun-cad0_87_beetles-3	Dun-cad0_87_beetle-17_4874	87	Dun-cad0_87_beetles-3_4669	87	0	dung beetles	beetles	100.0
+taxongroup	Ort-3af1_2_crickets-47	Ort-3af1_2_insects-27	Ort-3af1_2_crickets-47_5545	2	Ort-3af1_2_insects-27_4008	2	0	bush crickets	insects	100.0
+taxongroup	Tet-438b_2_crickets-18	Tet-438b_2_Insects-1	Tet-438b_2_crickets-18_5545	2	Tet-438b_2_Insects-1_4008	2	0	bush crickets	insects	100.0
+taxongroup	Mer-5a4a_112_beetles-43	Mer-5a4a_112_animals-31	Mer-5a4a_112_beetles-43_4669	112	Mer-5a4a_112_animals-31_44	112	0	beetles	Animals	100.0
+taxongroup	Bee-ace3_208_beetles-22	Bee-ace3_208_insects-9	Bee-ace3_208_beetles-22_4669	208	Bee-ace3_208_insects-9_4008	208	0	beetles	insects	100.0
+taxongroup	Mal-71cc_108_beetles-19	Mal-71cc_108_arthropods-34	Mal-71cc_108_beetles-19_4669	108	Mal-71cc_108_arthropods-34_4632	108	0	beetles	arthropods	100.0
+taxongroup	Sol-e070_78_beetles-15	Sol-e070_78_arthropods-24	Sol-e070_78_beetles-15_4669	78	Sol-e070_78_arthropods-24_4632	78	0	beetles	arthropods	100.0
+taxongroup	Ven-77c9_97_beetles-10	Ven-77c9_97_arthropods-16	Ven-77c9_97_beetles-10_4669	97	Ven-77c9_97_arthropods-16_4632	97	0	beetles	arthropods	100.0
+taxongroup	Tar-edfc_82_beetles-14	Tar-edfc_82_arthropods-12	Tar-edfc_82_beetles-14_4669	82	Tar-edfc_82_arthropods-12_4632	82	0	beetles	arthropods	100.0
+taxongroup	Hem-78f3_5_beetles-28	Hem-78f3_5_arthropods-16	Hem-78f3_5_beetles-28_4669	5	Hem-78f3_5_arthropods-16_4632	5	0	beetles	arthropods	100.0
+taxongroup	Gro-2286_18_beetles-28	Gro-2286_18_arthropod-14	Gro-2286_18_beetles-28_4669	18	Gro-2286_18_arthropod-14_4632	18	0	beetles	arthropods	100.0
+taxongroup	Woo-c0f5_120_beetles-8	Woo-c0f5_120_arthropods-18	Woo-c0f5_120_beetles-8_4669	120	Woo-c0f5_120_arthropods-18_4632	120	0	beetles	arthropods	100.0
+taxongroup	Bee-1811_219_beetles-5	Bee-1811_219_insects-3	Bee-1811_219_beetles-5_4669	219	Bee-1811_219_insects-3_4008	219	0	beetles	insects	100.0
+taxongroup	Bee-1811_410_beetles-5	Bee-1811_410_insects-11	Bee-1811_410_beetles-5_4669	410	Bee-1811_410_insects-11_4008	410	0	beetles	insects	100.0
+taxongroup	Bee-1811_119_beetles-5	Bee-1811_119_insects-3	Bee-1811_119_beetles-5_4669	119	Bee-1811_119_insects-3_4008	119	0	beetles	insects	100.0
+taxongroup	Bee-1811_8_beetle-6	Bee-1811_8_insects-13	Bee-1811_8_beetle-6_4669	8	Bee-1811_8_insects-13_4008	8	0	beetles	insects	100.0
+taxongroup	Ame-35ae_258_beetles-19	Ame-35ae_258_insects-8	Ame-35ae_258_beetles-19_4669	258	Ame-35ae_258_insects-8_4008	258	0	beetles	insects	100.0
+taxongroup	Aqu-83c9_310_beetles-14	Aqu-83c9_310_insects-4	Aqu-83c9_310_beetles-14_4669	310	Aqu-83c9_310_insects-4_4008	310	0	beetles	insects	100.0
+taxongroup	Bee-1811_508_beetles-3	Bee-1811_508_insects-7	Bee-1811_508_beetles-3_4669	508	Bee-1811_508_insects-7_4008	508	0	beetles	insects	100.0
+taxongroup	Ort-3af1_2_crickets-47	Ort-3af1_2_grasshoppers-31	Ort-3af1_2_crickets-47_5545	2	Ort-3af1_2_grasshoppers-31_5288	2	0	bush crickets	grasshoppers and crickets	100.0
+taxongroup	Bee-1811_434_beetles-12	Bee-1811_434_insects-2	Bee-1811_434_beetles-12_4669	434	Bee-1811_434_insects-2_4008	434	0	beetles	insects	100.0
+taxongroup	Bee-1811_473_beetle-21	Bee-1811_473_insects-3	Bee-1811_473_beetle-21_4669	473	Bee-1811_473_insects-3_4008	473	0	beetles	insects	100.0
+taxongroup	Bee-1811_11_beetles-2	Bee-1811_11_insects-24	Bee-1811_11_beetles-2_4669	11	Bee-1811_11_insects-24_4008	11	0	beetles	insects	100.0
+taxongroup	Bee-1811_207_beetles-5	Bee-1811_207_insects-3	Bee-1811_207_beetles-5_4669	207	Bee-1811_207_insects-3_4008	207	0	beetles	insects	100.0
+taxongroup	Bee-1811_90_beetle-33	Bee-1811_90_insects-3	Bee-1811_90_beetle-33_4669	90	Bee-1811_90_insects-3_4008	90	0	beetles	insects	100.0
+taxongroup	Bee-1811_8_beetles-28	Bee-1811_8_insects-13	Bee-1811_8_beetles-28_4669	8	Bee-1811_8_insects-13_4008	8	0	beetles	insects	100.0
+taxongroup	Lon-b0af_472_beetle-17	Lon-b0af_472_insects-5	Lon-b0af_472_beetle-17_4669	472	Lon-b0af_472_insects-5_4008	472	0	beetles	insects	100.0
+taxongroup	Lon-b0af_471_beetle-16	Lon-b0af_471_insects-5	Lon-b0af_471_beetle-16_4669	471	Lon-b0af_471_insects-5_4008	471	0	beetles	insects	100.0
+taxongroup	Lea-7e84_45_beetles-16	Lea-7e84_45_insects-7	Lea-7e84_45_beetles-16_4669	45	Lea-7e84_45_insects-7_4008	45	0	beetles	insects	100.0
+taxongroup	Red-f843_177_beetles-20	Red-f843_177_insects-12	Red-f843_177_beetles-20_4669	177	Red-f843_177_insects-12_4008	177	0	beetles	insects	100.0
+taxongroup	Swa-27b4_252_beetles-17	Swa-27b4_252_insects-8	Swa-27b4_252_beetles-17_4669	252	Swa-27b4_252_insects-8_4008	252	0	beetles	insects	100.0
+taxongroup	Sta-7425_15_beetles-40	Sta-7425_15_insects-18	Sta-7425_15_beetles-40_4669	15	Sta-7425_15_insects-18_4008	15	0	beetles	insects	100.0
+taxongroup	Sho-fcec_76_beetles-17	Sho-fcec_76_Insects-1	Sho-fcec_76_beetles-17_4669	76	Sho-fcec_76_Insects-1_4008	76	0	beetles	insects	100.0
+taxongroup	Mee-4cdd_141_beetles-11	Mee-4cdd_141_arthropods-24	Mee-4cdd_141_beetles-11_4669	141	Mee-4cdd_141_arthropods-24_4632	141	0	beetles	arthropods	100.0
+taxongroup	Mee-4cdd_17_beetles-8	Mee-4cdd_17_arthropods-12	Mee-4cdd_17_beetles-8_4669	17	Mee-4cdd_17_arthropods-12_4632	17	0	beetles	arthropods	100.0
+taxongroup	Kle-14e2_4_beetles-18	Kle-14e2_4_arthropods-4	Kle-14e2_4_beetles-18_4669	4	Kle-14e2_4_arthropods-4_4632	4	0	beetles	arthropods	100.0
+taxongroup	Bee-1811_361_beetles-5	Bee-1811_361_arthropods-22	Bee-1811_361_beetles-5_4669	361	Bee-1811_361_arthropods-22_4632	361	0	beetles	arthropods	100.0
+taxongroup	Sil-d352_74_beetles-9	Sil-d352_74_animal-18	Sil-d352_74_beetles-9_4669	74	Sil-d352_74_animal-18_44	74	0	beetles	Animals	100.0
+taxongroup	Ele-f6cf_252_beetles-23	Ele-f6cf_252_animals-18	Ele-f6cf_252_beetles-23_4669	252	Ele-f6cf_252_animals-18_44	252	0	beetles	Animals	100.0
+taxongroup	Sca-9161_12_beetles-11	Sca-9161_12_animal-7	Sca-9161_12_beetles-11_4669	12	Sca-9161_12_animal-7_44	12	0	beetles	Animals	100.0
+taxongroup	Sca-9161_30_beetles-9	Sca-9161_30_Animals-1	Sca-9161_30_beetles-9_4669	30	Sca-9161_30_Animals-1_44	30	0	beetles	Animals	100.0
+taxongroup	Hou-905b_222_beetles-18	Hou-905b_222_Animals-1	Hou-905b_222_beetles-18_4669	222	Hou-905b_222_Animals-1_44	222	0	beetles	Animals	100.0
+taxongroup	Gro-2286_25_beetles-10	Gro-2286_25_animals-38	Gro-2286_25_beetles-10_4669	25	Gro-2286_25_animals-38_44	25	0	beetles	Animals	100.0
+taxongroup	Gre-e288_95_beetles-46	Gre-e288_95_animals-5	Gre-e288_95_beetles-46_4669	95	Gre-e288_95_animals-5_44	95	0	beetles	Animals	100.0
+taxongroup	ont4cb2_52_beetles-7	ont4cb2_52_animal-18	ont4cb2_52_beetles-7_4669	52	ont4cb2_52_animal-18_44	52	0	beetles	Animals	100.0
+taxongroup	Aes-3859_30_beetles-4	Aes-3859_30_Insecta-1	Aes-3859_30_beetles-4_4669	30	Aes-3859_30_Insecta-1_396	30	0	beetles	Insecta	100.0
+taxongroup	Bee-1811_361_beetles-2	Bee-1811_361_arthropods-22	Bee-1811_361_beetles-2_4669	361	Bee-1811_361_arthropods-22_4632	361	0	beetles	arthropods	100.0
+taxongroup	Arm-33e3_151_beetles-11	Arm-33e3_151_arthropods-5	Arm-33e3_151_beetles-11_4669	151	Arm-33e3_151_arthropods-5_4632	151	0	beetles	arthropods	100.0
+taxongroup	Sco-5d0f_172_beetles-14	Sco-5d0f_172_insects-5	Sco-5d0f_172_beetles-14_4669	172	Sco-5d0f_172_insects-5_4008	172	0	beetles	insects	100.0
+taxongroup	Mos-3d44_145_beetles-17	Mos-3d44_145_insects-5	Mos-3d44_145_beetles-17_4669	145	Mos-3d44_145_insects-5_4008	145	0	beetles	insects	100.0
+taxongroup	Pol-516e_4_beetles-45	Pol-516e_4_Insects-1	Pol-516e_4_beetles-45_4669	4	Pol-516e_4_Insects-1_4008	4	0	beetles	insects	100.0
+taxongroup	Pas-faac_2_beetles-27	Pas-faac_2_beetles-16	Pas-faac_2_beetles-27_5306	2	Pas-faac_2_beetles-16_4669	2	0	bess beetles	beetles	100.0
+taxongroup	Pas-faac_2_beetles-16	Pas-faac_2_beetles-16	Pas-faac_2_beetles-16_5306	2	Pas-faac_2_beetles-16_4669	2	0	bess beetles	beetles	100.0
+taxongroup	Pas-faac_2_beetles-6	Pas-faac_2_beetles-6	Pas-faac_2_beetles-6_5306	2	Pas-faac_2_beetles-6_4669	2	0	bess beetles	beetles	100.0
+taxongroup	Pas-faac_2_beetles-6	Pas-faac_2_beetles-27	Pas-faac_2_beetles-6_5306	2	Pas-faac_2_beetles-27_4669	2	0	bess beetles	beetles	100.0
+taxongroup	Pas-faac_2_beetles-6	Pas-faac_2_beetles-21	Pas-faac_2_beetles-6_5306	2	Pas-faac_2_beetles-21_4669	2	0	bess beetles	beetles	100.0
+taxongroup	Pas-faac_2_beetles-6	Pas-faac_2_beetles-16	Pas-faac_2_beetles-6_5306	2	Pas-faac_2_beetles-16_4669	2	0	bess beetles	beetles	100.0
+taxongroup	Pas-faac_2_beetles-27	Pas-faac_2_beetles-27	Pas-faac_2_beetles-27_5306	2	Pas-faac_2_beetles-27_4669	2	0	bess beetles	beetles	100.0
+taxongroup	Pas-faac_2_beetles-27	Pas-faac_2_beetles-21	Pas-faac_2_beetles-27_5306	2	Pas-faac_2_beetles-21_4669	2	0	bess beetles	beetles	100.0
+taxongroup	Pas-faac_2_beetles-21	Pas-faac_2_beetles-6	Pas-faac_2_beetles-21_5306	2	Pas-faac_2_beetles-6_4669	2	0	bess beetles	beetles	100.0
+taxongroup	Pas-faac_2_beetles-21	Pas-faac_2_beetles-27	Pas-faac_2_beetles-21_5306	2	Pas-faac_2_beetles-27_4669	2	0	bess beetles	beetles	100.0
+taxongroup	Pas-faac_2_beetles-21	Pas-faac_2_beetles-21	Pas-faac_2_beetles-21_5306	2	Pas-faac_2_beetles-21_4669	2	0	bess beetles	beetles	100.0
+taxongroup	Pas-faac_2_beetles-21	Pas-faac_2_beetles-16	Pas-faac_2_beetles-21_5306	2	Pas-faac_2_beetles-16_4669	2	0	bess beetles	beetles	100.0
+taxongroup	Pas-faac_2_beetles-16	Pas-faac_2_beetles-6	Pas-faac_2_beetles-16_5306	2	Pas-faac_2_beetles-6_4669	2	0	bess beetles	beetles	100.0
+taxongroup	Tet-438b_113_cricket-7	Tet-438b_113_animal-23	Tet-438b_113_cricket-7_5545	113	Tet-438b_113_animal-23_44	113	0	bush crickets	Animals	100.0
+taxongroup	Ort-3af1_2_crickets-36	Ort-3af1_2_Orthoptera-1	Ort-3af1_2_crickets-36_5545	2	Ort-3af1_2_Orthoptera-1_2962	2	0	bush crickets	Orthoptera	100.0
+taxongroup	Ort-3af1_2_crickets-47	Ort-3af1_2_Orthoptera-1	Ort-3af1_2_crickets-47_5545	2	Ort-3af1_2_Orthoptera-1_2962	2	0	bush crickets	Orthoptera	100.0
+taxongroup	Ort-3af1_2_crickets-36	Ort-3af1_2_grasshoppers-31	Ort-3af1_2_crickets-36_5545	2	Ort-3af1_2_grasshoppers-31_5288	2	0	bush crickets	grasshoppers and crickets	100.0
+taxongroup	Pas-faac_14_beetles-25	Pas-faac_14_beetles-25	Pas-faac_14_beetles-25_5306	14	Pas-faac_14_beetles-25_4669	14	0	bess beetles	beetles	100.0
+taxongroup	Pas-faac_2_beetles-16	Pas-faac_2_beetles-27	Pas-faac_2_beetles-16_5306	2	Pas-faac_2_beetles-27_4669	2	0	bess beetles	beetles	100.0
+taxongroup	Hou-905b_222_beetles-18	Hou-905b_222_insects-14	Hou-905b_222_beetles-18_4669	222	Hou-905b_222_insects-14_4008	222	0	beetles	insects	100.0
+taxongroup	Pas-faac_2_beetles-16	Pas-faac_2_beetles-21	Pas-faac_2_beetles-16_5306	2	Pas-faac_2_beetles-21_4669	2	0	bess beetles	beetles	100.0
+taxongroup	Hem-78f3_7_beetles-36	Hem-78f3_7_insects-2	Hem-78f3_7_beetles-36_4669	7	Hem-78f3_7_insects-2_4008	7	0	beetles	insects	100.0
+taxongroup	Ins-960c_67_beetles-9	Ins-960c_67_Insects-1	Ins-960c_67_beetles-9_4669	67	Ins-960c_67_Insects-1_4008	67	0	beetles	insects	100.0
+taxongroup	Ins-960c_273_beetle-13	Ins-960c_273_insects-3	Ins-960c_273_beetle-13_4669	273	Ins-960c_273_insects-3_4008	273	0	beetles	insects	100.0
+taxongroup	Ins-960c_367_beetle-7	Ins-960c_367_insects-2	Ins-960c_367_beetle-7_4669	367	Ins-960c_367_insects-2_4008	367	0	beetles	insects	100.0
+taxongroup	Ins-960c_118_beetles-11	Ins-960c_118_insects-7	Ins-960c_118_beetles-11_4669	118	Ins-960c_118_insects-7_4008	118	0	beetles	insects	100.0
+taxongroup	Fun-7367_357_beetles-14	Fun-7367_357_insects-10	Fun-7367_357_beetles-14_4669	357	Fun-7367_357_insects-10_4008	357	0	beetles	insects	100.0
+taxongroup	Fos-19c4_4_beetles-16	Fos-19c4_4_insects-12	Fos-19c4_4_beetles-16_4669	4	Fos-19c4_4_insects-12_4008	4	0	beetles	insects	100.0
+taxongroup	Bee-1811_354_beetles-10	Bee-1811_354_beetles-10	Bee-1811_354_beetles-10_5306	354	Bee-1811_354_beetles-10_4669	354	0	bess beetles	beetles	100.0
+taxongroup	Pas-faac_2_beetles-27	Pas-faac_2_beetles-6	Pas-faac_2_beetles-27_5306	2	Pas-faac_2_beetles-6_4669	2	0	bess beetles	beetles	100.0

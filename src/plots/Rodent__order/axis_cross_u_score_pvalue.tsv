@@ -1,0 +1,8 @@
+rel_role	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	1.0	0.0	0.0	0.0	0.0	0.0	0.0	Rodent__order	155
+adaptation_topic	0.0	1.0	0.0	0.003	0.001	0.001	0.006	Rodent__order	224
+free_topic	0.0	0.0	1.0	0.002	0.0	0.0	0.012	Rodent__order	884
+location_comment	0.0	0.003	0.002	1.0	0.001	0.013	0.071	Rodent__order	93
+location_topic	0.0	0.001	0.0	0.001	1.0	0.002	0.001	Rodent__order	219
+taxongroup_comment	0.0	0.001	0.0	0.013	0.002	1.0	0.003	Rodent__order	317
+taxongroup_topic	0.0	0.006	0.012	0.071	0.001	0.003	1.0	Rodent__order	290

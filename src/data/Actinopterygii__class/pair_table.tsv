@@ -1,0 +1,978 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Sho-489b_126_catfish-4	Sho-489b_126_wetlands-9	Sho-489b_126_catfish-4_1849	126	Sho-489b_126_wetlands-9_4542	126	0	Catfish	wetlands	100.0
+location	Atl-f357_30_salmon-3	Atl-f357_30_estuary-12	Atl-f357_30_salmon-3_1590	30	Atl-f357_30_estuary-12_4517	30	0	Atlantic salmon	estuaries	100.0
+location	Gob6890_1_goby-11	Gob6890_1_reef-4	Gob6890_1_goby-11_5016	1	Gob6890_1_reef-4_4532	1	0	gobies	reefs	100.0
+location	Fro-21e4_35_frogfish-3	Fro-21e4_35_waters-9	Fro-21e4_35_frogfish-3_4993	35	Fro-21e4_35_waters-9_4512	35	0	frogfish	brackish water	100.0
+location	Fro-21e4_35_frogfish-3	Fro-21e4_35_water-16	Fro-21e4_35_frogfish-3_4993	35	Fro-21e4_35_water-16_4512	35	0	frogfish	brackish water	100.0
+location	Gob-6481_106_goby-28	Gob-6481_106_reef-18	Gob-6481_106_goby-28_5016	106	Gob-6481_106_reef-18_4532	106	0	gobies	reefs	100.0
+location	Bro-dfd8_126_trout-14	Bro-dfd8_126_rivers-17	Bro-dfd8_126_trout-14_4741	126	Bro-dfd8_126_rivers-17_4533	126	0	brown trout	rivers and streams	100.0
+location	Sho-489b_125_catfish-6	Sho-489b_126_wetlands-9	Sho-489b_125_catfish-6_4761	125	Sho-489b_126_wetlands-9_4542	126	1	catfish	wetlands	50.0
+location	Atl-f357_31_salmon-20	Atl-f357_30_estuary-12	Atl-f357_31_salmon-20_1590	31	Atl-f357_30_estuary-12_4517	30	1	Atlantic salmon	estuaries	50.0
+location	Atl-f357_89_salmon-11	Atl-f357_88_estuary-12	Atl-f357_89_salmon-11_1590	89	Atl-f357_88_estuary-12_4517	88	1	Atlantic salmon	estuaries	50.0
+location	Wet-a585_292_catfish-10	Wet-a585_293_wetlands-17	Wet-a585_292_catfish-10_1849	292	Wet-a585_293_wetlands-17_4542	293	1	Catfish	wetlands	50.0
+location	Atl-f357_89_salmon-3	Atl-f357_88_estuary-12	Atl-f357_89_salmon-3_1590	89	Atl-f357_88_estuary-12_4517	88	1	Atlantic salmon	estuaries	50.0
+location	Gob-6481_19_Gobiidae-1	Gob-6481_18_reefs-3	Gob-6481_19_Gobiidae-1_2376	19	Gob-6481_18_reefs-3_4532	18	1	Gobiidae	reefs	43.5
+location	Com-264e_34_seadragons-15	Com-264e_35_reefs-15	Com-264e_34_seadragons-15_3066	34	Com-264e_35_reefs-15_4532	35	1	Common seadragon	reefs	41.5
+location	Bra-fdd7_38_fish-12	Bra-fdd7_37_estuaries-10	Bra-fdd7_38_fish-12_5324	38	Bra-fdd7_37_estuaries-10_4517	37	1	perch-like fishes	estuaries	37.5
+location	Bra-fdd7_38_fish-12	Bra-fdd7_39_estuaries-2	Bra-fdd7_38_fish-12_5324	38	Bra-fdd7_39_estuaries-2_4517	39	1	perch-like fishes	estuaries	37.5
+location	Bra-fdd7_38_fish-27	Bra-fdd7_39_estuaries-2	Bra-fdd7_38_fish-27_5324	38	Bra-fdd7_39_estuaries-2_4517	39	1	perch-like fishes	estuaries	37.5
+location	Bra-fdd7_38_fish-27	Bra-fdd7_37_estuaries-10	Bra-fdd7_38_fish-27_5324	38	Bra-fdd7_37_estuaries-10_4517	37	1	perch-like fishes	estuaries	37.5
+location	Bra-fdd7_38_fish-22	Bra-fdd7_37_estuaries-10	Bra-fdd7_38_fish-22_5324	38	Bra-fdd7_37_estuaries-10_4517	37	1	perch-like fishes	estuaries	37.5
+location	Bra-fdd7_38_fish-22	Bra-fdd7_39_estuaries-2	Bra-fdd7_38_fish-22_5324	38	Bra-fdd7_39_estuaries-2_4517	39	1	perch-like fishes	estuaries	37.5
+location	Gob-6481_36_goby-23	Gob-6481_34_mangrove-40	Gob-6481_36_goby-23_5016	36	Gob-6481_34_mangrove-40_4524	34	2	gobies	mangroves	33.333
+location	Gob-6481_36_goby-5	Gob-6481_34_mangrove-40	Gob-6481_36_goby-5_5016	36	Gob-6481_34_mangrove-40_4524	34	2	gobies	mangroves	33.333
+location	Fro-21e4_35_frogfish-3	Fro-21e4_33_reefs-12	Fro-21e4_35_frogfish-3_4993	35	Fro-21e4_33_reefs-12_4532	33	2	frogfish	reefs	33.333
+location	Gia-ae2f_20_catfish-16	Gia-ae2f_18_rivers-5	Gia-ae2f_20_catfish-16_1849	20	Gia-ae2f_18_rivers-5_4533	18	2	Catfish	rivers and streams	33.333
+location	Gob-6481_16_Gobies-1	Gob-6481_18_reefs-3	Gob-6481_16_Gobies-1_2375	16	Gob-6481_18_reefs-3_4532	18	2	Gobies	reefs	33.333
+location	Gob-6481_48_gobies-13	Gob-6481_46_waters-14	Gob-6481_48_gobies-13_5016	48	Gob-6481_46_waters-14_4512	46	2	gobies	brackish water	33.333
+location	Gob-6481_36_goby-13	Gob-6481_34_mangrove-40	Gob-6481_36_goby-13_5016	36	Gob-6481_34_mangrove-40_4524	34	2	gobies	mangroves	33.333
+location	Wet-a585_291_characid-12	Wet-a585_293_wetlands-17	Wet-a585_291_characid-12_4064	291	Wet-a585_293_wetlands-17_4542	293	2	characids	wetlands	33.333
+location	Bro-dfd8_124_trout-21	Bro-dfd8_126_rivers-17	Bro-dfd8_124_trout-21_4741	124	Bro-dfd8_126_rivers-17_4533	126	2	brown trout	rivers and streams	33.333
+location	Bro-dfd8_124_trout-17	Bro-dfd8_126_rivers-17	Bro-dfd8_124_trout-17_4741	124	Bro-dfd8_126_rivers-17_4533	126	2	brown trout	rivers and streams	33.333
+location	Atl-12cc_24_sailfish-2	Atl-12cc_22_ocean-11	Atl-12cc_24_sailfish-2_1586	24	Atl-12cc_22_ocean-11_4530	22	2	Atlantic sailfish	open ocean	33.333
+location	Atl-12cc_20_sailfish-3	Atl-12cc_22_ocean-11	Atl-12cc_20_sailfish-3_1586	20	Atl-12cc_22_ocean-11_4530	22	2	Atlantic sailfish	open ocean	33.333
+location	Bro-dfd8_124_trout-14	Bro-dfd8_126_rivers-17	Bro-dfd8_124_trout-14_4741	124	Bro-dfd8_126_rivers-17_4533	126	2	brown trout	rivers and streams	33.333
+location	Bro-dfd8_6_trout-8	Bro-dfd8_7_rivers-23	Bro-dfd8_6_trout-8_4741	6	Bro-dfd8_7_rivers-23_4533	7	1	brown trout	rivers and streams	33.0
+location	Com-264e_37_seadragon-2	Com-264e_35_reefs-15	Com-264e_37_seadragon-2_3066	37	Com-264e_35_reefs-15_4532	35	2	Common seadragon	reefs	27.667
+location	Com-264e_33_seadragon-4	Com-264e_35_reefs-15	Com-264e_33_seadragon-4_3066	33	Com-264e_35_reefs-15_4532	35	2	Common seadragon	reefs	27.667
+location	Bil-e183_52_billfish-2	Bil-e183_50_ocean-19	Bil-e183_52_billfish-2_4636	52	Bil-e183_50_ocean-19_4530	50	2	billfish	open ocean	27.667
+location	Gia-ae2f_20_characins-14	Gia-ae2f_18_rivers-5	Gia-ae2f_20_characins-14_4065	20	Gia-ae2f_18_rivers-5_4533	18	2	characins	rivers and streams	27.667
+location	Sald767_5_family-16	Sald767_8_ocean-6	Sald767_5_family-16_789	5	Sald767_8_ocean-6_4530	8	3	Salmon family	open ocean	25.0
+location	Gob-6481_103_gobies-2	Gob-6481_106_reef-18	Gob-6481_103_gobies-2_5016	103	Gob-6481_106_reef-18_4532	106	3	gobies	reefs	25.0
+location	Atl-12cc_19_sailfish-2	Atl-12cc_22_ocean-11	Atl-12cc_19_sailfish-2_1586	19	Atl-12cc_22_ocean-11_4530	22	3	Atlantic sailfish	open ocean	25.0
+location	Atl-f357_27_Salmo-11	Atl-f357_30_estuary-12	Atl-f357_27_Salmo-11_1260	27	Atl-f357_30_estuary-12_4517	30	3	Salmo	estuaries	25.0
+location	Gob-6481_37_gobies-2	Gob-6481_34_mangrove-40	Gob-6481_37_gobies-2_5016	37	Gob-6481_34_mangrove-40_4524	34	3	gobies	mangroves	25.0
+location	Gob-6481_31_gobies-9	Gob-6481_34_mangrove-40	Gob-6481_31_gobies-9_5016	31	Gob-6481_34_mangrove-40_4524	34	3	gobies	mangroves	25.0
+location	Sald767_5_family-2	Sald767_8_ocean-6	Sald767_5_family-2_789	5	Sald767_8_ocean-6_4530	8	3	Salmon family	open ocean	25.0
+location	Cro-9102_313_gigas-33	Cro-9102_310_swamps-7	Cro-9102_313_gigas-33_1541	313	Cro-9102_310_swamps-7_3808	310	3	Arapaima gigas	swamp	21.75
+location	Com-264e_32_seadragon-3	Com-264e_35_reefs-15	Com-264e_32_seadragon-3_3066	32	Com-264e_35_reefs-15_4532	35	3	Common seadragon	reefs	20.75
+location	Cro-9102_313_Arapaima-32	Cro-9102_310_swamps-7	Cro-9102_313_Arapaima-32_1542	313	Cro-9102_310_swamps-7_3808	310	3	Arapaima	swamp	20.75
+location	Cro-9102_313_arapaima-30	Cro-9102_310_swamps-7	Cro-9102_313_arapaima-30_4619	313	Cro-9102_310_swamps-7_3808	310	3	arapaima	swamp	20.75
+location	Bil-e183_47_billfish-12	Bil-e183_50_ocean-19	Bil-e183_47_billfish-12_4636	47	Bil-e183_50_ocean-19_4530	50	3	billfish	open ocean	20.75
+location	Sald767_12_family-9	Sald767_8_ocean-6	Sald767_12_family-9_789	12	Sald767_8_ocean-6_4530	8	4	Salmon family	open ocean	20.0
+location	Bio-20c0_83_fishes-19	Bio-20c0_79_ocean-10	Bio-20c0_83_fishes-19_3990	83	Bio-20c0_79_ocean-10_4515	79	4	ray-finned fishes	deep ocean	20.0
+location	Sal-702e_13_Salmonidae-1	Sal-702e_9_estuaries-13	Sal-702e_13_Salmonidae-1_788	13	Sal-702e_9_estuaries-13_4517	9	4	Salmonidae	estuaries	20.0
+location	Sald767_12_family-8	Sald767_8_ocean-6	Sald767_12_family-8_789	12	Sald767_8_ocean-6_4530	8	4	Salmon family	open ocean	20.0
+location	Sar-0f18_40_fishes-17	Sar-0f18_43_estuaries-15	Sar-0f18_40_fishes-17_3990	40	Sar-0f18_43_estuaries-15_4517	43	3	ray-finned fishes	estuaries	18.75
+location	Bro-dfd8_5_trout-2	Bro-dfd8_7_rivers-23	Bro-dfd8_5_trout-2_1806	5	Bro-dfd8_7_rivers-23_4533	7	2	Sea trout	rivers and streams	18.26
+location	Bro-dfd8_5_trout-35	Bro-dfd8_7_rivers-23	Bro-dfd8_5_trout-35_4742	5	Bro-dfd8_7_rivers-23_4533	7	2	sea trout	rivers and streams	18.26
+location	Gob-6481_50_Gobiidae-1	Gob-6481_46_waters-14	Gob-6481_50_Gobiidae-1_2376	50	Gob-6481_46_waters-14_4512	46	4	Gobiidae	brackish water	17.4
+location	Wet-a585_291_characid-12	Wet-a585_296_wetland-17	Wet-a585_291_characid-12_4064	291	Wet-a585_296_wetland-17_4542	296	5	characids	wetlands	16.667
+location	Gob-6481_29_gobies-6	Gob-6481_34_mangrove-40	Gob-6481_29_gobies-6_5016	29	Gob-6481_34_mangrove-40_4524	34	5	gobies	mangroves	16.667
+location	Gob-6481_29_gobies-9	Gob-6481_34_mangrove-40	Gob-6481_29_gobies-9_5016	29	Gob-6481_34_mangrove-40_4524	34	5	gobies	mangroves	16.667
+location	Gob-6481_29_gobies-13	Gob-6481_34_mangrove-40	Gob-6481_29_gobies-13_5016	29	Gob-6481_34_mangrove-40_4524	34	5	gobies	mangroves	16.667
+location	Wet-a585_291_characid-12	Wet-a585_296_wetlands-30	Wet-a585_291_characid-12_4064	291	Wet-a585_296_wetlands-30_4542	296	5	characids	wetlands	16.667
+location	Sal-702e_4_Salmo-17	Sal-702e_9_estuaries-13	Sal-702e_4_Salmo-17_1260	4	Sal-702e_9_estuaries-13_4517	9	5	Salmo	estuaries	16.667
+location	Sal-702e_4_Salmo-5	Sal-702e_9_estuaries-13	Sal-702e_4_Salmo-5_1260	4	Sal-702e_9_estuaries-13_4517	9	5	Salmo	estuaries	16.667
+location	Com-264e_39_seadragon-4	Com-264e_35_reefs-15	Com-264e_39_seadragon-4_3066	39	Com-264e_35_reefs-15_4532	35	4	Common seadragon	reefs	16.6
+location	Com-264e_31_seadragon-2	Com-264e_35_reefs-15	Com-264e_31_seadragon-2_3066	31	Com-264e_35_reefs-15_4532	35	4	Common seadragon	reefs	16.6
+location	Com-264e_39_seadragon-63	Com-264e_35_reefs-15	Com-264e_39_seadragon-63_3066	39	Com-264e_35_reefs-15_4532	35	4	Common seadragon	reefs	16.6
+location	Com-264e_39_seadragon-70	Com-264e_35_reefs-15	Com-264e_39_seadragon-70_3066	39	Com-264e_35_reefs-15_4532	35	4	Common seadragon	reefs	16.6
+location	Bil-e183_46_billfish-10	Bil-e183_50_ocean-19	Bil-e183_46_billfish-10_4636	46	Bil-e183_50_ocean-19_4530	50	4	billfish	open ocean	16.6
+location	Sal-702e_4_salar-6	Sal-702e_9_estuaries-13	Sal-702e_4_salar-6_1591	4	Sal-702e_9_estuaries-13_4517	9	5	Salmo salar	estuaries	14.5
+location	Pel-cab2_33_anglerfish-17	Pel-cab2_39_ocean-20	Pel-cab2_33_anglerfish-17_4598	33	Pel-cab2_39_ocean-20_1354	39	6	anglerfish	Deep ocean	14.286
+location	Gob6890_7_Gobies-1	Gob6890_1_reef-4	Gob6890_7_Gobies-1_2375	7	Gob6890_1_reef-4_4532	1	6	Gobies	reefs	14.286
+location	Wet-a585_291_characid-12	Wet-a585_297_wetlands-32	Wet-a585_291_characid-12_4064	291	Wet-a585_297_wetlands-32_4542	297	6	characids	wetlands	14.286
+location	Atl-12cc_28_sailfish-2	Atl-12cc_22_ocean-11	Atl-12cc_28_sailfish-2_1586	28	Atl-12cc_22_ocean-11_4530	22	6	Atlantic sailfish	open ocean	14.286
+location	Bro-dfd8_4_trout-34	Bro-dfd8_7_rivers-23	Bro-dfd8_4_trout-34_4742	4	Bro-dfd8_7_rivers-23_4533	7	3	sea trout	rivers and streams	13.695
+location	Bro-dfd8_4_trout-43	Bro-dfd8_7_rivers-23	Bro-dfd8_4_trout-43_4742	4	Bro-dfd8_7_rivers-23_4533	7	3	sea trout	rivers and streams	13.695
+location	Bro-dfd8_4_trout-12	Bro-dfd8_7_rivers-23	Bro-dfd8_4_trout-12_4742	4	Bro-dfd8_7_rivers-23_4533	7	3	sea trout	rivers and streams	13.695
+location	Bro-dfd8_4_trout-56	Bro-dfd8_7_rivers-23	Bro-dfd8_4_trout-56_1806	4	Bro-dfd8_7_rivers-23_4533	7	3	Sea trout	rivers and streams	13.695
+location	Bro-dfd8_11_Salmo-9	Bro-dfd8_7_rivers-23	Bro-dfd8_11_Salmo-9_1260	11	Bro-dfd8_7_rivers-23_4533	7	4	Salmo	rivers and streams	13.2
+location	Fro-21e4_26_frogfishes-23	Fro-21e4_33_reefs-12	Fro-21e4_26_frogfishes-23_4993	26	Fro-21e4_33_reefs-12_4532	33	7	frogfish	reefs	12.5
+location	Sar-0f18_36_Actinopterygii-18	Sar-0f18_43_estuaries-15	Sar-0f18_36_Actinopterygii-18_374	36	Sar-0f18_43_estuaries-15_4517	43	7	Actinopterygii	estuaries	12.5
+location	Sal-702e_2_Salmonidae-1	Sal-702e_9_estuaries-13	Sal-702e_2_Salmonidae-1_788	2	Sal-702e_9_estuaries-13_4517	9	7	Salmonidae	estuaries	12.5
+location	Bra-fdd7_38_fish-12	Bra-fdd7_33_water-2	Bra-fdd7_38_fish-12_5324	38	Bra-fdd7_33_water-2_1350	33	5	perch-like fishes	Brackish water	12.5
+location	Bra-fdd7_38_fish-22	Bra-fdd7_33_water-2	Bra-fdd7_38_fish-22_5324	38	Bra-fdd7_33_water-2_1350	33	5	perch-like fishes	Brackish water	12.5
+location	Bra-fdd7_38_fish-27	Bra-fdd7_33_water-2	Bra-fdd7_38_fish-27_5324	38	Bra-fdd7_33_water-2_1350	33	5	perch-like fishes	Brackish water	12.5
+location	Com-264e_29_seadragons-26	Com-264e_35_reefs-15	Com-264e_29_seadragons-26_3066	29	Com-264e_35_reefs-15_4532	35	6	Common seadragon	reefs	11.857
+location	Bro-dfd8_2_Salmo-5	Bro-dfd8_7_rivers-23	Bro-dfd8_2_Salmo-5_1260	2	Bro-dfd8_7_rivers-23_4533	7	5	Salmo	rivers and streams	11.0
+location	Bro-dfd8_2_Salmo-26	Bro-dfd8_7_rivers-23	Bro-dfd8_2_Salmo-26_1260	2	Bro-dfd8_7_rivers-23_4533	7	5	Salmo	rivers and streams	11.0
+location	Atl-12cc_29_albicans-3	Atl-12cc_22_ocean-11	Atl-12cc_29_albicans-3_1587	29	Atl-12cc_22_ocean-11_4530	22	7	Istiophorus albicans	open ocean	10.875
+location	Bra-fdd7_38_fish-22	Bra-fdd7_44_water-2	Bra-fdd7_38_fish-22_5324	38	Bra-fdd7_44_water-2_1350	44	6	perch-like fishes	Brackish water	10.714
+location	Bra-fdd7_38_fish-27	Bra-fdd7_44_water-2	Bra-fdd7_38_fish-27_5324	38	Bra-fdd7_44_water-2_1350	44	6	perch-like fishes	Brackish water	10.714
+location	Bra-fdd7_38_fish-12	Bra-fdd7_44_water-2	Bra-fdd7_38_fish-12_5324	38	Bra-fdd7_44_water-2_1350	44	6	perch-like fishes	Brackish water	10.714
+location	Aus-dd73_15_stickleback-6	Aus-dd73_21_rivers-5	Aus-dd73_15_stickleback-6_3523	15	Aus-dd73_21_rivers-5_4533	21	6	Three-spined stickleback	rivers and streams	10.714
+location	Bil-e183_57_billfish-11	Bil-e183_50_ocean-19	Bil-e183_57_billfish-11_4636	57	Bil-e183_50_ocean-19_4530	50	7	billfish	open ocean	10.375
+location	Sar-0f18_34_fishes-13	Sar-0f18_43_estuaries-15	Sar-0f18_34_fishes-13_3990	34	Sar-0f18_43_estuaries-15_4517	43	9	ray-finned fishes	estuaries	10.0
+location	Sar-0f18_34_fishes-3	Sar-0f18_43_estuaries-15	Sar-0f18_34_fishes-3_3990	34	Sar-0f18_43_estuaries-15_4517	43	9	ray-finned fishes	estuaries	10.0
+location	Fro-21e4_26_frogfishes-23	Fro-21e4_35_waters-9	Fro-21e4_26_frogfishes-23_4993	26	Fro-21e4_35_waters-9_4512	35	9	frogfish	brackish water	10.0
+location	Fro-21e4_26_frogfishes-23	Fro-21e4_35_water-16	Fro-21e4_26_frogfishes-23_4993	26	Fro-21e4_35_water-16_4512	35	9	frogfish	brackish water	10.0
+location	Sal-702e_18_Salmonidae-2	Sal-702e_9_estuaries-13	Sal-702e_18_Salmonidae-2_788	18	Sal-702e_9_estuaries-13_4517	9	9	Salmonidae	estuaries	10.0
+location	Gob-6481_37_gobies-2	Gob-6481_46_waters-14	Gob-6481_37_gobies-2_5016	37	Gob-6481_46_waters-14_4512	46	9	gobies	brackish water	10.0
+location	Wet-a585_291_characid-12	Wet-a585_282_wetlands-2	Wet-a585_291_characid-12_4064	291	Wet-a585_282_wetlands-2_4542	282	9	characids	wetlands	10.0
+location	Atl-f357_20_salmo-11	Atl-f357_30_estuary-12	Atl-f357_20_salmo-11_4456	20	Atl-f357_30_estuary-12_4517	30	10	salmo	estuaries	9.091
+location	Wet-a585_291_characid-12	Wet-a585_281_wetland-13	Wet-a585_291_characid-12_4064	291	Wet-a585_281_wetland-13_4542	281	10	characids	wetlands	9.091
+location	Gob-6481_36_goby-13	Gob-6481_46_waters-14	Gob-6481_36_goby-13_5016	36	Gob-6481_46_waters-14_4512	46	10	gobies	brackish water	9.091
+location	Gob-6481_36_goby-23	Gob-6481_46_waters-14	Gob-6481_36_goby-23_5016	36	Gob-6481_46_waters-14_4512	46	10	gobies	brackish water	9.091
+location	Gob-6481_36_goby-5	Gob-6481_46_waters-14	Gob-6481_36_goby-5_5016	36	Gob-6481_46_waters-14_4512	46	10	gobies	brackish water	9.091
+location	Atl-f357_20_Salmo-4	Atl-f357_30_estuary-12	Atl-f357_20_Salmo-4_1260	20	Atl-f357_30_estuary-12_4517	30	10	Salmo	estuaries	9.091
+location	Wet-a585_291_characid-12	Wet-a585_281_wetlands-2	Wet-a585_291_characid-12_4064	291	Wet-a585_281_wetlands-2_4542	281	10	characids	wetlands	9.091
+location	Gob-6481_57_gobies-3	Gob-6481_46_waters-14	Gob-6481_57_gobies-3_5016	57	Gob-6481_46_waters-14_4512	46	11	gobies	brackish water	8.333
+location	Bil-e183_59_billfish-2	Bil-e183_50_ocean-19	Bil-e183_59_billfish-2_4636	59	Bil-e183_50_ocean-19_4530	50	9	billfish	open ocean	8.3
+location	Atl-f357_20_salar-17	Atl-f357_30_estuary-12	Atl-f357_20_salar-17_1591	20	Atl-f357_30_estuary-12_4517	30	10	Salmo salar	estuaries	7.909
+location	Atl-f357_20_salar-5	Atl-f357_30_estuary-12	Atl-f357_20_salar-5_1591	20	Atl-f357_30_estuary-12_4517	30	10	Salmo salar	estuaries	7.909
+location	Fro-21e4_23_Antennariidae-15	Fro-21e4_33_reefs-12	Fro-21e4_23_Antennariidae-15_2315	23	Fro-21e4_33_reefs-12_4532	33	10	Antennariidae	reefs	7.909
+location	Gob-6481_58_goby-3	Gob-6481_46_waters-14	Gob-6481_58_goby-3_5016	58	Gob-6481_46_waters-14_4512	46	12	gobies	brackish water	7.692
+location	Fro-21e4_47_frogfishes-30	Fro-21e4_35_water-16	Fro-21e4_47_frogfishes-30_4993	47	Fro-21e4_35_water-16_4512	35	12	frogfish	brackish water	7.692
+location	Fro-21e4_47_frogfishes-30	Fro-21e4_35_waters-9	Fro-21e4_47_frogfishes-30_4993	47	Fro-21e4_35_waters-9_4512	35	12	frogfish	brackish water	7.692
+location	Bro-dfd8_15_Salmo-1	Bro-dfd8_7_rivers-23	Bro-dfd8_15_Salmo-1_1260	15	Bro-dfd8_7_rivers-23_4533	7	8	Salmo	rivers and streams	7.333
+location	Lat-c298_4_fishes-44	Lat-c298_17_reef-24	Lat-c298_4_fishes-44_3990	4	Lat-c298_17_reef-24_4532	17	13	ray-finned fishes	reefs	7.143
+location	Red-5937_30_piranhas-9	Red-5937_36_rivers-12	Red-5937_30_piranhas-9_5391	30	Red-5937_36_rivers-12_4533	36	6	red-bellied piranha	rivers and streams	7.071
+location	Bil-e183_39_billfish-9	Bil-e183_50_ocean-19	Bil-e183_39_billfish-9_4636	39	Bil-e183_50_ocean-19_4530	50	11	billfish	open ocean	6.917
+location	Bra-fdd7_38_fish-22	Bra-fdd7_28_rivers-23	Bra-fdd7_38_fish-22_5324	38	Bra-fdd7_28_rivers-23_4533	28	10	perch-like fishes	rivers and streams	6.818
+location	Bra-fdd7_38_fish-22	Bra-fdd7_28_rivers-13	Bra-fdd7_38_fish-22_5324	38	Bra-fdd7_28_rivers-13_4533	28	10	perch-like fishes	rivers and streams	6.818
+location	Bra-fdd7_38_fish-27	Bra-fdd7_28_rivers-13	Bra-fdd7_38_fish-27_5324	38	Bra-fdd7_28_rivers-13_4533	28	10	perch-like fishes	rivers and streams	6.818
+location	Bra-fdd7_38_fish-27	Bra-fdd7_28_rivers-23	Bra-fdd7_38_fish-27_5324	38	Bra-fdd7_28_rivers-23_4533	28	10	perch-like fishes	rivers and streams	6.818
+location	Bra-fdd7_38_fish-12	Bra-fdd7_28_rivers-13	Bra-fdd7_38_fish-12_5324	38	Bra-fdd7_28_rivers-13_4533	28	10	perch-like fishes	rivers and streams	6.818
+location	Bra-fdd7_38_fish-12	Bra-fdd7_28_rivers-23	Bra-fdd7_38_fish-12_5324	38	Bra-fdd7_28_rivers-23_4533	28	10	perch-like fishes	rivers and streams	6.818
+location	Fro-21e4_23_Antennariidae-15	Fro-21e4_35_waters-9	Fro-21e4_23_Antennariidae-15_2315	23	Fro-21e4_35_waters-9_4512	35	12	Antennariidae	brackish water	6.692
+location	Fro-21e4_23_Antennariidae-15	Fro-21e4_35_water-16	Fro-21e4_23_Antennariidae-15_2315	23	Fro-21e4_35_water-16_4512	35	12	Antennariidae	brackish water	6.692
+location	Fro-21e4_47_frogfishes-30	Fro-21e4_33_reefs-12	Fro-21e4_47_frogfishes-30_4993	47	Fro-21e4_33_reefs-12_4532	33	14	frogfish	reefs	6.667
+location	Sea-4a1d_143_fishes-46	Sea-4a1d_157_ocean-13	Sea-4a1d_143_fishes-46_3990	143	Sea-4a1d_157_ocean-13_4530	157	14	ray-finned fishes	open ocean	6.667
+location	Bil-e183_62_billfish-8	Bil-e183_50_ocean-19	Bil-e183_62_billfish-8_4636	62	Bil-e183_50_ocean-19_4530	50	12	billfish	open ocean	6.385
+location	Gob-6481_31_gobies-9	Gob-6481_46_waters-14	Gob-6481_31_gobies-9_5016	31	Gob-6481_46_waters-14_4512	46	15	gobies	brackish water	6.25
+location	Com-264e_48_eques-29	Com-264e_35_reefs-15	Com-264e_48_eques-29_2680	48	Com-264e_35_reefs-15_4532	35	13	Phycodurus eques	reefs	6.214
+location	Bil-e183_37_Billfish-1	Bil-e183_50_ocean-19	Bil-e183_37_Billfish-1_1588	37	Bil-e183_50_ocean-19_4530	50	13	Billfish	open ocean	5.929
+location	Sal-702e_25_Salmo-8	Sal-702e_9_estuaries-13	Sal-702e_25_Salmo-8_1260	25	Sal-702e_9_estuaries-13_4517	9	16	Salmo	estuaries	5.882
+location	Sal-702e_25_salmon-11	Sal-702e_9_estuaries-13	Sal-702e_25_salmon-11_1261	25	Sal-702e_9_estuaries-13_4517	9	16	Atlantic salmon and trout	estuaries	5.882
+location	Gia-ae2f_156_Perciformes-5	Gia-ae2f_172_rivers-5	Gia-ae2f_156_Perciformes-5_3033	156	Gia-ae2f_172_rivers-5_4533	172	16	Perciformes	rivers and streams	5.882
+location	Com-264e_18_seahorses-8	Com-264e_35_reefs-15	Com-264e_18_seahorses-8_4196	18	Com-264e_35_reefs-15_4532	35	17	seahorses and pipefish	reefs	5.556
+location	Bil-e183_36_billfish-5	Bil-e183_50_ocean-19	Bil-e183_36_billfish-5_4636	36	Bil-e183_50_ocean-19_4530	50	14	billfish	open ocean	5.533
+location	Gob-6481_19_Gobiidae-1	Gob-6481_34_mangrove-40	Gob-6481_19_Gobiidae-1_2376	19	Gob-6481_34_mangrove-40_4524	34	15	Gobiidae	mangroves	5.438
+location	Gia-ae2f_154_catfish-20	Gia-ae2f_172_rivers-5	Gia-ae2f_154_catfish-20_1849	154	Gia-ae2f_172_rivers-5_4533	172	18	Catfish	rivers and streams	5.263
+location	Gob-6481_16_Gobies-1	Gob-6481_34_mangrove-40	Gob-6481_16_Gobies-1_2375	16	Gob-6481_34_mangrove-40_4524	34	18	Gobies	mangroves	5.263
+location	Fro-21e4_51_frogfish-7	Fro-21e4_33_reefs-12	Fro-21e4_51_frogfish-7_4993	51	Fro-21e4_33_reefs-12_4532	33	18	frogfish	reefs	5.263
+location	Gob-6481_50_Gobiidae-1	Gob-6481_34_mangrove-40	Gob-6481_50_Gobiidae-1_2376	50	Gob-6481_34_mangrove-40_4524	34	16	Gobiidae	mangroves	5.118
+location	Cro-9102_313_gigas-33	Cro-9102_297_swamps-21	Cro-9102_313_gigas-33_1541	313	Cro-9102_297_swamps-21_3808	297	16	Arapaima gigas	swamp	5.118
+location	Wet-a585_291_characid-12	Wet-a585_310_wetland-3	Wet-a585_291_characid-12_4064	291	Wet-a585_310_wetland-3_4542	310	19	characids	wetlands	5.0
+location	Bra-fdd7_38_fish-27	Bra-fdd7_52_water-13	Bra-fdd7_38_fish-27_5324	38	Bra-fdd7_52_water-13_4512	52	14	perch-like fishes	brackish water	5.0
+location	Wet-a585_291_characid-12	Wet-a585_272_wetland-5	Wet-a585_291_characid-12_4064	291	Wet-a585_272_wetland-5_4542	272	19	characids	wetlands	5.0
+location	Bra-fdd7_38_fish-22	Bra-fdd7_52_water-13	Bra-fdd7_38_fish-22_5324	38	Bra-fdd7_52_water-13_4512	52	14	perch-like fishes	brackish water	5.0
+location	Bra-fdd7_38_fish-12	Bra-fdd7_52_water-13	Bra-fdd7_38_fish-12_5324	38	Bra-fdd7_52_water-13_4512	52	14	perch-like fishes	brackish water	5.0
+location	Aus-dd73_15_stickleback-6	Aus-dd73_6_rivers-17	Aus-dd73_15_stickleback-6_5558	15	Aus-dd73_6_rivers-17_4533	6	9	three-spined stickleback	rivers and streams	4.95
+location	Gia-ae2f_156_characins-25	Gia-ae2f_172_rivers-5	Gia-ae2f_156_characins-25_4065	156	Gia-ae2f_172_rivers-5_4533	172	16	characins	rivers and streams	4.882
+location	Cro-9102_313_Arapaima-32	Cro-9102_297_swamps-21	Cro-9102_313_Arapaima-32_1542	313	Cro-9102_297_swamps-21_3808	297	16	Arapaima	swamp	4.882
+location	Bil-e183_66_billfish-15	Bil-e183_50_ocean-19	Bil-e183_66_billfish-15_4636	66	Bil-e183_50_ocean-19_4530	50	16	billfish	open ocean	4.882
+location	Cro-9102_313_arapaima-30	Cro-9102_297_swamps-21	Cro-9102_313_arapaima-30_4619	313	Cro-9102_297_swamps-21_3808	297	16	arapaima	swamp	4.882
+location	Fro-21e4_15_Antennariidae-2	Fro-21e4_33_reefs-12	Fro-21e4_15_Antennariidae-2_2315	15	Fro-21e4_33_reefs-12_4532	33	18	Antennariidae	reefs	4.579
+location	Sar-0f18_36_Actinopterygii-18	Sar-0f18_57_swamp-2	Sar-0f18_36_Actinopterygii-18_374	36	Sar-0f18_57_swamp-2_3808	57	21	Actinopterygii	swamp	4.545
+location	Sar-0f18_27_fishes-4	Sar-0f18_43_estuaries-15	Sar-0f18_27_fishes-4_375	27	Sar-0f18_43_estuaries-15_4517	43	16	Ray-finned fishes	estuaries	4.412
+location	Bra-fdd7_38_fish-27	Bra-fdd7_54_ocean-23	Bra-fdd7_38_fish-27_5324	38	Bra-fdd7_54_ocean-23_4530	54	16	perch-like fishes	open ocean	4.412
+location	Bra-fdd7_38_fish-12	Bra-fdd7_54_ocean-23	Bra-fdd7_38_fish-12_5324	38	Bra-fdd7_54_ocean-23_4530	54	16	perch-like fishes	open ocean	4.412
+location	Bra-fdd7_38_fish-22	Bra-fdd7_54_ocean-23	Bra-fdd7_38_fish-22_5324	38	Bra-fdd7_54_ocean-23_4530	54	16	perch-like fishes	open ocean	4.412
+location	Gia-ae2f_154_characins-12	Gia-ae2f_172_rivers-5	Gia-ae2f_154_characins-12_4065	154	Gia-ae2f_172_rivers-5_4533	172	18	characins	rivers and streams	4.368
+location	Fro-21e4_14_Antennariidae-2	Fro-21e4_33_reefs-12	Fro-21e4_14_Antennariidae-2_2315	14	Fro-21e4_33_reefs-12_4532	33	19	Antennariidae	reefs	4.35
+location	Sar-0f18_34_fishes-3	Sar-0f18_57_swamp-2	Sar-0f18_34_fishes-3_3990	34	Sar-0f18_57_swamp-2_3808	57	23	ray-finned fishes	swamp	4.167
+location	Sar-0f18_34_fishes-13	Sar-0f18_57_swamp-2	Sar-0f18_34_fishes-13_3990	34	Sar-0f18_57_swamp-2_3808	57	23	ray-finned fishes	swamp	4.167
+location	Sar-0f18_40_fishes-17	Sar-0f18_57_swamp-2	Sar-0f18_40_fishes-17_3990	40	Sar-0f18_57_swamp-2_3808	57	17	ray-finned fishes	swamp	4.167
+location	Fro-21e4_15_Antennariidae-2	Fro-21e4_35_water-16	Fro-21e4_15_Antennariidae-2_2315	15	Fro-21e4_35_water-16_4512	35	20	Antennariidae	brackish water	4.143
+location	Fro-21e4_15_Antennariidae-2	Fro-21e4_35_waters-9	Fro-21e4_15_Antennariidae-2_2315	15	Fro-21e4_35_waters-9_4512	35	20	Antennariidae	brackish water	4.143
+location	Pel-cab2_33_anglerfish-17	Pel-cab2_9_ocean-8	Pel-cab2_33_anglerfish-17_4598	33	Pel-cab2_9_ocean-8_4530	9	24	anglerfish	open ocean	4.0
+location	Fro-21e4_14_Antennariidae-2	Fro-21e4_35_waters-9	Fro-21e4_14_Antennariidae-2_2315	14	Fro-21e4_35_waters-9_4512	35	21	Antennariidae	brackish water	3.955
+location	Fro-21e4_14_Antennariidae-2	Fro-21e4_35_water-16	Fro-21e4_14_Antennariidae-2_2315	14	Fro-21e4_35_water-16_4512	35	21	Antennariidae	brackish water	3.955
+location	Act-681d_154_Actinopterygii-4	Act-681d_129_swamp-5	Act-681d_154_Actinopterygii-4_374	154	Act-681d_129_swamp-5_3808	129	25	Actinopterygii	swamp	3.846
+location	Act-681d_154_Actinopterygii-11	Act-681d_129_swamp-5	Act-681d_154_Actinopterygii-11_374	154	Act-681d_129_swamp-5_3808	129	25	Actinopterygii	swamp	3.846
+location	Gob-6481_69_Gobiidae-1	Gob-6481_46_waters-14	Gob-6481_69_Gobiidae-1_2376	69	Gob-6481_46_waters-14_4512	46	23	Gobiidae	brackish water	3.625
+location	Bra-fdd7_38_fish-12	Bra-fdd7_18_Estuaries-1	Bra-fdd7_38_fish-12_5324	38	Bra-fdd7_18_Estuaries-1_1356	18	20	perch-like fishes	Estuaries	3.571
+location	Bra-fdd7_38_fish-27	Bra-fdd7_18_Estuaries-1	Bra-fdd7_38_fish-27_5324	38	Bra-fdd7_18_Estuaries-1_1356	18	20	perch-like fishes	Estuaries	3.571
+location	Bra-fdd7_38_fish-22	Bra-fdd7_18_Estuaries-1	Bra-fdd7_38_fish-22_5324	38	Bra-fdd7_18_Estuaries-1_1356	18	20	perch-like fishes	Estuaries	3.571
+location	Ama-9e7a_208_tambaqui-16	Ama-9e7a_236_rainforest-9	Ama-9e7a_208_tambaqui-16_5531	208	Ama-9e7a_236_rainforest-9_3811	236	28	tambaqui	rainforest	3.448
+location	Cro-9102_313_gigas-33	Cro-9102_288_swamps-10	Cro-9102_313_gigas-33_1541	313	Cro-9102_288_swamps-10_3808	288	25	Arapaima gigas	swamp	3.346
+location	Red-5937_22_piranha-5	Red-5937_36_rivers-12	Red-5937_22_piranha-5_5391	22	Red-5937_36_rivers-12_4533	36	14	red-bellied piranha	rivers and streams	3.3
+location	Gob-6481_16_Gobies-1	Gob-6481_46_waters-14	Gob-6481_16_Gobies-1_2375	16	Gob-6481_46_waters-14_4512	46	30	Gobies	brackish water	3.226
+location	Cro-9102_313_arapaima-30	Cro-9102_288_swamps-10	Cro-9102_313_arapaima-30_4619	313	Cro-9102_288_swamps-10_3808	288	25	arapaima	swamp	3.192
+location	Cro-9102_313_Arapaima-32	Cro-9102_288_swamps-10	Cro-9102_313_Arapaima-32_1542	313	Cro-9102_288_swamps-10_3808	288	25	Arapaima	swamp	3.192
+location	Pel-cab2_33_anglerfish-17	Pel-cab2_2_ocean-12	Pel-cab2_33_anglerfish-17_4598	33	Pel-cab2_2_ocean-12_4530	2	31	anglerfish	open ocean	3.125
+location	Gob-6481_19_Gobiidae-1	Gob-6481_46_waters-14	Gob-6481_19_Gobiidae-1_2376	19	Gob-6481_46_waters-14_4512	46	27	Gobiidae	brackish water	3.107
+location	Atl-f357_2_salar-6	Atl-f357_30_estuary-12	Atl-f357_2_salar-6_1591	2	Atl-f357_30_estuary-12_4517	30	28	Salmo salar	estuaries	3.0
+location	Gia-ae2f_205_catfish-13	Gia-ae2f_172_rivers-5	Gia-ae2f_205_catfish-13_4761	205	Gia-ae2f_172_rivers-5_4533	172	33	catfish	rivers and streams	2.941
+location	Wet-a585_292_catfish-10	Wet-a585_326_Wetlands-1	Wet-a585_292_catfish-10_4761	292	Wet-a585_326_Wetlands-1_1382	326	34	catfish	Wetlands	2.857
+location	Cro-9102_313_gigas-33	Cro-9102_283_swamps-17	Cro-9102_313_gigas-33_1541	313	Cro-9102_283_swamps-17_3808	283	30	Arapaima gigas	swamp	2.806
+location	Wet-a585_291_characid-12	Wet-a585_326_Wetlands-1	Wet-a585_291_characid-12_4064	291	Wet-a585_326_Wetlands-1_1382	326	35	characids	Wetlands	2.778
+location	Red-5937_13_piranhas-8	Red-5937_36_rivers-12	Red-5937_13_piranhas-8_5391	13	Red-5937_36_rivers-12_4533	36	23	red-bellied piranha	rivers and streams	2.75
+location	Cro-9102_313_gigas-33	Cro-9102_282_swamps-9	Cro-9102_313_gigas-33_1541	313	Cro-9102_282_swamps-9_3808	282	31	Arapaima gigas	swamp	2.719
+location	Bro-dfd8_90_salmon-13	Bro-dfd8_126_rivers-17	Bro-dfd8_90_salmon-13_1590	90	Bro-dfd8_126_rivers-17_4533	126	36	Atlantic salmon	rivers and streams	2.703
+location	Cro-9102_313_Arapaima-32	Cro-9102_283_swamps-17	Cro-9102_313_Arapaima-32_1542	313	Cro-9102_283_swamps-17_3808	283	30	Arapaima	swamp	2.677
+location	Bro-dfd8_96_trout-2	Bro-dfd8_126_rivers-17	Bro-dfd8_96_trout-2_1806	96	Bro-dfd8_126_rivers-17_4533	126	30	Sea trout	rivers and streams	2.677
+location	Cro-9102_313_arapaima-30	Cro-9102_283_swamps-17	Cro-9102_313_arapaima-30_4619	313	Cro-9102_283_swamps-17_3808	283	30	arapaima	swamp	2.677
+location	Gob-6481_50_Gobiidae-1	Gob-6481_18_reefs-3	Gob-6481_50_Gobiidae-1_2376	50	Gob-6481_18_reefs-3_4532	18	32	Gobiidae	reefs	2.636
+location	Sea-4a1d_143_fishes-46	Sea-4a1d_106_ocean-4	Sea-4a1d_143_fishes-46_3990	143	Sea-4a1d_106_ocean-4_4530	106	37	ray-finned fishes	open ocean	2.632
+location	Cro-9102_313_arapaima-30	Cro-9102_282_swamps-9	Cro-9102_313_arapaima-30_4619	313	Cro-9102_282_swamps-9_3808	282	31	arapaima	swamp	2.594
+location	Cro-9102_313_Arapaima-32	Cro-9102_282_swamps-9	Cro-9102_313_Arapaima-32_1542	313	Cro-9102_282_swamps-9_3808	282	31	Arapaima	swamp	2.594
+location	Bro-dfd8_88_salmon-16	Bro-dfd8_126_rivers-17	Bro-dfd8_88_salmon-16_1590	88	Bro-dfd8_126_rivers-17_4533	126	38	Atlantic salmon	rivers and streams	2.564
+location	Com-264e_2_taeniolatus-9	Com-264e_35_reefs-15	Com-264e_2_taeniolatus-9_3065	2	Com-264e_35_reefs-15_4532	35	33	Phyllopteryx taeniolatus	reefs	2.559
+location	Red-5937_11_characids-22	Red-5937_36_rivers-12	Red-5937_11_characids-22_4064	11	Red-5937_36_rivers-12_4533	36	25	characids	rivers and streams	2.538
+location	Red-5937_11_piranha-5	Red-5937_36_rivers-12	Red-5937_11_piranha-5_5391	11	Red-5937_36_rivers-12_4533	36	25	red-bellied piranha	rivers and streams	2.538
+location	Sar-0f18_4_Actinopterygii-14	Sar-0f18_43_estuaries-15	Sar-0f18_4_Actinopterygii-14_374	4	Sar-0f18_43_estuaries-15_4517	43	39	Actinopterygii	estuaries	2.5
+location	Wet-a585_291_characid-12	Wet-a585_252_Wetlands-1	Wet-a585_291_characid-12_4064	291	Wet-a585_252_Wetlands-1_1382	252	39	characids	Wetlands	2.5
+location	Wet-a585_292_catfish-10	Wet-a585_252_Wetlands-1	Wet-a585_292_catfish-10_4761	292	Wet-a585_252_Wetlands-1_1382	252	40	catfish	Wetlands	2.439
+location	Sar-0f18_27_fishes-4	Sar-0f18_57_swamp-2	Sar-0f18_27_fishes-4_375	27	Sar-0f18_57_swamp-2_3808	57	30	Ray-finned fishes	swamp	2.419
+location	Cro-9102_313_gigas-33	Cro-9102_278_swamps-29	Cro-9102_313_gigas-33_1541	313	Cro-9102_278_swamps-29_3808	278	35	Arapaima gigas	swamp	2.417
+location	Gob-6481_69_Gobiidae-1	Gob-6481_34_mangrove-40	Gob-6481_69_Gobiidae-1_2376	69	Gob-6481_34_mangrove-40_4524	34	35	Gobiidae	mangroves	2.417
+location	Wet-a585_292_catfish-10	Wet-a585_333_Wetlands-1	Wet-a585_292_catfish-10_1849	292	Wet-a585_333_Wetlands-1_1382	333	41	Catfish	Wetlands	2.381
+location	Bro-dfd8_92_trout-2	Bro-dfd8_126_rivers-17	Bro-dfd8_92_trout-2_4742	92	Bro-dfd8_126_rivers-17_4533	126	34	sea trout	rivers and streams	2.371
+location	Sar-0f18_12_fishes-7	Sar-0f18_43_estuaries-15	Sar-0f18_12_fishes-7_3990	12	Sar-0f18_43_estuaries-15_4517	43	31	ray-finned fishes	estuaries	2.344
+location	Wet-a585_291_characid-12	Wet-a585_333_Wetlands-1	Wet-a585_291_characid-12_4064	291	Wet-a585_333_Wetlands-1_1382	333	42	characids	Wetlands	2.326
+location	Cro-9102_313_arapaima-30	Cro-9102_278_swamps-29	Cro-9102_313_arapaima-30_4619	313	Cro-9102_278_swamps-29_3808	278	35	arapaima	swamp	2.306
+location	Cro-9102_313_Arapaima-32	Cro-9102_278_swamps-29	Cro-9102_313_Arapaima-32_1542	313	Cro-9102_278_swamps-29_3808	278	35	Arapaima	swamp	2.306
+location	Gob-6481_69_Gobiidae-1	Gob-6481_106_reef-18	Gob-6481_69_Gobiidae-1_2376	69	Gob-6481_106_reef-18_4532	106	37	Gobiidae	reefs	2.289
+location	Sal-702e_52_salmon-17	Sal-702e_9_estuaries-13	Sal-702e_52_salmon-17_1261	52	Sal-702e_9_estuaries-13_4517	9	43	Atlantic salmon and trout	estuaries	2.273
+location	Bil-e183_6_Perciformes-23	Bil-e183_50_ocean-19	Bil-e183_6_Perciformes-23_3033	6	Bil-e183_50_ocean-19_4530	50	44	Perciformes	open ocean	2.222
+location	Cic-6b3c_3_Perciformes-23	Cic-6b3c_54_water-17	Cic-6b3c_3_Perciformes-23_3033	3	Cic-6b3c_54_water-17_4512	54	51	Perciformes	brackish water	1.923
+location	Red-5937_2_piranha-12	Red-5937_36_rivers-12	Red-5937_2_piranha-12_5391	2	Red-5937_36_rivers-12_4533	36	34	red-bellied piranha	rivers and streams	1.886
+location	Red-5937_2_piranha-5	Red-5937_36_rivers-12	Red-5937_2_piranha-5_5391	2	Red-5937_36_rivers-12_4533	36	34	red-bellied piranha	rivers and streams	1.886
+location	Red-5937_2_piranha-22	Red-5937_36_rivers-12	Red-5937_2_piranha-22_5391	2	Red-5937_36_rivers-12_4533	36	34	red-bellied piranha	rivers and streams	1.886
+location	Sar-0f18_4_Actinopterygii-14	Sar-0f18_57_swamp-2	Sar-0f18_4_Actinopterygii-14_374	4	Sar-0f18_57_swamp-2_3808	57	53	Actinopterygii	swamp	1.852
+location	Spa-e46a_83_anglerfishes-8	Spa-e46a_26_ocean-27	Spa-e46a_83_anglerfishes-8_4598	83	Spa-e46a_26_ocean-27_4530	26	57	anglerfish	open ocean	1.724
+location	Cic-6b3c_3_Perciformes-23	Cic-6b3c_60_ocean-18	Cic-6b3c_3_Perciformes-23_3033	3	Cic-6b3c_60_ocean-18_4530	60	57	Perciformes	open ocean	1.724
+location	Cic-6b3c_3_Perciformes-23	Cic-6b3c_61_water-26	Cic-6b3c_3_Perciformes-23_3033	3	Cic-6b3c_61_water-26_4512	61	58	Perciformes	brackish water	1.695
+location	Wet-a585_291_characid-12	Wet-a585_233_Wetlands-1	Wet-a585_291_characid-12_4064	291	Wet-a585_233_Wetlands-1_1382	233	58	characids	Wetlands	1.695
+location	Cic-6b3c_3_Perciformes-23	Cic-6b3c_61_water-13	Cic-6b3c_3_Perciformes-23_3033	3	Cic-6b3c_61_water-13_4512	61	58	Perciformes	brackish water	1.695
+location	Gob-6481_69_Gobiidae-1	Gob-6481_18_reefs-3	Gob-6481_69_Gobiidae-1_2376	69	Gob-6481_18_reefs-3_4532	18	51	Gobiidae	reefs	1.673
+location	Sar-0f18_12_fishes-7	Sar-0f18_57_swamp-2	Sar-0f18_12_fishes-7_375	12	Sar-0f18_57_swamp-2_3808	57	45	Ray-finned fishes	swamp	1.63
+location	Spa-e46a_87_anglerfish-3	Spa-e46a_26_ocean-27	Spa-e46a_87_anglerfish-3_4598	87	Spa-e46a_26_ocean-27_4530	26	61	anglerfish	open ocean	1.613
+location	Sal-702e_55_salmon-4	Sal-702e_9_estuaries-13	Sal-702e_55_salmon-4_1261	55	Sal-702e_9_estuaries-13_4517	9	46	Atlantic salmon and trout	estuaries	1.596
+location	Act-681d_66_Actinopterygii-22	Act-681d_129_swamp-5	Act-681d_66_Actinopterygii-22_374	66	Act-681d_129_swamp-5_3808	129	63	Actinopterygii	swamp	1.562
+location	Gob-6481_50_Gobiidae-1	Gob-6481_106_reef-18	Gob-6481_50_Gobiidae-1_2376	50	Gob-6481_106_reef-18_4532	106	56	Gobiidae	reefs	1.526
+location	Cro-9102_313_gigas-33	Cro-9102_255_swamps-38	Cro-9102_313_gigas-33_1541	313	Cro-9102_255_swamps-38_3808	255	58	Arapaima gigas	swamp	1.475
+location	Atl-f357_20_salmo-11	Atl-f357_88_estuary-12	Atl-f357_20_salmo-11_4456	20	Atl-f357_88_estuary-12_4517	88	68	salmo	estuaries	1.449
+location	Bro-f1dc_297_fishes-11	Bro-f1dc_228_swamps-35	Bro-f1dc_297_fishes-11_3990	297	Bro-f1dc_228_swamps-35_3808	228	69	ray-finned fishes	swamp	1.429
+location	Cro-9102_313_arapaima-30	Cro-9102_255_swamps-38	Cro-9102_313_arapaima-30_4619	313	Cro-9102_255_swamps-38_3808	255	58	arapaima	swamp	1.407
+location	Cro-9102_313_Arapaima-32	Cro-9102_255_swamps-38	Cro-9102_313_Arapaima-32_1542	313	Cro-9102_255_swamps-38_3808	255	58	Arapaima	swamp	1.407
+location	Mal-71cc_148_catfish-50	Mal-71cc_196_rivers-13	Mal-71cc_148_catfish-50_1849	148	Mal-71cc_196_rivers-13_4533	196	48	Catfish	rivers and streams	1.347
+location	Red-5937_84_characids-10	Red-5937_36_rivers-12	Red-5937_84_characids-10_4064	84	Red-5937_36_rivers-12_4533	36	48	characids	rivers and streams	1.347
+location	Wet-a585_291_characid-12	Wet-a585_215_Wetlands-1	Wet-a585_291_characid-12_4064	291	Wet-a585_215_Wetlands-1_1382	215	76	characids	Wetlands	1.299
+location	Atl-f357_20_salar-5	Atl-f357_88_estuary-12	Atl-f357_20_salar-5_1591	20	Atl-f357_88_estuary-12_4517	88	68	Salmo salar	estuaries	1.261
+location	Atl-f357_20_salar-17	Atl-f357_88_estuary-12	Atl-f357_20_salar-17_1591	20	Atl-f357_88_estuary-12_4517	88	68	Salmo salar	estuaries	1.261
+location	Sea-4a1d_143_fishes-46	Sea-4a1d_226_beds-3	Sea-4a1d_143_fishes-46_3990	143	Sea-4a1d_226_beds-3_4510	226	83	ray-finned fishes	sea bed	1.19
+location	Red-5937_79_piranha-6	Red-5937_36_rivers-12	Red-5937_79_piranha-6_5391	79	Red-5937_36_rivers-12_4533	36	43	red-bellied piranha	rivers and streams	1.125
+adaptation	Bro-dfd8_90_salmon-13	Bro-dfd8_90_spawning-36	Bro-dfd8_90_salmon-13_1590	90	Bro-dfd8_90_spawning-36_366	90	0	Atlantic salmon	Spawning	100.0
+adaptation	Pre-0725_85_frogfish-20	Pre-0725_85_predators-3	Pre-0725_85_frogfish-20_4993	85	Pre-0725_85_predators-3_359	85	0	frogfish	Predator	100.0
+adaptation	Atl4b97_29_salmon-8	Atl4b97_29_migration-23	Atl4b97_29_salmon-8_1590	29	Atl4b97_29_migration-23_1	29	0	Atlantic salmon	Migration	100.0
+adaptation	Atl-f357_93_salmon-3	Atl-f357_93_migration-7	Atl-f357_93_salmon-3_1590	93	Atl-f357_93_migration-7_1	93	0	Atlantic salmon	Migration	100.0
+adaptation	Atl-f357_133_salmon-5	Atl-f357_133_migration-36	Atl-f357_133_salmon-5_1590	133	Atl-f357_133_migration-36_1	133	0	Atlantic salmon	Migration	100.0
+adaptation	Atl-f357_133_salmon-17	Atl-f357_133_migration-36	Atl-f357_133_salmon-17_1590	133	Atl-f357_133_migration-36_1	133	0	Atlantic salmon	Migration	100.0
+adaptation	Fro-21e4_62_frogfish-6	Fro-21e4_62_predators-14	Fro-21e4_62_frogfish-6_4993	62	Fro-21e4_62_predators-14_3977	62	0	frogfish	predator	100.0
+adaptation	Amb-b5dc_7_frogfishes-26	Amb-b5dc_7_predators-3	Amb-b5dc_7_frogfishes-26_4993	7	Amb-b5dc_7_predators-3_3977	7	0	frogfish	predator	100.0
+adaptation	Bio-20c0_218_anglerfish-10	Bio-20c0_218_mimicry-17	Bio-20c0_218_anglerfish-10_4598	218	Bio-20c0_218_mimicry-17_3963	218	0	anglerfish	mimicry	100.0
+adaptation	Ang-a76e_38_anglerfish-7	Ang-a76e_38_predators-11	Ang-a76e_38_anglerfish-7_4598	38	Ang-a76e_38_predators-11_359	38	0	anglerfish	Predator	100.0
+adaptation	Fro-21e4_47_frogfishes-30	Fro-21e4_47_mimicry-4	Fro-21e4_47_frogfishes-30_4993	47	Fro-21e4_47_mimicry-4_3963	47	0	frogfish	mimicry	100.0
+adaptation	Soc-8666_54_salmon-8	Soc-8666_54_semelparous-10	Soc-8666_54_salmon-8_5488	54	Soc-8666_54_semelparous-10_3980	54	0	sockeye salmon	semelparous	100.0
+adaptation	Soc-8666_54_salmon-5	Soc-8666_54_semelparous-10	Soc-8666_54_salmon-5_5488	54	Soc-8666_54_semelparous-10_3980	54	0	sockeye salmon	semelparous	100.0
+adaptation	Fro-21e4_62_frogfish-6	Fro-21e4_62_camouflage-8	Fro-21e4_62_frogfish-6_4993	62	Fro-21e4_62_camouflage-8_3947	62	0	frogfish	camouflage	100.0
+adaptation	Cat-98ff_3_Vandellia-73	Cat-98ff_3_parasitic-66	Cat-98ff_3_Vandellia-73_3597	3	Cat-98ff_3_parasitic-66_3970	3	0	Vandellia	parasitic	87.0
+adaptation	Sea-bfbc_46_trout-10	Sea-bfbc_46_migration-19	Sea-bfbc_46_trout-10_4742	46	Sea-bfbc_46_migration-19_3781	46	0	sea trout	migration	83.0
+adaptation	Ara-0423_56_arapaima-3	Ara-0423_56_predators-19	Ara-0423_56_arapaima-3_4619	56	Ara-0423_56_predators-19_359	56	0	arapaima	Predator	83.0
+adaptation	Bro-dfd8_88_salmon-16	Bro-dfd8_89_spawning-20	Bro-dfd8_88_salmon-16_1590	88	Bro-dfd8_89_spawning-20_3982	89	1	Atlantic salmon	spawning	50.0
+adaptation	Sea-bfbc_14_trout-21	Sea-bfbc_13_migration-7	Sea-bfbc_14_trout-21_4741	14	Sea-bfbc_13_migration-7_1	13	1	brown trout	Migration	50.0
+adaptation	Fro-21e4_60_frogfish-2	Fro-21e4_61_camouflage-2	Fro-21e4_60_frogfish-2_4993	60	Fro-21e4_61_camouflage-2_3947	61	1	frogfish	camouflage	50.0
+adaptation	Fro-21e4_9_frogfishes-4	Fro-21e4_8_camouflage-5	Fro-21e4_9_frogfishes-4_4993	9	Fro-21e4_8_camouflage-5_3947	8	1	frogfish	camouflage	50.0
+adaptation	Pre-0725_85_frogfish-20	Pre-0725_86_predators-6	Pre-0725_85_frogfish-20_4993	85	Pre-0725_86_predators-6_3939	86	1	frogfish	ambush predator	50.0
+adaptation	Amb-b5dc_7_frogfishes-26	Amb-b5dc_6_predators-3	Amb-b5dc_7_frogfishes-26_4993	7	Amb-b5dc_6_predators-3_3939	6	1	frogfish	ambush predator	50.0
+adaptation	Bro-dfd8_90_salmon-13	Bro-dfd8_89_spawning-20	Bro-dfd8_90_salmon-13_1590	90	Bro-dfd8_89_spawning-20_3982	89	1	Atlantic salmon	spawning	50.0
+adaptation	Sea-bfbc_12_trout-26	Sea-bfbc_13_migration-7	Sea-bfbc_12_trout-26_4741	12	Sea-bfbc_13_migration-7_1	13	1	brown trout	Migration	50.0
+adaptation	Ang-a76e_85_anglerfish-9	Ang-a76e_84_predator-7	Ang-a76e_85_anglerfish-9_4598	85	Ang-a76e_84_predator-7_3939	84	1	anglerfish	ambush predator	50.0
+adaptation	Ang0262_7_anglerfish-6	Ang0262_6_predators-2	Ang0262_7_anglerfish-6_4598	7	Ang0262_6_predators-2_359	6	1	anglerfish	Predator	50.0
+adaptation	Fro-21e4_57_frogfish-11	Fro-21e4_56_mimicry-13	Fro-21e4_57_frogfish-11_4993	57	Fro-21e4_56_mimicry-13_3963	56	1	frogfish	mimicry	50.0
+adaptation	Bio-20c0_218_anglerfish-10	Bio-20c0_217_Bioluminescence-1	Bio-20c0_218_anglerfish-10_4598	218	Bio-20c0_217_Bioluminescence-1_318	217	1	anglerfish	Bioluminescence	50.0
+adaptation	Tamba61_4_Tambaqui-7	Tamba61_3_herbivorous-3	Tamba61_4_Tambaqui-7_3463	4	Tamba61_3_herbivorous-3_3784	3	1	Tambaqui	herbivorous	50.0
+adaptation	Pre-0725_85_frogfish-20	Pre-0725_84_predator-10	Pre-0725_85_frogfish-20_4993	85	Pre-0725_84_predator-10_3977	84	1	frogfish	predator	50.0
+adaptation	Bro-dfd8_88_trout-6	Bro-dfd8_89_spawning-20	Bro-dfd8_88_trout-6_4741	88	Bro-dfd8_89_spawning-20_3982	89	1	brown trout	spawning	50.0
+adaptation	Sal-702e_13_Salmonidae-1	Sal-702e_12_migration-26	Sal-702e_13_Salmonidae-1_788	13	Sal-702e_12_migration-26_1	12	1	Salmonidae	Migration	50.0
+adaptation	Fro-21e4_62_frogfish-6	Fro-21e4_61_camouflage-2	Fro-21e4_62_frogfish-6_4993	62	Fro-21e4_61_camouflage-2_3947	61	1	frogfish	camouflage	50.0
+adaptation	Soc-8666_106_salmon-5	Soc-8666_107_migration-8	Soc-8666_106_salmon-5_5488	106	Soc-8666_107_migration-8_3781	107	1	sockeye salmon	migration	50.0
+adaptation	Soc-8666_2_salmon-15	Soc-8666_3_spawning-14	Soc-8666_2_salmon-15_5488	2	Soc-8666_3_spawning-14_366	3	1	sockeye salmon	Spawning	50.0
+adaptation	Soc-8666_2_salmon-12	Soc-8666_3_spawning-14	Soc-8666_2_salmon-12_5488	2	Soc-8666_3_spawning-14_366	3	1	sockeye salmon	Spawning	50.0
+adaptation	Soc-8666_111_salmon-11	Soc-8666_110_migration-8	Soc-8666_111_salmon-11_5488	111	Soc-8666_110_migration-8_1	110	1	sockeye salmon	Migration	50.0
+adaptation	Soc-8666_2_salmon-18	Soc-8666_3_spawning-14	Soc-8666_2_salmon-18_5488	2	Soc-8666_3_spawning-14_366	3	1	sockeye salmon	Spawning	50.0
+adaptation	Soc-8666_106_salmon-5	Soc-8666_107_migration-22	Soc-8666_106_salmon-5_5488	106	Soc-8666_107_migration-22_1	107	1	sockeye salmon	Migration	50.0
+adaptation	Soc-8666_2_salmon-3	Soc-8666_3_spawning-14	Soc-8666_2_salmon-3_5488	2	Soc-8666_3_spawning-14_366	3	1	sockeye salmon	Spawning	50.0
+adaptation	Soc-8666_2_salmon-29	Soc-8666_3_spawning-14	Soc-8666_2_salmon-29_5488	2	Soc-8666_3_spawning-14_366	3	1	sockeye salmon	Spawning	50.0
+adaptation	Soc-8666_96_salmon-14	Soc-8666_97_migration-14	Soc-8666_96_salmon-14_5488	96	Soc-8666_97_migration-14_1	97	1	sockeye salmon	Migration	50.0
+adaptation	Soc-8666_98_salmon-9	Soc-8666_97_migration-14	Soc-8666_98_salmon-9_5488	98	Soc-8666_97_migration-14_1	97	1	sockeye salmon	Migration	50.0
+adaptation	Soc-8666_159_salmon-17	Soc-8666_160_predators-30	Soc-8666_159_salmon-17_5488	159	Soc-8666_160_predators-30_359	160	1	sockeye salmon	Predator	50.0
+adaptation	Sea-bfbc_50_trout-2	Sea-bfbc_49_migration-5	Sea-bfbc_50_trout-2_1806	50	Sea-bfbc_49_migration-5_1	49	1	Sea trout	Migration	41.5
+adaptation	Sea-bfbc_48_trout-7	Sea-bfbc_49_migration-5	Sea-bfbc_48_trout-7_1806	48	Sea-bfbc_49_migration-5_1	49	1	Sea trout	Migration	41.5
+adaptation	Bil-e183_3_billfish-2	Bil-e183_4_predators-5	Bil-e183_3_billfish-2_4636	3	Bil-e183_4_predators-5_359	4	1	billfish	Predator	41.5
+adaptation	Ara-0423_57_arapaima-20	Ara-0423_56_predators-19	Ara-0423_57_arapaima-20_4619	57	Ara-0423_56_predators-19_3977	56	1	arapaima	predator	41.5
+adaptation	Sea-bfbc_45_trout-2	Sea-bfbc_46_migration-19	Sea-bfbc_45_trout-2_1806	45	Sea-bfbc_46_migration-19_3781	46	1	Sea trout	migration	41.5
+adaptation	Ara-0423_55_arapaima-2	Ara-0423_56_predators-19	Ara-0423_55_arapaima-2_4619	55	Ara-0423_56_predators-19_359	56	1	arapaima	Predator	41.5
+adaptation	Ara-0423_41_Arapaima-1	Ara-0423_40_predator-22	Ara-0423_41_Arapaima-1_1542	41	Ara-0423_40_predator-22_3977	40	1	Arapaima	predator	41.5
+adaptation	Red-5937_85_piranhas-13	Red-5937_86_predators-24	Red-5937_85_piranhas-13_5391	85	Red-5937_86_predators-24_3977	86	1	red-bellied piranha	predator	37.5
+adaptation	Red-5937_79_piranha-6	Red-5937_78_predators-35	Red-5937_79_piranha-6_5391	79	Red-5937_78_predators-35_3977	78	1	red-bellied piranha	predator	37.5
+adaptation	Red-5937_85_piranhas-13	Red-5937_86_predator-14	Red-5937_85_piranhas-13_5391	85	Red-5937_86_predator-14_359	86	1	red-bellied piranha	Predator	37.5
+adaptation	Red-5937_98_piranha-6	Red-5937_97_predator-25	Red-5937_98_piranha-6_5391	98	Red-5937_97_predator-25_359	97	1	red-bellied piranha	Predator	37.5
+adaptation	Red-5937_30_piranhas-9	Red-5937_29_predator-13	Red-5937_30_piranhas-9_5391	30	Red-5937_29_predator-13_3977	29	1	red-bellied piranha	predator	37.5
+adaptation	Pyg-48e9_5_piranha-6	Pyg-48e9_4_scavengers-7	Pyg-48e9_5_piranha-6_5391	5	Pyg-48e9_4_scavengers-7_3979	4	1	red-bellied piranha	scavenger	37.5
+adaptation	Red-5937_30_piranhas-9	Red-5937_29_scavenger-19	Red-5937_30_piranhas-9_5391	30	Red-5937_29_scavenger-19_3979	29	1	red-bellied piranha	scavenger	37.5
+adaptation	Pre-0725_85_frogfish-20	Pre-0725_83_predators-8	Pre-0725_85_frogfish-20_4993	85	Pre-0725_83_predators-8_310	83	2	frogfish	Ambush predator	33.333
+adaptation	Soc-8666_99_salmon-2	Soc-8666_97_migration-14	Soc-8666_99_salmon-2_3349	99	Soc-8666_97_migration-14_3781	97	2	Sockeye salmon	migration	33.333
+adaptation	Ang-a76e_55_anglerfish-20	Ang-a76e_53_bioluminescence-9	Ang-a76e_55_anglerfish-20_4598	55	Ang-a76e_53_bioluminescence-9_3946	53	2	anglerfish	bioluminescence	33.333
+adaptation	Fro-21e4_3_anglerfish-5	Fro-21e4_5_camouflage-20	Fro-21e4_3_anglerfish-5_4598	3	Fro-21e4_5_camouflage-20_3947	5	2	anglerfish	camouflage	33.333
+adaptation	Ang0262_8_anglerfish-8	Ang0262_6_predators-2	Ang0262_8_anglerfish-8_4598	8	Ang0262_6_predators-2_359	6	2	anglerfish	Predator	33.333
+adaptation	Amb-b5dc_85_anglerfishes-14	Amb-b5dc_87_predator-2	Amb-b5dc_85_anglerfishes-14_4598	85	Amb-b5dc_87_predator-2_359	87	2	anglerfish	Predator	33.333
+adaptation	Soc-8666_112_salmon-2	Soc-8666_110_migration-8	Soc-8666_112_salmon-2_3349	112	Soc-8666_110_migration-8_3781	110	2	Sockeye salmon	migration	33.333
+adaptation	Soc-8666_9_salmon-2	Soc-8666_7_semelparous-4	Soc-8666_9_salmon-2_3349	9	Soc-8666_7_semelparous-4_3980	7	2	Sockeye salmon	semelparous	33.333
+adaptation	Soc-8666_1_salmon-2	Soc-8666_3_spawning-14	Soc-8666_1_salmon-2_3349	1	Soc-8666_3_spawning-14_3982	3	2	Sockeye salmon	spawning	33.333
+adaptation	Bro-dfd8_88_trout-6	Bro-dfd8_90_spawning-36	Bro-dfd8_88_trout-6_4741	88	Bro-dfd8_90_spawning-36_3982	90	2	brown trout	spawning	33.333
+adaptation	Bio-20c0_218_anglerfish-10	Bio-20c0_216_Mimicry-5	Bio-20c0_218_anglerfish-10_4598	218	Bio-20c0_216_Mimicry-5_344	216	2	anglerfish	Mimicry	33.333
+adaptation	Ang-a76e_51_anglerfish-18	Ang-a76e_53_bioluminescence-9	Ang-a76e_51_anglerfish-18_4598	51	Ang-a76e_53_bioluminescence-9_3946	53	2	anglerfish	bioluminescence	33.333
+adaptation	Atl-12cc_19_sailfish-2	Atl-12cc_17_predators-19	Atl-12cc_19_sailfish-2_1586	19	Atl-12cc_17_predators-19_359	17	2	Atlantic sailfish	Predator	33.333
+adaptation	Nor-d13e_164_Salmonidae-8	Nor-d13e_166_spawning-30	Nor-d13e_164_Salmonidae-8_788	164	Nor-d13e_166_spawning-30_366	166	2	Salmonidae	Spawning	33.333
+adaptation	Atl4b97_29_salmon-8	Atl4b97_27_spawning-17	Atl4b97_29_salmon-8_1590	29	Atl4b97_27_spawning-17_3982	27	2	Atlantic salmon	spawning	33.333
+adaptation	Bro-dfd8_88_salmon-16	Bro-dfd8_90_spawning-36	Bro-dfd8_88_salmon-16_1590	88	Bro-dfd8_90_spawning-36_3982	90	2	Atlantic salmon	spawning	33.333
+adaptation	Fro-21e4_59_frogfish-11	Fro-21e4_61_camouflage-2	Fro-21e4_59_frogfish-11_4993	59	Fro-21e4_61_camouflage-2_3947	61	2	frogfish	camouflage	33.333
+adaptation	Fro-21e4_60_frogfish-2	Fro-21e4_62_camouflage-8	Fro-21e4_60_frogfish-2_4993	60	Fro-21e4_62_camouflage-8_3947	62	2	frogfish	camouflage	33.333
+adaptation	Fro-21e4_3_frogfish-13	Fro-21e4_5_camouflage-20	Fro-21e4_3_frogfish-13_4993	3	Fro-21e4_5_camouflage-20_3947	5	2	frogfish	camouflage	33.333
+adaptation	Fro-21e4_64_frogfish-7	Fro-21e4_62_camouflage-8	Fro-21e4_64_frogfish-7_4993	64	Fro-21e4_62_camouflage-8_3947	62	2	frogfish	camouflage	33.333
+adaptation	Cam-4bd8_152_dragon-8	Cam-4bd8_151_predators-44	Cam-4bd8_152_dragon-8_5161	152	Cam-4bd8_151_predators-44_3977	151	1	leafy sea dragon	predator	33.0
+adaptation	Ara-0423_42_Arapaima-1	Ara-0423_40_predator-22	Ara-0423_42_Arapaima-1_1542	42	Ara-0423_40_predator-22_359	40	2	Arapaima	Predator	27.667
+adaptation	Ara-0423_58_Arapaima-1	Ara-0423_56_predators-19	Ara-0423_58_Arapaima-1_1542	58	Ara-0423_56_predators-19_359	56	2	Arapaima	Predator	27.667
+adaptation	Bil-e183_2_billfish-2	Bil-e183_4_predators-5	Bil-e183_2_billfish-2_4636	2	Bil-e183_4_predators-5_3977	4	2	billfish	predator	27.667
+adaptation	Bil-e183_52_billfish-2	Bil-e183_50_predators-5	Bil-e183_52_billfish-2_4636	52	Bil-e183_50_predators-5_3977	50	2	billfish	predator	27.667
+adaptation	Bro-dfd8_92_trout-2	Bro-dfd8_90_spawning-36	Bro-dfd8_92_trout-2_4742	92	Bro-dfd8_90_spawning-36_366	90	2	sea trout	Spawning	27.667
+adaptation	Com-264e_18_seahorses-8	Com-264e_17_camouflage-17	Com-264e_18_seahorses-8_2749	18	Com-264e_17_camouflage-17_3947	17	1	many branched seahorse	camouflage	27.0
+adaptation	Bio-20c0_218_anglerfish-10	Bio-20c0_221_bioluminescence-5	Bio-20c0_218_anglerfish-10_4598	218	Bio-20c0_221_bioluminescence-5_3946	221	3	anglerfish	bioluminescence	25.0
+adaptation	Fro-21e4_51_frogfish-7	Fro-21e4_54_Mimicry-1	Fro-21e4_51_frogfish-7_4993	51	Fro-21e4_54_Mimicry-1_344	54	3	frogfish	Mimicry	25.0
+adaptation	Fro-21e4_59_frogfish-11	Fro-21e4_56_mimicry-13	Fro-21e4_59_frogfish-11_4993	59	Fro-21e4_56_mimicry-13_3963	56	3	frogfish	mimicry	25.0
+adaptation	Atl-12cc_20_sailfish-3	Atl-12cc_17_predators-19	Atl-12cc_20_sailfish-3_1586	20	Atl-12cc_17_predators-19_359	17	3	Atlantic sailfish	Predator	25.0
+adaptation	Soc-8666_159_salmon-17	Soc-8666_162_predators-33	Soc-8666_159_salmon-17_5488	159	Soc-8666_162_predators-33_359	162	3	sockeye salmon	Predator	25.0
+adaptation	Fro-21e4_57_frogfish-11	Fro-21e4_54_Mimicry-1	Fro-21e4_57_frogfish-11_4993	57	Fro-21e4_54_Mimicry-1_344	54	3	frogfish	Mimicry	25.0
+adaptation	Amb-b5dc_7_frogfishes-26	Amb-b5dc_4_mimicry-22	Amb-b5dc_7_frogfishes-26_4993	7	Amb-b5dc_4_mimicry-22_3963	4	3	frogfish	mimicry	25.0
+adaptation	Pre-0725_85_frogfish-20	Pre-0725_88_predators-3	Pre-0725_85_frogfish-20_4993	85	Pre-0725_88_predators-3_3939	88	3	frogfish	ambush predator	25.0
+adaptation	Ang-a76e_50_anglerfishes-15	Ang-a76e_53_bioluminescence-9	Ang-a76e_50_anglerfishes-15_4598	50	Ang-a76e_53_bioluminescence-9_3946	53	3	anglerfish	bioluminescence	25.0
+adaptation	Soc-8666_51_salmon-2	Soc-8666_54_semelparous-10	Soc-8666_51_salmon-2_3349	51	Soc-8666_54_semelparous-10_3980	54	3	Sockeye salmon	semelparous	25.0
+adaptation	Fro-21e4_3_anglerfish-5	Fro-21e4_6_camouflage-2	Fro-21e4_3_anglerfish-5_4598	3	Fro-21e4_6_camouflage-2_3947	6	3	anglerfish	camouflage	25.0
+adaptation	Fro-21e4_51_anglerfish-11	Fro-21e4_54_camouflage-3	Fro-21e4_51_anglerfish-11_4598	51	Fro-21e4_54_camouflage-3_3947	54	3	anglerfish	camouflage	25.0
+adaptation	Ang-a76e_81_anglerfish-20	Ang-a76e_84_predator-7	Ang-a76e_81_anglerfish-20_4598	81	Ang-a76e_84_predator-7_3939	84	3	anglerfish	ambush predator	25.0
+adaptation	Amb-b5dc_85_anglerfishes-14	Amb-b5dc_82_predator-2	Amb-b5dc_85_anglerfishes-14_4598	85	Amb-b5dc_82_predator-2_359	82	3	anglerfish	Predator	25.0
+adaptation	Ang-a76e_35_anglerfish-2	Ang-a76e_38_predators-11	Ang-a76e_35_anglerfish-2_4598	35	Ang-a76e_38_predators-11_359	38	3	anglerfish	Predator	25.0
+adaptation	Fro-21e4_3_anglerfish-5	Fro-21e4_6_predators-7	Fro-21e4_3_anglerfish-5_4598	3	Fro-21e4_6_predators-7_359	6	3	anglerfish	Predator	25.0
+adaptation	Sea-bfbc_41_trout-19	Sea-bfbc_38_migration-3	Sea-bfbc_41_trout-19_4741	41	Sea-bfbc_38_migration-3_3781	38	3	brown trout	migration	25.0
+adaptation	Soc-8666_99_salmon-2	Soc-8666_102_migration-16	Soc-8666_99_salmon-2_3349	99	Soc-8666_102_migration-16_3781	102	3	Sockeye salmon	migration	25.0
+adaptation	Fro-21e4_51_anglerfish-11	Fro-21e4_54_Mimicry-1	Fro-21e4_51_anglerfish-11_4598	51	Fro-21e4_54_Mimicry-1_344	54	3	anglerfish	Mimicry	25.0
+adaptation	Bio-20c0_218_anglerfish-10	Bio-20c0_215_Bioluminescence-1	Bio-20c0_218_anglerfish-10_4598	218	Bio-20c0_215_Bioluminescence-1_318	215	3	anglerfish	Bioluminescence	25.0
+adaptation	Red-5937_79_piranha-6	Red-5937_81_display-9	Red-5937_79_piranha-6_5391	79	Red-5937_81_display-9_3951	81	2	red-bellied piranha	courtship display	25.0
+adaptation	Bil-e183_46_billfish-10	Bil-e183_43_Predators-1	Bil-e183_46_billfish-10_4636	46	Bil-e183_43_Predators-1_359	43	3	billfish	Predator	20.75
+adaptation	Bro-dfd8_92_trout-2	Bro-dfd8_89_spawning-20	Bro-dfd8_92_trout-2_1806	92	Bro-dfd8_89_spawning-20_3982	89	3	Sea trout	spawning	20.75
+adaptation	Bil-e183_47_billfish-12	Bil-e183_50_predators-5	Bil-e183_47_billfish-12_4636	47	Bil-e183_50_predators-5_359	50	3	billfish	Predator	20.75
+adaptation	Sea-bfbc_17_trout-3	Sea-bfbc_13_migration-7	Sea-bfbc_17_trout-3_4741	17	Sea-bfbc_13_migration-7_3781	13	4	brown trout	migration	20.0
+adaptation	Amb-b5dc_7_frogfishes-26	Amb-b5dc_3_predators-17	Amb-b5dc_7_frogfishes-26_4993	7	Amb-b5dc_3_predators-17_3939	3	4	frogfish	ambush predator	20.0
+adaptation	Amb-b5dc_7_frogfishes-26	Amb-b5dc_3_predators-3	Amb-b5dc_7_frogfishes-26_4993	7	Amb-b5dc_3_predators-3_3939	3	4	frogfish	ambush predator	20.0
+adaptation	Fro-21e4_91_frogfish-8	Fro-21e4_95_spawning-13	Fro-21e4_91_frogfish-8_4993	91	Fro-21e4_95_spawning-13_366	95	4	frogfish	Spawning	20.0
+adaptation	Fro-21e4_51_anglerfish-11	Fro-21e4_47_mimicry-4	Fro-21e4_51_anglerfish-11_4598	51	Fro-21e4_47_mimicry-4_3963	47	4	anglerfish	mimicry	20.0
+adaptation	Ang-a76e_49_anglerfish-21	Ang-a76e_53_bioluminescence-9	Ang-a76e_49_anglerfish-21_4598	49	Ang-a76e_53_bioluminescence-9_3946	53	4	anglerfish	bioluminescence	20.0
+adaptation	Sea-e4bc_36_guttulatus-12	Sea-e4bc_40_camouflage-15	Sea-e4bc_36_guttulatus-12_2745	36	Sea-e4bc_40_camouflage-15_3947	40	4	Hippocampus guttulatus	camouflage	17.4
+adaptation	Lea-27ee_2_eques-6	Lea-27ee_6_camouflage-13	Lea-27ee_2_eques-6_2680	2	Lea-27ee_6_camouflage-13_3947	6	4	Phycodurus eques	camouflage	17.4
+adaptation	Fro-21e4_59_frogfish-11	Fro-21e4_54_Mimicry-1	Fro-21e4_59_frogfish-11_4993	59	Fro-21e4_54_Mimicry-1_344	54	5	frogfish	Mimicry	16.667
+adaptation	Bro-dfd8_84_trout-17	Bro-dfd8_89_spawning-20	Bro-dfd8_84_trout-17_4741	84	Bro-dfd8_89_spawning-20_3982	89	5	brown trout	spawning	16.667
+adaptation	Ang0262_1_Anglerfish-7	Ang0262_6_predators-2	Ang0262_1_Anglerfish-7_1504	1	Ang0262_6_predators-2_359	6	5	Anglerfish	Predator	16.667
+adaptation	Fro-21e4_3_anglerfish-5	Fro-21e4_8_camouflage-5	Fro-21e4_3_anglerfish-5_4598	3	Fro-21e4_8_camouflage-5_3947	8	5	anglerfish	camouflage	16.667
+adaptation	Soc-8666_112_salmon-2	Soc-8666_107_migration-22	Soc-8666_112_salmon-2_3349	112	Soc-8666_107_migration-22_3781	107	5	Sockeye salmon	migration	16.667
+adaptation	Soc-8666_112_salmon-2	Soc-8666_107_migration-8	Soc-8666_112_salmon-2_3349	112	Soc-8666_107_migration-8_3781	107	5	Sockeye salmon	migration	16.667
+adaptation	Soc-8666_42_salmon-2	Soc-8666_37_predator-40	Soc-8666_42_salmon-2_3349	42	Soc-8666_37_predator-40_3977	37	5	Sockeye salmon	predator	16.667
+adaptation	Fro-21e4_51_anglerfish-11	Fro-21e4_56_mimicry-13	Fro-21e4_51_anglerfish-11_4598	51	Fro-21e4_56_mimicry-13_3963	56	5	anglerfish	mimicry	16.667
+adaptation	Atl-fb88_66_billfishes-8	Atl-fb88_62_migration-3	Atl-fb88_66_billfishes-8_4636	66	Atl-fb88_62_migration-3_1	62	4	billfish	Migration	16.6
+adaptation	Bil-e183_47_billfish-12	Bil-e183_43_Predators-1	Bil-e183_47_billfish-12_4636	47	Bil-e183_43_Predators-1_3977	43	4	billfish	predator	16.6
+adaptation	Bil-e183_46_billfish-10	Bil-e183_50_predators-5	Bil-e183_46_billfish-10_4636	46	Bil-e183_50_predators-5_359	50	4	billfish	Predator	16.6
+adaptation	Bil-e183_39_billfish-9	Bil-e183_43_Predators-1	Bil-e183_39_billfish-9_4636	39	Bil-e183_43_Predators-1_359	43	4	billfish	Predator	16.6
+adaptation	Bil-e183_72_billfish-18	Bil-e183_76_migration-5	Bil-e183_72_billfish-18_4636	72	Bil-e183_76_migration-5_3781	76	4	billfish	migration	16.6
+adaptation	Cam-4bd8_152_dragon-8	Cam-4bd8_149_predators-30	Cam-4bd8_152_dragon-8_2679	152	Cam-4bd8_149_predators-30_359	149	3	Leafy sea dragon	Predator	16.5
+adaptation	Cam-4bd8_152_dragon-8	Cam-4bd8_155_camouflage-6	Cam-4bd8_152_dragon-8_2679	152	Cam-4bd8_155_camouflage-6_3947	155	3	Leafy sea dragon	camouflage	16.5
+adaptation	Cam-4bd8_152_dragon-8	Cam-4bd8_155_Camouflage-1	Cam-4bd8_152_dragon-8_2679	152	Cam-4bd8_155_Camouflage-1_319	155	3	Leafy sea dragon	Camouflage	16.5
+adaptation	Red-5937_85_piranhas-13	Red-5937_81_display-9	Red-5937_85_piranhas-13_5391	85	Red-5937_81_display-9_3951	81	4	red-bellied piranha	courtship display	15.0
+adaptation	Soc-8666_48_salmon-2	Soc-8666_54_semelparous-10	Soc-8666_48_salmon-2_3349	48	Soc-8666_54_semelparous-10_3980	54	6	Sockeye salmon	semelparous	14.286
+adaptation	Soc-8666_48_salmon-9	Soc-8666_54_semelparous-10	Soc-8666_48_salmon-9_3349	48	Soc-8666_54_semelparous-10_3980	54	6	Sockeye salmon	semelparous	14.286
+adaptation	Fro-21e4_60_frogfish-2	Fro-21e4_54_Mimicry-1	Fro-21e4_60_frogfish-2_4993	60	Fro-21e4_54_Mimicry-1_344	54	6	frogfish	Mimicry	14.286
+adaptation	Bro-dfd8_84_trout-17	Bro-dfd8_90_spawning-36	Bro-dfd8_84_trout-17_4741	84	Bro-dfd8_90_spawning-36_366	90	6	brown trout	Spawning	14.286
+adaptation	Soc-8666_9_salmon-2	Soc-8666_3_spawning-14	Soc-8666_9_salmon-2_3349	9	Soc-8666_3_spawning-14_366	3	6	Sockeye salmon	Spawning	14.286
+adaptation	Soc-8666_60_salmon-2	Soc-8666_54_semelparous-10	Soc-8666_60_salmon-2_3349	60	Soc-8666_54_semelparous-10_3980	54	6	Sockeye salmon	semelparous	14.286
+adaptation	Fro-21e4_106_frogfish-13	Fro-21e4_100_spawning-4	Fro-21e4_106_frogfish-13_4993	106	Fro-21e4_100_spawning-4_366	100	6	frogfish	Spawning	14.286
+adaptation	Sal-702e_18_Salmonidae-2	Sal-702e_12_migration-26	Sal-702e_18_Salmonidae-2_788	18	Sal-702e_12_migration-26_3781	12	6	Salmonidae	migration	14.286
+adaptation	Ang-a76e_90_anglerfish-7	Ang-a76e_84_predator-7	Ang-a76e_90_anglerfish-7_4598	90	Ang-a76e_84_predator-7_3939	84	6	anglerfish	ambush predator	14.286
+adaptation	Fro-21e4_14_anglerfishes-15	Fro-21e4_8_camouflage-5	Fro-21e4_14_anglerfishes-15_4598	14	Fro-21e4_8_camouflage-5_3947	8	6	anglerfish	camouflage	14.286
+adaptation	Soc-8666_1_salmon-2	Soc-8666_7_semelparous-4	Soc-8666_1_salmon-2_3349	1	Soc-8666_7_semelparous-4_3980	7	6	Sockeye salmon	semelparous	14.286
+adaptation	Cam-4bd8_152_dragon-8	Cam-4bd8_148_predators-12	Cam-4bd8_152_dragon-8_2679	152	Cam-4bd8_148_predators-12_3977	148	4	Leafy sea dragon	predator	13.2
+adaptation	Cam-4bd8_152_dragon-8	Cam-4bd8_156_predator-24	Cam-4bd8_152_dragon-8_2679	152	Cam-4bd8_156_predator-24_3977	156	4	Leafy sea dragon	predator	13.2
+adaptation	Cam-4bd8_152_dragon-8	Cam-4bd8_148_predators-16	Cam-4bd8_152_dragon-8_2679	152	Cam-4bd8_148_predators-16_3977	148	4	Leafy sea dragon	predator	13.2
+adaptation	Cam-4bd8_152_dragon-8	Cam-4bd8_156_camouflage-4	Cam-4bd8_152_dragon-8_2679	152	Cam-4bd8_156_camouflage-4_3947	156	4	Leafy sea dragon	camouflage	13.2
+adaptation	Fro-21e4_47_frogfishes-30	Fro-21e4_54_Mimicry-1	Fro-21e4_47_frogfishes-30_4993	47	Fro-21e4_54_Mimicry-1_344	54	7	frogfish	Mimicry	12.5
+adaptation	Fro-21e4_88_frogfish-8	Fro-21e4_95_spawning-13	Fro-21e4_88_frogfish-8_4993	88	Fro-21e4_95_spawning-13_366	95	7	frogfish	Spawning	12.5
+adaptation	Pat-9307_160_sticklebacks-10	Pat-9307_155_care-12	Pat-9307_160_sticklebacks-10_5558	160	Pat-9307_155_care-12_3937	155	5	three-spined stickleback	paternal care	12.5
+adaptation	Bio-20c0_218_anglerfish-10	Bio-20c0_225_mimicry-19	Bio-20c0_218_anglerfish-10_4598	218	Bio-20c0_225_mimicry-19_3963	225	7	anglerfish	mimicry	12.5
+adaptation	Soc-8666_10_salmon-11	Soc-8666_3_spawning-14	Soc-8666_10_salmon-11_5488	10	Soc-8666_3_spawning-14_3982	3	7	sockeye salmon	spawning	12.5
+adaptation	Bro-dfd8_82_trout-3	Bro-dfd8_89_spawning-20	Bro-dfd8_82_trout-3_4741	82	Bro-dfd8_89_spawning-20_3982	89	7	brown trout	spawning	12.5
+adaptation	Atl-12cc_24_sailfish-2	Atl-12cc_17_predators-19	Atl-12cc_24_sailfish-2_1586	24	Atl-12cc_17_predators-19_3977	17	7	Atlantic sailfish	predator	12.5
+adaptation	Soc-8666_10_salmon-18	Soc-8666_3_spawning-14	Soc-8666_10_salmon-18_5488	10	Soc-8666_3_spawning-14_3982	3	7	sockeye salmon	spawning	12.5
+adaptation	Soc-8666_10_salmon-3	Soc-8666_3_spawning-14	Soc-8666_10_salmon-3_5488	10	Soc-8666_3_spawning-14_366	3	7	sockeye salmon	Spawning	12.5
+adaptation	Pat-9307_160_sticklebacks-10	Pat-9307_165_care-2	Pat-9307_160_sticklebacks-10_5558	160	Pat-9307_165_care-2_308	165	5	three-spined stickleback	Paternal care	12.5
+adaptation	Ang-a76e_77_anglerfish-2	Ang-a76e_84_predator-7	Ang-a76e_77_anglerfish-2_4598	77	Ang-a76e_84_predator-7_3939	84	7	anglerfish	ambush predator	12.5
+adaptation	Ang-a76e_91_anglerfish-11	Ang-a76e_84_predator-7	Ang-a76e_91_anglerfish-11_4598	91	Ang-a76e_84_predator-7_3939	84	7	anglerfish	ambush predator	12.5
+adaptation	Ang-a76e_91_anglerfish-19	Ang-a76e_84_predator-7	Ang-a76e_91_anglerfish-19_4598	91	Ang-a76e_84_predator-7_3939	84	7	anglerfish	ambush predator	12.5
+adaptation	Atl-f357_140_trout-7	Atl-f357_133_semelparous-12	Atl-f357_140_trout-7_4741	140	Atl-f357_133_semelparous-12_3980	133	7	brown trout	semelparous	12.5
+adaptation	Fro-21e4_14_Antennariidae-2	Fro-21e4_8_camouflage-5	Fro-21e4_14_Antennariidae-2_2315	14	Fro-21e4_8_camouflage-5_3947	8	6	Antennariidae	camouflage	12.429
+adaptation	Bro-dfd8_96_trout-2	Bro-dfd8_90_spawning-36	Bro-dfd8_96_trout-2_4742	96	Bro-dfd8_90_spawning-36_3982	90	6	sea trout	spawning	11.857
+adaptation	Bil-e183_37_Billfish-1	Bil-e183_43_Predators-1	Bil-e183_37_Billfish-1_1588	37	Bil-e183_43_Predators-1_359	43	6	Billfish	Predator	11.857
+adaptation	Atl-fb88_66_billfishes-8	Atl-fb88_72_migration-28	Atl-fb88_66_billfishes-8_4636	66	Atl-fb88_72_migration-28_1	72	6	billfish	Migration	11.857
+adaptation	Atl-12cc_9_sailfish-3	Atl-12cc_17_predators-19	Atl-12cc_9_sailfish-3_1586	9	Atl-12cc_17_predators-19_3977	17	8	Atlantic sailfish	predator	11.111
+adaptation	Soc-8666_99_salmon-2	Soc-8666_107_migration-22	Soc-8666_99_salmon-2_3349	99	Soc-8666_107_migration-22_1	107	8	Sockeye salmon	Migration	11.111
+adaptation	Soc-8666_99_salmon-2	Soc-8666_107_migration-8	Soc-8666_99_salmon-2_3349	99	Soc-8666_107_migration-8_1	107	8	Sockeye salmon	Migration	11.111
+adaptation	Fro-21e4_62_frogfish-6	Fro-21e4_54_Mimicry-1	Fro-21e4_62_frogfish-6_4993	62	Fro-21e4_54_Mimicry-1_344	54	8	frogfish	Mimicry	11.111
+adaptation	Fro-21e4_14_anglerfishes-15	Fro-21e4_6_camouflage-2	Fro-21e4_14_anglerfishes-15_4598	14	Fro-21e4_6_camouflage-2_3947	6	8	anglerfish	camouflage	11.111
+adaptation	Bro-dfd8_82_trout-3	Bro-dfd8_90_spawning-36	Bro-dfd8_82_trout-3_4741	82	Bro-dfd8_90_spawning-36_3982	90	8	brown trout	spawning	11.111
+adaptation	Soc-8666_15_salmon-2	Soc-8666_7_semelparous-4	Soc-8666_15_salmon-2_3349	15	Soc-8666_7_semelparous-4_3980	7	8	Sockeye salmon	semelparous	11.111
+adaptation	Cam-4bd8_152_dragon-8	Cam-4bd8_147_Camouflage-1	Cam-4bd8_152_dragon-8_5161	152	Cam-4bd8_147_Camouflage-1_319	147	5	leafy sea dragon	Camouflage	11.0
+adaptation	Cam-4bd8_152_dragon-8	Cam-4bd8_157_camouflage-11	Cam-4bd8_152_dragon-8_5161	152	Cam-4bd8_157_camouflage-11_3947	157	5	leafy sea dragon	camouflage	11.0
+adaptation	Cro-9102_313_gigas-33	Cro-9102_320_predators-32	Cro-9102_313_gigas-33_1541	313	Cro-9102_320_predators-32_359	320	7	Arapaima gigas	Predator	10.875
+adaptation	Fro-21e4_15_Antennariidae-2	Fro-21e4_8_camouflage-5	Fro-21e4_15_Antennariidae-2_2315	15	Fro-21e4_8_camouflage-5_3947	8	7	Antennariidae	camouflage	10.875
+adaptation	Pat-9307_160_sticklebacks-10	Pat-9307_154_care-8	Pat-9307_160_sticklebacks-10_5558	160	Pat-9307_154_care-8_3937	154	6	three-spined stickleback	paternal care	10.714
+adaptation	Bro-dfd8_96_trout-2	Bro-dfd8_89_spawning-20	Bro-dfd8_96_trout-2_1806	96	Bro-dfd8_89_spawning-20_3982	89	7	Sea trout	spawning	10.375
+adaptation	Bil-e183_72_billfish-18	Bil-e183_79_Migrations-1	Bil-e183_72_billfish-18_4636	72	Bil-e183_79_Migrations-1_3781	79	7	billfish	migration	10.375
+adaptation	Ang-a76e_93_anglerfish-4	Ang-a76e_84_predator-7	Ang-a76e_93_anglerfish-4_4598	93	Ang-a76e_84_predator-7_3939	84	9	anglerfish	ambush predator	10.0
+adaptation	Bio-20c0_218_anglerfish-10	Bio-20c0_227_Bioluminescence-1	Bio-20c0_218_anglerfish-10_4598	218	Bio-20c0_227_Bioluminescence-1_318	227	9	anglerfish	Bioluminescence	10.0
+adaptation	Atl-12cc_8_sailfish-2	Atl-12cc_17_predators-19	Atl-12cc_8_sailfish-2_1586	8	Atl-12cc_17_predators-19_3977	17	9	Atlantic sailfish	predator	10.0
+adaptation	Fro-21e4_14_anglerfishes-15	Fro-21e4_5_camouflage-20	Fro-21e4_14_anglerfishes-15_4598	14	Fro-21e4_5_camouflage-20_3947	5	9	anglerfish	camouflage	10.0
+adaptation	Fro-21e4_91_frogfish-8	Fro-21e4_100_spawning-4	Fro-21e4_91_frogfish-8_4993	91	Fro-21e4_100_spawning-4_3982	100	9	frogfish	spawning	10.0
+adaptation	Sal-702e_4_salar-6	Sal-702e_12_migration-26	Sal-702e_4_salar-6_1591	4	Sal-702e_12_migration-26_3781	12	8	Salmo salar	migration	9.667
+adaptation	Fro-21e4_14_Antennariidae-2	Fro-21e4_6_camouflage-2	Fro-21e4_14_Antennariidae-2_2315	14	Fro-21e4_6_camouflage-2_3947	6	8	Antennariidae	camouflage	9.667
+adaptation	Fro-21e4_14_Antennariidae-2	Fro-21e4_6_predators-7	Fro-21e4_14_Antennariidae-2_2315	14	Fro-21e4_6_predators-7_359	6	8	Antennariidae	Predator	9.667
+adaptation	Cam-4bd8_152_dragon-8	Cam-4bd8_146_camouflage-32	Cam-4bd8_152_dragon-8_2679	152	Cam-4bd8_146_camouflage-32_3947	146	6	Leafy sea dragon	camouflage	9.429
+adaptation	Cam-4bd8_152_dragon-8	Cam-4bd8_158_camouflage-2	Cam-4bd8_152_dragon-8_5161	152	Cam-4bd8_158_camouflage-2_3947	158	6	leafy sea dragon	camouflage	9.429
+adaptation	Red-5937_22_piranha-5	Red-5937_29_scavenger-19	Red-5937_22_piranha-5_5391	22	Red-5937_29_scavenger-19_3979	29	7	red-bellied piranha	scavenger	9.375
+adaptation	Pat-9307_160_sticklebacks-10	Pat-9307_167_care-2	Pat-9307_160_sticklebacks-10_3523	160	Pat-9307_167_care-2_308	167	7	Three-spined stickleback	Paternal care	9.375
+adaptation	Pat-9307_160_sticklebacks-10	Pat-9307_153_spawning-11	Pat-9307_160_sticklebacks-10_5558	160	Pat-9307_153_spawning-11_366	153	7	three-spined stickleback	Spawning	9.375
+adaptation	Sal-702e_2_Salmonidae-1	Sal-702e_12_migration-26	Sal-702e_2_Salmonidae-1_788	2	Sal-702e_12_migration-26_1	12	10	Salmonidae	Migration	9.091
+adaptation	Fro-21e4_51_anglerfish-11	Fro-21e4_61_camouflage-2	Fro-21e4_51_anglerfish-11_4598	51	Fro-21e4_61_camouflage-2_3947	61	10	anglerfish	camouflage	9.091
+adaptation	Soc-8666_27_salmon-2	Soc-8666_37_predator-40	Soc-8666_27_salmon-2_3349	27	Soc-8666_37_predator-40_359	37	10	Sockeye salmon	Predator	9.091
+adaptation	Soc-8666_172_salmon-2	Soc-8666_162_predators-33	Soc-8666_172_salmon-2_3349	172	Soc-8666_162_predators-33_359	162	10	Sockeye salmon	Predator	9.091
+adaptation	Soc-8666_112_salmon-2	Soc-8666_102_migration-16	Soc-8666_112_salmon-2_3349	112	Soc-8666_102_migration-16_1	102	10	Sockeye salmon	Migration	9.091
+adaptation	Fro-21e4_64_frogfish-7	Fro-21e4_54_Mimicry-1	Fro-21e4_64_frogfish-7_4993	64	Fro-21e4_54_Mimicry-1_344	54	10	frogfish	Mimicry	9.091
+adaptation	Fro-21e4_15_Antennariidae-2	Fro-21e4_6_predators-7	Fro-21e4_15_Antennariidae-2_2315	15	Fro-21e4_6_predators-7_3977	6	9	Antennariidae	predator	8.7
+adaptation	Cro-9102_313_gigas-33	Cro-9102_304_predators-4	Cro-9102_313_gigas-33_1541	313	Cro-9102_304_predators-4_359	304	9	Arapaima gigas	Predator	8.7
+adaptation	Fro-21e4_15_Antennariidae-2	Fro-21e4_6_camouflage-2	Fro-21e4_15_Antennariidae-2_2315	15	Fro-21e4_6_camouflage-2_3947	6	9	Antennariidae	camouflage	8.7
+adaptation	Fro-21e4_14_Antennariidae-2	Fro-21e4_5_camouflage-20	Fro-21e4_14_Antennariidae-2_2315	14	Fro-21e4_5_camouflage-20_3947	5	9	Antennariidae	camouflage	8.7
+adaptation	Soc-8666_99_salmon-2	Soc-8666_110_migration-8	Soc-8666_99_salmon-2_3349	99	Soc-8666_110_migration-8_1	110	11	Sockeye salmon	Migration	8.333
+adaptation	Atl-12cc_28_sailfish-2	Atl-12cc_17_predators-19	Atl-12cc_28_sailfish-2_1586	28	Atl-12cc_17_predators-19_359	17	11	Atlantic sailfish	Predator	8.333
+adaptation	Soc-8666_48_salmon-2	Soc-8666_37_predator-40	Soc-8666_48_salmon-2_3349	48	Soc-8666_37_predator-40_359	37	11	Sockeye salmon	Predator	8.333
+adaptation	Soc-8666_48_salmon-9	Soc-8666_37_predator-40	Soc-8666_48_salmon-9_3349	48	Soc-8666_37_predator-40_359	37	11	Sockeye salmon	Predator	8.333
+adaptation	Soc-8666_173_salmon-2	Soc-8666_162_predators-33	Soc-8666_173_salmon-2_3349	173	Soc-8666_162_predators-33_359	162	11	Sockeye salmon	Predator	8.333
+adaptation	Fro-21e4_51_anglerfish-11	Fro-21e4_62_camouflage-8	Fro-21e4_51_anglerfish-11_4598	51	Fro-21e4_62_camouflage-8_3947	62	11	anglerfish	camouflage	8.333
+adaptation	Bro-dfd8_101_trout-7	Bro-dfd8_90_spawning-36	Bro-dfd8_101_trout-7_4741	101	Bro-dfd8_90_spawning-36_3982	90	11	brown trout	spawning	8.333
+adaptation	Fro-21e4_106_frogfish-13	Fro-21e4_95_spawning-13	Fro-21e4_106_frogfish-13_4993	106	Fro-21e4_95_spawning-13_3982	95	11	frogfish	spawning	8.333
+adaptation	Fro-21e4_65_frogfishes-2	Fro-21e4_54_Mimicry-1	Fro-21e4_65_frogfishes-2_4993	65	Fro-21e4_54_Mimicry-1_344	54	11	frogfish	Mimicry	8.333
+adaptation	Atl-fb88_66_billfishes-8	Atl-fb88_75_migration-18	Atl-fb88_66_billfishes-8_4636	66	Atl-fb88_75_migration-18_1	75	9	billfish	Migration	8.3
+adaptation	Sea-e4bc_36_guttulatus-12	Sea-e4bc_26_camouflage-5	Sea-e4bc_36_guttulatus-12_2745	36	Sea-e4bc_26_camouflage-5_3947	26	10	Hippocampus guttulatus	camouflage	7.909
+adaptation	Fro-21e4_15_Antennariidae-2	Fro-21e4_5_camouflage-20	Fro-21e4_15_Antennariidae-2_2315	15	Fro-21e4_5_camouflage-20_3947	5	10	Antennariidae	camouflage	7.909
+adaptation	Soc-8666_15_salmon-2	Soc-8666_3_spawning-14	Soc-8666_15_salmon-2_3349	15	Soc-8666_3_spawning-14_3982	3	12	Sockeye salmon	spawning	7.692
+adaptation	Fro-21e4_88_frogfish-8	Fro-21e4_100_spawning-4	Fro-21e4_88_frogfish-8_4993	88	Fro-21e4_100_spawning-4_3982	100	12	frogfish	spawning	7.692
+adaptation	Atl-12cc_5_sailfish-9	Atl-12cc_17_predators-19	Atl-12cc_5_sailfish-9_1586	5	Atl-12cc_17_predators-19_359	17	12	Atlantic sailfish	Predator	7.692
+adaptation	Soc-8666_172_salmon-2	Soc-8666_160_predators-30	Soc-8666_172_salmon-2_3349	172	Soc-8666_160_predators-30_359	160	12	Sockeye salmon	Predator	7.692
+adaptation	Soc-8666_174_salmon-2	Soc-8666_162_predators-33	Soc-8666_174_salmon-2_3349	174	Soc-8666_162_predators-33_3977	162	12	Sockeye salmon	predator	7.692
+adaptation	Bro-dfd8_101_trout-7	Bro-dfd8_89_spawning-20	Bro-dfd8_101_trout-7_4741	101	Bro-dfd8_89_spawning-20_366	89	12	brown trout	Spawning	7.692
+adaptation	Fro-21e4_83_frogfish-14	Fro-21e4_95_spawning-13	Fro-21e4_83_frogfish-14_4993	83	Fro-21e4_95_spawning-13_366	95	12	frogfish	Spawning	7.692
+adaptation	Soc-8666_42_salmon-2	Soc-8666_54_semelparous-10	Soc-8666_42_salmon-2_3349	42	Soc-8666_54_semelparous-10_3980	54	12	Sockeye salmon	semelparous	7.692
+adaptation	Bil-e183_66_billfish-15	Bil-e183_76_migration-5	Bil-e183_66_billfish-15_4636	66	Bil-e183_76_migration-5_3781	76	10	billfish	migration	7.545
+adaptation	Pat-9307_160_sticklebacks-10	Pat-9307_169_care-3	Pat-9307_160_sticklebacks-10_3523	160	Pat-9307_169_care-3_3937	169	9	Three-spined stickleback	paternal care	7.5
+adaptation	Soc-8666_16_salmon-10	Soc-8666_3_spawning-14	Soc-8666_16_salmon-10_5488	16	Soc-8666_3_spawning-14_3982	3	13	sockeye salmon	spawning	7.143
+adaptation	Soc-8666_16_salmon-3	Soc-8666_3_spawning-14	Soc-8666_16_salmon-3_5488	16	Soc-8666_3_spawning-14_3982	3	13	sockeye salmon	spawning	7.143
+adaptation	Fro-21e4_82_frogfish-9	Fro-21e4_95_spawning-13	Fro-21e4_82_frogfish-9_4993	82	Fro-21e4_95_spawning-13_366	95	13	frogfish	Spawning	7.143
+adaptation	Soc-8666_173_salmon-2	Soc-8666_160_predators-30	Soc-8666_173_salmon-2_3349	173	Soc-8666_160_predators-30_3977	160	13	Sockeye salmon	predator	7.143
+adaptation	Bro-dfd8_103_trout-38	Bro-dfd8_90_spawning-36	Bro-dfd8_103_trout-38_4741	103	Bro-dfd8_90_spawning-36_3982	90	13	brown trout	spawning	7.143
+adaptation	Bro-dfd8_103_trout-5	Bro-dfd8_90_spawning-36	Bro-dfd8_103_trout-5_4741	103	Bro-dfd8_90_spawning-36_3982	90	13	brown trout	spawning	7.143
+adaptation	Atl-12cc_4_sailfish-3	Atl-12cc_17_predators-19	Atl-12cc_4_sailfish-3_1586	4	Atl-12cc_17_predators-19_3977	17	13	Atlantic sailfish	predator	7.143
+taxongroup	Neo-d100_77_catfishes-17	Neo-d100_77_animal-31	Neo-d100_77_catfishes-17_1849	77	Neo-d100_77_animal-31_44	77	0	Catfish	Animals	100.0
+taxongroup	Sal-5fdb_52_trout-36	Sal-5fdb_52_Salmo-1	Sal-5fdb_52_trout-36_4741	52	Sal-5fdb_52_Salmo-1_1260	52	0	brown trout	Salmo	100.0
+taxongroup	Sal-5fdb_52_trout-47	Sal-5fdb_52_Salmo-1	Sal-5fdb_52_trout-47_4741	52	Sal-5fdb_52_Salmo-1_1260	52	0	brown trout	Salmo	100.0
+taxongroup	Bro-f1dc_297_fishes-11	Bro-f1dc_297_vertebrates-2	Bro-f1dc_297_fishes-11_3990	297	Bro-f1dc_297_vertebrates-2_3935	297	0	ray-finned fishes	vertebrates	100.0
+taxongroup	Can-795a_16_Candirus-1	Can-795a_16_catfish-14	Can-795a_16_Candirus-1_3596	16	Can-795a_16_catfish-14_1849	16	0	Candirus	Catfish	100.0
+taxongroup	Cat-98ff_77_Catfish-1	Cat-98ff_77_fish-16	Cat-98ff_77_Catfish-1_4761	77	Cat-98ff_77_fish-16_5290	77	0	catfish	bony fish	100.0
+taxongroup	Cep-a2c0_23_catfish-32	Cep-a2c0_23_animals-17	Cep-a2c0_23_catfish-32_1849	23	Cep-a2c0_23_animals-17_44	23	0	Catfish	Animals	100.0
+taxongroup	Bro-dfd8_101_trout-7	Bro-dfd8_101_animal-11	Bro-dfd8_101_trout-7_4741	101	Bro-dfd8_101_animal-11_44	101	0	brown trout	Animals	100.0
+taxongroup	Ver-1720_132_fishes-16	Ver-1720_132_fishes-8	Ver-1720_132_fishes-16_3990	132	Ver-1720_132_fishes-8_5290	132	0	ray-finned fishes	bony fish	100.0
+taxongroup	Cat-98ff_209_catfish-27	Cat-98ff_209_vertebrate-23	Cat-98ff_209_catfish-27_4761	209	Cat-98ff_209_vertebrate-23_3935	209	0	catfish	vertebrates	100.0
+taxongroup	Cat-98ff_209_catfish-4	Cat-98ff_209_vertebrate-12	Cat-98ff_209_catfish-4_4761	209	Cat-98ff_209_vertebrate-12_3935	209	0	catfish	vertebrates	100.0
+taxongroup	Amb-b5dc_85_anglerfishes-14	Amb-b5dc_85_vertebrates-6	Amb-b5dc_85_anglerfishes-14_4598	85	Amb-b5dc_85_vertebrates-6_3935	85	0	anglerfish	vertebrates	100.0
+taxongroup	Sal-5fdb_52_trout-57	Sal-5fdb_52_Salmo-1	Sal-5fdb_52_trout-57_4741	52	Sal-5fdb_52_Salmo-1_1260	52	0	brown trout	Salmo	100.0
+taxongroup	Red-5937_2_piranha-12	Red-5937_2_Pygocentrus-14	Red-5937_2_piranha-12_5391	2	Red-5937_2_Pygocentrus-14_1235	2	0	red-bellied piranha	Pygocentrus	100.0
+taxongroup	Cat-98ff_209_catfish-27	Cat-98ff_209_vertebrate-12	Cat-98ff_209_catfish-27_1849	209	Cat-98ff_209_vertebrate-12_3935	209	0	Catfish	vertebrates	100.0
+taxongroup	Red-5937_2_piranha-22	Red-5937_2_Pygocentrus-14	Red-5937_2_piranha-22_5391	2	Red-5937_2_Pygocentrus-14_1235	2	0	red-bellied piranha	Pygocentrus	100.0
+taxongroup	Sal672e_1_salmon-2	Sal672e_1_salmon-2	Sal672e_1_salmon-2_1590	1	Sal672e_1_salmon-2_1261	1	0	Atlantic salmon	Atlantic salmon and trout	100.0
+taxongroup	Bro-dfd8_2_trout-3	Bro-dfd8_2_Salmo-26	Bro-dfd8_2_trout-3_4741	2	Bro-dfd8_2_Salmo-26_1260	2	0	brown trout	Salmo	100.0
+taxongroup	Sea-bfbc_2_trout-2	Sea-bfbc_2_Salmo-21	Sea-bfbc_2_trout-2_4741	2	Sea-bfbc_2_Salmo-21_1260	2	0	brown trout	Salmo	100.0
+taxongroup	Sal-5fdb_46_salmon-8	Sal-5fdb_46_Salmo-1	Sal-5fdb_46_salmon-8_1590	46	Sal-5fdb_46_Salmo-1_1260	46	0	Atlantic salmon	Salmo	100.0
+taxongroup	Sal-702e_25_salmon-11	Sal-702e_25_Salmo-8	Sal-702e_25_salmon-11_1590	25	Sal-702e_25_Salmo-8_1260	25	0	Atlantic salmon	Salmo	100.0
+taxongroup	Sal-702e_52_salmon-17	Sal-702e_52_Salmo-14	Sal-702e_52_salmon-17_1590	52	Sal-702e_52_Salmo-14_1260	52	0	Atlantic salmon	Salmo	100.0
+taxongroup	Atl-f357_319_salmon-41	Atl-f357_319_Salmo-37	Atl-f357_319_salmon-41_1590	319	Atl-f357_319_Salmo-37_1260	319	0	Atlantic salmon	Salmo	100.0
+taxongroup	Atl-f357_319_salmon-26	Atl-f357_319_Salmo-37	Atl-f357_319_salmon-26_1590	319	Atl-f357_319_Salmo-37_1260	319	0	Atlantic salmon	Salmo	100.0
+taxongroup	Bro-dfd8_15_trout-15	Bro-dfd8_15_Salmo-1	Bro-dfd8_15_trout-15_4741	15	Bro-dfd8_15_Salmo-1_1260	15	0	brown trout	Salmo	100.0
+taxongroup	Bro-dfd8_11_trout-7	Bro-dfd8_11_Salmo-9	Bro-dfd8_11_trout-7_4741	11	Bro-dfd8_11_Salmo-9_1260	11	0	brown trout	Salmo	100.0
+taxongroup	Bro-dfd8_2_trout-3	Bro-dfd8_2_Salmo-5	Bro-dfd8_2_trout-3_4741	2	Bro-dfd8_2_Salmo-5_1260	2	0	brown trout	Salmo	100.0
+taxongroup	Red-5937_11_piranha-5	Red-5937_11_characids-22	Red-5937_11_piranha-5_5391	11	Red-5937_11_characids-22_4064	11	0	red-bellied piranha	characids	100.0
+taxongroup	Sal-5fdb_52_trout-16	Sal-5fdb_52_Salmo-1	Sal-5fdb_52_trout-16_4741	52	Sal-5fdb_52_Salmo-1_1260	52	0	brown trout	Salmo	100.0
+taxongroup	Sal-5fdb_52_trout-26	Sal-5fdb_52_Salmo-1	Sal-5fdb_52_trout-26_4741	52	Sal-5fdb_52_Salmo-1_1260	52	0	brown trout	Salmo	100.0
+taxongroup	Red-5937_2_piranha-5	Red-5937_2_Pygocentrus-14	Red-5937_2_piranha-5_5391	2	Red-5937_2_Pygocentrus-14_1235	2	0	red-bellied piranha	Pygocentrus	100.0
+taxongroup	Cat-98ff_209_catfish-4	Cat-98ff_209_vertebrate-23	Cat-98ff_209_catfish-4_1849	209	Cat-98ff_209_vertebrate-23_3935	209	0	Catfish	vertebrates	100.0
+taxongroup	Sal-702e_25_salmon-11	Sal-702e_25_salmon-11	Sal-702e_25_salmon-11_1590	25	Sal-702e_25_salmon-11_1261	25	0	Atlantic salmon	Atlantic salmon and trout	100.0
+taxongroup	Eng-0ed2_8_anchoveta-74	Eng-0ed2_8_Engraulis-47	Eng-0ed2_8_anchoveta-74_3044	8	Eng-0ed2_8_Engraulis-47_1017	8	0	Peruvian anchoveta	Engraulis	100.0
+taxongroup	Eng-0ed2_8_anchoveta-74	Eng-0ed2_8_Engraulis-23	Eng-0ed2_8_anchoveta-74_3044	8	Eng-0ed2_8_Engraulis-23_1017	8	0	Peruvian anchoveta	Engraulis	100.0
+taxongroup	Eng-0ed2_8_anchoveta-74	Eng-0ed2_8_Engraulis-1	Eng-0ed2_8_anchoveta-74_3044	8	Eng-0ed2_8_Engraulis-1_1017	8	0	Peruvian anchoveta	Engraulis	100.0
+taxongroup	Eng-0ed2_8_anchoveta-74	Eng-0ed2_8_Engraulis-13	Eng-0ed2_8_anchoveta-74_3044	8	Eng-0ed2_8_Engraulis-13_1017	8	0	Peruvian anchoveta	Engraulis	100.0
+taxongroup	Fro-21e4_3_frogfish-13	Fro-21e4_3_anglerfish-5	Fro-21e4_3_frogfish-13_4993	3	Fro-21e4_3_anglerfish-5_4598	3	0	frogfish	anglerfish	100.0
+taxongroup	Fro-21e4_83_frogfish-14	Fro-21e4_83_animal-32	Fro-21e4_83_frogfish-14_4993	83	Fro-21e4_83_animal-32_44	83	0	frogfish	Animals	100.0
+taxongroup	Fro-21e4_88_frogfish-8	Fro-21e4_88_animals-16	Fro-21e4_88_frogfish-8_4993	88	Fro-21e4_88_animals-16_44	88	0	frogfish	Animals	100.0
+taxongroup	Sal-5fdb_2_Salmo-1	Sal-5fdb_2_Salmonidae-16	Sal-5fdb_2_Salmo-1_1260	2	Sal-5fdb_2_Salmonidae-16_788	2	0	Salmo	Salmonidae	100.0
+taxongroup	Eel-a7fb_2_catfish-11	Eel-a7fb_2_catfish-11	Eel-a7fb_2_catfish-11_4894	2	Eel-a7fb_2_catfish-11_1849	2	0	eeltail catfish	Catfish	100.0
+taxongroup	Eel-a7fb_2_catfish-11	Eel-a7fb_2_catfish-3	Eel-a7fb_2_catfish-11_4894	2	Eel-a7fb_2_catfish-3_1849	2	0	eeltail catfish	Catfish	100.0
+taxongroup	Eel-a7fb_2_catfish-3	Eel-a7fb_2_catfish-3	Eel-a7fb_2_catfish-3_4894	2	Eel-a7fb_2_catfish-3_1849	2	0	eeltail catfish	Catfish	100.0
+taxongroup	Eel-a7fb_2_catfish-3	Eel-a7fb_2_catfish-11	Eel-a7fb_2_catfish-3_4894	2	Eel-a7fb_2_catfish-11_1849	2	0	eeltail catfish	Catfish	100.0
+taxongroup	Sal-702e_47_Salmonidae-8	Sal-702e_47_Salmoniformes-6	Sal-702e_47_Salmonidae-8_788	47	Sal-702e_47_Salmoniformes-6_3767	47	0	Salmonidae	Salmoniformes	100.0
+taxongroup	Eng-0ed2_8_anchoveta-74	Eng-0ed2_8_Engraulis-34	Eng-0ed2_8_anchoveta-74_3044	8	Eng-0ed2_8_Engraulis-34_1017	8	0	Peruvian anchoveta	Engraulis	100.0
+taxongroup	Eng-0ed2_8_anchoveta-74	Eng-0ed2_8_Engraulis-58	Eng-0ed2_8_anchoveta-74_3044	8	Eng-0ed2_8_Engraulis-58_1017	8	0	Peruvian anchoveta	Engraulis	100.0
+taxongroup	Ang-a76e_98_anglerfish-24	Ang-a76e_98_animal-12	Ang-a76e_98_anglerfish-24_4598	98	Ang-a76e_98_animal-12_3812	98	0	anglerfish	animals	100.0
+taxongroup	Eng-0ed2_8_anchoveta-74	Eng-0ed2_8_Engraulis-67	Eng-0ed2_8_anchoveta-74_3044	8	Eng-0ed2_8_Engraulis-67_1017	8	0	Peruvian anchoveta	Engraulis	100.0
+taxongroup	Ang-a76e_98_anglerfish-17	Ang-a76e_98_animal-12	Ang-a76e_98_anglerfish-17_4598	98	Ang-a76e_98_animal-12_3812	98	0	anglerfish	animals	100.0
+taxongroup	Gob6890_1_goby-11	Gob6890_1_vertebrate-21	Gob6890_1_goby-11_5016	1	Gob6890_1_vertebrate-21_3935	1	0	gobies	vertebrates	100.0
+taxongroup	Ver-1720_95_actinopterygii-9	Ver-1720_95_fishes-6	Ver-1720_95_actinopterygii-9_3989	95	Ver-1720_95_fishes-6_5290	95	0	actinopterygii	bony fish	100.0
+taxongroup	Gob-6481_2_gobies-3	Gob-6481_2_fish-19	Gob-6481_2_gobies-3_5016	2	Gob-6481_2_fish-19_5290	2	0	gobies	bony fish	100.0
+taxongroup	Gob-6481_2_gobies-3	Gob-6481_2_fish-9	Gob-6481_2_gobies-3_5016	2	Gob-6481_2_fish-9_5290	2	0	gobies	bony fish	100.0
+taxongroup	Gob-1939_3_gobies-7	Gob-1939_3_Perciformes-14	Gob-1939_3_gobies-7_5016	3	Gob-1939_3_Perciformes-14_3033	3	0	gobies	Perciformes	100.0
+taxongroup	Amb-b5dc_85_frogfishes-12	Amb-b5dc_85_vertebrates-6	Amb-b5dc_85_frogfishes-12_4993	85	Amb-b5dc_85_vertebrates-6_3935	85	0	frogfish	vertebrates	100.0
+taxongroup	Fro-21e4_51_frogfish-7	Fro-21e4_51_anglerfish-11	Fro-21e4_51_frogfish-7_4993	51	Fro-21e4_51_anglerfish-11_4598	51	0	frogfish	anglerfish	100.0
+taxongroup	Amb-b5dc_85_frogfishes-12	Amb-b5dc_85_anglerfishes-14	Amb-b5dc_85_frogfishes-12_4993	85	Amb-b5dc_85_anglerfishes-14_4598	85	0	frogfish	anglerfish	100.0
+taxongroup	Sal-702e_52_salmon-17	Sal-702e_52_salmon-17	Sal-702e_52_salmon-17_1590	52	Sal-702e_52_salmon-17_1261	52	0	Atlantic salmon	Atlantic salmon and trout	100.0
+taxongroup	Ver-1720_7_Actinopterygii-1	Ver-1720_7_vertebrates-22	Ver-1720_7_Actinopterygii-1_374	7	Ver-1720_7_vertebrates-22_3935	7	0	Actinopterygii	vertebrates	100.0
+taxongroup	Cho-ea02_55_Actinopterygii-54	Cho-ea02_55_fish-21	Cho-ea02_55_Actinopterygii-54_374	55	Cho-ea02_55_fish-21_5290	55	0	Actinopterygii	bony fish	100.0
+taxongroup	Ver-1720_132_Actinopterygii-2	Ver-1720_132_fishes-8	Ver-1720_132_Actinopterygii-2_374	132	Ver-1720_132_fishes-8_5290	132	0	Actinopterygii	bony fish	100.0
+taxongroup	Ver-1720_7_Actinopterygii-1	Ver-1720_7_fish-6	Ver-1720_7_Actinopterygii-1_374	7	Ver-1720_7_fish-6_5290	7	0	Actinopterygii	bony fish	100.0
+taxongroup	Sar-0f18_4_Actinopterygii-14	Sar-0f18_4_fish-11	Sar-0f18_4_Actinopterygii-14_374	4	Sar-0f18_4_fish-11_5290	4	0	Actinopterygii	bony fish	100.0
+taxongroup	Ost-8757_39_Actinopterygii-12	Ost-8757_39_fish-3	Ost-8757_39_Actinopterygii-12_374	39	Ost-8757_39_fish-3_5290	39	0	Actinopterygii	bony fish	100.0
+taxongroup	Ost-8757_39_Actinopterygii-12	Ost-8757_39_fish-10	Ost-8757_39_Actinopterygii-12_374	39	Ost-8757_39_fish-10_5290	39	0	Actinopterygii	bony fish	100.0
+taxongroup	Atl-fb88_25_Actinopterygii-8	Atl-fb88_25_fishes-20	Atl-fb88_25_Actinopterygii-8_374	25	Atl-fb88_25_fishes-20_5290	25	0	Actinopterygii	bony fish	100.0
+taxongroup	Spi-f1b2_2_seahorse-3	Spi-f1b2_2_Hippocampus-5	Spi-f1b2_2_seahorse-3_5194	2	Spi-f1b2_2_Hippocampus-5_1274	2	0	spiny seahorse	Hippocampus	100.0
+taxongroup	Act-681d_2_Actinopterygii-1	Act-681d_2_fish-44	Act-681d_2_Actinopterygii-1_374	2	Act-681d_2_fish-44_5290	2	0	Actinopterygii	bony fish	100.0
+taxongroup	Act-681d_2_Actinopterygii-1	Act-681d_2_fish-35	Act-681d_2_Actinopterygii-1_374	2	Act-681d_2_fish-35_5290	2	0	Actinopterygii	bony fish	100.0
+taxongroup	Atl-fb88_25_Actinopterygii-8	Atl-fb88_25_fishes-33	Atl-fb88_25_Actinopterygii-8_374	25	Atl-fb88_25_fishes-33_5290	25	0	Actinopterygii	bony fish	100.0
+taxongroup	Cho-ea02_55_Actinopterygii-54	Cho-ea02_55_vertebrates-81	Cho-ea02_55_Actinopterygii-54_374	55	Cho-ea02_55_vertebrates-81_3935	55	0	Actinopterygii	vertebrates	100.0
+taxongroup	Ost-8757_6_Actinopterygii-16	Ost-8757_6_vertebrates-43	Ost-8757_6_Actinopterygii-16_374	6	Ost-8757_6_vertebrates-43_3935	6	0	Actinopterygii	vertebrates	100.0
+taxongroup	Cho-ea02_55_Actinopterygii-54	Cho-ea02_55_fish-47	Cho-ea02_55_Actinopterygii-54_374	55	Cho-ea02_55_fish-47_5290	55	0	Actinopterygii	bony fish	100.0
+taxongroup	Atl-12cc_2_sailfish-3	Atl-12cc_2_Istiophoridae-17	Atl-12cc_2_sailfish-3_1586	2	Atl-12cc_2_Istiophoridae-17_682	2	0	Atlantic sailfish	Istiophoridae	100.0
+taxongroup	Spi-f1b2_2_seahorse-15	Spi-f1b2_2_Hippocampus-5	Spi-f1b2_2_seahorse-15_5194	2	Spi-f1b2_2_Hippocampus-5_1274	2	0	spiny seahorse	Hippocampus	100.0
+taxongroup	Atl-12cc_2_sailfish-3	Atl-12cc_2_Istiophorus-5	Atl-12cc_2_sailfish-3_1586	2	Atl-12cc_2_Istiophorus-5_1259	2	0	Atlantic sailfish	Istiophorus	100.0
+taxongroup	Sea-bfbc_2_trout-19	Sea-bfbc_2_Salmo-31	Sea-bfbc_2_trout-19_4741	2	Sea-bfbc_2_Salmo-31_1260	2	0	brown trout	Salmo	100.0
+taxongroup	Sea-bfbc_12_trout-26	Sea-bfbc_12_Salmo-9	Sea-bfbc_12_trout-26_4741	12	Sea-bfbc_12_Salmo-9_1260	12	0	brown trout	Salmo	100.0
+taxongroup	Fer-4919_4_trout-19	Fer-4919_4_Salmo-21	Fer-4919_4_trout-19_4741	4	Fer-4919_4_Salmo-21_1260	4	0	brown trout	Salmo	100.0
+taxongroup	Sea-bfbc_2_trout-2	Sea-bfbc_2_Salmo-31	Sea-bfbc_2_trout-2_4741	2	Sea-bfbc_2_Salmo-31_1260	2	0	brown trout	Salmo	100.0
+taxongroup	Sea-bfbc_14_trout-21	Sea-bfbc_14_Salmo-5	Sea-bfbc_14_trout-21_4741	14	Sea-bfbc_14_Salmo-5_1260	14	0	brown trout	Salmo	100.0
+taxongroup	Cam-4bd8_247_Actinopterygii-19	Cam-4bd8_247_fishes-17	Cam-4bd8_247_Actinopterygii-19_374	247	Cam-4bd8_247_fishes-17_5290	247	0	Actinopterygii	bony fish	100.0
+taxongroup	Atl-fb88_25_Actinopterygii-8	Atl-fb88_25_fishes-15	Atl-fb88_25_Actinopterygii-8_374	25	Atl-fb88_25_fishes-15_5290	25	0	Actinopterygii	bony fish	100.0
+taxongroup	Cho-ea02_55_Actinopterygii-54	Cho-ea02_55_fish-71	Cho-ea02_55_Actinopterygii-54_374	55	Cho-ea02_55_fish-71_5290	55	0	Actinopterygii	bony fish	100.0
+taxongroup	Ver-1720_7_Actinopterygii-1	Ver-1720_7_fish-15	Ver-1720_7_Actinopterygii-1_374	7	Ver-1720_7_fish-15_5290	7	0	Actinopterygii	bony fish	100.0
+taxongroup	Sea-bfbc_2_trout-19	Sea-bfbc_2_Salmo-21	Sea-bfbc_2_trout-19_4741	2	Sea-bfbc_2_Salmo-21_1260	2	0	brown trout	Salmo	100.0
+taxongroup	Cho-ea02_55_Actinopterygii-54	Cho-ea02_55_fish-59	Cho-ea02_55_Actinopterygii-54_374	55	Cho-ea02_55_fish-59_5290	55	0	Actinopterygii	bony fish	100.0
+taxongroup	Can-795a_2_Vandellia-3	Can-795a_2_catfish-25	Can-795a_2_Vandellia-3_3597	2	Can-795a_2_catfish-25_4761	2	0	Vandellia	catfish	87.0
+taxongroup	Atl-f357_320_salar-8	Atl-f357_320_Salmo-7	Atl-f357_320_salar-8_1591	320	Atl-f357_320_Salmo-7_1260	320	0	Salmo salar	Salmo	87.0
+taxongroup	Atl-f357_20_salar-17	Atl-f357_20_salmo-11	Atl-f357_20_salar-17_1591	20	Atl-f357_20_salmo-11_4456	20	0	Salmo salar	salmo	87.0
+taxongroup	Atl-f357_20_salar-5	Atl-f357_20_salmo-11	Atl-f357_20_salar-5_1591	20	Atl-f357_20_salmo-11_4456	20	0	Salmo salar	salmo	87.0
+taxongroup	Sal-702e_4_salar-6	Sal-702e_4_Salmo-5	Sal-702e_4_salar-6_1591	4	Sal-702e_4_Salmo-5_1260	4	0	Salmo salar	Salmo	87.0
+taxongroup	Sal-702e_4_salar-6	Sal-702e_4_Salmo-17	Sal-702e_4_salar-6_1591	4	Sal-702e_4_Salmo-17_1260	4	0	Salmo salar	Salmo	87.0
+taxongroup	Sea-e4bc_36_guttulatus-12	Sea-e4bc_36_Hippocampus-11	Sea-e4bc_36_guttulatus-12_2745	36	Sea-e4bc_36_Hippocampus-11_1274	36	0	Hippocampus guttulatus	Hippocampus	87.0
+taxongroup	Atl-12cc_29_albicans-3	Atl-12cc_29_Istiophorus-2	Atl-12cc_29_albicans-3_1587	29	Atl-12cc_29_Istiophorus-2_1259	29	0	Istiophorus albicans	Istiophorus	87.0
+taxongroup	Atl-f357_2_salar-6	Atl-f357_2_Salmo-5	Atl-f357_2_salar-6_1591	2	Atl-f357_2_Salmo-5_1260	2	0	Salmo salar	Salmo	87.0
+taxongroup	Cat-98ff_3_Vandellia-73	Cat-98ff_3_catfish-14	Cat-98ff_3_Vandellia-73_3597	3	Cat-98ff_3_catfish-14_4761	3	0	Vandellia	catfish	87.0
+taxongroup	Cat-98ff_3_Vandellia-73	Cat-98ff_3_catfish-37	Cat-98ff_3_Vandellia-73_3597	3	Cat-98ff_3_catfish-37_4761	3	0	Vandellia	catfish	87.0
+taxongroup	Atl-f357_20_salar-17	Atl-f357_20_Salmo-4	Atl-f357_20_salar-17_1591	20	Atl-f357_20_Salmo-4_1260	20	0	Salmo salar	Salmo	87.0
+taxongroup	Atl-f357_226_salar-50	Atl-f357_226_Salmo-49	Atl-f357_226_salar-50_1591	226	Atl-f357_226_Salmo-49_1260	226	0	Salmo salar	Salmo	87.0
+taxongroup	Fro-21e4_14_Antennariidae-2	Fro-21e4_14_anglerfishes-15	Fro-21e4_14_Antennariidae-2_2315	14	Fro-21e4_14_anglerfishes-15_4598	14	0	Antennariidae	anglerfish	87.0
+taxongroup	Atl-f357_20_salar-5	Atl-f357_20_Salmo-4	Atl-f357_20_salar-5_1591	20	Atl-f357_20_Salmo-4_1260	20	0	Salmo salar	Salmo	87.0
+taxongroup	Cat-98ff_3_Vandellia-73	Cat-98ff_3_catfish-30	Cat-98ff_3_Vandellia-73_3597	3	Cat-98ff_3_catfish-30_4761	3	0	Vandellia	catfish	87.0
+taxongroup	Com-264e_2_taeniolatus-9	Com-264e_2_Syngnathiformes-18	Com-264e_2_taeniolatus-9_3065	2	Com-264e_2_Syngnathiformes-18_3771	2	0	Phyllopteryx taeniolatus	Syngnathiformes	87.0
+taxongroup	Atl-f357_187_salmon-13	Atl-f357_187_salmon-13	Atl-f357_187_salmon-13_1590	187	Atl-f357_187_salmon-13_1262	187	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_128_salmon-2	Atl-f357_128_salmon-2	Atl-f357_128_salmon-2_1590	128	Atl-f357_128_salmon-2_1262	128	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-7	Atl-f357_23_salmon-27	Atl-f357_23_salmon-7_1590	23	Atl-f357_23_salmon-27_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-27	Atl-f357_23_salmon-27	Atl-f357_23_salmon-27_1590	23	Atl-f357_23_salmon-27_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_237_salmon-16	Atl-f357_237_salmon-16	Atl-f357_237_salmon-16_1590	237	Atl-f357_237_salmon-16_1262	237	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_180_salmon-14	Atl-f357_180_salmon-14	Atl-f357_180_salmon-14_1590	180	Atl-f357_180_salmon-14_1262	180	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Bro-dfd8_88_trout-6	Bro-dfd8_88_salmon-16	Bro-dfd8_88_trout-6_4741	88	Bro-dfd8_88_salmon-16_1262	88	0	brown trout	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-19	Atl-f357_23_salmon-14	Atl-f357_23_salmon-19_1590	23	Atl-f357_23_salmon-14_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_179_salmon-12	Atl-f357_179_salmon-12	Atl-f357_179_salmon-12_1590	179	Atl-f357_179_salmon-12_1262	179	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_234_salmon-2	Atl-f357_234_salmon-2	Atl-f357_234_salmon-2_1590	234	Atl-f357_234_salmon-2_1262	234	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_157_salmon-6	Atl-f357_157_salmon-6	Atl-f357_157_salmon-6_1590	157	Atl-f357_157_salmon-6_1262	157	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_161_salmon-2	Atl-f357_161_salmon-2	Atl-f357_161_salmon-2_1590	161	Atl-f357_161_salmon-2_1262	161	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_231_salmon-8	Atl-f357_231_salmon-8	Atl-f357_231_salmon-8_1590	231	Atl-f357_231_salmon-8_1262	231	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_174_salmon-2	Atl-f357_174_salmon-2	Atl-f357_174_salmon-2_1590	174	Atl-f357_174_salmon-2_1262	174	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_186_salmon-15	Atl-f357_186_salmon-15	Atl-f357_186_salmon-15_1590	186	Atl-f357_186_salmon-15_1262	186	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_185_salmon-14	Atl-f357_185_salmon-14	Atl-f357_185_salmon-14_1590	185	Atl-f357_185_salmon-14_1262	185	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_182_salmon-22	Atl-f357_182_salmon-22	Atl-f357_182_salmon-22_1590	182	Atl-f357_182_salmon-22_1262	182	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_211_salmon-2	Atl-f357_211_salmon-2	Atl-f357_211_salmon-2_1590	211	Atl-f357_211_salmon-2_1262	211	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_1_salmon-2	Atl-f357_1_salmon-2	Atl-f357_1_salmon-2_1590	1	Atl-f357_1_salmon-2_1262	1	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_19_salmon-3	Atl-f357_19_salmon-3	Atl-f357_19_salmon-3_1590	19	Atl-f357_19_salmon-3_1262	19	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-19	Atl-f357_23_salmon-11	Atl-f357_23_salmon-19_1590	23	Atl-f357_23_salmon-11_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_183_salmon-16	Atl-f357_183_salmon-16	Atl-f357_183_salmon-16_1590	183	Atl-f357_183_salmon-16_1262	183	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_18_salmon-2	Atl-f357_18_salmon-2	Atl-f357_18_salmon-2_1590	18	Atl-f357_18_salmon-2_1262	18	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-14	Atl-f357_23_salmon-30	Atl-f357_23_salmon-14_1590	23	Atl-f357_23_salmon-30_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_190_salmon-2	Atl-f357_190_salmon-2	Atl-f357_190_salmon-2_1590	190	Atl-f357_190_salmon-2_1262	190	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-14	Atl-f357_23_salmon-7	Atl-f357_23_salmon-14_1590	23	Atl-f357_23_salmon-7_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Bil-e183_3_billfish-2	Bil-e183_3_Istiophoridae-13	Bil-e183_3_billfish-2_4636	3	Bil-e183_3_Istiophoridae-13_682	3	0	billfish	Istiophoridae	83.0
+taxongroup	Pac-9197_19_characin-11	Pac-9197_19_Characiformes-23	Pac-9197_19_characin-11_4065	19	Pac-9197_19_Characiformes-23_3740	19	0	characins	Characiformes	83.0
+taxongroup	Com-264e_2_seadragon-3	Com-264e_2_Syngnathiformes-18	Com-264e_2_seadragon-3_5341	2	Com-264e_2_Syngnathiformes-18_3771	2	0	common seadragon	Syngnathiformes	83.0
+taxongroup	Com-264e_2_seadragon-6	Com-264e_2_Syngnathiformes-18	Com-264e_2_seadragon-6_5341	2	Com-264e_2_Syngnathiformes-18_3771	2	0	common seadragon	Syngnathiformes	83.0
+taxongroup	Can-795a_2_fish-13	Can-795a_2_catfish-25	Can-795a_2_fish-13_5591	2	Can-795a_2_catfish-25_4761	2	0	toothpick fish	catfish	83.0
+taxongroup	Can-795a_2_fish-17	Can-795a_2_catfish-25	Can-795a_2_fish-17_5591	2	Can-795a_2_catfish-25_4761	2	0	toothpick fish	catfish	83.0
+taxongroup	Gia-ae2f_156_characins-25	Gia-ae2f_156_Characiformes-21	Gia-ae2f_156_characins-25_4065	156	Gia-ae2f_156_Characiformes-21_3740	156	0	characins	Characiformes	83.0
+taxongroup	Ara-0423_37_arapaima-5	Ara-0423_37_animals-21	Ara-0423_37_arapaima-5_4619	37	Ara-0423_37_animals-21_3812	37	0	arapaima	animals	83.0
+taxongroup	Act-681d_87_pacu-24	Act-681d_87_Characiformes-2	Act-681d_87_pacu-24_5532	87	Act-681d_87_Characiformes-2_3740	87	0	pacu	Characiformes	83.0
+taxongroup	Ost-8757_60_Arapaima-16	Ost-8757_60_fish-11	Ost-8757_60_Arapaima-16_1542	60	Ost-8757_60_fish-11_5290	60	0	Arapaima	bony fish	83.0
+taxongroup	Ost-8757_60_Arapaima-16	Ost-8757_60_fish-25	Ost-8757_60_Arapaima-16_1542	60	Ost-8757_60_fish-25_5290	60	0	Arapaima	bony fish	83.0
+taxongroup	Sea-e4bc_13_seahorse-16	Sea-e4bc_13_hippocampus-20	Sea-e4bc_13_seahorse-16_2747	13	Sea-e4bc_13_hippocampus-20_4464	13	0	long-snouted seahorse	hippocampus	83.0
+taxongroup	Sea-e4bc_13_seahorse-26	Sea-e4bc_13_hippocampus-20	Sea-e4bc_13_seahorse-26_2747	13	Sea-e4bc_13_hippocampus-20_4464	13	0	long-snouted seahorse	hippocampus	83.0
+taxongroup	Act-681d_87_characins-6	Act-681d_87_Characiformes-2	Act-681d_87_characins-6_4065	87	Act-681d_87_Characiformes-2_3740	87	0	characins	Characiformes	83.0
+taxongroup	Ara-0423_3_Arapaima-1	Ara-0423_3_Osteoglossidae-13	Ara-0423_3_Arapaima-1_1542	3	Ara-0423_3_Osteoglossidae-13_468	3	0	Arapaima	Osteoglossidae	83.0
+taxongroup	Atl-f357_296_salmon-11	Atl-f357_296_salmon-11	Atl-f357_296_salmon-11_1590	296	Atl-f357_296_salmon-11_1262	296	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Pac-9197_23_Pacu-1	Pac-9197_23_Characidae-20	Pac-9197_23_Pacu-1_3466	23	Pac-9197_23_Characidae-20_521	23	0	Pacu	Characidae	83.0
+taxongroup	Pac-9197_19_Pacu-1	Pac-9197_19_Characiformes-23	Pac-9197_19_Pacu-1_3466	19	Pac-9197_19_Characiformes-23_3740	19	0	Pacu	Characiformes	83.0
+taxongroup	Cha-7261_2_characins-13	Cha-7261_2_Characiformes-1	Cha-7261_2_characins-13_4065	2	Cha-7261_2_Characiformes-1_3740	2	0	characins	Characiformes	83.0
+taxongroup	Tam-0d84_13_tambaqui-2	Tam-0d84_13_characin-6	Tam-0d84_13_tambaqui-2_5531	13	Tam-0d84_13_characin-6_4065	13	0	tambaqui	characins	83.0
+taxongroup	Atl-f357_288_salmon-5	Atl-f357_288_salmon-5	Atl-f357_288_salmon-5_1590	288	Atl-f357_288_salmon-5_1262	288	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_93_salmon-3	Atl-f357_93_salmon-3	Atl-f357_93_salmon-3_1590	93	Atl-f357_93_salmon-3_1262	93	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_26_salmon-2	Atl-f357_26_salmon-2	Atl-f357_26_salmon-2_1590	26	Atl-f357_26_salmon-2_1262	26	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Sea-bfbc_32_salmon-14	Sea-bfbc_32_salmon-14	Sea-bfbc_32_salmon-14_1590	32	Sea-bfbc_32_salmon-14_1262	32	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-30	Atl-f357_23_salmon-30	Atl-f357_23_salmon-30_1590	23	Atl-f357_23_salmon-30_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_39_salmon-2	Atl-f357_39_salmon-2	Atl-f357_39_salmon-2_1590	39	Atl-f357_39_salmon-2_1262	39	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-24	Atl-f357_23_salmon-7	Atl-f357_23_salmon-24_1590	23	Atl-f357_23_salmon-7_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-11	Atl-f357_23_salmon-11	Atl-f357_23_salmon-11_1590	23	Atl-f357_23_salmon-11_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-11	Atl-f357_23_salmon-24	Atl-f357_23_salmon-11_1590	23	Atl-f357_23_salmon-24_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_237_salmon-16	Atl-f357_237_salmon-7	Atl-f357_237_salmon-16_1590	237	Atl-f357_237_salmon-7_1262	237	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-19	Atl-f357_23_salmon-30	Atl-f357_23_salmon-19_1590	23	Atl-f357_23_salmon-30_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Ani-ab87_8_salmon-9	Ani-ab87_8_salmon-9	Ani-ab87_8_salmon-9_1590	8	Ani-ab87_8_salmon-9_1262	8	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-11	Atl-f357_23_salmon-14	Atl-f357_23_salmon-11_1590	23	Atl-f357_23_salmon-14_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-14	Atl-f357_23_salmon-27	Atl-f357_23_salmon-14_1590	23	Atl-f357_23_salmon-27_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-24	Atl-f357_23_salmon-11	Atl-f357_23_salmon-24_1590	23	Atl-f357_23_salmon-11_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-24	Atl-f357_23_salmon-19	Atl-f357_23_salmon-24_1590	23	Atl-f357_23_salmon-19_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_32_salmon-6	Atl-f357_32_salmon-6	Atl-f357_32_salmon-6_1590	32	Atl-f357_32_salmon-6_1262	32	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_264_salmon-17	Atl-f357_264_salmon-17	Atl-f357_264_salmon-17_1590	264	Atl-f357_264_salmon-17_1262	264	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-7	Atl-f357_23_salmon-7	Atl-f357_23_salmon-7_1590	23	Atl-f357_23_salmon-7_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_259_salmon-2	Atl-f357_259_salmon-2	Atl-f357_259_salmon-2_1590	259	Atl-f357_259_salmon-2_1262	259	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Sal672e_6_salmon-8	Sal672e_6_salmon-8	Sal672e_6_salmon-8_1590	6	Sal672e_6_salmon-8_1262	6	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Orc-02f3_209_salmon-23	Orc-02f3_209_salmon-8	Orc-02f3_209_salmon-23_1590	209	Orc-02f3_209_salmon-8_1262	209	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-30	Atl-f357_23_salmon-7	Atl-f357_23_salmon-30_1590	23	Atl-f357_23_salmon-7_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-27	Atl-f357_23_salmon-19	Atl-f357_23_salmon-27_1590	23	Atl-f357_23_salmon-19_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Orc-02f3_209_salmon-8	Orc-02f3_209_salmon-8	Orc-02f3_209_salmon-8_1590	209	Orc-02f3_209_salmon-8_1262	209	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_241_salmon-16	Atl-f357_241_salmon-16	Atl-f357_241_salmon-16_1590	241	Atl-f357_241_salmon-16_1262	241	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_274_salmon-2	Atl-f357_274_salmon-2	Atl-f357_274_salmon-2_1590	274	Atl-f357_274_salmon-2_1262	274	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_97_salmon-2	Atl-f357_97_salmon-2	Atl-f357_97_salmon-2_1590	97	Atl-f357_97_salmon-2_1262	97	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_250_salmon-24	Atl-f357_250_salmon-24	Atl-f357_250_salmon-24_1590	250	Atl-f357_250_salmon-24_1262	250	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_250_salmon-24	Atl-f357_250_salmon-5	Atl-f357_250_salmon-24_1590	250	Atl-f357_250_salmon-5_1262	250	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_250_salmon-5	Atl-f357_250_salmon-24	Atl-f357_250_salmon-5_1590	250	Atl-f357_250_salmon-24_1262	250	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_250_salmon-5	Atl-f357_250_salmon-5	Atl-f357_250_salmon-5_1590	250	Atl-f357_250_salmon-5_1262	250	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_253_salmon-2	Atl-f357_253_salmon-2	Atl-f357_253_salmon-2_1590	253	Atl-f357_253_salmon-2_1262	253	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_257_salmon-23	Atl-f357_257_salmon-23	Atl-f357_257_salmon-23_1590	257	Atl-f357_257_salmon-23_1262	257	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_258_salmon-2	Atl-f357_258_salmon-2	Atl-f357_258_salmon-2_1590	258	Atl-f357_258_salmon-2_1262	258	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-27	Atl-f357_23_salmon-24	Atl-f357_23_salmon-27_1590	23	Atl-f357_23_salmon-24_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-27	Atl-f357_23_salmon-11	Atl-f357_23_salmon-27_1590	23	Atl-f357_23_salmon-11_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-11	Atl-f357_23_salmon-19	Atl-f357_23_salmon-11_1590	23	Atl-f357_23_salmon-19_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-27	Atl-f357_23_salmon-14	Atl-f357_23_salmon-27_1590	23	Atl-f357_23_salmon-14_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-19	Atl-f357_23_salmon-24	Atl-f357_23_salmon-19_1590	23	Atl-f357_23_salmon-24_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_177_salmon-3	Atl-f357_177_salmon-3	Atl-f357_177_salmon-3_1590	177	Atl-f357_177_salmon-3_1262	177	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_133_salmon-17	Atl-f357_133_salmon-5	Atl-f357_133_salmon-17_1590	133	Atl-f357_133_salmon-5_1262	133	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_133_salmon-5	Atl-f357_133_salmon-17	Atl-f357_133_salmon-5_1590	133	Atl-f357_133_salmon-17_1262	133	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_133_salmon-5	Atl-f357_133_salmon-5	Atl-f357_133_salmon-5_1590	133	Atl-f357_133_salmon-5_1262	133	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_138_salmon-2	Atl-f357_138_salmon-2	Atl-f357_138_salmon-2_1590	138	Atl-f357_138_salmon-2_1262	138	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_139_salmon-8	Atl-f357_139_salmon-8	Atl-f357_139_salmon-8_1590	139	Atl-f357_139_salmon-8_1262	139	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_143_salmon-2	Atl-f357_143_salmon-2	Atl-f357_143_salmon-2_1590	143	Atl-f357_143_salmon-2_1262	143	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_148_salmon-7	Atl-f357_148_salmon-7	Atl-f357_148_salmon-7_1590	148	Atl-f357_148_salmon-7_1262	148	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_151_salmon-32	Atl-f357_151_salmon-32	Atl-f357_151_salmon-32_1590	151	Atl-f357_151_salmon-32_1262	151	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_153_salmon-2	Atl-f357_153_salmon-2	Atl-f357_153_salmon-2_1590	153	Atl-f357_153_salmon-2_1262	153	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_158_salmon-7	Atl-f357_158_salmon-7	Atl-f357_158_salmon-7_1590	158	Atl-f357_158_salmon-7_1262	158	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Bro-dfd8_88_salmon-16	Bro-dfd8_88_salmon-16	Bro-dfd8_88_salmon-16_1590	88	Bro-dfd8_88_salmon-16_1262	88	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_46_salmon-15	Atl-f357_46_salmon-15	Atl-f357_46_salmon-15_1590	46	Atl-f357_46_salmon-15_1262	46	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_41_salmon-7	Atl-f357_41_salmon-7	Atl-f357_41_salmon-7_1590	41	Atl-f357_41_salmon-7_1262	41	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_108_salmon-7	Atl-f357_108_salmon-7	Atl-f357_108_salmon-7_1590	108	Atl-f357_108_salmon-7_1262	108	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_237_salmon-7	Atl-f357_237_salmon-16	Atl-f357_237_salmon-7_1590	237	Atl-f357_237_salmon-16_1262	237	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-19	Atl-f357_23_salmon-19	Atl-f357_23_salmon-19_1590	23	Atl-f357_23_salmon-19_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-14	Atl-f357_23_salmon-24	Atl-f357_23_salmon-14_1590	23	Atl-f357_23_salmon-24_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-11	Atl-f357_23_salmon-30	Atl-f357_23_salmon-11_1590	23	Atl-f357_23_salmon-30_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-24	Atl-f357_23_salmon-14	Atl-f357_23_salmon-24_1590	23	Atl-f357_23_salmon-14_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_237_salmon-7	Atl-f357_237_salmon-7	Atl-f357_237_salmon-7_1590	237	Atl-f357_237_salmon-7_1262	237	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-14	Atl-f357_23_salmon-11	Atl-f357_23_salmon-14_1590	23	Atl-f357_23_salmon-11_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-14	Atl-f357_23_salmon-14	Atl-f357_23_salmon-14_1590	23	Atl-f357_23_salmon-14_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-14	Atl-f357_23_salmon-19	Atl-f357_23_salmon-14_1590	23	Atl-f357_23_salmon-19_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-11	Atl-f357_23_salmon-27	Atl-f357_23_salmon-11_1590	23	Atl-f357_23_salmon-27_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl4b97_29_salmon-8	Atl4b97_29_salmon-8	Atl4b97_29_salmon-8_1590	29	Atl4b97_29_salmon-8_1262	29	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-19	Atl-f357_23_salmon-7	Atl-f357_23_salmon-19_1590	23	Atl-f357_23_salmon-7_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-24	Atl-f357_23_salmon-30	Atl-f357_23_salmon-24_1590	23	Atl-f357_23_salmon-30_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-24	Atl-f357_23_salmon-27	Atl-f357_23_salmon-24_1590	23	Atl-f357_23_salmon-27_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-24	Atl-f357_23_salmon-24	Atl-f357_23_salmon-24_1590	23	Atl-f357_23_salmon-24_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-11	Atl-f357_23_salmon-7	Atl-f357_23_salmon-11_1590	23	Atl-f357_23_salmon-7_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-19	Atl-f357_23_salmon-27	Atl-f357_23_salmon-19_1590	23	Atl-f357_23_salmon-27_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Sal672e_2_salmon-4	Sal672e_2_salmon-4	Sal672e_2_salmon-4_1590	2	Sal672e_2_salmon-4_1262	2	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-30	Atl-f357_23_salmon-14	Atl-f357_23_salmon-30_1590	23	Atl-f357_23_salmon-14_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Sal-5fdb_46_salmon-8	Sal-5fdb_46_salmon-8	Sal-5fdb_46_salmon-8_1590	46	Sal-5fdb_46_salmon-8_1262	46	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_112_salmon-2	Atl-f357_112_salmon-2	Atl-f357_112_salmon-2_1590	112	Atl-f357_112_salmon-2_1262	112	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_319_salmon-41	Atl-f357_319_salmon-26	Atl-f357_319_salmon-41_1590	319	Atl-f357_319_salmon-26_1262	319	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_319_salmon-26	Atl-f357_319_salmon-41	Atl-f357_319_salmon-26_1590	319	Atl-f357_319_salmon-41_1262	319	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_319_salmon-26	Atl-f357_319_salmon-26	Atl-f357_319_salmon-26_1590	319	Atl-f357_319_salmon-26_1262	319	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_246_salmon-9	Atl-f357_246_salmon-9	Atl-f357_246_salmon-9_1590	246	Atl-f357_246_salmon-9_1262	246	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Orc-02f3_209_salmon-23	Orc-02f3_209_salmon-23	Orc-02f3_209_salmon-23_1590	209	Orc-02f3_209_salmon-23_1262	209	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Orc-02f3_209_salmon-8	Orc-02f3_209_salmon-23	Orc-02f3_209_salmon-8_1590	209	Orc-02f3_209_salmon-23_1262	209	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_317_salmon-2	Atl-f357_317_salmon-2	Atl-f357_317_salmon-2_1590	317	Atl-f357_317_salmon-2_1262	317	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-7	Atl-f357_23_salmon-30	Atl-f357_23_salmon-7_1590	23	Atl-f357_23_salmon-30_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-7	Atl-f357_23_salmon-24	Atl-f357_23_salmon-7_1590	23	Atl-f357_23_salmon-24_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Bro-dfd8_90_salmon-13	Bro-dfd8_90_salmon-13	Bro-dfd8_90_salmon-13_1590	90	Bro-dfd8_90_salmon-13_1262	90	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_307_salmon-8	Atl-f357_307_salmon-8	Atl-f357_307_salmon-8_1590	307	Atl-f357_307_salmon-8_1262	307	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-30	Atl-f357_23_salmon-24	Atl-f357_23_salmon-30_1590	23	Atl-f357_23_salmon-24_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_314_salmon-2	Atl-f357_314_salmon-2	Atl-f357_314_salmon-2_1590	314	Atl-f357_314_salmon-2_1262	314	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_312_salmon-2	Atl-f357_312_salmon-2	Atl-f357_312_salmon-2_1590	312	Atl-f357_312_salmon-2_1262	312	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_30_salmon-3	Atl-f357_30_salmon-3	Atl-f357_30_salmon-3_1590	30	Atl-f357_30_salmon-3_1262	30	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-27	Atl-f357_23_salmon-7	Atl-f357_23_salmon-27_1590	23	Atl-f357_23_salmon-7_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_309_salmon-2	Atl-f357_309_salmon-2	Atl-f357_309_salmon-2_1590	309	Atl-f357_309_salmon-2_1262	309	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_47_salmon-13	Atl-f357_47_salmon-13	Atl-f357_47_salmon-13_1590	47	Atl-f357_47_salmon-13_1262	47	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_295_salmon-2	Atl-f357_295_salmon-2	Atl-f357_295_salmon-2_1590	295	Atl-f357_295_salmon-2_1262	295	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-7	Atl-f357_23_salmon-11	Atl-f357_23_salmon-7_1590	23	Atl-f357_23_salmon-11_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_319_salmon-41	Atl-f357_319_salmon-41	Atl-f357_319_salmon-41_1590	319	Atl-f357_319_salmon-41_1262	319	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_31_salmon-20	Atl-f357_31_salmon-20	Atl-f357_31_salmon-20_1590	31	Atl-f357_31_salmon-20_1262	31	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-7	Atl-f357_23_salmon-19	Atl-f357_23_salmon-7_1590	23	Atl-f357_23_salmon-19_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_90_salmon-2	Atl-f357_90_salmon-2	Atl-f357_90_salmon-2_1590	90	Atl-f357_90_salmon-2_1262	90	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_89_salmon-3	Atl-f357_89_salmon-11	Atl-f357_89_salmon-3_1590	89	Atl-f357_89_salmon-11_1262	89	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_89_salmon-11	Atl-f357_89_salmon-3	Atl-f357_89_salmon-11_1590	89	Atl-f357_89_salmon-3_1262	89	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_85_salmon-2	Atl-f357_85_salmon-2	Atl-f357_85_salmon-2_1590	85	Atl-f357_85_salmon-2_1262	85	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_74_salmon-2	Atl-f357_74_salmon-2	Atl-f357_74_salmon-2_1590	74	Atl-f357_74_salmon-2_1262	74	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_73_salmon-2	Atl-f357_73_salmon-2	Atl-f357_73_salmon-2_1590	73	Atl-f357_73_salmon-2_1262	73	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_133_salmon-17	Atl-f357_133_salmon-17	Atl-f357_133_salmon-17_1590	133	Atl-f357_133_salmon-17_1262	133	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_286_salmon-2	Atl-f357_286_salmon-2	Atl-f357_286_salmon-2_1590	286	Atl-f357_286_salmon-2_1262	286	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_71_salmon-7	Atl-f357_71_salmon-7	Atl-f357_71_salmon-7_1590	71	Atl-f357_71_salmon-7_1262	71	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_55_salmon-12	Atl-f357_55_salmon-12	Atl-f357_55_salmon-12_1590	55	Atl-f357_55_salmon-12_1262	55	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_49_salmon-12	Atl-f357_49_salmon-12	Atl-f357_49_salmon-12_1590	49	Atl-f357_49_salmon-12_1262	49	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_119_salmon-4	Atl-f357_119_salmon-4	Atl-f357_119_salmon-4_1590	119	Atl-f357_119_salmon-4_1262	119	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_48_salmon-14	Atl-f357_48_salmon-14	Atl-f357_48_salmon-14_1590	48	Atl-f357_48_salmon-14_1262	48	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-30	Atl-f357_23_salmon-27	Atl-f357_23_salmon-30_1590	23	Atl-f357_23_salmon-27_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_89_salmon-3	Atl-f357_89_salmon-3	Atl-f357_89_salmon-3_1590	89	Atl-f357_89_salmon-3_1262	89	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_89_salmon-11	Atl-f357_89_salmon-11	Atl-f357_89_salmon-11_1590	89	Atl-f357_89_salmon-11_1262	89	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-27	Atl-f357_23_salmon-30	Atl-f357_23_salmon-27_1590	23	Atl-f357_23_salmon-30_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-30	Atl-f357_23_salmon-19	Atl-f357_23_salmon-30_1590	23	Atl-f357_23_salmon-19_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-30	Atl-f357_23_salmon-11	Atl-f357_23_salmon-30_1590	23	Atl-f357_23_salmon-11_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_23_salmon-7	Atl-f357_23_salmon-14	Atl-f357_23_salmon-7_1590	23	Atl-f357_23_salmon-14_1262	23	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Atl-f357_42_salmon-5	Atl-f357_42_salmon-5	Atl-f357_42_salmon-5_1590	42	Atl-f357_42_salmon-5_1262	42	0	Atlantic salmon	Atlantic salmon	83.0
+taxongroup	Dip-c98d_261_fishes-12	Dip-c98d_261_vertebrates-2	Dip-c98d_261_fishes-12_3990	261	Dip-c98d_261_vertebrates-2_3935	261	0	ray-finned fishes	vertebrates	75.0
+taxongroup	Act-681d_93_salmon-29	Act-681d_93_Salmoniformes-22	Act-681d_93_salmon-29_1261	93	Act-681d_93_Salmoniformes-22_3767	93	0	Atlantic salmon and trout	Salmoniformes	75.0
+taxongroup	Bra-fdd7_38_fish-22	Bra-fdd7_38_animals-37	Bra-fdd7_38_fish-22_5324	38	Bra-fdd7_38_animals-37_3812	38	0	perch-like fishes	animals	75.0
+taxongroup	Bra-fdd7_38_fish-27	Bra-fdd7_38_animals-37	Bra-fdd7_38_fish-27_5324	38	Bra-fdd7_38_animals-37_44	38	0	perch-like fishes	Animals	75.0
+taxongroup	Bra-fdd7_38_fish-12	Bra-fdd7_38_animals-37	Bra-fdd7_38_fish-12_5324	38	Bra-fdd7_38_animals-37_44	38	0	perch-like fishes	Animals	75.0
+taxongroup	Van-cd06_2_Vandellia-1	Van-cd06_2_catfishes-6	Van-cd06_2_Vandellia-1_3597	2	Van-cd06_2_catfishes-6_4762	2	0	Vandellia	catfishes	72.21
+taxongroup	Act-681d_87_pacu-24	Act-681d_87_characins-6	Act-681d_87_pacu-24_5532	87	Act-681d_87_characins-6_4065	87	0	pacu	characins	68.89
+taxongroup	Pac-9197_19_Pacu-1	Pac-9197_19_characin-11	Pac-9197_19_Pacu-1_3466	19	Pac-9197_19_characin-11_4065	19	0	Pacu	characins	68.89
+taxongroup	Com-264e_18_seahorses-8	Com-264e_18_seahorses-8	Com-264e_18_seahorses-8_2749	18	Com-264e_18_seahorses-8_4196	18	0	many branched seahorse	seahorses and pipefish	54.0
+taxongroup	Ang-a76e_99_anglerfish-5	Ang-a76e_98_animal-12	Ang-a76e_99_anglerfish-5_4598	99	Ang-a76e_98_animal-12_3812	98	1	anglerfish	animals	50.0
+taxongroup	Bro-dfd8_13_trout-15	Bro-dfd8_14_animals-10	Bro-dfd8_13_trout-15_4741	13	Bro-dfd8_14_animals-10_44	14	1	brown trout	Animals	50.0
+taxongroup	Ama-9e7a_15_catfish-28	Ama-9e7a_16_animals-5	Ama-9e7a_15_catfish-28_4761	15	Ama-9e7a_16_animals-5_3812	16	1	catfish	animals	50.0
+taxongroup	Ame-35ae_263_catfish-9	Ame-35ae_264_animals-15	Ame-35ae_263_catfish-9_4761	263	Ame-35ae_264_animals-15_3812	264	1	catfish	animals	50.0
+taxongroup	Amb-b5dc_85_anglerfishes-14	Amb-b5dc_84_animal-8	Amb-b5dc_85_anglerfishes-14_4598	85	Amb-b5dc_84_animal-8_44	84	1	anglerfish	Animals	50.0
+taxongroup	Ang0262_2_anglerfish-2	Ang0262_3_animals-7	Ang0262_2_anglerfish-2_4598	2	Ang0262_3_animals-7_44	3	1	anglerfish	Animals	50.0
+taxongroup	Nor-d13e_11_catfish-12	Nor-d13e_12_animals-11	Nor-d13e_11_catfish-12_4761	11	Nor-d13e_12_animals-11_3812	12	1	catfish	animals	50.0
+taxongroup	Ver-1720_95_actinopterygii-9	Ver-1720_94_vertebrates-4	Ver-1720_95_actinopterygii-9_3989	95	Ver-1720_94_vertebrates-4_3935	94	1	actinopterygii	vertebrates	50.0
+taxongroup	Cat-98ff_78_catfish-2	Cat-98ff_77_fish-16	Cat-98ff_78_catfish-2_4761	78	Cat-98ff_77_fish-16_5290	77	1	catfish	bony fish	50.0
+taxongroup	Hom-cefb_268_catfish-40	Hom-cefb_269_animals-3	Hom-cefb_268_catfish-40_4761	268	Hom-cefb_269_animals-3_3812	269	1	catfish	animals	50.0
+taxongroup	Ver-1720_95_actinopterygii-9	Ver-1720_96_animals-47	Ver-1720_95_actinopterygii-9_3989	95	Ver-1720_96_animals-47_3812	96	1	actinopterygii	animals	50.0
+taxongroup	Bro-dfd8_13_trout-9	Bro-dfd8_14_animals-10	Bro-dfd8_13_trout-9_4741	13	Bro-dfd8_14_animals-10_3812	14	1	brown trout	animals	50.0
+taxongroup	Eel-a7fb_2_catfish-3	Eel-a7fb_1_catfish-2	Eel-a7fb_2_catfish-3_4894	2	Eel-a7fb_1_catfish-2_4761	1	1	eeltail catfish	catfish	50.0
+taxongroup	Bro-dfd8_15_trout-15	Bro-dfd8_14_animals-10	Bro-dfd8_15_trout-15_4741	15	Bro-dfd8_14_animals-10_3812	14	1	brown trout	animals	50.0
+taxongroup	Bio-20c0_218_anglerfish-10	Bio-20c0_217_animals-8	Bio-20c0_218_anglerfish-10_4598	218	Bio-20c0_217_animals-8_3812	217	1	anglerfish	animals	50.0
+taxongroup	Spi-f1b2_1_seahorse-2	Spi-f1b2_2_Hippocampus-5	Spi-f1b2_1_seahorse-2_2744	1	Spi-f1b2_2_Hippocampus-5_1274	2	1	Spiny seahorse	Hippocampus	50.0
+taxongroup	Eel-a7fb_2_catfish-11	Eel-a7fb_1_catfish-2	Eel-a7fb_2_catfish-11_4894	2	Eel-a7fb_1_catfish-2_1849	1	1	eeltail catfish	Catfish	50.0
+taxongroup	Cho-ea02_55_Actinopterygii-54	Cho-ea02_54_animals-45	Cho-ea02_55_Actinopterygii-54_374	55	Cho-ea02_54_animals-45_44	54	1	Actinopterygii	Animals	50.0
+taxongroup	Per-ee9c_5_Perciformes-1	Per-ee9c_6_vertebrates-47	Per-ee9c_5_Perciformes-1_3033	5	Per-ee9c_6_vertebrates-47_3935	6	1	Perciformes	vertebrates	50.0
+taxongroup	Ara-0423_2_pirarucu-4	Ara-0423_3_Osteoglossidae-13	Ara-0423_2_pirarucu-4_4618	2	Ara-0423_3_Osteoglossidae-13_468	3	1	pirarucu	Osteoglossidae	50.0
+taxongroup	Gob6890_1_goby-11	Gob6890_2_vertebrate-6	Gob6890_1_goby-11_5016	1	Gob6890_2_vertebrate-6_3935	2	1	gobies	vertebrates	50.0
+taxongroup	Gob-6481_4_gobies-3	Gob-6481_3_vertebrates-29	Gob-6481_4_gobies-3_5016	4	Gob-6481_3_vertebrates-29_3935	3	1	gobies	vertebrates	50.0
+taxongroup	Gob-6481_2_gobies-3	Gob-6481_3_vertebrates-29	Gob-6481_2_gobies-3_5016	2	Gob-6481_3_vertebrates-29_3935	3	1	gobies	vertebrates	50.0
+taxongroup	Gob-1939_4_gobies-12	Gob-1939_3_Perciformes-14	Gob-1939_4_gobies-12_5016	4	Gob-1939_3_Perciformes-14_3033	3	1	gobies	Perciformes	50.0
+taxongroup	Gob-1939_4_gobies-32	Gob-1939_3_Perciformes-14	Gob-1939_4_gobies-32_5016	4	Gob-1939_3_Perciformes-14_3033	3	1	gobies	Perciformes	50.0
+taxongroup	Per-ee9c_5_Perciformes-1	Per-ee9c_6_fish-27	Per-ee9c_5_Perciformes-1_3033	5	Per-ee9c_6_fish-27_5290	6	1	Perciformes	bony fish	50.0
+taxongroup	Gob-1939_4_gobies-17	Gob-1939_3_Perciformes-14	Gob-1939_4_gobies-17_5016	4	Gob-1939_3_Perciformes-14_3033	3	1	gobies	Perciformes	50.0
+taxongroup	Atl-12cc_24_sailfish-2	Atl-12cc_25_Istiophorus-11	Atl-12cc_24_sailfish-2_1586	24	Atl-12cc_25_Istiophorus-11_1259	25	1	Atlantic sailfish	Istiophorus	50.0
+taxongroup	Sea-e4bc_227_seahorse-8	Sea-e4bc_226_hippocampus-15	Sea-e4bc_227_seahorse-8_5194	227	Sea-e4bc_226_hippocampus-15_4464	226	1	spiny seahorse	hippocampus	50.0
+taxongroup	Sea-e4bc_227_seahorse-17	Sea-e4bc_226_hippocampus-15	Sea-e4bc_227_seahorse-17_5194	227	Sea-e4bc_226_hippocampus-15_4464	226	1	spiny seahorse	hippocampus	50.0
+taxongroup	Atl-12cc_1_sailfish-2	Atl-12cc_2_Istiophoridae-17	Atl-12cc_1_sailfish-2_1586	1	Atl-12cc_2_Istiophoridae-17_682	2	1	Atlantic sailfish	Istiophoridae	50.0
+taxongroup	Atl-12cc_1_sailfish-2	Atl-12cc_2_Istiophorus-5	Atl-12cc_1_sailfish-2_1586	1	Atl-12cc_2_Istiophorus-5_1259	2	1	Atlantic sailfish	Istiophorus	50.0
+taxongroup	Atl-12cc_28_sailfish-2	Atl-12cc_29_Istiophorus-2	Atl-12cc_28_sailfish-2_1586	28	Atl-12cc_29_Istiophorus-2_1259	29	1	Atlantic sailfish	Istiophorus	50.0
+taxongroup	Sea-e4bc_227_seahorse-17	Sea-e4bc_226_Hippocampus-14	Sea-e4bc_227_seahorse-17_5194	227	Sea-e4bc_226_Hippocampus-14_1274	226	1	spiny seahorse	Hippocampus	50.0
+taxongroup	Can-795a_15_Candirus-1	Can-795a_16_catfish-14	Can-795a_15_Candirus-1_3596	15	Can-795a_16_catfish-14_4761	16	1	Candirus	catfish	50.0
+taxongroup	Sea-e4bc_227_seahorse-8	Sea-e4bc_226_Hippocampus-14	Sea-e4bc_227_seahorse-8_5194	227	Sea-e4bc_226_Hippocampus-14_1274	226	1	spiny seahorse	Hippocampus	50.0
+taxongroup	Sal672e_2_salmon-4	Sal672e_1_salmon-2	Sal672e_2_salmon-4_1590	2	Sal672e_1_salmon-2_1261	1	1	Atlantic salmon	Atlantic salmon and trout	50.0
+taxongroup	Atl-f357_19_salmon-3	Atl-f357_20_salmo-11	Atl-f357_19_salmon-3_1590	19	Atl-f357_20_salmo-11_4456	20	1	Atlantic salmon	salmo	50.0
+taxongroup	Ver-1720_132_fishes-16	Ver-1720_131_vertebrates-27	Ver-1720_132_fishes-16_3990	132	Ver-1720_131_vertebrates-27_3935	131	1	ray-finned fishes	vertebrates	50.0
+taxongroup	Ver-1720_132_fishes-16	Ver-1720_133_vertebrates-6	Ver-1720_132_fishes-16_3990	132	Ver-1720_133_vertebrates-6_3935	133	1	ray-finned fishes	vertebrates	50.0
+taxongroup	Amb-b5dc_7_frogfishes-26	Amb-b5dc_8_vertebrates-34	Amb-b5dc_7_frogfishes-26_4993	7	Amb-b5dc_8_vertebrates-34_3935	8	1	frogfish	vertebrates	50.0
+taxongroup	Sal-5fdb_3_Salmo-40	Sal-5fdb_2_Salmonidae-16	Sal-5fdb_3_Salmo-40_1260	3	Sal-5fdb_2_Salmonidae-16_788	2	1	Salmo	Salmonidae	50.0
+taxongroup	Gli-5224_58_fish-5	Gli-5224_57_animals-9	Gli-5224_58_fish-5_4976	58	Gli-5224_57_animals-9_44	57	1	flying fish	Animals	50.0
+taxongroup	Atl-f357_2_Salmo-5	Atl-f357_3_Salmonidae-8	Atl-f357_2_Salmo-5_1260	2	Atl-f357_3_Salmonidae-8_788	3	1	Salmo	Salmonidae	50.0
+taxongroup	Bro-dfd8_15_Salmo-1	Bro-dfd8_14_animals-10	Bro-dfd8_15_Salmo-1_1260	15	Bro-dfd8_14_animals-10_44	14	1	Salmo	Animals	50.0
+taxongroup	Sal-5fdb_1_Salmo-1	Sal-5fdb_2_Salmonidae-16	Sal-5fdb_1_Salmo-1_1260	1	Sal-5fdb_2_Salmonidae-16_788	2	1	Salmo	Salmonidae	50.0
+taxongroup	Fly-23a7_88_fish-2	Fly-23a7_87_animals-4	Fly-23a7_88_fish-2_4976	88	Fly-23a7_87_animals-4_44	87	1	flying fish	Animals	50.0
+taxongroup	Sal-702e_50_Salmonidae-3	Sal-702e_49_Salmoniformes-2	Sal-702e_50_Salmonidae-3_788	50	Sal-702e_49_Salmoniformes-2_3767	49	1	Salmonidae	Salmoniformes	50.0
+taxongroup	Sal-702e_47_Salmonidae-8	Sal-702e_46_Salmoniformes-28	Sal-702e_47_Salmonidae-8_788	47	Sal-702e_46_Salmoniformes-28_3767	46	1	Salmonidae	Salmoniformes	50.0
+taxongroup	Flyf644_8_fish-4	Flyf644_7_vertebrates-16	Flyf644_8_fish-4_4976	8	Flyf644_7_vertebrates-16_3935	7	1	flying fish	vertebrates	50.0
+taxongroup	Per-1662_1_anchoveta-2	Per-1662_2_Engraulidae-18	Per-1662_1_anchoveta-2_3044	1	Per-1662_2_Engraulidae-18_458	2	1	Peruvian anchoveta	Engraulidae	50.0
+taxongroup	Ang-a76e_23_frogfishes-8	Ang-a76e_24_anglerfishes-10	Ang-a76e_23_frogfishes-8_4993	23	Ang-a76e_24_anglerfishes-10_4598	24	1	frogfish	anglerfish	50.0
+taxongroup	Cic-6b3c_185_Cichlidae-1	Cic-6b3c_184_Perciformes-15	Cic-6b3c_185_Cichlidae-1_1877	185	Cic-6b3c_184_Perciformes-15_3033	184	1	Cichlidae	Perciformes	43.5
+taxongroup	Can-795a_15_Vandellia-3	Can-795a_16_catfish-14	Can-795a_15_Vandellia-3_3597	15	Can-795a_16_catfish-14_1849	16	1	Vandellia	Catfish	43.5
+taxongroup	Atl-f357_2_salar-6	Atl-f357_3_Salmonidae-8	Atl-f357_2_salar-6_1591	2	Atl-f357_3_Salmonidae-8_788	3	1	Salmo salar	Salmonidae	43.5
+taxongroup	Atl-f357_320_salar-8	Atl-f357_319_Salmo-37	Atl-f357_320_salar-8_1591	320	Atl-f357_319_Salmo-37_1260	319	1	Salmo salar	Salmo	43.5
+taxongroup	Cic-6b3c_2_Cichlidae-7	Cic-6b3c_3_Perciformes-23	Cic-6b3c_2_Cichlidae-7_1877	2	Cic-6b3c_3_Perciformes-23_3033	3	1	Cichlidae	Perciformes	43.5
+taxongroup	Fro-21e4_15_Antennariidae-2	Fro-21e4_14_anglerfishes-15	Fro-21e4_15_Antennariidae-2_2315	15	Fro-21e4_14_anglerfishes-15_4598	14	1	Antennariidae	anglerfish	43.5
+taxongroup	Gob-1939_4_Gobiidae-24	Gob-1939_3_Perciformes-14	Gob-1939_4_Gobiidae-24_2376	4	Gob-1939_3_Perciformes-14_3033	3	1	Gobiidae	Perciformes	43.5
+taxongroup	Lon-6fc7_3_seahorse-4	Lon-6fc7_4_hippocampus-3	Lon-6fc7_3_seahorse-4_2747	3	Lon-6fc7_4_hippocampus-3_4464	4	1	long-snouted seahorse	hippocampus	41.5
+taxongroup	Bil-e183_2_billfish-2	Bil-e183_3_Istiophoridae-13	Bil-e183_2_billfish-2_4636	2	Bil-e183_3_Istiophoridae-13_682	3	1	billfish	Istiophoridae	41.5
+taxongroup	Atl-f357_140_trout-7	Atl-f357_139_salmon-8	Atl-f357_140_trout-7_4741	140	Atl-f357_139_salmon-8_1262	139	1	brown trout	Atlantic salmon	41.5
+taxongroup	Cha-7261_42_piranha-5	Cha-7261_43_characins-6	Cha-7261_42_piranha-5_5391	42	Cha-7261_43_characins-6_4065	43	1	red-bellied piranha	characins	41.5
+taxongroup	Eel-a7fb_2_catfish-3	Eel-a7fb_3_catfishes-2	Eel-a7fb_2_catfish-3_4894	2	Eel-a7fb_3_catfishes-2_4762	3	1	eeltail catfish	catfishes	41.5
+taxongroup	Ara-0423_2_Arapaima-17	Ara-0423_3_Osteoglossidae-13	Ara-0423_2_Arapaima-17_1542	2	Ara-0423_3_Osteoglossidae-13_468	3	1	Arapaima	Osteoglossidae	41.5
+taxongroup	Sai-b9d2_4_billfish-28	Sai-b9d2_5_animal-24	Sai-b9d2_4_billfish-28_4636	4	Sai-b9d2_5_animal-24_3812	5	1	billfish	animals	41.5
+taxongroup	Ost-8757_60_Arapaima-16	Ost-8757_61_fish-4	Ost-8757_60_Arapaima-16_1542	60	Ost-8757_61_fish-4_5290	61	1	Arapaima	bony fish	41.5
+taxongroup	Com-264e_1_seadragon-2	Com-264e_2_Syngnathiformes-18	Com-264e_1_seadragon-2_5341	1	Com-264e_2_Syngnathiformes-18_3771	2	1	common seadragon	Syngnathiformes	41.5
+taxongroup	Com-264e_3_seadragons-3	Com-264e_2_Syngnathiformes-18	Com-264e_3_seadragons-3_5341	3	Com-264e_2_Syngnathiformes-18_3771	2	1	common seadragon	Syngnathiformes	41.5
+taxongroup	Ost-8757_60_Arapaima-16	Ost-8757_61_fishes-29	Ost-8757_60_Arapaima-16_1542	60	Ost-8757_61_fishes-29_5290	61	1	Arapaima	bony fish	41.5
+taxongroup	Ara-0423_2_arapaima-2	Ara-0423_3_Osteoglossidae-13	Ara-0423_2_arapaima-2_4619	2	Ara-0423_3_Osteoglossidae-13_468	3	1	arapaima	Osteoglossidae	41.5
+taxongroup	Lon-6fc7_5_seahorse-4	Lon-6fc7_4_hippocampus-3	Lon-6fc7_5_seahorse-4_2747	5	Lon-6fc7_4_hippocampus-3_4464	4	1	long-snouted seahorse	hippocampus	41.5
+taxongroup	Eel-a7fb_2_catfish-11	Eel-a7fb_3_catfishes-2	Eel-a7fb_2_catfish-11_4894	2	Eel-a7fb_3_catfishes-2_4762	3	1	eeltail catfish	catfishes	41.5
+taxongroup	Cho-ea02_18_fishes-17	Cho-ea02_17_vertebrates-6	Cho-ea02_18_fishes-17_375	18	Cho-ea02_17_vertebrates-6_3935	17	1	Ray-finned fishes	vertebrates	37.5
+taxongroup	Atl-f357_286_salmon-2	Atl-f357_285_salmon-23	Atl-f357_286_salmon-2_1590	286	Atl-f357_285_salmon-23_1261	285	1	Atlantic salmon	Atlantic salmon and trout	37.5
+taxongroup	Red-5937_85_piranhas-13	Red-5937_84_characids-10	Red-5937_85_piranhas-13_5391	85	Red-5937_84_characids-10_4064	84	1	red-bellied piranha	characids	37.5
+taxongroup	Pyg-48e9_5_piranha-6	Pyg-48e9_6_Pygocentrus-1	Pyg-48e9_5_piranha-6_5391	5	Pyg-48e9_6_Pygocentrus-1_1235	6	1	red-bellied piranha	Pygocentrus	37.5
+taxongroup	Atl-f357_2_salar-6	Atl-f357_1_salmon-2	Atl-f357_2_salar-6_1591	2	Atl-f357_1_salmon-2_1262	1	1	Salmo salar	Atlantic salmon	36.105
+taxongroup	Atl-f357_320_salar-8	Atl-f357_319_salmon-26	Atl-f357_320_salar-8_1591	320	Atl-f357_319_salmon-26_1262	319	1	Salmo salar	Atlantic salmon	36.105
+taxongroup	Atl-f357_20_salar-17	Atl-f357_19_salmon-3	Atl-f357_20_salar-17_1591	20	Atl-f357_19_salmon-3_1262	19	1	Salmo salar	Atlantic salmon	36.105
+taxongroup	Atl-f357_20_salar-5	Atl-f357_19_salmon-3	Atl-f357_20_salar-5_1591	20	Atl-f357_19_salmon-3_1262	19	1	Salmo salar	Atlantic salmon	36.105
+taxongroup	Cat-98ff_3_Vandellia-73	Cat-98ff_2_catfishes-4	Cat-98ff_3_Vandellia-73_3597	3	Cat-98ff_2_catfishes-4_4762	2	1	Vandellia	catfishes	36.105
+taxongroup	Atl-f357_320_salar-8	Atl-f357_319_salmon-41	Atl-f357_320_salar-8_1591	320	Atl-f357_319_salmon-41_1262	319	1	Salmo salar	Atlantic salmon	36.105
+taxongroup	Van-cd06_1_Vandellia-1	Van-cd06_2_catfishes-6	Van-cd06_1_Vandellia-1_3597	1	Van-cd06_2_catfishes-6_4762	2	1	Vandellia	catfishes	36.105
+taxongroup	Van-cd06_4_Vandellia-1	Van-cd06_3_catfishes-15	Van-cd06_4_Vandellia-1_3597	4	Van-cd06_3_catfishes-15_4762	3	1	Vandellia	catfishes	36.105
+taxongroup	Van-cd06_2_Vandellia-1	Van-cd06_3_catfishes-15	Van-cd06_2_Vandellia-1_3597	2	Van-cd06_3_catfishes-15_4762	3	1	Vandellia	catfishes	36.105
+taxongroup	Sea-e4bc_227_seahorse-8	Sea-e4bc_225_Hippocampus-12	Sea-e4bc_227_seahorse-8_5194	227	Sea-e4bc_225_Hippocampus-12_1274	225	2	spiny seahorse	Hippocampus	33.333
+taxongroup	Lon-6fc7_2_seahorse-19	Lon-6fc7_4_hippocampus-3	Lon-6fc7_2_seahorse-19_5194	2	Lon-6fc7_4_hippocampus-3_4464	4	2	spiny seahorse	hippocampus	33.333
+taxongroup	Ang-a76e_22_frogfishes-8	Ang-a76e_24_anglerfishes-10	Ang-a76e_22_frogfishes-8_4993	22	Ang-a76e_24_anglerfishes-10_4598	24	2	frogfish	anglerfish	33.333
+taxongroup	Lon-6fc7_2_seahorse-11	Lon-6fc7_4_hippocampus-3	Lon-6fc7_2_seahorse-11_5194	2	Lon-6fc7_4_hippocampus-3_4464	4	2	spiny seahorse	hippocampus	33.333
+taxongroup	Nil-600c_399_catfish-27	Nil-600c_401_animals-7	Nil-600c_399_catfish-27_4761	399	Nil-600c_401_animals-7_44	401	2	catfish	Animals	33.333
+taxongroup	Mos-3d44_146_catfish-7	Mos-3d44_144_animals-7	Mos-3d44_146_catfish-7_4761	146	Mos-3d44_144_animals-7_44	144	2	catfish	Animals	33.333
+taxongroup	Gob-1939_5_goby-22	Gob-1939_3_Perciformes-14	Gob-1939_5_goby-22_5016	5	Gob-1939_3_Perciformes-14_3033	3	2	gobies	Perciformes	33.333
+taxongroup	Gob-6481_4_gobies-3	Gob-6481_2_fish-9	Gob-6481_4_gobies-3_5016	4	Gob-6481_2_fish-9_5290	2	2	gobies	bony fish	33.333
+taxongroup	Gob-6481_4_gobies-3	Gob-6481_2_fish-19	Gob-6481_4_gobies-3_5016	4	Gob-6481_2_fish-19_5290	2	2	gobies	bony fish	33.333
+taxongroup	Flyf644_5_fish-3	Flyf644_7_vertebrates-16	Flyf644_5_fish-3_4976	5	Flyf644_7_vertebrates-16_3935	7	2	flying fish	vertebrates	33.333
+taxongroup	Sea-e4bc_227_seahorse-8	Sea-e4bc_229_Hippocampus-80	Sea-e4bc_227_seahorse-8_5194	227	Sea-e4bc_229_Hippocampus-80_1274	229	2	spiny seahorse	Hippocampus	33.333
+taxongroup	Fly-23a7_89_fish-2	Fly-23a7_87_animals-4	Fly-23a7_89_fish-2_4976	89	Fly-23a7_87_animals-4_3812	87	2	flying fish	animals	33.333
+taxongroup	Sea-e4bc_227_seahorse-17	Sea-e4bc_225_Hippocampus-12	Sea-e4bc_227_seahorse-17_5194	227	Sea-e4bc_225_Hippocampus-12_1274	225	2	spiny seahorse	Hippocampus	33.333
+taxongroup	Sea-4a1d_143_fishes-46	Sea-4a1d_141_vertebrates-19	Sea-4a1d_143_fishes-46_3990	143	Sea-4a1d_141_vertebrates-19_3935	141	2	ray-finned fishes	vertebrates	33.333
+taxongroup	Fly-23a7_85_fish-10	Fly-23a7_87_animals-4	Fly-23a7_85_fish-10_4976	85	Fly-23a7_87_animals-4_3812	87	2	flying fish	animals	33.333
+taxongroup	Lat-c298_4_fishes-44	Lat-c298_6_animals-24	Lat-c298_4_fishes-44_3990	4	Lat-c298_6_animals-24_44	6	2	ray-finned fishes	Animals	33.333
+taxongroup	Sea-e4bc_227_seahorse-17	Sea-e4bc_229_Hippocampus-80	Sea-e4bc_227_seahorse-17_5194	227	Sea-e4bc_229_Hippocampus-80_1274	229	2	spiny seahorse	Hippocampus	33.333
+taxongroup	Gli-5224_58_fish-5	Gli-5224_56_animals-9	Gli-5224_58_fish-5_4976	58	Gli-5224_56_animals-9_44	56	2	flying fish	Animals	33.333
+taxongroup	Ostc292_8_catfish-15	Ostc292_6_fish-18	Ostc292_8_catfish-15_4761	8	Ostc292_6_fish-18_5290	6	2	catfish	bony fish	33.333
+taxongroup	Red-5937_13_piranhas-8	Red-5937_11_characids-22	Red-5937_13_piranhas-8_5391	13	Red-5937_11_characids-22_4064	11	2	red-bellied piranha	characids	33.333
+taxongroup	Ostc292_8_catfish-15	Ostc292_6_fish-2	Ostc292_8_catfish-15_4761	8	Ostc292_6_fish-2_5290	6	2	catfish	bony fish	33.333
+taxongroup	Sal-702e_4_Salmo-5	Sal-702e_2_Salmonidae-1	Sal-702e_4_Salmo-5_1260	4	Sal-702e_2_Salmonidae-1_788	2	2	Salmo	Salmonidae	33.333
+taxongroup	Per-ee9c_8_Perciformes-23	Per-ee9c_6_fish-27	Per-ee9c_8_Perciformes-23_3033	8	Per-ee9c_6_fish-27_5290	6	2	Perciformes	bony fish	33.333
+taxongroup	Atl-fb88_23_Perciformes-19	Atl-fb88_25_fishes-20	Atl-fb88_23_Perciformes-19_3033	23	Atl-fb88_25_fishes-20_5290	25	2	Perciformes	bony fish	33.333
+taxongroup	Atl-12cc_4_sailfish-3	Atl-12cc_2_Istiophoridae-17	Atl-12cc_4_sailfish-3_1586	4	Atl-12cc_2_Istiophoridae-17_682	2	2	Atlantic sailfish	Istiophoridae	33.333
+taxongroup	Atl-fb88_23_Perciformes-19	Atl-fb88_25_fishes-15	Atl-fb88_23_Perciformes-19_3033	23	Atl-fb88_25_fishes-15_5290	25	2	Perciformes	bony fish	33.333
+taxongroup	Per-ee9c_8_Perciformes-23	Per-ee9c_6_vertebrates-47	Per-ee9c_8_Perciformes-23_3033	8	Per-ee9c_6_vertebrates-47_3935	6	2	Perciformes	vertebrates	33.333
+taxongroup	Per-1662_4_anchoveta-2	Per-1662_2_Engraulidae-18	Per-1662_4_anchoveta-2_3044	4	Per-1662_2_Engraulidae-18_458	2	2	Peruvian anchoveta	Engraulidae	33.333
+taxongroup	Atl-12cc_4_sailfish-3	Atl-12cc_2_Istiophorus-5	Atl-12cc_4_sailfish-3_1586	4	Atl-12cc_2_Istiophorus-5_1259	2	2	Atlantic sailfish	Istiophorus	33.333
+taxongroup	Atl-f357_18_salmon-2	Atl-f357_20_salmo-11	Atl-f357_18_salmon-2_1590	18	Atl-f357_20_salmo-11_4456	20	2	Atlantic salmon	salmo	33.333
+taxongroup	Sal-702e_4_Salmo-17	Sal-702e_2_Salmonidae-1	Sal-702e_4_Salmo-17_1260	4	Sal-702e_2_Salmonidae-1_788	2	2	Salmo	Salmonidae	33.333
+taxongroup	Sal-702e_52_Salmo-14	Sal-702e_50_Salmonidae-3	Sal-702e_52_Salmo-14_1260	52	Sal-702e_50_Salmonidae-3_788	50	2	Salmo	Salmonidae	33.333
+taxongroup	Sal-5fdb_4_Salmo-9	Sal-5fdb_2_Salmonidae-16	Sal-5fdb_4_Salmo-9_1260	4	Sal-5fdb_2_Salmonidae-16_788	2	2	Salmo	Salmonidae	33.333
+taxongroup	Ani-ab87_8_salmon-9	Ani-ab87_6_animals-22	Ani-ab87_8_salmon-9_1590	8	Ani-ab87_6_animals-22_3812	6	2	Atlantic salmon	animals	33.333
+taxongroup	Atl-f357_1_salmon-2	Atl-f357_3_Salmonidae-8	Atl-f357_1_salmon-2_1590	1	Atl-f357_3_Salmonidae-8_788	3	2	Atlantic salmon	Salmonidae	33.333
+taxongroup	Sal-702e_52_salmon-17	Sal-702e_50_Salmonidae-3	Sal-702e_52_salmon-17_1590	52	Sal-702e_50_Salmonidae-3_788	50	2	Atlantic salmon	Salmonidae	33.333
+taxongroup	Sal-702e_47_Salmonidae-8	Sal-702e_49_Salmoniformes-2	Sal-702e_47_Salmonidae-8_788	47	Sal-702e_49_Salmoniformes-2_3767	49	2	Salmonidae	Salmoniformes	33.333
+taxongroup	Spi-f1b2_4_seahorse-2	Spi-f1b2_2_Hippocampus-5	Spi-f1b2_4_seahorse-2_2744	4	Spi-f1b2_2_Hippocampus-5_1274	2	2	Spiny seahorse	Hippocampus	33.333
+taxongroup	Sea-e4bc_5_Syngnathidae-16	Sea-e4bc_3_animal-37	Sea-e4bc_5_Syngnathidae-16_818	5	Sea-e4bc_3_animal-37_44	3	2	Syngnathidae	Animals	33.333
+taxongroup	Atl-fb88_23_Perciformes-19	Atl-fb88_25_fishes-33	Atl-fb88_23_Perciformes-19_3033	23	Atl-fb88_25_fishes-33_5290	25	2	Perciformes	bony fish	33.333
+taxongroup	Atl-fb88_23_Perciformes-19	Atl-fb88_25_Actinopterygii-8	Atl-fb88_23_Perciformes-19_3033	23	Atl-fb88_25_Actinopterygii-8_374	25	2	Perciformes	Actinopterygii	33.333
+taxongroup	Cho-ea02_55_Actinopterygii-54	Cho-ea02_53_Chordata-2	Cho-ea02_55_Actinopterygii-54_374	55	Cho-ea02_53_Chordata-2_304	53	2	Actinopterygii	Chordata	33.333
+taxongroup	Hem-5b5a_6_candirus-8	Hem-5b5a_8_animals-2	Hem-5b5a_6_candirus-8_5590	6	Hem-5b5a_8_animals-2_44	8	2	candirus	Animals	33.333
+taxongroup	Bro-dfd8_103_trout-5	Bro-dfd8_101_animal-11	Bro-dfd8_103_trout-5_4741	103	Bro-dfd8_101_animal-11_3812	101	2	brown trout	animals	33.333
+taxongroup	Bro-dfd8_103_trout-38	Bro-dfd8_101_animal-11	Bro-dfd8_103_trout-38_4741	103	Bro-dfd8_101_animal-11_3812	101	2	brown trout	animals	33.333
+taxongroup	Ang0262_1_Anglerfish-7	Ang0262_3_animals-7	Ang0262_1_Anglerfish-7_1504	1	Ang0262_3_animals-7_44	3	2	Anglerfish	Animals	33.333
+taxongroup	Syn-076f_32_Syngnathidae-2	Syn-076f_30_Syngnathiformes-2	Syn-076f_32_Syngnathidae-2_818	32	Syn-076f_30_Syngnathiformes-2_3771	30	2	Syngnathidae	Syngnathiformes	33.333
+taxongroup	Phyc042_9_dragon-7	Phyc042_8_animal-10	Phyc042_9_dragon-7_5161	9	Phyc042_8_animal-10_44	8	1	leafy sea dragon	Animals	33.0
+taxongroup	Clu-7469_1_Clupeidae-1	Clu-7469_3_animals-43	Clu-7469_1_Clupeidae-1_1885	1	Clu-7469_3_animals-43_44	3	2	Clupeidae	Animals	29.0
+taxongroup	Cat-98ff_3_Vandellia-73	Cat-98ff_5_catfish-7	Cat-98ff_3_Vandellia-73_3597	3	Cat-98ff_5_catfish-7_1849	5	2	Vandellia	Catfish	29.0
+taxongroup	Bel-983b_4_Exocoetidae-1	Bel-983b_2_Beloniformes-1	Bel-983b_4_Exocoetidae-1_2282	4	Bel-983b_2_Beloniformes-1_1663	2	2	Exocoetidae	Beloniformes	29.0
+taxongroup	Clu-7469_5_Clupeidae-1	Clu-7469_3_animals-43	Clu-7469_5_Clupeidae-1_1885	5	Clu-7469_3_animals-43_3812	3	2	Clupeidae	animals	29.0
+taxongroup	Can-795a_4_Vandellia-16	Can-795a_2_catfish-25	Can-795a_4_Vandellia-16_3597	4	Can-795a_2_catfish-25_4761	2	2	Vandellia	catfish	29.0
+taxongroup	Cat-98ff_3_Vandellia-73	Cat-98ff_1_Catfish-1	Cat-98ff_3_Vandellia-73_3597	3	Cat-98ff_1_Catfish-1_4761	1	2	Vandellia	catfish	29.0
+taxongroup	Sal-702e_4_salar-6	Sal-702e_2_Salmonidae-1	Sal-702e_4_salar-6_1591	4	Sal-702e_2_Salmonidae-1_788	2	2	Salmo salar	Salmonidae	29.0
+taxongroup	Can-795a_4_Vandellia-10	Can-795a_2_catfish-25	Can-795a_4_Vandellia-10_3597	4	Can-795a_2_catfish-25_4761	2	2	Vandellia	catfish	29.0
+taxongroup	Ara-0423_1_Arapaima-1	Ara-0423_3_Osteoglossidae-13	Ara-0423_1_Arapaima-1_1542	1	Ara-0423_3_Osteoglossidae-13_468	3	2	Arapaima	Osteoglossidae	27.667
+taxongroup	Sai-b9d2_4_billfish-28	Sai-b9d2_2_Istiophorus-14	Sai-b9d2_4_billfish-28_4636	4	Sai-b9d2_2_Istiophorus-14_1259	2	2	billfish	Istiophorus	27.667
+taxongroup	Ost-8757_60_Arapaima-16	Ost-8757_58_fish-5	Ost-8757_60_Arapaima-16_1542	60	Ost-8757_58_fish-5_5290	58	2	Arapaima	bony fish	27.667
+taxongroup	Ara-0423_35_Arapaima-1	Ara-0423_37_animals-21	Ara-0423_35_Arapaima-1_1542	35	Ara-0423_37_animals-21_3812	37	2	Arapaima	animals	27.667
+taxongroup	Com-264e_16_seadragon-2	Com-264e_18_seahorses-8	Com-264e_16_seadragon-2_3066	16	Com-264e_18_seahorses-8_4196	18	2	Common seadragon	seahorses and pipefish	27.667
+taxongroup	Atl-f357_140_trout-7	Atl-f357_138_salmon-2	Atl-f357_140_trout-7_4741	140	Atl-f357_138_salmon-2_1262	138	2	brown trout	Atlantic salmon	27.667
+taxongroup	Bro-dfd8_88_trout-6	Bro-dfd8_90_salmon-13	Bro-dfd8_88_trout-6_4741	88	Bro-dfd8_90_salmon-13_1262	90	2	brown trout	Atlantic salmon	27.667
+taxongroup	Sai-b9d2_4_billfish-28	Sai-b9d2_2_Istiophoridae-21	Sai-b9d2_4_billfish-28_4636	4	Sai-b9d2_2_Istiophoridae-21_682	2	2	billfish	Istiophoridae	27.667
+taxongroup	Cha-7261_42_piranha-5	Cha-7261_44_characins-5	Cha-7261_42_piranha-5_5391	42	Cha-7261_44_characins-5_4065	44	2	red-bellied piranha	characins	27.667
+taxongroup	Cha-7261_10_characins-4	Cha-7261_8_Characiformes-2	Cha-7261_10_characins-4_4065	10	Cha-7261_8_Characiformes-2_3740	8	2	characins	Characiformes	27.667
+taxongroup	Gia-ae2f_154_characins-12	Gia-ae2f_156_Characiformes-21	Gia-ae2f_154_characins-12_4065	154	Gia-ae2f_156_Characiformes-21_3740	156	2	characins	Characiformes	27.667
+taxongroup	Sal-702e_52_salmon-17	Sal-702e_49_Salmoniformes-2	Sal-702e_52_salmon-17_1590	52	Sal-702e_49_Salmoniformes-2_3767	49	3	Atlantic salmon	Salmoniformes	25.0
+taxongroup	Bra-fdd7_38_fish-22	Bra-fdd7_40_animals-6	Bra-fdd7_38_fish-22_5324	38	Bra-fdd7_40_animals-6_3812	40	2	perch-like fishes	animals	25.0
+taxongroup	Bra-fdd7_38_fish-27	Bra-fdd7_40_animals-6	Bra-fdd7_38_fish-27_5324	38	Bra-fdd7_40_animals-6_3812	40	2	perch-like fishes	animals	25.0
+taxongroup	Hom-cefb_268_catfish-40	Hom-cefb_265_animal-15	Hom-cefb_268_catfish-40_1849	268	Hom-cefb_265_animal-15_3812	265	3	Catfish	animals	25.0
+taxongroup	Cam-4bd8_247_Actinopterygii-19	Cam-4bd8_250_animals-6	Cam-4bd8_247_Actinopterygii-19_374	247	Cam-4bd8_250_animals-6_3812	250	3	Actinopterygii	animals	25.0
+taxongroup	Sar73af_1_fishes-10	Sar73af_3_vertebrates-14	Sar73af_1_fishes-10_3990	1	Sar73af_3_vertebrates-14_3935	3	2	ray-finned fishes	vertebrates	25.0
+taxongroup	Atl-12cc_5_sailfish-9	Atl-12cc_2_Istiophoridae-17	Atl-12cc_5_sailfish-9_1586	5	Atl-12cc_2_Istiophoridae-17_682	2	3	Atlantic sailfish	Istiophoridae	25.0
+taxongroup	Ani-ab87_8_salmon-9	Ani-ab87_11_animal-2	Ani-ab87_8_salmon-9_1590	8	Ani-ab87_11_animal-2_44	11	3	Atlantic salmon	Animals	25.0
+taxongroup	Cet-5f63_514_catfish-11	Cet-5f63_511_animals-13	Cet-5f63_514_catfish-11_1849	514	Cet-5f63_511_animals-13_3812	511	3	Catfish	animals	25.0
+taxongroup	Bra-fdd7_38_fish-12	Bra-fdd7_40_animals-6	Bra-fdd7_38_fish-12_5324	38	Bra-fdd7_40_animals-6_44	40	2	perch-like fishes	Animals	25.0
+taxongroup	Atl-12cc_28_sailfish-2	Atl-12cc_25_Istiophorus-11	Atl-12cc_28_sailfish-2_1586	28	Atl-12cc_25_Istiophorus-11_1259	25	3	Atlantic sailfish	Istiophorus	25.0
+taxongroup	Ang0262_1_Anglerfish-7	Ang0262_4_animal-31	Ang0262_1_Anglerfish-7_1504	1	Ang0262_4_animal-31_44	4	3	Anglerfish	Animals	25.0
+taxongroup	Atl-f357_23_salmon-14	Atl-f357_20_salmo-11	Atl-f357_23_salmon-14_1590	23	Atl-f357_20_salmo-11_4456	20	3	Atlantic salmon	salmo	25.0
+taxongroup	Atl-f357_23_salmon-30	Atl-f357_20_salmo-11	Atl-f357_23_salmon-30_1590	23	Atl-f357_20_salmo-11_4456	20	3	Atlantic salmon	salmo	25.0
+taxongroup	Atl-f357_23_salmon-19	Atl-f357_20_salmo-11	Atl-f357_23_salmon-19_1590	23	Atl-f357_20_salmo-11_4456	20	3	Atlantic salmon	salmo	25.0
+taxongroup	Sar-0f18_27_fishes-4	Sar-0f18_25_vertebrates-18	Sar-0f18_27_fishes-4_3990	27	Sar-0f18_25_vertebrates-18_3935	25	2	ray-finned fishes	vertebrates	25.0
+taxongroup	Red-5937_98_piranha-6	Red-5937_96_animals-14	Red-5937_98_piranha-6_5391	98	Red-5937_96_animals-14_44	96	2	red-bellied piranha	Animals	25.0
+taxongroup	Atl-f357_23_salmon-27	Atl-f357_20_salmo-11	Atl-f357_23_salmon-27_1590	23	Atl-f357_20_salmo-11_4456	20	3	Atlantic salmon	salmo	25.0
+taxongroup	Atl-f357_23_salmon-11	Atl-f357_20_salmo-11	Atl-f357_23_salmon-11_1590	23	Atl-f357_20_salmo-11_4456	20	3	Atlantic salmon	salmo	25.0
+taxongroup	Atl-f357_23_salmon-7	Atl-f357_20_salmo-11	Atl-f357_23_salmon-7_1590	23	Atl-f357_20_salmo-11_4456	20	3	Atlantic salmon	salmo	25.0
+taxongroup	Spi-f1b2_5_seahorse-3	Spi-f1b2_2_Hippocampus-5	Spi-f1b2_5_seahorse-3_5194	5	Spi-f1b2_2_Hippocampus-5_1274	2	3	spiny seahorse	Hippocampus	25.0
+taxongroup	Atl-f357_23_salmon-24	Atl-f357_20_salmo-11	Atl-f357_23_salmon-24_1590	23	Atl-f357_20_salmo-11_4456	20	3	Atlantic salmon	salmo	25.0
+taxongroup	Atl-12cc_5_sailfish-9	Atl-12cc_2_Istiophorus-5	Atl-12cc_5_sailfish-9_1586	5	Atl-12cc_2_Istiophorus-5_1259	2	3	Atlantic sailfish	Istiophorus	25.0
+taxongroup	Bro-f1dc_297_fishes-11	Bro-f1dc_294_animals-4	Bro-f1dc_297_fishes-11_3990	297	Bro-f1dc_294_animals-4_3812	294	3	ray-finned fishes	animals	25.0
+taxongroup	Atl-12cc_32_sailfish-2	Atl-12cc_29_Istiophorus-2	Atl-12cc_32_sailfish-2_1586	32	Atl-12cc_29_Istiophorus-2_1259	29	3	Atlantic sailfish	Istiophorus	25.0
+taxongroup	Hem-5b5a_6_candirus-8	Hem-5b5a_3_animals-31	Hem-5b5a_6_candirus-8_5590	6	Hem-5b5a_3_animals-31_3812	3	3	candirus	animals	25.0
+taxongroup	Cat-98ff_80_catfish-15	Cat-98ff_77_fish-16	Cat-98ff_80_catfish-15_1849	80	Cat-98ff_77_fish-16_5290	77	3	Catfish	bony fish	25.0
+taxongroup	Sal-702e_52_Salmo-14	Sal-702e_49_Salmoniformes-2	Sal-702e_52_Salmo-14_1260	52	Sal-702e_49_Salmoniformes-2_3767	49	3	Salmo	Salmoniformes	25.0
+taxongroup	Bro-dfd8_17_Salmo-1	Bro-dfd8_14_animals-10	Bro-dfd8_17_Salmo-1_1260	17	Bro-dfd8_14_animals-10_44	14	3	Salmo	Animals	25.0
+taxongroup	Bro-dfd8_11_Salmo-9	Bro-dfd8_14_animals-10	Bro-dfd8_11_Salmo-9_1260	11	Bro-dfd8_14_animals-10_44	14	3	Salmo	Animals	25.0
+taxongroup	Gli-5224_58_fish-5	Gli-5224_55_animals-2	Gli-5224_58_fish-5_4976	58	Gli-5224_55_animals-2_3812	55	3	flying fish	animals	25.0
+taxongroup	Cat-98ff_80_catfish-3	Cat-98ff_77_fish-16	Cat-98ff_80_catfish-3_4761	80	Cat-98ff_77_fish-16_5290	77	3	catfish	bony fish	25.0
+taxongroup	Squ-0cc5_185_fish-18	Squ-0cc5_188_animals-18	Squ-0cc5_185_fish-18_4976	185	Squ-0cc5_188_animals-18_3812	188	3	flying fish	animals	25.0
+taxongroup	Per-ee9c_9_Perciformes-1	Per-ee9c_6_vertebrates-47	Per-ee9c_9_Perciformes-1_3033	9	Per-ee9c_6_vertebrates-47_3935	6	3	Perciformes	vertebrates	25.0
+taxongroup	Cat-98ff_80_catfish-20	Cat-98ff_77_fish-16	Cat-98ff_80_catfish-20_4761	80	Cat-98ff_77_fish-16_5290	77	3	catfish	bony fish	25.0
+taxongroup	Cat-98ff_74_Catfish-1	Cat-98ff_77_fish-16	Cat-98ff_74_Catfish-1_4761	74	Cat-98ff_77_fish-16_5290	77	3	catfish	bony fish	25.0
+taxongroup	Sal-702e_50_Salmonidae-3	Sal-702e_47_Salmoniformes-6	Sal-702e_50_Salmonidae-3_788	50	Sal-702e_47_Salmoniformes-6_3767	47	3	Salmonidae	Salmoniformes	25.0
+taxongroup	Sal-702e_43_Salmonidae-19	Sal-702e_46_Salmoniformes-28	Sal-702e_43_Salmonidae-19_788	43	Sal-702e_46_Salmoniformes-28_3767	46	3	Salmonidae	Salmoniformes	25.0
+taxongroup	Syn-076f_42_Syngnathidae-2	Syn-076f_39_Syngnathiformes-15	Syn-076f_42_Syngnathidae-2_818	42	Syn-076f_39_Syngnathiformes-15_3771	39	3	Syngnathidae	Syngnathiformes	25.0
+taxongroup	Per-ee9c_3_Perciformes-1	Per-ee9c_6_vertebrates-47	Per-ee9c_3_Perciformes-1_3033	3	Per-ee9c_6_vertebrates-47_3935	6	3	Perciformes	vertebrates	25.0
+taxongroup	Bro-dfd8_11_trout-7	Bro-dfd8_14_animals-10	Bro-dfd8_11_trout-7_4741	11	Bro-dfd8_14_animals-10_3812	14	3	brown trout	animals	25.0
+taxongroup	Per58da_3_gobies-5	Per58da_1_fishes-16	Per58da_3_gobies-5_5016	3	Per58da_1_fishes-16_3990	1	2	gobies	ray-finned fishes	25.0
+taxongroup	Ang-a76e_9_frogfishes-25	Ang-a76e_12_anglerfish-5	Ang-a76e_9_frogfishes-25_4993	9	Ang-a76e_12_anglerfish-5_4598	12	3	frogfish	anglerfish	25.0
+taxongroup	Mon-a04f_328_gobies-8	Mon-a04f_331_animals-9	Mon-a04f_328_gobies-8_5016	328	Mon-a04f_331_animals-9_3812	331	3	gobies	animals	25.0
+taxongroup	Gob-1939_6_goby-18	Gob-1939_3_Perciformes-14	Gob-1939_6_goby-18_5016	6	Gob-1939_3_Perciformes-14_3033	3	3	gobies	Perciformes	25.0
+taxongroup	Gob-1939_6_gobies-23	Gob-1939_3_Perciformes-14	Gob-1939_6_gobies-23_5016	6	Gob-1939_3_Perciformes-14_3033	3	3	gobies	Perciformes	25.0
+taxongroup	Per-ee9c_9_Perciformes-1	Per-ee9c_6_fish-27	Per-ee9c_9_Perciformes-1_3033	9	Per-ee9c_6_fish-27_5290	6	3	Perciformes	bony fish	25.0
+taxongroup	Per-ee9c_3_Perciformes-1	Per-ee9c_6_fish-27	Per-ee9c_3_Perciformes-1_3033	3	Per-ee9c_6_fish-27_5290	6	3	Perciformes	bony fish	25.0
+taxongroup	Atl-f357_20_salar-17	Atl-f357_18_salmon-2	Atl-f357_20_salar-17_1591	20	Atl-f357_18_salmon-2_1262	18	2	Salmo salar	Atlantic salmon	24.07
+taxongroup	Atl-f357_20_salar-5	Atl-f357_18_salmon-2	Atl-f357_20_salar-5_1591	20	Atl-f357_18_salmon-2_1262	18	2	Salmo salar	Atlantic salmon	24.07
+taxongroup	Van-cd06_1_Vandellia-1	Van-cd06_3_catfishes-15	Van-cd06_1_Vandellia-1_3597	1	Van-cd06_3_catfishes-15_4762	3	2	Vandellia	catfishes	24.07
+taxongroup	Van-cd06_4_Vandellia-1	Van-cd06_2_catfishes-6	Van-cd06_4_Vandellia-1_3597	4	Van-cd06_2_catfishes-6_4762	2	2	Vandellia	catfishes	24.07
+taxongroup	Sea-bfbc_30_trout-7	Sea-bfbc_32_salmon-14	Sea-bfbc_30_trout-7_4742	30	Sea-bfbc_32_salmon-14_1262	32	2	sea trout	Atlantic salmon	22.963
+taxongroup	Bro-dfd8_92_trout-2	Bro-dfd8_90_salmon-13	Bro-dfd8_92_trout-2_1806	92	Bro-dfd8_90_salmon-13_1262	90	2	Sea trout	Atlantic salmon	22.963
+taxongroup	Cam-4bd8_152_dragon-8	Cam-4bd8_150_animals-57	Cam-4bd8_152_dragon-8_5340	152	Cam-4bd8_150_animals-57_44	150	2	weedy sea dragon	Animals	22.0
+taxongroup	Bel-983b_4_Exocoetidae-1	Bel-983b_7_animals-33	Bel-983b_4_Exocoetidae-1_2282	4	Bel-983b_7_animals-33_3812	7	3	Exocoetidae	animals	21.75
+taxongroup	Pac-9197_26_Pacu-1	Pac-9197_23_Characidae-20	Pac-9197_26_Pacu-1_3466	26	Pac-9197_23_Characidae-20_521	23	3	Pacu	Characidae	20.75
+taxongroup	Bil-e183_3_billfish-2	Bil-e183_6_Perciformes-23	Bil-e183_3_billfish-2_4636	3	Bil-e183_6_Perciformes-23_3033	6	3	billfish	Perciformes	20.75
+taxongroup	Tam-0d84_16_tambaqui-11	Tam-0d84_13_characin-6	Tam-0d84_16_tambaqui-11_5531	16	Tam-0d84_13_characin-6_4065	13	3	tambaqui	characins	20.75
+taxongroup	Atl-f357_140_trout-7	Atl-f357_143_salmon-2	Atl-f357_140_trout-7_4741	140	Atl-f357_143_salmon-2_1262	143	3	brown trout	Atlantic salmon	20.75
+taxongroup	Lon-6fc7_1_seahorse-4	Lon-6fc7_4_hippocampus-3	Lon-6fc7_1_seahorse-4_2747	1	Lon-6fc7_4_hippocampus-3_4464	4	3	long-snouted seahorse	hippocampus	20.75

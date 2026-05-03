@@ -1,0 +1,8 @@
+rel_role	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	1.0	0.059	0.06	0.03	0.077	0.032	0.15	Arthropod__phylum	55
+adaptation_topic	0.059	1.0	0.059	0.003	0.012	0.002	0.016	Arthropod__phylum	94
+free_topic	0.06	0.059	1.0	0.001	0.125	0.0	0.0	Arthropod__phylum	851
+location_comment	0.03	0.003	0.001	1.0	0.002	0.137	0.025	Arthropod__phylum	34
+location_topic	0.077	0.012	0.125	0.002	1.0	0.002	0.01	Arthropod__phylum	102
+taxongroup_comment	0.032	0.002	0.0	0.137	0.002	1.0	0.003	Arthropod__phylum	391
+taxongroup_topic	0.15	0.016	0.0	0.025	0.01	0.003	1.0	Arthropod__phylum	408

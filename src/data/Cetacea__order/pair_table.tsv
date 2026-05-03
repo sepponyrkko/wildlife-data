@@ -1,0 +1,777 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Blab943_10_whales-5	Blab943_10_ocean-10	Blab943_10_whales-5_2627	10	Blab943_10_ocean-10_4530	10	0	Killer whale	open ocean	100.0
+location	Por-f868_13_porpoise-35	Por-f868_13_ocean-31	Por-f868_13_porpoise-35_5080	13	Por-f868_13_ocean-31_4530	13	0	harbour porpoise	open ocean	100.0
+location	Por-f868_13_porpoise-16	Por-f868_13_ocean-31	Por-f868_13_porpoise-16_2500	13	Por-f868_13_ocean-31_4530	13	0	Harbour porpoise	open ocean	100.0
+location	Por-f868_13_porpoise-25	Por-f868_13_ocean-31	Por-f868_13_porpoise-25_5080	13	Por-f868_13_ocean-31_4530	13	0	harbour porpoise	open ocean	100.0
+location	Por-f868_13_porpoise-60	Por-f868_13_ocean-31	Por-f868_13_porpoise-60_5080	13	Por-f868_13_ocean-31_4530	13	0	harbour porpoise	open ocean	100.0
+location	Por-f868_13_porpoise-38	Por-f868_13_ocean-31	Por-f868_13_porpoise-38_5080	13	Por-f868_13_ocean-31_4530	13	0	harbour porpoise	open ocean	100.0
+location	Bel-4321_92_whale-2	Bel-4321_91_estuaries-6	Bel-4321_92_whale-2_1664	92	Bel-4321_91_estuaries-6_4517	91	1	Beluga whale	estuaries	50.0
+location	Bel-4321_488_whales-8	Bel-4321_487_estuary-24	Bel-4321_488_whales-8_4671	488	Bel-4321_487_estuary-24_4517	487	1	beluga whale	estuaries	50.0
+location	Spe-c6ef_456_whales-7	Spe-c6ef_455_ocean-11	Spe-c6ef_456_whales-7_5504	456	Spe-c6ef_455_ocean-11_1354	455	1	sperm whale	Deep ocean	50.0
+location	Bel-4321_338_whale-2	Bel-4321_337_estuaries-20	Bel-4321_338_whale-2_1664	338	Bel-4321_337_estuaries-20_4517	337	1	Beluga whale	estuaries	50.0
+location	Har-49aa_2_porpoise-3	Har-49aa_4_estuaries-14	Har-49aa_2_porpoise-3_2500	2	Har-49aa_4_estuaries-14_4517	4	2	Harbour porpoise	estuaries	33.333
+location	Har-49aa_2_porpoise-15	Har-49aa_4_estuaries-14	Har-49aa_2_porpoise-15_2500	2	Har-49aa_4_estuaries-14_4517	4	2	Harbour porpoise	estuaries	33.333
+location	Pel-cab2_37_whales-12	Pel-cab2_39_ocean-20	Pel-cab2_37_whales-12_5504	37	Pel-cab2_39_ocean-20_1354	39	2	sperm whale	Deep ocean	33.333
+location	Spe-c6ef_453_whales-2	Spe-c6ef_455_ocean-11	Spe-c6ef_453_whales-2_3393	453	Spe-c6ef_455_ocean-11_4515	455	2	Sperm whale	deep ocean	33.333
+location	Har-49aa_6_porpoise-3	Har-49aa_4_estuaries-14	Har-49aa_6_porpoise-3_5080	6	Har-49aa_4_estuaries-14_4517	4	2	harbour porpoise	estuaries	33.333
+location	Har-49aa_50_porpoise-2	Har-49aa_52_estuaries-7	Har-49aa_50_porpoise-2_5080	50	Har-49aa_52_estuaries-7_4517	52	2	harbour porpoise	estuaries	33.333
+location	Bel-4321_218_whale-2	Bel-4321_216_estuary-6	Bel-4321_218_whale-2_1664	218	Bel-4321_216_estuary-6_4517	216	2	Beluga whale	estuaries	33.333
+location	Bel-4321_107_whale-2	Bel-4321_105_estuaries-39	Bel-4321_107_whale-2_1664	107	Bel-4321_105_estuaries-39_4517	105	2	Beluga whale	estuaries	33.333
+location	Har-49aa_49_porpoise-2	Har-49aa_52_estuaries-7	Har-49aa_49_porpoise-2_2500	49	Har-49aa_52_estuaries-7_4517	52	3	Harbour porpoise	estuaries	25.0
+location	Har-49aa_7_porpoise-2	Har-49aa_4_estuaries-14	Har-49aa_7_porpoise-2_5080	7	Har-49aa_4_estuaries-14_4517	4	3	harbour porpoise	estuaries	25.0
+location	Spe-c6ef_452_whales-6	Spe-c6ef_455_ocean-11	Spe-c6ef_452_whales-6_5504	452	Spe-c6ef_455_ocean-11_4515	455	3	sperm whale	deep ocean	25.0
+location	Har-49aa_1_porpoise-2	Har-49aa_4_estuaries-14	Har-49aa_1_porpoise-2_2500	1	Har-49aa_4_estuaries-14_4517	4	3	Harbour porpoise	estuaries	25.0
+location	Bel-4321_395_whales-3	Bel-4321_399_estuaries-16	Bel-4321_395_whales-3_4671	395	Bel-4321_399_estuaries-16_4517	399	4	beluga whale	estuaries	20.0
+location	Bel-4321_395_whales-11	Bel-4321_399_estuaries-16	Bel-4321_395_whales-11_4671	395	Bel-4321_399_estuaries-16_4517	399	4	beluga whale	estuaries	20.0
+location	Rig-c8bd_97_whales-20	Rig-c8bd_93_ocean-11	Rig-c8bd_97_whales-20_5499	97	Rig-c8bd_93_ocean-11_4530	93	4	southern right whale	open ocean	20.0
+location	Rig-c8bd_97_whales-5	Rig-c8bd_93_ocean-11	Rig-c8bd_97_whales-5_5499	97	Rig-c8bd_93_ocean-11_4530	93	4	southern right whale	open ocean	20.0
+location	Spe-c6ef_459_whale-2	Spe-c6ef_455_ocean-11	Spe-c6ef_459_whale-2_3393	459	Spe-c6ef_455_ocean-11_4515	455	4	Sperm whale	deep ocean	20.0
+location	Bel-4321_220_whales-10	Bel-4321_216_estuary-6	Bel-4321_220_whales-10_4671	220	Bel-4321_216_estuary-6_4517	216	4	beluga whale	estuaries	20.0
+location	Rig-c8bd_97_whales-37	Rig-c8bd_93_ocean-11	Rig-c8bd_97_whales-37_4047	97	Rig-c8bd_93_ocean-11_4530	93	4	right whales	open ocean	20.0
+location	Sou-ac15_129_whales-14	Sou-ac15_131_estuaries-64	Sou-ac15_129_whales-14_1770	129	Sou-ac15_131_estuaries-64_4517	131	2	Greenland right whale	estuaries	18.0
+location	Rig-c8bd_88_whale-2	Rig-c8bd_93_ocean-11	Rig-c8bd_88_whale-2_482	88	Rig-c8bd_93_ocean-11_4530	93	5	Right whales	open ocean	16.667
+location	Rig-c8bd_98_whale-2	Rig-c8bd_93_ocean-11	Rig-c8bd_98_whale-2_482	98	Rig-c8bd_93_ocean-11_4530	93	5	Right whales	open ocean	16.667
+location	Rig-c8bd_99_whale-8	Rig-c8bd_93_ocean-11	Rig-c8bd_99_whale-8_482	99	Rig-c8bd_93_ocean-11_4530	93	6	Right whales	open ocean	14.286
+location	Rig-c8bd_87_whales-18	Rig-c8bd_93_ocean-11	Rig-c8bd_87_whales-18_482	87	Rig-c8bd_93_ocean-11_4530	93	6	Right whales	open ocean	14.286
+location	Com-6f4d_118_dolphin-3	Com-6f4d_114_estuaries-12	Com-6f4d_118_dolphin-3_4797	118	Com-6f4d_114_estuaries-12_4517	114	4	common bottlenose dolphin	estuaries	13.2
+location	Rig-c8bd_86_whale-13	Rig-c8bd_93_ocean-11	Rig-c8bd_86_whale-13_4047	86	Rig-c8bd_93_ocean-11_4530	93	7	right whales	open ocean	12.5
+location	Rig-c8bd_100_whales-9	Rig-c8bd_93_ocean-11	Rig-c8bd_100_whales-9_4047	100	Rig-c8bd_93_ocean-11_4530	93	7	right whales	open ocean	12.5
+location	Bel-4321_4_whale-8	Bel-4321_12_estuaries-28	Bel-4321_4_whale-8_4158	4	Bel-4321_12_estuaries-28_4517	12	8	white whales	estuaries	11.111
+location	Bel-4321_169_dolphin-20	Bel-4321_177_estuaries-7	Bel-4321_169_dolphin-20_4797	169	Bel-4321_177_estuaries-7_4517	177	8	common bottlenose dolphin	estuaries	11.111
+location	Hum-0bd2_242_whale-38	Hum-0bd2_250_ocean-24	Hum-0bd2_242_whale-38_4158	242	Hum-0bd2_250_ocean-24_4530	250	8	white whales	open ocean	11.111
+location	Bel-4321_4_whale-49	Bel-4321_12_estuaries-28	Bel-4321_4_whale-49_4158	4	Bel-4321_12_estuaries-28_4517	12	8	white whales	estuaries	11.111
+location	Oli-4839_142_whales-16	Oli-4839_134_ocean-24	Oli-4839_142_whales-16_2627	142	Oli-4839_134_ocean-24_4530	134	8	Killer whale	open ocean	11.111
+location	Hum-0bd2_242_whale-14	Hum-0bd2_250_ocean-24	Hum-0bd2_242_whale-14_4158	242	Hum-0bd2_250_ocean-24_4530	250	8	white whales	open ocean	11.111
+location	Sou-ac15_135_whales-13	Sou-ac15_131_estuaries-64	Sou-ac15_135_whales-13_1770	135	Sou-ac15_131_estuaries-64_4517	131	4	Greenland right whale	estuaries	10.8
+location	Com-6f4d_105_dolphin-19	Com-6f4d_114_estuaries-12	Com-6f4d_105_dolphin-19_4797	105	Com-6f4d_114_estuaries-12_4517	114	9	common bottlenose dolphin	estuaries	10.0
+location	Rig-c8bd_84_whale-3	Rig-c8bd_93_ocean-11	Rig-c8bd_84_whale-3_4705	84	Rig-c8bd_93_ocean-11_4530	93	9	blue whale	open ocean	10.0
+location	Por-f868_38_porpoises-30	Por-f868_29_seas-9	Por-f868_38_porpoises-30_5080	38	Por-f868_29_seas-9_1367	29	9	harbour porpoise	Shallow seas	10.0
+location	Por-f868_38_porpoises-25	Por-f868_29_seas-9	Por-f868_38_porpoises-25_5080	38	Por-f868_29_seas-9_1367	29	9	harbour porpoise	Shallow seas	10.0
+location	Rig-c8bd_84_whale-30	Rig-c8bd_93_ocean-11	Rig-c8bd_84_whale-30_4705	84	Rig-c8bd_93_ocean-11_4530	93	9	blue whale	open ocean	10.0
+location	Rig-c8bd_84_whale-19	Rig-c8bd_93_ocean-11	Rig-c8bd_84_whale-19_4705	84	Rig-c8bd_93_ocean-11_4530	93	9	blue whale	open ocean	10.0
+location	Bel-4321_186_whales-6	Bel-4321_177_estuaries-7	Bel-4321_186_whales-6_4726	186	Bel-4321_177_estuaries-7_4517	177	9	bowhead whale	estuaries	10.0
+location	Bel-4321_310_whale-2	Bel-4321_301_waters-25	Bel-4321_310_whale-2_1664	310	Bel-4321_301_waters-25_4512	301	9	Beluga whale	brackish water	10.0
+location	Hum-0bd2_138_whale-36	Hum-0bd2_147_ocean-17	Hum-0bd2_138_whale-36_5109	138	Hum-0bd2_147_ocean-17_4530	147	9	humpback whale	open ocean	10.0
+location	Har-49aa_12_porpoise-9	Har-49aa_4_estuaries-14	Har-49aa_12_porpoise-9_5081	12	Har-49aa_4_estuaries-14_4517	4	8	common porpoise	estuaries	9.222
+location	Bel-4321_4_canary-25	Bel-4321_12_estuaries-28	Bel-4321_4_canary-25_4672	4	Bel-4321_12_estuaries-28_4517	12	8	sea canary	estuaries	9.222
+location	Por-f868_3_narwhals-14	Por-f868_13_ocean-31	Por-f868_3_narwhals-14_5254	3	Por-f868_13_ocean-31_4530	13	10	narwhal	open ocean	9.091
+location	Sou-ac15_136_whale-3	Sou-ac15_131_estuaries-64	Sou-ac15_136_whale-3_1770	136	Sou-ac15_131_estuaries-64_4517	131	5	Greenland right whale	estuaries	9.0
+location	Har-49aa_13_pig-13	Har-49aa_4_estuaries-14	Har-49aa_13_pig-13_2504	13	Har-49aa_4_estuaries-14_4517	4	9	Puffing pigs	estuaries	8.3
+location	Sou-ac15_125_whale-3	Sou-ac15_131_estuaries-64	Sou-ac15_125_whale-3_1770	125	Sou-ac15_131_estuaries-64_4517	131	6	Greenland right whale	estuaries	7.714
+location	Hum-0bd2_242_whale-38	Hum-0bd2_254_ocean-7	Hum-0bd2_242_whale-38_4158	242	Hum-0bd2_254_ocean-7_4530	254	12	white whales	open ocean	7.692
+location	Bel-4321_4_whale-8	Bel-4321_16_estuaries-31	Bel-4321_4_whale-8_4158	4	Bel-4321_16_estuaries-31_4517	16	12	white whales	estuaries	7.692
+location	Bel-4321_4_whale-49	Bel-4321_16_estuaries-31	Bel-4321_4_whale-49_4158	4	Bel-4321_16_estuaries-31_4517	16	12	white whales	estuaries	7.692
+location	Hum-0bd2_242_whale-14	Hum-0bd2_254_ocean-7	Hum-0bd2_242_whale-14_4158	242	Hum-0bd2_254_ocean-7_4530	254	12	white whales	open ocean	7.692
+location	Spe-c6ef_468_whales-16	Spe-c6ef_455_ocean-11	Spe-c6ef_468_whales-16_3393	468	Spe-c6ef_455_ocean-11_1354	455	13	Sperm whale	Deep ocean	7.143
+location	Hum-0bd2_136_orcas-13	Hum-0bd2_147_ocean-17	Hum-0bd2_136_orcas-13_5140	136	Hum-0bd2_147_ocean-17_4530	147	11	orca	open ocean	6.917
+location	Hum-0bd2_133_whales-14	Hum-0bd2_147_ocean-17	Hum-0bd2_133_whales-14_5138	133	Hum-0bd2_147_ocean-17_4530	147	14	killer whale	open ocean	6.667
+location	Hum-0bd2_133_whales-7	Hum-0bd2_147_ocean-17	Hum-0bd2_133_whales-7_5138	133	Hum-0bd2_147_ocean-17_4530	147	14	killer whale	open ocean	6.667
+location	Com-6f4d_128_dolphin-16	Com-6f4d_114_estuaries-12	Com-6f4d_128_dolphin-16_1920	128	Com-6f4d_114_estuaries-12_4517	114	14	Common bottlenose dolphin	estuaries	6.667
+location	Hum-0bd2_135_orcas-20	Hum-0bd2_147_ocean-17	Hum-0bd2_135_orcas-20_5140	135	Hum-0bd2_147_ocean-17_4530	147	12	orca	open ocean	6.385
+location	Bel-4321_4_canary-25	Bel-4321_16_estuaries-31	Bel-4321_4_canary-25_4672	4	Bel-4321_16_estuaries-31_4517	16	12	sea canary	estuaries	6.385
+location	Pin-2f45_278_orca-8	Pin-2f45_266_ocean-17	Pin-2f45_278_orca-8_5140	278	Pin-2f45_266_ocean-17_4530	266	12	orca	open ocean	6.385
+location	Ste-0d9f_114_whale-28	Ste-0d9f_99_ocean-13	Ste-0d9f_114_whale-28_2627	114	Ste-0d9f_99_ocean-13_4530	99	15	Killer whale	open ocean	6.25
+location	Sou-ac15_123_whale-3	Sou-ac15_131_estuaries-64	Sou-ac15_123_whale-3_1770	123	Sou-ac15_131_estuaries-64_4517	131	8	Greenland right whale	estuaries	6.0
+location	Sou-ac15_139_whales-12	Sou-ac15_131_estuaries-64	Sou-ac15_139_whales-12_1770	139	Sou-ac15_131_estuaries-64_4517	131	8	Greenland right whale	estuaries	6.0
+location	Por-f868_13_porpoise-35	Por-f868_29_seas-9	Por-f868_13_porpoise-35_5080	13	Por-f868_29_seas-9_4528	29	16	harbour porpoise	shallow seas	5.882
+location	Por-f868_13_porpoise-16	Por-f868_29_seas-9	Por-f868_13_porpoise-16_5080	13	Por-f868_29_seas-9_4528	29	16	harbour porpoise	shallow seas	5.882
+location	Por-f868_13_porpoise-38	Por-f868_29_seas-9	Por-f868_13_porpoise-38_5080	13	Por-f868_29_seas-9_4528	29	16	harbour porpoise	shallow seas	5.882
+location	Por-f868_13_porpoise-60	Por-f868_29_seas-9	Por-f868_13_porpoise-60_2500	13	Por-f868_29_seas-9_4528	29	16	Harbour porpoise	shallow seas	5.882
+location	Por-f868_13_porpoise-25	Por-f868_29_seas-9	Por-f868_13_porpoise-25_5080	13	Por-f868_29_seas-9_4528	29	16	harbour porpoise	shallow seas	5.882
+location	Bel-4321_33_Monodontidae-10	Bel-4321_16_estuaries-31	Bel-4321_33_Monodontidae-10_693	33	Bel-4321_16_estuaries-31_4517	16	17	Monodontidae	estuaries	5.556
+location	Com-6f4d_103_dolphin-3	Com-6f4d_114_estuaries-12	Com-6f4d_103_dolphin-3_4797	103	Com-6f4d_114_estuaries-12_4517	114	11	common bottlenose dolphin	estuaries	5.5
+location	Sou-ac15_122_whales-10	Sou-ac15_131_estuaries-64	Sou-ac15_122_whales-10_1770	122	Sou-ac15_131_estuaries-64_4517	131	9	Greenland right whale	estuaries	5.4
+location	Hum-0bd2_272_whale-27	Hum-0bd2_254_ocean-7	Hum-0bd2_272_whale-27_5138	272	Hum-0bd2_254_ocean-7_4530	254	18	killer whale	open ocean	5.263
+location	Har-49aa_40_dolphin-45	Har-49aa_52_estuaries-7	Har-49aa_40_dolphin-45_1920	40	Har-49aa_52_estuaries-7_4517	52	12	Common bottlenose dolphin	estuaries	5.077
+location	Hum-0bd2_166_whales-7	Hum-0bd2_147_ocean-17	Hum-0bd2_166_whales-7_5109	166	Hum-0bd2_147_ocean-17_4530	147	19	humpback whale	open ocean	5.0
+location	Bel-4321_320_whale-2	Bel-4321_301_waters-25	Bel-4321_320_whale-2_1664	320	Bel-4321_301_waters-25_4512	301	19	Beluga whale	brackish water	5.0
+location	Com-6f4d_95_dolphin-3	Com-6f4d_114_estuaries-12	Com-6f4d_95_dolphin-3_4797	95	Com-6f4d_114_estuaries-12_4517	114	19	common bottlenose dolphin	estuaries	5.0
+location	Bel-4321_36_whale-12	Bel-4321_16_estuaries-31	Bel-4321_36_whale-12_4158	36	Bel-4321_16_estuaries-31_4517	16	20	white whales	estuaries	4.762
+location	Com-6f4d_127_dolphin-3	Com-6f4d_114_estuaries-12	Com-6f4d_127_dolphin-3_1920	127	Com-6f4d_114_estuaries-12_4517	114	13	Common bottlenose dolphin	estuaries	4.714
+location	Hum-0bd2_130_orcas-24	Hum-0bd2_147_ocean-17	Hum-0bd2_130_orcas-24_5140	130	Hum-0bd2_147_ocean-17_4530	147	17	orca	open ocean	4.611
+location	Bel-4321_33_Monodontidae-10	Bel-4321_12_estuaries-28	Bel-4321_33_Monodontidae-10_693	33	Bel-4321_12_estuaries-28_4517	12	21	Monodontidae	estuaries	4.545
+location	Bel-4321_322_whales-8	Bel-4321_301_waters-25	Bel-4321_322_whales-8_4671	322	Bel-4321_301_waters-25_4512	301	21	beluga whale	brackish water	4.545
+location	Sou-ac15_142_whales-12	Sou-ac15_131_estuaries-64	Sou-ac15_142_whales-12_1770	142	Sou-ac15_131_estuaries-64_4517	131	11	Greenland right whale	estuaries	4.5
+location	Hum-0bd2_272_whale-27	Hum-0bd2_250_ocean-24	Hum-0bd2_272_whale-27_5138	272	Hum-0bd2_250_ocean-24_4530	250	22	killer whale	open ocean	4.348
+location	Bel-4321_169_dolphin-20	Bel-4321_145_estuaries-17	Bel-4321_169_dolphin-20_1920	169	Bel-4321_145_estuaries-17_4517	145	24	Common bottlenose dolphin	estuaries	4.0
+location	Bel-4321_36_whale-12	Bel-4321_12_estuaries-28	Bel-4321_36_whale-12_4158	36	Bel-4321_12_estuaries-28_4517	12	24	white whales	estuaries	4.0
+location	Por-f868_38_porpoises-25	Por-f868_13_ocean-31	Por-f868_38_porpoises-25_2500	38	Por-f868_13_ocean-31_4530	13	25	Harbour porpoise	open ocean	3.846
+location	Bel-4321_276_whale-2	Bel-4321_301_waters-25	Bel-4321_276_whale-2_1664	276	Bel-4321_301_waters-25_4512	301	25	Beluga whale	brackish water	3.846
+location	Por-f868_38_porpoises-30	Por-f868_13_ocean-31	Por-f868_38_porpoises-30_2500	38	Por-f868_13_ocean-31_4530	13	25	Harbour porpoise	open ocean	3.846
+location	Hum-0bd2_275_orcas-7	Hum-0bd2_254_ocean-7	Hum-0bd2_275_orcas-7_5140	275	Hum-0bd2_254_ocean-7_4530	254	21	orca	open ocean	3.773
+location	Por-f868_3_narwhals-14	Por-f868_29_seas-9	Por-f868_3_narwhals-14_5254	3	Por-f868_29_seas-9_1367	29	26	narwhal	Shallow seas	3.704
+location	Bel-4321_39_canary-11	Bel-4321_16_estuaries-31	Bel-4321_39_canary-11_4672	39	Bel-4321_16_estuaries-31_4517	16	23	sea canary	estuaries	3.458
+location	Pel-cab2_37_whales-12	Pel-cab2_9_ocean-8	Pel-cab2_37_whales-12_5504	37	Pel-cab2_9_ocean-8_4530	9	28	sperm whale	open ocean	3.448
+location	Bel-4321_271_whale-2	Bel-4321_301_waters-25	Bel-4321_271_whale-2_1664	271	Bel-4321_301_waters-25_4512	301	30	Beluga whale	brackish water	3.226
+location	Bel-4321_186_whales-6	Bel-4321_216_estuary-6	Bel-4321_186_whales-6_4726	186	Bel-4321_216_estuary-6_4517	216	30	bowhead whale	estuaries	3.226
+location	Man-b368_128_whales-14	Man-b368_159_ocean-8	Man-b368_128_whales-14_2627	128	Man-b368_159_ocean-8_4530	159	31	Killer whale	open ocean	3.125
+location	Bel-4321_333_whale-2	Bel-4321_301_waters-25	Bel-4321_333_whale-2_1664	333	Bel-4321_301_waters-25_4512	301	32	Beluga whale	brackish water	3.03
+location	Rig-c8bd_61_whale-21	Rig-c8bd_93_ocean-11	Rig-c8bd_61_whale-21_4726	61	Rig-c8bd_93_ocean-11_4530	93	32	bowhead whale	open ocean	3.03
+location	Bel-4321_39_canary-11	Bel-4321_12_estuaries-28	Bel-4321_39_canary-11_4672	39	Bel-4321_12_estuaries-28_4517	12	27	sea canary	estuaries	2.964
+location	Bel-4321_334_whale-2	Bel-4321_301_waters-25	Bel-4321_334_whale-2_1664	334	Bel-4321_301_waters-25_4512	301	33	Beluga whale	brackish water	2.941
+location	Gia-ae2f_206_dolphin-10	Gia-ae2f_172_rivers-5	Gia-ae2f_206_dolphin-10_1474	206	Gia-ae2f_172_rivers-5_4533	172	34	Amazon river dolphin	rivers and streams	2.857
+location	Cet-5f63_40_whale-9	Cet-5f63_5_water-21	Cet-5f63_40_whale-9_4671	40	Cet-5f63_5_water-21_4512	5	35	beluga whale	brackish water	2.778
+location	Pel-cab2_37_whales-12	Pel-cab2_2_ocean-12	Pel-cab2_37_whales-12_5504	37	Pel-cab2_2_ocean-12_4530	2	35	sperm whale	open ocean	2.778
+location	Cet-5f63_40_whale-9	Cet-5f63_5_water-18	Cet-5f63_40_whale-9_4671	40	Cet-5f63_5_water-18_4512	5	35	beluga whale	brackish water	2.778
+location	Bel-4321_338_whale-2	Bel-4321_301_waters-25	Bel-4321_338_whale-2_1664	338	Bel-4321_301_waters-25_4512	301	37	Beluga whale	brackish water	2.632
+location	Bel-4321_186_whales-6	Bel-4321_145_estuaries-17	Bel-4321_186_whales-6_4726	186	Bel-4321_145_estuaries-17_4517	145	41	bowhead whale	estuaries	2.381
+location	Bel-4321_186_whales-6	Bel-4321_233_estuaries-8	Bel-4321_186_whales-6_4726	186	Bel-4321_233_estuaries-8_4517	233	47	bowhead whale	estuaries	2.083
+location	Ich-89df_518_whale-30	Ich-89df_470_seas-10	Ich-89df_518_whale-30_5109	518	Ich-89df_470_seas-10_4528	470	48	humpback whale	shallow seas	2.041
+location	Ste-0d9f_50_whales-19	Ste-0d9f_99_ocean-13	Ste-0d9f_50_whales-19_2627	50	Ste-0d9f_99_ocean-13_4530	99	49	Killer whale	open ocean	2.0
+location	Bel-4321_36_whale-12	Bel-4321_91_estuaries-6	Bel-4321_36_whale-12_4158	36	Bel-4321_91_estuaries-6_4517	91	55	white whales	estuaries	1.786
+location	Pre10d6_145_whales-8	Pre10d6_87_ocean-17	Pre10d6_145_whales-8_2627	145	Pre10d6_87_ocean-17_4530	87	58	Killer whale	open ocean	1.695
+location	Bel-4321_33_Monodontidae-10	Bel-4321_91_estuaries-6	Bel-4321_33_Monodontidae-10_693	33	Bel-4321_91_estuaries-6_4517	91	58	Monodontidae	estuaries	1.695
+location	Rig-c8bd_29_whale-14	Rig-c8bd_93_ocean-11	Rig-c8bd_29_whale-14_4726	29	Rig-c8bd_93_ocean-11_4530	93	64	bowhead whale	open ocean	1.538
+location	Rig-c8bd_29_whale-10	Rig-c8bd_93_ocean-11	Rig-c8bd_29_whale-10_4726	29	Rig-c8bd_93_ocean-11_4530	93	64	bowhead whale	open ocean	1.538
+location	Bel-4321_36_whale-12	Bel-4321_105_estuaries-39	Bel-4321_36_whale-12_4158	36	Bel-4321_105_estuaries-39_4517	105	69	white whales	estuaries	1.429
+location	Por-f868_124_porpoise-19	Por-f868_65_estuaries-16	Por-f868_124_porpoise-19_5082	124	Por-f868_65_estuaries-16_4517	65	59	harbor porpoise	estuaries	1.383
+location	Cet-5f63_374_rorquals-24	Cet-5f63_302_ocean-10	Cet-5f63_374_rorquals-24_4252	374	Cet-5f63_302_ocean-10_1354	302	72	rorquals	Deep ocean	1.37
+location	Bel-4321_33_Monodontidae-10	Bel-4321_105_estuaries-39	Bel-4321_33_Monodontidae-10_693	33	Bel-4321_105_estuaries-39_4517	105	72	Monodontidae	estuaries	1.37
+location	Rig-c8bd_30_mysticetus-18	Rig-c8bd_93_ocean-11	Rig-c8bd_30_mysticetus-18_1768	30	Rig-c8bd_93_ocean-11_4530	93	63	Balaena mysticetus	open ocean	1.359
+location	Cet-5f63_375_narwhals-11	Cet-5f63_302_ocean-10	Cet-5f63_375_narwhals-11_5254	375	Cet-5f63_302_ocean-10_1354	302	73	narwhal	Deep ocean	1.351
+location	Cet-5f63_478_porpoise-13	Cet-5f63_539_estuary-8	Cet-5f63_478_porpoise-13_5082	478	Cet-5f63_539_estuary-8_4517	539	61	harbor porpoise	estuaries	1.339
+location	Gre-c669_142_whale-9	Gre-c669_68_ocean-4	Gre-c669_142_whale-9_5504	142	Gre-c669_68_ocean-4_4530	68	74	sperm whale	open ocean	1.333
+adaptation	Atl-b2fd_28_dolphins-25	Atl-b2fd_28_social-13	Atl-b2fd_28_dolphins-25_4471	28	Atl-b2fd_28_social-13_3788	28	0	spotted dolphins	social	100.0
+adaptation	Spe-c6ef_8_whale-4	Spe-c6ef_8_predators-8	Spe-c6ef_8_whale-4_5504	8	Spe-c6ef_8_predators-8_359	8	0	sperm whale	Predator	100.0
+adaptation	Spe-c6ef_8_whales-22	Spe-c6ef_8_predators-8	Spe-c6ef_8_whales-22_5504	8	Spe-c6ef_8_predators-8_359	8	0	sperm whale	Predator	100.0
+adaptation	Spe-c6ef_2_whale-3	Spe-c6ef_2_predator-21	Spe-c6ef_2_whale-3_5504	2	Spe-c6ef_2_predator-21_359	2	0	sperm whale	Predator	100.0
+adaptation	Spe-c6ef_2_whales-16	Spe-c6ef_2_predator-21	Spe-c6ef_2_whales-16_5504	2	Spe-c6ef_2_predator-21_359	2	0	sperm whale	Predator	100.0
+adaptation	Spe-c6ef_351_whale-14	Spe-c6ef_351_predator-5	Spe-c6ef_351_whale-14_5504	351	Spe-c6ef_351_predator-5_359	351	0	sperm whale	Predator	100.0
+adaptation	Spe-c6ef_351_whales-8	Spe-c6ef_351_predator-5	Spe-c6ef_351_whales-8_5504	351	Spe-c6ef_351_predator-5_359	351	0	sperm whale	Predator	100.0
+adaptation	Spe2210_23_whales-18	Spe2210_23_predator-22	Spe2210_23_whales-18_5504	23	Spe2210_23_predator-22_359	23	0	sperm whale	Predator	100.0
+adaptation	Bot-9991_242_dolphins-3	Bot-9991_242_social-18	Bot-9991_242_dolphins-3_937	242	Bot-9991_242_social-18_3788	242	0	Bottlenose dolphins	social	100.0
+adaptation	Bot-9991_242_dolphins-3	Bot-9991_242_social-25	Bot-9991_242_dolphins-3_937	242	Bot-9991_242_social-25_3788	242	0	Bottlenose dolphins	social	100.0
+adaptation	Ant6c3c_46_whales-18	Ant6c3c_46_predator-22	Ant6c3c_46_whales-18_5504	46	Ant6c3c_46_predator-22_359	46	0	sperm whale	Predator	100.0
+adaptation	Gri-95f2_38_whales-20	Gri-95f2_38_predators-28	Gri-95f2_38_whales-20_5504	38	Gri-95f2_38_predators-28_359	38	0	sperm whale	Predator	100.0
+adaptation	Gri-95f2_38_whales-20	Gri-95f2_38_predators-2	Gri-95f2_38_whales-20_5504	38	Gri-95f2_38_predators-2_359	38	0	sperm whale	Predator	100.0
+adaptation	Spe-c6ef_351_whales-23	Spe-c6ef_351_predator-5	Spe-c6ef_351_whales-23_5504	351	Spe-c6ef_351_predator-5_359	351	0	sperm whale	Predator	100.0
+adaptation	Spe-c6ef_351_whales-19	Spe-c6ef_351_predator-5	Spe-c6ef_351_whales-19_5504	351	Spe-c6ef_351_predator-5_359	351	0	sperm whale	Predator	100.0
+adaptation	Squ7680_6_whales-18	Squ7680_6_predator-22	Squ7680_6_whales-18_5504	6	Squ7680_6_predator-22_359	6	0	sperm whale	Predator	100.0
+adaptation	Bow-5df3_55_whale-3	Bow-5df3_55_social-7	Bow-5df3_55_whale-3_4726	55	Bow-5df3_55_social-7_3788	55	0	bowhead whale	social	100.0
+adaptation	Atl-b2fd_28_dolphins-3	Atl-b2fd_28_social-13	Atl-b2fd_28_dolphins-3_4260	28	Atl-b2fd_28_social-13_3788	28	0	bottlenose dolphins	social	100.0
+adaptation	Bot-9991_160_dolphins-3	Bot-9991_160_social-27	Bot-9991_160_dolphins-3_4260	160	Bot-9991_160_social-27_3788	160	0	bottlenose dolphins	social	100.0
+adaptation	Ror-d7cd_19_whales-5	Ror-d7cd_19_social-9	Ror-d7cd_19_whales-5_5109	19	Ror-d7cd_19_social-9_3788	19	0	humpback whale	social	100.0
+adaptation	Orc-02f3_244_whales-14	Orc-02f3_244_cultures-8	Orc-02f3_244_whales-14_5138	244	Orc-02f3_244_cultures-8_311	244	0	killer whale	Culture	100.0
+adaptation	Nar-ff44_203_narwhals-8	Nar-ff44_203_migration-17	Nar-ff44_203_narwhals-8_5254	203	Nar-ff44_203_migration-17_1	203	0	narwhal	Migration	100.0
+adaptation	Spe-c6ef_332_whale-2	Spe-c6ef_332_Social-4	Spe-c6ef_332_whale-2_3393	332	Spe-c6ef_332_Social-4_3788	332	0	Sperm whale	social	100.0
+adaptation	Spe-c6ef_375_whale-2	Spe-c6ef_375_Social-4	Spe-c6ef_375_whale-2_3393	375	Spe-c6ef_375_Social-4_3788	375	0	Sperm whale	social	100.0
+adaptation	Spe-c6ef_349_whale-2	Spe-c6ef_349_Social-4	Spe-c6ef_349_whale-2_3393	349	Spe-c6ef_349_Social-4_3788	349	0	Sperm whale	social	100.0
+adaptation	Spe-c6ef_331_whale-2	Spe-c6ef_331_Social-4	Spe-c6ef_331_whale-2_3393	331	Spe-c6ef_331_Social-4_3788	331	0	Sperm whale	social	100.0
+adaptation	Hum13cf_57_whales-14	Hum13cf_57_migration-26	Hum13cf_57_whales-14_5109	57	Hum13cf_57_migration-26_1	57	0	humpback whale	Migration	100.0
+adaptation	Ani6f2b_35_whales-14	Ani6f2b_35_migration-26	Ani6f2b_35_whales-14_5109	35	Ani6f2b_35_migration-26_1	35	0	humpback whale	Migration	100.0
+adaptation	Nor-5431_23_whales-3	Nor-5431_23_social-6	Nor-5431_23_whales-3_1764	23	Nor-5431_23_social-6_3788	23	0	Northern bottlenose whale	social	100.0
+adaptation	Ant-7402_86_whale-3	Ant-7402_86_Migration-7	Ant-7402_86_whale-3_1519	86	Ant-7402_86_Migration-7_3781	86	0	Antarctic minke whale	migration	100.0
+adaptation	Spe-c6ef_243_whale-7	Spe-c6ef_243_social-24	Spe-c6ef_243_whale-7_5504	243	Spe-c6ef_243_social-24_3788	243	0	sperm whale	social	100.0
+adaptation	Ama-9e7a_207_dolphin-11	Ama-9e7a_207_predators-5	Ama-9e7a_207_dolphin-11_1474	207	Ama-9e7a_207_predators-5_359	207	0	Amazon river dolphin	Predator	100.0
+adaptation	Spe-c6ef_243_whales-19	Spe-c6ef_243_social-24	Spe-c6ef_243_whales-19_5504	243	Spe-c6ef_243_social-24_3788	243	0	sperm whale	social	100.0
+adaptation	Spe-c6ef_343_whales-5	Spe-c6ef_343_social-8	Spe-c6ef_343_whales-5_5504	343	Spe-c6ef_343_social-8_3788	343	0	sperm whale	social	100.0
+adaptation	Spe-c6ef_339_whales-9	Spe-c6ef_339_social-2	Spe-c6ef_339_whales-9_5504	339	Spe-c6ef_339_social-2_3788	339	0	sperm whale	social	100.0
+adaptation	Spe-c6ef_2_macrocephalus-8	Spe-c6ef_2_predator-21	Spe-c6ef_2_macrocephalus-8_3394	2	Spe-c6ef_2_predator-21_3977	2	0	Physeter macrocephalus	predator	87.0
+adaptation	Gra-abbf_145_whales-2	Gra-abbf_145_migration-17	Gra-abbf_145_whales-2_5039	145	Gra-abbf_145_migration-17_1	145	0	gray whale	Migration	83.0
+adaptation	Gra-abbf_326_whale-36	Gra-abbf_326_migration-19	Gra-abbf_326_whale-36_5039	326	Gra-abbf_326_migration-19_3781	326	0	gray whale	migration	83.0
+adaptation	Gra-abbf_326_whale-9	Gra-abbf_326_migration-10	Gra-abbf_326_whale-9_5039	326	Gra-abbf_326_migration-10_3781	326	0	gray whale	migration	83.0
+adaptation	Gra-abbf_326_whale-24	Gra-abbf_326_migration-19	Gra-abbf_326_whale-24_5039	326	Gra-abbf_326_migration-19_1	326	0	gray whale	Migration	83.0
+adaptation	Gra-abbf_81_whales-17	Gra-abbf_81_migration-30	Gra-abbf_81_whales-17_5039	81	Gra-abbf_81_migration-30_1	81	0	gray whale	Migration	83.0
+adaptation	Gra-abbf_148_whales-21	Gra-abbf_148_migration-4	Gra-abbf_148_whales-21_5039	148	Gra-abbf_148_migration-4_1	148	0	gray whale	Migration	83.0
+adaptation	Gra-abbf_338_whales-3	Gra-abbf_338_migration-30	Gra-abbf_338_whales-3_5039	338	Gra-abbf_338_migration-30_3781	338	0	gray whale	migration	83.0
+adaptation	Spe-c6ef_343_orcas-2	Spe-c6ef_343_social-8	Spe-c6ef_343_orcas-2_5140	343	Spe-c6ef_343_social-8_3788	343	0	orca	social	83.0
+adaptation	Gra-abbf_326_whale-36	Gra-abbf_326_migration-10	Gra-abbf_326_whale-36_5039	326	Gra-abbf_326_migration-10_3781	326	0	gray whale	migration	83.0
+adaptation	Gra-abbf_81_whales-17	Gra-abbf_81_migrations-14	Gra-abbf_81_whales-17_5039	81	Gra-abbf_81_migrations-14_3781	81	0	gray whale	migration	83.0
+adaptation	Orc-02f3_200_orcas-21	Orc-02f3_200_social-28	Orc-02f3_200_orcas-21_5140	200	Orc-02f3_200_social-28_3788	200	0	orca	social	83.0
+adaptation	Gra-abbf_156_whale-3	Gra-abbf_156_migration-7	Gra-abbf_156_whale-3_5039	156	Gra-abbf_156_migration-7_3781	156	0	gray whale	migration	83.0
+adaptation	Orc-02f3_243_orca-2	Orc-02f3_243_culture-26	Orc-02f3_243_orca-2_5140	243	Orc-02f3_243_culture-26_311	243	0	orca	Culture	83.0
+adaptation	Ani-57f1_80_orcas-10	Ani-57f1_80_culture-3	Ani-57f1_80_orcas-10_5140	80	Ani-57f1_80_culture-3_311	80	0	orca	Culture	83.0
+adaptation	Orc-02f3_337_orcas-5	Orc-02f3_337_cultures-3	Orc-02f3_337_orcas-5_5140	337	Orc-02f3_337_cultures-3_311	337	0	orca	Culture	83.0
+adaptation	Orc-02f3_244_orca-17	Orc-02f3_244_cultures-8	Orc-02f3_244_orca-17_5140	244	Orc-02f3_244_cultures-8_311	244	0	orca	Culture	83.0
+adaptation	Gra-abbf_361_whales-11	Gra-abbf_361_migration-15	Gra-abbf_361_whales-11_5039	361	Gra-abbf_361_migration-15_3781	361	0	gray whale	migration	83.0
+adaptation	Orc-02f3_179_orcas-3	Orc-02f3_179_social-6	Orc-02f3_179_orcas-3_5140	179	Orc-02f3_179_social-6_3788	179	0	orca	social	83.0
+adaptation	Orc-02f3_200_orcas-35	Orc-02f3_200_social-28	Orc-02f3_200_orcas-35_5140	200	Orc-02f3_200_social-28_3788	200	0	orca	social	83.0
+adaptation	Gra-abbf_326_whale-24	Gra-abbf_326_migration-10	Gra-abbf_326_whale-24_5039	326	Gra-abbf_326_migration-10_3781	326	0	gray whale	migration	83.0
+adaptation	Gra-abbf_326_whale-9	Gra-abbf_326_migration-19	Gra-abbf_326_whale-9_5039	326	Gra-abbf_326_migration-19_3781	326	0	gray whale	migration	83.0
+adaptation	Orc-02f3_373_orcas-33	Orc-02f3_373_social-27	Orc-02f3_373_orcas-33_5140	373	Orc-02f3_373_social-27_3788	373	0	orca	social	83.0
+adaptation	Orc-02f3_77_orcas-9	Orc-02f3_77_social-28	Orc-02f3_77_orcas-9_5140	77	Orc-02f3_77_social-28_3788	77	0	orca	social	83.0
+adaptation	Bea-71ad_111_whales-4	Bea-71ad_111_social-12	Bea-71ad_111_whales-4_4725	111	Bea-71ad_111_social-12_3788	111	0	northern bottlenose whale	social	66.0
+adaptation	Com-03ae_146_dolphin-10	Com-03ae_146_migration-61	Com-03ae_146_dolphin-10_1920	146	Com-03ae_146_migration-61_1	146	0	Common bottlenose dolphin	Migration	66.0
+adaptation	Bot-9991_283_dolphin-3	Bot-9991_283_predator-12	Bot-9991_283_dolphin-3_2595	283	Bot-9991_283_predator-12_3977	283	0	Spotted bottlenose dolphin	predator	54.0
+adaptation	Cet-5f63_47_whale-32	Cet-5f63_46_dimorphism-2	Cet-5f63_47_whale-32_3393	47	Cet-5f63_46_dimorphism-2_3791	46	1	Sperm whale	sexual dimorphism	50.0
+adaptation	Hum13cf_57_whales-14	Hum13cf_58_migration-4	Hum13cf_57_whales-14_5109	57	Hum13cf_58_migration-4_3781	58	1	humpback whale	migration	50.0
+adaptation	Cet-5f63_47_narwhals-4	Cet-5f63_46_dimorphism-2	Cet-5f63_47_narwhals-4_5254	47	Cet-5f63_46_dimorphism-2_3791	46	1	narwhal	sexual dimorphism	50.0
+adaptation	Nar-ff44_68_narwhals-5	Nar-ff44_69_social-12	Nar-ff44_68_narwhals-5_5254	68	Nar-ff44_69_social-12_3788	69	1	narwhal	social	50.0
+adaptation	Ani6f2b_35_whales-14	Ani6f2b_34_migration-2	Ani6f2b_35_whales-14_5109	35	Ani6f2b_34_migration-2_3781	34	1	humpback whale	migration	50.0
+adaptation	Cet-5f63_47_whales-24	Cet-5f63_46_dimorphism-2	Cet-5f63_47_whales-24_3393	47	Cet-5f63_46_dimorphism-2_3791	46	1	Sperm whale	sexual dimorphism	50.0
+adaptation	Cet-5f63_47_whales-2	Cet-5f63_46_dimorphism-2	Cet-5f63_47_whales-2_3393	47	Cet-5f63_46_dimorphism-2_3791	46	1	Sperm whale	sexual dimorphism	50.0
+adaptation	Cet-5f63_47_whale-11	Cet-5f63_46_dimorphism-2	Cet-5f63_47_whale-11_3393	47	Cet-5f63_46_dimorphism-2_3791	46	1	Sperm whale	sexual dimorphism	50.0
+adaptation	Ani6f2b_35_whales-14	Ani6f2b_36_migration-4	Ani6f2b_35_whales-14_5109	35	Ani6f2b_36_migration-4_3781	36	1	humpback whale	migration	50.0
+adaptation	Bea-71ad_112_whales-10	Bea-71ad_111_social-12	Bea-71ad_112_whales-10_4725	112	Bea-71ad_111_social-12_3788	111	1	northern bottlenose whale	social	50.0
+adaptation	Cet-5f63_199_whales-7	Cet-5f63_198_social-56	Cet-5f63_199_whales-7_5504	199	Cet-5f63_198_social-56_3788	198	1	sperm whale	social	50.0
+adaptation	Ani-66e9_209_whale-18	Ani-66e9_210_social-27	Ani-66e9_209_whale-18_5504	209	Ani-66e9_210_social-27_3788	210	1	sperm whale	social	50.0
+adaptation	Ani-57f1_347_dolphin-9	Ani-57f1_346_learning-11	Ani-57f1_347_dolphin-9_4797	347	Ani-57f1_346_learning-11_3780	346	1	common bottlenose dolphin	learning	50.0
+adaptation	Cet-5f63_33_whales-7	Cet-5f63_34_dimorphism-8	Cet-5f63_33_whales-7_5504	33	Cet-5f63_34_dimorphism-8_14	34	1	sperm whale	Sexual dimorphism	50.0
+adaptation	Ant-7402_95_whale-3	Ant-7402_94_migration-7	Ant-7402_95_whale-3_1519	95	Ant-7402_94_migration-7_3781	94	1	Antarctic minke whale	migration	50.0
+adaptation	Spe-c6ef_374_whales-21	Spe-c6ef_375_Social-4	Spe-c6ef_374_whales-21_5138	374	Spe-c6ef_375_Social-4_3788	375	1	killer whale	social	50.0
+adaptation	Cet-5f63_199_whales-32	Cet-5f63_198_social-56	Cet-5f63_199_whales-32_5504	199	Cet-5f63_198_social-56_3788	198	1	sperm whale	social	50.0
+adaptation	Pre-0725_125_whales-2	Pre-0725_126_Social-1	Pre-0725_125_whales-2_5138	125	Pre-0725_126_Social-1_3788	126	1	killer whale	social	50.0
+adaptation	Pre-0725_125_whales-11	Pre-0725_126_Social-1	Pre-0725_125_whales-11_5138	125	Pre-0725_126_Social-1_3788	126	1	killer whale	social	50.0
+adaptation	Spe-c6ef_1_whale-2	Spe-c6ef_2_predator-21	Spe-c6ef_1_whale-2_3393	1	Spe-c6ef_2_predator-21_359	2	1	Sperm whale	Predator	50.0
+adaptation	Ani-66e9_130_whales-7	Ani-66e9_131_social-5	Ani-66e9_130_whales-7_5138	130	Ani-66e9_131_social-5_3788	131	1	killer whale	social	50.0
+adaptation	Anica12_16_whales-7	Anica12_15_social-4	Anica12_16_whales-7_5138	16	Anica12_15_social-4_3788	15	1	killer whale	social	50.0
+adaptation	Spe-c6ef_339_whales-9	Spe-c6ef_340_social-11	Spe-c6ef_339_whales-9_5504	339	Spe-c6ef_340_social-11_3788	340	1	sperm whale	social	50.0
+adaptation	Ani-66e9_130_whales-22	Ani-66e9_131_social-5	Ani-66e9_130_whales-22_5138	130	Ani-66e9_131_social-5_3788	131	1	killer whale	social	50.0
+adaptation	Com-6f4d_41_dolphin-3	Com-6f4d_42_social-4	Com-6f4d_41_dolphin-3_4797	41	Com-6f4d_42_social-4_3788	42	1	common bottlenose dolphin	social	50.0
+adaptation	Ama-9e7a_208_dolphin-39	Ama-9e7a_207_predators-5	Ama-9e7a_208_dolphin-39_1474	208	Ama-9e7a_207_predators-5_359	207	1	Amazon river dolphin	Predator	50.0
+adaptation	Cra-e2f1_84_whales-4	Cra-e2f1_83_social-27	Cra-e2f1_84_whales-4_5138	84	Cra-e2f1_83_social-27_3788	83	1	killer whale	social	50.0
+adaptation	Blu-41f9_119_whales-8	Blu-41f9_120_migrations-6	Blu-41f9_119_whales-8_4705	119	Blu-41f9_120_migrations-6_3781	120	1	blue whale	migration	50.0
+adaptation	Blu-41f9_139_whales-2	Blu-41f9_138_migration-16	Blu-41f9_139_whales-2_1731	139	Blu-41f9_138_migration-16_1	138	1	Blue whale	Migration	50.0
+adaptation	Ani-57f1_347_dolphin-9	Ani-57f1_346_social-21	Ani-57f1_347_dolphin-9_4797	347	Ani-57f1_346_social-21_3788	346	1	common bottlenose dolphin	social	50.0
+adaptation	Har-49aa_115_porpoise-2	Har-49aa_114_migration-24	Har-49aa_115_porpoise-2_2500	115	Har-49aa_114_migration-24_1	114	1	Harbour porpoise	Migration	50.0
+adaptation	Bow-5df3_130_whales-10	Bow-5df3_129_Migration-1	Bow-5df3_130_whales-10_4726	130	Bow-5df3_129_Migration-1_1	129	1	bowhead whale	Migration	50.0
+adaptation	Gra-abbf_144_whales-25	Gra-abbf_145_migration-17	Gra-abbf_144_whales-25_4705	144	Gra-abbf_145_migration-17_3781	145	1	blue whale	migration	50.0
+adaptation	Gra-abbf_144_whales-22	Gra-abbf_145_migration-17	Gra-abbf_144_whales-22_4705	144	Gra-abbf_145_migration-17_3781	145	1	blue whale	migration	50.0
+adaptation	Blu-41f9_109_whale-7	Blu-41f9_110_migration-17	Blu-41f9_109_whale-7_4705	109	Blu-41f9_110_migration-17_3781	110	1	blue whale	migration	50.0
+adaptation	Blu-41f9_137_whales-7	Blu-41f9_138_migration-16	Blu-41f9_137_whales-7_4705	137	Blu-41f9_138_migration-16_1	138	1	blue whale	Migration	50.0
+adaptation	Din-756f_358_whale-51	Din-756f_359_carnivorous-3	Din-756f_358_whale-51_4705	358	Din-756f_359_carnivorous-3_3948	359	1	blue whale	carnivorous	50.0
+adaptation	Ant-7402_87_whales-4	Ant-7402_86_Migration-7	Ant-7402_87_whales-4_1519	87	Ant-7402_86_Migration-7_3781	86	1	Antarctic minke whale	migration	50.0
+adaptation	Blu-41f9_9_whales-2	Blu-41f9_8_migration-19	Blu-41f9_9_whales-2_1731	9	Blu-41f9_8_migration-19_3781	8	1	Blue whale	migration	50.0
+adaptation	Hea8b48_59_whale-6	Hea8b48_60_communication-2	Hea8b48_59_whale-6_5109	59	Hea8b48_60_communication-2_5	60	1	humpback whale	Acoustic communication	50.0
+adaptation	Nar-ff44_210_Narwhal-1	Nar-ff44_209_migrations-3	Nar-ff44_210_Narwhal-1_2889	210	Nar-ff44_209_migrations-3_3781	209	1	Narwhal	migration	50.0
+adaptation	Bot-9991_242_dolphins-3	Bot-9991_241_social-2	Bot-9991_242_dolphins-3_937	242	Bot-9991_241_social-2_3788	241	1	Bottlenose dolphins	social	50.0
+adaptation	Bot-9991_242_dolphins-3	Bot-9991_241_social-18	Bot-9991_242_dolphins-3_937	242	Bot-9991_241_social-18_3788	241	1	Bottlenose dolphins	social	50.0
+adaptation	Com-6f4d_35_dolphin-4	Com-6f4d_36_language-14	Com-6f4d_35_dolphin-4_5466	35	Com-6f4d_36_language-14_3941	36	1	common dolphin	language	41.5
+adaptation	Soc-cc7f_39_dolphin-22	Soc-cc7f_38_social-8	Soc-cc7f_39_dolphin-22_5466	39	Soc-cc7f_38_social-8_3788	38	1	common dolphin	social	41.5
+adaptation	Soc-cc7f_39_dolphin-13	Soc-cc7f_38_social-8	Soc-cc7f_39_dolphin-13_5466	39	Soc-cc7f_38_social-8_3788	38	1	common dolphin	social	41.5
+adaptation	Soc-cc7f_39_dolphin-10	Soc-cc7f_38_social-8	Soc-cc7f_39_dolphin-10_5466	39	Soc-cc7f_38_social-8_3788	38	1	common dolphin	social	41.5
+adaptation	Orc-02f3_17_Orca-1	Orc-02f3_16_cultures-10	Orc-02f3_17_Orca-1_2630	17	Orc-02f3_16_cultures-10_3940	16	1	Orca	culture	41.5
+adaptation	Gra-abbf_192_whale-2	Gra-abbf_191_migration-2	Gra-abbf_192_whale-2_2421	192	Gra-abbf_191_migration-2_3781	191	1	Gray whale	migration	41.5
+adaptation	Gra-abbf_157_whale-2	Gra-abbf_158_Migration-4	Gra-abbf_157_whale-2_2421	157	Gra-abbf_158_Migration-4_1	158	1	Gray whale	Migration	41.5
+adaptation	Orc-02f3_17_Orca-1	Orc-02f3_16_cultures-17	Orc-02f3_17_Orca-1_2630	17	Orc-02f3_16_cultures-17_311	16	1	Orca	Culture	41.5
+adaptation	Orc-02f3_245_Orca-1	Orc-02f3_244_cultures-8	Orc-02f3_245_Orca-1_2630	245	Orc-02f3_244_cultures-8_311	244	1	Orca	Culture	41.5
+adaptation	Ama-9e7a_10_dolphin-20	Ama-9e7a_11_dimorphism-2	Ama-9e7a_10_dolphin-20_4594	10	Ama-9e7a_11_dimorphism-2_14	11	1	pink dolphin	Sexual dimorphism	41.5
+adaptation	Gra-abbf_214_whale-2	Gra-abbf_215_Migration-4	Gra-abbf_214_whale-2_2421	214	Gra-abbf_215_Migration-4_3781	215	1	Gray whale	migration	41.5
+adaptation	Gra-abbf_157_whale-2	Gra-abbf_156_migration-7	Gra-abbf_157_whale-2_2421	157	Gra-abbf_156_migration-7_3781	156	1	Gray whale	migration	41.5
+adaptation	Gra-abbf_186_whale-2	Gra-abbf_187_Migration-4	Gra-abbf_186_whale-2_2421	186	Gra-abbf_187_Migration-4_3781	187	1	Gray whale	migration	41.5
+adaptation	Gra-abbf_175_whale-2	Gra-abbf_176_Migration-4	Gra-abbf_175_whale-2_2421	175	Gra-abbf_176_Migration-4_3781	176	1	Gray whale	migration	41.5
+adaptation	Dev-10b5_27_fish-2	Dev-10b5_26_migration-12	Dev-10b5_27_fish-2_2419	27	Dev-10b5_26_migration-12_3781	26	1	Devil fish	migration	41.5
+adaptation	Orc-02f3_318_Orca-1	Orc-02f3_319_cultures-2	Orc-02f3_318_Orca-1_2630	318	Orc-02f3_319_cultures-2_311	319	1	Orca	Culture	41.5
+adaptation	Orc-02f3_175_Orca-1	Orc-02f3_176_Social-1	Orc-02f3_175_Orca-1_2630	175	Orc-02f3_176_Social-1_3788	176	1	Orca	social	41.5
+adaptation	Orc-02f3_78_Orca-1	Orc-02f3_77_social-28	Orc-02f3_78_Orca-1_2630	78	Orc-02f3_77_social-28_3788	77	1	Orca	social	41.5
+adaptation	Sou-ac15_56_whales-6	Sou-ac15_58_migration-21	Sou-ac15_56_whales-6_4047	56	Sou-ac15_58_migration-21_3781	58	2	right whales	migration	33.333
+adaptation	Spe-c6ef_349_whale-2	Spe-c6ef_351_predator-5	Spe-c6ef_349_whale-2_3393	349	Spe-c6ef_351_predator-5_359	351	2	Sperm whale	Predator	33.333
+adaptation	Bow-5df3_238_whale-3	Bow-5df3_240_migration-21	Bow-5df3_238_whale-3_4726	238	Bow-5df3_240_migration-21_3781	240	2	bowhead whale	migration	33.333
+adaptation	Sou-ac15_235_whale-8	Sou-ac15_233_migrations-16	Sou-ac15_235_whale-8_482	235	Sou-ac15_233_migrations-16_3781	233	2	Right whales	migration	33.333
+adaptation	Spe2210_20_whales-2	Spe2210_22_predator-2	Spe2210_20_whales-2_3393	20	Spe2210_22_predator-2_359	22	2	Sperm whale	Predator	33.333
+adaptation	Bow-5df3_167_whale-41	Bow-5df3_169_migration-25	Bow-5df3_167_whale-41_482	167	Bow-5df3_169_migration-25_3781	169	2	Right whales	migration	33.333
+adaptation	Blu-41f9_136_whales-2	Blu-41f9_138_migration-16	Blu-41f9_136_whales-2_1731	136	Blu-41f9_138_migration-16_3781	138	2	Blue whale	migration	33.333
+adaptation	Nar-ff44_206_narwhals-15	Nar-ff44_208_migration-10	Nar-ff44_206_narwhals-15_5254	206	Nar-ff44_208_migration-10_1	208	2	narwhal	Migration	33.333
+adaptation	Bel-4321_137_whale-2	Bel-4321_139_Social-1	Bel-4321_137_whale-2_1664	137	Bel-4321_139_Social-1_3788	139	2	Beluga whale	social	33.333
+adaptation	Sou-be79_15_whale-12	Sou-be79_13_dimorphism-9	Sou-be79_15_whale-12_5504	15	Sou-be79_13_dimorphism-9_14	13	2	sperm whale	Sexual dimorphism	33.333
+adaptation	Ror-d7cd_27_whale-16	Ror-d7cd_29_migration-33	Ror-d7cd_27_whale-16_1519	27	Ror-d7cd_29_migration-33_3781	29	2	Antarctic minke whale	migration	33.333
+adaptation	Ror-d7cd_27_whale-30	Ror-d7cd_29_migration-33	Ror-d7cd_27_whale-30_1519	27	Ror-d7cd_29_migration-33_3781	29	2	Antarctic minke whale	migration	33.333
+adaptation	Ror-d7cd_27_whale-12	Ror-d7cd_29_migration-33	Ror-d7cd_27_whale-12_1519	27	Ror-d7cd_29_migration-33_3781	29	2	Antarctic minke whale	migration	33.333
+adaptation	Ini-09cc_7_dolphin-20	Ini-09cc_5_dimorphism-9	Ini-09cc_7_dolphin-20_1474	7	Ini-09cc_5_dimorphism-9_3791	5	2	Amazon river dolphin	sexual dimorphism	33.333
+adaptation	Syn-38d5_153_whales-19	Syn-38d5_155_viviparous-4	Syn-38d5_153_whales-19_4705	153	Syn-38d5_155_viviparous-4_3795	155	2	blue whale	viviparous	33.333
+adaptation	Nar-ff44_71_narwhals-8	Nar-ff44_69_social-12	Nar-ff44_71_narwhals-8_5254	71	Nar-ff44_69_social-12_3788	69	2	narwhal	social	33.333
+adaptation	Nar-ff44_87_Narwhal-1	Nar-ff44_89_migrations-4	Nar-ff44_87_Narwhal-1_2889	87	Nar-ff44_89_migrations-4_3781	89	2	Narwhal	migration	33.333
+adaptation	Nar-ff44_210_Narwhal-1	Nar-ff44_208_migration-10	Nar-ff44_210_Narwhal-1_2889	210	Nar-ff44_208_migration-10_3781	208	2	Narwhal	migration	33.333
+adaptation	Syn-38d5_153_whale-40	Syn-38d5_155_viviparous-4	Syn-38d5_153_whale-40_4705	153	Syn-38d5_155_viviparous-4_3795	155	2	blue whale	viviparous	33.333
+adaptation	Orc-02f3_134_narwhals-8	Orc-02f3_132_social-3	Orc-02f3_134_narwhals-8_5254	134	Orc-02f3_132_social-3_3788	132	2	narwhal	social	33.333
+adaptation	Nar-ff44_201_narwhals-5	Nar-ff44_203_migration-17	Nar-ff44_201_narwhals-5_5254	201	Nar-ff44_203_migration-17_3781	203	2	narwhal	migration	33.333
+adaptation	Nor-5431_24_whale-3	Nor-5431_23_social-6	Nor-5431_24_whale-3_4725	24	Nor-5431_23_social-6_3788	23	1	northern bottlenose whale	social	33.0
+adaptation	Nor-5431_22_whales-37	Nor-5431_23_social-6	Nor-5431_22_whales-37_4725	22	Nor-5431_23_social-6_3788	23	1	northern bottlenose whale	social	33.0
+adaptation	Bea-71ad_110_whales-14	Bea-71ad_111_social-12	Bea-71ad_110_whales-14_4725	110	Bea-71ad_111_social-12_3788	111	1	northern bottlenose whale	social	33.0
+adaptation	Bea-71ad_110_whales-3	Bea-71ad_111_social-12	Bea-71ad_110_whales-3_4725	110	Bea-71ad_111_social-12_3788	111	1	northern bottlenose whale	social	33.0
+adaptation	Bea-71ad_110_whales-8	Bea-71ad_111_social-12	Bea-71ad_110_whales-8_4725	110	Bea-71ad_111_social-12_3788	111	1	northern bottlenose whale	social	33.0
+adaptation	Nor-5431_22_whales-8	Nor-5431_23_social-6	Nor-5431_22_whales-8_4725	22	Nor-5431_23_social-6_3788	23	1	northern bottlenose whale	social	33.0
+adaptation	Ama-9e7a_179_dolphin-4	Ama-9e7a_178_migration-3	Ama-9e7a_179_dolphin-4_1474	179	Ama-9e7a_178_migration-3_1	178	1	Amazon river dolphin	Migration	33.0
+adaptation	Ant-7402_93_whale-33	Ant-7402_94_migration-7	Ant-7402_93_whale-33_1519	93	Ant-7402_94_migration-7_1	94	1	Antarctic minke whale	Migration	33.0
+adaptation	Atl-b2fd_27_spotted-2	Atl-b2fd_28_social-13	Atl-b2fd_27_spotted-2_1592	27	Atl-b2fd_28_social-13_3788	28	1	Atlantic spotted dolphin	social	33.0
+adaptation	Com-6f4d_82_dolphin-3	Com-6f4d_81_learning-29	Com-6f4d_82_dolphin-3_1920	82	Com-6f4d_81_learning-29_0	81	1	Common bottlenose dolphin	Learning	33.0
+adaptation	Ani-66e9_130_dolphin-31	Ani-66e9_131_social-5	Ani-66e9_130_dolphin-31_1920	130	Ani-66e9_131_social-5_3788	131	1	Common bottlenose dolphin	social	33.0
+adaptation	Com-6f4d_46_dolphin-3	Com-6f4d_45_social-33	Com-6f4d_46_dolphin-3_1920	46	Com-6f4d_45_social-33_3788	45	1	Common bottlenose dolphin	social	33.0
+adaptation	Ama-9e7a_94_dolphin-9	Ama-9e7a_93_predators-27	Ama-9e7a_94_dolphin-9_1474	94	Ama-9e7a_93_predators-27_3977	93	1	Amazon river dolphin	predator	33.0
+adaptation	Ama-9e7a_94_dolphin-9	Ama-9e7a_93_predators-8	Ama-9e7a_94_dolphin-9_1474	94	Ama-9e7a_93_predators-8_3977	93	1	Amazon river dolphin	predator	33.0
+adaptation	Ama-9e7a_19_dolphin-8	Ama-9e7a_18_predator-17	Ama-9e7a_19_dolphin-8_1474	19	Ama-9e7a_18_predator-17_359	18	1	Amazon river dolphin	Predator	33.0
+adaptation	Ama-9e7a_94_dolphin-16	Ama-9e7a_93_predators-8	Ama-9e7a_94_dolphin-16_1474	94	Ama-9e7a_93_predators-8_359	93	1	Amazon river dolphin	Predator	33.0
+adaptation	Ama-9e7a_94_dolphin-16	Ama-9e7a_93_predators-27	Ama-9e7a_94_dolphin-16_1474	94	Ama-9e7a_93_predators-27_359	93	1	Amazon river dolphin	Predator	33.0
+adaptation	Sou-be79_15_macrocephalus-15	Sou-be79_13_dimorphism-9	Sou-be79_15_macrocephalus-15_3394	15	Sou-be79_13_dimorphism-9_14	13	2	Physeter macrocephalus	Sexual dimorphism	29.0
+adaptation	Orc-02f3_245_Orca-1	Orc-02f3_243_culture-26	Orc-02f3_245_Orca-1_2630	245	Orc-02f3_243_culture-26_3940	243	2	Orca	culture	27.667
+adaptation	Orc-02f3_317_Orca-1	Orc-02f3_319_cultures-2	Orc-02f3_317_Orca-1_2630	317	Orc-02f3_319_cultures-2_311	319	2	Orca	Culture	27.667
+adaptation	Com-6f4d_38_dolphin-4	Com-6f4d_36_language-14	Com-6f4d_38_dolphin-4_3307	38	Com-6f4d_36_language-14_3941	36	2	Common dolphin	language	27.667
+adaptation	Com-6f4d_118_dolphin-3	Com-6f4d_117_predators-8	Com-6f4d_118_dolphin-3_2595	118	Com-6f4d_117_predators-8_3977	117	1	Spotted bottlenose dolphin	predator	27.0
+adaptation	Com-6f4d_103_dolphin-3	Com-6f4d_102_predators-2	Com-6f4d_103_dolphin-3_2595	103	Com-6f4d_102_predators-2_3977	102	1	Spotted bottlenose dolphin	predator	27.0
+adaptation	Bot-9991_282_dolphin-29	Bot-9991_281_Predators-6	Bot-9991_282_dolphin-29_2595	282	Bot-9991_281_Predators-6_3977	281	1	Spotted bottlenose dolphin	predator	27.0
+adaptation	Bot-9991_282_dolphin-29	Bot-9991_283_predator-12	Bot-9991_282_dolphin-29_2595	282	Bot-9991_283_predator-12_359	283	1	Spotted bottlenose dolphin	Predator	27.0
+adaptation	Gra-abbf_197_whales-16	Gra-abbf_194_migration-13	Gra-abbf_197_whales-16_4047	197	Gra-abbf_194_migration-13_3781	194	3	right whales	migration	25.0
+adaptation	Nar-ff44_206_narwhals-15	Nar-ff44_209_migrations-3	Nar-ff44_206_narwhals-15_5254	206	Nar-ff44_209_migrations-3_3781	209	3	narwhal	migration	25.0
+adaptation	Bow-5df3_230_whales-12	Bow-5df3_233_migrations-23	Bow-5df3_230_whales-12_4726	230	Bow-5df3_233_migrations-23_3781	233	3	bowhead whale	migration	25.0
+adaptation	Bow-5df3_230_whales-12	Bow-5df3_233_migrations-10	Bow-5df3_230_whales-12_4726	230	Bow-5df3_233_migrations-10_3781	233	3	bowhead whale	migration	25.0
+adaptation	Gra-abbf_197_whales-2	Gra-abbf_194_migration-13	Gra-abbf_197_whales-2_4047	197	Gra-abbf_194_migration-13_3781	194	3	right whales	migration	25.0
+adaptation	Cet-5f63_49_whales-20	Cet-5f63_46_dimorphism-2	Cet-5f63_49_whales-20_5504	49	Cet-5f63_46_dimorphism-2_3791	46	3	sperm whale	sexual dimorphism	25.0
+adaptation	Cet-5f63_49_whales-6	Cet-5f63_46_dimorphism-2	Cet-5f63_49_whales-6_5504	49	Cet-5f63_46_dimorphism-2_3791	46	3	sperm whale	sexual dimorphism	25.0
+adaptation	Bow-5df3_237_whale-65	Bow-5df3_240_migration-21	Bow-5df3_237_whale-65_4726	237	Bow-5df3_240_migration-21_3781	240	3	bowhead whale	migration	25.0
+adaptation	Gra-abbf_197_whales-11	Gra-abbf_194_migration-13	Gra-abbf_197_whales-11_4047	197	Gra-abbf_194_migration-13_1	194	3	right whales	Migration	25.0
+adaptation	Rig-c8bd_233_whales-55	Rig-c8bd_230_migration-42	Rig-c8bd_233_whales-55_4047	233	Rig-c8bd_230_migration-42_3781	230	3	right whales	migration	25.0
+adaptation	Sau-89d2_28_rorquals-11	Sau-89d2_31_predators-31	Sau-89d2_28_rorquals-11_4252	28	Sau-89d2_31_predators-31_359	31	3	rorquals	Predator	25.0
+adaptation	Bel-4321_136_whale-2	Bel-4321_139_Social-1	Bel-4321_136_whale-2_1664	136	Bel-4321_139_Social-1_3788	139	3	Beluga whale	social	25.0
+adaptation	Blu-41f9_107_whale-2	Blu-41f9_110_migration-17	Blu-41f9_107_whale-2_1731	107	Blu-41f9_110_migration-17_1	110	3	Blue whale	Migration	25.0
+adaptation	Ani-66e9_207_whale-18	Ani-66e9_210_social-27	Ani-66e9_207_whale-18_5109	207	Ani-66e9_210_social-27_3788	210	3	humpback whale	social	25.0
+adaptation	Nar-ff44_206_narwhals-15	Nar-ff44_203_migration-17	Nar-ff44_206_narwhals-15_5254	206	Nar-ff44_203_migration-17_1	203	3	narwhal	Migration	25.0
+adaptation	Oce-4c88_5_narwhal-25	Oce-4c88_8_dimorphism-5	Oce-4c88_5_narwhal-25_5254	5	Oce-4c88_8_dimorphism-5_14	8	3	narwhal	Sexual dimorphism	25.0
+adaptation	Nar-ff44_86_narwhals-6	Nar-ff44_89_migrations-4	Nar-ff44_86_narwhals-6_5254	86	Nar-ff44_89_migrations-4_1	89	3	narwhal	Migration	25.0
+adaptation	Ani6f2b_35_whales-14	Ani6f2b_32_migration-5	Ani6f2b_35_whales-14_5109	35	Ani6f2b_32_migration-5_3781	32	3	humpback whale	migration	25.0
+adaptation	Nar-ff44_72_narwhals-14	Nar-ff44_69_social-12	Nar-ff44_72_narwhals-14_5254	72	Nar-ff44_69_social-12_3788	69	3	narwhal	social	25.0
+adaptation	Nar-ff44_92_narwhals-13	Nar-ff44_89_migrations-4	Nar-ff44_92_narwhals-13_5254	92	Nar-ff44_89_migrations-4_1	89	3	narwhal	Migration	25.0
+adaptation	Har-49aa_111_porpoise-2	Har-49aa_114_migration-24	Har-49aa_111_porpoise-2_2500	111	Har-49aa_114_migration-24_1	114	3	Harbour porpoise	Migration	25.0
+adaptation	Ani-66e9_207_whale-25	Ani-66e9_210_social-27	Ani-66e9_207_whale-25_5109	207	Ani-66e9_210_social-27_3788	210	3	humpback whale	social	25.0
+adaptation	Ani-66e9_207_whale-21	Ani-66e9_210_social-27	Ani-66e9_207_whale-21_5109	207	Ani-66e9_210_social-27_3788	210	3	humpback whale	social	25.0
+adaptation	Spe2210_20_whales-2	Spe2210_23_predator-22	Spe2210_20_whales-2_3393	20	Spe2210_23_predator-22_359	23	3	Sperm whale	Predator	25.0
+adaptation	Ind-6274_52_dolphin-5	Ind-6274_55_predators-3	Ind-6274_52_dolphin-5_2592	52	Ind-6274_55_predators-3_359	55	3	Indo-Pacific bottlenose dolphin	Predator	25.0
+adaptation	Nar-ff44_212_Narwhal-1	Nar-ff44_209_migrations-3	Nar-ff44_212_Narwhal-1_2889	212	Nar-ff44_209_migrations-3_3781	209	3	Narwhal	migration	25.0
+adaptation	Ama-9e7a_176_dolphin-3	Ama-9e7a_178_migration-3	Ama-9e7a_176_dolphin-3_1474	176	Ama-9e7a_178_migration-3_3781	178	2	Amazon river dolphin	migration	22.0
+adaptation	Ama-9e7a_9_dolphin-11	Ama-9e7a_11_dimorphism-2	Ama-9e7a_9_dolphin-11_1474	9	Ama-9e7a_11_dimorphism-2_14	11	2	Amazon river dolphin	Sexual dimorphism	22.0
+adaptation	Com-03ae_148_dolphin-2	Com-03ae_146_migration-61	Com-03ae_148_dolphin-2_4797	148	Com-03ae_146_migration-61_1	146	2	common bottlenose dolphin	Migration	22.0
+adaptation	Ama-9e7a_58_dolphin-4	Ama-9e7a_60_dimorphism-6	Ama-9e7a_58_dolphin-4_1474	58	Ama-9e7a_60_dimorphism-6_14	60	2	Amazon river dolphin	Sexual dimorphism	22.0
+adaptation	Ama-9e7a_9_dolphin-4	Ama-9e7a_11_dimorphism-2	Ama-9e7a_9_dolphin-4_1474	9	Ama-9e7a_11_dimorphism-2_3791	11	2	Amazon river dolphin	sexual dimorphism	22.0
+adaptation	Ama-9e7a_58_dolphin-9	Ama-9e7a_60_dimorphism-6	Ama-9e7a_58_dolphin-9_1474	58	Ama-9e7a_60_dimorphism-6_3791	60	2	Amazon river dolphin	sexual dimorphism	22.0
+adaptation	Spe-c6ef_373_dolphin-20	Spe-c6ef_375_Social-4	Spe-c6ef_373_dolphin-20_4797	373	Spe-c6ef_375_Social-4_3788	375	2	common bottlenose dolphin	social	22.0
+adaptation	Ant-7402_96_whales-11	Ant-7402_94_migration-7	Ant-7402_96_whales-11_1519	96	Ant-7402_94_migration-7_1	94	2	Antarctic minke whale	Migration	22.0
+adaptation	Bot-9991_279_spotted-12	Bot-9991_281_Predators-6	Bot-9991_279_spotted-12_1592	279	Bot-9991_281_Predators-6_3977	281	2	Atlantic spotted dolphin	predator	22.0
+adaptation	Orc-02f3_334_Orca-1	Orc-02f3_337_cultures-3	Orc-02f3_334_Orca-1_2630	334	Orc-02f3_337_cultures-3_3940	337	3	Orca	culture	20.75
+adaptation	Orc-02f3_175_Orca-1	Orc-02f3_178_social-10	Orc-02f3_175_Orca-1_2630	175	Orc-02f3_178_social-10_3788	178	3	Orca	social	20.75
+adaptation	Orc-02f3_376_Orca-1	Orc-02f3_373_social-27	Orc-02f3_376_Orca-1_2630	376	Orc-02f3_373_social-27_3788	373	3	Orca	social	20.75
+adaptation	Orc-02f3_203_Orca-1	Orc-02f3_200_social-28	Orc-02f3_203_Orca-1_2630	203	Orc-02f3_200_social-28_3788	200	3	Orca	social	20.75
+adaptation	Soc-cc7f_39_dolphin-10	Soc-cc7f_36_social-7	Soc-cc7f_39_dolphin-10_5466	39	Soc-cc7f_36_social-7_3788	36	3	common dolphin	social	20.75
+adaptation	Soc-cc7f_39_dolphin-13	Soc-cc7f_36_social-7	Soc-cc7f_39_dolphin-13_5466	39	Soc-cc7f_36_social-7_3788	36	3	common dolphin	social	20.75
+adaptation	Soc-cc7f_39_dolphin-22	Soc-cc7f_36_social-7	Soc-cc7f_39_dolphin-22_5466	39	Soc-cc7f_36_social-7_3788	36	3	common dolphin	social	20.75
+taxongroup	Ror-d7cd_55_whale-3	Ror-d7cd_55_Balaenoptera-11	Ror-d7cd_55_whale-3_1519	55	Ror-d7cd_55_Balaenoptera-11_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Har-49aa_6_porpoise-3	Har-49aa_6_phocoena-18	Har-49aa_6_porpoise-3_5080	6	Har-49aa_6_phocoena-18_4425	6	0	harbour porpoise	phocoena	100.0
+taxongroup	Ani-2170_64_cetacea-13	Ani-2170_64_animals-8	Ani-2170_64_cetacea-13_4765	64	Ani-2170_64_animals-8_3812	64	0	cetacea	animals	100.0
+taxongroup	Ani-2170_64_cetacea-13	Ani-2170_64_animals-23	Ani-2170_64_cetacea-13_4765	64	Ani-2170_64_animals-23_3812	64	0	cetacea	animals	100.0
+taxongroup	Ind5d58_3_dolphin-15	Ind5d58_3_dolphins-5	Ind5d58_3_dolphin-15_4797	3	Ind5d58_3_dolphins-5_4260	3	0	common bottlenose dolphin	bottlenose dolphins	100.0
+taxongroup	Bot-9991_41_dolphin-35	Bot-9991_41_dolphin-26	Bot-9991_41_dolphin-35_4797	41	Bot-9991_41_dolphin-26_4260	41	0	common bottlenose dolphin	bottlenose dolphins	100.0
+taxongroup	Bot-9991_41_dolphin-35	Bot-9991_41_dolphin-11	Bot-9991_41_dolphin-35_4797	41	Bot-9991_41_dolphin-11_4260	41	0	common bottlenose dolphin	bottlenose dolphins	100.0
+taxongroup	Bot-9991_37_dolphin-9	Bot-9991_37_dolphin-44	Bot-9991_37_dolphin-9_4797	37	Bot-9991_37_dolphin-44_4260	37	0	common bottlenose dolphin	bottlenose dolphins	100.0
+taxongroup	Bot-9991_37_dolphin-9	Bot-9991_37_dolphin-21	Bot-9991_37_dolphin-9_4797	37	Bot-9991_37_dolphin-21_4260	37	0	common bottlenose dolphin	bottlenose dolphins	100.0
+taxongroup	Bot-9991_37_dolphin-31	Bot-9991_37_dolphin-21	Bot-9991_37_dolphin-31_4797	37	Bot-9991_37_dolphin-21_4260	37	0	common bottlenose dolphin	bottlenose dolphins	100.0
+taxongroup	Bot-9991_37_dolphin-31	Bot-9991_37_dolphin-44	Bot-9991_37_dolphin-31_4797	37	Bot-9991_37_dolphin-44_4260	37	0	common bottlenose dolphin	bottlenose dolphins	100.0
+taxongroup	Gre-c49e_51_porpoises-30	Gre-c49e_51_animals-24	Gre-c49e_51_porpoises-30_5080	51	Gre-c49e_51_animals-24_44	51	0	harbour porpoise	Animals	100.0
+taxongroup	Har-49aa_132_porpoise-5	Har-49aa_132_Phocoena-7	Har-49aa_132_porpoise-5_5080	132	Har-49aa_132_Phocoena-7_1207	132	0	harbour porpoise	Phocoena	100.0
+taxongroup	Har-49aa_24_porpoise-21	Har-49aa_24_mammals-9	Har-49aa_24_porpoise-21_5080	24	Har-49aa_24_mammals-9_3797	24	0	harbour porpoise	mammals	100.0
+taxongroup	Har-49aa_140_porpoise-9	Har-49aa_140_phocoena-12	Har-49aa_140_porpoise-9_5080	140	Har-49aa_140_phocoena-12_4425	140	0	harbour porpoise	phocoena	100.0
+taxongroup	Bea-71ad_39_whale-49	Bea-71ad_39_Hyperoodon-34	Bea-71ad_39_whale-49_4725	39	Bea-71ad_39_Hyperoodon-34_1084	39	0	northern bottlenose whale	Hyperoodon	100.0
+taxongroup	Gre-c669_226_porpoises-34	Gre-c669_226_phocoena-37	Gre-c669_226_porpoises-34_5080	226	Gre-c669_226_phocoena-37_4425	226	0	harbour porpoise	phocoena	100.0
+taxongroup	Gre-c669_226_porpoises-43	Gre-c669_226_phocoena-37	Gre-c669_226_porpoises-43_5080	226	Gre-c669_226_phocoena-37_4425	226	0	harbour porpoise	phocoena	100.0
+taxongroup	Har-49aa_2_porpoise-3	Har-49aa_2_phocoena-6	Har-49aa_2_porpoise-3_5080	2	Har-49aa_2_phocoena-6_4425	2	0	harbour porpoise	phocoena	100.0
+taxongroup	Har-49aa_2_porpoise-15	Har-49aa_2_phocoena-6	Har-49aa_2_porpoise-15_5080	2	Har-49aa_2_phocoena-6_4425	2	0	harbour porpoise	phocoena	100.0
+taxongroup	Cet-5f63_400_whale-10	Cet-5f63_400_animals-17	Cet-5f63_400_whale-10_5109	400	Cet-5f63_400_animals-17_44	400	0	humpback whale	Animals	100.0
+taxongroup	Hum13cf_4_whales-5	Hum13cf_4_mammals-10	Hum13cf_4_whales-5_5109	4	Hum13cf_4_mammals-10_3797	4	0	humpback whale	mammals	100.0
+taxongroup	Dug-bf37_192_whales-14	Dug-bf37_192_animals-8	Dug-bf37_192_whales-14_5138	192	Dug-bf37_192_animals-8_44	192	0	killer whale	Animals	100.0
+taxongroup	Oce2ee1_5_whales-7	Oce2ee1_5_Delphinidae-11	Oce2ee1_5_whales-7_5138	5	Oce2ee1_5_Delphinidae-11_713	5	0	killer whale	Delphinidae	100.0
+taxongroup	Oce2ee1_5_whales-4	Oce2ee1_5_Delphinidae-11	Oce2ee1_5_whales-4_5138	5	Oce2ee1_5_Delphinidae-11_713	5	0	killer whale	Delphinidae	100.0
+taxongroup	Oce-4c88_101_whale-13	Oce-4c88_101_mammals-22	Oce-4c88_101_whale-13_5138	101	Oce-4c88_101_mammals-22_3797	101	0	killer whale	mammals	100.0
+taxongroup	Bel-4321_33_narwhal-2	Bel-4321_33_Monodontidae-10	Bel-4321_33_narwhal-2_5254	33	Bel-4321_33_Monodontidae-10_693	33	0	narwhal	Monodontidae	100.0
+taxongroup	Bal-05d2_33_whale-21	Bal-05d2_33_whale-21	Bal-05d2_33_whale-21_4726	33	Bal-05d2_33_whale-21_4047	33	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_33_whale-21	Bal-05d2_33_whale-30	Bal-05d2_33_whale-21_4726	33	Bal-05d2_33_whale-30_4047	33	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_2_whale-29	Bal-05d2_2_whale-40	Bal-05d2_2_whale-29_4726	2	Bal-05d2_2_whale-40_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Bow-5df3_15_whale-10	Bow-5df3_15_whale-14	Bow-5df3_15_whale-10_4726	15	Bow-5df3_15_whale-14_4047	15	0	bowhead whale	right whales	100.0
+taxongroup	Bow-5df3_15_whale-10	Bow-5df3_15_whale-10	Bow-5df3_15_whale-10_4726	15	Bow-5df3_15_whale-10_4047	15	0	bowhead whale	right whales	100.0
+taxongroup	Hum-0bd2_69_whales-19	Hum-0bd2_69_whales-19	Hum-0bd2_69_whales-19_4726	69	Hum-0bd2_69_whales-19_4047	69	0	bowhead whale	right whales	100.0
+taxongroup	Bow-5df3_13_whale-5	Bow-5df3_13_whale-5	Bow-5df3_13_whale-5_4726	13	Bow-5df3_13_whale-5_4047	13	0	bowhead whale	right whales	100.0
+taxongroup	Bow-5df3_13_whale-5	Bow-5df3_13_whales-15	Bow-5df3_13_whale-5_4726	13	Bow-5df3_13_whales-15_4047	13	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_33_whale-46	Bal-05d2_33_whale-46	Bal-05d2_33_whale-46_4726	33	Bal-05d2_33_whale-46_4047	33	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_33_whale-46	Bal-05d2_33_whale-38	Bal-05d2_33_whale-46_4726	33	Bal-05d2_33_whale-38_4047	33	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_33_whale-46	Bal-05d2_33_whale-30	Bal-05d2_33_whale-46_4726	33	Bal-05d2_33_whale-30_4047	33	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_33_whale-21	Bal-05d2_33_whale-46	Bal-05d2_33_whale-21_4726	33	Bal-05d2_33_whale-46_4047	33	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_2_whale-40	Bal-05d2_2_whale-29	Bal-05d2_2_whale-40_4726	2	Bal-05d2_2_whale-29_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_2_whale-40	Bal-05d2_2_whale-40	Bal-05d2_2_whale-40_4726	2	Bal-05d2_2_whale-40_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_2_whale-40	Bal-05d2_2_whales-15	Bal-05d2_2_whale-40_4726	2	Bal-05d2_2_whales-15_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_2_whales-15	Bal-05d2_2_whale-40	Bal-05d2_2_whales-15_4726	2	Bal-05d2_2_whale-40_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_2_whales-15	Bal-05d2_2_whales-15	Bal-05d2_2_whales-15_4726	2	Bal-05d2_2_whales-15_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_2_whales-8	Bal-05d2_2_whales-15	Bal-05d2_2_whales-8_4726	2	Bal-05d2_2_whales-15_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_2_whales-8	Bal-05d2_2_whales-8	Bal-05d2_2_whales-8_4726	2	Bal-05d2_2_whales-8_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_33_whale-30	Bal-05d2_33_whale-46	Bal-05d2_33_whale-30_4726	33	Bal-05d2_33_whale-46_4047	33	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_2_whales-15	Bal-05d2_2_whales-8	Bal-05d2_2_whales-15_4726	2	Bal-05d2_2_whales-8_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_2_whales-8	Bal-05d2_2_whale-29	Bal-05d2_2_whales-8_4726	2	Bal-05d2_2_whale-29_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_2_whales-8	Bal-05d2_2_whale-40	Bal-05d2_2_whales-8_4726	2	Bal-05d2_2_whale-40_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Bow-5df3_13_whales-15	Bow-5df3_13_whale-5	Bow-5df3_13_whales-15_4726	13	Bow-5df3_13_whale-5_4047	13	0	bowhead whale	right whales	100.0
+taxongroup	Bow-5df3_13_whales-15	Bow-5df3_13_whales-15	Bow-5df3_13_whales-15_4726	13	Bow-5df3_13_whales-15_4047	13	0	bowhead whale	right whales	100.0
+taxongroup	Bow-5df3_15_whale-14	Bow-5df3_15_whale-14	Bow-5df3_15_whale-14_4726	15	Bow-5df3_15_whale-14_4047	15	0	bowhead whale	right whales	100.0
+taxongroup	Bow-5df3_15_whale-14	Bow-5df3_15_whale-10	Bow-5df3_15_whale-14_4726	15	Bow-5df3_15_whale-10_4047	15	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_2_whale-29	Bal-05d2_2_whale-29	Bal-05d2_2_whale-29_4726	2	Bal-05d2_2_whale-29_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_33_whale-21	Bal-05d2_33_whale-38	Bal-05d2_33_whale-21_4726	33	Bal-05d2_33_whale-38_4047	33	0	bowhead whale	right whales	100.0
+taxongroup	Bea-71ad_39_whales-37	Bea-71ad_39_Hyperoodon-34	Bea-71ad_39_whales-37_4725	39	Bea-71ad_39_Hyperoodon-34_1084	39	0	northern bottlenose whale	Hyperoodon	100.0
+taxongroup	Cet445b_30_whales-13	Cet445b_30_animals-27	Cet445b_30_whales-13_4047	30	Cet445b_30_animals-27_44	30	0	right whales	Animals	100.0
+taxongroup	Ror-d7cd_55_whale-46	Ror-d7cd_55_Balaenoptera-41	Ror-d7cd_55_whale-46_1519	55	Ror-d7cd_55_Balaenoptera-41_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Sou-ac15_2_whale-12	Sou-ac15_2_Eubalaena-26	Sou-ac15_2_whale-12_5499	2	Sou-ac15_2_Eubalaena-26_1254	2	0	southern right whale	Eubalaena	100.0
+taxongroup	Bal-05d2_33_whale-46	Bal-05d2_33_Eubalaena-15	Bal-05d2_33_whale-46_5499	33	Bal-05d2_33_Eubalaena-15_1254	33	0	southern right whale	Eubalaena	100.0
+taxongroup	Bal-05d2_33_whale-30	Bal-05d2_33_Eubalaena-33	Bal-05d2_33_whale-30_5499	33	Bal-05d2_33_Eubalaena-33_1254	33	0	southern right whale	Eubalaena	100.0
+taxongroup	Bal-05d2_33_whale-30	Bal-05d2_33_Eubalaena-24	Bal-05d2_33_whale-30_5499	33	Bal-05d2_33_Eubalaena-24_1254	33	0	southern right whale	Eubalaena	100.0
+taxongroup	Bal-05d2_33_whale-30	Bal-05d2_33_Eubalaena-15	Bal-05d2_33_whale-30_5499	33	Bal-05d2_33_Eubalaena-15_1254	33	0	southern right whale	Eubalaena	100.0
+taxongroup	Rig-c8bd_97_whales-20	Rig-c8bd_97_Eubalaena-7	Rig-c8bd_97_whales-20_5499	97	Rig-c8bd_97_Eubalaena-7_1254	97	0	southern right whale	Eubalaena	100.0
+taxongroup	Rig-c8bd_97_whales-20	Rig-c8bd_97_Eubalaena-39	Rig-c8bd_97_whales-20_5499	97	Rig-c8bd_97_Eubalaena-39_1254	97	0	southern right whale	Eubalaena	100.0
+taxongroup	Rig-c8bd_97_whales-20	Rig-c8bd_97_Eubalaena-30	Rig-c8bd_97_whales-20_5499	97	Rig-c8bd_97_Eubalaena-30_1254	97	0	southern right whale	Eubalaena	100.0
+taxongroup	Rig-c8bd_97_whales-37	Rig-c8bd_97_Eubalaena-39	Rig-c8bd_97_whales-37_5499	97	Rig-c8bd_97_Eubalaena-39_1254	97	0	southern right whale	Eubalaena	100.0
+taxongroup	Rig-c8bd_97_whales-37	Rig-c8bd_97_Eubalaena-30	Rig-c8bd_97_whales-37_5499	97	Rig-c8bd_97_Eubalaena-30_1254	97	0	southern right whale	Eubalaena	100.0
+taxongroup	Bal-05d2_33_whale-38	Bal-05d2_33_Eubalaena-33	Bal-05d2_33_whale-38_5499	33	Bal-05d2_33_Eubalaena-33_1254	33	0	southern right whale	Eubalaena	100.0
+taxongroup	Bal-05d2_33_whale-38	Bal-05d2_33_Eubalaena-24	Bal-05d2_33_whale-38_5499	33	Bal-05d2_33_Eubalaena-24_1254	33	0	southern right whale	Eubalaena	100.0
+taxongroup	Bal-05d2_33_whale-38	Bal-05d2_33_Eubalaena-15	Bal-05d2_33_whale-38_5499	33	Bal-05d2_33_Eubalaena-15_1254	33	0	southern right whale	Eubalaena	100.0
+taxongroup	Rig-c8bd_97_whales-5	Rig-c8bd_97_Eubalaena-39	Rig-c8bd_97_whales-5_5499	97	Rig-c8bd_97_Eubalaena-39_1254	97	0	southern right whale	Eubalaena	100.0
+taxongroup	Rig-c8bd_97_whales-5	Rig-c8bd_97_Eubalaena-30	Rig-c8bd_97_whales-5_5499	97	Rig-c8bd_97_Eubalaena-30_1254	97	0	southern right whale	Eubalaena	100.0
+taxongroup	Sou-ac15_35_whales-5	Sou-ac15_35_animal-14	Sou-ac15_35_whales-5_4047	35	Sou-ac15_35_animal-14_44	35	0	right whales	Animals	100.0
+taxongroup	Rig-c8bd_97_whales-5	Rig-c8bd_97_Eubalaena-7	Rig-c8bd_97_whales-5_5499	97	Rig-c8bd_97_Eubalaena-7_1254	97	0	southern right whale	Eubalaena	100.0
+taxongroup	Rig-c8bd_97_whales-37	Rig-c8bd_97_Eubalaena-7	Rig-c8bd_97_whales-37_5499	97	Rig-c8bd_97_Eubalaena-7_1254	97	0	southern right whale	Eubalaena	100.0
+taxongroup	Bal-05d2_33_whale-38	Bal-05d2_33_whale-38	Bal-05d2_33_whale-38_5499	33	Bal-05d2_33_whale-38_482	33	0	southern right whale	Right whales	100.0
+taxongroup	Bal-05d2_33_whale-38	Bal-05d2_33_whale-21	Bal-05d2_33_whale-38_5499	33	Bal-05d2_33_whale-21_482	33	0	southern right whale	Right whales	100.0
+taxongroup	Bal-05d2_33_whale-46	Bal-05d2_33_whale-21	Bal-05d2_33_whale-46_5499	33	Bal-05d2_33_whale-21_482	33	0	southern right whale	Right whales	100.0
+taxongroup	Cet-5f63_186_whale-32	Cet-5f63_186_whale-22	Cet-5f63_186_whale-32_5499	186	Cet-5f63_186_whale-22_482	186	0	southern right whale	Right whales	100.0
+taxongroup	Bal-05d2_33_whale-38	Bal-05d2_33_whale-46	Bal-05d2_33_whale-38_5499	33	Bal-05d2_33_whale-46_482	33	0	southern right whale	Right whales	100.0
+taxongroup	Bal-05d2_33_whale-38	Bal-05d2_33_whale-30	Bal-05d2_33_whale-38_5499	33	Bal-05d2_33_whale-30_482	33	0	southern right whale	Right whales	100.0
+taxongroup	Sou-ac15_95_whales-29	Sou-ac15_95_whales-29	Sou-ac15_95_whales-29_5499	95	Sou-ac15_95_whales-29_482	95	0	southern right whale	Right whales	100.0
+taxongroup	Bal-05d2_33_whale-46	Bal-05d2_33_Eubalaena-24	Bal-05d2_33_whale-46_5499	33	Bal-05d2_33_Eubalaena-24_1254	33	0	southern right whale	Eubalaena	100.0
+taxongroup	Bal-05d2_33_whale-21	Bal-05d2_33_Eubalaena-33	Bal-05d2_33_whale-21_5499	33	Bal-05d2_33_Eubalaena-33_1254	33	0	southern right whale	Eubalaena	100.0
+taxongroup	Bal-05d2_33_whale-46	Bal-05d2_33_Eubalaena-33	Bal-05d2_33_whale-46_5499	33	Bal-05d2_33_Eubalaena-33_1254	33	0	southern right whale	Eubalaena	100.0
+taxongroup	Bal-05d2_33_whale-21	Bal-05d2_33_Eubalaena-24	Bal-05d2_33_whale-21_5499	33	Bal-05d2_33_Eubalaena-24_1254	33	0	southern right whale	Eubalaena	100.0
+taxongroup	Sou-ac15_85_whale-12	Sou-ac15_85_animal-30	Sou-ac15_85_whale-12_4047	85	Sou-ac15_85_animal-30_44	85	0	right whales	Animals	100.0
+taxongroup	Rig-c8bd_84_whale-3	Rig-c8bd_84_animal-8	Rig-c8bd_84_whale-3_4047	84	Rig-c8bd_84_animal-8_44	84	0	right whales	Animals	100.0
+taxongroup	Rig-c8bd_83_whale-6	Rig-c8bd_83_animal-61	Rig-c8bd_83_whale-6_4047	83	Rig-c8bd_83_animal-61_44	83	0	right whales	Animals	100.0
+taxongroup	Rig-c8bd_84_whale-30	Rig-c8bd_84_animal-8	Rig-c8bd_84_whale-30_4047	84	Rig-c8bd_84_animal-8_44	84	0	right whales	Animals	100.0
+taxongroup	Rig-c8bd_84_whale-19	Rig-c8bd_84_animal-8	Rig-c8bd_84_whale-19_4047	84	Rig-c8bd_84_animal-8_44	84	0	right whales	Animals	100.0
+taxongroup	Art-6267_57_whales-26	Art-6267_57_Cetacea-2	Art-6267_57_whales-26_4047	57	Art-6267_57_Cetacea-2_1856	57	0	right whales	Cetacea	100.0
+taxongroup	Art-6267_57_whales-4	Art-6267_57_Cetacea-2	Art-6267_57_whales-4_4047	57	Art-6267_57_Cetacea-2_1856	57	0	right whales	Cetacea	100.0
+taxongroup	Art-6267_57_whales-37	Art-6267_57_Cetacea-2	Art-6267_57_whales-37_4047	57	Art-6267_57_Cetacea-2_1856	57	0	right whales	Cetacea	100.0
+taxongroup	Art-6267_57_whales-31	Art-6267_57_Cetacea-2	Art-6267_57_whales-31_4047	57	Art-6267_57_Cetacea-2_1856	57	0	right whales	Cetacea	100.0
+taxongroup	Mam-3742_215_whales-28	Mam-3742_215_mammals-15	Mam-3742_215_whales-28_4047	215	Mam-3742_215_mammals-15_3797	215	0	right whales	mammals	100.0
+taxongroup	Bal-05d2_27_rorquals-10	Bal-05d2_27_animals-24	Bal-05d2_27_rorquals-10_4252	27	Bal-05d2_27_animals-24_44	27	0	rorquals	Animals	100.0
+taxongroup	Bal-05d2_24_rorquals-52	Bal-05d2_24_animals-2	Bal-05d2_24_rorquals-52_4252	24	Bal-05d2_24_animals-2_44	24	0	rorquals	Animals	100.0
+taxongroup	Bal-05d2_33_whale-21	Bal-05d2_33_Balaenidae-6	Bal-05d2_33_whale-21_5499	33	Bal-05d2_33_Balaenidae-6_481	33	0	southern right whale	Balaenidae	100.0
+taxongroup	Bal-05d2_33_whale-46	Bal-05d2_33_Balaenidae-6	Bal-05d2_33_whale-46_5499	33	Bal-05d2_33_Balaenidae-6_481	33	0	southern right whale	Balaenidae	100.0
+taxongroup	Bal-05d2_33_whale-30	Bal-05d2_33_Balaenidae-6	Bal-05d2_33_whale-30_5499	33	Bal-05d2_33_Balaenidae-6_481	33	0	southern right whale	Balaenidae	100.0
+taxongroup	Bal-05d2_33_whale-38	Bal-05d2_33_Balaenidae-6	Bal-05d2_33_whale-38_5499	33	Bal-05d2_33_Balaenidae-6_481	33	0	southern right whale	Balaenidae	100.0
+taxongroup	Bal-05d2_33_whale-21	Bal-05d2_33_Eubalaena-15	Bal-05d2_33_whale-21_5499	33	Bal-05d2_33_Eubalaena-15_1254	33	0	southern right whale	Eubalaena	100.0
+taxongroup	Bal-05d2_2_whale-29	Bal-05d2_2_whales-8	Bal-05d2_2_whale-29_4726	2	Bal-05d2_2_whales-8_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_2_whale-29	Bal-05d2_2_whales-15	Bal-05d2_2_whale-29_4726	2	Bal-05d2_2_whales-15_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_2_whales-15	Bal-05d2_2_whale-29	Bal-05d2_2_whales-15_4726	2	Bal-05d2_2_whale-29_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Bow-5df3_2_whale-3	Bow-5df3_2_Balaena-5	Bow-5df3_2_whale-3_4726	2	Bow-5df3_2_Balaena-5_919	2	0	bowhead whale	Balaena	100.0
+taxongroup	Bal-05d2_33_whale-21	Bal-05d2_33_Balaena-42	Bal-05d2_33_whale-21_4726	33	Bal-05d2_33_Balaena-42_919	33	0	bowhead whale	Balaena	100.0
+taxongroup	Rig-c8bd_3_whale-11	Rig-c8bd_3_Balaenidae-7	Rig-c8bd_3_whale-11_4726	3	Rig-c8bd_3_Balaenidae-7_481	3	0	bowhead whale	Balaenidae	100.0
+taxongroup	Bow-5df3_2_whale-3	Bow-5df3_2_Balaenidae-18	Bow-5df3_2_whale-3_4726	2	Bow-5df3_2_Balaenidae-18_481	2	0	bowhead whale	Balaenidae	100.0
+taxongroup	Bal-d795_7_whale-14	Bal-d795_7_whale-14	Bal-d795_7_whale-14_4726	7	Bal-d795_7_whale-14_482	7	0	bowhead whale	Right whales	100.0
+taxongroup	Bal-d795_7_whale-14	Bal-d795_7_whale-10	Bal-d795_7_whale-14_4726	7	Bal-d795_7_whale-10_482	7	0	bowhead whale	Right whales	100.0
+taxongroup	Hum-0bd2_69_whales-19	Hum-0bd2_69_whales-22	Hum-0bd2_69_whales-19_4726	69	Hum-0bd2_69_whales-22_4047	69	0	bowhead whale	right whales	100.0
+taxongroup	Bal-d795_7_whale-10	Bal-d795_7_whale-10	Bal-d795_7_whale-10_4726	7	Bal-d795_7_whale-10_482	7	0	bowhead whale	Right whales	100.0
+taxongroup	Rig-c8bd_29_whale-10	Rig-c8bd_29_whale-14	Rig-c8bd_29_whale-10_4726	29	Rig-c8bd_29_whale-14_482	29	0	bowhead whale	Right whales	100.0
+taxongroup	Rig-c8bd_29_whale-14	Rig-c8bd_29_whale-10	Rig-c8bd_29_whale-14_4726	29	Rig-c8bd_29_whale-10_482	29	0	bowhead whale	Right whales	100.0
+taxongroup	Rig-c8bd_29_whale-14	Rig-c8bd_29_whale-14	Rig-c8bd_29_whale-14_4726	29	Rig-c8bd_29_whale-14_482	29	0	bowhead whale	Right whales	100.0
+taxongroup	Rig-c8bd_29_whale-10	Rig-c8bd_29_whale-10	Rig-c8bd_29_whale-10_4726	29	Rig-c8bd_29_whale-10_482	29	0	bowhead whale	Right whales	100.0
+taxongroup	Hum-0bd2_69_whales-22	Hum-0bd2_69_whales-19	Hum-0bd2_69_whales-22_4726	69	Hum-0bd2_69_whales-19_482	69	0	bowhead whale	Right whales	100.0
+taxongroup	Bal-d795_7_whale-10	Bal-d795_7_whale-14	Bal-d795_7_whale-10_4726	7	Bal-d795_7_whale-14_482	7	0	bowhead whale	Right whales	100.0
+taxongroup	Bal-05d2_33_whale-30	Bal-05d2_33_whale-21	Bal-05d2_33_whale-30_4726	33	Bal-05d2_33_whale-21_482	33	0	bowhead whale	Right whales	100.0
+taxongroup	Bal-05d2_33_whale-30	Bal-05d2_33_whale-30	Bal-05d2_33_whale-30_4726	33	Bal-05d2_33_whale-30_482	33	0	bowhead whale	Right whales	100.0
+taxongroup	Sou-ac15_8_whale-10	Sou-ac15_8_whale-14	Sou-ac15_8_whale-10_4726	8	Sou-ac15_8_whale-14_482	8	0	bowhead whale	Right whales	100.0
+taxongroup	Bow-5df3_2_whale-3	Bow-5df3_2_Balaena-28	Bow-5df3_2_whale-3_4726	2	Bow-5df3_2_Balaena-28_919	2	0	bowhead whale	Balaena	100.0
+taxongroup	Bal-05d2_2_whale-29	Bal-05d2_2_Balaena-43	Bal-05d2_2_whale-29_4726	2	Bal-05d2_2_Balaena-43_919	2	0	bowhead whale	Balaena	100.0
+taxongroup	Bal-05d2_2_whale-40	Bal-05d2_2_Balaena-43	Bal-05d2_2_whale-40_4726	2	Bal-05d2_2_Balaena-43_919	2	0	bowhead whale	Balaena	100.0
+taxongroup	Bal-05d2_33_whale-30	Bal-05d2_33_Balaena-42	Bal-05d2_33_whale-30_4726	33	Bal-05d2_33_Balaena-42_919	33	0	bowhead whale	Balaena	100.0
+taxongroup	Cet445b_21_whale-21	Cet445b_21_whale-21	Cet445b_21_whale-21_4705	21	Cet445b_21_whale-21_4764	21	0	blue whale	whales, dolphins and porpoises	100.0
+taxongroup	Cet445b_21_whale-21	Cet445b_21_whales-2	Cet445b_21_whale-21_4705	21	Cet445b_21_whales-2_4764	21	0	blue whale	whales, dolphins and porpoises	100.0
+taxongroup	Cet445b_21_whales-2	Cet445b_21_whale-21	Cet445b_21_whales-2_4705	21	Cet445b_21_whale-21_4764	21	0	blue whale	whales, dolphins and porpoises	100.0
+taxongroup	Ani-66e9_211_dolphins-10	Ani-66e9_211_animal-17	Ani-66e9_211_dolphins-10_4260	211	Ani-66e9_211_animal-17_44	211	0	bottlenose dolphins	Animals	100.0
+taxongroup	Atl-b2fd_28_dolphins-25	Atl-b2fd_28_animals-7	Atl-b2fd_28_dolphins-25_4260	28	Atl-b2fd_28_animals-7_44	28	0	bottlenose dolphins	Animals	100.0
+taxongroup	Atl-b2fd_28_dolphins-3	Atl-b2fd_28_animals-7	Atl-b2fd_28_dolphins-3_4260	28	Atl-b2fd_28_animals-7_44	28	0	bottlenose dolphins	Animals	100.0
+taxongroup	Bot-9991_126_dolphins-18	Bot-9991_126_animal-31	Bot-9991_126_dolphins-18_4260	126	Bot-9991_126_animal-31_44	126	0	bottlenose dolphins	Animals	100.0
+taxongroup	Ind-6274_64_dolphins-29	Ind-6274_64_animal-13	Ind-6274_64_dolphins-29_4260	64	Ind-6274_64_animal-13_44	64	0	bottlenose dolphins	Animals	100.0
+taxongroup	Ind-6274_66_dolphins-58	Ind-6274_66_animal-37	Ind-6274_66_dolphins-58_4260	66	Ind-6274_66_animal-37_44	66	0	bottlenose dolphins	Animals	100.0
+taxongroup	Ind-6274_66_dolphins-12	Ind-6274_66_animal-37	Ind-6274_66_dolphins-12_4260	66	Ind-6274_66_animal-37_44	66	0	bottlenose dolphins	Animals	100.0
+taxongroup	Too-567c_284_dolphins-8	Too-567c_284_animals-27	Too-567c_284_dolphins-8_4260	284	Too-567c_284_animals-27_44	284	0	bottlenose dolphins	Animals	100.0
+taxongroup	Ani-66e9_211_dolphins-10	Ani-66e9_211_mammals-2	Ani-66e9_211_dolphins-10_4260	211	Ani-66e9_211_mammals-2_3797	211	0	bottlenose dolphins	mammals	100.0
+taxongroup	Bow-5df3_55_whale-3	Bow-5df3_55_animal-8	Bow-5df3_55_whale-3_4726	55	Bow-5df3_55_animal-8_44	55	0	bowhead whale	Animals	100.0
+taxongroup	Bal-05d2_33_whale-38	Bal-05d2_33_Balaena-42	Bal-05d2_33_whale-38_4726	33	Bal-05d2_33_Balaena-42_919	33	0	bowhead whale	Balaena	100.0
+taxongroup	Bal-05d2_2_whales-8	Bal-05d2_2_Balaena-43	Bal-05d2_2_whales-8_4726	2	Bal-05d2_2_Balaena-43_919	2	0	bowhead whale	Balaena	100.0
+taxongroup	Bal-05d2_33_whale-46	Bal-05d2_33_Balaena-42	Bal-05d2_33_whale-46_4726	33	Bal-05d2_33_Balaena-42_919	33	0	bowhead whale	Balaena	100.0
+taxongroup	Bal-d795_3_whale-19	Bal-d795_3_Balaena-1	Bal-d795_3_whale-19_4726	3	Bal-d795_3_Balaena-1_919	3	0	bowhead whale	Balaena	100.0
+taxongroup	Bal-05d2_2_whales-15	Bal-05d2_2_Balaena-43	Bal-05d2_2_whales-15_4726	2	Bal-05d2_2_Balaena-43_919	2	0	bowhead whale	Balaena	100.0
+taxongroup	Cet-5f63_298_whale-8	Cet-5f63_298_Balaena-10	Cet-5f63_298_whale-8_4726	298	Cet-5f63_298_Balaena-10_919	298	0	bowhead whale	Balaena	100.0
+taxongroup	Sou-ac15_8_whale-10	Sou-ac15_8_whale-10	Sou-ac15_8_whale-10_4726	8	Sou-ac15_8_whale-10_482	8	0	bowhead whale	Right whales	100.0
+taxongroup	Sou-ac15_8_whale-14	Sou-ac15_8_whale-10	Sou-ac15_8_whale-14_4726	8	Sou-ac15_8_whale-10_482	8	0	bowhead whale	Right whales	100.0
+taxongroup	Sou-ac15_8_whale-14	Sou-ac15_8_whale-14	Sou-ac15_8_whale-14_4726	8	Sou-ac15_8_whale-14_482	8	0	bowhead whale	Right whales	100.0
+taxongroup	Mam-3742_340_whale-25	Mam-3742_340_mammals-2	Mam-3742_340_whale-25_4726	340	Mam-3742_340_mammals-2_3797	340	0	bowhead whale	mammals	100.0
+taxongroup	Bow-5df3_100_whale-4	Bow-5df3_100_mammals-13	Bow-5df3_100_whale-4_4726	100	Bow-5df3_100_mammals-13_3797	100	0	bowhead whale	mammals	100.0
+taxongroup	Bal-05d2_33_whale-30	Bal-05d2_33_whale-38	Bal-05d2_33_whale-30_4726	33	Bal-05d2_33_whale-38_4047	33	0	bowhead whale	right whales	100.0
+taxongroup	Hum-0bd2_69_whales-22	Hum-0bd2_69_whales-22	Hum-0bd2_69_whales-22_4726	69	Hum-0bd2_69_whales-22_4047	69	0	bowhead whale	right whales	100.0
+taxongroup	Bal-05d2_2_whale-40	Bal-05d2_2_whales-8	Bal-05d2_2_whale-40_4726	2	Bal-05d2_2_whales-8_4047	2	0	bowhead whale	right whales	100.0
+taxongroup	Sou-ac15_95_whales-15	Sou-ac15_95_whales-15	Sou-ac15_95_whales-15_5499	95	Sou-ac15_95_whales-15_482	95	0	southern right whale	Right whales	100.0
+taxongroup	Sou-ac15_95_whales-15	Sou-ac15_95_whales-29	Sou-ac15_95_whales-15_5499	95	Sou-ac15_95_whales-29_482	95	0	southern right whale	Right whales	100.0
+taxongroup	Sou-ac15_95_whales-29	Sou-ac15_95_whales-15	Sou-ac15_95_whales-29_5499	95	Sou-ac15_95_whales-15_482	95	0	southern right whale	Right whales	100.0
+taxongroup	Bal-05d2_41_whale-4	Bal-05d2_41_whale-14	Bal-05d2_41_whale-4_5499	41	Bal-05d2_41_whale-14_4047	41	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_98_whales-4	Sou-ac15_98_whales-29	Sou-ac15_98_whales-4_5499	98	Sou-ac15_98_whales-29_4047	98	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_63_whale-3	Sou-ac15_63_whale-3	Sou-ac15_63_whale-3_5499	63	Sou-ac15_63_whale-3_4047	63	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_3_whales-3	Sou-ac15_3_whales-3	Sou-ac15_3_whales-3_5499	3	Sou-ac15_3_whales-3_4047	3	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_40_whale-3	Sou-ac15_40_whale-3	Sou-ac15_40_whale-3_5499	40	Sou-ac15_40_whale-3_4047	40	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_43_whale-8	Sou-ac15_43_whale-8	Sou-ac15_43_whale-8_5499	43	Sou-ac15_43_whale-8_4047	43	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_65_whales-3	Sou-ac15_65_whales-10	Sou-ac15_65_whales-3_5499	65	Sou-ac15_65_whales-10_4047	65	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_353_whales-9	Sou-ac15_353_whales-17	Sou-ac15_353_whales-9_5499	353	Sou-ac15_353_whales-17_4047	353	0	southern right whale	right whales	100.0
+taxongroup	Bal31f6_7_whale-20	Bal31f6_7_whales-6	Bal31f6_7_whale-20_5499	7	Bal31f6_7_whales-6_4047	7	0	southern right whale	right whales	100.0
+taxongroup	Bal31f6_7_whales-6	Bal31f6_7_whales-6	Bal31f6_7_whales-6_5499	7	Bal31f6_7_whales-6_4047	7	0	southern right whale	right whales	100.0
+taxongroup	Bal31f6_7_whale-20	Bal31f6_7_whale-20	Bal31f6_7_whale-20_5499	7	Bal31f6_7_whale-20_4047	7	0	southern right whale	right whales	100.0
+taxongroup	Bal-05d2_41_whale-14	Bal-05d2_41_whale-14	Bal-05d2_41_whale-14_5499	41	Bal-05d2_41_whale-14_4047	41	0	southern right whale	right whales	100.0
+taxongroup	Bal-05d2_41_whale-14	Bal-05d2_41_whale-4	Bal-05d2_41_whale-14_5499	41	Bal-05d2_41_whale-4_4047	41	0	southern right whale	right whales	100.0
+taxongroup	Bal31f6_7_whales-6	Bal31f6_7_whale-20	Bal31f6_7_whales-6_5499	7	Bal31f6_7_whale-20_4047	7	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_98_whales-29	Sou-ac15_98_whales-4	Sou-ac15_98_whales-29_5499	98	Sou-ac15_98_whales-4_4047	98	0	southern right whale	right whales	100.0
+taxongroup	Bal-05d2_41_whale-4	Bal-05d2_41_whale-4	Bal-05d2_41_whale-4_5499	41	Bal-05d2_41_whale-4_4047	41	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_25_whale-23	Sou-ac15_25_whale-23	Sou-ac15_25_whale-23_5499	25	Sou-ac15_25_whale-23_4047	25	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_262_whale-4	Sou-ac15_262_whale-4	Sou-ac15_262_whale-4_5499	262	Sou-ac15_262_whale-4_4047	262	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_97_whales-20	Rig-c8bd_97_whales-37	Rig-c8bd_97_whales-20_5499	97	Rig-c8bd_97_whales-37_4047	97	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_97_whales-20	Rig-c8bd_97_whales-20	Rig-c8bd_97_whales-20_5499	97	Rig-c8bd_97_whales-20_4047	97	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_257_whale-3	Sou-ac15_257_whale-3	Sou-ac15_257_whale-3_5499	257	Sou-ac15_257_whale-3_4047	257	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_247_whale-3	Sou-ac15_247_whale-3	Sou-ac15_247_whale-3_5499	247	Sou-ac15_247_whale-3_4047	247	0	southern right whale	right whales	100.0
+taxongroup	Cet445b_30_whales-13	Cet445b_30_whales-13	Cet445b_30_whales-13_5499	30	Cet445b_30_whales-13_4047	30	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_353_whales-17	Sou-ac15_353_whales-9	Sou-ac15_353_whales-17_5499	353	Sou-ac15_353_whales-9_4047	353	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_353_whales-17	Sou-ac15_353_whales-17	Sou-ac15_353_whales-17_5499	353	Sou-ac15_353_whales-17_4047	353	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_353_whales-9	Sou-ac15_353_whales-9	Sou-ac15_353_whales-9_5499	353	Sou-ac15_353_whales-9_4047	353	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_50_whale-3	Sou-ac15_50_whale-3	Sou-ac15_50_whale-3_5499	50	Sou-ac15_50_whale-3_4047	50	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_65_whales-3	Sou-ac15_65_whales-3	Sou-ac15_65_whales-3_5499	65	Sou-ac15_65_whales-3_4047	65	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_68_whale-4	Sou-ac15_68_whale-4	Sou-ac15_68_whale-4_5499	68	Sou-ac15_68_whale-4_4047	68	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_69_whale-3	Sou-ac15_69_whale-3	Sou-ac15_69_whale-3_5499	69	Sou-ac15_69_whale-3_4047	69	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_70_whales-7	Sou-ac15_70_whales-7	Sou-ac15_70_whales-7_5499	70	Sou-ac15_70_whales-7_4047	70	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_76_whale-4	Sou-ac15_76_whale-4	Sou-ac15_76_whale-4_5499	76	Sou-ac15_76_whale-4_4047	76	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_136_whale-3	Sou-ac15_136_whale-3	Sou-ac15_136_whale-3_5499	136	Sou-ac15_136_whale-3_4047	136	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_169_whales-6	Sou-ac15_169_whales-19	Sou-ac15_169_whales-6_5499	169	Sou-ac15_169_whales-19_4047	169	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_123_whale-3	Sou-ac15_123_whale-3	Sou-ac15_123_whale-3_5499	123	Sou-ac15_123_whale-3_4047	123	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_110_whale-3	Sou-ac15_110_whale-3	Sou-ac15_110_whale-3_5499	110	Sou-ac15_110_whale-3_4047	110	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_113_whales-3	Sou-ac15_113_whales-3	Sou-ac15_113_whales-3_5499	113	Sou-ac15_113_whales-3_4047	113	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_119_whale-3	Sou-ac15_119_whale-3	Sou-ac15_119_whale-3_5499	119	Sou-ac15_119_whale-3_4047	119	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_18_whale-25	Sou-ac15_18_whale-25	Sou-ac15_18_whale-25_5499	18	Sou-ac15_18_whale-25_4047	18	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_177_whales-3	Sou-ac15_177_whales-19	Sou-ac15_177_whales-3_5499	177	Sou-ac15_177_whales-19_4047	177	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_177_whales-3	Sou-ac15_177_whales-3	Sou-ac15_177_whales-3_5499	177	Sou-ac15_177_whales-3_4047	177	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_139_whales-12	Sou-ac15_139_whales-12	Sou-ac15_139_whales-12_5499	139	Sou-ac15_139_whales-12_4047	139	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_169_whales-6	Sou-ac15_169_whales-6	Sou-ac15_169_whales-6_5499	169	Sou-ac15_169_whales-6_4047	169	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_18_whale-32	Sou-ac15_18_whale-32	Sou-ac15_18_whale-32_5499	18	Sou-ac15_18_whale-32_4047	18	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_17_whale-30	Sou-ac15_17_whale-13	Sou-ac15_17_whale-30_5499	17	Sou-ac15_17_whale-13_4047	17	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_17_whale-30	Sou-ac15_17_whale-30	Sou-ac15_17_whale-30_5499	17	Sou-ac15_17_whale-30_4047	17	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_180_whale-3	Sou-ac15_180_whale-3	Sou-ac15_180_whale-3_5499	180	Sou-ac15_180_whale-3_4047	180	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_17_whale-13	Sou-ac15_17_whale-30	Sou-ac15_17_whale-13_5499	17	Sou-ac15_17_whale-30_4047	17	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_125_whale-3	Sou-ac15_125_whale-3	Sou-ac15_125_whale-3_5499	125	Sou-ac15_125_whale-3_4047	125	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_169_whales-19	Sou-ac15_169_whales-19	Sou-ac15_169_whales-19_5499	169	Sou-ac15_169_whales-19_4047	169	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_169_whales-19	Sou-ac15_169_whales-6	Sou-ac15_169_whales-19_5499	169	Sou-ac15_169_whales-6_4047	169	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_98_whales-4	Sou-ac15_98_whales-4	Sou-ac15_98_whales-4_5499	98	Sou-ac15_98_whales-4_4047	98	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_65_whales-10	Sou-ac15_65_whales-10	Sou-ac15_65_whales-10_5499	65	Sou-ac15_65_whales-10_4047	65	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_65_whales-10	Sou-ac15_65_whales-3	Sou-ac15_65_whales-10_5499	65	Sou-ac15_65_whales-3_4047	65	0	southern right whale	right whales	100.0
+taxongroup	Cet-5f63_186_whale-32	Cet-5f63_186_whale-27	Cet-5f63_186_whale-32_5499	186	Cet-5f63_186_whale-27_4047	186	0	southern right whale	right whales	100.0
+taxongroup	Cet-5f63_186_whale-22	Cet-5f63_186_whale-27	Cet-5f63_186_whale-22_5499	186	Cet-5f63_186_whale-27_4047	186	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_97_whales-37	Rig-c8bd_97_whales-5	Rig-c8bd_97_whales-37_5499	97	Rig-c8bd_97_whales-5_4047	97	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_97_whales-37	Rig-c8bd_97_whales-20	Rig-c8bd_97_whales-37_5499	97	Rig-c8bd_97_whales-20_4047	97	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_97_whales-5	Rig-c8bd_97_whales-5	Rig-c8bd_97_whales-5_5499	97	Rig-c8bd_97_whales-5_4047	97	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_210_whales-13	Rig-c8bd_210_whales-13	Rig-c8bd_210_whales-13_5499	210	Rig-c8bd_210_whales-13_4047	210	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_210_whales-13	Rig-c8bd_210_whales-24	Rig-c8bd_210_whales-13_5499	210	Rig-c8bd_210_whales-24_4047	210	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_97_whales-5	Rig-c8bd_97_whales-20	Rig-c8bd_97_whales-5_5499	97	Rig-c8bd_97_whales-20_4047	97	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_97_whales-5	Rig-c8bd_97_whales-37	Rig-c8bd_97_whales-5_5499	97	Rig-c8bd_97_whales-37_4047	97	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_209_whale-4	Rig-c8bd_209_whale-4	Rig-c8bd_209_whale-4_5499	209	Rig-c8bd_209_whale-4_4047	209	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_82_whales-48	Rig-c8bd_82_whales-48	Rig-c8bd_82_whales-48_5499	82	Rig-c8bd_82_whales-48_4047	82	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_82_whales-48	Rig-c8bd_82_whales-4	Rig-c8bd_82_whales-48_5499	82	Rig-c8bd_82_whales-4_4047	82	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_82_whales-4	Rig-c8bd_82_whales-48	Rig-c8bd_82_whales-4_5499	82	Rig-c8bd_82_whales-48_4047	82	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_82_whales-4	Rig-c8bd_82_whales-4	Rig-c8bd_82_whales-4_5499	82	Rig-c8bd_82_whales-4_4047	82	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_205_whales-11	Rig-c8bd_205_whales-11	Rig-c8bd_205_whales-11_5499	205	Rig-c8bd_205_whales-11_4047	205	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_218_whale-4	Rig-c8bd_218_whale-4	Rig-c8bd_218_whale-4_5499	218	Rig-c8bd_218_whale-4_4047	218	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_210_whales-24	Rig-c8bd_210_whales-24	Rig-c8bd_210_whales-24_5499	210	Rig-c8bd_210_whales-24_4047	210	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_210_whales-24	Rig-c8bd_210_whales-13	Rig-c8bd_210_whales-24_5499	210	Rig-c8bd_210_whales-13_4047	210	0	southern right whale	right whales	100.0
+taxongroup	Atl6d8d_2_dolphins-3	Atl6d8d_2_animals-6	Atl6d8d_2_dolphins-3_4471	2	Atl6d8d_2_animals-6_44	2	0	spotted dolphins	Animals	100.0
+taxongroup	Cet445b_21_whales-2	Cet445b_21_animal-13	Cet445b_21_whales-2_4764	21	Cet445b_21_animal-13_44	21	0	whales, dolphins and porpoises	Animals	100.0
+taxongroup	Cet445b_21_whale-21	Cet445b_21_animal-13	Cet445b_21_whale-21_4764	21	Cet445b_21_animal-13_44	21	0	whales, dolphins and porpoises	Animals	100.0
+taxongroup	Cet-5f63_2_whale-8	Cet-5f63_2_mammals-31	Cet-5f63_2_whale-8_4764	2	Cet-5f63_2_mammals-31_3797	2	0	whales, dolphins and porpoises	mammals	100.0
+taxongroup	Cet-5f63_2_whales-39	Cet-5f63_2_mammals-31	Cet-5f63_2_whales-39_4764	2	Cet-5f63_2_mammals-31_3797	2	0	whales, dolphins and porpoises	mammals	100.0
+taxongroup	Rig-c8bd_97_whales-37	Rig-c8bd_97_whales-37	Rig-c8bd_97_whales-37_5499	97	Rig-c8bd_97_whales-37_4047	97	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_225_whale-4	Rig-c8bd_225_whale-4	Rig-c8bd_225_whale-4_5499	225	Rig-c8bd_225_whale-4_4047	225	0	southern right whale	right whales	100.0
+taxongroup	Cet-5f63_186_whale-22	Cet-5f63_186_whale-22	Cet-5f63_186_whale-22_5499	186	Cet-5f63_186_whale-22_4047	186	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_120_whales-9	Rig-c8bd_120_whales-9	Rig-c8bd_120_whales-9_5499	120	Rig-c8bd_120_whales-9_4047	120	0	southern right whale	right whales	100.0
+taxongroup	Cet-5f63_186_whale-32	Cet-5f63_186_whale-32	Cet-5f63_186_whale-32_5499	186	Cet-5f63_186_whale-32_4047	186	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_36_whale-43	Rig-c8bd_36_whale-36	Rig-c8bd_36_whale-43_5499	36	Rig-c8bd_36_whale-36_4047	36	0	southern right whale	right whales	100.0
+taxongroup	Cet-5f63_238_whale-4	Cet-5f63_238_whale-4	Cet-5f63_238_whale-4_5499	238	Cet-5f63_238_whale-4_4047	238	0	southern right whale	right whales	100.0
+taxongroup	Cet-5f63_186_whale-27	Cet-5f63_186_whale-32	Cet-5f63_186_whale-27_5499	186	Cet-5f63_186_whale-32_4047	186	0	southern right whale	right whales	100.0
+taxongroup	Cet-5f63_186_whale-27	Cet-5f63_186_whale-27	Cet-5f63_186_whale-27_5499	186	Cet-5f63_186_whale-27_4047	186	0	southern right whale	right whales	100.0
+taxongroup	Cet-5f63_186_whale-27	Cet-5f63_186_whale-22	Cet-5f63_186_whale-27_5499	186	Cet-5f63_186_whale-22_4047	186	0	southern right whale	right whales	100.0
+taxongroup	Cet-5f63_186_whale-22	Cet-5f63_186_whale-32	Cet-5f63_186_whale-22_5499	186	Cet-5f63_186_whale-32_4047	186	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_36_whale-36	Rig-c8bd_36_whale-36	Rig-c8bd_36_whale-36_5499	36	Rig-c8bd_36_whale-36_4047	36	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_36_whale-36	Rig-c8bd_36_whale-43	Rig-c8bd_36_whale-36_5499	36	Rig-c8bd_36_whale-43_4047	36	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_199_whale-3	Sou-ac15_199_whale-3	Sou-ac15_199_whale-3_5499	199	Sou-ac15_199_whale-3_4047	199	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_278_whale-4	Sou-ac15_278_whale-4	Sou-ac15_278_whale-4_5499	278	Sou-ac15_278_whale-4_4047	278	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_27_whale-3	Sou-ac15_27_whale-3	Sou-ac15_27_whale-3_5499	27	Sou-ac15_27_whale-3_4047	27	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_242_whales-25	Sou-ac15_242_whales-25	Sou-ac15_242_whales-25_5499	242	Sou-ac15_242_whales-25_4047	242	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_210_whale-3	Sou-ac15_210_whale-3	Sou-ac15_210_whale-3_5499	210	Sou-ac15_210_whale-3_4047	210	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_191_whale-3	Sou-ac15_191_whale-3	Sou-ac15_191_whale-3_5499	191	Sou-ac15_191_whale-3_4047	191	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_1_whale-3	Sou-ac15_1_whale-3	Sou-ac15_1_whale-3_5499	1	Sou-ac15_1_whale-3_4047	1	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_97_whales-20	Rig-c8bd_97_whales-5	Rig-c8bd_97_whales-20_5499	97	Rig-c8bd_97_whales-5_4047	97	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_36_whale-43	Rig-c8bd_36_whale-43	Rig-c8bd_36_whale-43_5499	36	Rig-c8bd_36_whale-43_4047	36	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_119_whale-3	Rig-c8bd_119_whale-3	Rig-c8bd_119_whale-3_5499	119	Rig-c8bd_119_whale-3_4047	119	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_217_whales-17	Sou-ac15_217_whales-17	Sou-ac15_217_whales-17_5499	217	Sou-ac15_217_whales-17_4047	217	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_227_whales-15	Sou-ac15_227_whales-15	Sou-ac15_227_whales-15_5499	227	Sou-ac15_227_whales-15_4047	227	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_239_whale-3	Sou-ac15_239_whale-3	Sou-ac15_239_whale-3_5499	239	Sou-ac15_239_whale-3_4047	239	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_299_whales-3	Sou-ac15_299_whales-3	Sou-ac15_299_whales-3_5499	299	Sou-ac15_299_whales-3_4047	299	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_277_whale-3	Sou-ac15_277_whale-3	Sou-ac15_277_whale-3_5499	277	Sou-ac15_277_whale-3_4047	277	0	southern right whale	right whales	100.0
+taxongroup	Rig-c8bd_124_whale-4	Rig-c8bd_124_whale-4	Rig-c8bd_124_whale-4_5499	124	Rig-c8bd_124_whale-4_4047	124	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_5_whale-3	Sou-ac15_5_whale-3	Sou-ac15_5_whale-3_5499	5	Sou-ac15_5_whale-3_4047	5	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_98_whales-29	Sou-ac15_98_whales-29	Sou-ac15_98_whales-29_5499	98	Sou-ac15_98_whales-29_4047	98	0	southern right whale	right whales	100.0
+taxongroup	Sou-ac15_88_whale-3	Sou-ac15_88_whale-3	Sou-ac15_88_whale-3_5499	88	Sou-ac15_88_whale-3_482	88	0	southern right whale	Right whales	100.0
+taxongroup	Sou-ac15_146_whale-3	Sou-ac15_146_whale-3	Sou-ac15_146_whale-3_5499	146	Sou-ac15_146_whale-3_482	146	0	southern right whale	Right whales	100.0
+taxongroup	Sou-ac15_56_whales-6	Sou-ac15_56_whales-6	Sou-ac15_56_whales-6_5499	56	Sou-ac15_56_whales-6_482	56	0	southern right whale	Right whales	100.0
+taxongroup	Cet445b_21_whales-2	Cet445b_21_whales-2	Cet445b_21_whales-2_4705	21	Cet445b_21_whales-2_4764	21	0	blue whale	whales, dolphins and porpoises	100.0
+taxongroup	Ver-1720_14_whale-29	Ver-1720_14_vertebrates-2	Ver-1720_14_whale-29_4705	14	Ver-1720_14_vertebrates-2_3935	14	0	blue whale	vertebrates	100.0
+taxongroup	Sau-89d2_28_whale-17	Sau-89d2_28_rorquals-11	Sau-89d2_28_whale-17_4705	28	Sau-89d2_28_rorquals-11_4252	28	0	blue whale	rorquals	100.0
+taxongroup	Sou-ac15_2_whale-12	Sou-ac15_2_Eubalaena-6	Sou-ac15_2_whale-12_3380	2	Sou-ac15_2_Eubalaena-6_1254	2	0	Southern right whale	Eubalaena	100.0
+taxongroup	Com-03ae_146_dolphin-10	Com-03ae_146_animals-47	Com-03ae_146_dolphin-10_3304	146	Com-03ae_146_animals-47_3812	146	0	Short-beaked common dolphin	animals	100.0
+taxongroup	Sou-ac15_2_whale-12	Sou-ac15_2_whale-12	Sou-ac15_2_whale-12_3380	2	Sou-ac15_2_whale-12_482	2	0	Southern right whale	Right whales	100.0
+taxongroup	Sou-ac15_18_whale-25	Sou-ac15_18_whale-32	Sou-ac15_18_whale-25_3380	18	Sou-ac15_18_whale-32_482	18	0	Southern right whale	Right whales	100.0
+taxongroup	Ant-7402_2_whale-18	Ant-7402_2_Balaenoptera-10	Ant-7402_2_whale-18_1519	2	Ant-7402_2_Balaenoptera-10_921	2	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-52	Ror-d7cd_55_Balaenoptera-48	Ror-d7cd_55_whale-52_1519	55	Ror-d7cd_55_Balaenoptera-48_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-52	Ror-d7cd_55_Balaenoptera-54	Ror-d7cd_55_whale-52_1519	55	Ror-d7cd_55_Balaenoptera-54_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-52	Ror-d7cd_55_Balaenoptera-5	Ror-d7cd_55_whale-52_1519	55	Ror-d7cd_55_Balaenoptera-5_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-52	Ror-d7cd_55_Balaenoptera-60	Ror-d7cd_55_whale-52_1519	55	Ror-d7cd_55_Balaenoptera-60_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-46	Ror-d7cd_55_Balaenoptera-23	Ror-d7cd_55_whale-46_1519	55	Ror-d7cd_55_Balaenoptera-23_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-46	Ror-d7cd_55_Balaenoptera-17	Ror-d7cd_55_whale-46_1519	55	Ror-d7cd_55_Balaenoptera-17_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-46	Ror-d7cd_55_Balaenoptera-11	Ror-d7cd_55_whale-46_1519	55	Ror-d7cd_55_Balaenoptera-11_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-39	Ror-d7cd_55_Balaenoptera-54	Ror-d7cd_55_whale-39_1519	55	Ror-d7cd_55_Balaenoptera-54_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-3	Ror-d7cd_55_Balaenoptera-17	Ror-d7cd_55_whale-3_1519	55	Ror-d7cd_55_Balaenoptera-17_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Bal-77d4_10_whale-3	Bal-77d4_10_Balaenoptera-5	Bal-77d4_10_whale-3_1519	10	Bal-77d4_10_Balaenoptera-5_921	10	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ant-7402_2_whale-8	Ant-7402_2_Balaenoptera-10	Ant-7402_2_whale-8_1519	2	Ant-7402_2_Balaenoptera-10_921	2	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ant-7402_2_whale-4	Ant-7402_2_Balaenoptera-10	Ant-7402_2_whale-4_1519	2	Ant-7402_2_Balaenoptera-10_921	2	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ant-7402_2_whales-24	Ant-7402_2_Balaenoptera-10	Ant-7402_2_whales-24_1519	2	Ant-7402_2_Balaenoptera-10_921	2	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-21	Ror-d7cd_55_Balaenoptera-41	Ror-d7cd_55_whale-21_1519	55	Ror-d7cd_55_Balaenoptera-41_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-28	Ror-d7cd_55_Balaenoptera-5	Ror-d7cd_55_whale-28_1519	55	Ror-d7cd_55_Balaenoptera-5_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-28	Ror-d7cd_55_Balaenoptera-54	Ror-d7cd_55_whale-28_1519	55	Ror-d7cd_55_Balaenoptera-54_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-28	Ror-d7cd_55_Balaenoptera-48	Ror-d7cd_55_whale-28_1519	55	Ror-d7cd_55_Balaenoptera-48_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-64	Ror-d7cd_55_Balaenoptera-35	Ror-d7cd_55_whale-64_1519	55	Ror-d7cd_55_Balaenoptera-35_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-64	Ror-d7cd_55_Balaenoptera-41	Ror-d7cd_55_whale-64_1519	55	Ror-d7cd_55_Balaenoptera-41_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-64	Ror-d7cd_55_Balaenoptera-48	Ror-d7cd_55_whale-64_1519	55	Ror-d7cd_55_Balaenoptera-48_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-64	Ror-d7cd_55_Balaenoptera-54	Ror-d7cd_55_whale-64_1519	55	Ror-d7cd_55_Balaenoptera-54_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-64	Ror-d7cd_55_Balaenoptera-5	Ror-d7cd_55_whale-64_1519	55	Ror-d7cd_55_Balaenoptera-5_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-64	Ror-d7cd_55_Balaenoptera-60	Ror-d7cd_55_whale-64_1519	55	Ror-d7cd_55_Balaenoptera-60_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-21	Ror-d7cd_55_Balaenoptera-60	Ror-d7cd_55_whale-21_1519	55	Ror-d7cd_55_Balaenoptera-60_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-21	Ror-d7cd_55_Balaenoptera-5	Ror-d7cd_55_whale-21_1519	55	Ror-d7cd_55_Balaenoptera-5_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-21	Ror-d7cd_55_Balaenoptera-54	Ror-d7cd_55_whale-21_1519	55	Ror-d7cd_55_Balaenoptera-54_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-21	Ror-d7cd_55_Balaenoptera-48	Ror-d7cd_55_whale-21_1519	55	Ror-d7cd_55_Balaenoptera-48_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-52	Ror-d7cd_55_Balaenoptera-41	Ror-d7cd_55_whale-52_1519	55	Ror-d7cd_55_Balaenoptera-41_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-52	Ror-d7cd_55_Balaenoptera-35	Ror-d7cd_55_whale-52_1519	55	Ror-d7cd_55_Balaenoptera-35_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-52	Ror-d7cd_55_Balaenoptera-30	Ror-d7cd_55_whale-52_1519	55	Ror-d7cd_55_Balaenoptera-30_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-52	Ror-d7cd_55_Balaenoptera-17	Ror-d7cd_55_whale-52_1519	55	Ror-d7cd_55_Balaenoptera-17_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-39	Ror-d7cd_55_Balaenoptera-23	Ror-d7cd_55_whale-39_1519	55	Ror-d7cd_55_Balaenoptera-23_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-39	Ror-d7cd_55_Balaenoptera-17	Ror-d7cd_55_whale-39_1519	55	Ror-d7cd_55_Balaenoptera-17_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-39	Ror-d7cd_55_Balaenoptera-11	Ror-d7cd_55_whale-39_1519	55	Ror-d7cd_55_Balaenoptera-11_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-46	Ror-d7cd_55_Balaenoptera-60	Ror-d7cd_55_whale-46_1519	55	Ror-d7cd_55_Balaenoptera-60_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-46	Ror-d7cd_55_Balaenoptera-5	Ror-d7cd_55_whale-46_1519	55	Ror-d7cd_55_Balaenoptera-5_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-46	Ror-d7cd_55_Balaenoptera-54	Ror-d7cd_55_whale-46_1519	55	Ror-d7cd_55_Balaenoptera-54_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-46	Ror-d7cd_55_Balaenoptera-48	Ror-d7cd_55_whale-46_1519	55	Ror-d7cd_55_Balaenoptera-48_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-15	Ror-d7cd_55_Balaenoptera-35	Ror-d7cd_55_whale-15_1519	55	Ror-d7cd_55_Balaenoptera-35_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-15	Ror-d7cd_55_Balaenoptera-41	Ror-d7cd_55_whale-15_1519	55	Ror-d7cd_55_Balaenoptera-41_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_66_whale-2	Ror-d7cd_66_Balaenoptera-4	Ror-d7cd_66_whale-2_1519	66	Ror-d7cd_66_Balaenoptera-4_921	66	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-15	Ror-d7cd_55_Balaenoptera-48	Ror-d7cd_55_whale-15_1519	55	Ror-d7cd_55_Balaenoptera-48_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-15	Ror-d7cd_55_Balaenoptera-23	Ror-d7cd_55_whale-15_1519	55	Ror-d7cd_55_Balaenoptera-23_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-15	Ror-d7cd_55_Balaenoptera-54	Ror-d7cd_55_whale-15_1519	55	Ror-d7cd_55_Balaenoptera-54_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-15	Ror-d7cd_55_Balaenoptera-17	Ror-d7cd_55_whale-15_1519	55	Ror-d7cd_55_Balaenoptera-17_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-15	Ror-d7cd_55_Balaenoptera-11	Ror-d7cd_55_whale-15_1519	55	Ror-d7cd_55_Balaenoptera-11_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-15	Ror-d7cd_55_Balaenoptera-30	Ror-d7cd_55_whale-15_1519	55	Ror-d7cd_55_Balaenoptera-30_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-15	Ror-d7cd_55_Balaenoptera-5	Ror-d7cd_55_whale-15_1519	55	Ror-d7cd_55_Balaenoptera-5_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-39	Ror-d7cd_55_Balaenoptera-5	Ror-d7cd_55_whale-39_1519	55	Ror-d7cd_55_Balaenoptera-5_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_66_whale-21	Ror-d7cd_66_Balaenoptera-4	Ror-d7cd_66_whale-21_1519	66	Ror-d7cd_66_Balaenoptera-4_921	66	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-46	Ror-d7cd_55_Balaenoptera-35	Ror-d7cd_55_whale-46_1519	55	Ror-d7cd_55_Balaenoptera-35_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-39	Ror-d7cd_55_Balaenoptera-30	Ror-d7cd_55_whale-39_1519	55	Ror-d7cd_55_Balaenoptera-30_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-39	Ror-d7cd_55_Balaenoptera-35	Ror-d7cd_55_whale-39_1519	55	Ror-d7cd_55_Balaenoptera-35_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-39	Ror-d7cd_55_Balaenoptera-41	Ror-d7cd_55_whale-39_1519	55	Ror-d7cd_55_Balaenoptera-41_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-39	Ror-d7cd_55_Balaenoptera-48	Ror-d7cd_55_whale-39_1519	55	Ror-d7cd_55_Balaenoptera-48_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-52	Ror-d7cd_55_Balaenoptera-23	Ror-d7cd_55_whale-52_1519	55	Ror-d7cd_55_Balaenoptera-23_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-52	Ror-d7cd_55_Balaenoptera-11	Ror-d7cd_55_whale-52_1519	55	Ror-d7cd_55_Balaenoptera-11_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-46	Ror-d7cd_55_Balaenoptera-30	Ror-d7cd_55_whale-46_1519	55	Ror-d7cd_55_Balaenoptera-30_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-21	Ror-d7cd_55_Balaenoptera-35	Ror-d7cd_55_whale-21_1519	55	Ror-d7cd_55_Balaenoptera-35_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-21	Ror-d7cd_55_Balaenoptera-30	Ror-d7cd_55_whale-21_1519	55	Ror-d7cd_55_Balaenoptera-30_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-28	Ror-d7cd_55_Balaenoptera-23	Ror-d7cd_55_whale-28_1519	55	Ror-d7cd_55_Balaenoptera-23_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-58	Ror-d7cd_55_Balaenoptera-60	Ror-d7cd_55_whale-58_1519	55	Ror-d7cd_55_Balaenoptera-60_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-64	Ror-d7cd_55_Balaenoptera-17	Ror-d7cd_55_whale-64_1519	55	Ror-d7cd_55_Balaenoptera-17_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-3	Ror-d7cd_55_Balaenoptera-60	Ror-d7cd_55_whale-3_1519	55	Ror-d7cd_55_Balaenoptera-60_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ind-6274_15_spotted-30	Ind-6274_15_Stenella-23	Ind-6274_15_spotted-30_1592	15	Ind-6274_15_Stenella-23_1285	15	0	Atlantic spotted dolphin	Stenella	100.0
+taxongroup	Art-6267_57_Balaenidae-33	Art-6267_57_Cetacea-2	Art-6267_57_Balaenidae-33_481	57	Art-6267_57_Cetacea-2_1856	57	0	Balaenidae	Cetacea	100.0
+taxongroup	Ani-161e_82_Balaenoptera-5	Ani-161e_82_animal-11	Ani-161e_82_Balaenoptera-5_921	82	Ani-161e_82_animal-11_44	82	0	Balaenoptera	Animals	100.0
+taxongroup	Blu-41f9_2_Balaenoptera-5	Blu-41f9_2_mammal-11	Blu-41f9_2_Balaenoptera-5_921	2	Blu-41f9_2_mammal-11_3797	2	0	Balaenoptera	mammals	100.0
+taxongroup	Ror-d7cd_45_Balaenoptera-26	Ror-d7cd_45_family-5	Ror-d7cd_45_Balaenoptera-26_921	45	Ror-d7cd_45_family-5_4182	45	0	Balaenoptera	rorqual family	100.0
+taxongroup	Cet-5f63_353_Basilosaurus-18	Cet-5f63_353_vertebrates-25	Cet-5f63_353_Basilosaurus-18_1650	353	Cet-5f63_353_vertebrates-25_3935	353	0	Basilosaurus	vertebrates	100.0
+taxongroup	Cet445b_50_whales-2	Cet445b_50_animal-12	Cet445b_50_whales-2_1731	50	Cet445b_50_animal-12_44	50	0	Blue whale	Animals	100.0
+taxongroup	Blu40b3_11_whales-2	Blu40b3_11_animals-6	Blu40b3_11_whales-2_1731	11	Blu40b3_11_animals-6_44	11	0	Blue whale	Animals	100.0
+taxongroup	Blu-41f9_163_whales-2	Blu-41f9_163_animal-14	Blu-41f9_163_whales-2_1731	163	Blu-41f9_163_animal-14_44	163	0	Blue whale	Animals	100.0
+taxongroup	Cet445b_50_whales-2	Cet445b_50_mammals-6	Cet445b_50_whales-2_1731	50	Cet445b_50_mammals-6_3797	50	0	Blue whale	mammals	100.0
+taxongroup	Blu-41f9_27_whales-2	Blu-41f9_27_rorquals-4	Blu-41f9_27_whales-2_1731	27	Blu-41f9_27_rorquals-4_4252	27	0	Blue whale	rorquals	100.0
+taxongroup	Bal-d795_21_whale-5	Bal-d795_21_Balaena-1	Bal-d795_21_whale-5_1767	21	Bal-d795_21_Balaena-1_919	21	0	Bowhead whale	Balaena	100.0
+taxongroup	Art-6267_43_Cetacea-12	Art-6267_43_Cetartiodactyla-20	Art-6267_43_Cetacea-12_1856	43	Art-6267_43_Cetartiodactyla-20_1857	43	0	Cetacea	Cetartiodactyla	100.0
+taxongroup	Ror-d7cd_55_whale-39	Ror-d7cd_55_Balaenoptera-60	Ror-d7cd_55_whale-39_1519	55	Ror-d7cd_55_Balaenoptera-60_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-58	Ror-d7cd_55_Balaenoptera-5	Ror-d7cd_55_whale-58_1519	55	Ror-d7cd_55_Balaenoptera-5_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-28	Ror-d7cd_55_Balaenoptera-17	Ror-d7cd_55_whale-28_1519	55	Ror-d7cd_55_Balaenoptera-17_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-58	Ror-d7cd_55_Balaenoptera-54	Ror-d7cd_55_whale-58_1519	55	Ror-d7cd_55_Balaenoptera-54_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-28	Ror-d7cd_55_Balaenoptera-11	Ror-d7cd_55_whale-28_1519	55	Ror-d7cd_55_Balaenoptera-11_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-58	Ror-d7cd_55_Balaenoptera-11	Ror-d7cd_55_whale-58_1519	55	Ror-d7cd_55_Balaenoptera-11_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-28	Ror-d7cd_55_Balaenoptera-60	Ror-d7cd_55_whale-28_1519	55	Ror-d7cd_55_Balaenoptera-60_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-3	Ror-d7cd_55_Balaenoptera-5	Ror-d7cd_55_whale-3_1519	55	Ror-d7cd_55_Balaenoptera-5_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-3	Ror-d7cd_55_Balaenoptera-54	Ror-d7cd_55_whale-3_1519	55	Ror-d7cd_55_Balaenoptera-54_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-3	Ror-d7cd_55_Balaenoptera-48	Ror-d7cd_55_whale-3_1519	55	Ror-d7cd_55_Balaenoptera-48_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-64	Ror-d7cd_55_Balaenoptera-30	Ror-d7cd_55_whale-64_1519	55	Ror-d7cd_55_Balaenoptera-30_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-15	Ror-d7cd_55_Balaenoptera-60	Ror-d7cd_55_whale-15_1519	55	Ror-d7cd_55_Balaenoptera-60_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-64	Ror-d7cd_55_Balaenoptera-23	Ror-d7cd_55_whale-64_1519	55	Ror-d7cd_55_Balaenoptera-23_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-64	Ror-d7cd_55_Balaenoptera-11	Ror-d7cd_55_whale-64_1519	55	Ror-d7cd_55_Balaenoptera-11_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-28	Ror-d7cd_55_Balaenoptera-41	Ror-d7cd_55_whale-28_1519	55	Ror-d7cd_55_Balaenoptera-41_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-28	Ror-d7cd_55_Balaenoptera-35	Ror-d7cd_55_whale-28_1519	55	Ror-d7cd_55_Balaenoptera-35_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-28	Ror-d7cd_55_Balaenoptera-30	Ror-d7cd_55_whale-28_1519	55	Ror-d7cd_55_Balaenoptera-30_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-3	Ror-d7cd_55_Balaenoptera-30	Ror-d7cd_55_whale-3_1519	55	Ror-d7cd_55_Balaenoptera-30_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_66_whale-15	Ror-d7cd_66_Balaenoptera-4	Ror-d7cd_66_whale-15_1519	66	Ror-d7cd_66_Balaenoptera-4_921	66	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-21	Ror-d7cd_55_Balaenoptera-11	Ror-d7cd_55_whale-21_1519	55	Ror-d7cd_55_Balaenoptera-11_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-21	Ror-d7cd_55_Balaenoptera-17	Ror-d7cd_55_whale-21_1519	55	Ror-d7cd_55_Balaenoptera-17_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-21	Ror-d7cd_55_Balaenoptera-23	Ror-d7cd_55_whale-21_1519	55	Ror-d7cd_55_Balaenoptera-23_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-3	Ror-d7cd_55_Balaenoptera-41	Ror-d7cd_55_whale-3_1519	55	Ror-d7cd_55_Balaenoptera-41_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-58	Ror-d7cd_55_Balaenoptera-17	Ror-d7cd_55_whale-58_1519	55	Ror-d7cd_55_Balaenoptera-17_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-58	Ror-d7cd_55_Balaenoptera-23	Ror-d7cd_55_whale-58_1519	55	Ror-d7cd_55_Balaenoptera-23_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-58	Ror-d7cd_55_Balaenoptera-30	Ror-d7cd_55_whale-58_1519	55	Ror-d7cd_55_Balaenoptera-30_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-3	Ror-d7cd_55_Balaenoptera-35	Ror-d7cd_55_whale-3_1519	55	Ror-d7cd_55_Balaenoptera-35_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-3	Ror-d7cd_55_Balaenoptera-23	Ror-d7cd_55_whale-3_1519	55	Ror-d7cd_55_Balaenoptera-23_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-58	Ror-d7cd_55_Balaenoptera-35	Ror-d7cd_55_whale-58_1519	55	Ror-d7cd_55_Balaenoptera-35_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-58	Ror-d7cd_55_Balaenoptera-41	Ror-d7cd_55_whale-58_1519	55	Ror-d7cd_55_Balaenoptera-41_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Ror-d7cd_55_whale-58	Ror-d7cd_55_Balaenoptera-48	Ror-d7cd_55_whale-58_1519	55	Ror-d7cd_55_Balaenoptera-48_921	55	0	Antarctic minke whale	Balaenoptera	100.0
+taxongroup	Syn-38d5_153_whale-40	Syn-38d5_153_mammals-13	Syn-38d5_153_whale-40_4705	153	Syn-38d5_153_mammals-13_3797	153	0	blue whale	mammals	100.0
+taxongroup	Sou-ac15_281_whale-4	Sou-ac15_281_whale-4	Sou-ac15_281_whale-4_3380	281	Sou-ac15_281_whale-4_4047	281	0	Southern right whale	right whales	100.0
+taxongroup	Ste-0d83_2_Stenella-1	Ste-0d83_2_Delphinidae-9	Ste-0d83_2_Stenella-1_1285	2	Ste-0d83_2_Delphinidae-9_713	2	0	Stenella	Delphinidae	100.0
+taxongroup	Tig-9404_74_Stenella-31	Tig-9404_74_mammals-13	Tig-9404_74_Stenella-31_1285	74	Tig-9404_74_mammals-13_3797	74	0	Stenella	mammals	100.0
+taxongroup	Ste-0d83_2_Stenella-1	Ste-0d83_2_mammals-7	Ste-0d83_2_Stenella-1_1285	2	Ste-0d83_2_mammals-7_3797	2	0	Stenella	mammals	100.0
+taxongroup	Ste-0d83_2_Stenella-1	Ste-0d83_2_dolphins-18	Ste-0d83_2_Stenella-1_1285	2	Ste-0d83_2_dolphins-18_4164	2	0	Stenella	oceanic dolphins	100.0
+taxongroup	Tig-9404_74_Tursiops-19	Tig-9404_74_mammals-13	Tig-9404_74_Tursiops-19_936	74	Tig-9404_74_mammals-13_3797	74	0	Tursiops	mammals	100.0
+taxongroup	Oce-4c88_5_whale-23	Oce-4c88_5_Monodontidae-20	Oce-4c88_5_whale-23_4671	5	Oce-4c88_5_Monodontidae-20_693	5	0	beluga whale	Monodontidae	100.0
+taxongroup	Ani-161e_82_whale-3	Ani-161e_82_animal-11	Ani-161e_82_whale-3_4705	82	Ani-161e_82_animal-11_44	82	0	blue whale	Animals	100.0
+taxongroup	Sou-ac15_101_whale-3	Sou-ac15_101_whale-3	Sou-ac15_101_whale-3_3380	101	Sou-ac15_101_whale-3_4047	101	0	Southern right whale	right whales	100.0
+taxongroup	Ani8132_5_whale-23	Ani8132_5_Animals-1	Ani8132_5_whale-23_4705	5	Ani8132_5_Animals-1_44	5	0	blue whale	Animals	100.0
+taxongroup	Bal82fc_3_whale-24	Bal82fc_3_animal-9	Bal82fc_3_whale-24_4705	3	Bal82fc_3_animal-9_44	3	0	blue whale	Animals	100.0
+taxongroup	Bal82fc_3_whale-3	Bal82fc_3_animal-9	Bal82fc_3_whale-3_4705	3	Bal82fc_3_animal-9_44	3	0	blue whale	Animals	100.0
+taxongroup	Cra-e2f1_76_whales-16	Cra-e2f1_76_Balaenoptera-11	Cra-e2f1_76_whales-16_4705	76	Cra-e2f1_76_Balaenoptera-11_921	76	0	blue whale	Balaenoptera	100.0
+taxongroup	Sau-89d2_33_whale-44	Sau-89d2_33_animal-21	Sau-89d2_33_whale-44_4705	33	Sau-89d2_33_animal-21_3812	33	0	blue whale	animals	100.0
+taxongroup	Syn-38d5_153_whale-40	Syn-38d5_153_animal-31	Syn-38d5_153_whale-40_4705	153	Syn-38d5_153_animal-31_3812	153	0	blue whale	animals	100.0
+taxongroup	Blu40b3_19_whale-3	Blu40b3_19_animal-8	Blu40b3_19_whale-3_4705	19	Blu40b3_19_animal-8_3812	19	0	blue whale	animals	100.0
+taxongroup	Blu-41f9_91_whale-3	Blu-41f9_91_animal-7	Blu-41f9_91_whale-3_4705	91	Blu-41f9_91_animal-7_3812	91	0	blue whale	animals	100.0
+taxongroup	Blu-41f9_89_whale-4	Blu-41f9_89_animal-11	Blu-41f9_89_whale-4_4705	89	Blu-41f9_89_animal-11_3812	89	0	blue whale	animals	100.0
+taxongroup	Cet-5f63_8_whale-6	Cet-5f63_8_animal-35	Cet-5f63_8_whale-6_4705	8	Cet-5f63_8_animal-35_3812	8	0	blue whale	animals	100.0
+taxongroup	Syn-38d5_153_whales-19	Syn-38d5_153_animal-31	Syn-38d5_153_whales-19_4705	153	Syn-38d5_153_animal-31_3812	153	0	blue whale	animals	100.0
+taxongroup	Roraa89_5_whale-22	Roraa89_5_animal-9	Roraa89_5_whale-22_4705	5	Roraa89_5_animal-9_3812	5	0	blue whale	animals	100.0
+taxongroup	Roraa89_5_whale-3	Roraa89_5_animal-9	Roraa89_5_whale-3_4705	5	Roraa89_5_animal-9_3812	5	0	blue whale	animals	100.0
+taxongroup	Ror-d7cd_3_whale-30	Ror-d7cd_3_animal-6	Ror-d7cd_3_whale-30_4705	3	Ror-d7cd_3_animal-6_3812	3	0	blue whale	animals	100.0
+taxongroup	Ror-d7cd_3_whale-14	Ror-d7cd_3_animal-6	Ror-d7cd_3_whale-14_4705	3	Ror-d7cd_3_animal-6_3812	3	0	blue whale	animals	100.0
+taxongroup	Ror-d7cd_3_whale-52	Ror-d7cd_3_animal-6	Ror-d7cd_3_whale-52_4705	3	Ror-d7cd_3_animal-6_3812	3	0	blue whale	animals	100.0
+taxongroup	Din-756f_358_whale-51	Din-756f_358_animals-60	Din-756f_358_whale-51_4705	358	Din-756f_358_animals-60_3812	358	0	blue whale	animals	100.0
+taxongroup	Mam-3742_14_whale-24	Mam-3742_14_animal-28	Mam-3742_14_whale-24_4705	14	Mam-3742_14_animal-28_3812	14	0	blue whale	animals	100.0
+taxongroup	Sex-811c_302_whales-35	Sex-811c_302_mammals-26	Sex-811c_302_whales-35_4705	302	Sex-811c_302_mammals-26_3797	302	0	blue whale	mammals	100.0
+taxongroup	Sex-811c_302_whale-39	Sex-811c_302_mammals-26	Sex-811c_302_whale-39_4705	302	Sex-811c_302_mammals-26_3797	302	0	blue whale	mammals	100.0
+taxongroup	Blu-41f9_2_whale-3	Blu-41f9_2_mammal-11	Blu-41f9_2_whale-3_4705	2	Blu-41f9_2_mammal-11_3797	2	0	blue whale	mammals	100.0
+taxongroup	Blu-41f9_2_whale-15	Blu-41f9_2_mammal-11	Blu-41f9_2_whale-15_4705	2	Blu-41f9_2_mammal-11_3797	2	0	blue whale	mammals	100.0
+taxongroup	Syn-38d5_153_whales-19	Syn-38d5_153_mammals-13	Syn-38d5_153_whales-19_4705	153	Syn-38d5_153_mammals-13_3797	153	0	blue whale	mammals	100.0
+taxongroup	Cra-e2f1_76_whales-9	Cra-e2f1_76_Balaenoptera-11	Cra-e2f1_76_whales-9_4705	76	Cra-e2f1_76_Balaenoptera-11_921	76	0	blue whale	Balaenoptera	100.0
+taxongroup	Blu-41f9_2_whale-3	Blu-41f9_2_Balaenoptera-5	Blu-41f9_2_whale-3_4705	2	Blu-41f9_2_Balaenoptera-5_921	2	0	blue whale	Balaenoptera	100.0
+taxongroup	Bal-77d4_18_whale-3	Bal-77d4_18_Balaenoptera-5	Bal-77d4_18_whale-3_4705	18	Bal-77d4_18_Balaenoptera-5_921	18	0	blue whale	Balaenoptera	100.0
+taxongroup	Ani-161e_82_whale-3	Ani-161e_82_Balaenoptera-5	Ani-161e_82_whale-3_4705	82	Ani-161e_82_Balaenoptera-5_921	82	0	blue whale	Balaenoptera	100.0
+taxongroup	Bal-77d4_20_whale-3	Bal-77d4_20_Balaenoptera-5	Bal-77d4_20_whale-3_4705	20	Bal-77d4_20_Balaenoptera-5_921	20	0	blue whale	Balaenoptera	100.0
+taxongroup	Bal-77d4_19_whale-3	Bal-77d4_19_Balaenoptera-15	Bal-77d4_19_whale-3_4705	19	Bal-77d4_19_Balaenoptera-15_921	19	0	blue whale	Balaenoptera	100.0
+taxongroup	Bal-77d4_19_whale-13	Bal-77d4_19_Balaenoptera-15	Bal-77d4_19_whale-13_4705	19	Bal-77d4_19_Balaenoptera-15_921	19	0	blue whale	Balaenoptera	100.0
+taxongroup	Bal-77d4_19_whale-13	Bal-77d4_19_Balaenoptera-5	Bal-77d4_19_whale-13_4705	19	Bal-77d4_19_Balaenoptera-5_921	19	0	blue whale	Balaenoptera	100.0
+taxongroup	Bal-77d4_19_whale-3	Bal-77d4_19_Balaenoptera-5	Bal-77d4_19_whale-3_4705	19	Bal-77d4_19_Balaenoptera-5_921	19	0	blue whale	Balaenoptera	100.0
+taxongroup	Cra-e2f1_76_whales-5	Cra-e2f1_76_Balaenoptera-11	Cra-e2f1_76_whales-5_4705	76	Cra-e2f1_76_Balaenoptera-11_921	76	0	blue whale	Balaenoptera	100.0
+taxongroup	Blu-41f9_2_whale-15	Blu-41f9_2_Balaenoptera-5	Blu-41f9_2_whale-15_4705	2	Blu-41f9_2_Balaenoptera-5_921	2	0	blue whale	Balaenoptera	100.0
+taxongroup	Sou-ac15_2_whale-4	Sou-ac15_2_whales-21	Sou-ac15_2_whale-4_3380	2	Sou-ac15_2_whales-21_482	2	0	Southern right whale	Right whales	100.0
+taxongroup	Sou-ac15_173_whales-6	Sou-ac15_173_whales-6	Sou-ac15_173_whales-6_3380	173	Sou-ac15_173_whales-6_4047	173	0	Southern right whale	right whales	100.0
+taxongroup	Amb-94f9_23_whales-40	Amb-94f9_23_mammal-16	Amb-94f9_23_whales-40_4764	23	Amb-94f9_23_mammal-16_3797	23	0	whales, dolphins and porpoises	mammals	100.0

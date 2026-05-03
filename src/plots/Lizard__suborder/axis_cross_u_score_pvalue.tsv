@@ -1,0 +1,8 @@
+rel_role	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	1.0	0.001	0.035	0.083	0.003	0.0	0.001	Lizard__suborder	75
+adaptation_topic	0.001	1.0	0.0	0.002	0.011	0.0	0.0	Lizard__suborder	143
+free_topic	0.035	0.0	1.0	0.068	0.0	0.0	0.0	Lizard__suborder	730
+location_comment	0.083	0.002	0.068	1.0	0.089	0.001	0.026	Lizard__suborder	28
+location_topic	0.003	0.011	0.0	0.089	1.0	0.0	0.0	Lizard__suborder	94
+taxongroup_comment	0.0	0.0	0.0	0.001	0.0	1.0	0.002	Lizard__suborder	300
+taxongroup_topic	0.001	0.0	0.0	0.026	0.0	0.002	1.0	Lizard__suborder	303

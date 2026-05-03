@@ -1,0 +1,1044 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Old0ecc_6_swallowtails-7	Old0ecc_6_marshes-21	Old0ecc_6_swallowtails-7_3888	6	Old0ecc_6_marshes-21_3807	6	0	swallowtail	marsh	100.0
+location	Orc5d52_23_cosmopolitan-5	Orc5d52_23_deserts-17	Orc5d52_23_cosmopolitan-5_3917	23	Orc5d52_23_deserts-17_34	23	0	cosmopolitan	Desert	83.0
+location	Pie-14e4_6_white-3	Pie-14e4_6_parkland-24	Pie-14e4_6_white-3_2664	6	Pie-14e4_6_parkland-24_4529	6	0	Large white	parkland	83.0
+location	Gat7338_3_brown-36	Gat7338_3_hedgerows-17	Gat7338_3_brown-36_5004	3	Gat7338_3_hedgerows-17_4519	3	0	hedge brown	hedgerows	83.0
+location	Pie-14e4_5_brassicae-2	Pie-14e4_6_parkland-24	Pie-14e4_5_brassicae-2_2661	5	Pie-14e4_6_parkland-24_4529	6	1	Pieris brassicae	parkland	43.5
+location	Van-b9b9_19_cardui-2	Van-b9b9_20_mountains-10	Van-b9b9_19_cardui-2_272	19	Van-b9b9_20_mountains-10_4527	20	1	Vanessa cardui	mountains	43.5
+location	Van-b9b9_18_lady-9	Van-b9b9_20_mountains-10	Van-b9b9_18_lady-9_271	18	Van-b9b9_20_mountains-10_4527	20	2	Painted lady	mountains	33.333
+location	Van-b9b9_18_lady-18	Van-b9b9_20_mountains-10	Van-b9b9_18_lady-18_271	18	Van-b9b9_20_mountains-10_4527	20	2	Painted lady	mountains	33.333
+location	Pie-14e4_8_white-3	Pie-14e4_6_parkland-24	Pie-14e4_8_white-3_2664	8	Pie-14e4_6_parkland-24_4529	6	2	Large white	parkland	27.667
+location	Dro-4d9f_124_cosmopolitan-7	Dro-4d9f_126_rainforests-18	Dro-4d9f_124_cosmopolitan-7_3917	124	Dro-4d9f_126_rainforests-18_3811	126	2	cosmopolitan	rainforest	27.667
+location	Pie-14e4_4_white-3	Pie-14e4_6_parkland-24	Pie-14e4_4_white-3_5154	4	Pie-14e4_6_parkland-24_4529	6	2	large white	parkland	27.667
+location	Van-b9b9_17_lady-11	Van-b9b9_20_mountains-10	Van-b9b9_17_lady-11_271	17	Van-b9b9_20_mountains-10_4527	20	3	Painted lady	mountains	25.0
+location	Swa-32cf_23_Swallowtail-1	Swa-32cf_26_deserts-13	Swa-32cf_23_Swallowtail-1_201	23	Swa-32cf_26_deserts-13_34	26	3	Swallowtail	Desert	25.0
+location	Old0ecc_3_Swallowtails-1	Old0ecc_6_marshes-21	Old0ecc_3_Swallowtails-1_201	3	Old0ecc_6_marshes-21_3807	6	3	Swallowtail	marsh	25.0
+location	Van-b9b9_135_cardui-2	Van-b9b9_132_Taiga-19	Van-b9b9_135_cardui-2_272	135	Van-b9b9_132_Taiga-19_1373	132	3	Vanessa cardui	Taiga	21.75
+location	Van-b9b9_94_cardui-2	Van-b9b9_91_hedgerows-9	Van-b9b9_94_cardui-2_272	94	Van-b9b9_91_hedgerows-9_4519	91	3	Vanessa cardui	hedgerows	21.75
+location	Pie-14e4_9_white-6	Pie-14e4_6_parkland-24	Pie-14e4_9_white-6_5154	9	Pie-14e4_6_parkland-24_4529	6	3	large white	parkland	20.75
+location	Gul-1ea1_41_cosmopolitan-6	Gul-1ea1_44_deserts-28	Gul-1ea1_41_cosmopolitan-6_3917	41	Gul-1ea1_44_deserts-28_3805	44	3	cosmopolitan	desert	20.75
+location	Pie-14e4_2_white-28	Pie-14e4_6_parkland-24	Pie-14e4_2_white-28_5151	2	Pie-14e4_6_parkland-24_4529	6	4	cabbage white	parkland	20.0
+location	Pie-14e4_2_white-6	Pie-14e4_6_parkland-24	Pie-14e4_2_white-6_5151	2	Pie-14e4_6_parkland-24_4529	6	4	cabbage white	parkland	20.0
+location	Gat7338_7_butterfly-5	Gat7338_3_hedgerows-17	Gat7338_7_butterfly-5_2341	7	Gat7338_3_hedgerows-17_4519	3	4	Gatekeeper butterfly	hedgerows	20.0
+location	Pie-14e4_2_butterfly-32	Pie-14e4_6_parkland-24	Pie-14e4_2_butterfly-32_5152	2	Pie-14e4_6_parkland-24_4529	6	4	cabbage butterfly	parkland	16.6
+location	Pie-14e4_2_butterfly-11	Pie-14e4_6_parkland-24	Pie-14e4_2_butterfly-11_5152	2	Pie-14e4_6_parkland-24_4529	6	4	cabbage butterfly	parkland	16.6
+location	Swa-71c0_51_cosmopolitan-6	Swa-71c0_55_marshes-42	Swa-71c0_51_cosmopolitan-6_3917	51	Swa-71c0_55_marshes-42_3807	55	4	cosmopolitan	marsh	16.6
+location	Pie-14e4_1_brassicae-2	Pie-14e4_6_parkland-24	Pie-14e4_1_brassicae-2_2661	1	Pie-14e4_6_parkland-24_4529	6	5	Pieris brassicae	parkland	14.5
+location	Van-b9b9_39_lady-8	Van-b9b9_33_deserts-15	Van-b9b9_39_lady-8_271	39	Van-b9b9_33_deserts-15_34	33	6	Painted lady	Desert	14.286
+location	Dro-4d9f_124_cosmopolitan-7	Dro-4d9f_129_bogs-4	Dro-4d9f_124_cosmopolitan-7_3917	124	Dro-4d9f_129_bogs-4_4511	129	5	cosmopolitan	bog	13.833
+location	Dro-4d9f_124_cosmopolitan-7	Dro-4d9f_129_swamps-8	Dro-4d9f_124_cosmopolitan-7_3917	124	Dro-4d9f_129_swamps-8_3808	129	5	cosmopolitan	swamp	13.833
+location	Dro-4d9f_124_cosmopolitan-7	Dro-4d9f_129_marshes-10	Dro-4d9f_124_cosmopolitan-7_3917	124	Dro-4d9f_129_marshes-10_3807	129	5	cosmopolitan	marsh	13.833
+location	Van-b9b9_39_lady-8	Van-b9b9_32_desert-14	Van-b9b9_39_lady-8_271	39	Van-b9b9_32_desert-14_34	32	7	Painted lady	Desert	12.5
+location	Van-b9b9_14_cardui-2	Van-b9b9_20_mountains-10	Van-b9b9_14_cardui-2_272	14	Van-b9b9_20_mountains-10_4527	20	6	Vanessa cardui	mountains	12.429
+location	Van-b9b9_98_cardui-2	Van-b9b9_91_hedgerows-9	Van-b9b9_98_cardui-2_272	98	Van-b9b9_91_hedgerows-9_4519	91	7	Vanessa cardui	hedgerows	10.875
+location	Van-b9b9_84_cardui-2	Van-b9b9_91_hedgerows-9	Van-b9b9_84_cardui-2_272	84	Van-b9b9_91_hedgerows-9_4519	91	7	Vanessa cardui	hedgerows	10.875
+location	Van-b9b9_139_cardui-2	Van-b9b9_132_Taiga-19	Van-b9b9_139_cardui-2_272	139	Van-b9b9_132_Taiga-19_1373	132	7	Vanessa cardui	Taiga	10.875
+location	Van-b9b9_125_cardui-18	Van-b9b9_132_Taiga-19	Van-b9b9_125_cardui-18_272	125	Van-b9b9_132_Taiga-19_1373	132	7	Vanessa cardui	Taiga	10.875
+location	Gat-a3f4_29_butterfly-10	Gat-a3f4_38_hedgerows-19	Gat-a3f4_29_butterfly-10_5003	29	Gat-a3f4_38_hedgerows-19_4519	38	9	gatekeeper butterfly	hedgerows	10.0
+location	Swa-32cf_17_Swallowtail-1	Swa-32cf_26_deserts-13	Swa-32cf_17_Swallowtail-1_201	17	Swa-32cf_26_deserts-13_3805	26	9	Swallowtail	desert	10.0
+location	Swa-32cf_35_Swallowtail-1	Swa-32cf_26_deserts-13	Swa-32cf_35_Swallowtail-1_201	35	Swa-32cf_26_deserts-13_34	26	9	Swallowtail	Desert	10.0
+location	Swa-32cf_16_swallowtails-2	Swa-32cf_26_deserts-13	Swa-32cf_16_swallowtails-2_3888	16	Swa-32cf_26_deserts-13_34	26	10	swallowtail	Desert	9.091
+location	Van-b9b9_39_lady-8	Van-b9b9_29_desert-12	Van-b9b9_39_lady-8_271	39	Van-b9b9_29_desert-12_3805	29	10	Painted lady	desert	9.091
+location	Van-b9b9_141_cardui-19	Van-b9b9_132_Taiga-19	Van-b9b9_141_cardui-19_272	141	Van-b9b9_132_Taiga-19_1373	132	9	Vanessa cardui	Taiga	8.7
+location	Swa-32cf_15_swallowtails-5	Swa-32cf_26_deserts-13	Swa-32cf_15_swallowtails-5_3888	15	Swa-32cf_26_deserts-13_34	26	11	swallowtail	Desert	8.333
+location	Van-b9b9_18_lady-9	Van-b9b9_29_desert-12	Van-b9b9_18_lady-9_271	18	Van-b9b9_29_desert-12_3805	29	11	Painted lady	desert	8.333
+location	Van-b9b9_18_lady-18	Van-b9b9_29_desert-12	Van-b9b9_18_lady-18_271	18	Van-b9b9_29_desert-12_3805	29	11	Painted lady	desert	8.333
+location	Dro-4d9f_124_cosmopolitan-7	Dro-4d9f_133_rainforests-19	Dro-4d9f_124_cosmopolitan-7_3917	124	Dro-4d9f_133_rainforests-19_3811	133	9	cosmopolitan	rainforest	8.3
+location	Dro-4d9f_124_cosmopolitan-7	Dro-4d9f_133_deserts-21	Dro-4d9f_124_cosmopolitan-7_3917	124	Dro-4d9f_133_deserts-21_3805	133	9	cosmopolitan	desert	8.3
+location	Van-b9b9_19_cardui-2	Van-b9b9_29_desert-12	Van-b9b9_19_cardui-2_272	19	Van-b9b9_29_desert-12_3805	29	10	Vanessa cardui	desert	7.909
+location	Swa-32cf_14_Swallowtail-1	Swa-32cf_26_deserts-13	Swa-32cf_14_Swallowtail-1_201	14	Swa-32cf_26_deserts-13_34	26	12	Swallowtail	Desert	7.692
+location	Van-b9b9_102_cardui-2	Van-b9b9_91_hedgerows-9	Van-b9b9_102_cardui-2_272	102	Van-b9b9_91_hedgerows-9_4519	91	11	Vanessa cardui	hedgerows	7.25
+location	Van-b9b9_44_cardui-2	Van-b9b9_33_deserts-15	Van-b9b9_44_cardui-2_272	44	Van-b9b9_33_deserts-15_3805	33	11	Vanessa cardui	desert	7.25
+location	Swa-32cf_13_Swallowtail-1	Swa-32cf_26_deserts-13	Swa-32cf_13_Swallowtail-1_201	13	Swa-32cf_26_deserts-13_34	26	13	Swallowtail	Desert	7.143
+location	Swa-32cf_39_Swallowtail-1	Swa-32cf_26_deserts-13	Swa-32cf_39_Swallowtail-1_201	39	Swa-32cf_26_deserts-13_34	26	13	Swallowtail	Desert	7.143
+location	Van-b9b9_44_cardui-2	Van-b9b9_32_desert-14	Van-b9b9_44_cardui-2_272	44	Van-b9b9_32_desert-14_34	32	12	Vanessa cardui	Desert	6.692
+location	Swa-32cf_12_swallowtail-13	Swa-32cf_26_deserts-13	Swa-32cf_12_swallowtail-13_3888	12	Swa-32cf_26_deserts-13_34	26	14	swallowtail	Desert	6.667
+location	Swa-32cf_41_Swallowtail-1	Swa-32cf_26_deserts-13	Swa-32cf_41_Swallowtail-1_201	41	Swa-32cf_26_deserts-13_34	26	15	Swallowtail	Desert	6.25
+location	Van-b9b9_78_cardui-2	Van-b9b9_91_hedgerows-9	Van-b9b9_78_cardui-2_272	78	Van-b9b9_91_hedgerows-9_4519	91	13	Vanessa cardui	hedgerows	6.214
+location	Van-b9b9_19_cardui-2	Van-b9b9_32_desert-14	Van-b9b9_19_cardui-2_272	19	Van-b9b9_32_desert-14_3805	32	13	Vanessa cardui	desert	6.214
+location	Van-b9b9_105_cardui-2	Van-b9b9_91_hedgerows-9	Van-b9b9_105_cardui-2_272	105	Van-b9b9_91_hedgerows-9_4519	91	14	Vanessa cardui	hedgerows	5.8
+location	Van-b9b9_19_cardui-2	Van-b9b9_33_deserts-15	Van-b9b9_19_cardui-2_272	19	Van-b9b9_33_deserts-15_3805	33	14	Vanessa cardui	desert	5.8
+location	Van-b9b9_3_lady-7	Van-b9b9_20_mountains-10	Van-b9b9_3_lady-7_3916	3	Van-b9b9_20_mountains-10_4527	20	17	painted lady	mountains	5.556
+location	Swa-32cf_9_swallowtails-18	Swa-32cf_26_deserts-13	Swa-32cf_9_swallowtails-18_3888	9	Swa-32cf_26_deserts-13_34	26	17	swallowtail	Desert	5.556
+location	Nom-aef8_50_cosmopolitans-21	Nom-aef8_36_mountains-9	Nom-aef8_50_cosmopolitans-21_3917	50	Nom-aef8_36_mountains-9_4527	36	14	cosmopolitan	mountains	5.533
+location	Nom-aef8_50_cosmopolitans-21	Nom-aef8_64_rainforest-23	Nom-aef8_50_cosmopolitans-21_3917	50	Nom-aef8_64_rainforest-23_3811	64	14	cosmopolitan	rainforest	5.533
+location	Van-b9b9_44_cardui-2	Van-b9b9_29_desert-12	Van-b9b9_44_cardui-2_272	44	Van-b9b9_29_desert-12_3805	29	15	Vanessa cardui	desert	5.438
+location	Van-b9b9_14_cardui-2	Van-b9b9_29_desert-12	Van-b9b9_14_cardui-2_272	14	Van-b9b9_29_desert-12_34	29	15	Vanessa cardui	Desert	5.438
+location	Pie-14e4_15_white-30	Pie-14e4_6_parkland-24	Pie-14e4_15_white-30_2663	15	Pie-14e4_6_parkland-24_4529	6	9	Large cabbage white	parkland	5.4
+location	Swa-32cf_44_swallowtail-2	Swa-32cf_26_deserts-13	Swa-32cf_44_swallowtail-2_3888	44	Swa-32cf_26_deserts-13_34	26	18	swallowtail	Desert	5.263
+location	Lep-f8ec_328_lady-14	Lep-f8ec_310_mountains-7	Lep-f8ec_328_lady-14_3916	328	Lep-f8ec_310_mountains-7_4527	310	18	painted lady	mountains	5.263
+location	Lep-f8ec_328_lady-11	Lep-f8ec_310_mountains-7	Lep-f8ec_328_lady-11_3916	328	Lep-f8ec_310_mountains-7_4527	310	18	painted lady	mountains	5.263
+location	Van-b9b9_4_cardui-2	Van-b9b9_20_mountains-10	Van-b9b9_4_cardui-2_272	4	Van-b9b9_20_mountains-10_4527	20	16	Vanessa cardui	mountains	5.118
+location	Swa-32cf_7_swallowtail-32	Swa-32cf_26_deserts-13	Swa-32cf_7_swallowtail-32_3888	7	Swa-32cf_26_deserts-13_34	26	19	swallowtail	Desert	5.0
+location	Van-b9b9_39_lady-8	Van-b9b9_20_mountains-10	Van-b9b9_39_lady-8_271	39	Van-b9b9_20_mountains-10_4527	20	19	Painted lady	mountains	5.0
+location	Swa-32cf_7_swallowtails-8	Swa-32cf_26_deserts-13	Swa-32cf_7_swallowtails-8_3888	7	Swa-32cf_26_deserts-13_34	26	19	swallowtail	Desert	5.0
+location	Van-b9b9_108_cardui-2	Van-b9b9_91_hedgerows-9	Van-b9b9_108_cardui-2_272	108	Van-b9b9_91_hedgerows-9_4519	91	17	Vanessa cardui	hedgerows	4.833
+location	Gat-a3f4_58_butterfly-3	Gat-a3f4_38_hedgerows-19	Gat-a3f4_58_butterfly-3_5003	58	Gat-a3f4_38_hedgerows-19_4519	38	20	gatekeeper butterfly	hedgerows	4.762
+location	Van-b9b9_3_cosmopolitan-15	Van-b9b9_20_mountains-10	Van-b9b9_3_cosmopolitan-15_3917	3	Van-b9b9_20_mountains-10_4527	20	17	cosmopolitan	mountains	4.611
+location	Lep-f8ec_331_lady-10	Lep-f8ec_310_mountains-7	Lep-f8ec_331_lady-10_271	331	Lep-f8ec_310_mountains-7_4527	310	21	Painted lady	mountains	4.545
+location	Pie-14e4_17_white-3	Pie-14e4_6_parkland-24	Pie-14e4_17_white-3_2663	17	Pie-14e4_6_parkland-24_4529	6	11	Large cabbage white	parkland	4.5
+location	Van-b9b9_110_cardui-2	Van-b9b9_91_hedgerows-9	Van-b9b9_110_cardui-2_272	110	Van-b9b9_91_hedgerows-9_4519	91	19	Vanessa cardui	hedgerows	4.35
+location	Van-b9b9_1_cardui-2	Van-b9b9_20_mountains-10	Van-b9b9_1_cardui-2_272	1	Van-b9b9_20_mountains-10_4527	20	19	Vanessa cardui	mountains	4.35
+location	Van-b9b9_110_cardui-2	Van-b9b9_132_Taiga-19	Van-b9b9_110_cardui-2_272	110	Van-b9b9_132_Taiga-19_1373	132	22	Vanessa cardui	Taiga	3.783
+location	Van-b9b9_69_cardui-2	Van-b9b9_91_hedgerows-9	Van-b9b9_69_cardui-2_272	69	Van-b9b9_91_hedgerows-9_4519	91	22	Vanessa cardui	hedgerows	3.783
+location	Nom-aef8_50_cosmopolitans-21	Nom-aef8_29_desert-12	Nom-aef8_50_cosmopolitans-21_3917	50	Nom-aef8_29_desert-12_3805	29	21	cosmopolitan	desert	3.773
+location	Van-b9b9_3_lady-7	Van-b9b9_29_desert-12	Van-b9b9_3_lady-7_3916	3	Van-b9b9_29_desert-12_34	29	26	painted lady	Desert	3.704
+location	Swa-32cf_53_swallowtails-29	Swa-32cf_26_deserts-13	Swa-32cf_53_swallowtails-29_3888	53	Swa-32cf_26_deserts-13_3805	26	27	swallowtail	desert	3.571
+location	Van-b9b9_44_cardui-2	Van-b9b9_20_mountains-10	Van-b9b9_44_cardui-2_272	44	Van-b9b9_20_mountains-10_4527	20	24	Vanessa cardui	mountains	3.48
+location	Van-b9b9_108_cardui-2	Van-b9b9_132_Taiga-19	Van-b9b9_108_cardui-2_272	108	Van-b9b9_132_Taiga-19_1373	132	24	Vanessa cardui	Taiga	3.48
+location	Swa-32cf_54_swallowtails-38	Swa-32cf_26_deserts-13	Swa-32cf_54_swallowtails-38_3888	54	Swa-32cf_26_deserts-13_3805	26	28	swallowtail	desert	3.448
+location	Van-b9b9_3_lady-7	Van-b9b9_32_desert-14	Van-b9b9_3_lady-7_3916	3	Van-b9b9_32_desert-14_34	32	29	painted lady	Desert	3.333
+location	Van-b9b9_3_lady-7	Van-b9b9_33_deserts-15	Van-b9b9_3_lady-7_3916	3	Van-b9b9_33_deserts-15_3805	33	30	painted lady	desert	3.226
+location	Dro-4d9f_124_cosmopolitan-7	Dro-4d9f_149_bogs-9	Dro-4d9f_124_cosmopolitan-7_3917	124	Dro-4d9f_149_bogs-9_4511	149	25	cosmopolitan	bog	3.192
+location	Van-b9b9_105_cardui-2	Van-b9b9_132_Taiga-19	Van-b9b9_105_cardui-2_272	105	Van-b9b9_132_Taiga-19_1373	132	27	Vanessa cardui	Taiga	3.107
+location	Van-b9b9_3_cosmopolitan-15	Van-b9b9_29_desert-12	Van-b9b9_3_cosmopolitan-15_3917	3	Van-b9b9_29_desert-12_34	29	26	cosmopolitan	Desert	3.074
+location	Gat-a3f4_5_butterfly-14	Gat-a3f4_38_hedgerows-19	Gat-a3f4_5_butterfly-14_5003	5	Gat-a3f4_38_hedgerows-19_4519	38	33	gatekeeper butterfly	hedgerows	2.941
+location	Dro-4d9f_124_cosmopolitan-7	Dro-4d9f_152_bogs-5	Dro-4d9f_124_cosmopolitan-7_3917	124	Dro-4d9f_152_bogs-5_4511	152	28	cosmopolitan	bog	2.862
+location	Van-b9b9_102_cardui-2	Van-b9b9_132_Taiga-19	Van-b9b9_102_cardui-2_272	102	Van-b9b9_132_Taiga-19_1373	132	30	Vanessa cardui	Taiga	2.806
+location	Gat-a3f4_77_butterflies-5	Gat-a3f4_38_hedgerows-19	Gat-a3f4_77_butterflies-5_5003	77	Gat-a3f4_38_hedgerows-19_4519	38	39	gatekeeper butterfly	hedgerows	2.5
+location	Gat-a3f4_2_brown-5	Gat-a3f4_38_hedgerows-19	Gat-a3f4_2_brown-5_2343	2	Gat-a3f4_38_hedgerows-19_4519	38	36	Hedge brown	hedgerows	2.243
+location	Pie-14e4_30_white-3	Pie-14e4_6_parkland-24	Pie-14e4_30_white-3_2663	30	Pie-14e4_6_parkland-24_4529	6	24	Large cabbage white	parkland	2.16
+location	Ada-f37b_25_moth-9	Ada-f37b_59_desert-21	Ada-f37b_25_moth-9_5201	25	Ada-f37b_59_desert-21_34	59	34	hummingbird hawk-moth	Desert	2.143
+location	Nom-aef8_50_cosmopolitans-21	Nom-aef8_8_tundra-9	Nom-aef8_50_cosmopolitans-21_3917	50	Nom-aef8_8_tundra-9_4539	8	42	cosmopolitan	tundra	1.93
+location	Nom-aef8_50_cosmopolitans-21	Nom-aef8_7_tundra-14	Nom-aef8_50_cosmopolitans-21_3917	50	Nom-aef8_7_tundra-14_4539	7	43	cosmopolitan	tundra	1.886
+location	Ant-938d_319_Lycaenidae-12	Ant-938d_263_desert-2	Ant-938d_319_Lycaenidae-12_672	319	Ant-938d_263_desert-2_3805	263	56	Lycaenidae	desert	1.754
+location	Ant-938d_319_Lycaenidae-12	Ant-938d_263_desert-12	Ant-938d_319_Lycaenidae-12_672	319	Ant-938d_263_desert-12_3805	263	56	Lycaenidae	desert	1.754
+location	Ant-938d_319_Lycaenidae-12	Ant-938d_251_rainforest-43	Ant-938d_319_Lycaenidae-12_672	319	Ant-938d_251_rainforest-43_3811	251	68	Lycaenidae	rainforest	1.449
+location	Gul-1ea1_41_cosmopolitan-6	Gul-1ea1_106_marshes-24	Gul-1ea1_41_cosmopolitan-6_3917	41	Gul-1ea1_106_marshes-24_3807	106	65	cosmopolitan	marsh	1.258
+location	Gul-1ea1_41_cosmopolitan-6	Gul-1ea1_106_marshes-5	Gul-1ea1_41_cosmopolitan-6_3917	41	Gul-1ea1_106_marshes-5_3807	106	65	cosmopolitan	marsh	1.258
+location	Nom-aef8_50_cosmopolitans-21	Nom-aef8_117_desert-13	Nom-aef8_50_cosmopolitans-21_3917	50	Nom-aef8_117_desert-13_34	117	67	cosmopolitan	Desert	1.221
+location	Dro-4d9f_124_cosmopolitan-7	Dro-4d9f_47_rainforest-32	Dro-4d9f_124_cosmopolitan-7_3917	124	Dro-4d9f_47_rainforest-32_3811	47	77	cosmopolitan	rainforest	1.064
+location	Mos-3d44_123_Cosmopolitan-5	Mos-3d44_43_marshes-13	Mos-3d44_123_Cosmopolitan-5_273	123	Mos-3d44_43_marshes-13_3807	43	80	Cosmopolitan	marsh	1.025
+location	Mos-3d44_123_Cosmopolitan-5	Mos-3d44_41_marsh-19	Mos-3d44_123_Cosmopolitan-5_273	123	Mos-3d44_41_marsh-19_3807	41	82	Cosmopolitan	marsh	1.0
+adaptation	Swa-32cf_118_swallowtail-11	Swa-32cf_118_polymorphism-2	Swa-32cf_118_swallowtail-11_3888	118	Swa-32cf_118_polymorphism-2_3976	118	0	swallowtail	polymorphism	100.0
+adaptation	Ani-ab87_80_butterflies-4	Ani-ab87_80_migration-21	Ani-ab87_80_butterflies-4_5238	80	Ani-ab87_80_migration-21_3781	80	0	monarch butterfly	migration	100.0
+adaptation	Mon-6a24_517_Butterflies-51	Mon-6a24_517_migration-38	Mon-6a24_517_Butterflies-51_2859	517	Mon-6a24_517_migration-38_1	517	0	Monarch butterfly	Migration	100.0
+adaptation	Mon-6a24_206_butterfly-2	Mon-6a24_206_migration-6	Mon-6a24_206_butterfly-2_2859	206	Mon-6a24_206_migration-6_1	206	0	Monarch butterfly	Migration	100.0
+adaptation	Mon-6a24_517_butterfly-57	Mon-6a24_517_migration-38	Mon-6a24_517_butterfly-57_2859	517	Mon-6a24_517_migration-38_1	517	0	Monarch butterfly	Migration	100.0
+adaptation	Mon-6a24_517_butterfly-14	Mon-6a24_517_migration-38	Mon-6a24_517_butterfly-14_2859	517	Mon-6a24_517_migration-38_1	517	0	Monarch butterfly	Migration	100.0
+adaptation	Lep-f8ec_170_Lepidoptera-3	Lep-f8ec_170_metamorphosis-9	Lep-f8ec_170_Lepidoptera-3_2698	170	Lep-f8ec_170_metamorphosis-9_3962	170	0	Lepidoptera	metamorphosis	100.0
+adaptation	Mon-6a24_62_Lepidoptera-3	Mon-6a24_62_metamorphosis-8	Mon-6a24_62_Lepidoptera-3_2698	62	Mon-6a24_62_metamorphosis-8_3962	62	0	Lepidoptera	metamorphosis	100.0
+adaptation	Gon-9ae6_89_brimstone-3	Gon-9ae6_89_hibernation-9	Gon-9ae6_89_brimstone-3_5020	89	Gon-9ae6_89_hibernation-9_338	89	0	brimstone	Hibernation	100.0
+adaptation	Par-e8bc_141_butterfly-6	Par-e8bc_141_mimicry-15	Par-e8bc_141_butterfly-6_2657	141	Par-e8bc_141_mimicry-15_3963	141	0	Large blue butterfly	mimicry	100.0
+adaptation	Ani-ab87_80_butterfly-10	Ani-ab87_80_migration-21	Ani-ab87_80_butterfly-10_5238	80	Ani-ab87_80_migration-21_1	80	0	monarch butterfly	Migration	100.0
+adaptation	Mon-6a24_517_butterfly-59	Mon-6a24_517_migration-38	Mon-6a24_517_butterfly-59_5238	517	Mon-6a24_517_migration-38_1	517	0	monarch butterfly	Migration	100.0
+adaptation	Mon-6a24_517_butterfly-2	Mon-6a24_517_migration-38	Mon-6a24_517_butterfly-2_5238	517	Mon-6a24_517_migration-38_1	517	0	monarch butterfly	Migration	100.0
+adaptation	Ins-960c_321_butterfly-20	Ins-960c_321_migration-21	Ins-960c_321_butterfly-20_5238	321	Ins-960c_321_migration-21_1	321	0	monarch butterfly	Migration	100.0
+adaptation	Lep-f8ec_330_butterfly-16	Lep-f8ec_330_migrations-6	Lep-f8ec_330_butterfly-16_5238	330	Lep-f8ec_330_migrations-6_1	330	0	monarch butterfly	Migration	100.0
+adaptation	Gon-252b_11_brimstone-2	Gon-252b_11_hibernation-18	Gon-252b_11_brimstone-2_5020	11	Gon-252b_11_hibernation-18_3959	11	0	brimstone	hibernation	100.0
+adaptation	Gon-9ae6_27_brimstone-3	Gon-9ae6_27_hibernation-20	Gon-9ae6_27_brimstone-3_5020	27	Gon-9ae6_27_hibernation-20_338	27	0	brimstone	Hibernation	100.0
+adaptation	Gon-9ae6_61_brimstone-2	Gon-9ae6_61_hibernation-14	Gon-9ae6_61_brimstone-2_5020	61	Gon-9ae6_61_hibernation-14_338	61	0	brimstone	Hibernation	100.0
+adaptation	Gon-9ae6_145_brimstone-4	Gon-9ae6_145_hibernation-7	Gon-9ae6_145_brimstone-4_5020	145	Gon-9ae6_145_hibernation-7_338	145	0	brimstone	Hibernation	100.0
+adaptation	Gon-252b_12_brimstone-2	Gon-252b_12_hibernation-14	Gon-252b_12_brimstone-2_5020	12	Gon-252b_12_hibernation-14_338	12	0	brimstone	Hibernation	100.0
+adaptation	Swa-32cf_104_Swallowtail-1	Swa-32cf_104_polymorphisms-12	Swa-32cf_104_Swallowtail-1_201	104	Swa-32cf_104_polymorphisms-12_3976	104	0	Swallowtail	polymorphism	100.0
+adaptation	Van-b9b9_39_lady-8	Van-b9b9_39_migration-10	Van-b9b9_39_lady-8_271	39	Van-b9b9_39_migration-10_3781	39	0	Painted lady	migration	100.0
+adaptation	Vana565_2_lady-19	Vana565_2_migration-21	Vana565_2_lady-19_3916	2	Vana565_2_migration-21_1	2	0	painted lady	Migration	100.0
+adaptation	Lep-f8ec_374_butterflies-43	Lep-f8ec_374_poisonous-6	Lep-f8ec_374_butterflies-43_5238	374	Lep-f8ec_374_poisonous-6_3973	374	0	monarch butterfly	poisonous	100.0
+adaptation	Lep-f8ec_374_butterfly-14	Lep-f8ec_374_poisonous-6	Lep-f8ec_374_butterfly-14_5238	374	Lep-f8ec_374_poisonous-6_3973	374	0	monarch butterfly	poisonous	100.0
+adaptation	Swa-32cf_102_swallowtail-27	Swa-32cf_102_polymorphism-15	Swa-32cf_102_swallowtail-27_3888	102	Swa-32cf_102_polymorphism-15_3976	102	0	swallowtail	polymorphism	100.0
+adaptation	Swa-32cf_102_swallowtail-3	Swa-32cf_102_polymorphism-15	Swa-32cf_102_swallowtail-3_3888	102	Swa-32cf_102_polymorphism-15_3976	102	0	swallowtail	polymorphism	100.0
+adaptation	Pie-14e4_108_brassicae-2	Pie-14e4_108_Hibernation-6	Pie-14e4_108_brassicae-2_2661	108	Pie-14e4_108_Hibernation-6_338	108	0	Pieris brassicae	Hibernation	87.0
+adaptation	Van-b9b9_141_cardui-19	Van-b9b9_141_migration-8	Van-b9b9_141_cardui-19_272	141	Van-b9b9_141_migration-8_1	141	0	Vanessa cardui	Migration	87.0
+adaptation	Pie-14e4_100_whites-3	Pie-14e4_100_migration-20	Pie-14e4_100_whites-3_2664	100	Pie-14e4_100_migration-20_3781	100	0	Large white	migration	83.0
+adaptation	Pie-14e4_8_white-3	Pie-14e4_8_migrations-18	Pie-14e4_8_white-3_5154	8	Pie-14e4_8_migrations-18_3781	8	0	large white	migration	83.0
+adaptation	Lar-fa32_129_blue-9	Lar-fa32_129_mimicry-3	Lar-fa32_129_blue-9_5150	129	Lar-fa32_129_mimicry-3_3963	129	0	large blue	mimicry	83.0
+adaptation	Met-e231_47_butterfly-9	Met-e231_47_metamorphosis-4	Met-e231_47_butterfly-9_2662	47	Met-e231_47_metamorphosis-4_3962	47	0	Cabbage butterfly	metamorphosis	83.0
+adaptation	Lep-f8ec_10_butterflies-6	Lep-f8ec_10_metamorphosis-16	Lep-f8ec_10_butterflies-6_5170	10	Lep-f8ec_10_metamorphosis-16_3962	10	0	butterflies and moths	metamorphosis	66.0
+adaptation	Fly-ac51_21_Lepidoptera-13	Fly-ac51_20_metamorphosis-9	Fly-ac51_21_Lepidoptera-13_2698	21	Fly-ac51_20_metamorphosis-9_3962	20	1	Lepidoptera	metamorphosis	50.0
+adaptation	Lep-f8ec_169_Lepidoptera-1	Lep-f8ec_170_metamorphosis-9	Lep-f8ec_169_Lepidoptera-1_2698	169	Lep-f8ec_170_metamorphosis-9_3962	170	1	Lepidoptera	metamorphosis	50.0
+adaptation	Lar-fa32_109_butterfly-9	Lar-fa32_110_mimicry-16	Lar-fa32_109_butterfly-9_5149	109	Lar-fa32_110_mimicry-16_3963	110	1	large blue butterfly	mimicry	50.0
+adaptation	Agl-fec0_62_butterfly-3	Agl-fec0_63_camouflage-4	Agl-fec0_62_butterfly-3_5119	62	Agl-fec0_63_camouflage-4_3947	63	1	peacock butterfly	camouflage	50.0
+adaptation	Lar-fa32_132_butterflies-12	Lar-fa32_133_mimicry-3	Lar-fa32_132_butterflies-12_5149	132	Lar-fa32_133_mimicry-3_3963	133	1	large blue butterfly	mimicry	50.0
+adaptation	Lep-f8ec_331_lady-10	Lep-f8ec_330_migrations-6	Lep-f8ec_331_lady-10_271	331	Lep-f8ec_330_migrations-6_3781	330	1	Painted lady	migration	50.0
+adaptation	Swa-32cf_101_Swallowtails-1	Swa-32cf_102_polymorphism-15	Swa-32cf_101_Swallowtails-1_201	101	Swa-32cf_102_polymorphism-15_3976	102	1	Swallowtail	polymorphism	50.0
+adaptation	Lep-f8ec_331_lady-10	Lep-f8ec_332_migrations-6	Lep-f8ec_331_lady-10_271	331	Lep-f8ec_332_migrations-6_3781	332	1	Painted lady	migration	50.0
+adaptation	Vana565_2_lady-19	Vana565_3_migration-2	Vana565_2_lady-19_3916	2	Vana565_3_migration-2_1	3	1	painted lady	Migration	50.0
+adaptation	Mon-6a24_80_butterfly-2	Mon-6a24_79_migration-7	Mon-6a24_80_butterfly-2_2859	80	Mon-6a24_79_migration-7_1	79	1	Monarch butterfly	Migration	50.0
+adaptation	Hig-0cdf_50_fritillary-3	Hig-0cdf_49_metamorphosis-15	Hig-0cdf_50_fritillary-3_5094	50	Hig-0cdf_49_metamorphosis-15_3962	49	1	high brown fritillary	metamorphosis	50.0
+adaptation	Van-b9b9_39_lady-8	Van-b9b9_40_migration-12	Van-b9b9_39_lady-8_271	39	Van-b9b9_40_migration-12_1	40	1	Painted lady	Migration	50.0
+adaptation	Van-b9b9_44_cardui-2	Van-b9b9_45_migration-6	Van-b9b9_44_cardui-2_272	44	Van-b9b9_45_migration-6_1	45	1	Vanessa cardui	Migration	43.5
+adaptation	Pie-14e4_108_brassicae-2	Pie-14e4_107_migrations-41	Pie-14e4_108_brassicae-2_2661	108	Pie-14e4_107_migrations-41_3781	107	1	Pieris brassicae	migration	43.5
+adaptation	Pie-14e4_19_brassicae-2	Pie-14e4_20_moultings-6	Pie-14e4_19_brassicae-2_2661	19	Pie-14e4_20_moultings-6_3965	20	1	Pieris brassicae	moulting	43.5
+adaptation	Lep-f8ec_348_butterflies-3	Lep-f8ec_347_communication-20	Lep-f8ec_348_butterflies-3_2662	348	Lep-f8ec_347_communication-20_17	347	1	Cabbage butterfly	Visual communication	41.5
+adaptation	Pie-14e4_100_whites-3	Pie-14e4_101_migration-11	Pie-14e4_100_whites-3_5154	100	Pie-14e4_101_migration-11_3781	101	1	large white	migration	41.5
+adaptation	Pie-14e4_102_whites-3	Pie-14e4_101_migration-11	Pie-14e4_102_whites-3_5154	102	Pie-14e4_101_migration-11_1	101	1	large white	Migration	41.5
+adaptation	Pie-14e4_9_white-6	Pie-14e4_8_migrations-18	Pie-14e4_9_white-6_2664	9	Pie-14e4_8_migrations-18_3781	8	1	Large white	migration	41.5
+adaptation	Lar-fa32_134_blue-20	Lar-fa32_133_mimicry-3	Lar-fa32_134_blue-20_5150	134	Lar-fa32_133_mimicry-3_3963	133	1	large blue	mimicry	41.5
+adaptation	Pie-14e4_103_whites-5	Pie-14e4_104_migration-4	Pie-14e4_103_whites-5_5154	103	Pie-14e4_104_migration-4_3781	104	1	large white	migration	41.5
+adaptation	Gon-9ae6_57_brimstone-3	Gon-9ae6_58_hibernation-4	Gon-9ae6_57_brimstone-3_5022	57	Gon-9ae6_58_hibernation-4_3959	58	1	common brimstone	hibernation	41.5
+adaptation	Lep-f8ec_348_butterflies-3	Lep-f8ec_347_camouflage-13	Lep-f8ec_348_butterflies-3_2662	348	Lep-f8ec_347_camouflage-13_3947	347	1	Cabbage butterfly	camouflage	41.5
+adaptation	Met-e231_47_butterfly-9	Met-e231_48_Metamorphosis-1	Met-e231_47_butterfly-9_2662	47	Met-e231_48_Metamorphosis-1_343	48	1	Cabbage butterfly	Metamorphosis	41.5
+adaptation	Lep-f8ec_17_Lepidopterans-1	Lep-f8ec_16_metamorphosis-7	Lep-f8ec_17_Lepidopterans-1_2699	17	Lep-f8ec_16_metamorphosis-7_3962	16	1	Lepidopterans	metamorphosis	41.5
+adaptation	Lep-f8ec_331_lady-10	Lep-f8ec_333_Migrations-1	Lep-f8ec_331_lady-10_271	331	Lep-f8ec_333_Migrations-1_3781	333	2	Painted lady	migration	33.333
+adaptation	Swa-32cf_100_Swallowtail-1	Swa-32cf_102_polymorphism-15	Swa-32cf_100_Swallowtail-1_201	100	Swa-32cf_102_polymorphism-15_3976	102	2	Swallowtail	polymorphism	33.333
+adaptation	Lep-f8ec_328_lady-14	Lep-f8ec_330_migrations-6	Lep-f8ec_328_lady-14_3916	328	Lep-f8ec_330_migrations-6_1	330	2	painted lady	Migration	33.333
+adaptation	Lep-f8ec_328_lady-14	Lep-f8ec_326_migration-2	Lep-f8ec_328_lady-14_3916	328	Lep-f8ec_326_migration-2_1	326	2	painted lady	Migration	33.333
+adaptation	Van-b9b9_39_lady-8	Van-b9b9_37_migration-6	Van-b9b9_39_lady-8_271	39	Van-b9b9_37_migration-6_3781	37	2	Painted lady	migration	33.333
+adaptation	Mar-9812_2_fritillary-3	Mar-9812_4_hibernation-17	Mar-9812_2_fritillary-3_5223	2	Mar-9812_4_hibernation-17_338	4	2	marsh fritillary	Hibernation	33.333
+adaptation	Van-b9b9_39_lady-8	Van-b9b9_41_migration-18	Van-b9b9_39_lady-8_271	39	Van-b9b9_41_migration-18_3781	41	2	Painted lady	migration	33.333
+adaptation	Lep-f8ec_328_lady-11	Lep-f8ec_326_migration-2	Lep-f8ec_328_lady-11_3916	328	Lep-f8ec_326_migration-2_1	326	2	painted lady	Migration	33.333
+adaptation	Lep-f8ec_328_lady-11	Lep-f8ec_330_migrations-6	Lep-f8ec_328_lady-11_3916	328	Lep-f8ec_330_migrations-6_1	330	2	painted lady	Migration	33.333
+adaptation	Swa-32cf_104_Swallowtail-1	Swa-32cf_102_polymorphism-15	Swa-32cf_104_Swallowtail-1_201	104	Swa-32cf_102_polymorphism-15_3976	102	2	Swallowtail	polymorphism	33.333
+adaptation	Mon-6a24_218_butterfly-2	Mon-6a24_220_poisonous-31	Mon-6a24_218_butterfly-2_2859	218	Mon-6a24_220_poisonous-31_3973	220	2	Monarch butterfly	poisonous	33.333
+adaptation	Pie-14e4_108_brassicae-2	Pie-14e4_106_migration-21	Pie-14e4_108_brassicae-2_2661	108	Pie-14e4_106_migration-21_3781	106	2	Pieris brassicae	migration	29.0
+adaptation	Mar-9812_2_aurinia-6	Mar-9812_4_hibernation-17	Mar-9812_2_aurinia-6_2823	2	Mar-9812_4_hibernation-17_338	4	2	Euphydryas aurinia	Hibernation	29.0
+adaptation	Pie-14e4_98_brassicae-2	Pie-14e4_100_migration-20	Pie-14e4_98_brassicae-2_2661	98	Pie-14e4_100_migration-20_3781	100	2	Pieris brassicae	migration	29.0
+adaptation	Van-b9b9_139_cardui-2	Van-b9b9_141_migration-8	Van-b9b9_139_cardui-2_272	139	Van-b9b9_141_migration-8_1	141	2	Vanessa cardui	Migration	29.0
+adaptation	Van-b9b9_98_cardui-2	Van-b9b9_100_camouflage-12	Van-b9b9_98_cardui-2_272	98	Van-b9b9_100_camouflage-12_3947	100	2	Vanessa cardui	camouflage	29.0
+adaptation	Van-b9b9_102_cardui-2	Van-b9b9_100_camouflage-12	Van-b9b9_102_cardui-2_272	102	Van-b9b9_100_camouflage-12_3947	100	2	Vanessa cardui	camouflage	29.0
+adaptation	Gon-9ae6_170_brimstone-4	Gon-9ae6_168_hibernation-24	Gon-9ae6_170_brimstone-4_5022	170	Gon-9ae6_168_hibernation-24_338	168	2	common brimstone	Hibernation	27.667
+adaptation	Met-e231_47_butterfly-9	Met-e231_49_Metamorphosis-1	Met-e231_47_butterfly-9_2662	47	Met-e231_49_Metamorphosis-1_343	49	2	Cabbage butterfly	Metamorphosis	27.667
+adaptation	Lar-fa32_132_butterflies-12	Lar-fa32_129_mimicry-3	Lar-fa32_132_butterflies-12_5149	132	Lar-fa32_129_mimicry-3_3963	129	3	large blue butterfly	mimicry	25.0
+adaptation	Lep-f8ec_374_butterflies-43	Lep-f8ec_377_poisonous-4	Lep-f8ec_374_butterflies-43_5238	374	Lep-f8ec_377_poisonous-4_3973	377	3	monarch butterfly	poisonous	25.0
+adaptation	Mar-9812_2_fritillary-3	Mar-9812_5_hibernation-19	Mar-9812_2_fritillary-3_5223	2	Mar-9812_5_hibernation-19_3959	5	3	marsh fritillary	hibernation	25.0
+adaptation	Hig-0cdf_46_fritillary-3	Hig-0cdf_49_metamorphosis-15	Hig-0cdf_46_fritillary-3_5094	46	Hig-0cdf_49_metamorphosis-15_3962	49	3	high brown fritillary	metamorphosis	25.0
+adaptation	Mar-9812_2_fritillary-3	Mar-9812_5_hibernation-35	Mar-9812_2_fritillary-3_5223	2	Mar-9812_5_hibernation-35_338	5	3	marsh fritillary	Hibernation	25.0
+adaptation	Monf9cd_7_butterflies-5	Monf9cd_4_poisonous-28	Monf9cd_7_butterflies-5_5238	7	Monf9cd_4_poisonous-28_3973	4	3	monarch butterfly	poisonous	25.0
+adaptation	Ins-960c_383_butterfly-25	Ins-960c_386_poisonous-4	Ins-960c_383_butterfly-25_5238	383	Ins-960c_386_poisonous-4_3973	386	3	monarch butterfly	poisonous	25.0
+adaptation	Lep-f8ec_374_butterfly-14	Lep-f8ec_377_poisonous-4	Lep-f8ec_374_butterfly-14_5238	374	Lep-f8ec_377_poisonous-4_3973	377	3	monarch butterfly	poisonous	25.0
+adaptation	Swa-32cf_99_Swallowtail-1	Swa-32cf_102_polymorphism-15	Swa-32cf_99_Swallowtail-1_201	99	Swa-32cf_102_polymorphism-15_3976	102	3	Swallowtail	polymorphism	25.0
+adaptation	Swa-32cf_114_Swallowtail-1	Swa-32cf_111_polymorphisms-3	Swa-32cf_114_Swallowtail-1_201	114	Swa-32cf_111_polymorphisms-3_3976	111	3	Swallowtail	polymorphism	25.0
+adaptation	Van-b9b9_39_lady-8	Van-b9b9_36_migrations-29	Van-b9b9_39_lady-8_271	39	Van-b9b9_36_migrations-29_3781	36	3	Painted lady	migration	25.0
+adaptation	Lep-f8ec_331_lady-10	Lep-f8ec_334_migrations-4	Lep-f8ec_331_lady-10_271	331	Lep-f8ec_334_migrations-4_3781	334	3	Painted lady	migration	25.0
+adaptation	Lep-f8ec_173_Lepidoptera-1	Lep-f8ec_170_metamorphosis-9	Lep-f8ec_173_Lepidoptera-1_2698	173	Lep-f8ec_170_metamorphosis-9_3962	170	3	Lepidoptera	metamorphosis	25.0
+adaptation	Swa-32cf_114_Swallowtail-1	Swa-32cf_117_polymorphism-12	Swa-32cf_114_Swallowtail-1_201	114	Swa-32cf_117_polymorphism-12_3976	117	3	Swallowtail	polymorphism	25.0
+adaptation	Swa-32cf_101_Swallowtails-1	Swa-32cf_104_polymorphisms-12	Swa-32cf_101_Swallowtails-1_201	101	Swa-32cf_104_polymorphisms-12_3976	104	3	Swallowtail	polymorphism	25.0
+adaptation	Pie-14e4_33_brassicae-2	Pie-14e4_36_camouflage-14	Pie-14e4_33_brassicae-2_2661	33	Pie-14e4_36_camouflage-14_3947	36	3	Pieris brassicae	camouflage	21.75
+adaptation	Pie-14e4_5_brassicae-2	Pie-14e4_8_migrations-18	Pie-14e4_5_brassicae-2_2661	5	Pie-14e4_8_migrations-18_3781	8	3	Pieris brassicae	migration	21.75
+adaptation	Pie-14e4_111_brassicae-2	Pie-14e4_108_Hibernation-6	Pie-14e4_111_brassicae-2_2661	111	Pie-14e4_108_Hibernation-6_338	108	3	Pieris brassicae	Hibernation	21.75
+adaptation	Van-b9b9_44_cardui-2	Van-b9b9_41_migration-18	Van-b9b9_44_cardui-2_272	44	Van-b9b9_41_migration-18_3781	41	3	Vanessa cardui	migration	21.75
+adaptation	Pie-14e4_39_brassicae-2	Pie-14e4_36_camouflage-14	Pie-14e4_39_brassicae-2_2661	39	Pie-14e4_36_camouflage-14_3947	36	3	Pieris brassicae	camouflage	21.75
+adaptation	Mar-9812_2_aurinia-6	Mar-9812_5_hibernation-35	Mar-9812_2_aurinia-6_2823	2	Mar-9812_5_hibernation-35_3959	5	3	Euphydryas aurinia	hibernation	21.75
+adaptation	Mar-9812_2_aurinia-6	Mar-9812_5_hibernation-19	Mar-9812_2_aurinia-6_2823	2	Mar-9812_5_hibernation-19_3959	5	3	Euphydryas aurinia	hibernation	21.75
+adaptation	Pie-14e4_97_brassicae-2	Pie-14e4_100_migration-20	Pie-14e4_97_brassicae-2_2661	97	Pie-14e4_100_migration-20_1	100	3	Pieris brassicae	Migration	21.75
+adaptation	Pie-14e4_98_brassicae-2	Pie-14e4_101_migration-11	Pie-14e4_98_brassicae-2_2661	98	Pie-14e4_101_migration-11_1	101	3	Pieris brassicae	Migration	21.75
+adaptation	Vana565_6_cosmopolitan-3	Vana565_3_migration-2	Vana565_6_cosmopolitan-3_3917	6	Vana565_3_migration-2_3781	3	3	cosmopolitan	migration	20.75
+adaptation	Pie-14e4_17_white-3	Pie-14e4_20_moultings-6	Pie-14e4_17_white-3_5154	17	Pie-14e4_20_moultings-6_3965	20	3	large white	moulting	20.75
+adaptation	Mar-9812_2_fritillary-3	Mar-9812_6_layers-46	Mar-9812_2_fritillary-3_5223	2	Mar-9812_6_layers-46_3968	6	4	marsh fritillary	egg layer	20.0
+adaptation	Mar-9812_2_fritillary-3	Mar-9812_6_layers-17	Mar-9812_2_fritillary-3_5223	2	Mar-9812_6_layers-17_3968	6	4	marsh fritillary	egg layer	20.0
+adaptation	Mar-9812_2_fritillary-3	Mar-9812_6_layers-32	Mar-9812_2_fritillary-3_5223	2	Mar-9812_6_layers-32_3968	6	4	marsh fritillary	egg layer	20.0
+adaptation	Lep-f8ec_374_butterfly-14	Lep-f8ec_378_poisonous-8	Lep-f8ec_374_butterfly-14_5238	374	Lep-f8ec_378_poisonous-8_3973	378	4	monarch butterfly	poisonous	20.0
+adaptation	Lep-f8ec_374_butterflies-43	Lep-f8ec_378_poisonous-8	Lep-f8ec_374_butterflies-43_5238	374	Lep-f8ec_378_poisonous-8_3973	378	4	monarch butterfly	poisonous	20.0
+adaptation	Swa-32cf_100_Swallowtail-1	Swa-32cf_104_polymorphisms-12	Swa-32cf_100_Swallowtail-1_201	100	Swa-32cf_104_polymorphisms-12_3976	104	4	Swallowtail	polymorphism	20.0
+adaptation	Swa-32cf_114_Swallowtail-1	Swa-32cf_118_polymorphism-2	Swa-32cf_114_Swallowtail-1_201	114	Swa-32cf_118_polymorphism-2_3976	118	4	Swallowtail	polymorphism	20.0
+adaptation	Pie-14e4_97_brassicae-2	Pie-14e4_101_migration-11	Pie-14e4_97_brassicae-2_2661	97	Pie-14e4_101_migration-11_3781	101	4	Pieris brassicae	migration	17.4
+adaptation	Mar-9812_2_aurinia-6	Mar-9812_6_layers-17	Mar-9812_2_aurinia-6_2823	2	Mar-9812_6_layers-17_3968	6	4	Euphydryas aurinia	egg layer	17.4
+adaptation	Mar-9812_2_aurinia-6	Mar-9812_6_layers-46	Mar-9812_2_aurinia-6_2823	2	Mar-9812_6_layers-46_3968	6	4	Euphydryas aurinia	egg layer	17.4
+adaptation	Pie-14e4_108_brassicae-2	Pie-14e4_104_migration-4	Pie-14e4_108_brassicae-2_2661	108	Pie-14e4_104_migration-4_3781	104	4	Pieris brassicae	migration	17.4
+adaptation	Pie-14e4_111_brassicae-2	Pie-14e4_107_migrations-41	Pie-14e4_111_brassicae-2_2661	111	Pie-14e4_107_migrations-41_3781	107	4	Pieris brassicae	migration	17.4
+adaptation	Mar-9812_2_aurinia-6	Mar-9812_6_layers-32	Mar-9812_2_aurinia-6_2823	2	Mar-9812_6_layers-32_3968	6	4	Euphydryas aurinia	egg layer	17.4
+adaptation	Hig-0cdf_44_fritillary-3	Hig-0cdf_49_metamorphosis-15	Hig-0cdf_44_fritillary-3_5094	44	Hig-0cdf_49_metamorphosis-15_3962	49	5	high brown fritillary	metamorphosis	16.667
+adaptation	Hum-85c3_58_moths-9	Hum-85c3_53_migration-20	Hum-85c3_58_moths-9_5201	58	Hum-85c3_53_migration-20_1	53	5	hummingbird hawk-moth	Migration	16.667
+adaptation	Vana565_6_cosmopolitan-3	Vana565_2_migration-21	Vana565_6_cosmopolitan-3_3917	6	Vana565_2_migration-21_3781	2	4	cosmopolitan	migration	16.6
+adaptation	Met-e231_47_butterfly-9	Met-e231_51_metamorphosis-4	Met-e231_47_butterfly-9_5152	47	Met-e231_51_metamorphosis-4_3962	51	4	cabbage butterfly	metamorphosis	16.6
+adaptation	Agl-fec0_25_peacock-8	Agl-fec0_29_territorial-4	Agl-fec0_25_peacock-8_2582	25	Agl-fec0_29_territorial-4_3985	29	4	European peacock	territorial	16.6
+adaptation	Lar-fa32_129_blue-9	Lar-fa32_133_mimicry-3	Lar-fa32_129_blue-9_2659	129	Lar-fa32_133_mimicry-3_3963	133	4	Large blue	mimicry	16.6
+adaptation	Lar-fa32_134_blue-20	Lar-fa32_138_Mimicry-10	Lar-fa32_134_blue-20_5150	134	Lar-fa32_138_Mimicry-10_344	138	4	large blue	Mimicry	16.6
+adaptation	Pie-14e4_105_butterflies-16	Pie-14e4_108_Hibernation-6	Pie-14e4_105_butterflies-16_5149	105	Pie-14e4_108_Hibernation-6_3959	108	3	large blue butterfly	hibernation	16.5
+adaptation	Lep-f8ec_7_butterflies-13	Lep-f8ec_10_metamorphosis-16	Lep-f8ec_7_butterflies-13_2697	7	Lep-f8ec_10_metamorphosis-16_3962	10	3	Butterflies and moths	metamorphosis	16.5
+adaptation	Pie-14e4_105_butterfly-7	Pie-14e4_108_Hibernation-6	Pie-14e4_105_butterfly-7_5149	105	Pie-14e4_108_Hibernation-6_338	108	3	large blue butterfly	Hibernation	16.5
+adaptation	Mel-ddca_43_galathea-2	Mel-ddca_38_hibernation-8	Mel-ddca_43_galathea-2_2815	43	Mel-ddca_38_hibernation-8_3959	38	5	Melanargia galathea	hibernation	14.5
+adaptation	Mel-ddca_33_galathea-2	Mel-ddca_38_hibernation-8	Mel-ddca_33_galathea-2_2815	33	Mel-ddca_38_hibernation-8_3959	38	5	Melanargia galathea	hibernation	14.5
+adaptation	Pie-14e4_111_brassicae-2	Pie-14e4_106_migration-21	Pie-14e4_111_brassicae-2_2661	111	Pie-14e4_106_migration-21_1	106	5	Pieris brassicae	Migration	14.5
+adaptation	Van-b9b9_105_cardui-2	Van-b9b9_100_camouflage-12	Van-b9b9_105_cardui-2_272	105	Van-b9b9_100_camouflage-12_3947	100	5	Vanessa cardui	camouflage	14.5
+adaptation	Pie-14e4_19_brassicae-2	Pie-14e4_24_moulting-3	Pie-14e4_19_brassicae-2_2661	19	Pie-14e4_24_moulting-3_3965	24	5	Pieris brassicae	moulting	14.5
+adaptation	Lar-fa32_132_butterflies-12	Lar-fa32_138_Mimicry-10	Lar-fa32_132_butterflies-12_5149	132	Lar-fa32_138_Mimicry-10_344	138	6	large blue butterfly	Mimicry	14.286
+adaptation	Pie-14e4_2_white-6	Pie-14e4_8_migrations-18	Pie-14e4_2_white-6_2660	2	Pie-14e4_8_migrations-18_1	8	6	Cabbage white	Migration	14.286
+adaptation	Pie-14e4_2_white-28	Pie-14e4_8_migrations-18	Pie-14e4_2_white-28_2660	2	Pie-14e4_8_migrations-18_1	8	6	Cabbage white	Migration	14.286
+adaptation	Lar-fa32_134_blue-20	Lar-fa32_129_mimicry-3	Lar-fa32_134_blue-20_2659	134	Lar-fa32_129_mimicry-3_3963	129	5	Large blue	mimicry	13.833
+adaptation	Lar-fa32_86_blue-23	Lar-fa32_81_mimicry-22	Lar-fa32_86_blue-23_2659	86	Lar-fa32_81_mimicry-22_3963	81	5	Large blue	mimicry	13.833
+adaptation	Mon-6a24_2_butterfly-14	Mon-6a24_7_migration-17	Mon-6a24_2_butterfly-14_5239	2	Mon-6a24_7_migration-17_3781	7	5	milkweed butterfly	migration	13.833
+adaptation	Pie-14e4_15_white-30	Pie-14e4_20_moultings-6	Pie-14e4_15_white-30_5154	15	Pie-14e4_20_moultings-6_3965	20	5	large white	moulting	13.833
+adaptation	Mon-6a24_2_butterfly-3	Mon-6a24_7_migration-17	Mon-6a24_2_butterfly-3_5239	2	Mon-6a24_7_migration-17_1	7	5	milkweed butterfly	Migration	13.833
+adaptation	Pie-14e4_103_whites-5	Pie-14e4_108_Hibernation-6	Pie-14e4_103_whites-5_5154	103	Pie-14e4_108_Hibernation-6_3959	108	5	large white	hibernation	13.833
+adaptation	Met-e231_47_butterfly-9	Met-e231_42_metamorphosis-9	Met-e231_47_butterfly-9_5152	47	Met-e231_42_metamorphosis-9_3962	42	5	cabbage butterfly	metamorphosis	13.833
+adaptation	Met-e231_47_butterfly-9	Met-e231_52_Metamorphosis-1	Met-e231_47_butterfly-9_5152	47	Met-e231_52_Metamorphosis-1_343	52	5	cabbage butterfly	Metamorphosis	13.833
+adaptation	Hig-0cdf_56_fritillary-3	Hig-0cdf_49_metamorphosis-15	Hig-0cdf_56_fritillary-3_2529	56	Hig-0cdf_49_metamorphosis-15_3962	49	7	High brown fritillary	metamorphosis	12.5
+adaptation	Gon3c4c_10_Brimstone-7	Gon3c4c_3_Hibernation-28	Gon3c4c_10_Brimstone-7_2389	10	Gon3c4c_3_Hibernation-28_3959	3	7	Brimstone	hibernation	12.5
+adaptation	Mel-ddca_45_white-3	Mel-ddca_38_hibernation-8	Mel-ddca_45_white-3_5220	45	Mel-ddca_38_hibernation-8_338	38	7	marbled white	Hibernation	12.5
+adaptation	Van-b9b9_94_cardui-2	Van-b9b9_100_camouflage-12	Van-b9b9_94_cardui-2_272	94	Van-b9b9_100_camouflage-12_3947	100	6	Vanessa cardui	camouflage	12.429
+adaptation	Met-e231_47_butterfly-9	Met-e231_41_metamorphosis-25	Met-e231_47_butterfly-9_5152	47	Met-e231_41_metamorphosis-25_3962	41	6	cabbage butterfly	metamorphosis	11.857
+adaptation	Pie-14e4_113_butterflies-26	Pie-14e4_108_Hibernation-6	Pie-14e4_113_butterflies-26_5149	113	Pie-14e4_108_Hibernation-6_3959	108	5	large blue butterfly	hibernation	11.0
+adaptation	Met-e231_47_butterfly-9	Met-e231_40_metamorphosis-32	Met-e231_47_butterfly-9_5152	47	Met-e231_40_metamorphosis-32_3962	40	7	cabbage butterfly	metamorphosis	10.375
+adaptation	Lep-f8ec_17_Lepidopterans-1	Lep-f8ec_10_metamorphosis-16	Lep-f8ec_17_Lepidopterans-1_2699	17	Lep-f8ec_10_metamorphosis-16_3962	10	7	Lepidopterans	metamorphosis	10.375
+adaptation	Mel-ddca_29_white-10	Mel-ddca_38_hibernation-8	Mel-ddca_29_white-10_5220	29	Mel-ddca_38_hibernation-8_338	38	9	marbled white	Hibernation	10.0
+adaptation	Hig-0cdf_58_fritillary-3	Hig-0cdf_49_metamorphosis-15	Hig-0cdf_58_fritillary-3_2529	58	Hig-0cdf_49_metamorphosis-15_3962	49	9	High brown fritillary	metamorphosis	10.0
+adaptation	Mel-ddca_46_galathea-2	Mel-ddca_38_hibernation-8	Mel-ddca_46_galathea-2_2815	46	Mel-ddca_38_hibernation-8_3959	38	8	Melanargia galathea	hibernation	9.667
+adaptation	Van-b9b9_108_cardui-2	Van-b9b9_100_camouflage-12	Van-b9b9_108_cardui-2_272	108	Van-b9b9_100_camouflage-12_3947	100	8	Vanessa cardui	camouflage	9.667
+adaptation	Met-e231_47_butterfly-9	Met-e231_55_metamorphosis-2	Met-e231_47_butterfly-9_2662	47	Met-e231_55_metamorphosis-2_3962	55	8	Cabbage butterfly	metamorphosis	9.222
+adaptation	Agl-fec0_25_peacock-8	Agl-fec0_17_territorial-5	Agl-fec0_25_peacock-8_2582	25	Agl-fec0_17_territorial-5_3985	17	8	European peacock	territorial	9.222
+adaptation	Lar-fa32_129_blue-9	Lar-fa32_121_mimicry-10	Lar-fa32_129_blue-9_2659	129	Lar-fa32_121_mimicry-10_3963	121	8	Large blue	mimicry	9.222
+adaptation	Met-e231_47_butterfly-9	Met-e231_39_metamorphosis-21	Met-e231_47_butterfly-9_2662	47	Met-e231_39_metamorphosis-21_3962	39	8	Cabbage butterfly	metamorphosis	9.222
+adaptation	Swa-71c0_51_cosmopolitan-6	Swa-71c0_59_migrations-22	Swa-71c0_51_cosmopolitan-6_3917	51	Swa-71c0_59_migrations-22_3781	59	8	cosmopolitan	migration	9.222
+adaptation	Lar-fa32_134_blue-20	Lar-fa32_142_mimicry-2	Lar-fa32_134_blue-20_5150	134	Lar-fa32_142_mimicry-2_3963	142	8	large blue	mimicry	9.222
+adaptation	Lar-fa32_148_butterfly-8	Lar-fa32_138_Mimicry-10	Lar-fa32_148_butterfly-8_2657	148	Lar-fa32_138_Mimicry-10_344	138	10	Large blue butterfly	Mimicry	9.091
+adaptation	Agl-fec0_7_butterfly-3	Agl-fec0_17_territorial-5	Agl-fec0_7_butterfly-3_5119	7	Agl-fec0_17_territorial-5_3985	17	10	peacock butterfly	territorial	9.091
+adaptation	Mel-ddca_47_galathea-2	Mel-ddca_38_hibernation-8	Mel-ddca_47_galathea-2_2815	47	Mel-ddca_38_hibernation-8_338	38	9	Melanargia galathea	Hibernation	8.7
+adaptation	Hig-0cdf_38_fritillary-3	Hig-0cdf_49_metamorphosis-15	Hig-0cdf_38_fritillary-3_5094	38	Hig-0cdf_49_metamorphosis-15_3962	49	11	high brown fritillary	metamorphosis	8.333
+adaptation	Agl-fec0_74_butterfly-17	Agl-fec0_63_camouflage-4	Agl-fec0_74_butterfly-17_5119	74	Agl-fec0_63_camouflage-4_3947	63	11	peacock butterfly	camouflage	8.333
+adaptation	Lar-fa32_129_blue-9	Lar-fa32_138_Mimicry-10	Lar-fa32_129_blue-9_2659	129	Lar-fa32_138_Mimicry-10_344	138	9	Large blue	Mimicry	8.3
+adaptation	Lar-fa32_134_blue-20	Lar-fa32_143_mimicry-15	Lar-fa32_134_blue-20_5150	134	Lar-fa32_143_mimicry-15_3963	143	9	large blue	mimicry	8.3
+adaptation	Camdcda_41_butterfly-5	Camdcda_29_camouflage-13	Camdcda_41_butterfly-5_2341	41	Camdcda_29_camouflage-13_3947	29	12	Gatekeeper butterfly	camouflage	7.692
+adaptation	Agl-fec0_5_butterfly-3	Agl-fec0_17_territorial-5	Agl-fec0_5_butterfly-3_5119	5	Agl-fec0_17_territorial-5_3985	17	12	peacock butterfly	territorial	7.692
+adaptation	Met-e231_47_butterfly-9	Met-e231_37_Metamorphosis-1	Met-e231_47_butterfly-9_5152	47	Met-e231_37_Metamorphosis-1_343	37	10	cabbage butterfly	Metamorphosis	7.545
+adaptation	Agl-fec0_77_butterfly-26	Agl-fec0_63_camouflage-4	Agl-fec0_77_butterfly-26_5119	77	Agl-fec0_63_camouflage-4_3947	63	14	peacock butterfly	camouflage	6.667
+adaptation	Pie-14e4_117_butterflies-3	Pie-14e4_108_Hibernation-6	Pie-14e4_117_butterflies-3_5149	117	Pie-14e4_108_Hibernation-6_3959	108	9	large blue butterfly	hibernation	6.6
+adaptation	Agl-fec0_25_peacock-8	Agl-fec0_37_territorial-7	Agl-fec0_25_peacock-8_2582	25	Agl-fec0_37_territorial-7_3985	37	12	European peacock	territorial	6.385
+adaptation	Lar-fa32_153_butterflies-7	Lar-fa32_138_Mimicry-10	Lar-fa32_153_butterflies-7_2657	153	Lar-fa32_138_Mimicry-10_344	138	15	Large blue butterfly	Mimicry	6.25
+adaptation	Agl-fec0_2_butterfly-16	Agl-fec0_17_territorial-5	Agl-fec0_2_butterfly-16_5119	2	Agl-fec0_17_territorial-5_3985	17	15	peacock butterfly	territorial	6.25
+adaptation	Agl-fec0_2_butterfly-11	Agl-fec0_17_territorial-5	Agl-fec0_2_butterfly-11_5119	2	Agl-fec0_17_territorial-5_3985	17	15	peacock butterfly	territorial	6.25
+adaptation	Met-e231_47_butterfly-9	Met-e231_60_metamorphosis-22	Met-e231_47_butterfly-9_2662	47	Met-e231_60_metamorphosis-22_3962	60	13	Cabbage butterfly	metamorphosis	5.929
+adaptation	Lep-f8ec_348_butterflies-3	Lep-f8ec_335_migrations-8	Lep-f8ec_348_butterflies-3_2662	348	Lep-f8ec_335_migrations-8_3781	335	13	Cabbage butterfly	migration	5.929
+taxongroup	Pap-75c9_22_swallowtail-30	Pap-75c9_22_Papilio-12	Pap-75c9_22_swallowtail-30_3888	22	Pap-75c9_22_Papilio-12_1191	22	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-41	Pap-75c9_62_Papilio-42	Pap-75c9_62_swallowtail-41_3888	62	Pap-75c9_62_Papilio-42_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-108	Pap-75c9_48_Papilio-54	Pap-75c9_48_swallowtail-108_3888	48	Pap-75c9_48_Papilio-54_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-68	Pap-75c9_36_Papilio-40	Pap-75c9_36_swallowtail-68_3888	36	Pap-75c9_36_Papilio-40_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-77	Pap-75c9_31_Papilio-49	Pap-75c9_31_swallowtail-77_3888	31	Pap-75c9_31_Papilio-49_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-41	Pap-75c9_62_Papilio-34	Pap-75c9_62_swallowtail-41_3888	62	Pap-75c9_62_Papilio-34_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-66	Pap-75c9_43_Papilio-35	Pap-75c9_43_swallowtail-66_3888	43	Pap-75c9_43_Papilio-35_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-66	Pap-75c9_43_Papilio-50	Pap-75c9_43_swallowtail-66_3888	43	Pap-75c9_43_Papilio-50_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-66	Pap-75c9_43_Papilio-14	Pap-75c9_43_swallowtail-66_3888	43	Pap-75c9_43_Papilio-14_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-66	Pap-75c9_43_Papilio-2	Pap-75c9_43_swallowtail-66_3888	43	Pap-75c9_43_Papilio-2_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-108	Pap-75c9_48_Papilio-15	Pap-75c9_48_swallowtail-108_3888	48	Pap-75c9_48_Papilio-15_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-28	Pap-75c9_48_Papilio-8	Pap-75c9_48_swallowtail-28_3888	48	Pap-75c9_48_Papilio-8_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-41	Pap-75c9_62_Papilio-27	Pap-75c9_62_swallowtail-41_3888	62	Pap-75c9_62_Papilio-27_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-28	Pap-75c9_48_Papilio-41	Pap-75c9_48_swallowtail-28_3888	48	Pap-75c9_48_Papilio-41_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_30_swallowtail-6	Pap-75c9_30_Papilio-11	Pap-75c9_30_swallowtail-6_3888	30	Pap-75c9_30_Papilio-11_1191	30	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-41	Pap-75c9_62_Papilio-5	Pap-75c9_62_swallowtail-41_3888	62	Pap-75c9_62_Papilio-5_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-28	Pap-75c9_48_Papilio-20	Pap-75c9_48_swallowtail-28_3888	48	Pap-75c9_48_Papilio-20_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_4_swallowtail-45	Pap-75c9_4_Papilio-47	Pap-75c9_4_swallowtail-45_3888	4	Pap-75c9_4_Papilio-47_1191	4	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-28	Pap-75c9_48_Papilio-92	Pap-75c9_48_swallowtail-28_3888	48	Pap-75c9_48_Papilio-92_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-28	Pap-75c9_48_Papilio-64	Pap-75c9_48_swallowtail-28_3888	48	Pap-75c9_48_Papilio-64_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-108	Pap-75c9_48_Papilio-20	Pap-75c9_48_swallowtail-108_3888	48	Pap-75c9_48_Papilio-20_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-28	Pap-75c9_48_Papilio-54	Pap-75c9_48_swallowtail-28_3888	48	Pap-75c9_48_Papilio-54_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-57	Pap-75c9_43_Papilio-30	Pap-75c9_43_swallowtail-57_3888	43	Pap-75c9_43_Papilio-30_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-45	Pap-75c9_43_Papilio-50	Pap-75c9_43_swallowtail-45_3888	43	Pap-75c9_43_Papilio-50_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-45	Pap-75c9_43_Papilio-58	Pap-75c9_43_swallowtail-45_3888	43	Pap-75c9_43_Papilio-58_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-45	Pap-75c9_43_Papilio-67	Pap-75c9_43_swallowtail-45_3888	43	Pap-75c9_43_Papilio-67_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-108	Pap-75c9_48_Papilio-64	Pap-75c9_48_swallowtail-108_3888	48	Pap-75c9_48_Papilio-64_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-108	Pap-75c9_48_Papilio-8	Pap-75c9_48_swallowtail-108_3888	48	Pap-75c9_48_Papilio-8_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-108	Pap-75c9_48_Papilio-92	Pap-75c9_48_swallowtail-108_3888	48	Pap-75c9_48_Papilio-92_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-108	Pap-75c9_48_Papilio-97	Pap-75c9_48_swallowtail-108_3888	48	Pap-75c9_48_Papilio-97_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-58	Pap-75c9_29_Papilio-1	Pap-75c9_29_swallowtail-58_3888	29	Pap-75c9_29_Papilio-1_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_19_swallowtail-8	Pap-75c9_19_Papilio-9	Pap-75c9_19_swallowtail-8_3888	19	Pap-75c9_19_Papilio-9_1191	19	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-77	Pap-75c9_31_Papilio-31	Pap-75c9_31_swallowtail-77_3888	31	Pap-75c9_31_Papilio-31_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-58	Pap-75c9_29_Papilio-6	Pap-75c9_29_swallowtail-58_3888	29	Pap-75c9_29_Papilio-6_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_2_swallowtail-7	Pap-75c9_2_Papilio-1	Pap-75c9_2_swallowtail-7_3888	2	Pap-75c9_2_Papilio-1_1191	2	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_32_swallowtail-17	Pap-75c9_32_Papilio-32	Pap-75c9_32_swallowtail-17_3888	32	Pap-75c9_32_Papilio-32_1191	32	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-4	Pap-75c9_62_Papilio-27	Pap-75c9_62_swallowtail-4_3888	62	Pap-75c9_62_Papilio-27_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_32_swallowtail-17	Pap-75c9_32_Papilio-25	Pap-75c9_32_swallowtail-17_3888	32	Pap-75c9_32_Papilio-25_1191	32	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_32_swallowtail-17	Pap-75c9_32_Papilio-1	Pap-75c9_32_swallowtail-17_3888	32	Pap-75c9_32_Papilio-1_1191	32	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-58	Pap-75c9_29_Papilio-59	Pap-75c9_29_swallowtail-58_3888	29	Pap-75c9_29_Papilio-59_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-4	Pap-75c9_62_Papilio-15	Pap-75c9_62_swallowtail-4_3888	62	Pap-75c9_62_Papilio-15_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_22_swallowtail-11	Pap-75c9_22_Papilio-12	Pap-75c9_22_swallowtail-11_3888	22	Pap-75c9_22_Papilio-12_1191	22	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-108	Pap-75c9_48_Papilio-49	Pap-75c9_48_swallowtail-108_3888	48	Pap-75c9_48_Papilio-49_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-45	Pap-75c9_29_Papilio-59	Pap-75c9_29_swallowtail-45_3888	29	Pap-75c9_29_Papilio-59_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_77_swallowtail-28	Pap-75c9_77_Papilio-15	Pap-75c9_77_swallowtail-28_3888	77	Pap-75c9_77_Papilio-15_1191	77	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-72	Pap-75c9_71_Papilio-10	Pap-75c9_71_swallowtail-72_3888	71	Pap-75c9_71_Papilio-10_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-45	Pap-75c9_29_Papilio-6	Pap-75c9_29_swallowtail-45_3888	29	Pap-75c9_29_Papilio-6_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-28	Pap-75c9_48_Papilio-15	Pap-75c9_48_swallowtail-28_3888	48	Pap-75c9_48_Papilio-15_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-28	Pap-75c9_48_Papilio-126	Pap-75c9_48_swallowtail-28_3888	48	Pap-75c9_48_Papilio-126_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-28	Pap-75c9_48_Papilio-121	Pap-75c9_48_swallowtail-28_3888	48	Pap-75c9_48_Papilio-121_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-4	Pap-75c9_62_Papilio-22	Pap-75c9_62_swallowtail-4_3888	62	Pap-75c9_62_Papilio-22_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-28	Pap-75c9_48_Papilio-101	Pap-75c9_48_swallowtail-28_3888	48	Pap-75c9_48_Papilio-101_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_22_swallowtail-11	Pap-75c9_22_Papilio-31	Pap-75c9_22_swallowtail-11_3888	22	Pap-75c9_22_Papilio-31_1191	22	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_58_swallowtail-10	Pap-75c9_58_Papilio-1	Pap-75c9_58_swallowtail-10_3888	58	Pap-75c9_58_Papilio-1_1191	58	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-38	Pap-75c9_60_Papilio-1	Pap-75c9_60_swallowtail-38_3888	60	Pap-75c9_60_Papilio-1_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-38	Pap-75c9_60_Papilio-30	Pap-75c9_60_swallowtail-38_3888	60	Pap-75c9_60_Papilio-30_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_46_swallowtail-44	Pap-75c9_46_Papilio-7	Pap-75c9_46_swallowtail-44_3888	46	Pap-75c9_46_Papilio-7_1191	46	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_46_swallowtail-44	Pap-75c9_46_Papilio-45	Pap-75c9_46_swallowtail-44_3888	46	Pap-75c9_46_Papilio-45_1191	46	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_46_swallowtail-44	Pap-75c9_46_Papilio-27	Pap-75c9_46_swallowtail-44_3888	46	Pap-75c9_46_Papilio-27_1191	46	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_21_swallowtail-21	Pap-75c9_21_Papilio-13	Pap-75c9_21_swallowtail-21_3888	21	Pap-75c9_21_Papilio-13_1191	21	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_46_swallowtail-44	Pap-75c9_46_Papilio-19	Pap-75c9_46_swallowtail-44_3888	46	Pap-75c9_46_Papilio-19_1191	46	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_58_swallowtail-10	Pap-75c9_58_Papilio-33	Pap-75c9_58_swallowtail-10_3888	58	Pap-75c9_58_Papilio-33_1191	58	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_58_swallowtail-10	Pap-75c9_58_Papilio-38	Pap-75c9_58_swallowtail-10_3888	58	Pap-75c9_58_Papilio-38_1191	58	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_58_swallowtail-10	Pap-75c9_58_Papilio-43	Pap-75c9_58_swallowtail-10_3888	58	Pap-75c9_58_Papilio-43_1191	58	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_58_swallowtail-14	Pap-75c9_58_Papilio-15	Pap-75c9_58_swallowtail-14_3888	58	Pap-75c9_58_Papilio-15_1191	58	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-108	Pap-75c9_48_Papilio-3	Pap-75c9_48_swallowtail-108_3888	48	Pap-75c9_48_Papilio-3_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-108	Pap-75c9_48_Papilio-33	Pap-75c9_48_swallowtail-108_3888	48	Pap-75c9_48_Papilio-33_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-108	Pap-75c9_48_Papilio-126	Pap-75c9_48_swallowtail-108_3888	48	Pap-75c9_48_Papilio-126_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_5_swallowtail-46	Pap-75c9_5_Papilio-50	Pap-75c9_5_swallowtail-46_3888	5	Pap-75c9_5_Papilio-50_1191	5	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_58_swallowtail-14	Pap-75c9_58_Papilio-25	Pap-75c9_58_swallowtail-14_3888	58	Pap-75c9_58_Papilio-25_1191	58	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-41	Pap-75c9_60_Papilio-42	Pap-75c9_60_swallowtail-41_3888	60	Pap-75c9_60_Papilio-42_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_5_swallowtail-46	Pap-75c9_5_Papilio-21	Pap-75c9_5_swallowtail-46_3888	5	Pap-75c9_5_Papilio-21_1191	5	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_5_swallowtail-46	Pap-75c9_5_Papilio-17	Pap-75c9_5_swallowtail-46_3888	5	Pap-75c9_5_Papilio-17_1191	5	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_5_swallowtail-46	Pap-75c9_5_Papilio-14	Pap-75c9_5_swallowtail-46_3888	5	Pap-75c9_5_Papilio-14_1191	5	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_58_swallowtail-14	Pap-75c9_58_Papilio-43	Pap-75c9_58_swallowtail-14_3888	58	Pap-75c9_58_Papilio-43_1191	58	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-41	Pap-75c9_60_Papilio-13	Pap-75c9_60_swallowtail-41_3888	60	Pap-75c9_60_Papilio-13_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_58_swallowtail-14	Pap-75c9_58_Papilio-38	Pap-75c9_58_swallowtail-14_3888	58	Pap-75c9_58_Papilio-38_1191	58	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_58_swallowtail-14	Pap-75c9_58_Papilio-20	Pap-75c9_58_swallowtail-14_3888	58	Pap-75c9_58_Papilio-20_1191	58	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-41	Pap-75c9_60_Papilio-1	Pap-75c9_60_swallowtail-41_3888	60	Pap-75c9_60_Papilio-1_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_58_swallowtail-14	Pap-75c9_58_Papilio-1	Pap-75c9_58_swallowtail-14_3888	58	Pap-75c9_58_Papilio-1_1191	58	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_46_swallowtail-44	Pap-75c9_46_Papilio-67	Pap-75c9_46_swallowtail-44_3888	46	Pap-75c9_46_Papilio-67_1191	46	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_46_swallowtail-44	Pap-75c9_46_Papilio-84	Pap-75c9_46_swallowtail-44_3888	46	Pap-75c9_46_Papilio-84_1191	46	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_5_swallowtails-31	Pap-75c9_5_Papilio-14	Pap-75c9_5_swallowtails-31_3888	5	Pap-75c9_5_Papilio-14_1191	5	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-28	Pap-75c9_48_Papilio-97	Pap-75c9_48_swallowtail-28_3888	48	Pap-75c9_48_Papilio-97_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-57	Pap-75c9_43_Papilio-21	Pap-75c9_43_swallowtail-57_3888	43	Pap-75c9_43_Papilio-21_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-57	Pap-75c9_43_Papilio-9	Pap-75c9_43_swallowtail-57_3888	43	Pap-75c9_43_Papilio-9_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-57	Pap-75c9_43_Papilio-67	Pap-75c9_43_swallowtail-57_3888	43	Pap-75c9_43_Papilio-67_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-57	Pap-75c9_43_Papilio-58	Pap-75c9_43_swallowtail-57_3888	43	Pap-75c9_43_Papilio-58_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-57	Pap-75c9_43_Papilio-50	Pap-75c9_43_swallowtail-57_3888	43	Pap-75c9_43_Papilio-50_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-66	Pap-75c9_43_Papilio-30	Pap-75c9_43_swallowtail-66_3888	43	Pap-75c9_43_Papilio-30_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-57	Pap-75c9_43_Papilio-35	Pap-75c9_43_swallowtail-57_3888	43	Pap-75c9_43_Papilio-35_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-57	Pap-75c9_43_Papilio-2	Pap-75c9_43_swallowtail-57_3888	43	Pap-75c9_43_Papilio-2_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-57	Pap-75c9_43_Papilio-14	Pap-75c9_43_swallowtail-57_3888	43	Pap-75c9_43_Papilio-14_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-66	Pap-75c9_43_Papilio-21	Pap-75c9_43_swallowtail-66_3888	43	Pap-75c9_43_Papilio-21_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-45	Pap-75c9_43_Papilio-9	Pap-75c9_43_swallowtail-45_3888	43	Pap-75c9_43_Papilio-9_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-28	Pap-75c9_48_Papilio-49	Pap-75c9_48_swallowtail-28_3888	48	Pap-75c9_48_Papilio-49_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-28	Pap-75c9_48_Papilio-3	Pap-75c9_48_swallowtail-28_3888	48	Pap-75c9_48_Papilio-3_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_46_swallowtail-44	Pap-75c9_46_Papilio-105	Pap-75c9_46_swallowtail-44_3888	46	Pap-75c9_46_Papilio-105_1191	46	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_46_swallowtail-44	Pap-75c9_46_Papilio-97	Pap-75c9_46_swallowtail-44_3888	46	Pap-75c9_46_Papilio-97_1191	46	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_58_swallowtail-14	Pap-75c9_58_Papilio-33	Pap-75c9_58_swallowtail-14_3888	58	Pap-75c9_58_Papilio-33_1191	58	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_5_swallowtail-46	Pap-75c9_5_Papilio-35	Pap-75c9_5_swallowtail-46_3888	5	Pap-75c9_5_Papilio-35_1191	5	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-41	Pap-75c9_60_Papilio-30	Pap-75c9_60_swallowtail-41_3888	60	Pap-75c9_60_Papilio-30_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_21_swallowtail-21	Pap-75c9_21_Papilio-22	Pap-75c9_21_swallowtail-21_3888	21	Pap-75c9_21_Papilio-22_1191	21	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-108	Pap-75c9_48_Papilio-121	Pap-75c9_48_swallowtail-108_3888	48	Pap-75c9_48_Papilio-121_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_46_swallowtail-44	Pap-75c9_46_Papilio-36	Pap-75c9_46_swallowtail-44_3888	46	Pap-75c9_46_Papilio-36_1191	46	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-108	Pap-75c9_48_Papilio-101	Pap-75c9_48_swallowtail-108_3888	48	Pap-75c9_48_Papilio-101_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_46_swallowtail-44	Pap-75c9_46_Papilio-92	Pap-75c9_46_swallowtail-44_3888	46	Pap-75c9_46_Papilio-92_1191	46	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-58	Pap-75c9_29_Papilio-17	Pap-75c9_29_swallowtail-58_3888	29	Pap-75c9_29_Papilio-17_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-4	Pap-75c9_62_Papilio-34	Pap-75c9_62_swallowtail-4_3888	62	Pap-75c9_62_Papilio-34_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-7	Pap-75c9_31_Papilio-49	Pap-75c9_31_swallowtail-7_3888	31	Pap-75c9_31_Papilio-49_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_32_swallowtail-43	Pap-75c9_32_Papilio-1	Pap-75c9_32_swallowtail-43_3888	32	Pap-75c9_32_Papilio-1_1191	32	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-30	Pap-75c9_31_Papilio-70	Pap-75c9_31_swallowtail-30_3888	31	Pap-75c9_31_Papilio-70_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-30	Pap-75c9_31_Papilio-78	Pap-75c9_31_swallowtail-30_3888	31	Pap-75c9_31_Papilio-78_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-30	Pap-75c9_31_Papilio-8	Pap-75c9_31_swallowtail-30_3888	31	Pap-75c9_31_Papilio-8_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-92	Pap-75c9_71_Papilio-84	Pap-75c9_71_swallowtail-92_3888	71	Pap-75c9_71_Papilio-84_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_22_swallowtail-30	Pap-75c9_22_Papilio-31	Pap-75c9_22_swallowtail-30_3888	22	Pap-75c9_22_Papilio-31_1191	22	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-30	Pap-75c9_31_Papilio-49	Pap-75c9_31_swallowtail-30_3888	31	Pap-75c9_31_Papilio-49_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-9	Pap-75c9_71_Papilio-1	Pap-75c9_71_swallowtail-9_3888	71	Pap-75c9_71_Papilio-1_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-43	Pap-75c9_31_Papilio-63	Pap-75c9_31_swallowtail-43_3888	31	Pap-75c9_31_Papilio-63_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-32	Pap-75c9_34_Papilio-13	Pap-75c9_34_swallowtail-32_3888	34	Pap-75c9_34_Papilio-13_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-34	Pap-75c9_29_Papilio-59	Pap-75c9_29_swallowtail-34_3888	29	Pap-75c9_29_Papilio-59_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-72	Pap-75c9_71_Papilio-63	Pap-75c9_71_swallowtail-72_3888	71	Pap-75c9_71_Papilio-63_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-72	Pap-75c9_71_Papilio-73	Pap-75c9_71_swallowtail-72_3888	71	Pap-75c9_71_Papilio-73_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-4	Pap-75c9_62_Papilio-42	Pap-75c9_62_swallowtail-4_3888	62	Pap-75c9_62_Papilio-42_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-34	Pap-75c9_29_Papilio-1	Pap-75c9_29_swallowtail-34_3888	29	Pap-75c9_29_Papilio-1_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-34	Pap-75c9_29_Papilio-35	Pap-75c9_29_swallowtail-34_3888	29	Pap-75c9_29_Papilio-35_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_32_swallowtail-43	Pap-75c9_32_Papilio-32	Pap-75c9_32_swallowtail-43_3888	32	Pap-75c9_32_Papilio-32_1191	32	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_32_swallowtail-43	Pap-75c9_32_Papilio-25	Pap-75c9_32_swallowtail-43_3888	32	Pap-75c9_32_Papilio-25_1191	32	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-34	Pap-75c9_29_Papilio-17	Pap-75c9_29_swallowtail-34_3888	29	Pap-75c9_29_Papilio-17_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-30	Pap-75c9_31_Papilio-63	Pap-75c9_31_swallowtail-30_3888	31	Pap-75c9_31_Papilio-63_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-34	Pap-75c9_29_Papilio-6	Pap-75c9_29_swallowtail-34_3888	29	Pap-75c9_29_Papilio-6_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-83	Pap-75c9_71_Papilio-54	Pap-75c9_71_swallowtail-83_3888	71	Pap-75c9_71_Papilio-54_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-83	Pap-75c9_71_Papilio-63	Pap-75c9_71_swallowtail-83_3888	71	Pap-75c9_71_Papilio-63_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-83	Pap-75c9_71_Papilio-73	Pap-75c9_71_swallowtail-83_3888	71	Pap-75c9_71_Papilio-73_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-43	Pap-75c9_31_Papilio-44	Pap-75c9_31_swallowtail-43_3888	31	Pap-75c9_31_Papilio-44_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_32_swallowtail-47	Pap-75c9_32_Papilio-1	Pap-75c9_32_swallowtail-47_3888	32	Pap-75c9_32_Papilio-1_1191	32	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-7	Pap-75c9_31_Papilio-31	Pap-75c9_31_swallowtail-7_3888	31	Pap-75c9_31_Papilio-31_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-9	Pap-75c9_71_Papilio-73	Pap-75c9_71_swallowtail-9_3888	71	Pap-75c9_71_Papilio-73_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-9	Pap-75c9_71_Papilio-63	Pap-75c9_71_swallowtail-9_3888	71	Pap-75c9_71_Papilio-63_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-86	Pap-75c9_31_Papilio-78	Pap-75c9_31_swallowtail-86_3888	31	Pap-75c9_31_Papilio-78_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-86	Pap-75c9_31_Papilio-70	Pap-75c9_31_swallowtail-86_3888	31	Pap-75c9_31_Papilio-70_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-23	Pap-75c9_31_Papilio-31	Pap-75c9_31_swallowtail-23_3888	31	Pap-75c9_31_Papilio-31_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-c852_53_swallowtail-7	Pap-c852_53_Papilio-10	Pap-c852_53_swallowtail-7_3888	53	Pap-c852_53_Papilio-10_1191	53	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-12	Pap-75c9_34_Papilio-51	Pap-75c9_34_swallowtail-12_3888	34	Pap-75c9_34_Papilio-51_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-68	Pap-75c9_36_Papilio-45	Pap-75c9_36_swallowtail-68_3888	36	Pap-75c9_36_Papilio-45_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-77	Pap-75c9_31_Papilio-8	Pap-75c9_31_swallowtail-77_3888	31	Pap-75c9_31_Papilio-8_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-9	Pap-75c9_71_Papilio-42	Pap-75c9_71_swallowtail-9_3888	71	Pap-75c9_71_Papilio-42_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-43	Pap-75c9_31_Papilio-70	Pap-75c9_31_swallowtail-43_3888	31	Pap-75c9_31_Papilio-70_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-9	Pap-75c9_71_Papilio-34	Pap-75c9_71_swallowtail-9_3888	71	Pap-75c9_71_Papilio-34_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-77	Pap-75c9_31_Papilio-54	Pap-75c9_31_swallowtail-77_3888	31	Pap-75c9_31_Papilio-54_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-77	Pap-75c9_31_Papilio-63	Pap-75c9_31_swallowtail-77_3888	31	Pap-75c9_31_Papilio-63_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-77	Pap-75c9_31_Papilio-70	Pap-75c9_31_swallowtail-77_3888	31	Pap-75c9_31_Papilio-70_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-77	Pap-75c9_31_Papilio-78	Pap-75c9_31_swallowtail-77_3888	31	Pap-75c9_31_Papilio-78_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-9	Pap-75c9_71_Papilio-23	Pap-75c9_71_swallowtail-9_3888	71	Pap-75c9_71_Papilio-23_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-43	Pap-75c9_31_Papilio-8	Pap-75c9_31_swallowtail-43_3888	31	Pap-75c9_31_Papilio-8_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-43	Pap-75c9_31_Papilio-78	Pap-75c9_31_swallowtail-43_3888	31	Pap-75c9_31_Papilio-78_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-9	Pap-75c9_71_Papilio-10	Pap-75c9_71_swallowtail-9_3888	71	Pap-75c9_71_Papilio-10_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-43	Pap-75c9_31_Papilio-54	Pap-75c9_31_swallowtail-43_3888	31	Pap-75c9_31_Papilio-54_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-43	Pap-75c9_31_Papilio-49	Pap-75c9_31_swallowtail-43_3888	31	Pap-75c9_31_Papilio-49_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-43	Pap-75c9_31_Papilio-31	Pap-75c9_31_swallowtail-43_3888	31	Pap-75c9_31_Papilio-31_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_32_swallowtail-47	Pap-75c9_32_Papilio-10	Pap-75c9_32_swallowtail-47_3888	32	Pap-75c9_32_Papilio-10_1191	32	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-9	Pap-75c9_71_Papilio-54	Pap-75c9_71_swallowtail-9_3888	71	Pap-75c9_71_Papilio-54_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-27	Pap-75c9_29_Papilio-6	Pap-75c9_29_swallowtail-27_3888	29	Pap-75c9_29_Papilio-6_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-72	Pap-75c9_71_Papilio-84	Pap-75c9_71_swallowtail-72_3888	71	Pap-75c9_71_Papilio-84_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-72	Pap-75c9_71_Papilio-42	Pap-75c9_71_swallowtail-72_3888	71	Pap-75c9_71_Papilio-42_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-38	Pap-75c9_60_Papilio-42	Pap-75c9_60_swallowtail-38_3888	60	Pap-75c9_60_Papilio-42_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-17	Pap-75c9_31_Papilio-49	Pap-75c9_31_swallowtail-17_3888	31	Pap-75c9_31_Papilio-49_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-83	Pap-75c9_71_Papilio-10	Pap-75c9_71_swallowtail-83_3888	71	Pap-75c9_71_Papilio-10_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-17	Pap-75c9_31_Papilio-63	Pap-75c9_31_swallowtail-17_3888	31	Pap-75c9_31_Papilio-63_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-17	Pap-75c9_31_Papilio-70	Pap-75c9_31_swallowtail-17_3888	31	Pap-75c9_31_Papilio-70_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-41	Pap-75c9_62_Papilio-15	Pap-75c9_62_swallowtail-41_3888	62	Pap-75c9_62_Papilio-15_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_27_swallowtail-10	Pap-75c9_27_Papilio-2	Pap-75c9_27_swallowtail-10_3888	27	Pap-75c9_27_Papilio-2_1191	27	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-83	Pap-75c9_71_Papilio-1	Pap-75c9_71_swallowtail-83_3888	71	Pap-75c9_71_Papilio-1_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-83	Pap-75c9_71_Papilio-42	Pap-75c9_71_swallowtail-83_3888	71	Pap-75c9_71_Papilio-42_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-17	Pap-75c9_31_Papilio-8	Pap-75c9_31_swallowtail-17_3888	31	Pap-75c9_31_Papilio-8_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-32	Pap-75c9_34_Papilio-18	Pap-75c9_34_swallowtail-32_3888	34	Pap-75c9_34_Papilio-18_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-32	Pap-75c9_34_Papilio-23	Pap-75c9_34_swallowtail-32_3888	34	Pap-75c9_34_Papilio-23_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-83	Pap-75c9_71_Papilio-84	Pap-75c9_71_swallowtail-83_3888	71	Pap-75c9_71_Papilio-84_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-23	Pap-75c9_31_Papilio-44	Pap-75c9_31_swallowtail-23_3888	31	Pap-75c9_31_Papilio-44_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-30	Pap-75c9_31_Papilio-54	Pap-75c9_31_swallowtail-30_3888	31	Pap-75c9_31_Papilio-54_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_77_swallowtail-28	Pap-75c9_77_Papilio-1	Pap-75c9_77_swallowtail-28_3888	77	Pap-75c9_77_Papilio-1_1191	77	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-17	Pap-75c9_31_Papilio-31	Pap-75c9_31_swallowtail-17_3888	31	Pap-75c9_31_Papilio-31_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-17	Pap-75c9_31_Papilio-78	Pap-75c9_31_swallowtail-17_3888	31	Pap-75c9_31_Papilio-78_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-83	Pap-75c9_71_Papilio-23	Pap-75c9_71_swallowtail-83_3888	71	Pap-75c9_71_Papilio-23_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-83	Pap-75c9_71_Papilio-34	Pap-75c9_71_swallowtail-83_3888	71	Pap-75c9_71_Papilio-34_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_73_swallowtail-8	Pap-75c9_73_Papilio-9	Pap-75c9_73_swallowtail-8_3888	73	Pap-75c9_73_Papilio-9_1191	73	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_73_swallowtail-8	Pap-75c9_73_Papilio-1	Pap-75c9_73_swallowtail-8_3888	73	Pap-75c9_73_Papilio-1_1191	73	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-108	Pap-75c9_48_Papilio-41	Pap-75c9_48_swallowtail-108_3888	48	Pap-75c9_48_Papilio-41_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-4	Pap-75c9_62_Papilio-5	Pap-75c9_62_swallowtail-4_3888	62	Pap-75c9_62_Papilio-5_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-17	Pap-75c9_31_Papilio-44	Pap-75c9_31_swallowtail-17_3888	31	Pap-75c9_31_Papilio-44_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-45	Pap-75c9_29_Papilio-35	Pap-75c9_29_swallowtail-45_3888	29	Pap-75c9_29_Papilio-35_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_32_swallowtail-47	Pap-75c9_32_Papilio-25	Pap-75c9_32_swallowtail-47_3888	32	Pap-75c9_32_Papilio-25_1191	32	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-45	Pap-75c9_29_Papilio-17	Pap-75c9_29_swallowtail-45_3888	29	Pap-75c9_29_Papilio-17_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-27	Pap-75c9_29_Papilio-59	Pap-75c9_29_swallowtail-27_3888	29	Pap-75c9_29_Papilio-59_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-9	Pap-75c9_71_Papilio-84	Pap-75c9_71_swallowtail-9_3888	71	Pap-75c9_71_Papilio-84_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-72	Pap-75c9_71_Papilio-54	Pap-75c9_71_swallowtail-72_3888	71	Pap-75c9_71_Papilio-54_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-72	Pap-75c9_71_Papilio-34	Pap-75c9_71_swallowtail-72_3888	71	Pap-75c9_71_Papilio-34_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-72	Pap-75c9_71_Papilio-23	Pap-75c9_71_swallowtail-72_3888	71	Pap-75c9_71_Papilio-23_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-7	Pap-75c9_31_Papilio-44	Pap-75c9_31_swallowtail-7_3888	31	Pap-75c9_31_Papilio-44_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-72	Pap-75c9_71_Papilio-1	Pap-75c9_71_swallowtail-72_3888	71	Pap-75c9_71_Papilio-1_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-16	Pap-75c9_29_Papilio-1	Pap-75c9_29_swallowtail-16_3888	29	Pap-75c9_29_Papilio-1_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-16	Pap-75c9_29_Papilio-35	Pap-75c9_29_swallowtail-16_3888	29	Pap-75c9_29_Papilio-35_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-16	Pap-75c9_29_Papilio-59	Pap-75c9_29_swallowtail-16_3888	29	Pap-75c9_29_Papilio-59_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-16	Pap-75c9_29_Papilio-6	Pap-75c9_29_swallowtail-16_3888	29	Pap-75c9_29_Papilio-6_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_7_swallowtails-35	Pap-75c9_7_Papilio-22	Pap-75c9_7_swallowtails-35_3888	7	Pap-75c9_7_Papilio-22_1191	7	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_32_swallowtail-47	Pap-75c9_32_Papilio-32	Pap-75c9_32_swallowtail-47_3888	32	Pap-75c9_32_Papilio-32_1191	32	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_32_swallowtail-43	Pap-75c9_32_Papilio-10	Pap-75c9_32_swallowtail-43_3888	32	Pap-75c9_32_Papilio-10_1191	32	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-27	Pap-75c9_29_Papilio-17	Pap-75c9_29_swallowtail-27_3888	29	Pap-75c9_29_Papilio-17_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-27	Pap-75c9_29_Papilio-35	Pap-75c9_29_swallowtail-27_3888	29	Pap-75c9_29_Papilio-35_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-27	Pap-75c9_29_Papilio-1	Pap-75c9_29_swallowtail-27_3888	29	Pap-75c9_29_Papilio-1_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-29	Pap-75c9_36_Papilio-1	Pap-75c9_36_swallowtail-29_3888	36	Pap-75c9_36_Papilio-1_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-30	Pap-75c9_38_Papilio-6	Pap-75c9_38_swallowtail-30_3888	38	Pap-75c9_38_Papilio-6_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-45	Pap-75c9_29_Papilio-1	Pap-75c9_29_swallowtail-45_3888	29	Pap-75c9_29_Papilio-1_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_19_swallowtail-8	Pap-75c9_19_Papilio-1	Pap-75c9_19_swallowtail-8_3888	19	Pap-75c9_19_Papilio-1_1191	19	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_32_swallowtail-17	Pap-75c9_32_Papilio-10	Pap-75c9_32_swallowtail-17_3888	32	Pap-75c9_32_Papilio-10_1191	32	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-17	Pap-75c9_31_Papilio-54	Pap-75c9_31_swallowtail-17_3888	31	Pap-75c9_31_Papilio-54_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-14	Pap-75c9_54_Papilio-73	Pap-75c9_54_swallowtail-14_3888	54	Pap-75c9_54_Papilio-73_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-14	Pap-75c9_54_Papilio-78	Pap-75c9_54_swallowtail-14_3888	54	Pap-75c9_54_Papilio-78_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-14	Pap-75c9_54_Papilio-83	Pap-75c9_54_swallowtail-14_3888	54	Pap-75c9_54_Papilio-83_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-41	Pap-75c9_38_Papilio-1	Pap-75c9_38_swallowtail-41_3888	38	Pap-75c9_38_Papilio-1_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-13	Pap-75c9_38_Papilio-34	Pap-75c9_38_swallowtail-13_3888	38	Pap-75c9_38_Papilio-34_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-13	Pap-75c9_38_Papilio-23	Pap-75c9_38_swallowtail-13_3888	38	Pap-75c9_38_Papilio-23_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-13	Pap-75c9_38_Papilio-1	Pap-75c9_38_swallowtail-13_3888	38	Pap-75c9_38_Papilio-1_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-13	Pap-75c9_38_Papilio-14	Pap-75c9_38_swallowtail-13_3888	38	Pap-75c9_38_Papilio-14_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_37_swallowtail-3	Pap-75c9_37_Papilio-4	Pap-75c9_37_swallowtail-3_3888	37	Pap-75c9_37_Papilio-4_1191	37	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-22	Pap-75c9_71_Papilio-10	Pap-75c9_71_swallowtail-22_3888	71	Pap-75c9_71_Papilio-10_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-13	Pap-75c9_38_Papilio-47	Pap-75c9_38_swallowtail-13_3888	38	Pap-75c9_38_Papilio-47_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-41	Pap-75c9_71_Papilio-84	Pap-75c9_71_swallowtail-41_3888	71	Pap-75c9_71_Papilio-84_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-41	Pap-75c9_71_Papilio-63	Pap-75c9_71_swallowtail-41_3888	71	Pap-75c9_71_Papilio-63_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-59	Pap-75c9_41_Papilio-8	Pap-75c9_41_swallowtail-59_3888	41	Pap-75c9_41_Papilio-8_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-85	Pap-75c9_41_Papilio-75	Pap-75c9_41_swallowtail-85_3888	41	Pap-75c9_41_Papilio-75_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-41	Pap-75c9_38_Papilio-23	Pap-75c9_38_swallowtail-41_3888	38	Pap-75c9_38_Papilio-23_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-29	Pap-75c9_60_Papilio-13	Pap-75c9_60_swallowtail-29_3888	60	Pap-75c9_60_Papilio-13_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-99	Pap-75c9_41_Papilio-13	Pap-75c9_41_swallowtail-99_3888	41	Pap-75c9_41_Papilio-13_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_21_swallowtail-12	Pap-75c9_21_Papilio-22	Pap-75c9_21_swallowtail-12_3888	21	Pap-75c9_21_Papilio-22_1191	21	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_69_swallowtail-10	Pap-75c9_69_Papilio-1	Pap-75c9_69_swallowtail-10_3888	69	Pap-75c9_69_Papilio-1_1191	69	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-30	Pap-75c9_38_Papilio-23	Pap-75c9_38_swallowtail-30_3888	38	Pap-75c9_38_Papilio-23_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Lep-f8ec_389_swallowtail-20	Lep-f8ec_389_Papilio-13	Lep-f8ec_389_swallowtail-20_3888	389	Lep-f8ec_389_Papilio-13_1191	389	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_69_swallowtail-13	Pap-75c9_69_Papilio-14	Pap-75c9_69_swallowtail-13_3888	69	Pap-75c9_69_Papilio-14_1191	69	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_39_swallowtail-9	Pap-75c9_39_Papilio-1	Pap-75c9_39_swallowtail-9_3888	39	Pap-75c9_39_Papilio-1_1191	39	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_39_swallowtail-18	Pap-75c9_39_Papilio-1	Pap-75c9_39_swallowtail-18_3888	39	Pap-75c9_39_Papilio-1_1191	39	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_39_swallowtail-18	Pap-75c9_39_Papilio-10	Pap-75c9_39_swallowtail-18_3888	39	Pap-75c9_39_Papilio-10_1191	39	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-99	Pap-75c9_41_Papilio-75	Pap-75c9_41_swallowtail-99_3888	41	Pap-75c9_41_Papilio-75_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_65_swallowtail-10	Pap-75c9_65_Papilio-16	Pap-75c9_65_swallowtail-10_3888	65	Pap-75c9_65_Papilio-16_1191	65	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_21_swallowtail-12	Pap-75c9_21_Papilio-13	Pap-75c9_21_swallowtail-12_3888	21	Pap-75c9_21_Papilio-13_1191	21	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-85	Pap-75c9_41_Papilio-90	Pap-75c9_41_swallowtail-85_3888	41	Pap-75c9_41_Papilio-90_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-85	Pap-75c9_41_Papilio-8	Pap-75c9_41_swallowtail-85_3888	41	Pap-75c9_41_Papilio-8_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-85	Pap-75c9_41_Papilio-66	Pap-75c9_41_swallowtail-85_3888	41	Pap-75c9_41_Papilio-66_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-29	Pap-75c9_36_Papilio-69	Pap-75c9_36_swallowtail-29_3888	36	Pap-75c9_36_Papilio-69_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-29	Pap-75c9_36_Papilio-59	Pap-75c9_36_swallowtail-29_3888	36	Pap-75c9_36_Papilio-59_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-29	Pap-75c9_36_Papilio-45	Pap-75c9_36_swallowtail-29_3888	36	Pap-75c9_36_Papilio-45_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-29	Pap-75c9_36_Papilio-40	Pap-75c9_36_swallowtail-29_3888	36	Pap-75c9_36_Papilio-40_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-30	Pap-75c9_38_Papilio-14	Pap-75c9_38_swallowtail-30_3888	38	Pap-75c9_38_Papilio-14_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-13	Pap-75c9_38_Papilio-42	Pap-75c9_38_swallowtail-13_3888	38	Pap-75c9_38_Papilio-42_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_66_swallowtail-15	Pap-75c9_66_Papilio-8	Pap-75c9_66_swallowtail-15_3888	66	Pap-75c9_66_Papilio-8_1191	66	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-59	Pap-75c9_41_Papilio-90	Pap-75c9_41_swallowtail-59_3888	41	Pap-75c9_41_Papilio-90_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_69_swallowtail-21	Pap-75c9_69_Papilio-14	Pap-75c9_69_swallowtail-21_3888	69	Pap-75c9_69_Papilio-14_1191	69	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-99	Pap-75c9_41_Papilio-18	Pap-75c9_41_swallowtail-99_3888	41	Pap-75c9_41_Papilio-18_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-85	Pap-75c9_41_Papilio-60	Pap-75c9_41_swallowtail-85_3888	41	Pap-75c9_41_Papilio-60_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-85	Pap-75c9_41_Papilio-38	Pap-75c9_41_swallowtail-85_3888	41	Pap-75c9_41_Papilio-38_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-85	Pap-75c9_41_Papilio-31	Pap-75c9_41_swallowtail-85_3888	41	Pap-75c9_41_Papilio-31_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-85	Pap-75c9_41_Papilio-18	Pap-75c9_41_swallowtail-85_3888	41	Pap-75c9_41_Papilio-18_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-85	Pap-75c9_41_Papilio-13	Pap-75c9_41_swallowtail-85_3888	41	Pap-75c9_41_Papilio-13_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-41	Pap-75c9_38_Papilio-14	Pap-75c9_38_swallowtail-41_3888	38	Pap-75c9_38_Papilio-14_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-33	Pap-75c9_71_Papilio-34	Pap-75c9_71_swallowtail-33_3888	71	Pap-75c9_71_Papilio-34_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-41	Pap-75c9_71_Papilio-54	Pap-75c9_71_swallowtail-41_3888	71	Pap-75c9_71_Papilio-54_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-33	Pap-75c9_71_Papilio-63	Pap-75c9_71_swallowtail-33_3888	71	Pap-75c9_71_Papilio-63_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-33	Pap-75c9_71_Papilio-73	Pap-75c9_71_swallowtail-33_3888	71	Pap-75c9_71_Papilio-73_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-33	Pap-75c9_71_Papilio-84	Pap-75c9_71_swallowtail-33_3888	71	Pap-75c9_71_Papilio-84_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-68	Pap-75c9_36_Papilio-74	Pap-75c9_36_swallowtail-68_3888	36	Pap-75c9_36_Papilio-74_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-68	Pap-75c9_36_Papilio-69	Pap-75c9_36_swallowtail-68_3888	36	Pap-75c9_36_Papilio-69_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_42_swallowtail-14	Pap-75c9_42_Papilio-7	Pap-75c9_42_swallowtail-14_3888	42	Pap-75c9_42_Papilio-7_1191	42	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-99	Pap-75c9_41_Papilio-38	Pap-75c9_41_swallowtail-99_3888	41	Pap-75c9_41_Papilio-38_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-99	Pap-75c9_41_Papilio-3	Pap-75c9_41_swallowtail-99_3888	41	Pap-75c9_41_Papilio-3_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_40_swallowtail-40	Pap-75c9_40_Papilio-6	Pap-75c9_40_swallowtail-40_3888	40	Pap-75c9_40_Papilio-6_1191	40	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_22_swallowtail-23	Pap-75c9_22_Papilio-12	Pap-75c9_22_swallowtail-23_3888	22	Pap-75c9_22_Papilio-12_1191	22	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_40_swallowtail-40	Pap-75c9_40_Papilio-41	Pap-75c9_40_swallowtail-40_3888	40	Pap-75c9_40_Papilio-41_1191	40	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_40_swallowtail-24	Pap-75c9_40_Papilio-15	Pap-75c9_40_swallowtail-24_3888	40	Pap-75c9_40_Papilio-15_1191	40	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_22_swallowtail-23	Pap-75c9_22_Papilio-31	Pap-75c9_22_swallowtail-23_3888	22	Pap-75c9_22_Papilio-31_1191	22	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-41	Pap-75c9_38_Papilio-6	Pap-75c9_38_swallowtail-41_3888	38	Pap-75c9_38_Papilio-6_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-41	Pap-75c9_38_Papilio-47	Pap-75c9_38_swallowtail-41_3888	38	Pap-75c9_38_Papilio-47_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Hum-c8da_57_swallowtail-18	Hum-c8da_57_Papilio-12	Hum-c8da_57_swallowtail-18_3888	57	Hum-c8da_57_Papilio-12_1191	57	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_22_swallowtail-19	Pap-75c9_22_Papilio-12	Pap-75c9_22_swallowtail-19_3888	22	Pap-75c9_22_Papilio-12_1191	22	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-41	Pap-75c9_38_Papilio-34	Pap-75c9_38_swallowtail-41_3888	38	Pap-75c9_38_Papilio-34_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_9_swallowtails-21	Pap-75c9_9_Papilio-10	Pap-75c9_9_swallowtails-21_3888	9	Pap-75c9_9_Papilio-10_1191	9	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-41	Pap-75c9_38_Papilio-42	Pap-75c9_38_swallowtail-41_3888	38	Pap-75c9_38_Papilio-42_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-59	Pap-75c9_41_Papilio-3	Pap-75c9_41_swallowtail-59_3888	41	Pap-75c9_41_Papilio-3_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-85	Pap-75c9_41_Papilio-3	Pap-75c9_41_swallowtail-85_3888	41	Pap-75c9_41_Papilio-3_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_40_swallowtail-24	Pap-75c9_40_Papilio-25	Pap-75c9_40_swallowtail-24_3888	40	Pap-75c9_40_Papilio-25_1191	40	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_22_swallowtail-19	Pap-75c9_22_Papilio-31	Pap-75c9_22_swallowtail-19_3888	22	Pap-75c9_22_Papilio-31_1191	22	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-99	Pap-75c9_41_Papilio-90	Pap-75c9_41_swallowtail-99_3888	41	Pap-75c9_41_Papilio-90_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-99	Pap-75c9_41_Papilio-8	Pap-75c9_41_swallowtail-99_3888	41	Pap-75c9_41_Papilio-8_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_40_swallowtail-24	Pap-75c9_40_Papilio-1	Pap-75c9_40_swallowtail-24_3888	40	Pap-75c9_40_Papilio-1_1191	40	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_40_swallowtail-40	Pap-75c9_40_Papilio-25	Pap-75c9_40_swallowtail-40_3888	40	Pap-75c9_40_Papilio-25_1191	40	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_40_swallowtail-40	Pap-75c9_40_Papilio-1	Pap-75c9_40_swallowtail-40_3888	40	Pap-75c9_40_Papilio-1_1191	40	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_40_swallowtail-40	Pap-75c9_40_Papilio-15	Pap-75c9_40_swallowtail-40_3888	40	Pap-75c9_40_Papilio-15_1191	40	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_40_swallowtail-24	Pap-75c9_40_Papilio-6	Pap-75c9_40_swallowtail-24_3888	40	Pap-75c9_40_Papilio-6_1191	40	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_40_swallowtail-24	Pap-75c9_40_Papilio-41	Pap-75c9_40_swallowtail-24_3888	40	Pap-75c9_40_Papilio-41_1191	40	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_40_swallowtail-40	Pap-75c9_40_Papilio-32	Pap-75c9_40_swallowtail-40_3888	40	Pap-75c9_40_Papilio-32_1191	40	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_42_swallowtail-14	Pap-75c9_42_Papilio-15	Pap-75c9_42_swallowtail-14_3888	42	Pap-75c9_42_Papilio-15_1191	42	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-45	Pap-75c9_43_Papilio-14	Pap-75c9_43_swallowtail-45_3888	43	Pap-75c9_43_Papilio-14_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_51_swallowtail-11	Pap-75c9_51_Papilio-21	Pap-75c9_51_swallowtail-11_3888	51	Pap-75c9_51_Papilio-21_1191	51	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_42_swallowtail-2	Pap-75c9_42_Papilio-7	Pap-75c9_42_swallowtail-2_3888	42	Pap-75c9_42_Papilio-7_1191	42	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_42_swallowtail-2	Pap-75c9_42_Papilio-20	Pap-75c9_42_swallowtail-2_3888	42	Pap-75c9_42_Papilio-20_1191	42	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_42_swallowtail-2	Pap-75c9_42_Papilio-15	Pap-75c9_42_swallowtail-2_3888	42	Pap-75c9_42_Papilio-15_1191	42	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_69_swallowtail-13	Pap-75c9_69_Papilio-1	Pap-75c9_69_swallowtail-13_3888	69	Pap-75c9_69_Papilio-1_1191	69	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_39_swallowtail-26	Pap-75c9_39_Papilio-10	Pap-75c9_39_swallowtail-26_3888	39	Pap-75c9_39_Papilio-10_1191	39	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_42_swallowtail-14	Pap-75c9_42_Papilio-20	Pap-75c9_42_swallowtail-14_3888	42	Pap-75c9_42_Papilio-20_1191	42	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_39_swallowtail-26	Pap-75c9_39_Papilio-19	Pap-75c9_39_swallowtail-26_3888	39	Pap-75c9_39_Papilio-19_1191	39	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_51_swallowtail-11	Pap-75c9_51_Papilio-12	Pap-75c9_51_swallowtail-11_3888	51	Pap-75c9_51_Papilio-12_1191	51	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_39_swallowtail-18	Pap-75c9_39_Papilio-19	Pap-75c9_39_swallowtail-18_3888	39	Pap-75c9_39_Papilio-19_1191	39	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-33	Pap-75c9_71_Papilio-23	Pap-75c9_71_swallowtail-33_3888	71	Pap-75c9_71_Papilio-23_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-22	Pap-75c9_71_Papilio-34	Pap-75c9_71_swallowtail-22_3888	71	Pap-75c9_71_Papilio-34_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-22	Pap-75c9_71_Papilio-1	Pap-75c9_71_swallowtail-22_3888	71	Pap-75c9_71_Papilio-1_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_39_swallowtail-9	Pap-75c9_39_Papilio-10	Pap-75c9_39_swallowtail-9_3888	39	Pap-75c9_39_Papilio-10_1191	39	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-99	Pap-75c9_41_Papilio-66	Pap-75c9_41_swallowtail-99_3888	41	Pap-75c9_41_Papilio-66_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-99	Pap-75c9_41_Papilio-60	Pap-75c9_41_swallowtail-99_3888	41	Pap-75c9_41_Papilio-60_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-59	Pap-75c9_41_Papilio-66	Pap-75c9_41_swallowtail-59_3888	41	Pap-75c9_41_Papilio-66_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-45	Pap-75c9_43_Papilio-2	Pap-75c9_43_swallowtail-45_3888	43	Pap-75c9_43_Papilio-2_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-59	Pap-75c9_41_Papilio-60	Pap-75c9_41_swallowtail-59_3888	41	Pap-75c9_41_Papilio-60_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-59	Pap-75c9_41_Papilio-38	Pap-75c9_41_swallowtail-59_3888	41	Pap-75c9_41_Papilio-38_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_39_swallowtail-9	Pap-75c9_39_Papilio-19	Pap-75c9_39_swallowtail-9_3888	39	Pap-75c9_39_Papilio-19_1191	39	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_39_swallowtail-26	Pap-75c9_39_Papilio-1	Pap-75c9_39_swallowtail-26_3888	39	Pap-75c9_39_Papilio-1_1191	39	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_65_swallowtail-10	Pap-75c9_65_Papilio-2	Pap-75c9_65_swallowtail-10_3888	65	Pap-75c9_65_Papilio-2_1191	65	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_65_swallowtail-10	Pap-75c9_65_Papilio-11	Pap-75c9_65_swallowtail-10_3888	65	Pap-75c9_65_Papilio-11_1191	65	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-29	Pap-75c9_36_Papilio-74	Pap-75c9_36_swallowtail-29_3888	36	Pap-75c9_36_Papilio-74_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-49	Pap-75c9_71_Papilio-1	Pap-75c9_71_swallowtail-49_3888	71	Pap-75c9_71_Papilio-1_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_69_swallowtail-21	Pap-75c9_69_Papilio-1	Pap-75c9_69_swallowtail-21_3888	69	Pap-75c9_69_Papilio-1_1191	69	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-14	Pap-75c9_62_Papilio-27	Pap-75c9_62_swallowtail-14_3888	62	Pap-75c9_62_Papilio-27_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-14	Pap-75c9_54_Papilio-45	Pap-75c9_54_swallowtail-14_3888	54	Pap-75c9_54_Papilio-45_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-14	Pap-75c9_62_Papilio-42	Pap-75c9_62_swallowtail-14_3888	62	Pap-75c9_62_Papilio-42_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_53_swallowtail-12	Pap-75c9_53_Papilio-4	Pap-75c9_53_swallowtail-12_3888	53	Pap-75c9_53_Papilio-4_1191	53	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_53_swallowtail-12	Pap-75c9_53_Papilio-13	Pap-75c9_53_swallowtail-12_3888	53	Pap-75c9_53_Papilio-13_1191	53	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_51_swallowtail-11	Pap-75c9_51_Papilio-50	Pap-75c9_51_swallowtail-11_3888	51	Pap-75c9_51_Papilio-50_1191	51	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_51_swallowtail-11	Pap-75c9_51_Papilio-41	Pap-75c9_51_swallowtail-11_3888	51	Pap-75c9_51_Papilio-41_1191	51	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_51_swallowtail-11	Pap-75c9_51_Papilio-3	Pap-75c9_51_swallowtail-11_3888	51	Pap-75c9_51_Papilio-3_1191	51	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_51_swallowtail-11	Pap-75c9_51_Papilio-36	Pap-75c9_51_swallowtail-11_3888	51	Pap-75c9_51_Papilio-36_1191	51	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_5_swallowtails-31	Pap-75c9_5_Papilio-21	Pap-75c9_5_swallowtails-31_3888	5	Pap-75c9_5_Papilio-21_1191	5	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_5_swallowtails-31	Pap-75c9_5_Papilio-17	Pap-75c9_5_swallowtails-31_3888	5	Pap-75c9_5_Papilio-17_1191	5	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_58_swallowtail-10	Pap-75c9_58_Papilio-25	Pap-75c9_58_swallowtail-10_3888	58	Pap-75c9_58_Papilio-25_1191	58	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-33	Pap-75c9_71_Papilio-1	Pap-75c9_71_swallowtail-33_3888	71	Pap-75c9_71_Papilio-1_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-22	Pap-75c9_71_Papilio-54	Pap-75c9_71_swallowtail-22_3888	71	Pap-75c9_71_Papilio-54_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-45	Pap-75c9_43_Papilio-30	Pap-75c9_43_swallowtail-45_3888	43	Pap-75c9_43_Papilio-30_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_21_swallowtail-8	Pap-75c9_21_Papilio-22	Pap-75c9_21_swallowtail-8_3888	21	Pap-75c9_21_Papilio-22_1191	21	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-40	Pap-75c9_54_Papilio-54	Pap-75c9_54_swallowtail-40_3888	54	Pap-75c9_54_Papilio-54_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-40	Pap-75c9_54_Papilio-83	Pap-75c9_54_swallowtail-40_3888	54	Pap-75c9_54_Papilio-83_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_61_swallowtail-15	Pap-75c9_61_Papilio-19	Pap-75c9_61_swallowtail-15_3888	61	Pap-75c9_61_Papilio-19_1191	61	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_61_swallowtail-15	Pap-75c9_61_Papilio-6	Pap-75c9_61_swallowtail-15_3888	61	Pap-75c9_61_Papilio-6_1191	61	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-40	Pap-75c9_54_Papilio-78	Pap-75c9_54_swallowtail-40_3888	54	Pap-75c9_54_Papilio-78_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-40	Pap-75c9_54_Papilio-73	Pap-75c9_54_swallowtail-40_3888	54	Pap-75c9_54_Papilio-73_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-40	Pap-75c9_54_Papilio-5	Pap-75c9_54_swallowtail-40_3888	54	Pap-75c9_54_Papilio-5_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-40	Pap-75c9_54_Papilio-59	Pap-75c9_54_swallowtail-40_3888	54	Pap-75c9_54_Papilio-59_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-14	Pap-75c9_62_Papilio-34	Pap-75c9_62_swallowtail-14_3888	62	Pap-75c9_62_Papilio-34_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-14	Pap-75c9_62_Papilio-22	Pap-75c9_62_swallowtail-14_3888	62	Pap-75c9_62_Papilio-22_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-29	Pap-75c9_36_Papilio-19	Pap-75c9_36_swallowtail-29_3888	36	Pap-75c9_36_Papilio-19_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-14	Pap-75c9_62_Papilio-15	Pap-75c9_62_swallowtail-14_3888	62	Pap-75c9_62_Papilio-15_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_58_swallowtail-10	Pap-75c9_58_Papilio-15	Pap-75c9_58_swallowtail-10_3888	58	Pap-75c9_58_Papilio-15_1191	58	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_58_swallowtail-10	Pap-75c9_58_Papilio-20	Pap-75c9_58_swallowtail-10_3888	58	Pap-75c9_58_Papilio-20_1191	58	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-22	Pap-75c9_60_Papilio-1	Pap-75c9_60_swallowtail-22_3888	60	Pap-75c9_60_Papilio-1_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-38	Pap-75c9_60_Papilio-13	Pap-75c9_60_swallowtail-38_3888	60	Pap-75c9_60_Papilio-13_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-29	Pap-75c9_60_Papilio-42	Pap-75c9_60_swallowtail-29_3888	60	Pap-75c9_60_Papilio-42_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-29	Pap-75c9_60_Papilio-30	Pap-75c9_60_swallowtail-29_3888	60	Pap-75c9_60_Papilio-30_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-29	Pap-75c9_60_Papilio-1	Pap-75c9_60_swallowtail-29_3888	60	Pap-75c9_60_Papilio-1_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-22	Pap-75c9_60_Papilio-42	Pap-75c9_60_swallowtail-22_3888	60	Pap-75c9_60_Papilio-42_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-40	Pap-75c9_54_Papilio-15	Pap-75c9_54_swallowtail-40_3888	54	Pap-75c9_54_Papilio-15_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-22	Pap-75c9_60_Papilio-30	Pap-75c9_60_swallowtail-22_3888	60	Pap-75c9_60_Papilio-30_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_21_swallowtail-2	Pap-75c9_21_Papilio-13	Pap-75c9_21_swallowtail-2_3888	21	Pap-75c9_21_Papilio-13_1191	21	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-45	Pap-75c9_43_Papilio-35	Pap-75c9_43_swallowtail-45_3888	43	Pap-75c9_43_Papilio-35_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_21_swallowtail-2	Pap-75c9_21_Papilio-22	Pap-75c9_21_swallowtail-2_3888	21	Pap-75c9_21_Papilio-22_1191	21	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_60_swallowtail-22	Pap-75c9_60_Papilio-13	Pap-75c9_60_swallowtail-22_3888	60	Pap-75c9_60_Papilio-13_1191	60	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_5_swallowtails-31	Pap-75c9_5_Papilio-50	Pap-75c9_5_swallowtails-31_3888	5	Pap-75c9_5_Papilio-50_1191	5	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_5_swallowtails-31	Pap-75c9_5_Papilio-35	Pap-75c9_5_swallowtails-31_3888	5	Pap-75c9_5_Papilio-35_1191	5	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-14	Pap-75c9_54_Papilio-33	Pap-75c9_54_swallowtail-14_3888	54	Pap-75c9_54_Papilio-33_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-14	Pap-75c9_54_Papilio-54	Pap-75c9_54_swallowtail-14_3888	54	Pap-75c9_54_Papilio-54_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-14	Pap-75c9_62_Papilio-5	Pap-75c9_62_swallowtail-14_3888	62	Pap-75c9_62_Papilio-5_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_51_swallowtail-11	Pap-75c9_51_Papilio-26	Pap-75c9_51_swallowtail-11_3888	51	Pap-75c9_51_Papilio-26_1191	51	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-68	Pap-75c9_36_Papilio-59	Pap-75c9_36_swallowtail-68_3888	36	Pap-75c9_36_Papilio-59_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-14	Pap-75c9_54_Papilio-24	Pap-75c9_54_swallowtail-14_3888	54	Pap-75c9_54_Papilio-24_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-14	Pap-75c9_54_Papilio-15	Pap-75c9_54_swallowtail-14_3888	54	Pap-75c9_54_Papilio-15_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-40	Pap-75c9_54_Papilio-45	Pap-75c9_54_swallowtail-40_3888	54	Pap-75c9_54_Papilio-45_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-40	Pap-75c9_54_Papilio-33	Pap-75c9_54_swallowtail-40_3888	54	Pap-75c9_54_Papilio-33_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-59	Pap-75c9_41_Papilio-75	Pap-75c9_41_swallowtail-59_3888	41	Pap-75c9_41_Papilio-75_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-49	Pap-75c9_71_Papilio-63	Pap-75c9_71_swallowtail-49_3888	71	Pap-75c9_71_Papilio-63_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-49	Pap-75c9_71_Papilio-84	Pap-75c9_71_swallowtail-49_3888	71	Pap-75c9_71_Papilio-84_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-29	Pap-75c9_36_Papilio-33	Pap-75c9_36_swallowtail-29_3888	36	Pap-75c9_36_Papilio-33_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-49	Pap-75c9_71_Papilio-23	Pap-75c9_71_swallowtail-49_3888	71	Pap-75c9_71_Papilio-23_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-33	Pap-75c9_71_Papilio-42	Pap-75c9_71_swallowtail-33_3888	71	Pap-75c9_71_Papilio-42_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-22	Pap-75c9_71_Papilio-23	Pap-75c9_71_swallowtail-22_3888	71	Pap-75c9_71_Papilio-23_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-41	Pap-75c9_71_Papilio-73	Pap-75c9_71_swallowtail-41_3888	71	Pap-75c9_71_Papilio-73_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-13	Pap-75c9_38_Papilio-6	Pap-75c9_38_swallowtail-13_3888	38	Pap-75c9_38_Papilio-6_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-30	Pap-75c9_38_Papilio-47	Pap-75c9_38_swallowtail-30_3888	38	Pap-75c9_38_Papilio-47_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-30	Pap-75c9_38_Papilio-42	Pap-75c9_38_swallowtail-30_3888	38	Pap-75c9_38_Papilio-42_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-30	Pap-75c9_38_Papilio-34	Pap-75c9_38_swallowtail-30_3888	38	Pap-75c9_38_Papilio-34_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-66	Pap-75c9_43_Papilio-67	Pap-75c9_43_swallowtail-66_3888	43	Pap-75c9_43_Papilio-67_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_38_swallowtail-30	Pap-75c9_38_Papilio-1	Pap-75c9_38_swallowtail-30_3888	38	Pap-75c9_38_Papilio-1_1191	38	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-33	Pap-75c9_71_Papilio-54	Pap-75c9_71_swallowtail-33_3888	71	Pap-75c9_71_Papilio-54_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-49	Pap-75c9_71_Papilio-34	Pap-75c9_71_swallowtail-49_3888	71	Pap-75c9_71_Papilio-34_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_22_swallowtail-26	Pap-75c9_22_Papilio-12	Pap-75c9_22_swallowtail-26_3888	22	Pap-75c9_22_Papilio-12_1191	22	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-49	Pap-75c9_71_Papilio-10	Pap-75c9_71_swallowtail-49_3888	71	Pap-75c9_71_Papilio-10_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_69_swallowtail-10	Pap-75c9_69_Papilio-14	Pap-75c9_69_swallowtail-10_3888	69	Pap-75c9_69_Papilio-14_1191	69	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-59	Pap-75c9_41_Papilio-31	Pap-75c9_41_swallowtail-59_3888	41	Pap-75c9_41_Papilio-31_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-59	Pap-75c9_41_Papilio-18	Pap-75c9_41_swallowtail-59_3888	41	Pap-75c9_41_Papilio-18_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-59	Pap-75c9_41_Papilio-13	Pap-75c9_41_swallowtail-59_3888	41	Pap-75c9_41_Papilio-13_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_66_swallowtail-15	Pap-75c9_66_Papilio-20	Pap-75c9_66_swallowtail-15_3888	66	Pap-75c9_66_Papilio-20_1191	66	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_66_swallowtail-15	Pap-75c9_66_Papilio-3	Pap-75c9_66_swallowtail-15_3888	66	Pap-75c9_66_Papilio-3_1191	66	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_41_swallowtail-99	Pap-75c9_41_Papilio-31	Pap-75c9_41_swallowtail-99_3888	41	Pap-75c9_41_Papilio-31_1191	41	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-49	Pap-75c9_71_Papilio-73	Pap-75c9_71_swallowtail-49_3888	71	Pap-75c9_71_Papilio-73_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-49	Pap-75c9_71_Papilio-54	Pap-75c9_71_swallowtail-49_3888	71	Pap-75c9_71_Papilio-54_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-40	Pap-75c9_54_Papilio-24	Pap-75c9_54_swallowtail-40_3888	54	Pap-75c9_54_Papilio-24_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-49	Pap-75c9_71_Papilio-42	Pap-75c9_71_swallowtail-49_3888	71	Pap-75c9_71_Papilio-42_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-8	Pap-75c9_36_Papilio-59	Pap-75c9_36_swallowtail-8_3888	36	Pap-75c9_36_Papilio-59_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-33	Pap-75c9_71_Papilio-10	Pap-75c9_71_swallowtail-33_3888	71	Pap-75c9_71_Papilio-10_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-14	Pap-75c9_54_Papilio-59	Pap-75c9_54_swallowtail-14_3888	54	Pap-75c9_54_Papilio-59_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-8	Pap-75c9_36_Papilio-19	Pap-75c9_36_swallowtail-8_3888	36	Pap-75c9_36_Papilio-19_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_54_swallowtail-14	Pap-75c9_54_Papilio-5	Pap-75c9_54_swallowtail-14_3888	54	Pap-75c9_54_Papilio-5_1191	54	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_21_swallowtail-8	Pap-75c9_21_Papilio-13	Pap-75c9_21_swallowtail-8_3888	21	Pap-75c9_21_Papilio-13_1191	21	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-8	Pap-75c9_36_Papilio-69	Pap-75c9_36_swallowtail-8_3888	36	Pap-75c9_36_Papilio-69_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-22	Pap-75c9_71_Papilio-63	Pap-75c9_71_swallowtail-22_3888	71	Pap-75c9_71_Papilio-63_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-22	Pap-75c9_71_Papilio-73	Pap-75c9_71_swallowtail-22_3888	71	Pap-75c9_71_Papilio-73_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-22	Pap-75c9_71_Papilio-84	Pap-75c9_71_swallowtail-22_3888	71	Pap-75c9_71_Papilio-84_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_37_swallowtail-11	Pap-75c9_37_Papilio-4	Pap-75c9_37_swallowtail-11_3888	37	Pap-75c9_37_Papilio-4_1191	37	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_20_swallowtail-2	Pap-75c9_20_Papilio-3	Pap-75c9_20_swallowtail-2_3888	20	Pap-75c9_20_Papilio-3_1191	20	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-8	Pap-75c9_36_Papilio-74	Pap-75c9_36_swallowtail-8_3888	36	Pap-75c9_36_Papilio-74_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-22	Pap-75c9_71_Papilio-42	Pap-75c9_71_swallowtail-22_3888	71	Pap-75c9_71_Papilio-42_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-8	Pap-75c9_36_Papilio-45	Pap-75c9_36_swallowtail-8_3888	36	Pap-75c9_36_Papilio-45_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-45	Pap-75c9_43_Papilio-21	Pap-75c9_43_swallowtail-45_3888	43	Pap-75c9_43_Papilio-21_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-8	Pap-75c9_36_Papilio-40	Pap-75c9_36_swallowtail-8_3888	36	Pap-75c9_36_Papilio-40_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-8	Pap-75c9_36_Papilio-33	Pap-75c9_36_swallowtail-8_3888	36	Pap-75c9_36_Papilio-33_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-8	Pap-75c9_36_Papilio-1	Pap-75c9_36_swallowtail-8_3888	36	Pap-75c9_36_Papilio-1_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_46_swallowtail-44	Pap-75c9_46_Papilio-12	Pap-75c9_46_swallowtail-44_3888	46	Pap-75c9_46_Papilio-12_1191	46	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-66	Pap-75c9_43_Papilio-58	Pap-75c9_43_swallowtail-66_3888	43	Pap-75c9_43_Papilio-58_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_43_swallowtail-66	Pap-75c9_43_Papilio-9	Pap-75c9_43_swallowtail-66_3888	43	Pap-75c9_43_Papilio-9_1191	43	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_22_swallowtail-26	Pap-75c9_22_Papilio-31	Pap-75c9_22_swallowtail-26_3888	22	Pap-75c9_22_Papilio-31_1191	22	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-86	Pap-75c9_31_Papilio-8	Pap-75c9_31_swallowtail-86_3888	31	Pap-75c9_31_Papilio-8_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_40_swallowtail-24	Pap-75c9_40_Papilio-32	Pap-75c9_40_swallowtail-24_3888	40	Pap-75c9_40_Papilio-32_1191	40	0	swallowtail	Papilio	100.0
+taxongroup	Lep-f8ec_278_white-14	Lep-f8ec_278_Pieris-8	Lep-f8ec_278_white-14_2660	278	Lep-f8ec_278_Pieris-8_1342	278	0	Cabbage white	Pieris	100.0
+taxongroup	Bee-ace3_208_butterflies-26	Bee-ace3_208_insects-9	Bee-ace3_208_butterflies-26_2697	208	Bee-ace3_208_insects-9_4008	208	0	Butterflies and moths	insects	100.0
+taxongroup	Pol-516e_46_Butterflies-3	Pol-516e_46_Insects-1	Pol-516e_46_Butterflies-3_2697	46	Pol-516e_46_Insects-1_4008	46	0	Butterflies and moths	insects	100.0
+taxongroup	Pol-516e_4_butterflies-36	Pol-516e_4_Insects-1	Pol-516e_4_butterflies-36_2697	4	Pol-516e_4_Insects-1_4008	4	0	Butterflies and moths	insects	100.0
+taxongroup	Pie-14e4_2_white-6	Pie-14e4_2_Pieridae-36	Pie-14e4_2_white-6_2660	2	Pie-14e4_2_Pieridae-36_750	2	0	Cabbage white	Pieridae	100.0
+taxongroup	Pie-14e4_2_white-28	Pie-14e4_2_Pieridae-36	Pie-14e4_2_white-28_2660	2	Pie-14e4_2_Pieridae-36_750	2	0	Cabbage white	Pieridae	100.0
+taxongroup	Pie-16e4_33_white-17	Pie-16e4_33_Pieris-13	Pie-16e4_33_white-17_2660	33	Pie-16e4_33_Pieris-13_1342	33	0	Cabbage white	Pieris	100.0
+taxongroup	Pie-16e4_33_white-9	Pie-16e4_33_Pieris-13	Pie-16e4_33_white-9_2660	33	Pie-16e4_33_Pieris-13_1342	33	0	Cabbage white	Pieris	100.0
+taxongroup	Lar-fa32_16_butterflies-3	Lar-fa32_16_butterflies-3	Lar-fa32_16_butterflies-3_5149	16	Lar-fa32_16_butterflies-3_4147	16	0	large blue butterfly	gossamer-winged butterflies	100.0
+taxongroup	Lar-fa32_16_butterfly-20	Lar-fa32_16_butterfly-20	Lar-fa32_16_butterfly-20_5149	16	Lar-fa32_16_butterfly-20_4147	16	0	large blue butterfly	gossamer-winged butterflies	100.0
+taxongroup	Lar-fa32_16_butterfly-20	Lar-fa32_16_butterflies-3	Lar-fa32_16_butterfly-20_5149	16	Lar-fa32_16_butterflies-3_4147	16	0	large blue butterfly	gossamer-winged butterflies	100.0
+taxongroup	Lar-fa32_16_butterflies-3	Lar-fa32_16_butterfly-20	Lar-fa32_16_butterflies-3_5149	16	Lar-fa32_16_butterfly-20_4147	16	0	large blue butterfly	gossamer-winged butterflies	100.0
+taxongroup	Pie-16e4_33_white-20	Pie-16e4_33_Pieris-13	Pie-16e4_33_white-20_2660	33	Pie-16e4_33_Pieris-13_1342	33	0	Cabbage white	Pieris	100.0
+taxongroup	Lar-fa32_16_butterflies-3	Lar-fa32_16_Lycaenidae-12	Lar-fa32_16_butterflies-3_5149	16	Lar-fa32_16_Lycaenidae-12_672	16	0	large blue butterfly	Lycaenidae	100.0
+taxongroup	Lar-fa32_16_butterfly-20	Lar-fa32_16_Lycaenidae-12	Lar-fa32_16_butterfly-20_5149	16	Lar-fa32_16_Lycaenidae-12_672	16	0	large blue butterfly	Lycaenidae	100.0
+taxongroup	Pie-14e4_2_white-6	Pie-14e4_2_Pieris-1	Pie-14e4_2_white-6_2660	2	Pie-14e4_2_Pieris-1_1342	2	0	Cabbage white	Pieris	100.0
+taxongroup	Pie-14e4_2_white-28	Pie-14e4_2_Pieris-1	Pie-14e4_2_white-28_2660	2	Pie-14e4_2_Pieris-1_1342	2	0	Cabbage white	Pieris	100.0
+taxongroup	Eur-07b4_87_butterflies-15	Eur-07b4_87_Insects-1	Eur-07b4_87_butterflies-15_2697	87	Eur-07b4_87_Insects-1_4008	87	0	Butterflies and moths	insects	100.0
+taxongroup	Lep-f8ec_58_Butterflies-1	Lep-f8ec_58_animals-17	Lep-f8ec_58_Butterflies-1_2697	58	Lep-f8ec_58_animals-17_3812	58	0	Butterflies and moths	animals	100.0
+taxongroup	Arg-a0b3_25_fritillary-12	Arg-a0b3_25_Argynnis-1	Arg-a0b3_25_fritillary-12_4854	25	Arg-a0b3_25_Argynnis-1_907	25	0	dark green fritillary	Argynnis	100.0
+taxongroup	Lep-f8ec_456_butterflies-17	Lep-f8ec_456_butterflies-17	Lep-f8ec_456_butterflies-17_5238	456	Lep-f8ec_456_butterflies-17_5170	456	0	monarch butterfly	butterflies and moths	100.0
+taxongroup	Ins-960c_383_butterfly-25	Ins-960c_383_Lepidoptera-8	Ins-960c_383_butterfly-25_5238	383	Ins-960c_383_Lepidoptera-8_2698	383	0	monarch butterfly	Lepidoptera	100.0
+taxongroup	Lep-f8ec_456_butterflies-17	Lep-f8ec_456_Lepidoptera-13	Lep-f8ec_456_butterflies-17_5238	456	Lep-f8ec_456_Lepidoptera-13_2698	456	0	monarch butterfly	Lepidoptera	100.0
+taxongroup	Lep-f8ec_374_butterflies-43	Lep-f8ec_374_Lepidoptera-4	Lep-f8ec_374_butterflies-43_5238	374	Lep-f8ec_374_Lepidoptera-4_2698	374	0	monarch butterfly	Lepidoptera	100.0
+taxongroup	Lep-f8ec_374_butterfly-14	Lep-f8ec_374_Lepidoptera-4	Lep-f8ec_374_butterfly-14_5238	374	Lep-f8ec_374_Lepidoptera-4_2698	374	0	monarch butterfly	Lepidoptera	100.0
+taxongroup	Mar-9812_2_fritillary-3	Mar-9812_2_Euphydryas-5	Mar-9812_2_fritillary-3_5223	2	Mar-9812_2_Euphydryas-5_1027	2	0	marsh fritillary	Euphydryas 	100.0
+taxongroup	Mel-2dd4_15_white-38	Mel-2dd4_15_Melanargia-27	Mel-2dd4_15_white-38_5220	15	Mel-2dd4_15_Melanargia-27_1137	15	0	marbled white	Melanargia	100.0
+taxongroup	Mel-2dd4_15_white-38	Mel-2dd4_15_Melanargia-46	Mel-2dd4_15_white-38_5220	15	Mel-2dd4_15_Melanargia-46_1137	15	0	marbled white	Melanargia	100.0
+taxongroup	Mel-2dd4_25_white-11	Mel-2dd4_25_Melanargia-48	Mel-2dd4_25_white-11_5220	25	Mel-2dd4_25_Melanargia-48_1137	25	0	marbled white	Melanargia	100.0
+taxongroup	Mel-ddca_29_white-10	Mel-ddca_29_Melanargia-12	Mel-ddca_29_white-10_5220	29	Mel-ddca_29_Melanargia-12_1137	29	0	marbled white	Melanargia	100.0
+taxongroup	Mel-2dd4_15_white-38	Mel-2dd4_15_Melanargia-22	Mel-2dd4_15_white-38_5220	15	Mel-2dd4_15_Melanargia-22_1137	15	0	marbled white	Melanargia	100.0
+taxongroup	Mel-2dd4_25_white-58	Mel-2dd4_25_Melanargia-48	Mel-2dd4_25_white-58_5220	25	Mel-2dd4_25_Melanargia-48_1137	25	0	marbled white	Melanargia	100.0
+taxongroup	Mel-2dd4_25_white-11	Mel-2dd4_25_Melanargia-41	Mel-2dd4_25_white-11_5220	25	Mel-2dd4_25_Melanargia-41_1137	25	0	marbled white	Melanargia	100.0
+taxongroup	Mel-ddca_2_white-6	Mel-ddca_2_Melanargia-1	Mel-ddca_2_white-6_5220	2	Mel-ddca_2_Melanargia-1_1137	2	0	marbled white	Melanargia	100.0
+taxongroup	Mel-2dd4_25_white-58	Mel-2dd4_25_Melanargia-25	Mel-2dd4_25_white-58_5220	25	Mel-2dd4_25_Melanargia-25_1137	25	0	marbled white	Melanargia	100.0
+taxongroup	Mel-2dd4_25_white-58	Mel-2dd4_25_Melanargia-41	Mel-2dd4_25_white-58_5220	25	Mel-2dd4_25_Melanargia-41_1137	25	0	marbled white	Melanargia	100.0
+taxongroup	Mel-2dd4_25_white-11	Mel-2dd4_25_Melanargia-1	Mel-2dd4_25_white-11_5220	25	Mel-2dd4_25_Melanargia-1_1137	25	0	marbled white	Melanargia	100.0
+taxongroup	Mel-2dd4_25_white-11	Mel-2dd4_25_Melanargia-25	Mel-2dd4_25_white-11_5220	25	Mel-2dd4_25_Melanargia-25_1137	25	0	marbled white	Melanargia	100.0
+taxongroup	Pap-c852_2_swallowtail-7	Pap-c852_2_Papilio-1	Pap-c852_2_swallowtail-7_3888	2	Pap-c852_2_Papilio-1_1191	2	0	swallowtail	Papilio	100.0
+taxongroup	Ant-f3cd_178_moths-27	Ant-f3cd_178_animal-9	Ant-f3cd_178_moths-27_5661	178	Ant-f3cd_178_animal-9_3812	178	0	burnet moth	animals	100.0
+taxongroup	Gon-252b_19_brimstone-12	Gon-252b_19_Gonepteryx-20	Gon-252b_19_brimstone-12_5020	19	Gon-252b_19_Gonepteryx-20_1054	19	0	brimstone	Gonepteryx	100.0
+taxongroup	Urt-7146_79_Nymphalidae-25	Urt-7146_79_butterflies-11	Urt-7146_79_Nymphalidae-25_711	79	Urt-7146_79_butterflies-11_5170	79	0	Nymphalidae	butterflies and moths	100.0
+taxongroup	Urt-7146_79_Nymphalidae-25	Urt-7146_79_Lepidoptera-9	Urt-7146_79_Nymphalidae-25_711	79	Urt-7146_79_Lepidoptera-9_2698	79	0	Nymphalidae	Lepidoptera	100.0
+taxongroup	Nar-e858_333_Nymphalidae-19	Nar-e858_333_Lepidoptera-8	Nar-e858_333_Nymphalidae-19_711	333	Nar-e858_333_Lepidoptera-8_2698	333	0	Nymphalidae	Lepidoptera	100.0
+taxongroup	Mel-2dd4_40_Nymphalidae-14	Mel-2dd4_40_Lepidoptera-12	Mel-2dd4_40_Nymphalidae-14_711	40	Mel-2dd4_40_Lepidoptera-12_2698	40	0	Nymphalidae	Lepidoptera	100.0
+taxongroup	Mar-9812_254_Nymphalidae-4	Mar-9812_254_Lepidoptera-2	Mar-9812_254_Nymphalidae-4_711	254	Mar-9812_254_Lepidoptera-2_2698	254	0	Nymphalidae	Lepidoptera	100.0
+taxongroup	Lep-f8ec_156_Nymphalidae-36	Lep-f8ec_156_Lepidoptera-19	Lep-f8ec_156_Nymphalidae-36_711	156	Lep-f8ec_156_Lepidoptera-19_2698	156	0	Nymphalidae	Lepidoptera	100.0
+taxongroup	Eup-d14d_6_Nymphalidae-10	Eup-d14d_6_Lepidoptera-8	Eup-d14d_6_Nymphalidae-10_711	6	Eup-d14d_6_Lepidoptera-8_2698	6	0	Nymphalidae	Lepidoptera	100.0
+taxongroup	Swa-32cf_101_Swallowtails-1	Swa-32cf_101_animals-5	Swa-32cf_101_Swallowtails-1_201	101	Swa-32cf_101_animals-5_3812	101	0	Swallowtail	animals	100.0
+taxongroup	Bov-01d4_40_Lepidoptera-23	Bov-01d4_40_animals-21	Bov-01d4_40_Lepidoptera-23_2698	40	Bov-01d4_40_animals-21_44	40	0	Lepidoptera	Animals	100.0
+taxongroup	Lep-f8ec_671_Lepidoptera-22	Lep-f8ec_671_Insecta-16	Lep-f8ec_671_Lepidoptera-22_2698	671	Lep-f8ec_671_Insecta-16_396	671	0	Lepidoptera	Insecta	100.0
+taxongroup	Lep-f8ec_671_Lepidoptera-12	Lep-f8ec_671_Insecta-16	Lep-f8ec_671_Lepidoptera-12_2698	671	Lep-f8ec_671_Insecta-16_396	671	0	Lepidoptera	Insecta	100.0
+taxongroup	Arc-d09d_99_Lepidoptera-7	Arc-d09d_99_Insecta-9	Arc-d09d_99_Lepidoptera-7_2698	99	Arc-d09d_99_Insecta-9_396	99	0	Lepidoptera	Insecta	100.0
+taxongroup	Lep-f8ec_671_Lepidoptera-22	Lep-f8ec_671_Insects-14	Lep-f8ec_671_Lepidoptera-22_2698	671	Lep-f8ec_671_Insects-14_397	671	0	Lepidoptera	Insects	100.0
+taxongroup	Lep-f8ec_671_Lepidoptera-12	Lep-f8ec_671_Insects-14	Lep-f8ec_671_Lepidoptera-12_2698	671	Lep-f8ec_671_Insects-14_397	671	0	Lepidoptera	Insects	100.0
+taxongroup	Lit-f642_64_Lepidoptera-10	Lit-f642_64_insects-2	Lit-f642_64_Lepidoptera-10_2698	64	Lit-f642_64_insects-2_4008	64	0	Lepidoptera	insects	100.0
+taxongroup	Bee-ace3_208_Lepidoptera-30	Bee-ace3_208_insects-9	Bee-ace3_208_Lepidoptera-30_2698	208	Bee-ace3_208_insects-9_4008	208	0	Lepidoptera	insects	100.0
+taxongroup	Lep-f8ec_42_Lepidoptera-2	Lep-f8ec_42_insects-10	Lep-f8ec_42_Lepidoptera-2_2698	42	Lep-f8ec_42_insects-10_4008	42	0	Lepidoptera	insects	100.0
+taxongroup	Fly-ac51_36_Lepidoptera-18	Fly-ac51_36_insects-5	Fly-ac51_36_Lepidoptera-18_2698	36	Fly-ac51_36_insects-5_4008	36	0	Lepidoptera	insects	100.0
+taxongroup	Sem-88a0_148_Lepidoptera-6	Sem-88a0_148_insects-2	Sem-88a0_148_Lepidoptera-6_2698	148	Sem-88a0_148_insects-2_4008	148	0	Lepidoptera	insects	100.0
+taxongroup	Lyc-fe90_58_Lycaenidae-20	Lyc-fe90_58_Lepidoptera-22	Lyc-fe90_58_Lycaenidae-20_672	58	Lyc-fe90_58_Lepidoptera-22_2698	58	0	Lycaenidae	Lepidoptera	100.0
+taxongroup	Lyc-fe90_61_Lycaenidae-7	Lyc-fe90_61_Lepidoptera-9	Lyc-fe90_61_Lycaenidae-7_672	61	Lyc-fe90_61_Lepidoptera-9_2698	61	0	Lycaenidae	Lepidoptera	100.0
+taxongroup	Pol-b2a3_11_Lycaenidae-21	Pol-b2a3_11_Lepidoptera-19	Pol-b2a3_11_Lycaenidae-21_672	11	Pol-b2a3_11_Lepidoptera-19_2698	11	0	Lycaenidae	Lepidoptera	100.0
+taxongroup	Pol-b2a3_14_Lycaenidae-10	Pol-b2a3_14_Lepidoptera-8	Pol-b2a3_14_Lycaenidae-10_672	14	Pol-b2a3_14_Lepidoptera-8_2698	14	0	Lycaenidae	Lepidoptera	100.0
+taxongroup	Ins-960c_321_butterfly-20	Ins-960c_321_insects-3	Ins-960c_321_butterfly-20_5238	321	Ins-960c_321_insects-3_4008	321	0	monarch butterfly	insects	100.0
+taxongroup	Mel-2dd4_25_white-58	Mel-2dd4_25_Melanargia-1	Mel-2dd4_25_white-58_5220	25	Mel-2dd4_25_Melanargia-1_1137	25	0	marbled white	Melanargia	100.0
+taxongroup	Swa-32cf_106_swallowtail-9	Swa-32cf_106_Papilio-4	Swa-32cf_106_swallowtail-9_3888	106	Swa-32cf_106_Papilio-4_1191	106	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-41	Pap-75c9_71_Papilio-23	Pap-75c9_71_swallowtail-41_3888	71	Pap-75c9_71_Papilio-23_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-53	Pap-75c9_71_Papilio-54	Pap-75c9_71_swallowtail-53_3888	71	Pap-75c9_71_Papilio-54_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-53	Pap-75c9_71_Papilio-42	Pap-75c9_71_swallowtail-53_3888	71	Pap-75c9_71_Papilio-42_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-53	Pap-75c9_71_Papilio-34	Pap-75c9_71_swallowtail-53_3888	71	Pap-75c9_71_Papilio-34_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_22_swallowtail-7	Pap-75c9_22_Papilio-12	Pap-75c9_22_swallowtail-7_3888	22	Pap-75c9_22_Papilio-12_1191	22	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-50	Pap-75c9_34_Papilio-33	Pap-75c9_34_swallowtail-50_3888	34	Pap-75c9_34_Papilio-33_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-50	Pap-75c9_34_Papilio-38	Pap-75c9_34_swallowtail-50_3888	34	Pap-75c9_34_Papilio-38_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-62	Pap-75c9_71_Papilio-42	Pap-75c9_71_swallowtail-62_3888	71	Pap-75c9_71_Papilio-42_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_4_swallowtail-6	Pap-75c9_4_Papilio-47	Pap-75c9_4_swallowtail-6_3888	4	Pap-75c9_4_Papilio-47_1191	4	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_62_swallowtail-41	Pap-75c9_62_Papilio-22	Pap-75c9_62_swallowtail-41_3888	62	Pap-75c9_62_Papilio-22_1191	62	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-41	Pap-75c9_71_Papilio-34	Pap-75c9_71_swallowtail-41_3888	71	Pap-75c9_71_Papilio-34_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-41	Pap-75c9_71_Papilio-1	Pap-75c9_71_swallowtail-41_3888	71	Pap-75c9_71_Papilio-1_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-12	Pap-75c9_34_Papilio-2	Pap-75c9_34_swallowtail-12_3888	34	Pap-75c9_34_Papilio-2_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Swa-32cf_118_swallowtail-11	Swa-32cf_118_Papilio-6	Swa-32cf_118_swallowtail-11_3888	118	Swa-32cf_118_Papilio-6_1191	118	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-68	Pap-75c9_36_Papilio-19	Pap-75c9_36_swallowtail-68_3888	36	Pap-75c9_36_Papilio-19_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-68	Pap-75c9_36_Papilio-1	Pap-75c9_36_swallowtail-68_3888	36	Pap-75c9_36_Papilio-1_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_36_swallowtail-68	Pap-75c9_36_Papilio-33	Pap-75c9_36_swallowtail-68_3888	36	Pap-75c9_36_Papilio-33_1191	36	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-41	Pap-75c9_71_Papilio-42	Pap-75c9_71_swallowtail-41_3888	71	Pap-75c9_71_Papilio-42_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-62	Pap-75c9_71_Papilio-23	Pap-75c9_71_swallowtail-62_3888	71	Pap-75c9_71_Papilio-23_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-12	Pap-75c9_34_Papilio-18	Pap-75c9_34_swallowtail-12_3888	34	Pap-75c9_34_Papilio-18_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-53	Pap-75c9_71_Papilio-84	Pap-75c9_71_swallowtail-53_3888	71	Pap-75c9_71_Papilio-84_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-77	Pap-75c9_31_Papilio-44	Pap-75c9_31_swallowtail-77_3888	31	Pap-75c9_31_Papilio-44_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-53	Pap-75c9_71_Papilio-23	Pap-75c9_71_swallowtail-53_3888	71	Pap-75c9_71_Papilio-23_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-30	Pap-75c9_31_Papilio-31	Pap-75c9_31_swallowtail-30_3888	31	Pap-75c9_31_Papilio-31_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-86	Pap-75c9_31_Papilio-63	Pap-75c9_31_swallowtail-86_3888	31	Pap-75c9_31_Papilio-63_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-86	Pap-75c9_31_Papilio-54	Pap-75c9_31_swallowtail-86_3888	31	Pap-75c9_31_Papilio-54_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-86	Pap-75c9_31_Papilio-49	Pap-75c9_31_swallowtail-86_3888	31	Pap-75c9_31_Papilio-49_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-92	Pap-75c9_71_Papilio-1	Pap-75c9_71_swallowtail-92_3888	71	Pap-75c9_71_Papilio-1_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_22_swallowtail-3	Pap-75c9_22_Papilio-31	Pap-75c9_22_swallowtail-3_3888	22	Pap-75c9_22_Papilio-31_1191	22	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-50	Pap-75c9_34_Papilio-43	Pap-75c9_34_swallowtail-50_3888	34	Pap-75c9_34_Papilio-43_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-50	Pap-75c9_34_Papilio-51	Pap-75c9_34_swallowtail-50_3888	34	Pap-75c9_34_Papilio-51_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-53	Pap-75c9_71_Papilio-73	Pap-75c9_71_swallowtail-53_3888	71	Pap-75c9_71_Papilio-73_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-62	Pap-75c9_71_Papilio-10	Pap-75c9_71_swallowtail-62_3888	71	Pap-75c9_71_Papilio-10_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-53	Pap-75c9_71_Papilio-63	Pap-75c9_71_swallowtail-53_3888	71	Pap-75c9_71_Papilio-63_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-62	Pap-75c9_71_Papilio-73	Pap-75c9_71_swallowtail-62_3888	71	Pap-75c9_71_Papilio-73_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_48_swallowtail-28	Pap-75c9_48_Papilio-33	Pap-75c9_48_swallowtail-28_3888	48	Pap-75c9_48_Papilio-33_1191	48	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-62	Pap-75c9_71_Papilio-84	Pap-75c9_71_swallowtail-62_3888	71	Pap-75c9_71_Papilio-84_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-23	Pap-75c9_31_Papilio-49	Pap-75c9_31_swallowtail-23_3888	31	Pap-75c9_31_Papilio-49_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-23	Pap-75c9_31_Papilio-54	Pap-75c9_31_swallowtail-23_3888	31	Pap-75c9_31_Papilio-54_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-7	Pap-75c9_31_Papilio-63	Pap-75c9_31_swallowtail-7_3888	31	Pap-75c9_31_Papilio-63_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-7	Pap-75c9_31_Papilio-54	Pap-75c9_31_swallowtail-7_3888	31	Pap-75c9_31_Papilio-54_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-7	Pap-75c9_31_Papilio-8	Pap-75c9_31_swallowtail-7_3888	31	Pap-75c9_31_Papilio-8_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-23	Pap-75c9_31_Papilio-8	Pap-75c9_31_swallowtail-23_3888	31	Pap-75c9_31_Papilio-8_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-23	Pap-75c9_31_Papilio-78	Pap-75c9_31_swallowtail-23_3888	31	Pap-75c9_31_Papilio-78_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-23	Pap-75c9_31_Papilio-63	Pap-75c9_31_swallowtail-23_3888	31	Pap-75c9_31_Papilio-63_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-23	Pap-75c9_31_Papilio-70	Pap-75c9_31_swallowtail-23_3888	31	Pap-75c9_31_Papilio-70_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-86	Pap-75c9_31_Papilio-31	Pap-75c9_31_swallowtail-86_3888	31	Pap-75c9_31_Papilio-31_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-86	Pap-75c9_31_Papilio-44	Pap-75c9_31_swallowtail-86_3888	31	Pap-75c9_31_Papilio-44_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-12	Pap-75c9_34_Papilio-33	Pap-75c9_34_swallowtail-12_3888	34	Pap-75c9_34_Papilio-33_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-41	Pap-75c9_71_Papilio-10	Pap-75c9_71_swallowtail-41_3888	71	Pap-75c9_71_Papilio-10_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-62	Pap-75c9_71_Papilio-63	Pap-75c9_71_swallowtail-62_3888	71	Pap-75c9_71_Papilio-63_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_7_swallowtails-45	Pap-75c9_7_Papilio-22	Pap-75c9_7_swallowtails-45_3888	7	Pap-75c9_7_Papilio-22_1191	7	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-32	Pap-75c9_34_Papilio-43	Pap-75c9_34_swallowtail-32_3888	34	Pap-75c9_34_Papilio-43_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-32	Pap-75c9_34_Papilio-51	Pap-75c9_34_swallowtail-32_3888	34	Pap-75c9_34_Papilio-51_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-50	Pap-75c9_34_Papilio-13	Pap-75c9_34_swallowtail-50_3888	34	Pap-75c9_34_Papilio-13_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-50	Pap-75c9_34_Papilio-18	Pap-75c9_34_swallowtail-50_3888	34	Pap-75c9_34_Papilio-18_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-12	Pap-75c9_34_Papilio-38	Pap-75c9_34_swallowtail-12_3888	34	Pap-75c9_34_Papilio-38_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-53	Pap-75c9_71_Papilio-1	Pap-75c9_71_swallowtail-53_3888	71	Pap-75c9_71_Papilio-1_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_23_swallowtail-10	Pap-75c9_23_Papilio-3	Pap-75c9_23_swallowtail-10_3888	23	Pap-75c9_23_Papilio-3_1191	23	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-32	Pap-75c9_34_Papilio-33	Pap-75c9_34_swallowtail-32_3888	34	Pap-75c9_34_Papilio-33_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-62	Pap-75c9_71_Papilio-1	Pap-75c9_71_swallowtail-62_3888	71	Pap-75c9_71_Papilio-1_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_22_swallowtail-3	Pap-75c9_22_Papilio-12	Pap-75c9_22_swallowtail-3_3888	22	Pap-75c9_22_Papilio-12_1191	22	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_22_swallowtail-7	Pap-75c9_22_Papilio-31	Pap-75c9_22_swallowtail-7_3888	22	Pap-75c9_22_Papilio-31_1191	22	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-32	Pap-75c9_34_Papilio-2	Pap-75c9_34_swallowtail-32_3888	34	Pap-75c9_34_Papilio-2_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-12	Pap-75c9_34_Papilio-43	Pap-75c9_34_swallowtail-12_3888	34	Pap-75c9_34_Papilio-43_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-12	Pap-75c9_34_Papilio-23	Pap-75c9_34_swallowtail-12_3888	34	Pap-75c9_34_Papilio-23_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-12	Pap-75c9_34_Papilio-13	Pap-75c9_34_swallowtail-12_3888	34	Pap-75c9_34_Papilio-13_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-7	Pap-75c9_31_Papilio-70	Pap-75c9_31_swallowtail-7_3888	31	Pap-75c9_31_Papilio-70_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Swa-32cf_69_swallowtail-7	Swa-32cf_69_Papilio-10	Swa-32cf_69_swallowtail-7_3888	69	Swa-32cf_69_Papilio-10_1191	69	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-53	Pap-75c9_71_Papilio-10	Pap-75c9_71_swallowtail-53_3888	71	Pap-75c9_71_Papilio-10_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-92	Pap-75c9_71_Papilio-10	Pap-75c9_71_swallowtail-92_3888	71	Pap-75c9_71_Papilio-10_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-50	Pap-75c9_34_Papilio-2	Pap-75c9_34_swallowtail-50_3888	34	Pap-75c9_34_Papilio-2_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-92	Pap-75c9_71_Papilio-63	Pap-75c9_71_swallowtail-92_3888	71	Pap-75c9_71_Papilio-63_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-50	Pap-75c9_34_Papilio-23	Pap-75c9_34_swallowtail-50_3888	34	Pap-75c9_34_Papilio-23_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_19_swallowtail-18	Pap-75c9_19_Papilio-1	Pap-75c9_19_swallowtail-18_3888	19	Pap-75c9_19_Papilio-1_1191	19	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_19_swallowtail-18	Pap-75c9_19_Papilio-9	Pap-75c9_19_swallowtail-18_3888	19	Pap-75c9_19_Papilio-9_1191	19	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_23_swallowtail-13	Pap-75c9_23_Papilio-3	Pap-75c9_23_swallowtail-13_3888	23	Pap-75c9_23_Papilio-3_1191	23	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-7	Pap-75c9_31_Papilio-78	Pap-75c9_31_swallowtail-7_3888	31	Pap-75c9_31_Papilio-78_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-58	Pap-75c9_29_Papilio-35	Pap-75c9_29_swallowtail-58_3888	29	Pap-75c9_29_Papilio-35_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_29_swallowtail-16	Pap-75c9_29_Papilio-17	Pap-75c9_29_swallowtail-16_3888	29	Pap-75c9_29_Papilio-17_1191	29	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-92	Pap-75c9_71_Papilio-73	Pap-75c9_71_swallowtail-92_3888	71	Pap-75c9_71_Papilio-73_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-92	Pap-75c9_71_Papilio-54	Pap-75c9_71_swallowtail-92_3888	71	Pap-75c9_71_Papilio-54_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-92	Pap-75c9_71_Papilio-42	Pap-75c9_71_swallowtail-92_3888	71	Pap-75c9_71_Papilio-42_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-92	Pap-75c9_71_Papilio-34	Pap-75c9_71_swallowtail-92_3888	71	Pap-75c9_71_Papilio-34_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-62	Pap-75c9_71_Papilio-34	Pap-75c9_71_swallowtail-62_3888	71	Pap-75c9_71_Papilio-34_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-92	Pap-75c9_71_Papilio-23	Pap-75c9_71_swallowtail-92_3888	71	Pap-75c9_71_Papilio-23_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_71_swallowtail-62	Pap-75c9_71_Papilio-54	Pap-75c9_71_swallowtail-62_3888	71	Pap-75c9_71_Papilio-54_1191	71	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_31_swallowtail-30	Pap-75c9_31_Papilio-44	Pap-75c9_31_swallowtail-30_3888	31	Pap-75c9_31_Papilio-44_1191	31	0	swallowtail	Papilio	100.0
+taxongroup	Pap-75c9_34_swallowtail-32	Pap-75c9_34_Papilio-38	Pap-75c9_34_swallowtail-32_3888	34	Pap-75c9_34_Papilio-38_1191	34	0	swallowtail	Papilio	100.0
+taxongroup	Pie-14e4_155_brassicae-2	Pie-14e4_155_Pieris-1	Pie-14e4_155_brassicae-2_2661	155	Pie-14e4_155_Pieris-1_1342	155	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-8	Pie-14e4_158_Pieris-53	Pie-14e4_158_brassicae-8_2661	158	Pie-14e4_158_Pieris-53_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_157_brassicae-8	Pie-14e4_157_Pieris-7	Pie-14e4_157_brassicae-8_2661	157	Pie-14e4_157_Pieris-7_1342	157	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-34	Pie-14e4_158_Pieris-53	Pie-14e4_158_brassicae-34_2661	158	Pie-14e4_158_Pieris-53_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-34	Pie-14e4_158_Pieris-7	Pie-14e4_158_brassicae-34_2661	158	Pie-14e4_158_Pieris-7_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_143_brassicae-2	Pie-14e4_143_Pieris-1	Pie-14e4_143_brassicae-2_2661	143	Pie-14e4_143_Pieris-1_1342	143	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_141_brassicae-2	Pie-14e4_141_Pieris-1	Pie-14e4_141_brassicae-2_2661	141	Pie-14e4_141_Pieris-1_1342	141	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-8	Pie-14e4_158_Pieris-33	Pie-14e4_158_brassicae-8_2661	158	Pie-14e4_158_Pieris-33_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pap-c852_92_machaon-16	Pap-c852_92_Papilio-15	Pap-c852_92_machaon-16_202	92	Pap-c852_92_Papilio-15_1191	92	0	Papilio machaon	Papilio	87.0
+taxongroup	Mel-ddca_9_galathea-26	Mel-ddca_9_Melanargia-8	Mel-ddca_9_galathea-26_2815	9	Mel-ddca_9_Melanargia-8_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Pie-14e4_33_brassicae-2	Pie-14e4_33_Pieris-1	Pie-14e4_33_brassicae-2_2661	33	Pie-14e4_33_Pieris-1_1342	33	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-34	Pie-14e4_158_Pieris-33	Pie-14e4_158_brassicae-34_2661	158	Pie-14e4_158_Pieris-33_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-34	Pie-14e4_158_Pieris-59	Pie-14e4_158_brassicae-34_2661	158	Pie-14e4_158_Pieris-59_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-54	Pie-14e4_158_Pieris-33	Pie-14e4_158_brassicae-54_2661	158	Pie-14e4_158_Pieris-33_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-40	Pie-14e4_158_Pieris-59	Pie-14e4_158_brassicae-40_2661	158	Pie-14e4_158_Pieris-59_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-8	Pie-14e4_158_Pieris-27	Pie-14e4_158_brassicae-8_2661	158	Pie-14e4_158_Pieris-27_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-54	Pie-14e4_158_Pieris-21	Pie-14e4_158_brassicae-54_2661	158	Pie-14e4_158_Pieris-21_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-54	Pie-14e4_158_Pieris-27	Pie-14e4_158_brassicae-54_2661	158	Pie-14e4_158_Pieris-27_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-40	Pie-14e4_158_Pieris-7	Pie-14e4_158_brassicae-40_2661	158	Pie-14e4_158_Pieris-7_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_163_brassicae-2	Pie-14e4_163_Pieris-1	Pie-14e4_163_brassicae-2_2661	163	Pie-14e4_163_Pieris-1_1342	163	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-60	Pie-14e4_158_Pieris-33	Pie-14e4_158_brassicae-60_2661	158	Pie-14e4_158_Pieris-33_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-16	Pie-14e4_158_Pieris-53	Pie-14e4_158_brassicae-16_2661	158	Pie-14e4_158_Pieris-53_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-16	Pie-14e4_158_Pieris-21	Pie-14e4_158_brassicae-16_2661	158	Pie-14e4_158_Pieris-21_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-16	Pie-14e4_158_Pieris-59	Pie-14e4_158_brassicae-16_2661	158	Pie-14e4_158_Pieris-59_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-34	Pie-14e4_158_Pieris-39	Pie-14e4_158_brassicae-34_2661	158	Pie-14e4_158_Pieris-39_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-16	Pie-14e4_158_Pieris-7	Pie-14e4_158_brassicae-16_2661	158	Pie-14e4_158_Pieris-7_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-16	Pie-14e4_158_Pieris-27	Pie-14e4_158_brassicae-16_2661	158	Pie-14e4_158_Pieris-27_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-16	Pie-14e4_158_Pieris-39	Pie-14e4_158_brassicae-16_2661	158	Pie-14e4_158_Pieris-39_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_97_brassicae-2	Pie-14e4_97_Pieris-1	Pie-14e4_97_brassicae-2_2661	97	Pie-14e4_97_Pieris-1_1342	97	0	Pieris brassicae	Pieris	87.0
+taxongroup	Mel-ddca_7_galathea-2	Mel-ddca_7_Melanargia-1	Mel-ddca_7_galathea-2_2815	7	Mel-ddca_7_Melanargia-1_1137	7	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Pie-14e4_158_brassicae-28	Pie-14e4_158_Pieris-39	Pie-14e4_158_brassicae-28_2661	158	Pie-14e4_158_Pieris-39_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-40	Pie-14e4_158_Pieris-21	Pie-14e4_158_brassicae-40_2661	158	Pie-14e4_158_Pieris-21_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-40	Pie-14e4_158_Pieris-53	Pie-14e4_158_brassicae-40_2661	158	Pie-14e4_158_Pieris-53_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-34	Pie-14e4_158_Pieris-21	Pie-14e4_158_brassicae-34_2661	158	Pie-14e4_158_Pieris-21_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Arc-d09d_99_Arctiidae-5	Arc-d09d_99_Lepidoptera-7	Arc-d09d_99_Arctiidae-5_1560	99	Arc-d09d_99_Lepidoptera-7_2698	99	0	Arctiidae	Lepidoptera	87.0
+taxongroup	Mel-ddca_9_galathea-16	Mel-ddca_9_Melanargia-8	Mel-ddca_9_galathea-16_2815	9	Mel-ddca_9_Melanargia-8_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mar-9812_2_aurinia-6	Mar-9812_2_Euphydryas-5	Mar-9812_2_aurinia-6_2823	2	Mar-9812_2_Euphydryas-5_1027	2	0	Euphydryas aurinia	Euphydryas 	87.0
+taxongroup	Mel-ddca_9_galathea-32	Mel-ddca_9_Melanargia-25	Mel-ddca_9_galathea-32_2815	9	Mel-ddca_9_Melanargia-25_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-3	Mel-ddca_9_Melanargia-1	Mel-ddca_9_galathea-3_2815	9	Mel-ddca_9_Melanargia-1_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-3	Mel-ddca_9_Melanargia-15	Mel-ddca_9_galathea-3_2815	9	Mel-ddca_9_Melanargia-15_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-2	Mel-ddca_9_Melanargia-25	Mel-ddca_9_galathea-2_2815	9	Mel-ddca_9_Melanargia-25_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-3	Mel-ddca_9_Melanargia-31	Mel-ddca_9_galathea-3_2815	9	Mel-ddca_9_Melanargia-31_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-32	Mel-ddca_9_Melanargia-1	Mel-ddca_9_galathea-32_2815	9	Mel-ddca_9_Melanargia-1_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-26	Mel-ddca_9_Melanargia-31	Mel-ddca_9_galathea-26_2815	9	Mel-ddca_9_Melanargia-31_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-2	Mel-ddca_9_Melanargia-1	Mel-ddca_9_galathea-2_2815	9	Mel-ddca_9_Melanargia-1_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Pie-14e4_158_brassicae-54	Pie-14e4_158_Pieris-59	Pie-14e4_158_brassicae-54_2661	158	Pie-14e4_158_Pieris-59_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Mel-ddca_9_galathea-32	Mel-ddca_9_Melanargia-31	Mel-ddca_9_galathea-32_2815	9	Mel-ddca_9_Melanargia-31_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Arc-d09d_107_Arctiidae-19	Arc-d09d_107_Lepidoptera-17	Arc-d09d_107_Arctiidae-19_1560	107	Arc-d09d_107_Lepidoptera-17_2698	107	0	Arctiidae	Lepidoptera	87.0
+taxongroup	Arc-d09d_105_Arctiidae-19	Arc-d09d_105_Lepidoptera-17	Arc-d09d_105_Arctiidae-19_1560	105	Arc-d09d_105_Lepidoptera-17_2698	105	0	Arctiidae	Lepidoptera	87.0
+taxongroup	Arc-d09d_91_Arctiidae-10	Arc-d09d_91_Lepidoptera-8	Arc-d09d_91_Arctiidae-10_1560	91	Arc-d09d_91_Lepidoptera-8_2698	91	0	Arctiidae	Lepidoptera	87.0
+taxongroup	Arc-d09d_137_Arctiidae-14	Arc-d09d_137_Lepidoptera-16	Arc-d09d_137_Arctiidae-14_1560	137	Arc-d09d_137_Lepidoptera-16_2698	137	0	Arctiidae	Lepidoptera	87.0
+taxongroup	Arc-d09d_129_Arctiidae-13	Arc-d09d_129_Lepidoptera-11	Arc-d09d_129_Arctiidae-13_1560	129	Arc-d09d_129_Lepidoptera-11_2698	129	0	Arctiidae	Lepidoptera	87.0
+taxongroup	Arc-d09d_126_Arctiidae-16	Arc-d09d_126_Lepidoptera-14	Arc-d09d_126_Arctiidae-16_1560	126	Arc-d09d_126_Lepidoptera-14_2698	126	0	Arctiidae	Lepidoptera	87.0
+taxongroup	Arc-d09d_123_Arctiidae-23	Arc-d09d_123_Lepidoptera-21	Arc-d09d_123_Arctiidae-23_1560	123	Arc-d09d_123_Lepidoptera-21_2698	123	0	Arctiidae	Lepidoptera	87.0
+taxongroup	Arc-d09d_119_Arctiidae-10	Arc-d09d_119_Lepidoptera-8	Arc-d09d_119_Arctiidae-10_1560	119	Arc-d09d_119_Lepidoptera-8_2698	119	0	Arctiidae	Lepidoptera	87.0
+taxongroup	Mel-ddca_9_galathea-3	Mel-ddca_9_Melanargia-25	Mel-ddca_9_galathea-3_2815	9	Mel-ddca_9_Melanargia-25_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-32	Mel-ddca_9_Melanargia-8	Mel-ddca_9_galathea-32_2815	9	Mel-ddca_9_Melanargia-8_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-16	Mel-ddca_9_Melanargia-31	Mel-ddca_9_galathea-16_2815	9	Mel-ddca_9_Melanargia-31_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-2	Mel-ddca_9_Melanargia-8	Mel-ddca_9_galathea-2_2815	9	Mel-ddca_9_Melanargia-8_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-26	Mel-ddca_9_Melanargia-25	Mel-ddca_9_galathea-26_2815	9	Mel-ddca_9_Melanargia-25_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_17_galathea-2	Mel-ddca_17_Melanargia-1	Mel-ddca_17_galathea-2_2815	17	Mel-ddca_17_Melanargia-1_1137	17	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_20_galathea-2	Mel-ddca_20_Melanargia-1	Mel-ddca_20_galathea-2_2815	20	Mel-ddca_20_Melanargia-1_1137	20	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-26	Mel-ddca_9_Melanargia-15	Mel-ddca_9_galathea-26_2815	9	Mel-ddca_9_Melanargia-15_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-16	Mel-ddca_9_Melanargia-1	Mel-ddca_9_galathea-16_2815	9	Mel-ddca_9_Melanargia-1_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-16	Mel-ddca_9_Melanargia-25	Mel-ddca_9_galathea-16_2815	9	Mel-ddca_9_Melanargia-25_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-16	Mel-ddca_9_Melanargia-15	Mel-ddca_9_galathea-16_2815	9	Mel-ddca_9_Melanargia-15_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-3	Mel-ddca_9_Melanargia-8	Mel-ddca_9_galathea-3_2815	9	Mel-ddca_9_Melanargia-8_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-26	Mel-ddca_9_Melanargia-1	Mel-ddca_9_galathea-26_2815	9	Mel-ddca_9_Melanargia-1_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-2	Mel-ddca_9_Melanargia-15	Mel-ddca_9_galathea-2_2815	9	Mel-ddca_9_Melanargia-15_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_46_galathea-2	Mel-ddca_46_Melanargia-1	Mel-ddca_46_galathea-2_2815	46	Mel-ddca_46_Melanargia-1_1137	46	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_47_galathea-2	Mel-ddca_47_Melanargia-1	Mel-ddca_47_galathea-2_2815	47	Mel-ddca_47_Melanargia-1_1137	47	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_12_galathea-2	Mel-ddca_12_Melanargia-1	Mel-ddca_12_galathea-2_2815	12	Mel-ddca_12_Melanargia-1_1137	12	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_43_galathea-2	Mel-ddca_43_Melanargia-1	Mel-ddca_43_galathea-2_2815	43	Mel-ddca_43_Melanargia-1_1137	43	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_33_galathea-2	Mel-ddca_33_Melanargia-1	Mel-ddca_33_galathea-2_2815	33	Mel-ddca_33_Melanargia-1_1137	33	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_1_galathea-2	Mel-ddca_1_Melanargia-1	Mel-ddca_1_galathea-2_2815	1	Mel-ddca_1_Melanargia-1_1137	1	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-32	Mel-ddca_9_Melanargia-15	Mel-ddca_9_galathea-32_2815	9	Mel-ddca_9_Melanargia-15_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Mel-ddca_9_galathea-2	Mel-ddca_9_Melanargia-31	Mel-ddca_9_galathea-2_2815	9	Mel-ddca_9_Melanargia-31_1137	9	0	Melanargia galathea	Melanargia	87.0
+taxongroup	Pie-14e4_158_brassicae-60	Pie-14e4_158_Pieris-21	Pie-14e4_158_brassicae-60_2661	158	Pie-14e4_158_Pieris-21_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_5_brassicae-2	Pie-14e4_5_Pieris-1	Pie-14e4_5_brassicae-2_2661	5	Pie-14e4_5_Pieris-1_1342	5	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-54	Pie-14e4_158_Pieris-53	Pie-14e4_158_brassicae-54_2661	158	Pie-14e4_158_Pieris-53_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Van-b9b9_4_cardui-2	Van-b9b9_4_Vanessa-1	Van-b9b9_4_cardui-2_272	4	Van-b9b9_4_Vanessa-1_1334	4	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Pie-14e4_158_brassicae-16	Pie-14e4_158_Pieris-33	Pie-14e4_158_brassicae-16_2661	158	Pie-14e4_158_Pieris-33_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-28	Pie-14e4_158_Pieris-33	Pie-14e4_158_brassicae-28_2661	158	Pie-14e4_158_Pieris-33_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-28	Pie-14e4_158_Pieris-27	Pie-14e4_158_brassicae-28_2661	158	Pie-14e4_158_Pieris-27_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_114_brassicae-2	Pie-14e4_114_Pieris-1	Pie-14e4_114_brassicae-2_2661	114	Pie-14e4_114_Pieris-1_1342	114	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_157_brassicae-9	Pie-14e4_157_Pieris-7	Pie-14e4_157_brassicae-9_2661	157	Pie-14e4_157_Pieris-7_1342	157	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-40	Pie-14e4_158_Pieris-33	Pie-14e4_158_brassicae-40_2661	158	Pie-14e4_158_Pieris-33_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-8	Pie-14e4_158_Pieris-59	Pie-14e4_158_brassicae-8_2661	158	Pie-14e4_158_Pieris-59_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_59_brassicae-2	Pie-14e4_59_Pieris-1	Pie-14e4_59_brassicae-2_2661	59	Pie-14e4_59_Pieris-1_1342	59	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_131_brassicae-2	Pie-14e4_131_Pieris-1	Pie-14e4_131_brassicae-2_2661	131	Pie-14e4_131_Pieris-1_1342	131	0	Pieris brassicae	Pieris	87.0
+taxongroup	Van-b9b9_14_cardui-2	Van-b9b9_14_Vanessa-1	Van-b9b9_14_cardui-2_272	14	Van-b9b9_14_Vanessa-1_1334	14	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_141_cardui-19	Van-b9b9_141_Vanessa-18	Van-b9b9_141_cardui-19_272	141	Van-b9b9_141_Vanessa-18_1334	141	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_141_cardui-19	Van-b9b9_141_Vanessa-14	Van-b9b9_141_cardui-19_272	141	Van-b9b9_141_Vanessa-14_1334	141	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_139_cardui-2	Van-b9b9_139_Vanessa-1	Van-b9b9_139_cardui-2_272	139	Van-b9b9_139_Vanessa-1_1334	139	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_135_cardui-2	Van-b9b9_135_Vanessa-1	Van-b9b9_135_cardui-2_272	135	Van-b9b9_135_Vanessa-1_1334	135	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_19_cardui-2	Van-b9b9_19_Vanessa-1	Van-b9b9_19_cardui-2_272	19	Van-b9b9_19_Vanessa-1_1334	19	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Pie-14e4_162_brassicae-2	Pie-14e4_162_Pieris-1	Pie-14e4_162_brassicae-2_2661	162	Pie-14e4_162_Pieris-1_1342	162	0	Pieris brassicae	Pieris	87.0
+taxongroup	Van-b9b9_125_cardui-18	Van-b9b9_125_Vanessa-17	Van-b9b9_125_cardui-18_272	125	Van-b9b9_125_Vanessa-17_1334	125	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_1_cardui-2	Van-b9b9_1_Vanessa-1	Van-b9b9_1_cardui-2_272	1	Van-b9b9_1_Vanessa-1_1334	1	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_110_cardui-2	Van-b9b9_110_Vanessa-1	Van-b9b9_110_cardui-2_272	110	Van-b9b9_110_Vanessa-1_1334	110	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_102_cardui-2	Van-b9b9_102_Vanessa-1	Van-b9b9_102_cardui-2_272	102	Van-b9b9_102_Vanessa-1_1334	102	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_105_cardui-2	Van-b9b9_105_Vanessa-1	Van-b9b9_105_cardui-2_272	105	Van-b9b9_105_Vanessa-1_1334	105	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_69_cardui-2	Van-b9b9_69_Vanessa-1	Van-b9b9_69_cardui-2_272	69	Van-b9b9_69_Vanessa-1_1334	69	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_44_cardui-2	Van-b9b9_44_Vanessa-1	Van-b9b9_44_cardui-2_272	44	Van-b9b9_44_Vanessa-1_1334	44	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_98_cardui-2	Van-b9b9_98_Vanessa-1	Van-b9b9_98_cardui-2_272	98	Van-b9b9_98_Vanessa-1_1334	98	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_108_cardui-2	Van-b9b9_108_Vanessa-1	Van-b9b9_108_cardui-2_272	108	Van-b9b9_108_Vanessa-1_1334	108	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_94_cardui-2	Van-b9b9_94_Vanessa-1	Van-b9b9_94_cardui-2_272	94	Van-b9b9_94_Vanessa-1_1334	94	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_84_cardui-2	Van-b9b9_84_Vanessa-1	Van-b9b9_84_cardui-2_272	84	Van-b9b9_84_Vanessa-1_1334	84	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Van-b9b9_78_cardui-2	Van-b9b9_78_Vanessa-1	Van-b9b9_78_cardui-2_272	78	Van-b9b9_78_Vanessa-1_1334	78	0	Vanessa cardui	Vanessa	87.0
+taxongroup	Zyg-a2d8_21_Zygaenidae-50	Zyg-a2d8_21_insects-13	Zyg-a2d8_21_Zygaenidae-50_3730	21	Zyg-a2d8_21_insects-13_4008	21	0	Zygaenidae	insects	87.0
+taxongroup	Pie-14e4_158_brassicae-54	Pie-14e4_158_Pieris-39	Pie-14e4_158_brassicae-54_2661	158	Pie-14e4_158_Pieris-39_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_51_brassicae-2	Pie-14e4_51_Pieris-1	Pie-14e4_51_brassicae-2_2661	51	Pie-14e4_51_Pieris-1_1342	51	0	Pieris brassicae	Pieris	87.0
+taxongroup	Arc-d09d_99_Arctiidae-5	Arc-d09d_99_Insecta-9	Arc-d09d_99_Arctiidae-5_1560	99	Arc-d09d_99_Insecta-9_396	99	0	Arctiidae	Insecta	87.0
+taxongroup	Pie-14e4_64_brassicae-2	Pie-14e4_64_Pieris-1	Pie-14e4_64_brassicae-2_2661	64	Pie-14e4_64_Pieris-1_1342	64	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-16e4_33_brassicae-14	Pie-16e4_33_Pieris-13	Pie-16e4_33_brassicae-14_2661	33	Pie-16e4_33_Pieris-13_1342	33	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_39_brassicae-2	Pie-14e4_39_Pieris-1	Pie-14e4_39_brassicae-2_2661	39	Pie-14e4_39_Pieris-1_1342	39	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-60	Pie-14e4_158_Pieris-27	Pie-14e4_158_brassicae-60_2661	158	Pie-14e4_158_Pieris-27_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-60	Pie-14e4_158_Pieris-53	Pie-14e4_158_brassicae-60_2661	158	Pie-14e4_158_Pieris-53_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-60	Pie-14e4_158_Pieris-59	Pie-14e4_158_brassicae-60_2661	158	Pie-14e4_158_Pieris-59_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-60	Pie-14e4_158_Pieris-7	Pie-14e4_158_brassicae-60_2661	158	Pie-14e4_158_Pieris-7_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-8	Pie-14e4_158_Pieris-39	Pie-14e4_158_brassicae-8_2661	158	Pie-14e4_158_Pieris-39_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-54	Pie-14e4_158_Pieris-7	Pie-14e4_158_brassicae-54_2661	158	Pie-14e4_158_Pieris-7_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-28	Pie-14e4_158_Pieris-53	Pie-14e4_158_brassicae-28_2661	158	Pie-14e4_158_Pieris-53_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-28	Pie-14e4_158_Pieris-21	Pie-14e4_158_brassicae-28_2661	158	Pie-14e4_158_Pieris-21_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-60	Pie-14e4_158_Pieris-39	Pie-14e4_158_brassicae-60_2661	158	Pie-14e4_158_Pieris-39_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_115_brassicae-2	Pie-14e4_115_Pieris-1	Pie-14e4_115_brassicae-2_2661	115	Pie-14e4_115_Pieris-1_1342	115	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-8	Pie-14e4_158_Pieris-7	Pie-14e4_158_brassicae-8_2661	158	Pie-14e4_158_Pieris-7_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-40	Pie-14e4_158_Pieris-39	Pie-14e4_158_brassicae-40_2661	158	Pie-14e4_158_Pieris-39_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-8	Pie-14e4_158_Pieris-21	Pie-14e4_158_brassicae-8_2661	158	Pie-14e4_158_Pieris-21_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_82_brassicae-2	Pie-14e4_82_Pieris-1	Pie-14e4_82_brassicae-2_2661	82	Pie-14e4_82_Pieris-1_1342	82	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-40	Pie-14e4_158_Pieris-27	Pie-14e4_158_brassicae-40_2661	158	Pie-14e4_158_Pieris-27_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_111_brassicae-2	Pie-14e4_111_Pieris-1	Pie-14e4_111_brassicae-2_2661	111	Pie-14e4_111_Pieris-1_1342	111	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-28	Pie-14e4_158_Pieris-7	Pie-14e4_158_brassicae-28_2661	158	Pie-14e4_158_Pieris-7_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_73_brassicae-2	Pie-14e4_73_Pieris-1	Pie-14e4_73_brassicae-2_2661	73	Pie-14e4_73_Pieris-1_1342	73	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-28	Pie-14e4_158_Pieris-59	Pie-14e4_158_brassicae-28_2661	158	Pie-14e4_158_Pieris-59_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_71_brassicae-2	Pie-14e4_71_Pieris-1	Pie-14e4_71_brassicae-2_2661	71	Pie-14e4_71_Pieris-1_1342	71	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_158_brassicae-34	Pie-14e4_158_Pieris-27	Pie-14e4_158_brassicae-34_2661	158	Pie-14e4_158_Pieris-27_1342	158	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_98_brassicae-2	Pie-14e4_98_Pieris-1	Pie-14e4_98_brassicae-2_2661	98	Pie-14e4_98_Pieris-1_1342	98	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_91_brassicae-2	Pie-14e4_91_Pieris-1	Pie-14e4_91_brassicae-2_2661	91	Pie-14e4_91_Pieris-1_1342	91	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_136_brassicae-2	Pie-14e4_136_Pieris-1	Pie-14e4_136_brassicae-2_2661	136	Pie-14e4_136_Pieris-1_1342	136	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_19_brassicae-2	Pie-14e4_19_Pieris-1	Pie-14e4_19_brassicae-2_2661	19	Pie-14e4_19_Pieris-1_1342	19	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_1_brassicae-2	Pie-14e4_1_Pieris-1	Pie-14e4_1_brassicae-2_2661	1	Pie-14e4_1_Pieris-1_1342	1	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_108_brassicae-2	Pie-14e4_108_Pieris-1	Pie-14e4_108_brassicae-2_2661	108	Pie-14e4_108_Pieris-1_1342	108	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pie-14e4_159_brassicae-2	Pie-14e4_159_Pieris-1	Pie-14e4_159_brassicae-2_2661	159	Pie-14e4_159_Pieris-1_1342	159	0	Pieris brassicae	Pieris	87.0
+taxongroup	Pyr-d418_11_brown-14	Pyr-d418_11_Pyronia-20	Pyr-d418_11_brown-14_2343	11	Pyr-d418_11_Pyronia-20_1238	11	0	Hedge brown	Pyronia	83.0
+taxongroup	Pol-516e_4_lepidopterans-33	Pol-516e_4_Insects-1	Pol-516e_4_lepidopterans-33_5172	4	Pol-516e_4_Insects-1_4008	4	0	lepidopterans	insects	83.0
+taxongroup	Mee-4cdd_141_lepidopterans-13	Mee-4cdd_141_arthropods-24	Mee-4cdd_141_lepidopterans-13_5172	141	Mee-4cdd_141_arthropods-24_4632	141	0	lepidopterans	arthropods	83.0
+taxongroup	Mee-4cdd_17_lepidopterans-10	Mee-4cdd_17_arthropods-12	Mee-4cdd_17_lepidopterans-10_5172	17	Mee-4cdd_17_arthropods-12_4632	17	0	lepidopterans	arthropods	83.0
+taxongroup	Mal-71cc_108_lepidopterans-23	Mal-71cc_108_arthropods-34	Mal-71cc_108_lepidopterans-23_5172	108	Mal-71cc_108_arthropods-34_4632	108	0	lepidopterans	arthropods	83.0
+taxongroup	Pie-14e4_2_butterfly-32	Pie-14e4_2_Pieridae-36	Pie-14e4_2_butterfly-32_2662	2	Pie-14e4_2_Pieridae-36_750	2	0	Cabbage butterfly	Pieridae	83.0
+taxongroup	Pie-14e4_2_butterfly-11	Pie-14e4_2_Pieridae-36	Pie-14e4_2_butterfly-11_2662	2	Pie-14e4_2_Pieridae-36_750	2	0	Cabbage butterfly	Pieridae	83.0
+taxongroup	Pie-14e4_2_butterfly-11	Pie-14e4_2_Pieris-1	Pie-14e4_2_butterfly-11_2662	2	Pie-14e4_2_Pieris-1_1342	2	0	Cabbage butterfly	Pieris	83.0
+taxongroup	Pie-14e4_2_butterfly-32	Pie-14e4_2_Pieris-1	Pie-14e4_2_butterfly-32_2662	2	Pie-14e4_2_Pieris-1_1342	2	0	Cabbage butterfly	Pieris	83.0
+taxongroup	Met-e231_47_butterfly-9	Met-e231_47_Pieris-11	Met-e231_47_butterfly-9_2662	47	Met-e231_47_Pieris-11_1342	47	0	Cabbage butterfly	Pieris	83.0
+taxongroup	Pyr-d418_11_brown-31	Pyr-d418_11_Pyronia-20	Pyr-d418_11_brown-31_2343	11	Pyr-d418_11_Pyronia-20_1238	11	0	Hedge brown	Pyronia	83.0
+taxongroup	Pol-b2a3_11_butterflies-17	Pol-b2a3_11_Lycaenidae-21	Pol-b2a3_11_butterflies-17_5149	11	Pol-b2a3_11_Lycaenidae-21_672	11	0	large blue butterfly	Lycaenidae	66.0
+taxongroup	Pol-b2a3_11_butterflies-17	Pol-b2a3_11_Lepidoptera-19	Pol-b2a3_11_butterflies-17_2657	11	Pol-b2a3_11_Lepidoptera-19_2698	11	0	Large blue butterfly	Lepidoptera	66.0
+taxongroup	Ant-f3cd_178_moths-27	Ant-f3cd_178_butterflies-24	Ant-f3cd_178_moths-27_5661	178	Ant-f3cd_178_butterflies-24_2697	178	0	burnet moth	Butterflies and moths	66.0
+taxongroup	Ant-f3cd_178_butterflies-24	Ant-f3cd_178_animal-9	Ant-f3cd_178_butterflies-24_5170	178	Ant-f3cd_178_animal-9_44	178	0	butterflies and moths	Animals	66.0
+taxongroup	Swa-27b4_252_butterflies-19	Swa-27b4_252_insects-8	Swa-27b4_252_butterflies-19_5170	252	Swa-27b4_252_insects-8_4008	252	0	butterflies and moths	insects	66.0
+taxongroup	Lep-f8ec_10_butterflies-6	Lep-f8ec_10_insects-4	Lep-f8ec_10_butterflies-6_5170	10	Lep-f8ec_10_insects-4_4008	10	0	butterflies and moths	insects	66.0
+taxongroup	Hig-0cdf_2_fritillary-7	Hig-0cdf_2_Nymphalidae-19	Hig-0cdf_2_fritillary-7_2529	2	Hig-0cdf_2_Nymphalidae-19_711	2	0	High brown fritillary	Nymphalidae	66.0

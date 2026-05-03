@@ -1,0 +1,619 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Tai-3286_7_pines-30	Tai-3286_7_taiga-42	Tai-3286_7_pines-30_4432	7	Tai-3286_7_taiga-42_4534	7	0	pines	taiga	100.0
+location	Tai-3286_89_pine-18	Tai-3286_89_taiga-5	Tai-3286_89_pine-18_4432	89	Tai-3286_89_taiga-5_4534	89	0	pines	taiga	100.0
+location	Tai-3286_180_conifers-17	Tai-3286_180_taiga-5	Tai-3286_180_conifers-17_5354	180	Tai-3286_180_taiga-5_4534	180	0	conifers	taiga	100.0
+location	Sal-7dcf_23_conifer-15	Sal-7dcf_23_taiga-22	Sal-7dcf_23_conifer-15_5354	23	Sal-7dcf_23_taiga-22_4534	23	0	conifers	taiga	100.0
+location	Eur-ee4d_30_conifers-5	Eur-ee4d_30_parkland-12	Eur-ee4d_30_conifers-5_5354	30	Eur-ee4d_30_parkland-12_4529	30	0	conifers	parkland	100.0
+location	Gol-9020_114_conifers-23	Gol-9020_114_mountain-13	Gol-9020_114_conifers-23_5354	114	Gol-9020_114_mountain-13_4527	114	0	conifers	mountains	100.0
+location	Pin-a6d8_2_conifer-31	Pin-a6d8_2_mountains-36	Pin-a6d8_2_conifer-31_5354	2	Pin-a6d8_2_mountains-36_4527	2	0	conifers	mountains	100.0
+location	Wil-57af_161_pine-25	Wil-57af_161_taiga-31	Wil-57af_161_pine-25_4432	161	Wil-57af_161_taiga-31_4534	161	0	pines	taiga	100.0
+location	Eng-0a3a_39_pine-17	Eng-0a3a_39_taiga-11	Eng-0a3a_39_pine-17_4432	39	Eng-0a3a_39_taiga-11_4534	39	0	pines	taiga	100.0
+location	Tai-3286_82_conifers-41	Tai-3286_82_taiga-8	Tai-3286_82_conifers-41_5354	82	Tai-3286_82_taiga-8_4534	82	0	conifers	taiga	100.0
+location	Tai-3286_91_pine-12	Tai-3286_91_taiga-5	Tai-3286_91_pine-12_4432	91	Tai-3286_91_taiga-5_4534	91	0	pines	taiga	100.0
+location	Bla-b48c_36_conifer-15	Bla-b48c_36_Mountains-31	Bla-b48c_36_conifer-15_5354	36	Bla-b48c_36_Mountains-31_1366	36	0	conifers	Mountains	100.0
+location	Red-e311_115_conifer-16	Red-e311_115_Mountains-8	Red-e311_115_conifer-16_5354	115	Red-e311_115_Mountains-8_1366	115	0	conifers	Mountains	100.0
+location	Red-e311_115_conifer-16	Red-e311_115_Mountains-29	Red-e311_115_conifer-16_5354	115	Red-e311_115_Mountains-29_1366	115	0	conifers	Mountains	100.0
+location	Pin-a6d8_2_conifer-31	Pin-a6d8_2_Mountains-62	Pin-a6d8_2_conifer-31_5354	2	Pin-a6d8_2_Mountains-62_1366	2	0	conifers	Mountains	100.0
+location	Wil-3cbf_51_conifer-8	Wil-3cbf_51_Mountains-19	Wil-3cbf_51_conifer-8_5354	51	Wil-3cbf_51_Mountains-19_1366	51	0	conifers	Mountains	100.0
+location	Tai-3286_55_conifers-66	Tai-3286_55_taiga-6	Tai-3286_55_conifers-66_5354	55	Tai-3286_55_taiga-6_4534	55	0	conifers	taiga	100.0
+location	Tai-3286_74_conifers-23	Tai-3286_74_taiga-7	Tai-3286_74_conifers-23_5354	74	Tai-3286_74_taiga-7_4534	74	0	conifers	taiga	100.0
+location	Tai-3286_55_pine-21	Tai-3286_55_taiga-6	Tai-3286_55_pine-21_4432	55	Tai-3286_55_taiga-6_4534	55	0	pines	taiga	100.0
+location	Con-7997_194_Conifers-1	Con-7997_194_taiga-15	Con-7997_194_Conifers-1_3091	194	Con-7997_194_taiga-15_4534	194	0	Conifers	taiga	100.0
+location	Tai-3286_7_pines-30	Tai-3286_7_taiga-2	Tai-3286_7_pines-30_4432	7	Tai-3286_7_taiga-2_4534	7	0	pines	taiga	100.0
+location	Con-7997_194_Conifers-1	Con-7997_194_mountains-28	Con-7997_194_Conifers-1_3091	194	Con-7997_194_mountains-28_4527	194	0	Conifers	mountains	100.0
+location	Tai-3286_7_pines-30	Tai-3286_7_taiga-26	Tai-3286_7_pines-30_4432	7	Tai-3286_7_taiga-26_4534	7	0	pines	taiga	100.0
+location	Tai-3286_7_pines-30	Tai-3286_7_taiga-13	Tai-3286_7_pines-30_4432	7	Tai-3286_7_taiga-13_4534	7	0	pines	taiga	100.0
+location	Tai-3286_107_pine-9	Tai-3286_107_taiga-19	Tai-3286_107_pine-9_4432	107	Tai-3286_107_taiga-19_4534	107	0	pines	taiga	100.0
+location	Tai-3286_7_pines-21	Tai-3286_7_taiga-42	Tai-3286_7_pines-21_4432	7	Tai-3286_7_taiga-42_4534	7	0	pines	taiga	100.0
+location	Tai-3286_107_pine-9	Tai-3286_107_taiga-16	Tai-3286_107_pine-9_4432	107	Tai-3286_107_taiga-16_4534	107	0	pines	taiga	100.0
+location	Tai-3286_7_pines-21	Tai-3286_7_taiga-2	Tai-3286_7_pines-21_4432	7	Tai-3286_7_taiga-2_4534	7	0	pines	taiga	100.0
+location	Tai-3286_7_pines-21	Tai-3286_7_taiga-13	Tai-3286_7_pines-21_4432	7	Tai-3286_7_taiga-13_4534	7	0	pines	taiga	100.0
+location	Tai-3286_2_pines-28	Tai-3286_2_Taiga-1	Tai-3286_2_pines-28_4432	2	Tai-3286_2_Taiga-1_1373	2	0	pines	Taiga	100.0
+location	Tai-3286_101_pine-23	Tai-3286_101_taiga-16	Tai-3286_101_pine-23_4432	101	Tai-3286_101_taiga-16_4534	101	0	pines	taiga	100.0
+location	Tai-3286_7_pines-21	Tai-3286_7_taiga-26	Tai-3286_7_pines-21_4432	7	Tai-3286_7_taiga-26_4534	7	0	pines	taiga	100.0
+location	Tai-3286_91_pine-12	Tai-3286_91_taiga-24	Tai-3286_91_pine-12_4432	91	Tai-3286_91_taiga-24_4534	91	0	pines	taiga	100.0
+location	Pin-c005_2_longaeva-2	Pin-c005_2_mountains-37	Pin-c005_2_longaeva-2_3094	2	Pin-c005_2_mountains-37_4527	2	0	Pinus longaeva	mountains	87.0
+location	Pin-c005_2_pine-31	Pin-c005_2_mountains-37	Pin-c005_2_pine-31_3096	2	Pin-c005_2_mountains-37_4527	2	0	Western bristlecone pine	mountains	83.0
+location	Pin-c005_2_pine-16	Pin-c005_2_mountains-37	Pin-c005_2_pine-16_3096	2	Pin-c005_2_mountains-37_4527	2	0	Western bristlecone pine	mountains	83.0
+location	Pin-c005_2_pine-12	Pin-c005_2_mountains-37	Pin-c005_2_pine-12_3096	2	Pin-c005_2_mountains-37_4527	2	0	Western bristlecone pine	mountains	83.0
+location	Pin-c005_2_pine-21	Pin-c005_2_mountains-37	Pin-c005_2_pine-21_3096	2	Pin-c005_2_mountains-37_4527	2	0	Western bristlecone pine	mountains	83.0
+location	Bot-5a32_69_pine-25	Bot-5a32_69_forest-20	Bot-5a32_69_pine-25_4432	69	Bot-5a32_69_forest-20_4538	69	0	pines	tropical coniferous forest	66.0
+location	Bot-5a32_69_pine-25	Bot-5a32_69_forest-23	Bot-5a32_69_pine-25_4432	69	Bot-5a32_69_forest-23_4538	69	0	pines	tropical coniferous forest	66.0
+location	Tai-3286_164_pine-23	Tai-3286_165_Taiga-1	Tai-3286_164_pine-23_4432	164	Tai-3286_165_Taiga-1_1373	165	1	pines	Taiga	50.0
+location	Con-7997_11_conifers-2	Con-7997_10_mountains-28	Con-7997_11_conifers-2_5354	11	Con-7997_10_mountains-28_4527	10	1	conifers	mountains	50.0
+location	Tai-3286_91_pine-12	Tai-3286_92_Taiga-1	Tai-3286_91_pine-12_4432	91	Tai-3286_92_Taiga-1_1373	92	1	pines	Taiga	50.0
+location	Tai-3286_2_pines-28	Tai-3286_1_Taiga-1	Tai-3286_2_pines-28_4432	2	Tai-3286_1_Taiga-1_1373	1	1	pines	Taiga	50.0
+location	Tem-9c2f_13_sequoia-11	Tem-9c2f_14_forest-3	Tem-9c2f_13_sequoia-11_5459	13	Tem-9c2f_14_forest-3_4536	14	1	giant sequoia	coniferous forest	50.0
+location	Con-7997_60_conifers-16	Con-7997_61_mountain-21	Con-7997_60_conifers-16_5354	60	Con-7997_61_mountain-21_4527	61	1	conifers	mountains	50.0
+location	Con-7997_9_conifers-11	Con-7997_10_mountains-28	Con-7997_9_conifers-11_5354	9	Con-7997_10_mountains-28_4527	10	1	conifers	mountains	50.0
+location	Rho-ff03_16_conifers-45	Rho-ff03_15_mountain-9	Rho-ff03_16_conifers-45_5354	16	Rho-ff03_15_mountain-9_4527	15	1	conifers	mountains	50.0
+location	Dir-7dc2_150_conifers-8	Dir-7dc2_149_parklands-19	Dir-7dc2_150_conifers-8_5354	150	Dir-7dc2_149_parklands-19_4529	149	1	conifers	parkland	50.0
+location	Wes-0eef_54_conifer-20	Wes-0eef_55_mountain-27	Wes-0eef_54_conifer-20_5354	54	Wes-0eef_55_mountain-27_4527	55	1	conifers	mountains	50.0
+location	Euc-4c3e_148_conifers-19	Euc-4c3e_147_mountain-7	Euc-4c3e_148_conifers-19_5354	148	Euc-4c3e_147_mountain-7_4527	147	1	conifers	mountains	50.0
+location	Tai-3286_93_conifers-7	Tai-3286_92_Taiga-1	Tai-3286_93_conifers-7_5354	93	Tai-3286_92_Taiga-1_1373	92	1	conifers	Taiga	50.0
+location	Eur-a59b_49_conifers-29	Eur-a59b_48_forest-32	Eur-a59b_49_conifers-29_5354	49	Eur-a59b_48_forest-32_4536	48	1	conifers	coniferous forest	50.0
+location	Tai-3286_212_pine-17	Tai-3286_213_Taiga-1	Tai-3286_212_pine-17_4432	212	Tai-3286_213_Taiga-1_1373	213	1	pines	Taiga	50.0
+location	Nea-9375_26_pine-25	Nea-9375_27_forest-22	Nea-9375_26_pine-25_4432	26	Nea-9375_27_forest-22_4535	27	1	pines	broadleaf forest	50.0
+location	Nea-9375_26_pine-25	Nea-9375_27_forest-10	Nea-9375_26_pine-25_4432	26	Nea-9375_27_forest-10_4535	27	1	pines	broadleaf forest	50.0
+location	Nea-9375_26_pine-23	Nea-9375_27_forest-10	Nea-9375_26_pine-23_4432	26	Nea-9375_27_forest-10_4535	27	1	pines	broadleaf forest	50.0
+location	Tig-454c_129_pine-10	Tig-454c_130_forest-27	Tig-454c_129_pine-10_4432	129	Tig-454c_130_forest-27_4535	130	1	pines	broadleaf forest	50.0
+location	Nea-9375_26_pine-23	Nea-9375_27_forest-22	Nea-9375_26_pine-23_4432	26	Nea-9375_27_forest-22_4535	27	1	pines	broadleaf forest	50.0
+location	Gol-9020_114_conifers-23	Gol-9020_113_mountain-8	Gol-9020_114_conifers-23_5354	114	Gol-9020_113_mountain-8_4527	113	1	conifers	mountains	50.0
+location	Pin-c005_34_longaeva-2	Pin-c005_35_Mountains-28	Pin-c005_34_longaeva-2_3094	34	Pin-c005_35_Mountains-28_1366	35	1	Pinus longaeva	Mountains	43.5
+location	Tem-9c2f_13_Sequoiadendron-13	Tem-9c2f_14_forest-3	Tem-9c2f_13_Sequoiadendron-13_3294	13	Tem-9c2f_14_forest-3_4536	14	1	Sequoiadendron	coniferous forest	43.5
+location	Pin-c005_1_longaeva-2	Pin-c005_2_mountains-37	Pin-c005_1_longaeva-2_3094	1	Pin-c005_2_mountains-37_4527	2	1	Pinus longaeva	mountains	43.5
+location	Con-7997_8_Pinophyta-5	Con-7997_10_mountains-28	Con-7997_8_Pinophyta-5_3092	8	Con-7997_10_mountains-28_4527	10	2	Pinophyta	mountains	33.333
+location	Son-520b_59_conifer-39	Son-520b_61_farmland-14	Son-520b_59_conifer-39_5354	59	Son-520b_61_farmland-14_4509	61	2	conifers	farmland	33.333
+location	Pin-2e32_15_pine-10	Pin-2e32_17_Mountains-9	Pin-2e32_15_pine-10_3093	15	Pin-2e32_17_Mountains-9_1366	17	2	Great Basin bristlecone pine	Mountains	33.333
+location	Lon-b0af_215_Pinus-25	Lon-b0af_217_taiga-12	Lon-b0af_215_Pinus-25_1213	215	Lon-b0af_217_taiga-12_4534	217	2	Pinus	taiga	33.333
+location	Con-7997_8_Pinophyta-5	Con-7997_10_taiga-15	Con-7997_8_Pinophyta-5_3092	8	Con-7997_10_taiga-15_4534	10	2	Pinophyta	taiga	33.333
+location	Tem-9c2f_13_sequoia-11	Tem-9c2f_15_forest-3	Tem-9c2f_13_sequoia-11_5459	13	Tem-9c2f_15_forest-3_4536	15	2	giant sequoia	coniferous forest	33.333
+location	Tem-9c2f_13_Sequoiadendron-13	Tem-9c2f_15_forest-3	Tem-9c2f_13_Sequoiadendron-13_3294	13	Tem-9c2f_15_forest-3_4536	15	2	Sequoiadendron	coniferous forest	29.0
+location	Pin-c005_57_longaeva-2	Pin-c005_59_Mountains-7	Pin-c005_57_longaeva-2_3094	57	Pin-c005_59_Mountains-7_1366	59	2	Pinus longaeva	Mountains	29.0
+location	Pin-a6d8_50_pine-12	Pin-a6d8_49_Mountains-25	Pin-a6d8_50_pine-12_5355	50	Pin-a6d8_49_Mountains-25_1366	49	1	western bristlecone pine	Mountains	27.0
+location	Pin-a6d8_50_pine-22	Pin-a6d8_49_Mountains-25	Pin-a6d8_50_pine-22_3096	50	Pin-a6d8_49_Mountains-25_1366	49	1	Western bristlecone pine	Mountains	27.0
+location	Pin-c005_28_pine-16	Pin-c005_26_Mountains-21	Pin-c005_28_pine-16_3093	28	Pin-c005_26_Mountains-21_1366	26	2	Great Basin bristlecone pine	Mountains	25.0
+location	Pin-c005_28_pine-16	Pin-c005_26_Mountains-29	Pin-c005_28_pine-16_3093	28	Pin-c005_26_Mountains-29_1366	26	2	Great Basin bristlecone pine	Mountains	25.0
+location	Tem-9c2f_13_sequoia-11	Tem-9c2f_16_forest-3	Tem-9c2f_13_sequoia-11_5459	13	Tem-9c2f_16_forest-3_4536	16	3	giant sequoia	coniferous forest	25.0
+location	Lon-b0af_210_conifers-11	Lon-b0af_207_farmland-12	Lon-b0af_210_conifers-11_5354	210	Lon-b0af_207_farmland-12_4509	207	3	conifers	farmland	25.0
+location	Tem-9c2f_13_Sequoiadendron-13	Tem-9c2f_16_forest-3	Tem-9c2f_13_Sequoiadendron-13_3294	13	Tem-9c2f_16_forest-3_4536	16	3	Sequoiadendron	coniferous forest	21.75
+location	Pin-c005_22_longaeva-2	Pin-c005_25_Mountains-14	Pin-c005_22_longaeva-2_3094	22	Pin-c005_25_Mountains-14_1366	25	3	Pinus longaeva	Mountains	21.75
+location	Pin-c005_22_longaeva-2	Pin-c005_25_Mountains-10	Pin-c005_22_longaeva-2_3094	22	Pin-c005_25_Mountains-10_1366	25	3	Pinus longaeva	Mountains	21.75
+location	Tem-9c2f_13_sequoia-11	Tem-9c2f_17_forest-3	Tem-9c2f_13_sequoia-11_5459	13	Tem-9c2f_17_forest-3_4536	17	4	giant sequoia	coniferous forest	20.0
+location	Lon-b0af_211_conifer-11	Lon-b0af_207_farmland-12	Lon-b0af_211_conifer-11_5354	211	Lon-b0af_207_farmland-12_4509	207	4	conifers	farmland	20.0
+location	Red-a286_24_pine-16	Red-a286_28_forest-9	Red-a286_24_pine-16_4432	24	Red-a286_28_forest-9_4536	28	4	pines	coniferous forest	20.0
+location	Red-a286_24_pine-22	Red-a286_28_forest-9	Red-a286_24_pine-22_4432	24	Red-a286_28_forest-9_4536	28	4	pines	coniferous forest	20.0
+location	Tai-3286_223_conifers-13	Tai-3286_227_Taiga-1	Tai-3286_223_conifers-13_5354	223	Tai-3286_227_Taiga-1_1373	227	4	conifers	Taiga	20.0
+location	Tai-3286_55_conifers-66	Tai-3286_59_Taiga-1	Tai-3286_55_conifers-66_5354	55	Tai-3286_59_Taiga-1_1373	59	4	conifers	Taiga	20.0
+location	Con-7997_198_Pinus-23	Con-7997_194_taiga-15	Con-7997_198_Pinus-23_1213	198	Con-7997_194_taiga-15_4534	194	4	Pinus	taiga	20.0
+location	Pin-c005_28_pine-16	Pin-c005_25_Mountains-10	Pin-c005_28_pine-16_3093	28	Pin-c005_25_Mountains-10_1366	25	3	Great Basin bristlecone pine	Mountains	18.75
+location	Pin-c005_28_pine-16	Pin-c005_25_Mountains-14	Pin-c005_28_pine-16_3093	28	Pin-c005_25_Mountains-14_1366	25	3	Great Basin bristlecone pine	Mountains	18.75
+location	Pin-a6d8_50_pine-22	Pin-a6d8_48_Mountains-5	Pin-a6d8_50_pine-22_3096	50	Pin-a6d8_48_Mountains-5_1366	48	2	Western bristlecone pine	Mountains	18.0
+location	Pin-a6d8_50_pine-12	Pin-a6d8_48_Mountains-5	Pin-a6d8_50_pine-12_3096	50	Pin-a6d8_48_Mountains-5_1366	48	2	Western bristlecone pine	Mountains	18.0
+location	Tem-9c2f_13_Sequoiadendron-13	Tem-9c2f_17_forest-3	Tem-9c2f_13_Sequoiadendron-13_3294	13	Tem-9c2f_17_forest-3_4536	17	4	Sequoiadendron	coniferous forest	17.4
+location	Con-7997_65_longaeva-14	Con-7997_61_mountain-21	Con-7997_65_longaeva-14_3094	65	Con-7997_61_mountain-21_4527	61	4	Pinus longaeva	mountains	17.4
+location	Pin-c005_6_longaeva-2	Pin-c005_2_mountains-37	Pin-c005_6_longaeva-2_3094	6	Pin-c005_2_mountains-37_4527	2	4	Pinus longaeva	mountains	17.4
+location	Pin-c005_22_longaeva-2	Pin-c005_26_Mountains-29	Pin-c005_22_longaeva-2_3094	22	Pin-c005_26_Mountains-29_1366	26	4	Pinus longaeva	Mountains	17.4
+location	Pin-c005_22_longaeva-2	Pin-c005_26_Mountains-21	Pin-c005_22_longaeva-2_3094	22	Pin-c005_26_Mountains-21_1366	26	4	Pinus longaeva	Mountains	17.4
+location	Con-7997_199_Pinus-10	Con-7997_194_taiga-15	Con-7997_199_Pinus-10_1213	199	Con-7997_194_taiga-15_4534	194	5	Pinus	taiga	16.667
+location	Tai-3286_222_Conifers-1	Tai-3286_227_Taiga-1	Tai-3286_222_Conifers-1_3091	222	Tai-3286_227_Taiga-1_1373	227	5	Conifers	Taiga	16.667
+location	Tem-9c2f_7_pine-9	Tem-9c2f_2_forest-3	Tem-9c2f_7_pine-9_4432	7	Tem-9c2f_2_forest-3_4536	2	5	pines	coniferous forest	16.667
+location	Con-7997_15_Conifers-1	Con-7997_10_taiga-15	Con-7997_15_Conifers-1_3091	15	Con-7997_10_taiga-15_4534	10	5	Conifers	taiga	16.667
+location	Con-7997_66_Conifer-1	Con-7997_61_mountain-21	Con-7997_66_Conifer-1_3091	66	Con-7997_61_mountain-21_4527	61	5	Conifers	mountains	16.667
+location	Con-7997_15_Conifers-1	Con-7997_10_mountains-28	Con-7997_15_Conifers-1_3091	15	Con-7997_10_mountains-28_4527	10	5	Conifers	mountains	16.667
+location	Lon-b0af_212_conifers-5	Lon-b0af_207_farmland-12	Lon-b0af_212_conifers-5_5354	212	Lon-b0af_207_farmland-12_4509	207	5	conifers	farmland	16.667
+location	Con-7997_65_pine-11	Con-7997_61_mountain-21	Con-7997_65_pine-11_3093	65	Con-7997_61_mountain-21_4527	61	4	Great Basin bristlecone pine	mountains	15.0
+location	Med-186c_35_pine-10	Med-186c_29_forest-23	Med-186c_35_pine-10_4432	35	Med-186c_29_forest-23_37	29	6	pines	Mediterranean forest	14.286
+location	Tem-9c2f_7_pine-9	Tem-9c2f_1_forest-3	Tem-9c2f_7_pine-9_4432	7	Tem-9c2f_1_forest-3_4536	1	6	pines	coniferous forest	14.286
+location	Tai-3286_222_Conifers-1	Tai-3286_228_taiga-2	Tai-3286_222_Conifers-1_3091	222	Tai-3286_228_taiga-2_4534	228	6	Conifers	taiga	14.286
+location	Tem-9c2f_13_sequoia-11	Tem-9c2f_20_forest-3	Tem-9c2f_13_sequoia-11_5459	13	Tem-9c2f_20_forest-3_4536	20	7	giant sequoia	coniferous forest	12.5
+location	Tai-3286_220_Pinus-58	Tai-3286_227_Taiga-1	Tai-3286_220_Pinus-58_1213	220	Tai-3286_227_Taiga-1_1373	227	7	Pinus	Taiga	12.5
+location	Red-e311_115_conifer-16	Red-e311_122_forest-11	Red-e311_115_conifer-16_5354	115	Red-e311_122_forest-11_4536	122	7	conifers	coniferous forest	12.5
+location	Tem-9c2f_7_pine-9	Tem-9c2f_14_forest-3	Tem-9c2f_7_pine-9_4432	7	Tem-9c2f_14_forest-3_4536	14	7	pines	coniferous forest	12.5
+location	Red-a286_21_pine-12	Red-a286_28_forest-9	Red-a286_21_pine-12_4432	21	Red-a286_28_forest-9_4536	28	7	pines	coniferous forest	12.5
+location	Tai-3286_220_Pinus-58	Tai-3286_213_Taiga-1	Tai-3286_220_Pinus-58_1213	220	Tai-3286_213_Taiga-1_1373	213	7	Pinus	Taiga	12.5
+location	Tem-9c2f_13_sequoia-11	Tem-9c2f_21_forest-3	Tem-9c2f_13_sequoia-11_5459	13	Tem-9c2f_21_forest-3_4536	21	8	giant sequoia	coniferous forest	11.111
+location	Med-186c_35_pine-10	Med-186c_27_forest-2	Med-186c_35_pine-10_4432	35	Med-186c_27_forest-2_1375	27	8	pines	Coniferous forest	11.111
+location	Tig-454c_122_pine-10	Tig-454c_130_forest-27	Tig-454c_122_pine-10_4432	122	Tig-454c_130_forest-27_4535	130	8	pines	broadleaf forest	11.111
+location	Tai-3286_220_Pinus-58	Tai-3286_228_taiga-2	Tai-3286_220_Pinus-58_1213	220	Tai-3286_228_taiga-2_4534	228	8	Pinus	taiga	11.111
+location	Tem-9c2f_13_Sequoiadendron-13	Tem-9c2f_20_forest-3	Tem-9c2f_13_Sequoiadendron-13_3294	13	Tem-9c2f_20_forest-3_4536	20	7	Sequoiadendron	coniferous forest	10.875
+location	Pin-c005_21_pine-5	Pin-c005_25_Mountains-10	Pin-c005_21_pine-5_3095	21	Pin-c005_25_Mountains-10_1366	25	4	Intermountain bristlecone pine 	Mountains	10.8
+location	Pin-c005_21_pine-5	Pin-c005_25_Mountains-14	Pin-c005_21_pine-5_3095	21	Pin-c005_25_Mountains-14_1366	25	4	Intermountain bristlecone pine 	Mountains	10.8
+location	Tai-3286_222_Conifers-1	Tai-3286_213_Taiga-1	Tai-3286_222_Conifers-1_3091	222	Tai-3286_213_Taiga-1_1373	213	9	Conifers	Taiga	10.0
+location	Tai-3286_222_Conifers-1	Tai-3286_231_taiga-9	Tai-3286_222_Conifers-1_3091	222	Tai-3286_231_taiga-9_4534	231	9	Conifers	taiga	10.0
+location	Nor-c9d9_149_Conifers-1	Nor-c9d9_158_mountain-10	Nor-c9d9_149_Conifers-1_3091	149	Nor-c9d9_158_mountain-10_4527	158	9	Conifers	mountains	10.0
+location	Tem-9c2f_13_Sequoiadendron-13	Tem-9c2f_21_forest-3	Tem-9c2f_13_Sequoiadendron-13_3294	13	Tem-9c2f_21_forest-3_4536	21	8	Sequoiadendron	coniferous forest	9.667
+location	Pin-c005_28_pine-16	Pin-c005_35_Mountains-28	Pin-c005_28_pine-16_3093	28	Pin-c005_35_Mountains-28_1366	35	7	Great Basin bristlecone pine	Mountains	9.375
+location	Tai-3286_222_Conifers-1	Tai-3286_212_mountain-16	Tai-3286_222_Conifers-1_3091	222	Tai-3286_212_mountain-16_4527	212	10	Conifers	mountains	9.091
+location	Tai-3286_220_Pinus-58	Tai-3286_209_Taiga-1	Tai-3286_220_Pinus-58_1213	220	Tai-3286_209_Taiga-1_1373	209	11	Pinus	Taiga	8.333
+location	Tem-9c2f_13_sequoia-11	Tem-9c2f_2_forest-3	Tem-9c2f_13_sequoia-11_5459	13	Tem-9c2f_2_forest-3_4536	2	11	giant sequoia	coniferous forest	8.333
+location	Tem-9c2f_13_sequoia-11	Tem-9c2f_1_forest-3	Tem-9c2f_13_sequoia-11_5459	13	Tem-9c2f_1_forest-3_4536	1	12	giant sequoia	coniferous forest	7.692
+location	Tem-9c2f_13_Sequoiadendron-13	Tem-9c2f_2_forest-3	Tem-9c2f_13_Sequoiadendron-13_3294	13	Tem-9c2f_2_forest-3_4536	2	11	Sequoiadendron	coniferous forest	7.25
+location	Tem-9c2f_13_Sequoiadendron-13	Tem-9c2f_1_forest-3	Tem-9c2f_13_Sequoiadendron-13_3294	13	Tem-9c2f_1_forest-3_4536	1	12	Sequoiadendron	coniferous forest	6.692
+location	Dir-7dc2_168_conifers-35	Dir-7dc2_149_parklands-19	Dir-7dc2_168_conifers-35_5354	168	Dir-7dc2_149_parklands-19_4529	149	19	conifers	parkland	5.0
+location	Anc-6a43_67_conifers-18	Anc-6a43_47_parkland-19	Anc-6a43_67_conifers-18_5354	67	Anc-6a43_47_parkland-19_4529	47	20	conifers	parkland	4.762
+location	Anc-6a43_26_conifers-33	Anc-6a43_47_parkland-19	Anc-6a43_26_conifers-33_5354	26	Anc-6a43_47_parkland-19_4529	47	21	conifers	parkland	4.545
+location	Pin-c005_22_longaeva-2	Pin-c005_2_mountains-37	Pin-c005_22_longaeva-2_3094	22	Pin-c005_2_mountains-37_4527	2	20	Pinus longaeva	mountains	4.143
+location	Seq-b61f_313_Conifers-1	Seq-b61f_288_Mountains-7	Seq-b61f_313_Conifers-1_3091	313	Seq-b61f_288_Mountains-7_1366	288	25	Conifers	Mountains	3.846
+location	For-ac12_81_conifer-25	For-ac12_53_forest-25	For-ac12_81_conifer-25_5354	81	For-ac12_53_forest-25_4536	53	28	conifers	coniferous forest	3.448
+location	For-ac12_81_conifer-25	For-ac12_53_forest-89	For-ac12_81_conifer-25_5354	81	For-ac12_53_forest-89_4536	53	28	conifers	coniferous forest	3.448
+location	For-ac12_81_conifer-25	For-ac12_53_forest-8	For-ac12_81_conifer-25_5354	81	For-ac12_53_forest-8_4536	53	28	conifers	coniferous forest	3.448
+location	For-ac12_81_conifer-25	For-ac12_53_forest-48	For-ac12_81_conifer-25_5354	81	For-ac12_53_forest-48_4536	53	28	conifers	coniferous forest	3.448
+location	For-ac12_81_conifer-25	For-ac12_53_forest-72	For-ac12_81_conifer-25_5354	81	For-ac12_53_forest-72_4536	53	28	conifers	coniferous forest	3.448
+location	For-ac12_81_conifer-25	For-ac12_53_forest-17	For-ac12_81_conifer-25_5354	81	For-ac12_53_forest-17_4536	53	28	conifers	coniferous forest	3.448
+location	Eur-a59b_81_conifer-29	Eur-a59b_48_forest-32	Eur-a59b_81_conifer-29_5354	81	Eur-a59b_48_forest-32_4536	48	33	conifers	coniferous forest	2.941
+location	Seq-b61f_31_pine-23	Seq-b61f_4_mountain-15	Seq-b61f_31_pine-23_3093	31	Seq-b61f_4_mountain-15_4527	4	27	Great Basin bristlecone pine	mountains	2.679
+location	Seq-b61f_31_pine-23	Seq-b61f_60_mountains-13	Seq-b61f_31_pine-23_3093	31	Seq-b61f_60_mountains-13_4527	60	29	Great Basin bristlecone pine	mountains	2.5
+location	For-ac12_81_conifer-25	For-ac12_107_forest-8	For-ac12_81_conifer-25_5354	81	For-ac12_107_forest-8_1378	107	26	conifers	Tropical coniferous forest	2.444
+location	Eur-a59b_7_sequoia-15	Eur-a59b_48_forest-32	Eur-a59b_7_sequoia-15_5459	7	Eur-a59b_48_forest-32_4536	48	41	giant sequoia	coniferous forest	2.381
+location	Flo-e790_73_conifers-6	Flo-e790_31_forest-22	Flo-e790_73_conifers-6_5354	73	Flo-e790_31_forest-22_4536	31	42	conifers	coniferous forest	2.326
+location	Nor-c9d9_149_Conifers-1	Nor-c9d9_197_mountain-15	Nor-c9d9_149_Conifers-1_3091	149	Nor-c9d9_197_mountain-15_4527	197	48	Conifers	mountains	2.041
+location	Seq-b61f_31_pine-23	Seq-b61f_68_Mountains-21	Seq-b61f_31_pine-23_3093	31	Seq-b61f_68_Mountains-21_1366	68	37	Great Basin bristlecone pine	Mountains	1.974
+location	Seq-b61f_31_pine-23	Seq-b61f_77_Mountains-7	Seq-b61f_31_pine-23_3093	31	Seq-b61f_77_Mountains-7_1366	77	46	Great Basin bristlecone pine	Mountains	1.596
+location	Con-7997_65_longaeva-14	Con-7997_10_mountains-28	Con-7997_65_longaeva-14_3094	65	Con-7997_10_mountains-28_4527	10	55	Pinus longaeva	mountains	1.554
+location	Con-7997_65_pine-11	Con-7997_10_mountains-28	Con-7997_65_pine-11_3093	65	Con-7997_10_mountains-28_4527	10	55	Great Basin bristlecone pine	mountains	1.339
+location	Pin-2e32_15_pine-10	Pin-2e32_100_mountain-19	Pin-2e32_15_pine-10_3093	15	Pin-2e32_100_mountain-19_4527	100	85	Great Basin bristlecone pine	mountains	1.163
+adaptation	Tax47e2_6_yews-2	Tax47e2_6_poisonous-4	Tax47e2_6_yews-2_3477	6	Tax47e2_6_poisonous-4_3973	6	0	Common yew	poisonous	100.0
+adaptation	Tax47e2_6_yews-2	Tax47e2_7_poisonous-12	Tax47e2_6_yews-2_3477	6	Tax47e2_7_poisonous-12_3973	7	1	Common yew	poisonous	50.0
+adaptation	Tax-9735_3_yew-25	Tax-9735_5_poisonous-7	Tax-9735_3_yew-25_3477	3	Tax-9735_5_poisonous-7_3973	5	2	Common yew	poisonous	33.333
+adaptation	Tax-9735_3_yew-28	Tax-9735_5_poisonous-7	Tax-9735_3_yew-28_3477	3	Tax-9735_5_poisonous-7_3973	5	2	Common yew	poisonous	33.333
+adaptation	Tax-9735_3_yew-8	Tax-9735_5_poisonous-7	Tax-9735_3_yew-8_3477	3	Tax-9735_5_poisonous-7_3973	5	2	Common yew	poisonous	33.333
+adaptation	Tax-9735_85_yew-19	Tax-9735_82_poisonous-6	Tax-9735_85_yew-19_3480	85	Tax-9735_82_poisonous-6_3973	82	3	European yew	poisonous	20.75
+adaptation	Tax-9735_85_yew-3	Tax-9735_82_poisonous-6	Tax-9735_85_yew-3_3480	85	Tax-9735_82_poisonous-6_3973	82	3	European yew	poisonous	20.75
+adaptation	Tax-9735_18_yew-2	Tax-9735_24_poisonous-4	Tax-9735_18_yew-2_5537	18	Tax-9735_24_poisonous-4_3973	24	6	common yew	poisonous	14.286
+adaptation	Tax-9735_153_yew-25	Tax-9735_146_poisonous-24	Tax-9735_153_yew-25_3480	153	Tax-9735_146_poisonous-24_3973	146	7	European yew	poisonous	10.375
+adaptation	Tax-9735_164_yew-25	Tax-9735_175_poisonous-14	Tax-9735_164_yew-25_3480	164	Tax-9735_175_poisonous-14_3973	175	11	European yew	poisonous	6.917
+adaptation	Tax-9735_164_yew-25	Tax-9735_146_poisonous-24	Tax-9735_164_yew-25_3480	164	Tax-9735_146_poisonous-24_3973	146	18	European yew	poisonous	4.368
+adaptation	Tax-9735_153_yew-25	Tax-9735_175_poisonous-14	Tax-9735_153_yew-25_3480	153	Tax-9735_175_poisonous-14_3973	175	22	European yew	poisonous	3.609
+adaptation	Con-7997_151_Sequoiadendron-6	Con-7997_187_dispersal-5	Con-7997_151_Sequoiadendron-6_3294	151	Con-7997_187_dispersal-5_12	187	36	Sequoiadendron	Seed dispersal	2.351
+adaptation	Con-7997_151_Sequoiadendron-6	Con-7997_187_dispersal-14	Con-7997_151_Sequoiadendron-6_3294	151	Con-7997_187_dispersal-14_12	187	36	Sequoiadendron	Seed dispersal	2.351
+adaptation	Con-7997_151_Sequoiadendron-6	Con-7997_187_dispersal-19	Con-7997_151_Sequoiadendron-6_3294	151	Con-7997_187_dispersal-19_3789	187	36	Sequoiadendron	seed dispersal	2.351
+adaptation	Tax-b848_94_baccata-22	Tax-b848_54_poisonous-13	Tax-b848_94_baccata-22_3478	94	Tax-b848_54_poisonous-13_3973	54	40	Taxus baccata	poisonous	2.122
+adaptation	Tax-b848_94_baccata-22	Tax-b848_52_poisonous-7	Tax-b848_94_baccata-22_3478	94	Tax-b848_52_poisonous-7_3973	52	42	Taxus baccata	poisonous	2.023
+adaptation	Tax-b848_96_baccata-11	Tax-b848_54_poisonous-13	Tax-b848_96_baccata-11_3478	96	Tax-b848_54_poisonous-13_3973	54	42	Taxus baccata	poisonous	2.023
+adaptation	Tax-b848_96_baccata-11	Tax-b848_52_poisonous-7	Tax-b848_96_baccata-11_3478	96	Tax-b848_52_poisonous-7_3973	52	44	Taxus baccata	poisonous	1.933
+adaptation	Tax-b848_108_baccata-16	Tax-b848_54_poisonous-13	Tax-b848_108_baccata-16_3478	108	Tax-b848_54_poisonous-13_3973	54	54	Taxus baccata	poisonous	1.582
+adaptation	Tax-b848_108_baccata-16	Tax-b848_52_poisonous-7	Tax-b848_108_baccata-16_3478	108	Tax-b848_52_poisonous-7_3973	52	56	Taxus baccata	poisonous	1.526
+taxongroup	Flo-338d_7_plant-25	Flo-338d_7_plants-7	Flo-338d_7_plant-25_4971	7	Flo-338d_7_plants-7_1402	7	0	flowering plants	Plants	100.0
+taxongroup	Her-0461_100_plants-15	Her-0461_100_plants-15	Her-0461_100_plants-15_4971	100	Her-0461_100_plants-15_1402	100	0	flowering plants	Plants	100.0
+taxongroup	Her-0461_100_plants-15	Her-0461_100_plants-9	Her-0461_100_plants-15_4971	100	Her-0461_100_plants-9_1402	100	0	flowering plants	Plants	100.0
+taxongroup	Hed-8dc6_146_plants-6	Hed-8dc6_146_plants-6	Hed-8dc6_146_plants-6_4971	146	Hed-8dc6_146_plants-6_1402	146	0	flowering plants	Plants	100.0
+taxongroup	Mag-8f64_16_plants-18	Mag-8f64_16_plants-18	Mag-8f64_16_plants-18_4971	16	Mag-8f64_16_plants-18_1402	16	0	flowering plants	Plants	100.0
+taxongroup	The-47aa_9_plants-5	The-47aa_9_plants-5	The-47aa_9_plants-5_4971	9	The-47aa_9_plants-5_1402	9	0	flowering plants	Plants	100.0
+taxongroup	Lil-43fd_175_plants-19	Lil-43fd_175_plants-19	Lil-43fd_175_plants-19_4971	175	Lil-43fd_175_plants-19_1402	175	0	flowering plants	Plants	100.0
+taxongroup	Pla-2751_118_plants-39	Pla-2751_118_plants-19	Pla-2751_118_plants-39_4971	118	Pla-2751_118_plants-19_1402	118	0	flowering plants	Plants	100.0
+taxongroup	Sex-811c_49_plants-3	Sex-811c_49_plants-3	Sex-811c_49_plants-3_4971	49	Sex-811c_49_plants-3_1402	49	0	flowering plants	Plants	100.0
+taxongroup	Mon-1726_164_plants-35	Mon-1726_164_plants-35	Mon-1726_164_plants-35_4971	164	Mon-1726_164_plants-35_1402	164	0	flowering plants	Plants	100.0
+taxongroup	Mon-1726_195_plants-15	Mon-1726_195_plants-15	Mon-1726_195_plants-15_4971	195	Mon-1726_195_plants-15_1402	195	0	flowering plants	Plants	100.0
+taxongroup	Sau-6bc5_32_plants-5	Sau-6bc5_32_plants-5	Sau-6bc5_32_plants-5_4971	32	Sau-6bc5_32_plants-5_1402	32	0	flowering plants	Plants	100.0
+taxongroup	All0ae9_1_plants-13	All0ae9_1_plants-13	All0ae9_1_plants-13_4971	1	All0ae9_1_plants-13_1402	1	0	flowering plants	Plants	100.0
+taxongroup	Ins-960c_20_plants-12	Ins-960c_20_plants-12	Ins-960c_20_plants-12_4971	20	Ins-960c_20_plants-12_1402	20	0	flowering plants	Plants	100.0
+taxongroup	Titcfb6_11_plants-8	Titcfb6_11_plants-8	Titcfb6_11_plants-8_4971	11	Titcfb6_11_plants-8_1402	11	0	flowering plants	Plants	100.0
+taxongroup	Flo-338d_307_plants-55	Flo-338d_307_plants-55	Flo-338d_307_plants-55_4971	307	Flo-338d_307_plants-55_4553	307	0	flowering plants	plants	100.0
+taxongroup	Flo33d1_16_plants-17	Flo33d1_16_plants-17	Flo33d1_16_plants-17_4971	16	Flo33d1_16_plants-17_4553	16	0	flowering plants	plants	100.0
+taxongroup	Hum-85c3_404_plants-24	Hum-85c3_404_plants-24	Hum-85c3_404_plants-24_4971	404	Hum-85c3_404_plants-24_1402	404	0	flowering plants	Plants	100.0
+taxongroup	Her-0461_100_plants-9	Her-0461_100_plants-9	Her-0461_100_plants-9_4971	100	Her-0461_100_plants-9_1402	100	0	flowering plants	Plants	100.0
+taxongroup	Flo-338d_126_plant-12	Flo-338d_126_plant-12	Flo-338d_126_plant-12_4971	126	Flo-338d_126_plant-12_4553	126	0	flowering plants	plants	100.0
+taxongroup	Pla-2751_104_plants-3	Pla-2751_104_plants-20	Pla-2751_104_plants-3_4971	104	Pla-2751_104_plants-20_1402	104	0	flowering plants	Plants	100.0
+taxongroup	Par-e8bc_193_plants-13	Par-e8bc_193_plant-6	Par-e8bc_193_plants-13_4971	193	Par-e8bc_193_plant-6_1402	193	0	flowering plants	Plants	100.0
+taxongroup	Par-e8bc_193_plants-13	Par-e8bc_193_plants-13	Par-e8bc_193_plants-13_4971	193	Par-e8bc_193_plants-13_1402	193	0	flowering plants	Plants	100.0
+taxongroup	Nar-f40f_2_plant-23	Nar-f40f_2_plant-23	Nar-f40f_2_plant-23_4971	2	Nar-f40f_2_plant-23_1402	2	0	flowering plants	Plants	100.0
+taxongroup	Fly-ac51_28_plants-3	Fly-ac51_28_plants-3	Fly-ac51_28_plants-3_4971	28	Fly-ac51_28_plants-3_1402	28	0	flowering plants	Plants	100.0
+taxongroup	Aspef4a_1_plants-12	Aspef4a_1_plants-12	Aspef4a_1_plants-12_4971	1	Aspef4a_1_plants-12_1402	1	0	flowering plants	Plants	100.0
+taxongroup	Asp-da96_23_plants-5	Asp-da96_23_plants-5	Asp-da96_23_plants-5_4971	23	Asp-da96_23_plants-5_1402	23	0	flowering plants	Plants	100.0
+taxongroup	Ara-552d_53_plant-32	Ara-552d_53_plant-32	Ara-552d_53_plant-32_4971	53	Ara-552d_53_plant-32_1402	53	0	flowering plants	Plants	100.0
+taxongroup	All-1935_2_plants-8	All-1935_2_plants-8	All-1935_2_plants-8_4971	2	All-1935_2_plants-8_1402	2	0	flowering plants	Plants	100.0
+taxongroup	Orc5d52_24_plant-11	Orc5d52_24_plant-11	Orc5d52_24_plant-11_4971	24	Orc5d52_24_plant-11_1402	24	0	flowering plants	Plants	100.0
+taxongroup	Gen-b461_5_plants-5	Gen-b461_5_plants-5	Gen-b461_5_plants-5_4971	5	Gen-b461_5_plants-5_1402	5	0	flowering plants	Plants	100.0
+taxongroup	Her-0461_100_plants-9	Her-0461_100_plants-15	Her-0461_100_plants-9_4971	100	Her-0461_100_plants-15_1402	100	0	flowering plants	Plants	100.0
+taxongroup	Hyp-f6cf_2_plant-15	Hyp-f6cf_2_plant-15	Hyp-f6cf_2_plant-15_4971	2	Hyp-f6cf_2_plant-15_1402	2	0	flowering plants	Plants	100.0
+taxongroup	Sag-0ea8_95_plants-19	Sag-0ea8_95_plants-19	Sag-0ea8_95_plants-19_4971	95	Sag-0ea8_95_plants-19_1402	95	0	flowering plants	Plants	100.0
+taxongroup	Poa-a930_2_plants-18	Poa-a930_2_plants-18	Poa-a930_2_plants-18_4971	2	Poa-a930_2_plants-18_1402	2	0	flowering plants	Plants	100.0
+taxongroup	Lil-97b9_48_plants-15	Lil-97b9_48_plants-15	Lil-97b9_48_plants-15_4971	48	Lil-97b9_48_plants-15_1402	48	0	flowering plants	Plants	100.0
+taxongroup	Flo-338d_126_plants-3	Flo-338d_126_plants-3	Flo-338d_126_plants-3_4971	126	Flo-338d_126_plants-3_4553	126	0	flowering plants	plants	100.0
+taxongroup	Flo-338d_126_plant-12	Flo-338d_126_plants-3	Flo-338d_126_plant-12_4971	126	Flo-338d_126_plants-3_4553	126	0	flowering plants	plants	100.0
+taxongroup	Pas-a544_2_plants-22	Pas-a544_2_plants-22	Pas-a544_2_plants-22_4971	2	Pas-a544_2_plants-22_1402	2	0	flowering plants	Plants	100.0
+taxongroup	Pla-2751_104_plants-3	Pla-2751_104_plants-3	Pla-2751_104_plants-3_4971	104	Pla-2751_104_plants-3_4553	104	0	flowering plants	plants	100.0
+taxongroup	Pla-2751_104_plants-20	Pla-2751_104_plants-3	Pla-2751_104_plants-20_4971	104	Pla-2751_104_plants-3_4553	104	0	flowering plants	plants	100.0
+taxongroup	Par-e8bc_193_plant-6	Par-e8bc_193_plants-13	Par-e8bc_193_plant-6_4971	193	Par-e8bc_193_plants-13_4553	193	0	flowering plants	plants	100.0
+taxongroup	Pla-2751_104_plants-20	Pla-2751_104_plants-20	Pla-2751_104_plants-20_4971	104	Pla-2751_104_plants-20_4553	104	0	flowering plants	plants	100.0
+taxongroup	Par-e8bc_193_plant-6	Par-e8bc_193_plant-6	Par-e8bc_193_plant-6_4971	193	Par-e8bc_193_plant-6_4553	193	0	flowering plants	plants	100.0
+taxongroup	Flo-338d_126_plants-3	Flo-338d_126_plant-12	Flo-338d_126_plants-3_4971	126	Flo-338d_126_plant-12_4553	126	0	flowering plants	plants	100.0
+taxongroup	Pla-2751_118_plants-19	Pla-2751_118_plants-19	Pla-2751_118_plants-19_4971	118	Pla-2751_118_plants-19_4553	118	0	flowering plants	plants	100.0
+taxongroup	Dro-82dc_2_plants-8	Dro-82dc_2_plants-8	Dro-82dc_2_plants-8_4971	2	Dro-82dc_2_plants-8_4553	2	0	flowering plants	plants	100.0
+taxongroup	Flo-338d_307_plants-55	Flo-338d_307_plants-36	Flo-338d_307_plants-55_4971	307	Flo-338d_307_plants-36_4553	307	0	flowering plants	plants	100.0
+taxongroup	Flo-338d_7_plant-25	Flo-338d_7_plant-25	Flo-338d_7_plant-25_4971	7	Flo-338d_7_plant-25_4553	7	0	flowering plants	plants	100.0
+taxongroup	Dic-c8bf_2_plants-28	Dic-c8bf_2_plants-28	Dic-c8bf_2_plants-28_4971	2	Dic-c8bf_2_plants-28_4553	2	0	flowering plants	plants	100.0
+taxongroup	Flo-338d_7_plants-7	Flo-338d_7_plants-7	Flo-338d_7_plants-7_4971	7	Flo-338d_7_plants-7_4553	7	0	flowering plants	plants	100.0
+taxongroup	Flo-338d_7_plants-7	Flo-338d_7_plant-25	Flo-338d_7_plants-7_4971	7	Flo-338d_7_plant-25_4553	7	0	flowering plants	plants	100.0
+taxongroup	Clu-a44b_30_plants-5	Clu-a44b_30_plants-5	Clu-a44b_30_plants-5_4971	30	Clu-a44b_30_plants-5_4553	30	0	flowering plants	plants	100.0
+taxongroup	Flo-338d_307_plants-36	Flo-338d_307_plants-55	Flo-338d_307_plants-36_4971	307	Flo-338d_307_plants-55_4553	307	0	flowering plants	plants	100.0
+taxongroup	Flo-338d_307_plants-36	Flo-338d_307_plants-36	Flo-338d_307_plants-36_4971	307	Flo-338d_307_plants-36_4553	307	0	flowering plants	plants	100.0
+taxongroup	Dic-c8bf_6_plants-6	Dic-c8bf_6_plants-6	Dic-c8bf_6_plants-6_4971	6	Dic-c8bf_6_plants-6_4553	6	0	flowering plants	plants	100.0
+taxongroup	Pla-2751_118_plants-39	Pla-2751_118_plants-39	Pla-2751_118_plants-39_4971	118	Pla-2751_118_plants-39_4553	118	0	flowering plants	plants	100.0
+taxongroup	Pla-2751_118_plants-19	Pla-2751_118_plants-39	Pla-2751_118_plants-19_4971	118	Pla-2751_118_plants-39_4553	118	0	flowering plants	plants	100.0
+taxongroup	Flo-e790_55_plants-25	Flo-e790_55_plants-25	Flo-e790_55_plants-25_4971	55	Flo-e790_55_plants-25_4553	55	0	flowering plants	plants	100.0
+taxongroup	Ste-56e3_356_conifers-19	Ste-56e3_356_plants-7	Ste-56e3_356_conifers-19_5354	356	Ste-56e3_356_plants-7_1402	356	0	conifers	Plants	100.0
+taxongroup	Pla598a_25_conifers-28	Pla598a_25_plants-31	Pla598a_25_conifers-28_5354	25	Pla598a_25_plants-31_1402	25	0	conifers	Plants	100.0
+taxongroup	Gre-04bd_145_conifer-9	Gre-04bd_145_plant-3	Gre-04bd_145_conifer-9_5354	145	Gre-04bd_145_plant-3_1402	145	0	conifers	Plants	100.0
+taxongroup	Pla-2751_7_conifers-42	Pla-2751_7_plants-49	Pla-2751_7_conifers-42_5354	7	Pla-2751_7_plants-49_1402	7	0	conifers	Plants	100.0
+taxongroup	Pla-2751_7_conifers-42	Pla-2751_7_plants-30	Pla-2751_7_conifers-42_5354	7	Pla-2751_7_plants-30_1402	7	0	conifers	Plants	100.0
+taxongroup	Pla-2751_7_conifers-42	Pla-2751_7_plants-16	Pla-2751_7_conifers-42_5354	7	Pla-2751_7_plants-16_1402	7	0	conifers	Plants	100.0
+taxongroup	Woo-2b74_82_conifers-11	Woo-2b74_82_plants-8	Woo-2b74_82_conifers-11_5354	82	Woo-2b74_82_plants-8_4553	82	0	conifers	plants	100.0
+taxongroup	Din-756f_211_conifers-5	Din-756f_211_plants-2	Din-756f_211_conifers-5_5354	211	Din-756f_211_plants-2_4553	211	0	conifers	plants	100.0
+taxongroup	Flo-338d_299_conifers-10	Flo-338d_299_plants-5	Flo-338d_299_conifers-10_5354	299	Flo-338d_299_plants-5_4553	299	0	conifers	plants	100.0
+taxongroup	Igu-76d2_301_conifers-9	Igu-76d2_301_plants-28	Igu-76d2_301_conifers-9_5354	301	Igu-76d2_301_plants-28_4553	301	0	conifers	plants	100.0
+taxongroup	Map-fd86_50_conifers-28	Map-fd86_50_plants-35	Map-fd86_50_conifers-28_5354	50	Map-fd86_50_plants-35_4553	50	0	conifers	plants	100.0
+taxongroup	Uta-b72d_96_conifers-33	Uta-b72d_96_plants-50	Uta-b72d_96_conifers-33_5354	96	Uta-b72d_96_plants-50_4553	96	0	conifers	plants	100.0
+taxongroup	Dir-7dc2_150_conifers-8	Dir-7dc2_150_plant-17	Dir-7dc2_150_conifers-8_5354	150	Dir-7dc2_150_plant-17_4553	150	0	conifers	plants	100.0
+taxongroup	Eur-d570_88_conifer-17	Eur-d570_88_plants-12	Eur-d570_88_conifer-17_5354	88	Eur-d570_88_plants-12_4553	88	0	conifers	plants	100.0
+taxongroup	Con-7997_48_conifers-33	Con-7997_48_plants-23	Con-7997_48_conifers-33_5354	48	Con-7997_48_plants-23_4553	48	0	conifers	plants	100.0
+taxongroup	Bee-1811_53_conifers-20	Bee-1811_53_plant-15	Bee-1811_53_conifers-20_5354	53	Bee-1811_53_plant-15_1402	53	0	conifers	Plants	100.0
+taxongroup	Had-5500_46_conifers-37	Had-5500_46_plants-34	Had-5500_46_conifers-37_5354	46	Had-5500_46_plants-34_1402	46	0	conifers	Plants	100.0
+taxongroup	Pla-2751_7_conifers-42	Pla-2751_7_plants-9	Pla-2751_7_conifers-42_5354	7	Pla-2751_7_plants-9_4553	7	0	conifers	plants	100.0
+taxongroup	Squ-4431_61_conifer-21	Squ-4431_61_plants-12	Squ-4431_61_conifer-21_5354	61	Squ-4431_61_plants-12_1402	61	0	conifers	Plants	100.0
+taxongroup	Con-7997_56_conifers-3	Con-7997_56_plants-6	Con-7997_56_conifers-3_5354	56	Con-7997_56_plants-6_1402	56	0	conifers	Plants	100.0
+taxongroup	Con-7997_41_conifer-7	Con-7997_41_plants-10	Con-7997_41_conifer-7_5354	41	Con-7997_41_plants-10_1402	41	0	conifers	Plants	100.0
+taxongroup	Con-7997_41_conifers-5	Con-7997_41_plants-10	Con-7997_41_conifers-5_5354	41	Con-7997_41_plants-10_1402	41	0	conifers	Plants	100.0
+taxongroup	Gal-0153_184_conifers-52	Gal-0153_184_plants-42	Gal-0153_184_conifers-52_5354	184	Gal-0153_184_plants-42_1402	184	0	conifers	Plants	100.0
+taxongroup	Arg-b9cb_150_conifers-28	Arg-b9cb_150_plants-35	Arg-b9cb_150_conifers-28_5354	150	Arg-b9cb_150_plants-35_1402	150	0	conifers	Plants	100.0
+taxongroup	Meg-83a4_62_conifers-23	Meg-83a4_62_plant-28	Meg-83a4_62_conifers-23_5354	62	Meg-83a4_62_plant-28_1402	62	0	conifers	Plants	100.0
+taxongroup	Arc-4c1c_297_conifers-11	Arc-4c1c_297_plants-3	Arc-4c1c_297_conifers-11_5354	297	Arc-4c1c_297_plants-3_1402	297	0	conifers	Plants	100.0
+taxongroup	Pin-a6d8_2_pine-23	Pin-a6d8_2_pine-17	Pin-a6d8_2_pine-23_5614	2	Pin-a6d8_2_pine-17_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_100_pines-28	Pin-2e32_100_pines-28	Pin-2e32_100_pines-28_5614	100	Pin-2e32_100_pines-28_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_100_pine-23	Pin-2e32_100_pine-20	Pin-2e32_100_pine-23_5614	100	Pin-2e32_100_pine-20_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_100_pine-23	Pin-2e32_100_pine-17	Pin-2e32_100_pine-23_5614	100	Pin-2e32_100_pine-17_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_100_pine-20	Pin-2e32_100_pines-28	Pin-2e32_100_pine-20_5614	100	Pin-2e32_100_pines-28_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_48_pine-13	Pin-2e32_48_pine-13	Pin-2e32_48_pine-13_5614	48	Pin-2e32_48_pine-13_4432	48	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_100_pine-17	Pin-2e32_100_pines-28	Pin-2e32_100_pine-17_5614	100	Pin-2e32_100_pines-28_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_100_pine-17	Pin-2e32_100_pine-23	Pin-2e32_100_pine-17_5614	100	Pin-2e32_100_pine-23_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_100_pine-17	Pin-2e32_100_pine-20	Pin-2e32_100_pine-17_5614	100	Pin-2e32_100_pine-20_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_100_pines-28	Pin-2e32_100_pine-20	Pin-2e32_100_pines-28_5614	100	Pin-2e32_100_pine-20_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_100_pine-23	Pin-2e32_100_pines-28	Pin-2e32_100_pine-23_5614	100	Pin-2e32_100_pines-28_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_27_pine-36	Pin-a6d8_27_pine-3	Pin-a6d8_27_pine-36_5614	27	Pin-a6d8_27_pine-3_4432	27	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_27_pine-36	Pin-a6d8_27_pine-36	Pin-a6d8_27_pine-36_5614	27	Pin-a6d8_27_pine-36_4432	27	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_100_pines-28	Pin-2e32_100_pine-17	Pin-2e32_100_pines-28_5614	100	Pin-2e32_100_pine-17_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_100_pine-20	Pin-2e32_100_pine-17	Pin-2e32_100_pine-20_5614	100	Pin-2e32_100_pine-17_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_100_pines-28	Pin-2e32_100_pine-23	Pin-2e32_100_pines-28_5614	100	Pin-2e32_100_pine-23_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-23	Pin-a6d8_2_pine-20	Pin-a6d8_2_pine-23_5614	2	Pin-a6d8_2_pine-20_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-23	Pin-a6d8_2_pine-14	Pin-a6d8_2_pine-23_5614	2	Pin-a6d8_2_pine-14_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_100_pine-23	Pin-2e32_100_pine-23	Pin-2e32_100_pine-23_5614	100	Pin-2e32_100_pine-23_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-23	Pin-a6d8_2_pine-10	Pin-a6d8_2_pine-23_5614	2	Pin-a6d8_2_pine-10_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Chi-0fb6_148_pine-15	Chi-0fb6_148_plants-21	Chi-0fb6_148_pine-15_4432	148	Chi-0fb6_148_plants-21_4553	148	0	pines	plants	100.0
+taxongroup	Bro-d72d_227_pine-20	Bro-d72d_227_plant-8	Bro-d72d_227_pine-20_4432	227	Bro-d72d_227_plant-8_4553	227	0	pines	plants	100.0
+taxongroup	Pin-a6d8_2_pine-10	Pin-a6d8_2_conifer-31	Pin-a6d8_2_pine-10_5614	2	Pin-a6d8_2_conifer-31_5354	2	0	whitebark pine	conifers	100.0
+taxongroup	Pin-a6d8_2_pine-23	Pin-a6d8_2_conifer-31	Pin-a6d8_2_pine-23_5614	2	Pin-a6d8_2_conifer-31_5354	2	0	whitebark pine	conifers	100.0
+taxongroup	Pin-a6d8_2_pine-27	Pin-a6d8_2_conifer-31	Pin-a6d8_2_pine-27_5614	2	Pin-a6d8_2_conifer-31_5354	2	0	whitebark pine	conifers	100.0
+taxongroup	Pin-a6d8_2_pine-20	Pin-a6d8_2_conifer-31	Pin-a6d8_2_pine-20_5614	2	Pin-a6d8_2_conifer-31_5354	2	0	whitebark pine	conifers	100.0
+taxongroup	Pin-a6d8_2_pine-17	Pin-a6d8_2_conifer-31	Pin-a6d8_2_pine-17_5614	2	Pin-a6d8_2_conifer-31_5354	2	0	whitebark pine	conifers	100.0
+taxongroup	Pin-a6d8_2_pine-14	Pin-a6d8_2_conifer-31	Pin-a6d8_2_pine-14_5614	2	Pin-a6d8_2_conifer-31_5354	2	0	whitebark pine	conifers	100.0
+taxongroup	Pin-2e32_100_pine-20	Pin-2e32_100_pine-23	Pin-2e32_100_pine-20_5614	100	Pin-2e32_100_pine-23_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_100_pine-20	Pin-2e32_100_pine-20	Pin-2e32_100_pine-20_5614	100	Pin-2e32_100_pine-20_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_39_pine-3	Pin-a6d8_39_pine-3	Pin-a6d8_39_pine-3_5614	39	Pin-a6d8_39_pine-3_4432	39	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-20	Pin-a6d8_2_pine-17	Pin-a6d8_2_pine-20_5614	2	Pin-a6d8_2_pine-17_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-20	Pin-a6d8_2_pine-20	Pin-a6d8_2_pine-20_5614	2	Pin-a6d8_2_pine-20_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-20	Pin-a6d8_2_pine-23	Pin-a6d8_2_pine-20_5614	2	Pin-a6d8_2_pine-23_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-20	Pin-a6d8_2_pine-27	Pin-a6d8_2_pine-20_5614	2	Pin-a6d8_2_pine-27_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-2e32_100_pine-17	Pin-2e32_100_pine-17	Pin-2e32_100_pine-17_5614	100	Pin-2e32_100_pine-17_4432	100	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-27	Pin-a6d8_2_pine-20	Pin-a6d8_2_pine-27_5614	2	Pin-a6d8_2_pine-20_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_3_pine-8	Pin-a6d8_3_plants-13	Pin-a6d8_3_pine-8_4432	3	Pin-a6d8_3_plants-13_4553	3	0	pines	plants	100.0
+taxongroup	Pin-a6d8_27_pine-3	Pin-a6d8_27_pine-36	Pin-a6d8_27_pine-3_5614	27	Pin-a6d8_27_pine-36_4432	27	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-17	Pin-a6d8_2_pine-10	Pin-a6d8_2_pine-17_5614	2	Pin-a6d8_2_pine-10_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-17	Pin-a6d8_2_pine-14	Pin-a6d8_2_pine-17_5614	2	Pin-a6d8_2_pine-14_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-14	Pin-a6d8_2_pine-17	Pin-a6d8_2_pine-14_5614	2	Pin-a6d8_2_pine-17_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-17	Pin-a6d8_2_pine-20	Pin-a6d8_2_pine-17_5614	2	Pin-a6d8_2_pine-20_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-14	Pin-a6d8_2_pine-14	Pin-a6d8_2_pine-14_5614	2	Pin-a6d8_2_pine-14_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-23	Pin-a6d8_2_pine-23	Pin-a6d8_2_pine-23_5614	2	Pin-a6d8_2_pine-23_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-23	Pin-a6d8_2_pine-27	Pin-a6d8_2_pine-23_5614	2	Pin-a6d8_2_pine-27_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_4_pine-3	Pin-a6d8_4_pine-3	Pin-a6d8_4_pine-3_5614	4	Pin-a6d8_4_pine-3_4432	4	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_61_pine-19	Pin-a6d8_61_pine-19	Pin-a6d8_61_pine-19_5614	61	Pin-a6d8_61_pine-19_4432	61	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_4_pine-3	Pin-a6d8_4_pine-10	Pin-a6d8_4_pine-3_5614	4	Pin-a6d8_4_pine-10_4432	4	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-27	Pin-a6d8_2_pine-10	Pin-a6d8_2_pine-27_5614	2	Pin-a6d8_2_pine-10_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_4_pine-10	Pin-a6d8_4_pine-3	Pin-a6d8_4_pine-10_5614	4	Pin-a6d8_4_pine-3_4432	4	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_33_pine-8	Pin-a6d8_33_pine-8	Pin-a6d8_33_pine-8_5614	33	Pin-a6d8_33_pine-8_4432	33	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-10	Pin-a6d8_2_pine-10	Pin-a6d8_2_pine-10_5614	2	Pin-a6d8_2_pine-10_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_4_pine-10	Pin-a6d8_4_pine-10	Pin-a6d8_4_pine-10_5614	4	Pin-a6d8_4_pine-10_4432	4	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-14	Pin-a6d8_2_pine-27	Pin-a6d8_2_pine-14_5614	2	Pin-a6d8_2_pine-27_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-17	Pin-a6d8_2_pine-23	Pin-a6d8_2_pine-17_5614	2	Pin-a6d8_2_pine-23_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-27	Pin-a6d8_2_pine-27	Pin-a6d8_2_pine-27_5614	2	Pin-a6d8_2_pine-27_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-14	Pin-a6d8_2_pine-23	Pin-a6d8_2_pine-14_5614	2	Pin-a6d8_2_pine-23_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-20	Pin-a6d8_2_pine-14	Pin-a6d8_2_pine-20_5614	2	Pin-a6d8_2_pine-14_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-20	Pin-a6d8_2_pine-10	Pin-a6d8_2_pine-20_5614	2	Pin-a6d8_2_pine-10_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-14	Pin-a6d8_2_pine-20	Pin-a6d8_2_pine-14_5614	2	Pin-a6d8_2_pine-20_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-10	Pin-a6d8_2_pine-14	Pin-a6d8_2_pine-10_5614	2	Pin-a6d8_2_pine-14_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-10	Pin-a6d8_2_pine-17	Pin-a6d8_2_pine-10_5614	2	Pin-a6d8_2_pine-17_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-10	Pin-a6d8_2_pine-20	Pin-a6d8_2_pine-10_5614	2	Pin-a6d8_2_pine-20_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-10	Pin-a6d8_2_pine-27	Pin-a6d8_2_pine-10_5614	2	Pin-a6d8_2_pine-27_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-14	Pin-a6d8_2_pine-10	Pin-a6d8_2_pine-14_5614	2	Pin-a6d8_2_pine-10_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-10	Pin-a6d8_2_pine-23	Pin-a6d8_2_pine-10_5614	2	Pin-a6d8_2_pine-23_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-17	Pin-a6d8_2_pine-27	Pin-a6d8_2_pine-17_5614	2	Pin-a6d8_2_pine-27_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_27_pine-3	Pin-a6d8_27_pine-3	Pin-a6d8_27_pine-3_5614	27	Pin-a6d8_27_pine-3_4432	27	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-27	Pin-a6d8_2_pine-23	Pin-a6d8_2_pine-27_5614	2	Pin-a6d8_2_pine-23_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-27	Pin-a6d8_2_pine-17	Pin-a6d8_2_pine-27_5614	2	Pin-a6d8_2_pine-17_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-27	Pin-a6d8_2_pine-14	Pin-a6d8_2_pine-27_5614	2	Pin-a6d8_2_pine-14_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_2_pine-17	Pin-a6d8_2_pine-17	Pin-a6d8_2_pine-17_5614	2	Pin-a6d8_2_pine-17_4432	2	0	whitebark pine	pines	100.0
+taxongroup	Chi-0fb6_148_pine-29	Chi-0fb6_148_plants-21	Chi-0fb6_148_pine-29_4432	148	Chi-0fb6_148_plants-21_4553	148	0	pines	plants	100.0
+taxongroup	Nep-5975_67_pine-40	Nep-5975_67_plant-33	Nep-5975_67_pine-40_4432	67	Nep-5975_67_plant-33_4553	67	0	pines	plants	100.0
+taxongroup	Tem-9c2f_13_sequoia-11	Tem-9c2f_13_plant-74	Tem-9c2f_13_sequoia-11_5459	13	Tem-9c2f_13_plant-74_4553	13	0	giant sequoia	plants	100.0
+taxongroup	Pin1688_2_conifers-2	Pin1688_2_conifers-2	Pin1688_2_conifers-2_5352	2	Pin1688_2_conifers-2_5354	2	0	modern conifers	conifers	100.0
+taxongroup	Con-7997_40_conifers-18	Con-7997_40_conifers-2	Con-7997_40_conifers-18_5352	40	Con-7997_40_conifers-2_5354	40	0	modern conifers	conifers	100.0
+taxongroup	Con-7997_40_conifers-2	Con-7997_40_conifers-2	Con-7997_40_conifers-2_5352	40	Con-7997_40_conifers-2_5354	40	0	modern conifers	conifers	100.0
+taxongroup	Con-7997_40_conifers-2	Con-7997_40_conifers-18	Con-7997_40_conifers-2_5352	40	Con-7997_40_conifers-18_5354	40	0	modern conifers	conifers	100.0
+taxongroup	Con-7997_40_conifers-2	Con-7997_40_conifers-14	Con-7997_40_conifers-2_5352	40	Con-7997_40_conifers-14_5354	40	0	modern conifers	conifers	100.0
+taxongroup	Con-7997_40_conifers-14	Con-7997_40_conifers-2	Con-7997_40_conifers-14_5352	40	Con-7997_40_conifers-2_5354	40	0	modern conifers	conifers	100.0
+taxongroup	Con-7997_40_conifers-14	Con-7997_40_conifers-18	Con-7997_40_conifers-14_5352	40	Con-7997_40_conifers-18_5354	40	0	modern conifers	conifers	100.0
+taxongroup	Con-7997_40_conifers-18	Con-7997_40_conifers-18	Con-7997_40_conifers-18_5352	40	Con-7997_40_conifers-18_5354	40	0	modern conifers	conifers	100.0
+taxongroup	Con-7997_40_conifers-14	Con-7997_40_conifers-14	Con-7997_40_conifers-14_5352	40	Con-7997_40_conifers-14_5354	40	0	modern conifers	conifers	100.0
+taxongroup	Con-7997_40_conifers-18	Con-7997_40_conifers-14	Con-7997_40_conifers-18_5352	40	Con-7997_40_conifers-14_5354	40	0	modern conifers	conifers	100.0
+taxongroup	Con-7997_75_pine-12	Con-7997_75_Conifers-1	Con-7997_75_pine-12_4432	75	Con-7997_75_Conifers-1_3091	75	0	pines	Conifers	100.0
+taxongroup	Pin-feaf_2_pines-39	Pin-feaf_2_Pinaceae-2	Pin-feaf_2_pines-39_4432	2	Pin-feaf_2_Pinaceae-2_752	2	0	pines	Pinaceae	100.0
+taxongroup	Pin-32d8_25_pines-20	Pin-32d8_25_Pinaceae-6	Pin-32d8_25_pines-20_4432	25	Pin-32d8_25_Pinaceae-6_752	25	0	pines	Pinaceae	100.0
+taxongroup	Pin-0f85_86_pines-14	Pin-0f85_86_Pinaceae-10	Pin-0f85_86_pines-14_4432	86	Pin-0f85_86_Pinaceae-10_752	86	0	pines	Pinaceae	100.0
+taxongroup	Con-7997_19_pine-74	Con-7997_19_Pinophyta-4	Con-7997_19_pine-74_4432	19	Con-7997_19_Pinophyta-4_3092	19	0	pines	Pinophyta	100.0
+taxongroup	Pin1688_1_conifers-8	Pin1688_1_conifers-8	Pin1688_1_conifers-8_5352	1	Pin1688_1_conifers-8_5354	1	0	modern conifers	conifers	100.0
+taxongroup	Gop-3c78_190_pine-2	Gop-3c78_190_plant-8	Gop-3c78_190_pine-2_4432	190	Gop-3c78_190_plant-8_1402	190	0	pines	Plants	100.0
+taxongroup	Seq-b61f_2_sequoia-9	Seq-b61f_2_Cupressaceae-25	Seq-b61f_2_sequoia-9_5459	2	Seq-b61f_2_Cupressaceae-25_557	2	0	giant sequoia	Cupressaceae	100.0
+taxongroup	Gop-3c78_29_pine-15	Gop-3c78_29_plant-4	Gop-3c78_29_pine-15_4432	29	Gop-3c78_29_plant-4_1402	29	0	pines	Plants	100.0
+taxongroup	Fir-3b5c_161_pine-11	Fir-3b5c_161_plants-23	Fir-3b5c_161_pine-11_4432	161	Fir-3b5c_161_plants-23_4553	161	0	pines	plants	100.0
+taxongroup	Pin-0f85_4_pine-27	Pin-0f85_4_conifers-5	Pin-0f85_4_pine-27_4432	4	Pin-0f85_4_conifers-5_5354	4	0	pines	conifers	100.0
+taxongroup	Pin-2e32_5_pines-22	Pin-2e32_5_conifers-38	Pin-2e32_5_pines-22_4432	5	Pin-2e32_5_conifers-38_5354	5	0	pines	conifers	100.0
+taxongroup	Tai-3286_220_pine-56	Tai-3286_220_conifers-42	Tai-3286_220_pine-56_4432	220	Tai-3286_220_conifers-42_5354	220	0	pines	conifers	100.0
+taxongroup	Cre-94a7_2_pine-2	Cre-94a7_2_conifer-7	Cre-94a7_2_pine-2_4432	2	Cre-94a7_2_conifer-7_5354	2	0	pines	conifers	100.0
+taxongroup	Mas-675c_342_pines-27	Mas-675c_342_plants-7	Mas-675c_342_pines-27_4432	342	Mas-675c_342_plants-7_4553	342	0	pines	plants	100.0
+taxongroup	Con-7997_19_pine-74	Con-7997_19_plants-21	Con-7997_19_pine-74_4432	19	Con-7997_19_plants-21_4553	19	0	pines	plants	100.0
+taxongroup	Con-7997_93_pines-25	Con-7997_93_plant-7	Con-7997_93_pines-25_4432	93	Con-7997_93_plant-7_4553	93	0	pines	plants	100.0
+taxongroup	Con-7997_19_pine-74	Con-7997_19_plants-39	Con-7997_19_pine-74_4432	19	Con-7997_19_plants-39_4553	19	0	pines	plants	100.0
+taxongroup	Pin1688_7_pines-14	Pin1688_7_conifer-3	Pin1688_7_pines-14_4432	7	Pin1688_7_conifer-3_5354	7	0	pines	conifers	100.0
+taxongroup	Pin-0f85_4_pine-15	Pin-0f85_4_conifers-5	Pin-0f85_4_pine-15_4432	4	Pin-0f85_4_conifers-5_5354	4	0	pines	conifers	100.0
+taxongroup	Eur-a59b_81_pine-22	Eur-a59b_81_conifer-29	Eur-a59b_81_pine-22_4432	81	Eur-a59b_81_conifer-29_5354	81	0	pines	conifers	100.0
+taxongroup	Tai-3286_55_pine-21	Tai-3286_55_conifers-66	Tai-3286_55_pine-21_4432	55	Tai-3286_55_conifers-66_5354	55	0	pines	conifers	100.0
+taxongroup	Gol-9020_114_pine-14	Gol-9020_114_conifers-23	Gol-9020_114_pine-14_4432	114	Gol-9020_114_conifers-23_5354	114	0	pines	conifers	100.0
+taxongroup	Gol-9020_114_pine-8	Gol-9020_114_conifers-23	Gol-9020_114_pine-8_4432	114	Gol-9020_114_conifers-23_5354	114	0	pines	conifers	100.0
+taxongroup	Con-7997_198_pine-28	Con-7997_198_conifers-4	Con-7997_198_pine-28_4432	198	Con-7997_198_conifers-4_5354	198	0	pines	conifers	100.0
+taxongroup	Con-7997_198_pine-21	Con-7997_198_conifers-4	Con-7997_198_pine-21_4432	198	Con-7997_198_conifers-4_5354	198	0	pines	conifers	100.0
+taxongroup	Pin-feaf_2_pines-39	Pin-feaf_2_conifers-23	Pin-feaf_2_pines-39_4432	2	Pin-feaf_2_conifers-23_5354	2	0	pines	conifers	100.0
+taxongroup	Eur-bc75_476_pine-22	Eur-bc75_476_conifer-11	Eur-bc75_476_pine-22_4432	476	Eur-bc75_476_conifer-11_5354	476	0	pines	conifers	100.0
+taxongroup	Pin-a6d8_54_pines-33	Pin-a6d8_54_pines-33	Pin-a6d8_54_pines-33_5614	54	Pin-a6d8_54_pines-33_4432	54	0	whitebark pine	pines	100.0
+taxongroup	Pin-32d8_25_Pinus-10	Pin-32d8_25_Pinaceae-6	Pin-32d8_25_Pinus-10_1213	25	Pin-32d8_25_Pinaceae-6_752	25	0	Pinus	Pinaceae	100.0
+taxongroup	Pin-0f85_63_Pinales-18	Pin-0f85_63_conifers-23	Pin-0f85_63_Pinales-18_3086	63	Pin-0f85_63_conifers-23_5354	63	0	Pinales	conifers	100.0
+taxongroup	Pin-0f85_35_Pinales-16	Pin-0f85_35_plants-36	Pin-0f85_35_Pinales-16_3086	35	Pin-0f85_35_plants-36_1402	35	0	Pinales	Plants	100.0
+taxongroup	Pin-0f85_2_Pinales-3	Pin-0f85_2_Pinopsida-10	Pin-0f85_2_Pinales-3_3086	2	Pin-0f85_2_Pinopsida-10_413	2	0	Pinales	Pinopsida	100.0
+taxongroup	Pin-0f85_2_Pinales-3	Pin-0f85_2_Pinophyta-7	Pin-0f85_2_Pinales-3_3086	2	Pin-0f85_2_Pinophyta-7_3092	2	0	Pinales	Pinophyta	100.0
+taxongroup	Pin-0f85_63_Pinales-18	Pin-0f85_63_Pinophyta-3	Pin-0f85_63_Pinales-18_3086	63	Pin-0f85_63_Pinophyta-3_3092	63	0	Pinales	Pinophyta	100.0
+taxongroup	Pin-a6d8_9_pine-2	Pin-a6d8_9_pine-9	Pin-a6d8_9_pine-2_3651	9	Pin-a6d8_9_pine-9_4432	9	0	Whitebark pine	pines	100.0
+taxongroup	Con-7997_19_Pinophyta-4	Con-7997_19_plants-39	Con-7997_19_Pinophyta-4_3092	19	Con-7997_19_plants-39_4553	19	0	Pinophyta	plants	100.0
+taxongroup	Pin-a6d8_9_pine-9	Pin-a6d8_9_pine-9	Pin-a6d8_9_pine-9_3651	9	Pin-a6d8_9_pine-9_4432	9	0	Whitebark pine	pines	100.0
+taxongroup	Pin-a6d8_9_pine-9	Pin-a6d8_9_pine-2	Pin-a6d8_9_pine-9_3651	9	Pin-a6d8_9_pine-2_4432	9	0	Whitebark pine	pines	100.0
+taxongroup	Pin-0f85_83_Pinales-7	Pin-0f85_83_conifers-2	Pin-0f85_83_Pinales-7_3086	83	Pin-0f85_83_conifers-2_5354	83	0	Pinales	conifers	100.0
+taxongroup	Pin-0f85_93_Pinales-5	Pin-0f85_93_conifers-21	Pin-0f85_93_Pinales-5_3086	93	Pin-0f85_93_conifers-21_5354	93	0	Pinales	conifers	100.0
+taxongroup	Pin-0f85_30_Pinales-6	Pin-0f85_30_conifers-3	Pin-0f85_30_Pinales-6_3086	30	Pin-0f85_30_conifers-3_5354	30	0	Pinales	conifers	100.0
+taxongroup	Pin-0f85_2_Pinales-3	Pin-0f85_2_conifers-16	Pin-0f85_2_Pinales-3_3086	2	Pin-0f85_2_conifers-16_5354	2	0	Pinales	conifers	100.0
+taxongroup	Con-7997_19_Pinophyta-4	Con-7997_19_plants-21	Con-7997_19_Pinophyta-4_3092	19	Con-7997_19_plants-21_4553	19	0	Pinophyta	plants	100.0
+taxongroup	Pin-c005_34_Pinus-1	Pin-c005_34_plants-17	Pin-c005_34_Pinus-1_1213	34	Pin-c005_34_plants-17_1402	34	0	Pinus	Plants	100.0
+taxongroup	Uta-b72d_96_Pinophyta-35	Uta-b72d_96_plants-50	Uta-b72d_96_Pinophyta-35_3092	96	Uta-b72d_96_plants-50_1402	96	0	Pinophyta	Plants	100.0
+taxongroup	Con-7997_198_Pinus-23	Con-7997_198_conifers-4	Con-7997_198_Pinus-23_1213	198	Con-7997_198_conifers-4_5354	198	0	Pinus	conifers	100.0
+taxongroup	Con-7997_160_Pinus-10	Con-7997_160_conifer-4	Con-7997_160_Pinus-10_1213	160	Con-7997_160_conifer-4_5354	160	0	Pinus	conifers	100.0
+taxongroup	Tai-3286_220_Pinus-58	Tai-3286_220_conifers-42	Tai-3286_220_Pinus-58_1213	220	Tai-3286_220_conifers-42_5354	220	0	Pinus	conifers	100.0
+taxongroup	Pin-0f85_63_Pinales-18	Pin-0f85_63_conifers-11	Pin-0f85_63_Pinales-18_3086	63	Pin-0f85_63_conifers-11_5354	63	0	Pinales	conifers	100.0
+taxongroup	Con-7997_42_Pinales-39	Con-7997_42_conifers-11	Con-7997_42_Pinales-39_3086	42	Con-7997_42_conifers-11_5354	42	0	Pinales	conifers	100.0
+taxongroup	Tax-9735_19_Pinales-23	Tax-9735_19_conifer-7	Tax-9735_19_Pinales-23_3086	19	Tax-9735_19_conifer-7_5354	19	0	Pinales	conifers	100.0
+taxongroup	Tax-f23c_24_Pinales-28	Tax-f23c_24_conifers-9	Tax-f23c_24_Pinales-28_3086	24	Tax-f23c_24_conifers-9_5354	24	0	Pinales	conifers	100.0
+taxongroup	Tax-f23c_24_Pinales-13	Tax-f23c_24_conifers-9	Tax-f23c_24_Pinales-13_3086	24	Tax-f23c_24_conifers-9_5354	24	0	Pinales	conifers	100.0
+taxongroup	Pin-a6d8_9_pine-2	Pin-a6d8_9_pine-2	Pin-a6d8_9_pine-2_3651	9	Pin-a6d8_9_pine-2_4432	9	0	Whitebark pine	pines	100.0
+taxongroup	Con-7997_194_Conifers-1	Con-7997_194_plants-5	Con-7997_194_Conifers-1_3091	194	Con-7997_194_plants-5_4553	194	0	Conifers	plants	100.0
+taxongroup	Con-7997_54_Conifers-1	Con-7997_54_plants-18	Con-7997_54_Conifers-1_3091	54	Con-7997_54_plants-18_1402	54	0	Conifers	Plants	100.0
+taxongroup	Con-7997_48_Conifers-1	Con-7997_48_plants-23	Con-7997_48_Conifers-1_3091	48	Con-7997_48_plants-23_4553	48	0	Conifers	plants	100.0
+taxongroup	Con-7997_2_Conifers-1	Con-7997_2_plants-10	Con-7997_2_Conifers-1_3091	2	Con-7997_2_plants-10_4553	2	0	Conifers	plants	100.0
+taxongroup	Con-7997_52_Conifers-1	Con-7997_52_plants-17	Con-7997_52_Conifers-1_3091	52	Con-7997_52_plants-17_4553	52	0	Conifers	plants	100.0
+taxongroup	Pin5841_4_Conifers-1	Pin5841_4_plants-7	Pin5841_4_Conifers-1_3091	4	Pin5841_4_plants-7_4553	4	0	Conifers	plants	100.0
+taxongroup	Din-756f_217_Conifers-1	Din-756f_217_plants-8	Din-756f_217_Conifers-1_3091	217	Din-756f_217_plants-8_4553	217	0	Conifers	plants	100.0
+taxongroup	Pin-2e32_15_pine-10	Pin-2e32_15_pine-10	Pin-2e32_15_pine-10_3093	15	Pin-2e32_15_pine-10_4432	15	0	Great Basin bristlecone pine	pines	100.0
+taxongroup	Pin-c005_34_longaeva-2	Pin-c005_34_plants-17	Pin-c005_34_longaeva-2_3094	34	Pin-c005_34_plants-17_4553	34	0	Pinus longaeva	plants	87.0
+taxongroup	Pin-c005_2_longaeva-2	Pin-c005_2_pine-21	Pin-c005_2_longaeva-2_3094	2	Pin-c005_2_pine-21_4432	2	0	Pinus longaeva	pines	87.0
+taxongroup	Pin-c005_2_longaeva-2	Pin-c005_2_pine-12	Pin-c005_2_longaeva-2_3094	2	Pin-c005_2_pine-12_4432	2	0	Pinus longaeva	pines	87.0
+taxongroup	Pin-c005_2_longaeva-2	Pin-c005_2_pine-31	Pin-c005_2_longaeva-2_3094	2	Pin-c005_2_pine-31_4432	2	0	Pinus longaeva	pines	87.0
+taxongroup	Con-7997_65_longaeva-14	Con-7997_65_pine-11	Con-7997_65_longaeva-14_3094	65	Con-7997_65_pine-11_4432	65	0	Pinus longaeva	pines	87.0
+taxongroup	Pin-c005_2_longaeva-2	Pin-c005_2_pine-16	Pin-c005_2_longaeva-2_3094	2	Pin-c005_2_pine-16_4432	2	0	Pinus longaeva	pines	87.0
+taxongroup	Pin-c005_73_longaeva-13	Pin-c005_73_Pinus-12	Pin-c005_73_longaeva-13_3094	73	Pin-c005_73_Pinus-12_1213	73	0	Pinus longaeva	Pinus	87.0
+taxongroup	Tax-b848_94_baccata-22	Tax-b848_94_Taxus-21	Tax-b848_94_baccata-22_3478	94	Tax-b848_94_Taxus-21_1306	94	0	Taxus baccata	Taxus	87.0
+taxongroup	Pin-c005_74_longaeva-2	Pin-c005_74_Pinus-1	Pin-c005_74_longaeva-2_3094	74	Pin-c005_74_Pinus-1_1213	74	0	Pinus longaeva	Pinus	87.0
+taxongroup	Pin-c005_46_longaeva-2	Pin-c005_46_Pinus-1	Pin-c005_46_longaeva-2_3094	46	Pin-c005_46_Pinus-1_1213	46	0	Pinus longaeva	Pinus	87.0
+taxongroup	Seq-b61f_313_Sequoiadendron-6	Seq-b61f_313_Conifers-1	Seq-b61f_313_Sequoiadendron-6_3294	313	Seq-b61f_313_Conifers-1_3091	313	0	Sequoiadendron	Conifers	87.0
+taxongroup	Pin-c005_57_longaeva-2	Pin-c005_57_Pinus-1	Pin-c005_57_longaeva-2_3094	57	Pin-c005_57_Pinus-1_1213	57	0	Pinus longaeva	Pinus	87.0
+taxongroup	Cup-33f4_23_Sequoiadendron-6	Cup-33f4_23_Cupressaceae-19	Cup-33f4_23_Sequoiadendron-6_3294	23	Cup-33f4_23_Cupressaceae-19_557	23	0	Sequoiadendron	Cupressaceae	87.0
+taxongroup	Seq-b61f_2_Sequoiadendron-1	Seq-b61f_2_Cupressaceae-25	Seq-b61f_2_Sequoiadendron-1_3294	2	Seq-b61f_2_Cupressaceae-25_557	2	0	Sequoiadendron	Cupressaceae	87.0
+taxongroup	Tem-9c2f_13_Sequoiadendron-13	Tem-9c2f_13_plant-74	Tem-9c2f_13_Sequoiadendron-13_3294	13	Tem-9c2f_13_plant-74_1402	13	0	Sequoiadendron	Plants	87.0
+taxongroup	Fir-3b5c_56_Sequoiadendron-13	Fir-3b5c_56_plant-2	Fir-3b5c_56_Sequoiadendron-13_3294	56	Fir-3b5c_56_plant-2_1402	56	0	Sequoiadendron	Plants	87.0
+taxongroup	Tax-b848_96_baccata-11	Tax-b848_96_Taxus-10	Tax-b848_96_baccata-11_3478	96	Tax-b848_96_Taxus-10_1306	96	0	Taxus baccata	Taxus	87.0
+taxongroup	Tax-b848_108_baccata-16	Tax-b848_108_Taxus-15	Tax-b848_108_baccata-16_3478	108	Tax-b848_108_Taxus-15_1306	108	0	Taxus baccata	Taxus	87.0
+taxongroup	Pin-c005_50_longaeva-6	Pin-c005_50_Pinus-5	Pin-c005_50_longaeva-6_3094	50	Pin-c005_50_Pinus-5_1213	50	0	Pinus longaeva	Pinus	87.0
+taxongroup	Tax-b848_94_baccata-22	Tax-b848_94_Taxus-28	Tax-b848_94_baccata-22_3478	94	Tax-b848_94_Taxus-28_1306	94	0	Taxus baccata	Taxus	87.0
+taxongroup	Pin-c005_71_longaeva-2	Pin-c005_71_Pinus-1	Pin-c005_71_longaeva-2_3094	71	Pin-c005_71_Pinus-1_1213	71	0	Pinus longaeva	Pinus	87.0
+taxongroup	Pin-c005_22_longaeva-2	Pin-c005_22_Pinus-1	Pin-c005_22_longaeva-2_3094	22	Pin-c005_22_Pinus-1_1213	22	0	Pinus longaeva	Pinus	87.0
+taxongroup	Con-7997_65_longaeva-14	Con-7997_65_Pinus-13	Con-7997_65_longaeva-14_3094	65	Con-7997_65_Pinus-13_1213	65	0	Pinus longaeva	Pinus	87.0
+taxongroup	Pin-c005_34_longaeva-2	Pin-c005_34_Pinus-1	Pin-c005_34_longaeva-2_3094	34	Pin-c005_34_Pinus-1_1213	34	0	Pinus longaeva	Pinus	87.0
+taxongroup	Pin-c005_1_longaeva-2	Pin-c005_1_Pinus-1	Pin-c005_1_longaeva-2_3094	1	Pin-c005_1_Pinus-1_1213	1	0	Pinus longaeva	Pinus	87.0
+taxongroup	Pin-c005_68_longaeva-2	Pin-c005_68_Pinus-1	Pin-c005_68_longaeva-2_3094	68	Pin-c005_68_Pinus-1_1213	68	0	Pinus longaeva	Pinus	87.0
+taxongroup	Pin-c005_2_longaeva-2	Pin-c005_2_Pinus-1	Pin-c005_2_longaeva-2_3094	2	Pin-c005_2_Pinus-1_1213	2	0	Pinus longaeva	Pinus	87.0
+taxongroup	Pin-c005_6_longaeva-2	Pin-c005_6_Pinus-1	Pin-c005_6_longaeva-2_3094	6	Pin-c005_6_Pinus-1_1213	6	0	Pinus longaeva	Pinus	87.0
+taxongroup	Pin-a6d8_12_albicaulis-6	Pin-a6d8_12_pine-25	Pin-a6d8_12_albicaulis-6_3652	12	Pin-a6d8_12_pine-25_4432	12	0	Pinus albicaulis	pines	87.0
+taxongroup	Pin-a6d8_12_albicaulis-6	Pin-a6d8_12_Pinus-5	Pin-a6d8_12_albicaulis-6_3652	12	Pin-a6d8_12_Pinus-5_1213	12	0	Pinus albicaulis	Pinus	87.0
+taxongroup	Pin-a6d8_12_albicaulis-6	Pin-a6d8_12_pine-13	Pin-a6d8_12_albicaulis-6_3652	12	Pin-a6d8_12_pine-13_4432	12	0	Pinus albicaulis	pines	87.0
+taxongroup	Pin-a6d8_12_albicaulis-6	Pin-a6d8_12_Pinus-15	Pin-a6d8_12_albicaulis-6_3652	12	Pin-a6d8_12_Pinus-15_1213	12	0	Pinus albicaulis	Pinus	87.0
+taxongroup	Pin-a6d8_22_albicaulis-5	Pin-a6d8_22_Pinus-4	Pin-a6d8_22_albicaulis-5_3652	22	Pin-a6d8_22_Pinus-4_1213	22	0	Pinus albicaulis	Pinus	87.0
+taxongroup	Pin-32d8_42_pines-30	Pin-32d8_42_pine-2	Pin-32d8_42_pines-30_5616	42	Pin-32d8_42_pine-2_4432	42	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_42_pine-2	Pin-32d8_42_pines-30	Pin-32d8_42_pine-2_5616	42	Pin-32d8_42_pines-30_4432	42	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_2_pine-6	Pin-32d8_2_pine-6	Pin-32d8_2_pine-6_5616	2	Pin-32d8_2_pine-6_4432	2	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_42_pines-30	Pin-32d8_42_pines-30	Pin-32d8_42_pines-30_5616	42	Pin-32d8_42_pines-30_4432	42	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_55_pine-25	Pin-32d8_55_pine-25	Pin-32d8_55_pine-25_5616	55	Pin-32d8_55_pine-25_4432	55	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_21_pine-6	Pin-32d8_21_pine-6	Pin-32d8_21_pine-6_5616	21	Pin-32d8_21_pine-6_4432	21	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_28_pine-2	Pin-32d8_28_pine-2	Pin-32d8_28_pine-2_5616	28	Pin-32d8_28_pine-2_4432	28	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_2_pine-14	Pin-32d8_2_pine-14	Pin-32d8_2_pine-14_5616	2	Pin-32d8_2_pine-14_4432	2	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_2_pine-6	Pin-32d8_2_pine-14	Pin-32d8_2_pine-6_5616	2	Pin-32d8_2_pine-14_4432	2	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_55_pine-21	Pin-32d8_55_pine-8	Pin-32d8_55_pine-21_5616	55	Pin-32d8_55_pine-8_4432	55	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_55_pine-25	Pin-32d8_55_pine-21	Pin-32d8_55_pine-25_5616	55	Pin-32d8_55_pine-21_4432	55	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-43	Pin-32d8_39_pine-43	Pin-32d8_39_pine-43_5616	39	Pin-32d8_39_pine-43_4432	39	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-43	Pin-32d8_39_pine-28	Pin-32d8_39_pine-43_5616	39	Pin-32d8_39_pine-28_4432	39	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-7	Pin-32d8_39_pine-20	Pin-32d8_39_pine-7_5616	39	Pin-32d8_39_pine-20_4432	39	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-7	Pin-32d8_39_pine-28	Pin-32d8_39_pine-7_5616	39	Pin-32d8_39_pine-28_4432	39	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-28	Pin-32d8_39_pine-7	Pin-32d8_39_pine-28_5616	39	Pin-32d8_39_pine-7_4432	39	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-43	Pin-32d8_39_pine-20	Pin-32d8_39_pine-43_5616	39	Pin-32d8_39_pine-20_4432	39	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_42_pine-2	Pin-32d8_42_pine-2	Pin-32d8_42_pine-2_5616	42	Pin-32d8_42_pine-2_4432	42	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-28	Pin-32d8_39_pine-43	Pin-32d8_39_pine-28_5616	39	Pin-32d8_39_pine-43_4432	39	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-7	Pin-32d8_39_pine-43	Pin-32d8_39_pine-7_5616	39	Pin-32d8_39_pine-43_4432	39	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-28	Pin-32d8_39_pine-20	Pin-32d8_39_pine-28_5616	39	Pin-32d8_39_pine-20_4432	39	0	pitch pine	pines	83.0
+taxongroup	Pin-c005_2_pine-16	Pin-c005_2_pine-21	Pin-c005_2_pine-16_5355	2	Pin-c005_2_pine-21_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-7	Pin-32d8_39_pine-7	Pin-32d8_39_pine-7_5616	39	Pin-32d8_39_pine-7_4432	39	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-7	Pin-32d8_39_Pinus-15	Pin-32d8_39_pine-7_5616	39	Pin-32d8_39_Pinus-15_1213	39	0	pitch pine	Pinus	83.0
+taxongroup	Pin-32d8_39_pine-20	Pin-32d8_39_Pinus-15	Pin-32d8_39_pine-20_5616	39	Pin-32d8_39_Pinus-15_1213	39	0	pitch pine	Pinus	83.0
+taxongroup	Tax-9735_164_yew-25	Tax-9735_164_Taxus-42	Tax-9735_164_yew-25_3480	164	Tax-9735_164_Taxus-42_1306	164	0	European yew	Taxus	83.0
+taxongroup	Pin-a6d8_3_pine-8	Pin-a6d8_3_pine-8	Pin-a6d8_3_pine-8_3653	3	Pin-a6d8_3_pine-8_4432	3	0	Creeping pine	pines	83.0
+taxongroup	Cre-94a7_1_pine-2	Cre-94a7_1_pine-2	Cre-94a7_1_pine-2_3653	1	Cre-94a7_1_pine-2_4432	1	0	Creeping pine	pines	83.0
+taxongroup	Cre-94a7_2_pine-2	Cre-94a7_2_pine-2	Cre-94a7_2_pine-2_3653	2	Cre-94a7_2_pine-2_4432	2	0	Creeping pine	pines	83.0
+taxongroup	Cre-94a7_4_pine-2	Cre-94a7_4_pine-2	Cre-94a7_4_pine-2_3653	4	Cre-94a7_4_pine-2_4432	4	0	Creeping pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-20	Pin-32d8_39_pine-7	Pin-32d8_39_pine-20_5616	39	Pin-32d8_39_pine-7_4432	39	0	pitch pine	pines	83.0
+taxongroup	Flo-e790_7_Angiosperms-1	Flo-e790_7_plants-10	Flo-e790_7_Angiosperms-1_2277	7	Flo-e790_7_plants-10_4553	7	0	Angiosperms 	plants	83.0
+taxongroup	Flo-338d_256_Angiosperms-2	Flo-338d_256_plants-26	Flo-338d_256_Angiosperms-2_2277	256	Flo-338d_256_plants-26_4553	256	0	Angiosperms 	plants	83.0
+taxongroup	Flo-338d_256_Angiosperms-2	Flo-338d_256_plant-13	Flo-338d_256_Angiosperms-2_2277	256	Flo-338d_256_plant-13_4553	256	0	Angiosperms 	plants	83.0
+taxongroup	Flo-e790_19_Angiosperms-1	Flo-e790_19_plants-5	Flo-e790_19_Angiosperms-1_2277	19	Flo-e790_19_plants-5_4553	19	0	Angiosperms 	plants	83.0
+taxongroup	Flo-338d_256_Angiosperms-2	Flo-338d_256_plants-5	Flo-338d_256_Angiosperms-2_2277	256	Flo-338d_256_plants-5_4553	256	0	Angiosperms 	plants	83.0
+taxongroup	Pin-32d8_39_pine-43	Pin-32d8_39_Pinus-15	Pin-32d8_39_pine-43_5616	39	Pin-32d8_39_Pinus-15_1213	39	0	pitch pine	Pinus	83.0
+taxongroup	Pin-32d8_39_pine-28	Pin-32d8_39_Pinus-15	Pin-32d8_39_pine-28_5616	39	Pin-32d8_39_Pinus-15_1213	39	0	pitch pine	Pinus	83.0
+taxongroup	Pin-32d8_56_pine-19	Pin-32d8_56_pine-19	Pin-32d8_56_pine-19_5616	56	Pin-32d8_56_pine-19_4432	56	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-20	Pin-32d8_39_pine-20	Pin-32d8_39_pine-20_5616	39	Pin-32d8_39_pine-20_4432	39	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_36_pines-2	Pin-32d8_36_pines-2	Pin-32d8_36_pines-2_5616	36	Pin-32d8_36_pines-2_4432	36	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-20	Pin-32d8_39_pine-43	Pin-32d8_39_pine-20_5616	39	Pin-32d8_39_pine-43_4432	39	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_55_pine-8	Pin-32d8_55_pine-21	Pin-32d8_55_pine-8_5616	55	Pin-32d8_55_pine-21_4432	55	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_2_pine-14	Pin-32d8_2_pine-6	Pin-32d8_2_pine-14_5616	2	Pin-32d8_2_pine-6_4432	2	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_56_pine-10	Pin-32d8_56_pine-10	Pin-32d8_56_pine-10_5616	56	Pin-32d8_56_pine-10_4432	56	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-28	Pin-32d8_39_pine-28	Pin-32d8_39_pine-28_5616	39	Pin-32d8_39_pine-28_4432	39	0	pitch pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-15	Pin-1f24_2_pine-12	Pin-1f24_2_pine-15_5617	2	Pin-1f24_2_pine-12_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-12	Pin-1f24_2_pine-6	Pin-1f24_2_pine-12_5617	2	Pin-1f24_2_pine-6_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-12	Pin-1f24_2_pine-15	Pin-1f24_2_pine-12_5617	2	Pin-1f24_2_pine-15_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-15	Pin-1f24_2_pine-6	Pin-1f24_2_pine-15_5617	2	Pin-1f24_2_pine-6_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-12	Pin-1f24_2_pine-12	Pin-1f24_2_pine-12_5617	2	Pin-1f24_2_pine-12_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-15	Pin-1f24_2_pine-9	Pin-1f24_2_pine-15_5617	2	Pin-1f24_2_pine-9_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-6	Pin-1f24_2_pine-9	Pin-1f24_2_pine-6_5617	2	Pin-1f24_2_pine-9_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-6	Pin-1f24_2_pine-6	Pin-1f24_2_pine-6_5617	2	Pin-1f24_2_pine-6_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-6	Pin-1f24_2_pine-12	Pin-1f24_2_pine-6_5617	2	Pin-1f24_2_pine-12_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-9	Pin-1f24_2_pine-6	Pin-1f24_2_pine-9_5617	2	Pin-1f24_2_pine-6_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-6	Pin-1f24_2_pine-15	Pin-1f24_2_pine-6_5617	2	Pin-1f24_2_pine-15_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-15	Pin-1f24_2_pine-15	Pin-1f24_2_pine-15_5617	2	Pin-1f24_2_pine-15_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-9	Pin-1f24_2_pine-9	Pin-1f24_2_pine-9_5617	2	Pin-1f24_2_pine-9_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-c005_2_pine-16	Pin-c005_2_pine-31	Pin-c005_2_pine-16_5355	2	Pin-c005_2_pine-31_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-c005_2_pine-12	Pin-c005_2_pine-31	Pin-c005_2_pine-12_5355	2	Pin-c005_2_pine-31_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-c005_2_pine-12	Pin-c005_2_pine-21	Pin-c005_2_pine-12_5355	2	Pin-c005_2_pine-21_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-12	Pin-1f24_2_pine-9	Pin-1f24_2_pine-12_5617	2	Pin-1f24_2_pine-9_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-9	Pin-1f24_2_pine-15	Pin-1f24_2_pine-9_5617	2	Pin-1f24_2_pine-15_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-1f24_2_pine-9	Pin-1f24_2_pine-12	Pin-1f24_2_pine-9_5617	2	Pin-1f24_2_pine-12_4432	2	0	scrub pine	pines	83.0
+taxongroup	Pin-c005_2_pine-16	Pin-c005_2_pine-12	Pin-c005_2_pine-16_5355	2	Pin-c005_2_pine-12_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-c005_2_pine-16	Pin-c005_2_pine-16	Pin-c005_2_pine-16_5355	2	Pin-c005_2_pine-16_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-c005_2_pine-31	Pin-c005_2_pine-21	Pin-c005_2_pine-31_5355	2	Pin-c005_2_pine-21_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-c005_2_pine-31	Pin-c005_2_pine-16	Pin-c005_2_pine-31_5355	2	Pin-c005_2_pine-16_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-c005_2_pine-31	Pin-c005_2_pine-12	Pin-c005_2_pine-31_5355	2	Pin-c005_2_pine-12_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-c005_2_pine-12	Pin-c005_2_pine-16	Pin-c005_2_pine-12_5355	2	Pin-c005_2_pine-16_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-c005_2_pine-21	Pin-c005_2_pine-31	Pin-c005_2_pine-21_5355	2	Pin-c005_2_pine-31_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-c005_2_pine-21	Pin-c005_2_pine-21	Pin-c005_2_pine-21_5355	2	Pin-c005_2_pine-21_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-c005_2_pine-21	Pin-c005_2_pine-12	Pin-c005_2_pine-21_5355	2	Pin-c005_2_pine-12_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-c005_2_pine-21	Pin-c005_2_pine-16	Pin-c005_2_pine-21_5355	2	Pin-c005_2_pine-16_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-c005_2_pine-12	Pin-c005_2_pine-12	Pin-c005_2_pine-12_5355	2	Pin-c005_2_pine-12_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-c005_2_pine-31	Pin-c005_2_Pinus-1	Pin-c005_2_pine-31_5355	2	Pin-c005_2_Pinus-1_1213	2	0	western bristlecone pine	Pinus	83.0
+taxongroup	Pin-c005_2_pine-16	Pin-c005_2_Pinus-1	Pin-c005_2_pine-16_5355	2	Pin-c005_2_Pinus-1_1213	2	0	western bristlecone pine	Pinus	83.0
+taxongroup	Pin-c005_2_pine-12	Pin-c005_2_Pinus-1	Pin-c005_2_pine-12_5355	2	Pin-c005_2_Pinus-1_1213	2	0	western bristlecone pine	Pinus	83.0
+taxongroup	Pin-c005_2_pine-21	Pin-c005_2_Pinus-1	Pin-c005_2_pine-21_5355	2	Pin-c005_2_Pinus-1_1213	2	0	western bristlecone pine	Pinus	83.0
+taxongroup	Pin-32d8_39_pine-20	Pin-32d8_39_pine-28	Pin-32d8_39_pine-20_5616	39	Pin-32d8_39_pine-28_4432	39	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_14_pines-3	Pin-32d8_14_pines-3	Pin-32d8_14_pines-3_5616	14	Pin-32d8_14_pines-3_4432	14	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_47_pine-2	Pin-32d8_47_pine-2	Pin-32d8_47_pine-2_5616	47	Pin-32d8_47_pine-2_4432	47	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_55_pine-21	Pin-32d8_55_pine-21	Pin-32d8_55_pine-21_5616	55	Pin-32d8_55_pine-21_4432	55	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_16_pine-2	Pin-32d8_16_pine-2	Pin-32d8_16_pine-2_5616	16	Pin-32d8_16_pine-2_4432	16	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_7_pine-3	Pin-32d8_7_pine-3	Pin-32d8_7_pine-3_5616	7	Pin-32d8_7_pine-3_4432	7	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_54_pines-12	Pin-32d8_54_pine-2	Pin-32d8_54_pines-12_5616	54	Pin-32d8_54_pine-2_4432	54	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_49_pine-14	Pin-32d8_49_pine-14	Pin-32d8_49_pine-14_5616	49	Pin-32d8_49_pine-14_4432	49	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_55_pine-21	Pin-32d8_55_pine-25	Pin-32d8_55_pine-21_5616	55	Pin-32d8_55_pine-25_4432	55	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_12_pine-2	Pin-32d8_12_pine-2	Pin-32d8_12_pine-2_5616	12	Pin-32d8_12_pine-2_4432	12	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_54_pine-2	Pin-32d8_54_pines-12	Pin-32d8_54_pine-2_5616	54	Pin-32d8_54_pines-12_4432	54	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_54_pines-12	Pin-32d8_54_pines-12	Pin-32d8_54_pines-12_5616	54	Pin-32d8_54_pines-12_4432	54	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_54_pine-2	Pin-32d8_54_pine-2	Pin-32d8_54_pine-2_5616	54	Pin-32d8_54_pine-2_4432	54	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_56_pine-10	Pin-32d8_56_pine-19	Pin-32d8_56_pine-10_5616	56	Pin-32d8_56_pine-19_4432	56	0	pitch pine	pines	83.0
+taxongroup	Pin-c005_2_pine-31	Pin-c005_2_pine-31	Pin-c005_2_pine-31_5355	2	Pin-c005_2_pine-31_4432	2	0	western bristlecone pine	pines	83.0
+taxongroup	Pin-32d8_55_pine-8	Pin-32d8_55_pine-8	Pin-32d8_55_pine-8_5616	55	Pin-32d8_55_pine-8_4432	55	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_55_pine-8	Pin-32d8_55_pine-25	Pin-32d8_55_pine-8_5616	55	Pin-32d8_55_pine-25_4432	55	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_56_pine-19	Pin-32d8_56_pine-10	Pin-32d8_56_pine-19_5616	56	Pin-32d8_56_pine-10_4432	56	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_55_pine-25	Pin-32d8_55_pine-8	Pin-32d8_55_pine-25_5616	55	Pin-32d8_55_pine-8_4432	55	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_39_pine-43	Pin-32d8_39_pine-7	Pin-32d8_39_pine-43_5616	39	Pin-32d8_39_pine-7_4432	39	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_48_pine-24	Pin-32d8_48_pine-24	Pin-32d8_48_pine-24_5616	48	Pin-32d8_48_pine-24_4432	48	0	pitch pine	pines	83.0
+taxongroup	Pin-32d8_55_pine-8	Pin-32d8_55_pinus-10	Pin-32d8_55_pine-8_5616	55	Pin-32d8_55_pinus-10_4431	55	0	pitch pine	pinus	83.0
+taxongroup	Pin-32d8_55_pine-21	Pin-32d8_55_pinus-10	Pin-32d8_55_pine-21_5616	55	Pin-32d8_55_pinus-10_4431	55	0	pitch pine	pinus	83.0
+taxongroup	Pin-32d8_55_pine-25	Pin-32d8_55_pinus-10	Pin-32d8_55_pine-25_5616	55	Pin-32d8_55_pinus-10_4431	55	0	pitch pine	pinus	83.0
+taxongroup	Aph-1a7e_36_angiosperms-17	Aph-1a7e_36_plants-45	Aph-1a7e_36_angiosperms-17_4972	36	Aph-1a7e_36_plants-45_1402	36	0	angiosperms 	Plants	83.0
+taxongroup	Flo-e790_2_angiosperms-21	Flo-e790_2_plants-4	Flo-e790_2_angiosperms-21_4972	2	Flo-e790_2_plants-4_1402	2	0	angiosperms 	Plants	83.0
+taxongroup	Ste-2738_161_angiosperms-22	Ste-2738_161_plants-26	Ste-2738_161_angiosperms-22_4972	161	Ste-2738_161_plants-26_1402	161	0	angiosperms 	Plants	83.0
+taxongroup	Urt-e4ab_33_angiosperms-52	Urt-e4ab_33_plants-43	Urt-e4ab_33_angiosperms-52_4972	33	Urt-e4ab_33_plants-43_1402	33	0	angiosperms 	Plants	83.0
+taxongroup	Ven-77c9_138_angiosperms-9	Ven-77c9_138_plant-20	Ven-77c9_138_angiosperms-9_4972	138	Ven-77c9_138_plant-20_1402	138	0	angiosperms 	Plants	83.0
+taxongroup	Sau-6bc5_32_angiosperms-7	Sau-6bc5_32_plants-5	Sau-6bc5_32_angiosperms-7_4972	32	Sau-6bc5_32_plants-5_1402	32	0	angiosperms 	Plants	83.0
+taxongroup	Dro-82dc_73_angiosperms-24	Dro-82dc_73_plants-17	Dro-82dc_73_angiosperms-24_4972	73	Dro-82dc_73_plants-17_1402	73	0	angiosperms 	Plants	83.0
+taxongroup	Dic-c8bf_2_angiosperms-30	Dic-c8bf_2_plants-28	Dic-c8bf_2_angiosperms-30_4972	2	Dic-c8bf_2_plants-28_1402	2	0	angiosperms 	Plants	83.0
+taxongroup	Coc-9207_68_angiosperm-35	Coc-9207_68_plants-36	Coc-9207_68_angiosperm-35_4972	68	Coc-9207_68_plants-36_1402	68	0	angiosperms 	Plants	83.0
+taxongroup	Flo-e790_53_angiosperm-5	Flo-e790_53_plants-46	Flo-e790_53_angiosperm-5_4972	53	Flo-e790_53_plants-46_1402	53	0	angiosperms 	Plants	83.0
+taxongroup	Flo-e790_54_angiosperm-3	Flo-e790_54_plant-21	Flo-e790_54_angiosperm-3_4972	54	Flo-e790_54_plant-21_1402	54	0	angiosperms 	Plants	83.0
+taxongroup	Flo-e790_9_angiosperms-5	Flo-e790_9_plants-14	Flo-e790_9_angiosperms-5_4972	9	Flo-e790_9_plants-14_1402	9	0	angiosperms 	Plants	83.0
+taxongroup	Flo-e790_10_angiosperms-7	Flo-e790_10_plant-20	Flo-e790_10_angiosperms-7_4972	10	Flo-e790_10_plant-20_1402	10	0	angiosperms 	Plants	83.0
+taxongroup	Seq-b61f_122_Wellingtonia-19	Seq-b61f_122_plant-45	Seq-b61f_122_Wellingtonia-19_3297	122	Seq-b61f_122_plant-45_1402	122	0	Wellingtonia	Plants	83.0
+taxongroup	Seq-b61f_122_Wellingtonia-47	Seq-b61f_122_plant-45	Seq-b61f_122_Wellingtonia-47_3297	122	Seq-b61f_122_plant-45_1402	122	0	Wellingtonia	Plants	83.0
+taxongroup	Seq-b61f_122_Wellingtonia-36	Seq-b61f_122_plant-45	Seq-b61f_122_Wellingtonia-36_3297	122	Seq-b61f_122_plant-45_1402	122	0	Wellingtonia	Plants	83.0
+taxongroup	Euc-4c3e_147_angiosperms-19	Euc-4c3e_147_plants-17	Euc-4c3e_147_angiosperms-19_4972	147	Euc-4c3e_147_plants-17_1402	147	0	angiosperms 	Plants	83.0
+taxongroup	Flo-e790_2_angiosperms-21	Flo-e790_2_plants-2	Flo-e790_2_angiosperms-21_4972	2	Flo-e790_2_plants-2_1402	2	0	angiosperms 	Plants	83.0
+taxongroup	Bee-1811_53_angiosperms-22	Bee-1811_53_plant-15	Bee-1811_53_angiosperms-22_4972	53	Bee-1811_53_plant-15_4553	53	0	angiosperms 	plants	83.0
+taxongroup	Bee-1811_55_angiosperms-12	Bee-1811_55_plant-3	Bee-1811_55_angiosperms-12_4972	55	Bee-1811_55_plant-3_4553	55	0	angiosperms 	plants	83.0
+taxongroup	Lep-f8ec_17_angiosperm-21	Lep-f8ec_17_plants-18	Lep-f8ec_17_angiosperm-21_4972	17	Lep-f8ec_17_plants-18_4553	17	0	angiosperms 	plants	83.0
+taxongroup	Arg-b9cb_150_angiosperms-32	Arg-b9cb_150_plants-35	Arg-b9cb_150_angiosperms-32_4972	150	Arg-b9cb_150_plants-35_4553	150	0	angiosperms 	plants	83.0
+taxongroup	Igu-76d2_301_angiosperm-27	Igu-76d2_301_plants-28	Igu-76d2_301_angiosperm-27_4972	301	Igu-76d2_301_plants-28_4553	301	0	angiosperms 	plants	83.0
+taxongroup	Lep-f8ec_43_angiosperms-38	Lep-f8ec_43_plants-41	Lep-f8ec_43_angiosperms-38_4972	43	Lep-f8ec_43_plants-41_4553	43	0	angiosperms 	plants	83.0
+taxongroup	Lep-f8ec_43_angiosperms-38	Lep-f8ec_43_plants-35	Lep-f8ec_43_angiosperms-38_4972	43	Lep-f8ec_43_plants-35_4553	43	0	angiosperms 	plants	83.0
+taxongroup	Bee-1811_55_angiosperms-12	Bee-1811_55_plants-10	Bee-1811_55_angiosperms-12_4972	55	Bee-1811_55_plants-10_4553	55	0	angiosperms 	plants	83.0
+taxongroup	Flo-e790_14_angiosperms-25	Flo-e790_14_plant-27	Flo-e790_14_angiosperms-25_4972	14	Flo-e790_14_plant-27_1402	14	0	angiosperms 	Plants	83.0
+taxongroup	Mon-1726_193_angiosperms-13	Mon-1726_193_plants-10	Mon-1726_193_angiosperms-13_4972	193	Mon-1726_193_plants-10_4553	193	0	angiosperms 	plants	83.0
+taxongroup	Map-fd86_50_angiosperms-32	Map-fd86_50_plants-35	Map-fd86_50_angiosperms-32_4972	50	Map-fd86_50_plants-35_4553	50	0	angiosperms 	plants	83.0
+taxongroup	Flo-e790_54_angiosperm-15	Flo-e790_54_plant-21	Flo-e790_54_angiosperm-15_4972	54	Flo-e790_54_plant-21_4553	54	0	angiosperms 	plants	83.0
+taxongroup	Epi-bfa5_15_angiosperms-27	Epi-bfa5_15_plants-22	Epi-bfa5_15_angiosperms-27_4972	15	Epi-bfa5_15_plants-22_4553	15	0	angiosperms 	plants	83.0
+taxongroup	Bee-1811_55_angiosperms-12	Bee-1811_55_plant-21	Bee-1811_55_angiosperms-12_4972	55	Bee-1811_55_plant-21_4553	55	0	angiosperms 	plants	83.0
+taxongroup	Mag-8f64_13_angiosperms-25	Mag-8f64_13_plants-23	Mag-8f64_13_angiosperms-25_4972	13	Mag-8f64_13_plants-23_4553	13	0	angiosperms 	plants	83.0
+taxongroup	Pin-0f85_55_angiosperms-17	Pin-0f85_55_plants-4	Pin-0f85_55_angiosperms-17_4972	55	Pin-0f85_55_plants-4_4553	55	0	angiosperms 	plants	83.0
+taxongroup	Par-e8bc_187_angiosperms-10	Par-e8bc_187_plants-2	Par-e8bc_187_angiosperms-10_4972	187	Par-e8bc_187_plants-2_4553	187	0	angiosperms 	plants	83.0
+taxongroup	Flo-e790_10_angiosperms-7	Flo-e790_10_plant-15	Flo-e790_10_angiosperms-7_4972	10	Flo-e790_10_plant-15_1402	10	0	angiosperms 	Plants	83.0
+taxongroup	Asp-d39c_106_angiosperms-14	Asp-d39c_106_plants-12	Asp-d39c_106_angiosperms-14_4972	106	Asp-d39c_106_plants-12_4553	106	0	angiosperms 	plants	83.0
+taxongroup	Asp-d39c_62_angiosperms-47	Asp-d39c_62_plants-45	Asp-d39c_62_angiosperms-47_4972	62	Asp-d39c_62_plants-45_4553	62	0	angiosperms 	plants	83.0
+taxongroup	Flo-e790_56_angiosperms-18	Flo-e790_56_plants-7	Flo-e790_56_angiosperms-18_4972	56	Flo-e790_56_plants-7_4553	56	0	angiosperms 	plants	83.0
+taxongroup	Flo-e790_133_angiosperms-7	Flo-e790_133_plant-13	Flo-e790_133_angiosperms-7_4972	133	Flo-e790_133_plant-13_4553	133	0	angiosperms 	plants	83.0
+taxongroup	Aus-3dd7_65_angiosperms-14	Aus-3dd7_65_Plants-1	Aus-3dd7_65_angiosperms-14_4972	65	Aus-3dd7_65_Plants-1_4553	65	0	angiosperms 	plants	83.0
+taxongroup	Ast-f1e7_22_angiosperms-3	Ast-f1e7_22_plants-6	Ast-f1e7_22_angiosperms-3_4972	22	Ast-f1e7_22_plants-6_4553	22	0	angiosperms 	plants	83.0
+taxongroup	Pin-0f85_55_angiosperms-17	Pin-0f85_55_plants-20	Pin-0f85_55_angiosperms-17_4972	55	Pin-0f85_55_plants-20_4553	55	0	angiosperms 	plants	83.0
+taxongroup	Mon-1726_2_angiosperms-27	Mon-1726_2_plants-25	Mon-1726_2_angiosperms-27_4972	2	Mon-1726_2_plants-25_4553	2	0	angiosperms 	plants	83.0
+taxongroup	Mon-1726_119_angiosperms-14	Mon-1726_119_plants-12	Mon-1726_119_angiosperms-14_4972	119	Mon-1726_119_plants-12_4553	119	0	angiosperms 	plants	83.0
+taxongroup	Seq-b61f_31_pine-23	Seq-b61f_31_pine-23	Seq-b61f_31_pine-23_3093	31	Seq-b61f_31_pine-23_4432	31	0	Great Basin bristlecone pine	pines	75.0
+taxongroup	Pin-c005_28_pine-16	Pin-c005_28_pine-16	Pin-c005_28_pine-16_3093	28	Pin-c005_28_pine-16_4432	28	0	Great Basin bristlecone pine	pines	75.0
+taxongroup	Con-7997_65_pine-11	Con-7997_65_pine-11	Con-7997_65_pine-11_3093	65	Con-7997_65_pine-11_4432	65	0	Great Basin bristlecone pine	pines	75.0
+taxongroup	Con-7997_65_pine-11	Con-7997_65_Pinus-13	Con-7997_65_pine-11_3093	65	Con-7997_65_Pinus-13_1213	65	0	Great Basin bristlecone pine	Pinus	75.0
+taxongroup	Pin-a6d8_50_pine-12	Pin-a6d8_50_Pinus-24	Pin-a6d8_50_pine-12_3096	50	Pin-a6d8_50_Pinus-24_1213	50	0	Western bristlecone pine	Pinus	54.0
+taxongroup	Pin-a6d8_50_pine-22	Pin-a6d8_50_Pinus-24	Pin-a6d8_50_pine-22_3096	50	Pin-a6d8_50_Pinus-24_1213	50	0	Western bristlecone pine	Pinus	54.0
+taxongroup	Pin-c005_21_pine-5	Pin-c005_21_pine-5	Pin-c005_21_pine-5_3095	21	Pin-c005_21_pine-5_4432	21	0	Intermountain bristlecone pine 	pines	54.0
+taxongroup	Con-7997_199_Pinus-10	Con-7997_200_conifers-3	Con-7997_199_Pinus-10_1213	199	Con-7997_200_conifers-3_5354	200	1	Pinus	conifers	50.0
+taxongroup	Con-7997_199_Pinus-10	Con-7997_198_conifers-4	Con-7997_199_Pinus-10_1213	199	Con-7997_198_conifers-4_5354	198	1	Pinus	conifers	50.0
+taxongroup	Tem-ae4d_15_Pinus-7	Tem-ae4d_16_conifers-9	Tem-ae4d_15_Pinus-7_1213	15	Tem-ae4d_16_conifers-9_5354	16	1	Pinus	conifers	50.0
+taxongroup	Pin-0f85_4_pine-15	Pin-0f85_5_Pinophyta-15	Pin-0f85_4_pine-15_4432	4	Pin-0f85_5_Pinophyta-15_3092	5	1	pines	Pinophyta	50.0
+taxongroup	Fir-3b5c_55_Pinus-8	Fir-3b5c_56_plant-2	Fir-3b5c_55_Pinus-8_1213	55	Fir-3b5c_56_plant-2_1402	56	1	Pinus	Plants	50.0
+taxongroup	Fir-3b5c_55_Pinus-8	Fir-3b5c_54_plants-2	Fir-3b5c_55_Pinus-8_1213	55	Fir-3b5c_54_plants-2_1402	54	1	Pinus	Plants	50.0
+taxongroup	Tai-3286_220_Pinus-58	Tai-3286_221_conifers-30	Tai-3286_220_Pinus-58_1213	220	Tai-3286_221_conifers-30_5354	221	1	Pinus	conifers	50.0
+taxongroup	Tax-9735_3_yew-8	Tax-9735_2_Taxus-1	Tax-9735_3_yew-8_3477	3	Tax-9735_2_Taxus-1_1306	2	1	Common yew	Taxus	50.0
+taxongroup	Con-7997_7_pines-19	Con-7997_8_Pinophyta-5	Con-7997_7_pines-19_4432	7	Con-7997_8_Pinophyta-5_3092	8	1	pines	Pinophyta	50.0
+taxongroup	Pin-feaf_36_pines-11	Pin-feaf_37_Pinaceae-27	Pin-feaf_36_pines-11_4432	36	Pin-feaf_37_Pinaceae-27_752	37	1	pines	Pinaceae	50.0
+taxongroup	Pin-0f85_4_pine-27	Pin-0f85_5_Pinophyta-15	Pin-0f85_4_pine-27_4432	4	Pin-0f85_5_Pinophyta-15_3092	5	1	pines	Pinophyta	50.0
+taxongroup	Pin-0f85_4_pine-27	Pin-0f85_3_Pinales-15	Pin-0f85_4_pine-27_4432	4	Pin-0f85_3_Pinales-15_3086	3	1	pines	Pinales	50.0
+taxongroup	Pin-0f85_4_pine-15	Pin-0f85_3_Pinales-15	Pin-0f85_4_pine-15_4432	4	Pin-0f85_3_Pinales-15_3086	3	1	pines	Pinales	50.0
+taxongroup	Pin-feaf_2_pines-39	Pin-feaf_3_Pinales-8	Pin-feaf_2_pines-39_4432	2	Pin-feaf_3_Pinales-8_3086	3	1	pines	Pinales	50.0
+taxongroup	Pin-feaf_2_pines-39	Pin-feaf_1_Pinaceae-1	Pin-feaf_2_pines-39_4432	2	Pin-feaf_1_Pinaceae-1_752	1	1	pines	Pinaceae	50.0
+taxongroup	Con-7997_65_pine-11	Con-7997_66_Conifer-1	Con-7997_65_pine-11_4432	65	Con-7997_66_Conifer-1_3091	66	1	pines	Conifers	50.0
+taxongroup	Con-7997_55_Conifer-1	Con-7997_54_plants-18	Con-7997_55_Conifer-1_3091	55	Con-7997_54_plants-18_4553	54	1	Conifers	plants	50.0
+taxongroup	Flo-e790_6_Magnoliophyta-5	Flo-e790_5_plants-11	Flo-e790_6_Magnoliophyta-5_2276	6	Flo-e790_5_plants-11_4553	5	1	Magnoliophyta	plants	50.0
+taxongroup	Flo-e790_6_Magnoliophyta-5	Flo-e790_7_plants-10	Flo-e790_6_Magnoliophyta-5_2276	6	Flo-e790_7_plants-10_4553	7	1	Magnoliophyta	plants	50.0
+taxongroup	Con-7997_65_Pinus-13	Con-7997_66_Conifer-1	Con-7997_65_Pinus-13_1213	65	Con-7997_66_Conifer-1_3091	66	1	Pinus	Conifers	50.0

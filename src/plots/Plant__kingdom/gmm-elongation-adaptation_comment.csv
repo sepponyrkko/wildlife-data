@@ -1,0 +1,11 @@
+,token,token_form,concept_uri,arcpath,lemma,upos,widx,feat,elongation_x,elongation_y,group,relrole,comp_id,N_tokens
+0,Tax-9735_24_poisonous-4,poisonous,Poison#adaptation,nsubj>det>,the,DET,1,nsubj>det> the,0.23939662693050867,-0.06875709025066871,Plant__kingdom,adaptation_comment,4,2
+1,Tax-9735_24_poisonous-4,poisonous,Poison#adaptation,nsubj>,leave,NOUN,2,nsubj> ...,0.04438822002462889,0.1320905560463632,Plant__kingdom,adaptation_comment,4,2
+2,Tax-9735_24_poisonous-4,poisonous,Poison#adaptation,cop>,be,AUX,3,cop> be,-0.033957693882590075,-0.17254030715608332,Plant__kingdom,adaptation_comment,4,2
+2,Con-7997_187_dispersal-5,dispersal,Seed_dispersal#adaptation,compound>,seed,NOUN,4,compound> ...,0.19698147398141586,0.06449468922453538,Plant__kingdom,adaptation_comment,4,2
+1,Tax-9735_5_poisonous-7,poisonous,Poison#adaptation,nsubj>,part,NOUN,2,nsubj> ...,0.011973876882762333,0.2248433553761632,Plant__kingdom,adaptation_comment,2,3
+5,Tax-9735_5_poisonous-7,poisonous,Poison#adaptation,cop>,be,AUX,6,cop> be,0.06651836191600381,0.04694712578065664,Plant__kingdom,adaptation_comment,2,3
+9,Tax-9735_175_poisonous-14,poisonous,Poison#adaptation,cop>,be,AUX,13,cop> be,0.06651836191600381,0.04694712578065664,Plant__kingdom,adaptation_comment,2,3
+11,Tax-9735_175_poisonous-14,poisonous,Poison#adaptation,conj>,cardiotoxic,ADJ,16,conj> ...,-0.1717188436353329,0.3436600072011756,Plant__kingdom,adaptation_comment,2,3
+8,Con-7997_187_dispersal-14,dispersal,Seed_dispersal#adaptation,compound>,neighborhood,NOUN,13,compound> ...,-0.003777299189315842,-0.031113579336659064,Plant__kingdom,adaptation_comment,2,3
+12,Con-7997_187_dispersal-14,dispersal,Seed_dispersal#adaptation,conj>,dispersal,NOUN,19,conj> ...,-0.22550008893095902,0.631660310392026,Plant__kingdom,adaptation_comment,2,3

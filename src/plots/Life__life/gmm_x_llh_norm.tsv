@@ -1,0 +1,8 @@
+source	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	97.24	0.0	2.73	0.0	0.0	0.01	0.03	Life__life	30
+adaptation_topic	0.0	98.82	1.18	0.0	0.0	0.0	0.0	Life__life	25
+free_topic	0.0	0.0	100.0	0.0	0.0	0.0	0.0	Life__life	131
+location_comment	0.0	0.0	0.82	99.18	0.0	0.0	0.0	Life__life	10
+location_topic	0.0	0.0	0.0	0.0	100.0	0.0	0.0	Life__life	12
+taxongroup_comment	0.0	0.0	0.0	0.0	0.0	100.0	0.0	Life__life	33
+taxongroup_topic	0.0	0.0	0.0	0.0	0.0	0.0	100.0	Life__life	63

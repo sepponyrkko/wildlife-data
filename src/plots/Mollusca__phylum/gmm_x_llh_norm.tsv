@@ -1,0 +1,8 @@
+source	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	27.5	0.06	19.27	0.0	0.0	27.5	25.67	Mollusca__phylum	61
+adaptation_topic	0.0	34.51	15.4	0.0	0.0	15.58	34.51	Mollusca__phylum	72
+free_topic	0.0	0.0	65.58	0.0	0.0	11.47	22.95	Mollusca__phylum	732
+location_comment	0.0	0.0	17.99	32.75	0.0	27.16	22.1	Mollusca__phylum	7
+location_topic	0.0	0.32	14.81	0.0	35.18	27.67	22.01	Mollusca__phylum	30
+taxongroup_comment	0.0	0.0	0.0	0.0	0.0	100.0	0.0	Mollusca__phylum	204
+taxongroup_topic	0.0	0.0	0.0	0.0	0.0	22.57	77.43	Mollusca__phylum	183

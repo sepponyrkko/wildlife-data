@@ -1,0 +1,8 @@
+rel_role	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	1.0	0.03	0.0	0.313	0.005	0.001	0.0	Mollusca__phylum	61
+adaptation_topic	0.03	1.0	0.008	0.32	0.018	0.002	0.002	Mollusca__phylum	72
+free_topic	0.0	0.008	1.0	0.143	0.0	0.0	0.004	Mollusca__phylum	732
+location_comment	0.313	0.32	0.143	1.0	0.128	0.226	0.113	Mollusca__phylum	7
+location_topic	0.005	0.018	0.0	0.128	1.0	0.0	0.0	Mollusca__phylum	30
+taxongroup_comment	0.001	0.002	0.0	0.226	0.0	1.0	0.012	Mollusca__phylum	204
+taxongroup_topic	0.0	0.002	0.004	0.113	0.0	0.012	1.0	Mollusca__phylum	183

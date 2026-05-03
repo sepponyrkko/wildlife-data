@@ -1,0 +1,9 @@
+feat,pearson,p_pvalue,spearman,s_pvalue,N,group,relrole
+det> the,0.925,0.008,0.878,0.021,3.0,Life__life,location_comment
+nsubj<obl>case> ...,0.783,0.065,0.507,0.305,3.0,Life__life,location_comment
+amod> open,-0.735,0.096,-0.828,0.042,2.0,Life__life,location_comment
+case> ...,0.642,0.17,0.683,0.135,3.0,Life__life,location_comment
+case> from,0.601,0.207,0.828,0.042,2.0,Life__life,location_comment
+case> in,0.484,0.331,0.414,0.414,2.0,Life__life,location_comment
+amod> ...,0.475,0.341,0.293,0.573,3.0,Life__life,location_comment
+obl< ...,0.232,0.658,0.247,0.637,5.0,Life__life,location_comment

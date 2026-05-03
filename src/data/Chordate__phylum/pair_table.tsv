@@ -1,0 +1,1284 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Req-2240_3_shark-33	Req-2240_3_reef-42	Req-2240_3_shark-33_5166	3	Req-2240_3_reef-42_4532	3	0	lemon shark	reefs	100.0
+location	Gia-6202_26_ray-4	Gia-6202_26_reef-2	Gia-6202_26_ray-4_5211	26	Gia-6202_26_reef-2_4532	26	0	manta ray	reefs	100.0
+location	Sha-8b9d_328_sharks-27	Sha-8b9d_328_ocean-61	Sha-8b9d_328_sharks-27_5464	328	Sha-8b9d_328_ocean-61_1354	328	0	sharks	Deep ocean	100.0
+location	Sha-8b9d_328_sharks-9	Sha-8b9d_328_ocean-61	Sha-8b9d_328_sharks-9_5464	328	Sha-8b9d_328_ocean-61_1354	328	0	sharks	Deep ocean	100.0
+location	Sha-8b9d_328_sharks-21	Sha-8b9d_328_ocean-61	Sha-8b9d_328_sharks-21_5464	328	Sha-8b9d_328_ocean-61_1354	328	0	sharks	Deep ocean	100.0
+location	Com-6f4d_101_shark-12	Com-6f4d_101_ocean-7	Com-6f4d_101_shark-12_5464	101	Com-6f4d_101_ocean-7_1354	101	0	sharks	Deep ocean	100.0
+location	Req-2240_3_shark-30	Req-2240_3_reef-42	Req-2240_3_shark-30_5166	3	Req-2240_3_reef-42_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-63	Req-2240_3_reef-42	Req-2240_3_shark-63_5166	3	Req-2240_3_reef-42_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-63	Req-2240_3_reef-46	Req-2240_3_shark-63_5166	3	Req-2240_3_reef-46_4532	3	0	lemon shark	reefs	100.0
+location	Sha-8b9d_328_sharks-2	Sha-8b9d_328_ocean-61	Sha-8b9d_328_sharks-2_5464	328	Sha-8b9d_328_ocean-61_1354	328	0	sharks	Deep ocean	100.0
+location	Sha-8b9d_328_sharks-40	Sha-8b9d_328_ocean-61	Sha-8b9d_328_sharks-40_5464	328	Sha-8b9d_328_ocean-61_1354	328	0	sharks	Deep ocean	100.0
+location	Sha-8b9d_328_sharks-5	Sha-8b9d_328_ocean-61	Sha-8b9d_328_sharks-5_5464	328	Sha-8b9d_328_ocean-61_1354	328	0	sharks	Deep ocean	100.0
+location	Wha-290e_33_shark-33	Wha-290e_33_ocean-62	Wha-290e_33_shark-33_5464	33	Wha-290e_33_ocean-62_1354	33	0	sharks	Deep ocean	100.0
+location	Req-2240_33_sharks-14	Req-2240_33_reef-13	Req-2240_33_sharks-14_5166	33	Req-2240_33_reef-13_4532	33	0	lemon shark	reefs	100.0
+location	Gia-6202_23_ray-11	Gia-6202_23_reef-9	Gia-6202_23_ray-11_5211	23	Gia-6202_23_reef-9_4532	23	0	manta ray	reefs	100.0
+location	Gia-6202_56_ray-5	Gia-6202_56_reef-15	Gia-6202_56_ray-5_5211	56	Gia-6202_56_reef-15_4532	56	0	manta ray	reefs	100.0
+location	Req-2240_3_shark-53	Req-2240_3_reef-42	Req-2240_3_shark-53_5166	3	Req-2240_3_reef-42_4532	3	0	lemon shark	reefs	100.0
+location	Gia-6202_30_ray-4	Gia-6202_30_reef-2	Gia-6202_30_ray-4_5211	30	Gia-6202_30_reef-2_4532	30	0	manta ray	reefs	100.0
+location	Req-2240_3_shark-33	Req-2240_3_reef-67	Req-2240_3_shark-33_5166	3	Req-2240_3_reef-67_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-56	Req-2240_3_reef-67	Req-2240_3_shark-56_5166	3	Req-2240_3_reef-67_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-43	Req-2240_3_reef-67	Req-2240_3_shark-43_5166	3	Req-2240_3_reef-67_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-68	Req-2240_3_reef-42	Req-2240_3_shark-68_5166	3	Req-2240_3_reef-42_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-56	Req-2240_3_reef-46	Req-2240_3_shark-56_5166	3	Req-2240_3_reef-46_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-47	Req-2240_3_reef-46	Req-2240_3_shark-47_5166	3	Req-2240_3_reef-46_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-50	Req-2240_3_reef-42	Req-2240_3_shark-50_5166	3	Req-2240_3_reef-42_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-68	Req-2240_3_reef-46	Req-2240_3_shark-68_5166	3	Req-2240_3_reef-46_4532	3	0	lemon shark	reefs	100.0
+location	Gia-6202_22_ray-17	Gia-6202_22_reef-15	Gia-6202_22_ray-17_5211	22	Gia-6202_22_reef-15_4532	22	0	manta ray	reefs	100.0
+location	Gia-6202_22_ray-4	Gia-6202_22_reef-15	Gia-6202_22_ray-4_5211	22	Gia-6202_22_reef-15_4532	22	0	manta ray	reefs	100.0
+location	Gia-6202_22_ray-13	Gia-6202_22_reef-15	Gia-6202_22_ray-13_5211	22	Gia-6202_22_reef-15_4532	22	0	manta ray	reefs	100.0
+location	Req-2240_3_shark-30	Req-2240_3_reef-67	Req-2240_3_shark-30_5166	3	Req-2240_3_reef-67_4532	3	0	lemon shark	reefs	100.0
+location	Gia-6202_4_ray-19	Gia-6202_4_reef-17	Gia-6202_4_ray-19_5211	4	Gia-6202_4_reef-17_4532	4	0	manta ray	reefs	100.0
+location	Gia-6202_23_ray-4	Gia-6202_23_reef-9	Gia-6202_23_ray-4_5211	23	Gia-6202_23_reef-9_4532	23	0	manta ray	reefs	100.0
+location	Req-2240_3_shark-30	Req-2240_3_reef-46	Req-2240_3_shark-30_5166	3	Req-2240_3_reef-46_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-53	Req-2240_3_reef-67	Req-2240_3_shark-53_5166	3	Req-2240_3_reef-67_4532	3	0	lemon shark	reefs	100.0
+location	Lem-ec0f_27_sharks-27	Lem-ec0f_27_ocean-35	Lem-ec0f_27_sharks-27_5464	27	Lem-ec0f_27_ocean-35_4530	27	0	sharks	open ocean	100.0
+location	Req-2240_3_shark-33	Req-2240_3_reef-46	Req-2240_3_shark-33_5166	3	Req-2240_3_reef-46_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-43	Req-2240_3_reef-46	Req-2240_3_shark-43_5166	3	Req-2240_3_reef-46_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-39	Req-2240_3_reef-67	Req-2240_3_shark-39_5166	3	Req-2240_3_reef-67_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-39	Req-2240_3_reef-46	Req-2240_3_shark-39_5166	3	Req-2240_3_reef-46_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-63	Req-2240_3_reef-67	Req-2240_3_shark-63_5166	3	Req-2240_3_reef-67_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-68	Req-2240_3_reef-67	Req-2240_3_shark-68_5166	3	Req-2240_3_reef-67_4532	3	0	lemon shark	reefs	100.0
+location	Man-d37a_166_sharks-14	Man-d37a_166_mangroves-21	Man-d37a_166_sharks-14_5166	166	Man-d37a_166_mangroves-21_4524	166	0	lemon shark	mangroves	100.0
+location	Req-2240_3_shark-43	Req-2240_3_reef-42	Req-2240_3_shark-43_5166	3	Req-2240_3_reef-42_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_33_sharks-3	Req-2240_33_reef-13	Req-2240_33_sharks-3_5166	33	Req-2240_33_reef-13_4532	33	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-27	Req-2240_3_reef-67	Req-2240_3_shark-27_5166	3	Req-2240_3_reef-67_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-39	Req-2240_3_reef-42	Req-2240_3_shark-39_5166	3	Req-2240_3_reef-42_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-47	Req-2240_3_reef-42	Req-2240_3_shark-47_5166	3	Req-2240_3_reef-42_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-27	Req-2240_3_reef-42	Req-2240_3_shark-27_5166	3	Req-2240_3_reef-42_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_sharks-8	Req-2240_3_reef-42	Req-2240_3_sharks-8_5166	3	Req-2240_3_reef-42_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_sharks-8	Req-2240_3_reef-46	Req-2240_3_sharks-8_5166	3	Req-2240_3_reef-46_4532	3	0	lemon shark	reefs	100.0
+location	Lem-ec0f_27_shark-4	Lem-ec0f_27_ocean-35	Lem-ec0f_27_shark-4_5464	27	Lem-ec0f_27_ocean-35_4530	27	0	sharks	open ocean	100.0
+location	Req-2240_3_shark-36	Req-2240_3_reef-46	Req-2240_3_shark-36_5166	3	Req-2240_3_reef-46_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-27	Req-2240_3_reef-46	Req-2240_3_shark-27_5166	3	Req-2240_3_reef-46_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-59	Req-2240_3_reef-46	Req-2240_3_shark-59_5166	3	Req-2240_3_reef-46_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_sharks-8	Req-2240_3_reef-67	Req-2240_3_sharks-8_5166	3	Req-2240_3_reef-67_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-50	Req-2240_3_reef-67	Req-2240_3_shark-50_5166	3	Req-2240_3_reef-67_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-50	Req-2240_3_reef-46	Req-2240_3_shark-50_5166	3	Req-2240_3_reef-46_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_33_sharks-17	Req-2240_33_reef-13	Req-2240_33_sharks-17_5166	33	Req-2240_33_reef-13_4532	33	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-36	Req-2240_3_reef-42	Req-2240_3_shark-36_5166	3	Req-2240_3_reef-42_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-59	Req-2240_3_reef-67	Req-2240_3_shark-59_5166	3	Req-2240_3_reef-67_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-56	Req-2240_3_reef-42	Req-2240_3_shark-56_5166	3	Req-2240_3_reef-42_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-36	Req-2240_3_reef-67	Req-2240_3_shark-36_5166	3	Req-2240_3_reef-67_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-47	Req-2240_3_reef-67	Req-2240_3_shark-47_5166	3	Req-2240_3_reef-67_4532	3	0	lemon shark	reefs	100.0
+location	Lem-ec0f_37_sharks-2	Lem-ec0f_37_mangroves-12	Lem-ec0f_37_sharks-2_2688	37	Lem-ec0f_37_mangroves-12_4524	37	0	Lemon shark	mangroves	100.0
+location	Req-2240_3_shark-53	Req-2240_3_reef-46	Req-2240_3_shark-53_5166	3	Req-2240_3_reef-46_4532	3	0	lemon shark	reefs	100.0
+location	Req-2240_3_shark-59	Req-2240_3_reef-42	Req-2240_3_shark-59_5166	3	Req-2240_3_reef-42_4532	3	0	lemon shark	reefs	100.0
+location	Gia-6202_22_manta-16	Gia-6202_22_reef-15	Gia-6202_22_manta-16_5214	22	Gia-6202_22_reef-15_4532	22	0	manta	reefs	83.0
+location	Gia-6202_56_manta-4	Gia-6202_56_reef-15	Gia-6202_56_manta-4_5214	56	Gia-6202_56_reef-15_4532	56	0	manta	reefs	83.0
+location	Man-b368_190_manta-14	Man-b368_190_reef-5	Man-b368_190_manta-14_5214	190	Man-b368_190_reef-5_4532	190	0	manta	reefs	83.0
+location	Gia-6202_4_manta-18	Gia-6202_4_reef-17	Gia-6202_4_manta-18_5214	4	Gia-6202_4_reef-17_4532	4	0	manta	reefs	83.0
+location	Gia-6202_22_manta-3	Gia-6202_22_reef-15	Gia-6202_22_manta-3_5214	22	Gia-6202_22_reef-15_4532	22	0	manta	reefs	83.0
+location	Man-b368_190_manta-6	Man-b368_190_reef-5	Man-b368_190_manta-6_5214	190	Man-b368_190_reef-5_4532	190	0	manta	reefs	83.0
+location	Gia-6202_23_manta-3	Gia-6202_23_reef-9	Gia-6202_23_manta-3_5214	23	Gia-6202_23_reef-9_4532	23	0	manta	reefs	83.0
+location	Gia-6202_22_manta-12	Gia-6202_22_reef-15	Gia-6202_22_manta-12_5214	22	Gia-6202_22_reef-15_4532	22	0	manta	reefs	83.0
+location	Gia-6202_26_manta-3	Gia-6202_26_reef-2	Gia-6202_26_manta-3_5214	26	Gia-6202_26_reef-2_4532	26	0	manta	reefs	83.0
+location	Gia-6202_4_Manta-11	Gia-6202_4_reef-17	Gia-6202_4_Manta-11_2804	4	Gia-6202_4_reef-17_4532	4	0	Manta	reefs	83.0
+location	Gia-6202_23_manta-10	Gia-6202_23_reef-9	Gia-6202_23_manta-10_5214	23	Gia-6202_23_reef-9_4532	23	0	manta	reefs	83.0
+location	Gia-6202_30_manta-3	Gia-6202_30_reef-2	Gia-6202_30_manta-3_5214	30	Gia-6202_30_reef-2_4532	30	0	manta	reefs	83.0
+location	Sph-92be_2_sharks-7	Sph-92be_3_ocean-19	Sph-92be_2_sharks-7_5464	2	Sph-92be_3_ocean-19_4530	3	1	sharks	open ocean	50.0
+location	Lem-ec0f_28_sharks-3	Lem-ec0f_27_ocean-35	Lem-ec0f_28_sharks-3_5464	28	Lem-ec0f_27_ocean-35_4530	27	1	sharks	open ocean	50.0
+location	Lem-ec0f_26_sharks-5	Lem-ec0f_27_ocean-35	Lem-ec0f_26_sharks-5_5166	26	Lem-ec0f_27_ocean-35_4530	27	1	lemon shark	open ocean	50.0
+location	Sha-8b9d_525_shark-12	Sha-8b9d_526_reef-21	Sha-8b9d_525_shark-12_5076	525	Sha-8b9d_526_reef-21_4532	526	1	hammerhead sharks	reefs	50.0
+location	Sha-8b9d_525_sharks-17	Sha-8b9d_526_reef-21	Sha-8b9d_525_sharks-17_5076	525	Sha-8b9d_526_reef-21_4532	526	1	hammerhead sharks	reefs	50.0
+location	Lem-ec0f_26_sharks-5	Lem-ec0f_27_mangroves-15	Lem-ec0f_26_sharks-5_5166	26	Lem-ec0f_27_mangroves-15_4524	27	1	lemon shark	mangroves	50.0
+location	Gre-c669_67_sharks-33	Gre-c669_68_ocean-4	Gre-c669_67_sharks-33_5464	67	Gre-c669_68_ocean-4_4530	68	1	sharks	open ocean	50.0
+location	Lem-ec0f_37_sharks-2	Lem-ec0f_38_estuaries-27	Lem-ec0f_37_sharks-2_2688	37	Lem-ec0f_38_estuaries-27_4517	38	1	Lemon shark	estuaries	50.0
+location	Lem-ec0f_39_sharks-6	Lem-ec0f_38_estuaries-27	Lem-ec0f_39_sharks-6_5166	39	Lem-ec0f_38_estuaries-27_4517	38	1	lemon shark	estuaries	50.0
+location	Sha-8b9d_525_sharks-37	Sha-8b9d_526_reef-21	Sha-8b9d_525_sharks-37_5076	525	Sha-8b9d_526_reef-21_4532	526	1	hammerhead sharks	reefs	50.0
+location	Lem-ec0f_39_sharks-39	Lem-ec0f_38_estuaries-27	Lem-ec0f_39_sharks-39_5166	39	Lem-ec0f_38_estuaries-27_4517	38	1	lemon shark	estuaries	50.0
+location	Gre-c669_67_fish-7	Gre-c669_68_ocean-4	Gre-c669_67_fish-7_5290	67	Gre-c669_68_ocean-4_4530	68	1	bony fish	open ocean	50.0
+location	Lem-ec0f_72_sharks-16	Lem-ec0f_73_mangrove-26	Lem-ec0f_72_sharks-16_5166	72	Lem-ec0f_73_mangrove-26_4524	73	1	lemon shark	mangroves	50.0
+location	Lem-ec0f_39_sharks-33	Lem-ec0f_38_estuaries-27	Lem-ec0f_39_sharks-33_5166	39	Lem-ec0f_38_estuaries-27_4517	38	1	lemon shark	estuaries	50.0
+location	Lem-ec0f_28_sharks-3	Lem-ec0f_27_mangroves-15	Lem-ec0f_28_sharks-3_5166	28	Lem-ec0f_27_mangroves-15_4524	27	1	lemon shark	mangroves	50.0
+location	Man-b368_189_ray-2	Man-b368_190_reef-5	Man-b368_189_ray-2_2799	189	Man-b368_190_reef-5_4532	190	1	Manta ray	reefs	50.0
+location	Gre-c669_67_fish-38	Gre-c669_68_ocean-4	Gre-c669_67_fish-38_5290	67	Gre-c669_68_ocean-4_4530	68	1	bony fish	open ocean	50.0
+location	Man-b368_189_Manta-1	Man-b368_190_reef-5	Man-b368_189_Manta-1_2804	189	Man-b368_190_reef-5_4532	190	1	Manta	reefs	41.5
+location	Lem-ec0f_39_sharks-33	Lem-ec0f_37_mangroves-12	Lem-ec0f_39_sharks-33_5166	39	Lem-ec0f_37_mangroves-12_4524	37	2	lemon shark	mangroves	33.333
+location	Eure30b_9_lamprey-14	Eure30b_7_rivers-4	Eure30b_9_lamprey-14_3998	9	Eure30b_7_rivers-4_4533	7	2	lampreys	rivers and streams	33.333
+location	Ich-89df_451_sharks-19	Ich-89df_453_ocean-13	Ich-89df_451_sharks-19_5464	451	Ich-89df_453_ocean-13_4530	453	2	sharks	open ocean	33.333
+location	Gre-c669_66_sharks-36	Gre-c669_68_ocean-4	Gre-c669_66_sharks-36_5464	66	Gre-c669_68_ocean-4_4530	68	2	sharks	open ocean	33.333
+location	Gre-c669_66_sharks-5	Gre-c669_68_ocean-4	Gre-c669_66_sharks-5_5464	66	Gre-c669_68_ocean-4_4530	68	2	sharks	open ocean	33.333
+location	Lem-ec0f_40_shark-28	Lem-ec0f_38_estuaries-27	Lem-ec0f_40_shark-28_5166	40	Lem-ec0f_38_estuaries-27_4517	38	2	lemon shark	estuaries	33.333
+location	Lem4670_17_sharks-8	Lem4670_15_estuaries-41	Lem4670_17_sharks-8_5166	17	Lem4670_15_estuaries-41_4517	15	2	lemon shark	estuaries	33.333
+location	Lem-ec0f_75_shark-6	Lem-ec0f_73_mangrove-26	Lem-ec0f_75_shark-6_5166	75	Lem-ec0f_73_mangrove-26_4524	73	2	lemon shark	mangroves	33.333
+location	Lem-ec0f_39_sharks-6	Lem-ec0f_37_mangroves-12	Lem-ec0f_39_sharks-6_5166	39	Lem-ec0f_37_mangroves-12_4524	37	2	lemon shark	mangroves	33.333
+location	Lem-ec0f_39_sharks-39	Lem-ec0f_37_mangroves-12	Lem-ec0f_39_sharks-39_5166	39	Lem-ec0f_37_mangroves-12_4524	37	2	lemon shark	mangroves	33.333
+location	Lem-ec0f_35_sharks-2	Lem-ec0f_37_mangroves-12	Lem-ec0f_35_sharks-2_2688	35	Lem-ec0f_37_mangroves-12_4524	37	2	Lemon shark	mangroves	33.333
+location	Lam-fc95_15_Lamprey-1	Lam-fc95_17_ocean-21	Lam-fc95_15_Lamprey-1_384	15	Lam-fc95_17_ocean-21_4530	17	2	Lampreys	open ocean	33.333
+location	Com-8a84_120_lamprey-9	Com-8a84_119_rivers-17	Com-8a84_120_lamprey-9_3998	120	Com-8a84_119_rivers-17_4533	119	1	lampreys	rivers and streams	33.0
+location	Lem-ec0f_30_shark-2	Lem-ec0f_27_ocean-35	Lem-ec0f_30_shark-2_2688	30	Lem-ec0f_27_ocean-35_4530	27	3	Lemon shark	open ocean	25.0
+location	Eure30b_4_lampreys-2	Eure30b_7_rivers-4	Eure30b_4_lampreys-2_3998	4	Eure30b_7_rivers-4_4533	7	3	lampreys	rivers and streams	25.0
+location	Lem-ec0f_30_shark-2	Lem-ec0f_27_mangroves-15	Lem-ec0f_30_shark-2_2688	30	Lem-ec0f_27_mangroves-15_4524	27	3	Lemon shark	mangroves	25.0
+location	Lem-ec0f_76_shark-2	Lem-ec0f_73_mangrove-26	Lem-ec0f_76_shark-2_2688	76	Lem-ec0f_73_mangrove-26_4524	73	3	Lemon shark	mangroves	25.0
+location	Lem-ec0f_35_sharks-2	Lem-ec0f_38_estuaries-27	Lem-ec0f_35_sharks-2_2688	35	Lem-ec0f_38_estuaries-27_4517	38	3	Lemon shark	estuaries	25.0
+location	Req-2240_50_brevirostris-79	Req-2240_53_reef-81	Req-2240_50_brevirostris-79_2689	50	Req-2240_53_reef-81_4532	53	3	Negaprion brevirostris	reefs	21.75
+location	Gre-c669_65_sharks-4	Gre-c669_68_ocean-4	Gre-c669_65_sharks-4_5059	65	Gre-c669_68_ocean-4_4530	68	3	white shark	open ocean	20.75
+location	Lam-fc95_21_lampreys-17	Lam-fc95_17_ocean-21	Lam-fc95_21_lampreys-17_3998	21	Lam-fc95_17_ocean-21_4530	17	4	lampreys	open ocean	20.0
+location	Lem-ec0f_23_shark-2	Lem-ec0f_27_ocean-35	Lem-ec0f_23_shark-2_2688	23	Lem-ec0f_27_ocean-35_4530	27	4	Lemon shark	open ocean	20.0
+location	Sti-ddcd_2_fish-13	Sti-ddcd_6_ocean-38	Sti-ddcd_2_fish-13_4001	2	Sti-ddcd_6_ocean-38_1354	6	4	cartilaginous fish	Deep ocean	20.0
+location	Lem-ec0f_22_sharks-28	Lem-ec0f_27_ocean-35	Lem-ec0f_22_sharks-28_5166	22	Lem-ec0f_27_ocean-35_4530	27	5	lemon shark	open ocean	16.667
+location	Lem-ec0f_22_sharks-10	Lem-ec0f_27_ocean-35	Lem-ec0f_22_sharks-10_5166	22	Lem-ec0f_27_ocean-35_4530	27	5	lemon shark	open ocean	16.667
+location	Lem-ec0f_22_sharks-4	Lem-ec0f_27_ocean-35	Lem-ec0f_22_sharks-4_5166	22	Lem-ec0f_27_ocean-35_4530	27	5	lemon shark	open ocean	16.667
+location	Lem-ec0f_22_sharks-13	Lem-ec0f_27_ocean-35	Lem-ec0f_22_sharks-13_5166	22	Lem-ec0f_27_ocean-35_4530	27	5	lemon shark	open ocean	16.667
+location	Eure30b_2_lamprey-8	Eure30b_7_rivers-4	Eure30b_2_lamprey-8_3998	2	Eure30b_7_rivers-4_4533	7	5	lampreys	rivers and streams	16.667
+location	Nerefb6_33_sharks-5	Nerefb6_38_seas-2	Nerefb6_33_sharks-5_5464	33	Nerefb6_38_seas-2_4528	38	5	sharks	shallow seas	16.667
+location	Spa-e46a_21_fish-7	Spa-e46a_26_ocean-27	Spa-e46a_21_fish-7_5290	21	Spa-e46a_26_ocean-27_4530	26	5	bony fish	open ocean	16.667
+location	Lem-ec0f_33_sharks-2	Lem-ec0f_38_estuaries-27	Lem-ec0f_33_sharks-2_2688	33	Lem-ec0f_38_estuaries-27_4517	38	5	Lemon shark	estuaries	16.667
+location	Man-b368_194_Manta-2	Man-b368_190_reef-5	Man-b368_194_Manta-2_2804	194	Man-b368_190_reef-5_4532	190	4	Manta	reefs	16.6
+location	Bio-20c0_83_fishes-19	Bio-20c0_79_ocean-10	Bio-20c0_83_fishes-19_421	83	Bio-20c0_79_ocean-10_4515	79	4	Lobe-finned fishes	deep ocean	15.0
+location	Req-2240_50_brevirostris-79	Req-2240_45_reef-3	Req-2240_50_brevirostris-79_2689	50	Req-2240_45_reef-3_4532	45	5	Negaprion brevirostris	reefs	14.5
+location	Lem-ec0f_33_sharks-2	Lem-ec0f_27_ocean-35	Lem-ec0f_33_sharks-2_2688	33	Lem-ec0f_27_ocean-35_4530	27	6	Lemon shark	open ocean	14.286
+location	Spa-e46a_32_lampreys-2	Spa-e46a_26_ocean-27	Spa-e46a_32_lampreys-2_3998	32	Spa-e46a_26_ocean-27_4530	26	6	lampreys	open ocean	14.286
+location	Man-b368_165_ray-2	Man-b368_159_ocean-8	Man-b368_165_ray-2_2799	165	Man-b368_159_ocean-8_4530	159	6	Manta ray	open ocean	14.286
+location	Lam-fc95_23_lampreys-3	Lam-fc95_17_ocean-21	Lam-fc95_23_lampreys-3_3998	23	Lam-fc95_17_ocean-21_4530	17	6	lampreys	open ocean	14.286
+location	Lam-fc95_11_lampreys-3	Lam-fc95_17_ocean-21	Lam-fc95_11_lampreys-3_3998	11	Lam-fc95_17_ocean-21_4530	17	6	lampreys	open ocean	14.286
+location	Gre-c669_73_shark-3	Gre-c669_68_ocean-4	Gre-c669_73_shark-3_5059	73	Gre-c669_68_ocean-4_4530	68	5	white shark	open ocean	13.833
+location	Gre-c669_63_sharks-3	Gre-c669_68_ocean-4	Gre-c669_63_sharks-3_5059	63	Gre-c669_68_ocean-4_4530	68	5	white shark	open ocean	13.833
+location	Man-b368_154_Manta-1	Man-b368_159_ocean-8	Man-b368_154_Manta-1_2804	154	Man-b368_159_ocean-8_4530	159	5	Manta	open ocean	13.833
+location	Lem-ec0f_20_fish-4	Lem-ec0f_27_ocean-35	Lem-ec0f_20_fish-4_4001	20	Lem-ec0f_27_ocean-35_4530	27	7	cartilaginous fish	open ocean	12.5
+location	Nerefb6_33_sharks-5	Nerefb6_40_seas-3	Nerefb6_33_sharks-5_5464	33	Nerefb6_40_seas-3_1367	40	7	sharks	Shallow seas	12.5
+location	Lem-ec0f_20_sharks-7	Lem-ec0f_27_ocean-35	Lem-ec0f_20_sharks-7_5166	20	Lem-ec0f_27_ocean-35_4530	27	7	lemon shark	open ocean	12.5
+location	Lam-fc95_10_lampreys-2	Lam-fc95_17_ocean-21	Lam-fc95_10_lampreys-2_3998	10	Lam-fc95_17_ocean-21_4530	17	7	lampreys	open ocean	12.5
+location	Lam-fc95_24_lampreys-21	Lam-fc95_17_ocean-21	Lam-fc95_24_lampreys-21_3998	24	Lam-fc95_17_ocean-21_4530	17	7	lampreys	open ocean	12.5
+location	Gre-c669_61_shark-3	Gre-c669_68_ocean-4	Gre-c669_61_shark-3_5057	61	Gre-c669_68_ocean-4_4530	68	7	great white shark	open ocean	12.5
+location	Man-b368_165_Manta-1	Man-b368_159_ocean-8	Man-b368_165_Manta-1_2804	165	Man-b368_159_ocean-8_4530	159	6	Manta	open ocean	11.857
+location	Raj-3022_43_sharks-17	Raj-3022_35_seas-17	Raj-3022_43_sharks-17_5464	43	Raj-3022_35_seas-17_1367	35	8	sharks	Shallow seas	11.111
+location	Lem-ec0f_30_shark-2	Lem-ec0f_38_estuaries-27	Lem-ec0f_30_shark-2_2688	30	Lem-ec0f_38_estuaries-27_4517	38	8	Lemon shark	estuaries	11.111
+location	Lam-fc95_9_lampreys-7	Lam-fc95_17_ocean-21	Lam-fc95_9_lampreys-7_3998	9	Lam-fc95_17_ocean-21_4530	17	8	lampreys	open ocean	11.111
+location	Lam-fc95_25_lampreys-6	Lam-fc95_17_ocean-21	Lam-fc95_25_lampreys-6_3998	25	Lam-fc95_17_ocean-21_4530	17	8	lampreys	open ocean	11.111
+location	Man-b368_167_rays-6	Man-b368_159_ocean-8	Man-b368_167_rays-6_5211	167	Man-b368_159_ocean-8_4530	159	8	manta ray	open ocean	11.111
+location	Lem-ec0f_35_sharks-2	Lem-ec0f_27_ocean-35	Lem-ec0f_35_sharks-2_2688	35	Lem-ec0f_27_ocean-35_4530	27	8	Lemon shark	open ocean	11.111
+location	Req-2240_50_brevirostris-79	Req-2240_43_reef-93	Req-2240_50_brevirostris-79_2689	50	Req-2240_43_reef-93_4532	43	7	Negaprion brevirostris	reefs	10.875
+location	Gia-6202_15_rays-16	Gia-6202_22_reef-15	Gia-6202_15_rays-16_5213	15	Gia-6202_22_reef-15_4532	22	7	devil ray	reefs	10.375
+location	Gia-6202_15_ray-3	Gia-6202_22_reef-15	Gia-6202_15_ray-3_5213	15	Gia-6202_22_reef-15_4532	22	7	devil ray	reefs	10.375
+location	Man-b368_166_Manta-1	Man-b368_159_ocean-8	Man-b368_166_Manta-1_2804	166	Man-b368_159_ocean-8_4530	159	7	Manta	open ocean	10.375
+location	Lam-fc95_26_Lamprey-1	Lam-fc95_17_ocean-21	Lam-fc95_26_Lamprey-1_384	26	Lam-fc95_17_ocean-21_4530	17	9	Lampreys	open ocean	10.0
+location	Ich-89df_479_sharks-10	Ich-89df_470_seas-10	Ich-89df_479_sharks-10_5464	479	Ich-89df_470_seas-10_1367	470	9	sharks	Shallow seas	10.0
+location	Raj-3022_44_Selachimorpha-16	Raj-3022_35_seas-17	Raj-3022_44_Selachimorpha-16_3303	44	Raj-3022_35_seas-17_4528	35	9	Selachimorpha	shallow seas	10.0
+location	Raj-3022_44_sharks-11	Raj-3022_35_seas-17	Raj-3022_44_sharks-11_5464	44	Raj-3022_35_seas-17_1367	35	9	sharks	Shallow seas	10.0
+location	Gia-6202_15_ray-3	Gia-6202_23_reef-9	Gia-6202_15_ray-3_5213	15	Gia-6202_23_reef-9_4532	23	8	devil ray	reefs	9.222
+location	Gia-6202_15_rays-16	Gia-6202_23_reef-9	Gia-6202_15_rays-16_5213	15	Gia-6202_23_reef-9_4532	23	8	devil ray	reefs	9.222
+location	Man-b368_167_manta-5	Man-b368_159_ocean-8	Man-b368_167_manta-5_5214	167	Man-b368_159_ocean-8_4530	159	8	manta	open ocean	9.222
+location	Lem-ec0f_37_sharks-2	Lem-ec0f_27_ocean-35	Lem-ec0f_37_sharks-2_2688	37	Lem-ec0f_27_ocean-35_4530	27	10	Lemon shark	open ocean	9.091
+location	Lem-ec0f_17_shark-3	Lem-ec0f_27_ocean-35	Lem-ec0f_17_shark-3_5166	17	Lem-ec0f_27_ocean-35_4530	27	10	lemon shark	open ocean	9.091
+location	Lem-ec0f_49_sharks-2	Lem-ec0f_38_estuaries-27	Lem-ec0f_49_sharks-2_2688	49	Lem-ec0f_38_estuaries-27_4517	38	11	Lemon shark	estuaries	8.333
+location	Man-b368_199_Manta-1	Man-b368_190_reef-5	Man-b368_199_Manta-1_2804	199	Man-b368_190_reef-5_4532	190	9	Manta	reefs	8.3
+location	Man-b368_150_mantas-14	Man-b368_159_ocean-8	Man-b368_150_mantas-14_5214	150	Man-b368_159_ocean-8_4530	159	9	manta	open ocean	8.3
+location	Lam-fc95_5_Lamprey-1	Lam-fc95_17_ocean-21	Lam-fc95_5_Lamprey-1_384	5	Lam-fc95_17_ocean-21_4530	17	12	Lampreys	open ocean	7.692
+location	Req-2240_50_brevirostris-79	Req-2240_39_reef-43	Req-2240_50_brevirostris-79_2689	50	Req-2240_39_reef-43_4532	39	11	Negaprion brevirostris	reefs	7.25
+location	Lat-c298_4_fishes-47	Lat-c298_17_reef-24	Lat-c298_4_fishes-47_4001	4	Lat-c298_17_reef-24_4532	17	13	cartilaginous fish	reefs	7.143
+location	Lat-c298_4_fish-14	Lat-c298_17_reef-24	Lat-c298_4_fish-14_4001	4	Lat-c298_17_reef-24_4532	17	13	cartilaginous fish	reefs	7.143
+location	Man-b368_147_mantas-19	Man-b368_159_ocean-8	Man-b368_147_mantas-19_5214	147	Man-b368_159_ocean-8_4530	159	12	manta	open ocean	6.385
+location	Man-b368_171_mantas-8	Man-b368_159_ocean-8	Man-b368_171_mantas-8_5214	171	Man-b368_159_ocean-8_4530	159	12	manta	open ocean	6.385
+location	Sha-8b9d_38_Chondrichthyes-14	Sha-8b9d_53_reef-27	Sha-8b9d_38_Chondrichthyes-14_387	38	Sha-8b9d_53_reef-27_4532	53	15	Chondrichthyes	reefs	6.25
+location	Sha-8b9d_38_Chondrichthyes-14	Sha-8b9d_53_reef-18	Sha-8b9d_38_Chondrichthyes-14_387	38	Sha-8b9d_53_reef-18_4532	53	15	Chondrichthyes	reefs	6.25
+location	Sha-8b9d_38_Chondrichthyes-14	Sha-8b9d_53_reef-21	Sha-8b9d_38_Chondrichthyes-14_387	38	Sha-8b9d_53_reef-21_4532	53	15	Chondrichthyes	reefs	6.25
+location	Sha-8b9d_38_Chondrichthyes-14	Sha-8b9d_53_reef-24	Sha-8b9d_38_Chondrichthyes-14_387	38	Sha-8b9d_53_reef-24_4532	53	15	Chondrichthyes	reefs	6.25
+location	Sha-8b9d_38_Chondrichthyes-14	Sha-8b9d_53_reef-30	Sha-8b9d_38_Chondrichthyes-14_387	38	Sha-8b9d_53_reef-30_4532	53	15	Chondrichthyes	reefs	6.25
+location	Man-b368_146_mantas-12	Man-b368_159_ocean-8	Man-b368_146_mantas-12_5214	146	Man-b368_159_ocean-8_4530	159	13	manta	open ocean	5.929
+location	Pin-2f45_282_sharks-2	Pin-2f45_266_ocean-17	Pin-2f45_282_sharks-2_5565	282	Pin-2f45_266_ocean-17_4530	266	16	tiger shark	open ocean	5.882
+location	Pin-2f45_282_shark-13	Pin-2f45_266_ocean-17	Pin-2f45_282_shark-13_5565	282	Pin-2f45_266_ocean-17_4530	266	16	tiger shark	open ocean	5.882
+location	Lam-fc95_1_Lamprey-1	Lam-fc95_17_ocean-21	Lam-fc95_1_Lamprey-1_384	1	Lam-fc95_17_ocean-21_4530	17	16	Lampreys	open ocean	5.882
+location	Pin-2f45_282_shark-18	Pin-2f45_266_ocean-17	Pin-2f45_282_shark-18_5565	282	Pin-2f45_266_ocean-17_4530	266	16	tiger shark	open ocean	5.882
+location	Pin-2f45_282_shark-21	Pin-2f45_266_ocean-17	Pin-2f45_282_shark-21_5565	282	Pin-2f45_266_ocean-17_4530	266	16	tiger shark	open ocean	5.882
+location	Raj-3022_52_ray-6	Raj-3022_35_seas-17	Raj-3022_52_ray-6_5211	52	Raj-3022_35_seas-17_1367	35	17	manta ray	Shallow seas	5.556
+location	Raj-3022_49_manta-23	Raj-3022_35_seas-17	Raj-3022_49_manta-23_5214	49	Raj-3022_35_seas-17_1367	35	14	manta	Shallow seas	5.533
+location	Man-b368_145_mantas-3	Man-b368_159_ocean-8	Man-b368_145_mantas-3_5214	145	Man-b368_159_ocean-8_4530	159	14	manta	open ocean	5.533
+location	Man-b368_177_rays-7	Man-b368_159_ocean-8	Man-b368_177_rays-7_5211	177	Man-b368_159_ocean-8_4530	159	18	manta ray	open ocean	5.263
+location	Gre-c669_87_sharks-21	Gre-c669_68_ocean-4	Gre-c669_87_sharks-21_5147	87	Gre-c669_68_ocean-4_4530	68	19	mackerel sharks	open ocean	5.0
+location	Man-b368_206_Manta-1	Man-b368_190_reef-5	Man-b368_206_Manta-1_2804	206	Man-b368_190_reef-5_4532	190	16	Manta	reefs	4.882
+location	Req-2240_50_brevirostris-79	Req-2240_33_reef-13	Req-2240_50_brevirostris-79_2689	50	Req-2240_33_reef-13_4532	33	17	Negaprion brevirostris	reefs	4.833
+location	Man-b368_142_Mantas-19	Man-b368_159_ocean-8	Man-b368_142_Mantas-19_2804	142	Man-b368_159_ocean-8_4530	159	17	Manta	open ocean	4.611
+location	Raj-3022_52_manta-5	Raj-3022_35_seas-17	Raj-3022_52_manta-5_5214	52	Raj-3022_35_seas-17_4528	35	17	manta	shallow seas	4.611
+location	Raj-3022_2_Rajiformes-1	Raj-3022_23_estuaries-10	Raj-3022_2_Rajiformes-1_3163	2	Raj-3022_23_estuaries-10_4517	23	21	Rajiformes	estuaries	4.545
+location	Spa-e46a_5_fishes-4	Spa-e46a_26_ocean-27	Spa-e46a_5_fishes-4_2963	5	Spa-e46a_26_ocean-27_4530	26	21	Bony fish	open ocean	4.545
+location	Man-b368_180_rays-5	Man-b368_159_ocean-8	Man-b368_180_rays-5_5211	180	Man-b368_159_ocean-8_4530	159	21	manta ray	open ocean	4.545
+location	Man-b368_141_manta-9	Man-b368_159_ocean-8	Man-b368_141_manta-9_5214	141	Man-b368_159_ocean-8_4530	159	18	manta	open ocean	4.368
+location	Man-b368_177_manta-6	Man-b368_159_ocean-8	Man-b368_177_manta-6_5214	177	Man-b368_159_ocean-8_4530	159	18	manta	open ocean	4.368
+location	Bil-e183_28_fishes-17	Bil-e183_50_ocean-19	Bil-e183_28_fishes-17_4001	28	Bil-e183_50_ocean-19_4530	50	22	cartilaginous fish	open ocean	4.348
+location	Sha-8b9d_30_fish-15	Sha-8b9d_53_reef-21	Sha-8b9d_30_fish-15_4001	30	Sha-8b9d_53_reef-21_4532	53	23	cartilaginous fish	reefs	4.167
+location	Sha-8b9d_30_fish-15	Sha-8b9d_53_reef-24	Sha-8b9d_30_fish-15_4001	30	Sha-8b9d_53_reef-24_4532	53	23	cartilaginous fish	reefs	4.167
+location	Sha-8b9d_30_fish-15	Sha-8b9d_53_reef-30	Sha-8b9d_30_fish-15_4001	30	Sha-8b9d_53_reef-30_4532	53	23	cartilaginous fish	reefs	4.167
+location	Sha-8b9d_30_fish-15	Sha-8b9d_53_reef-27	Sha-8b9d_30_fish-15_4001	30	Sha-8b9d_53_reef-27_4532	53	23	cartilaginous fish	reefs	4.167
+location	Gre-8842_177_sharks-4	Gre-8842_154_ocean-16	Gre-8842_177_sharks-4_5565	177	Gre-8842_154_ocean-16_4530	154	23	tiger shark	open ocean	4.167
+location	Sha-8b9d_30_fish-15	Sha-8b9d_53_reef-18	Sha-8b9d_30_fish-15_4001	30	Sha-8b9d_53_reef-18_4532	53	23	cartilaginous fish	reefs	4.167
+location	Gre-8842_178_shark-3	Gre-8842_154_ocean-16	Gre-8842_178_shark-3_5565	178	Gre-8842_154_ocean-16_4530	154	24	tiger shark	open ocean	4.0
+location	Man-b368_135_ray-2	Man-b368_159_ocean-8	Man-b368_135_ray-2_2799	135	Man-b368_159_ocean-8_4530	159	24	Manta ray	open ocean	4.0
+location	Lem-ec0f_62_stingray-22	Lem-ec0f_38_estuaries-27	Lem-ec0f_62_stingray-22_5521	62	Lem-ec0f_38_estuaries-27_4517	38	24	stingrays	estuaries	4.0
+location	Man-b368_165_ray-2	Man-b368_190_reef-5	Man-b368_165_ray-2_2799	165	Man-b368_190_reef-5_4532	190	25	Manta ray	reefs	3.846
+location	Lem-ec0f_2_Carcharhinidae-16	Lem-ec0f_27_ocean-35	Lem-ec0f_2_Carcharhinidae-16_771	2	Lem-ec0f_27_ocean-35_4530	27	25	Carcharhinidae	open ocean	3.846
+location	Gre-8842_179_shark-3	Gre-8842_154_ocean-16	Gre-8842_179_shark-3_5565	179	Gre-8842_154_ocean-16_4530	154	25	tiger shark	open ocean	3.846
+location	Gia-ae2f_197_stingray-23	Gia-ae2f_172_rivers-5	Gia-ae2f_197_stingray-23_5521	197	Gia-ae2f_172_rivers-5_4533	172	25	stingrays	rivers and streams	3.846
+location	Gre-c669_94_sharks-8	Gre-c669_68_ocean-4	Gre-c669_94_sharks-8_5147	94	Gre-c669_68_ocean-4_4530	68	26	mackerel sharks	open ocean	3.704
+location	Gre-c669_94_sharks-3	Gre-c669_68_ocean-4	Gre-c669_94_sharks-3_5147	94	Gre-c669_68_ocean-4_4530	68	26	mackerel sharks	open ocean	3.704
+location	Gre-c669_94_shark-15	Gre-c669_68_ocean-4	Gre-c669_94_shark-15_5147	94	Gre-c669_68_ocean-4_4530	68	26	mackerel sharks	open ocean	3.704
+location	Man-b368_133_rays-11	Man-b368_159_ocean-8	Man-b368_133_rays-11_5211	133	Man-b368_159_ocean-8_4530	159	26	manta ray	open ocean	3.704
+location	Gre-8842_177_cuvier-7	Gre-8842_154_ocean-16	Gre-8842_177_cuvier-7_3541	177	Gre-8842_154_ocean-16_4530	154	23	Galeocerdo cuvier	open ocean	3.625
+location	Man-b368_213_Manta-4	Man-b368_190_reef-5	Man-b368_213_Manta-4_2804	213	Man-b368_190_reef-5_4532	190	23	Manta	reefs	3.458
+location	Wha-290e_5_Chondrichthyes-29	Wha-290e_33_ocean-62	Wha-290e_5_Chondrichthyes-29_387	5	Wha-290e_33_ocean-62_4515	33	28	Chondrichthyes	deep ocean	3.448
+location	Gia-6202_81_Sphyrna-22	Gia-6202_56_reef-15	Gia-6202_81_Sphyrna-22_2495	81	Gia-6202_56_reef-15_4532	56	25	Sphyrna	reefs	3.346
+location	Tig-9404_37_Sphyrna-5	Tig-9404_62_reefs-10	Tig-9404_37_Sphyrna-5_2495	37	Tig-9404_62_reefs-10_4532	62	25	Sphyrna	reefs	3.346
+location	Man-b368_135_Manta-1	Man-b368_159_ocean-8	Man-b368_135_Manta-1_2804	135	Man-b368_159_ocean-8_4530	159	24	Manta	open ocean	3.32
+location	Man-b368_166_Manta-1	Man-b368_190_reef-5	Man-b368_166_Manta-1_2804	166	Man-b368_190_reef-5_4532	190	24	Manta	reefs	3.32
+location	Man-b368_189_ray-2	Man-b368_159_ocean-8	Man-b368_189_ray-2_2799	189	Man-b368_159_ocean-8_4530	159	30	Manta ray	open ocean	3.226
+location	Man-b368_165_Manta-1	Man-b368_190_reef-5	Man-b368_165_Manta-1_2804	165	Man-b368_190_reef-5_4532	190	25	Manta	reefs	3.192
+location	Raj-3022_2_fishes-15	Raj-3022_35_seas-17	Raj-3022_2_fishes-15_4001	2	Raj-3022_35_seas-17_4528	35	33	cartilaginous fish	shallow seas	2.941
+location	Raj-3022_2_Rajiformes-1	Raj-3022_35_seas-17	Raj-3022_2_Rajiformes-1_3163	2	Raj-3022_35_seas-17_1367	35	33	Rajiformes	Shallow seas	2.941
+location	Man-b368_193_rays-8	Man-b368_159_ocean-8	Man-b368_193_rays-8_5211	193	Man-b368_159_ocean-8_4530	159	34	manta ray	open ocean	2.857
+location	Raj-3022_2_Rajiformes-1	Raj-3022_36_water-7	Raj-3022_2_Rajiformes-1_3163	2	Raj-3022_36_water-7_4512	36	34	Rajiformes	brackish water	2.857
+location	Man-b368_194_rays-18	Man-b368_159_ocean-8	Man-b368_194_rays-18_5211	194	Man-b368_159_ocean-8_4530	159	35	manta ray	open ocean	2.778
+location	Gre-c669_103_shark-9	Gre-c669_68_ocean-4	Gre-c669_103_shark-9_5612	103	Gre-c669_68_ocean-4_4530	68	35	whale shark	open ocean	2.778
+location	Gre-c669_103_shark-17	Gre-c669_68_ocean-4	Gre-c669_103_shark-17_5612	103	Gre-c669_68_ocean-4_4530	68	35	whale shark	open ocean	2.778
+location	Gre-c669_103_ray-26	Gre-c669_68_ocean-4	Gre-c669_103_ray-26_5211	103	Gre-c669_68_ocean-4_4530	68	35	manta ray	open ocean	2.778
+location	Gre-c669_103_fish-4	Gre-c669_68_ocean-4	Gre-c669_103_fish-4_4001	103	Gre-c669_68_ocean-4_4530	68	35	cartilaginous fish	open ocean	2.778
+location	Man-b368_220_Manta-1	Man-b368_190_reef-5	Man-b368_220_Manta-1_2804	220	Man-b368_190_reef-5_4532	190	30	Manta	reefs	2.677
+location	Man-b368_189_Manta-1	Man-b368_159_ocean-8	Man-b368_189_Manta-1_2804	189	Man-b368_159_ocean-8_4530	159	30	Manta	open ocean	2.677
+location	Man-b368_196_rays-23	Man-b368_159_ocean-8	Man-b368_196_rays-23_5211	196	Man-b368_159_ocean-8_4530	159	37	manta ray	open ocean	2.632
+location	Man-b368_222_Manta-1	Man-b368_190_reef-5	Man-b368_222_Manta-1_2804	222	Man-b368_190_reef-5_4532	190	32	Manta	reefs	2.515
+location	Sar-0f18_4_fish-11	Sar-0f18_43_estuaries-15	Sar-0f18_4_fish-11_5290	4	Sar-0f18_43_estuaries-15_4517	43	39	bony fish	estuaries	2.5
+location	Gre-c669_103_birostris-29	Gre-c669_68_ocean-4	Gre-c669_103_birostris-29_2800	103	Gre-c669_68_ocean-4_4530	68	35	Manta birostris	open ocean	2.417
+location	Sar-0f18_2_fish-57	Sar-0f18_43_estuaries-15	Sar-0f18_2_fish-57_5290	2	Sar-0f18_43_estuaries-15_4517	43	41	bony fish	estuaries	2.381
+location	Man-b368_231_ray-2	Man-b368_190_reef-5	Man-b368_231_ray-2_2799	231	Man-b368_190_reef-5_4532	190	41	Manta ray	reefs	2.381
+location	Sar-0f18_2_fish-65	Sar-0f18_43_estuaries-15	Sar-0f18_2_fish-65_5290	2	Sar-0f18_43_estuaries-15_4517	43	41	bony fish	estuaries	2.381
+location	Man-b368_201_rays-6	Man-b368_159_ocean-8	Man-b368_201_rays-6_5211	201	Man-b368_159_ocean-8_4530	159	42	manta ray	open ocean	2.326
+location	Man-b368_194_Manta-2	Man-b368_159_ocean-8	Man-b368_194_Manta-2_2804	194	Man-b368_159_ocean-8_4530	159	35	Manta	open ocean	2.306
+location	Gre-c669_103_Manta-28	Gre-c669_68_ocean-4	Gre-c669_103_Manta-28_2804	103	Gre-c669_68_ocean-4_4530	68	35	Manta	open ocean	2.306
+location	Man-b368_233_ray-2	Man-b368_190_reef-5	Man-b368_233_ray-2_2799	233	Man-b368_190_reef-5_4532	190	43	Manta ray	reefs	2.273
+location	Ame-fe9c_131_sharks-7	Ame-fe9c_87_waters-24	Ame-fe9c_131_sharks-7_5166	131	Ame-fe9c_87_waters-24_4512	87	44	lemon shark	brackish water	2.222
+location	Ame-fe9c_131_sharks-10	Ame-fe9c_87_waters-24	Ame-fe9c_131_sharks-10_5166	131	Ame-fe9c_87_waters-24_4512	87	44	lemon shark	brackish water	2.222
+location	Gob-6481_2_fish-9	Gob-6481_46_waters-14	Gob-6481_2_fish-9_5290	2	Gob-6481_46_waters-14_4512	46	44	bony fish	brackish water	2.222
+location	Gob-6481_2_fish-19	Gob-6481_46_waters-14	Gob-6481_2_fish-19_5290	2	Gob-6481_46_waters-14_4512	46	44	bony fish	brackish water	2.222
+location	Gre-c669_22_sharks-12	Gre-c669_68_ocean-4	Gre-c669_22_sharks-12_5147	22	Gre-c669_68_ocean-4_4530	68	46	mackerel sharks	open ocean	2.128
+location	Raj-3022_2_fishes-15	Raj-3022_49_bed-15	Raj-3022_2_fishes-15_4001	2	Raj-3022_49_bed-15_4510	49	47	cartilaginous fish	sea bed	2.083
+location	Raj-3022_2_Rajiformes-1	Raj-3022_49_bed-15	Raj-3022_2_Rajiformes-1_3163	2	Raj-3022_49_bed-15_4510	49	47	Rajiformes	sea bed	2.083
+location	Gre-c669_25_pointer-14	Gre-c669_68_ocean-4	Gre-c669_25_pointer-14_5058	25	Gre-c669_68_ocean-4_4530	68	43	white pointer	open ocean	1.886
+location	Gre-c669_123_shark-4	Gre-c669_68_ocean-4	Gre-c669_123_shark-4_1652	123	Gre-c669_68_ocean-4_4530	68	55	Basking shark	open ocean	1.786
+location	Gre-c669_123_shark-11	Gre-c669_68_ocean-4	Gre-c669_123_shark-11_1652	123	Gre-c669_68_ocean-4_4530	68	55	Basking shark	open ocean	1.786
+location	Gre-8842_177_cuvier-7	Gre-8842_227_ocean-10	Gre-8842_177_cuvier-7_3541	177	Gre-8842_227_ocean-10_4530	227	50	Galeocerdo cuvier	open ocean	1.706
+location	Gia-6202_81_Sphyrna-22	Gia-6202_30_reef-2	Gia-6202_81_Sphyrna-22_2495	81	Gia-6202_30_reef-2_4532	30	51	Sphyrna	reefs	1.673
+location	Gre-c669_6_fishes-38	Gre-c669_68_ocean-4	Gre-c669_6_fishes-38_4001	6	Gre-c669_68_ocean-4_4530	68	62	cartilaginous fish	open ocean	1.587
+location	Ech-1003_278_fish-23	Ech-1003_215_ocean-23	Ech-1003_278_fish-23_5290	278	Ech-1003_215_ocean-23_4530	215	63	bony fish	open ocean	1.562
+location	Gia-6202_81_Sphyrna-22	Gia-6202_26_reef-2	Gia-6202_81_Sphyrna-22_2495	81	Gia-6202_26_reef-2_4532	26	55	Sphyrna	reefs	1.554
+location	Gre-c669_2_shark-31	Gre-c669_68_ocean-4	Gre-c669_2_shark-31_5147	2	Gre-c669_68_ocean-4_4530	68	66	mackerel sharks	open ocean	1.493
+location	Gre-c669_2_shark-4	Gre-c669_68_ocean-4	Gre-c669_2_shark-4_5147	2	Gre-c669_68_ocean-4_4530	68	66	mackerel sharks	open ocean	1.493
+location	Gre-c669_2_shark-15	Gre-c669_68_ocean-4	Gre-c669_2_shark-15_5147	2	Gre-c669_68_ocean-4_4530	68	66	mackerel sharks	open ocean	1.493
+location	Gia-6202_81_Sphyrna-22	Gia-6202_23_reef-9	Gia-6202_81_Sphyrna-22_2495	81	Gia-6202_23_reef-9_4532	23	58	Sphyrna	reefs	1.475
+location	Gia-6202_81_Sphyrna-22	Gia-6202_22_reef-15	Gia-6202_81_Sphyrna-22_2495	81	Gia-6202_22_reef-15_4532	22	59	Sphyrna	reefs	1.45
+location	Gre-c669_2_carcharias-7	Gre-c669_68_ocean-4	Gre-c669_2_carcharias-7_2454	2	Gre-c669_68_ocean-4_4530	68	66	Carcharodon carcharias	open ocean	1.299
+location	Ame-fe9c_165_sharks-37	Ame-fe9c_87_waters-24	Ame-fe9c_165_sharks-37_5166	165	Ame-fe9c_87_waters-24_4512	87	78	lemon shark	brackish water	1.266
+adaptation	Pin-2f45_282_shark-18	Pin-2f45_282_predator-6	Pin-2f45_282_shark-18_5565	282	Pin-2f45_282_predator-6_3977	282	0	tiger shark	predator	100.0
+adaptation	Tig-9404_125_sharks-11	Tig-9404_125_predators-23	Tig-9404_125_sharks-11_5565	125	Tig-9404_125_predators-23_359	125	0	tiger shark	Predator	100.0
+adaptation	Pin-2f45_282_shark-13	Pin-2f45_282_predator-6	Pin-2f45_282_shark-13_5565	282	Pin-2f45_282_predator-6_359	282	0	tiger shark	Predator	100.0
+adaptation	Gre-8842_178_shark-3	Gre-8842_178_predator-7	Gre-8842_178_shark-3_5565	178	Gre-8842_178_predator-7_359	178	0	tiger shark	Predator	100.0
+adaptation	Pin-2f45_282_sharks-2	Pin-2f45_282_predator-6	Pin-2f45_282_sharks-2_5565	282	Pin-2f45_282_predator-6_359	282	0	tiger shark	Predator	100.0
+adaptation	Pin-2f45_282_shark-21	Pin-2f45_282_predator-6	Pin-2f45_282_shark-21_5565	282	Pin-2f45_282_predator-6_3977	282	0	tiger shark	predator	100.0
+adaptation	Lam-fc95_246_lamprey-9	Lam-fc95_246_migration-10	Lam-fc95_246_lamprey-9_3998	246	Lam-fc95_246_migration-10_1	246	0	lampreys	Migration	100.0
+adaptation	Tig-9404_70_shark-3	Tig-9404_70_predator-7	Tig-9404_70_shark-3_5565	70	Tig-9404_70_predator-7_3977	70	0	tiger shark	predator	100.0
+adaptation	Tig-9404_80_sharks-22	Tig-9404_80_scavenger-2	Tig-9404_80_sharks-22_5565	80	Tig-9404_80_scavenger-2_3979	80	0	tiger shark	scavenger	100.0
+adaptation	Tig-9404_80_shark-6	Tig-9404_80_scavenger-2	Tig-9404_80_shark-6_5565	80	Tig-9404_80_scavenger-2_3979	80	0	tiger shark	scavenger	100.0
+adaptation	Sha-8b9d_273_shark-3	Sha-8b9d_273_ovoviviparous-8	Sha-8b9d_273_shark-3_5612	273	Sha-8b9d_273_ovoviviparous-8_3969	273	0	whale shark	ovoviviparous	100.0
+adaptation	Coe-f000_125_coelacanths-21	Coe-f000_125_predators-6	Coe-f000_125_coelacanths-21_5160	125	Coe-f000_125_predators-6_359	125	0	coelacanths	Predator	100.0
+adaptation	Coe-f000_125_coelacanths-21	Coe-f000_125_predators-29	Coe-f000_125_coelacanths-21_5160	125	Coe-f000_125_predators-29_359	125	0	coelacanths	Predator	100.0
+adaptation	Lam-fc95_23_lampreys-3	Lam-fc95_23_migration-19	Lam-fc95_23_lampreys-3_3998	23	Lam-fc95_23_migration-19_1	23	0	lampreys	Migration	100.0
+adaptation	Lem-ec0f_72_sharks-16	Lem-ec0f_72_predators-38	Lem-ec0f_72_sharks-16_5166	72	Lem-ec0f_72_predators-38_3977	72	0	lemon shark	predator	100.0
+adaptation	Ame-fe9c_131_sharks-7	Ame-fe9c_131_predators-4	Ame-fe9c_131_sharks-7_5166	131	Ame-fe9c_131_predators-4_3977	131	0	lemon shark	predator	100.0
+adaptation	Tig-9404_9_sharks-2	Tig-9404_9_predator-8	Tig-9404_9_sharks-2_3540	9	Tig-9404_9_predator-8_359	9	0	Tiger shark	Predator	100.0
+adaptation	Ame-fe9c_131_sharks-10	Ame-fe9c_131_predators-4	Ame-fe9c_131_sharks-10_5166	131	Ame-fe9c_131_predators-4_359	131	0	lemon shark	Predator	100.0
+adaptation	Est-ac86_140_lampreys-38	Est-ac86_140_migration-42	Est-ac86_140_lampreys-38_3998	140	Est-ac86_140_migration-42_3781	140	0	lampreys	migration	100.0
+adaptation	Lam-fc95_241_lamprey-10	Lam-fc95_241_migration-11	Lam-fc95_241_lamprey-10_3998	241	Lam-fc95_241_migration-11_3781	241	0	lampreys	migration	100.0
+adaptation	Bas-63b2_109_sharks-2	Bas-63b2_109_ovoviviparous-4	Bas-63b2_109_sharks-2_4664	109	Bas-63b2_109_ovoviviparous-4_3969	109	0	basking shark	ovoviviparous	100.0
+adaptation	Bas-63b2_87_sharks-2	Bas-63b2_87_social-26	Bas-63b2_87_sharks-2_4664	87	Bas-63b2_87_social-26_3788	87	0	basking shark	social	100.0
+adaptation	Sha-8b9d_290_sharks-13	Sha-8b9d_290_viviparous-19	Sha-8b9d_290_sharks-13_4178	290	Sha-8b9d_290_viviparous-19_3795	290	0	requiem sharks	viviparous	100.0
+adaptation	Sha-8b9d_290_sharks-5	Sha-8b9d_290_viviparous-19	Sha-8b9d_290_sharks-5_4178	290	Sha-8b9d_290_viviparous-19_3795	290	0	requiem sharks	viviparous	100.0
+adaptation	Sna-dfa9_276_sharks-44	Sna-dfa9_276_viviparous-17	Sna-dfa9_276_sharks-44_4178	276	Sna-dfa9_276_viviparous-17_3795	276	0	requiem sharks	viviparous	100.0
+adaptation	Pho-dee1_46_sharks-17	Pho-dee1_46_predators-10	Pho-dee1_46_sharks-17_5059	46	Pho-dee1_46_predators-10_359	46	0	white shark	Predator	83.0
+adaptation	Gre-c49e_41_sharks-45	Gre-c49e_41_predator-15	Gre-c49e_41_sharks-45_5059	41	Gre-c49e_41_predator-15_359	41	0	white shark	Predator	83.0
+adaptation	Gre-c49e_41_sharks-29	Gre-c49e_41_predators-7	Gre-c49e_41_sharks-29_5059	41	Gre-c49e_41_predators-7_359	41	0	white shark	Predator	83.0
+adaptation	Gre-c49e_41_sharks-48	Gre-c49e_41_predators-7	Gre-c49e_41_sharks-48_5059	41	Gre-c49e_41_predators-7_359	41	0	white shark	Predator	83.0
+adaptation	Gre-c49e_41_sharks-48	Gre-c49e_41_predator-15	Gre-c49e_41_sharks-48_5059	41	Gre-c49e_41_predator-15_359	41	0	white shark	Predator	83.0
+adaptation	Gre-c49e_41_sharks-29	Gre-c49e_41_predator-15	Gre-c49e_41_sharks-29_5059	41	Gre-c49e_41_predator-15_359	41	0	white shark	Predator	83.0
+adaptation	Gre-c49e_41_sharks-57	Gre-c49e_41_predators-7	Gre-c49e_41_sharks-57_5059	41	Gre-c49e_41_predators-7_359	41	0	white shark	Predator	83.0
+adaptation	Har-49aa_62_sharks-8	Har-49aa_62_predators-2	Har-49aa_62_sharks-8_5059	62	Har-49aa_62_predators-2_359	62	0	white shark	Predator	83.0
+adaptation	Gre-c669_15_sharks-26	Gre-c669_15_migration-11	Gre-c669_15_sharks-26_5059	15	Gre-c669_15_migration-11_1	15	0	white shark	Migration	83.0
+adaptation	Gre-c49e_41_sharks-57	Gre-c49e_41_predator-15	Gre-c49e_41_sharks-57_5059	41	Gre-c49e_41_predator-15_3977	41	0	white shark	predator	83.0
+adaptation	Gre-c49e_41_sharks-45	Gre-c49e_41_predators-7	Gre-c49e_41_sharks-45_5059	41	Gre-c49e_41_predators-7_359	41	0	white shark	Predator	83.0
+adaptation	Gre-c669_75_sharks-9	Gre-c669_75_predators-13	Gre-c669_75_sharks-9_5059	75	Gre-c669_75_predators-13_359	75	0	white shark	Predator	83.0
+adaptation	Sea-fb32_324_sharks-6	Sea-fb32_324_predator-10	Sea-fb32_324_sharks-6_5059	324	Sea-fb32_324_predator-10_359	324	0	white shark	Predator	83.0
+adaptation	Gre-c669_267_sharks-3	Gre-c669_267_ovoviviparous-5	Gre-c669_267_sharks-3_5059	267	Gre-c669_267_ovoviviparous-5_3969	267	0	white shark	ovoviviparous	83.0
+adaptation	Atl-fb88_77_shark-32	Atl-fb88_77_predators-10	Atl-fb88_77_shark-32_5059	77	Atl-fb88_77_predators-10_359	77	0	white shark	Predator	83.0
+adaptation	Bro-6067_34_shark-12	Bro-6067_34_predators-7	Bro-6067_34_shark-12_5059	34	Bro-6067_34_predators-7_3977	34	0	white shark	predator	83.0
+adaptation	Gre-c669_187_shark-37	Gre-c669_187_social-26	Gre-c669_187_shark-37_5059	187	Gre-c669_187_social-26_3788	187	0	white shark	social	83.0
+adaptation	Gre-c669_187_shark-37	Gre-c669_187_social-7	Gre-c669_187_shark-37_5059	187	Gre-c669_187_social-7_3788	187	0	white shark	social	83.0
+adaptation	Gre-c669_75_shark-23	Gre-c669_75_predators-13	Gre-c669_75_shark-23_5059	75	Gre-c669_75_predators-13_3977	75	0	white shark	predator	83.0
+adaptation	Atl-fb88_77_sharks-22	Atl-fb88_77_predators-10	Atl-fb88_77_sharks-22_5059	77	Atl-fb88_77_predators-10_359	77	0	white shark	Predator	83.0
+adaptation	Gred83c_11_shark-12	Gred83c_11_predators-7	Gred83c_11_shark-12_5059	11	Gred83c_11_predators-7_3977	11	0	white shark	predator	83.0
+adaptation	Lem-ec0f_28_sharks-3	Lem-ec0f_29_migrations-9	Lem-ec0f_28_sharks-3_5166	28	Lem-ec0f_29_migrations-9_3781	29	1	lemon shark	migration	50.0
+adaptation	Lam-fc95_24_lampreys-21	Lam-fc95_23_migration-19	Lam-fc95_24_lampreys-21_3998	24	Lam-fc95_23_migration-19_3781	23	1	lampreys	migration	50.0
+adaptation	Lem-ec0f_17_shark-3	Lem-ec0f_16_camouflage-10	Lem-ec0f_17_shark-3_5166	17	Lem-ec0f_16_camouflage-10_3947	16	1	lemon shark	camouflage	50.0
+adaptation	Lem-ec0f_48_shark-37	Lem-ec0f_47_predators-21	Lem-ec0f_48_shark-37_5166	48	Lem-ec0f_47_predators-21_359	47	1	lemon shark	Predator	50.0
+adaptation	Ame-fe9c_131_sharks-7	Ame-fe9c_130_predators-12	Ame-fe9c_131_sharks-7_5166	131	Ame-fe9c_130_predators-12_359	130	1	lemon shark	Predator	50.0
+adaptation	Ame-fe9c_131_sharks-10	Ame-fe9c_130_predators-6	Ame-fe9c_131_sharks-10_5166	131	Ame-fe9c_130_predators-6_359	130	1	lemon shark	Predator	50.0
+adaptation	Ame-fe9c_131_sharks-7	Ame-fe9c_130_predators-6	Ame-fe9c_131_sharks-7_5166	131	Ame-fe9c_130_predators-6_359	130	1	lemon shark	Predator	50.0
+adaptation	Ame-fe9c_131_sharks-10	Ame-fe9c_130_predators-12	Ame-fe9c_131_sharks-10_5166	131	Ame-fe9c_130_predators-12_359	130	1	lemon shark	Predator	50.0
+adaptation	Lem-ec0f_48_shark-2	Lem-ec0f_47_predators-21	Lem-ec0f_48_shark-2_5166	48	Lem-ec0f_47_predators-21_3977	47	1	lemon shark	predator	50.0
+adaptation	Ani-ab87_8_lamprey-12	Ani-ab87_9_migration-6	Ani-ab87_8_lamprey-12_3998	8	Ani-ab87_9_migration-6_3781	9	1	lampreys	migration	50.0
+adaptation	Gre-c669_179_shark-3	Gre-c669_180_social-6	Gre-c669_179_shark-3_5057	179	Gre-c669_180_social-6_3788	180	1	great white shark	social	50.0
+adaptation	Lem-ec0f_81_shark-10	Lem-ec0f_80_viviparous-4	Lem-ec0f_81_shark-10_5166	81	Lem-ec0f_80_viviparous-4_3795	80	1	lemon shark	viviparous	50.0
+adaptation	Tig-9404_124_sharks-18	Tig-9404_125_predators-23	Tig-9404_124_sharks-18_4178	124	Tig-9404_125_predators-23_359	125	1	requiem sharks	Predator	50.0
+adaptation	Tig-9404_124_sharks-9	Tig-9404_125_predators-23	Tig-9404_124_sharks-9_4178	124	Tig-9404_125_predators-23_359	125	1	requiem sharks	Predator	50.0
+adaptation	Tig-9404_124_sharks-22	Tig-9404_125_predators-23	Tig-9404_124_sharks-22_4178	124	Tig-9404_125_predators-23_359	125	1	requiem sharks	Predator	50.0
+adaptation	Sha-8b9d_273_shark-3	Sha-8b9d_272_ovoviviparous-5	Sha-8b9d_273_shark-3_5612	273	Sha-8b9d_272_ovoviviparous-5_3969	272	1	whale shark	ovoviviparous	50.0
+adaptation	Sha-8b9d_273_shark-3	Sha-8b9d_274_ovoviviparous-2	Sha-8b9d_273_shark-3_5612	273	Sha-8b9d_274_ovoviviparous-2_3969	274	1	whale shark	ovoviviparous	50.0
+adaptation	Bas-63b2_72_shark-2	Bas-63b2_73_Migration-4	Bas-63b2_72_shark-2_1652	72	Bas-63b2_73_Migration-4_1	73	1	Basking shark	Migration	50.0
+adaptation	Coe-f000_151_Coelacanth-1	Coe-f000_150_predators-48	Coe-f000_151_Coelacanth-1_2672	151	Coe-f000_150_predators-48_359	150	1	Coelacanths	Predator	50.0
+adaptation	Sar-0f18_8_coelacanths-12	Sar-0f18_7_predators-7	Sar-0f18_8_coelacanths-12_5160	8	Sar-0f18_7_predators-7_359	7	1	coelacanths	Predator	50.0
+adaptation	Lem-ec0f_30_shark-2	Lem-ec0f_29_migrations-9	Lem-ec0f_30_shark-2_2688	30	Lem-ec0f_29_migrations-9_1	29	1	Lemon shark	Migration	50.0
+adaptation	Tig-9404_69_shark-2	Tig-9404_70_predator-7	Tig-9404_69_shark-2_3540	69	Tig-9404_70_predator-7_3977	70	1	Tiger shark	predator	50.0
+adaptation	Bas-63b2_85_shark-2	Bas-63b2_86_Social-4	Bas-63b2_85_shark-2_4664	85	Bas-63b2_86_Social-4_3788	86	1	basking shark	social	50.0
+adaptation	Bas-63b2_87_sharks-2	Bas-63b2_86_Social-4	Bas-63b2_87_sharks-2_4664	87	Bas-63b2_86_Social-4_3788	86	1	basking shark	social	50.0
+adaptation	Bas-63b2_90_shark-2	Bas-63b2_89_social-22	Bas-63b2_90_shark-2_4664	90	Bas-63b2_89_social-22_3788	89	1	basking shark	social	50.0
+adaptation	Coe-f000_126_coelacanths-17	Coe-f000_125_predators-29	Coe-f000_126_coelacanths-17_5160	126	Coe-f000_125_predators-29_359	125	1	coelacanths	Predator	50.0
+adaptation	Lem-ec0f_33_sharks-2	Lem-ec0f_32_predator-25	Lem-ec0f_33_sharks-2_2688	33	Lem-ec0f_32_predator-25_359	32	1	Lemon shark	Predator	50.0
+adaptation	Coe-f000_126_coelacanths-8	Coe-f000_125_predators-6	Coe-f000_126_coelacanths-8_5160	126	Coe-f000_125_predators-6_359	125	1	coelacanths	Predator	50.0
+adaptation	Coe-f000_126_coelacanths-8	Coe-f000_125_predators-29	Coe-f000_126_coelacanths-8_5160	126	Coe-f000_125_predators-29_359	125	1	coelacanths	Predator	50.0
+adaptation	Coe-f000_126_coelacanths-17	Coe-f000_125_predators-6	Coe-f000_126_coelacanths-17_5160	126	Coe-f000_125_predators-6_359	125	1	coelacanths	Predator	50.0
+adaptation	Lem-ec0f_55_sharks-2	Lem-ec0f_54_camouflage-16	Lem-ec0f_55_sharks-2_2688	55	Lem-ec0f_54_camouflage-16_3947	54	1	Lemon shark	camouflage	50.0
+adaptation	Lem-ec0f_15_shark-2	Lem-ec0f_16_camouflage-10	Lem-ec0f_15_shark-2_2688	15	Lem-ec0f_16_camouflage-10_3947	16	1	Lemon shark	camouflage	50.0
+adaptation	Lem-ec0f_53_sharks-2	Lem-ec0f_54_camouflage-16	Lem-ec0f_53_sharks-2_2688	53	Lem-ec0f_54_camouflage-16_3947	54	1	Lemon shark	camouflage	50.0
+adaptation	Gre-8842_177_cuvier-7	Gre-8842_178_predator-7	Gre-8842_177_cuvier-7_3541	177	Gre-8842_178_predator-7_3977	178	1	Galeocerdo cuvier	predator	43.5
+adaptation	Gre-c669_75_sharks-9	Gre-c669_76_migration-5	Gre-c669_75_sharks-9_5059	75	Gre-c669_76_migration-5_3781	76	1	white shark	migration	41.5
+adaptation	Gre-c669_166_shark-6	Gre-c669_167_migrations-17	Gre-c669_166_shark-6_5059	166	Gre-c669_167_migrations-17_3781	167	1	white shark	migration	41.5
+adaptation	Gre-c669_181_sharks-42	Gre-c669_180_social-6	Gre-c669_181_sharks-42_5059	181	Gre-c669_180_social-6_3788	180	1	white shark	social	41.5
+adaptation	Gre-c669_75_shark-23	Gre-c669_76_migration-5	Gre-c669_75_shark-23_5059	75	Gre-c669_76_migration-5_1	76	1	white shark	Migration	41.5
+adaptation	Raj-3022_49_manta-23	Raj-3022_50_ovoviviparous-7	Raj-3022_49_manta-23_5214	49	Raj-3022_50_ovoviviparous-7_3969	50	1	manta	ovoviviparous	41.5
+adaptation	Sha-8b9d_61_shark-26	Sha-8b9d_62_ovoviviparous-9	Sha-8b9d_61_shark-26_5059	61	Sha-8b9d_62_ovoviviparous-9_3969	62	1	white shark	ovoviviparous	41.5
+adaptation	Sha-8b9d_61_shark-5	Sha-8b9d_62_ovoviviparous-9	Sha-8b9d_61_shark-5_5059	61	Sha-8b9d_62_ovoviviparous-9_3969	62	1	white shark	ovoviviparous	41.5
+adaptation	Sha-8b9d_61_shark-8	Sha-8b9d_62_ovoviviparous-9	Sha-8b9d_61_shark-8_5059	61	Sha-8b9d_62_ovoviviparous-9_3969	62	1	white shark	ovoviviparous	41.5
+adaptation	Sha-8b9d_61_sharks-15	Sha-8b9d_62_ovoviviparous-9	Sha-8b9d_61_sharks-15_5059	61	Sha-8b9d_62_ovoviviparous-9_3969	62	1	white shark	ovoviviparous	41.5
+adaptation	Sha-8b9d_61_shark-11	Sha-8b9d_62_ovoviviparous-9	Sha-8b9d_61_shark-11_5059	61	Sha-8b9d_62_ovoviviparous-9_3969	62	1	white shark	ovoviviparous	41.5
+adaptation	Sha-8b9d_61_sharks-21	Sha-8b9d_62_ovoviviparous-9	Sha-8b9d_61_sharks-21_5059	61	Sha-8b9d_62_ovoviviparous-9_3969	62	1	white shark	ovoviviparous	41.5
+adaptation	Gre-c669_181_sharks-39	Gre-c669_180_social-6	Gre-c669_181_sharks-39_5059	181	Gre-c669_180_social-6_3788	180	1	white shark	social	41.5
+adaptation	Gre-c669_181_sharks-6	Gre-c669_180_social-6	Gre-c669_181_sharks-6_5059	181	Gre-c669_180_social-6_3788	180	1	white shark	social	41.5
+adaptation	Gre-c669_196_shark-13	Gre-c669_195_social-10	Gre-c669_196_shark-13_5059	196	Gre-c669_195_social-10_3788	195	1	white shark	social	41.5
+adaptation	Coe-f000_123_Coelacanths-1	Coe-f000_125_predators-29	Coe-f000_123_Coelacanths-1_2672	123	Coe-f000_125_predators-29_359	125	2	Coelacanths	Predator	33.333
+adaptation	Coe-f000_123_Coelacanths-1	Coe-f000_125_predators-6	Coe-f000_123_Coelacanths-1_2672	123	Coe-f000_125_predators-6_359	125	2	Coelacanths	Predator	33.333
+adaptation	Lem-ec0f_49_sharks-2	Lem-ec0f_47_predators-21	Lem-ec0f_49_sharks-2_2688	49	Lem-ec0f_47_predators-21_359	47	2	Lemon shark	Predator	33.333
+adaptation	Lem-ec0f_82_sharks-3	Lem-ec0f_80_viviparous-4	Lem-ec0f_82_sharks-3_5166	82	Lem-ec0f_80_viviparous-4_3795	80	2	lemon shark	viviparous	33.333
+adaptation	Lem-ec0f_30_shark-2	Lem-ec0f_32_predator-25	Lem-ec0f_30_shark-2_2688	30	Lem-ec0f_32_predator-25_359	32	2	Lemon shark	Predator	33.333
+adaptation	Sha-8b9d_60_sharks-8	Sha-8b9d_62_ovoviviparous-9	Sha-8b9d_60_sharks-8_5147	60	Sha-8b9d_62_ovoviviparous-9_3969	62	2	mackerel sharks	ovoviviparous	33.333
+adaptation	Bas-63b2_107_shark-2	Bas-63b2_109_ovoviviparous-4	Bas-63b2_107_shark-2_1652	107	Bas-63b2_109_ovoviviparous-4_3969	109	2	Basking shark	ovoviviparous	33.333
+adaptation	Raj-3022_52_ray-6	Raj-3022_50_ovoviviparous-7	Raj-3022_52_ray-6_5211	52	Raj-3022_50_ovoviviparous-7_3969	50	2	manta ray	ovoviviparous	33.333
+adaptation	Lem-ec0f_14_shark-3	Lem-ec0f_16_camouflage-10	Lem-ec0f_14_shark-3_5166	14	Lem-ec0f_16_camouflage-10_3947	16	2	lemon shark	camouflage	33.333
+adaptation	Tig-9404_69_shark-2	Tig-9404_71_predators-2	Tig-9404_69_shark-2_3540	69	Tig-9404_71_predators-2_359	71	2	Tiger shark	Predator	33.333
+adaptation	Gre-8842_177_cuvier-7	Gre-8842_175_Predators-5	Gre-8842_177_cuvier-7_3541	177	Gre-8842_175_Predators-5_359	175	2	Galeocerdo cuvier	Predator	29.0
+adaptation	Gre-c669_265_sharks-37	Gre-c669_267_ovoviviparous-5	Gre-c669_265_sharks-37_5059	265	Gre-c669_267_ovoviviparous-5_3969	267	2	white shark	ovoviviparous	27.667
+adaptation	Raj-3022_52_manta-5	Raj-3022_50_ovoviviparous-7	Raj-3022_52_manta-5_5214	52	Raj-3022_50_ovoviviparous-7_3969	50	2	manta	ovoviviparous	27.667
+adaptation	Gre-c669_265_sharks-15	Gre-c669_267_ovoviviparous-5	Gre-c669_265_sharks-15_5059	265	Gre-c669_267_ovoviviparous-5_3969	267	2	white shark	ovoviviparous	27.667
+adaptation	Tig-9404_128_shark-2	Tig-9404_125_predators-23	Tig-9404_128_shark-2_3540	128	Tig-9404_125_predators-23_359	125	3	Tiger shark	Predator	25.0
+adaptation	Lem-ec0f_26_sharks-5	Lem-ec0f_29_migrations-9	Lem-ec0f_26_sharks-5_5166	26	Lem-ec0f_29_migrations-9_1	29	3	lemon shark	Migration	25.0
+adaptation	Tig-9404_12_shark-2	Tig-9404_9_predator-8	Tig-9404_12_shark-2_3540	12	Tig-9404_9_predator-8_359	9	3	Tiger shark	Predator	25.0
+adaptation	Hem0083_7_lampreys-5	Hem0083_4_suckers-2	Hem0083_7_lampreys-5_3998	7	Hem0083_4_suckers-2_336	4	3	lampreys	Blood sucker	25.0
+adaptation	Sha-8b9d_59_Lamniformes-1	Sha-8b9d_62_ovoviviparous-9	Sha-8b9d_59_Lamniformes-1_2652	59	Sha-8b9d_62_ovoviviparous-9_3969	62	3	Lamniformes	ovoviviparous	25.0
+adaptation	Lam-fc95_26_Lamprey-1	Lam-fc95_23_migration-19	Lam-fc95_26_Lamprey-1_384	26	Lam-fc95_23_migration-19_3781	23	3	Lampreys	migration	25.0
+adaptation	Lem-ec0f_57_sharks-10	Lem-ec0f_54_camouflage-16	Lem-ec0f_57_sharks-10_5166	57	Lem-ec0f_54_camouflage-16_3947	54	3	lemon shark	camouflage	25.0
+adaptation	Req-2240_9_sharks-2	Req-2240_6_viviparous-4	Req-2240_9_sharks-2_772	9	Req-2240_6_viviparous-4_3795	6	3	Requiem sharks	viviparous	25.0
+adaptation	Lem-ec0f_35_sharks-2	Lem-ec0f_32_predator-25	Lem-ec0f_35_sharks-2_2688	35	Lem-ec0f_32_predator-25_3977	32	3	Lemon shark	predator	25.0
+adaptation	Lem-ec0f_77_sharks-2	Lem-ec0f_80_viviparous-4	Lem-ec0f_77_sharks-2_2688	77	Lem-ec0f_80_viviparous-4_3795	80	3	Lemon shark	viviparous	25.0
+adaptation	Gre-8842_177_cuvier-7	Gre-8842_180_predators-8	Gre-8842_177_cuvier-7_3541	177	Gre-8842_180_predators-8_359	180	3	Galeocerdo cuvier	Predator	21.75
+adaptation	Tig-9404_121_shark-2	Tig-9404_125_predators-23	Tig-9404_121_shark-2_3540	121	Tig-9404_125_predators-23_359	125	4	Tiger shark	Predator	20.0
+adaptation	Lem-ec0f_33_sharks-2	Lem-ec0f_29_migrations-9	Lem-ec0f_33_sharks-2_2688	33	Lem-ec0f_29_migrations-9_3781	29	4	Lemon shark	migration	20.0
+adaptation	Bas-63b2_69_shark-3	Bas-63b2_73_Migration-4	Bas-63b2_69_shark-3_4664	69	Bas-63b2_73_Migration-4_1	73	4	basking shark	Migration	20.0
+adaptation	Lem-ec0f_76_shark-2	Lem-ec0f_72_predators-38	Lem-ec0f_76_shark-2_2688	76	Lem-ec0f_72_predators-38_3977	72	4	Lemon shark	predator	20.0
+adaptation	Req-2240_2_sharks-2	Req-2240_6_viviparous-4	Req-2240_2_sharks-2_772	2	Req-2240_6_viviparous-4_3795	6	4	Requiem sharks	viviparous	20.0
+adaptation	Req-2240_2_sharks-4	Req-2240_6_viviparous-4	Req-2240_2_sharks-4_772	2	Req-2240_6_viviparous-4_3795	6	4	Requiem sharks	viviparous	20.0
+adaptation	Lem-ec0f_76_shark-2	Lem-ec0f_80_viviparous-4	Lem-ec0f_76_shark-2_2688	76	Lem-ec0f_80_viviparous-4_3795	80	4	Lemon shark	viviparous	20.0
+adaptation	Gre-8842_177_cuvier-7	Gre-8842_181_scavengers-10	Gre-8842_177_cuvier-7_3541	177	Gre-8842_181_scavengers-10_3979	181	4	Galeocerdo cuvier	scavenger	17.4
+adaptation	Lem-ec0f_11_shark-2	Lem-ec0f_16_camouflage-10	Lem-ec0f_11_shark-2_2688	11	Lem-ec0f_16_camouflage-10_3947	16	5	Lemon shark	camouflage	16.667
+adaptation	Lem-ec0f_49_sharks-2	Lem-ec0f_54_camouflage-16	Lem-ec0f_49_sharks-2_2688	49	Lem-ec0f_54_camouflage-16_3947	54	5	Lemon shark	camouflage	16.667
+adaptation	Lem-ec0f_37_sharks-2	Lem-ec0f_32_predator-25	Lem-ec0f_37_sharks-2_2688	37	Lem-ec0f_32_predator-25_3977	32	5	Lemon shark	predator	16.667
+adaptation	Req-2240_1_shark-2	Req-2240_6_viviparous-4	Req-2240_1_shark-2_772	1	Req-2240_6_viviparous-4_3795	6	5	Requiem sharks	viviparous	16.667
+adaptation	Lem4670_17_sharks-8	Lem4670_12_Camouflage-10	Lem4670_17_sharks-8_5166	17	Lem4670_12_Camouflage-10_319	12	5	lemon shark	Camouflage	16.667
+adaptation	Lem-ec0f_77_sharks-2	Lem-ec0f_72_predators-38	Lem-ec0f_77_sharks-2_2688	77	Lem-ec0f_72_predators-38_359	72	5	Lemon shark	Predator	16.667
+adaptation	Tig-9404_65_sharks-2	Tig-9404_70_predator-7	Tig-9404_65_sharks-2_3540	65	Tig-9404_70_predator-7_3977	70	5	Tiger shark	predator	16.667
+adaptation	Dev-10b5_28_ray-8	Dev-10b5_32_ovoviviparous-4	Dev-10b5_28_ray-8_5213	28	Dev-10b5_32_ovoviviparous-4_3969	32	4	devil ray	ovoviviparous	16.6
+adaptation	Coe-f000_131_Coelacanth-1	Coe-f000_125_predators-29	Coe-f000_131_Coelacanth-1_2672	131	Coe-f000_125_predators-29_359	125	6	Coelacanths	Predator	14.286
+adaptation	Coe-f000_131_Coelacanth-1	Coe-f000_125_predators-6	Coe-f000_131_Coelacanth-1_2672	131	Coe-f000_125_predators-6_359	125	6	Coelacanths	Predator	14.286
+adaptation	Coe-f000_119_Coelacanths-1	Coe-f000_125_predators-6	Coe-f000_119_Coelacanths-1_2672	119	Coe-f000_125_predators-6_359	125	6	Coelacanths	Predator	14.286
+adaptation	Coe-f000_119_Coelacanths-1	Coe-f000_125_predators-29	Coe-f000_119_Coelacanths-1_2672	119	Coe-f000_125_predators-29_359	125	6	Coelacanths	Predator	14.286
+adaptation	Spa-e46a_32_lampreys-2	Spa-e46a_26_spawning-7	Spa-e46a_32_lampreys-2_3998	32	Spa-e46a_26_spawning-7_366	26	6	lampreys	Spawning	14.286
+adaptation	Lem-ec0f_23_shark-2	Lem-ec0f_29_migrations-9	Lem-ec0f_23_shark-2_2688	23	Lem-ec0f_29_migrations-9_3781	29	6	Lemon shark	migration	14.286
+adaptation	Tig-9404_65_sharks-2	Tig-9404_71_predators-2	Tig-9404_65_sharks-2_3540	65	Tig-9404_71_predators-2_359	71	6	Tiger shark	Predator	14.286
+adaptation	Lem-ec0f_22_sharks-10	Lem-ec0f_16_camouflage-10	Lem-ec0f_22_sharks-10_2688	22	Lem-ec0f_16_camouflage-10_3947	16	6	Lemon shark	camouflage	14.286
+adaptation	Lem-ec0f_22_sharks-28	Lem-ec0f_16_camouflage-10	Lem-ec0f_22_sharks-28_2688	22	Lem-ec0f_16_camouflage-10_3947	16	6	Lemon shark	camouflage	14.286
+adaptation	Lem-ec0f_22_sharks-13	Lem-ec0f_16_camouflage-10	Lem-ec0f_22_sharks-13_2688	22	Lem-ec0f_16_camouflage-10_3947	16	6	Lemon shark	camouflage	14.286
+adaptation	Lem-ec0f_53_sharks-2	Lem-ec0f_47_predators-21	Lem-ec0f_53_sharks-2_2688	53	Lem-ec0f_47_predators-21_359	47	6	Lemon shark	Predator	14.286
+adaptation	Lem-ec0f_86_sharks-2	Lem-ec0f_80_viviparous-4	Lem-ec0f_86_sharks-2_2688	86	Lem-ec0f_80_viviparous-4_3795	80	6	Lemon shark	viviparous	14.286
+adaptation	Lem-ec0f_35_sharks-2	Lem-ec0f_29_migrations-9	Lem-ec0f_35_sharks-2_2688	35	Lem-ec0f_29_migrations-9_1	29	6	Lemon shark	Migration	14.286
+adaptation	Req-2240_12_shark-11	Req-2240_6_viviparous-4	Req-2240_12_shark-11_772	12	Req-2240_6_viviparous-4_3795	6	6	Requiem sharks	viviparous	14.286
+adaptation	Req-2240_12_sharks-2	Req-2240_6_viviparous-4	Req-2240_12_sharks-2_772	12	Req-2240_6_viviparous-4_3795	6	6	Requiem sharks	viviparous	14.286
+adaptation	Lem-ec0f_22_sharks-4	Lem-ec0f_16_camouflage-10	Lem-ec0f_22_sharks-4_2688	22	Lem-ec0f_16_camouflage-10_3947	16	6	Lemon shark	camouflage	14.286
+adaptation	Lem4670_5_shark-16	Lem4670_12_Camouflage-10	Lem4670_5_shark-16_5166	5	Lem4670_12_Camouflage-10_319	12	7	lemon shark	Camouflage	12.5
+adaptation	Bas-63b2_80_shark-24	Bas-63b2_73_Migration-4	Bas-63b2_80_shark-24_4664	80	Bas-63b2_73_Migration-4_1	73	7	basking shark	Migration	12.5
+taxongroup	Lam-fc95_98_Chondrichthyes-15	Lam-fc95_98_vertebrate-3	Lam-fc95_98_Chondrichthyes-15_387	98	Lam-fc95_98_vertebrate-3_3935	98	0	Chondrichthyes	vertebrates	100.0
+taxongroup	Ham-9078_75_shark-31	Ham-9078_75_shark-36	Ham-9078_75_shark-31_5565	75	Ham-9078_75_shark-36_5464	75	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_348_sharks-24	Gre-c669_348_sharks-24	Gre-c669_348_sharks-24_5565	348	Gre-c669_348_sharks-24_5464	348	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_147_shark-13	Gre-c669_147_sharks-9	Gre-c669_147_shark-13_5565	147	Gre-c669_147_sharks-9_5464	147	0	tiger shark	sharks	100.0
+taxongroup	Gre-8842_179_shark-3	Gre-8842_179_shark-3	Gre-8842_179_shark-3_5565	179	Gre-8842_179_shark-3_5464	179	0	tiger shark	sharks	100.0
+taxongroup	Gre-8842_178_shark-3	Gre-8842_178_shark-3	Gre-8842_178_shark-3_5565	178	Gre-8842_178_shark-3_5464	178	0	tiger shark	sharks	100.0
+taxongroup	Gre-8842_177_sharks-4	Gre-8842_177_sharks-4	Gre-8842_177_sharks-4_5565	177	Gre-8842_177_sharks-4_5464	177	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_75_shark-31	Ham-9078_75_sharks-23	Ham-9078_75_shark-31_5565	75	Ham-9078_75_sharks-23_5464	75	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-2	Ham-9078_102_sharks-9	Ham-9078_102_sharks-2_5565	102	Ham-9078_102_sharks-9_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_75_shark-36	Ham-9078_75_shark-36	Ham-9078_75_shark-36_5565	75	Ham-9078_75_shark-36_5464	75	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-2	Ham-9078_102_sharks-6	Ham-9078_102_sharks-2_5565	102	Ham-9078_102_sharks-6_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_75_sharks-23	Ham-9078_75_sharks-23	Ham-9078_75_sharks-23_5565	75	Ham-9078_75_sharks-23_5464	75	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_75_sharks-23	Ham-9078_75_shark-36	Ham-9078_75_sharks-23_5565	75	Ham-9078_75_shark-36_5464	75	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_75_shark-36	Ham-9078_75_sharks-23	Ham-9078_75_shark-36_5565	75	Ham-9078_75_sharks-23_5464	75	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_75_sharks-23	Ham-9078_75_shark-31	Ham-9078_75_sharks-23_5565	75	Ham-9078_75_shark-31_5464	75	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_148_sharks-3	Gre-c669_148_sharks-24	Gre-c669_148_sharks-3_5565	148	Gre-c669_148_sharks-24_5464	148	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-15	Tig-9404_36_sharks-31	Tig-9404_36_sharks-15_5565	36	Tig-9404_36_sharks-31_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_148_sharks-3	Gre-c669_148_sharks-3	Gre-c669_148_sharks-3_5565	148	Gre-c669_148_sharks-3_5464	148	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_247_sharks-17	Gre-c669_247_sharks-7	Gre-c669_247_sharks-17_5565	247	Gre-c669_247_sharks-7_5464	247	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_247_sharks-7	Gre-c669_247_sharks-17	Gre-c669_247_sharks-7_5565	247	Gre-c669_247_sharks-17_5464	247	0	tiger shark	sharks	100.0
+taxongroup	Gia-6202_81_shark-11	Gia-6202_81_shark-11	Gia-6202_81_shark-11_5565	81	Gia-6202_81_shark-11_5464	81	0	tiger shark	sharks	100.0
+taxongroup	Gia-6202_81_shark-11	Gia-6202_81_shark-20	Gia-6202_81_shark-11_5565	81	Gia-6202_81_shark-20_5464	81	0	tiger shark	sharks	100.0
+taxongroup	Gia-6202_81_shark-11	Gia-6202_81_sharks-3	Gia-6202_81_shark-11_5565	81	Gia-6202_81_sharks-3_5464	81	0	tiger shark	sharks	100.0
+taxongroup	Gia-6202_81_shark-20	Gia-6202_81_sharks-3	Gia-6202_81_shark-20_5565	81	Gia-6202_81_sharks-3_5464	81	0	tiger shark	sharks	100.0
+taxongroup	Gia-6202_81_shark-20	Gia-6202_81_shark-20	Gia-6202_81_shark-20_5565	81	Gia-6202_81_shark-20_5464	81	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_148_sharks-24	Gre-c669_148_sharks-3	Gre-c669_148_sharks-24_5565	148	Gre-c669_148_sharks-3_5464	148	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_348_sharks-16	Gre-c669_348_sharks-24	Gre-c669_348_sharks-16_5565	348	Gre-c669_348_sharks-24_5464	348	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_247_sharks-7	Gre-c669_247_sharks-7	Gre-c669_247_sharks-7_5565	247	Gre-c669_247_sharks-7_5464	247	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_147_shark-13	Gre-c669_147_shark-13	Gre-c669_147_shark-13_5565	147	Gre-c669_147_shark-13_5464	147	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_147_sharks-9	Gre-c669_147_sharks-9	Gre-c669_147_sharks-9_5565	147	Gre-c669_147_sharks-9_5464	147	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_348_sharks-24	Gre-c669_348_sharks-16	Gre-c669_348_sharks-24_5565	348	Gre-c669_348_sharks-16_5464	348	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_247_sharks-17	Gre-c669_247_sharks-17	Gre-c669_247_sharks-17_5565	247	Gre-c669_247_sharks-17_5464	247	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_148_sharks-24	Gre-c669_148_sharks-24	Gre-c669_148_sharks-24_5565	148	Gre-c669_148_sharks-24_5464	148	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_348_sharks-16	Gre-c669_348_sharks-16	Gre-c669_348_sharks-16_5565	348	Gre-c669_348_sharks-16_5464	348	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-23	Bot-9991_282_shark-23	Bot-9991_282_shark-23_5565	282	Bot-9991_282_shark-23_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_shark-30	Sha-8b9d_98_shark-21	Sha-8b9d_98_shark-30_5565	98	Sha-8b9d_98_shark-21_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-6	Sha-8b9d_13_shark-23	Sha-8b9d_13_shark-6_5565	13	Sha-8b9d_13_shark-23_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-6	Sha-8b9d_13_shark-19	Sha-8b9d_13_shark-6_5565	13	Sha-8b9d_13_shark-19_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-6	Sha-8b9d_13_shark-16	Sha-8b9d_13_shark-6_5565	13	Sha-8b9d_13_shark-16_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-19	Sha-8b9d_13_shark-23	Sha-8b9d_13_shark-19_5565	13	Sha-8b9d_13_shark-23_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-19	Sha-8b9d_13_shark-19	Sha-8b9d_13_shark-19_5565	13	Sha-8b9d_13_shark-19_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_489_sharks-13	Sha-8b9d_489_sharks-8	Sha-8b9d_489_sharks-13_5565	489	Sha-8b9d_489_sharks-8_5464	489	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_489_sharks-13	Sha-8b9d_489_sharks-54	Sha-8b9d_489_sharks-13_5565	489	Sha-8b9d_489_sharks-54_5464	489	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_489_sharks-13	Sha-8b9d_489_sharks-13	Sha-8b9d_489_sharks-13_5565	489	Sha-8b9d_489_sharks-13_5464	489	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-19	Sha-8b9d_13_shark-16	Sha-8b9d_13_shark-19_5565	13	Sha-8b9d_13_shark-16_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-6	Sha-8b9d_13_shark-13	Sha-8b9d_13_shark-6_5565	13	Sha-8b9d_13_shark-13_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-19	Sha-8b9d_13_shark-13	Sha-8b9d_13_shark-19_5565	13	Sha-8b9d_13_shark-13_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-16	Sha-8b9d_13_shark-13	Sha-8b9d_13_shark-16_5565	13	Sha-8b9d_13_shark-13_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_shark-21	Sha-8b9d_98_sharks-2	Sha-8b9d_98_shark-21_5565	98	Sha-8b9d_98_sharks-2_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_shark-21	Sha-8b9d_98_shark-30	Sha-8b9d_98_shark-21_5565	98	Sha-8b9d_98_shark-30_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_shark-21	Sha-8b9d_98_shark-24	Sha-8b9d_98_shark-21_5565	98	Sha-8b9d_98_shark-24_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_shark-21	Sha-8b9d_98_shark-21	Sha-8b9d_98_shark-21_5565	98	Sha-8b9d_98_shark-21_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-6	Ham-9078_102_sharks-2	Ham-9078_102_sharks-6_5565	102	Ham-9078_102_sharks-2_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-6	Ham-9078_102_sharks-6	Ham-9078_102_sharks-6_5565	102	Ham-9078_102_sharks-6_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-6	Ham-9078_102_sharks-9	Ham-9078_102_sharks-6_5565	102	Ham-9078_102_sharks-9_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Gia-6202_81_sharks-3	Gia-6202_81_sharks-3	Gia-6202_81_sharks-3_5565	81	Gia-6202_81_sharks-3_5464	81	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-3	Bot-9991_282_shark-23	Bot-9991_282_shark-3_5565	282	Bot-9991_282_shark-23_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-23	Bot-9991_282_shark-10	Bot-9991_282_shark-23_5565	282	Bot-9991_282_shark-10_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-23	Bot-9991_282_shark-14	Bot-9991_282_shark-23_5565	282	Bot-9991_282_shark-14_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-23	Bot-9991_282_shark-19	Bot-9991_282_shark-23_5565	282	Bot-9991_282_shark-19_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Gia-6202_81_sharks-3	Gia-6202_81_shark-11	Gia-6202_81_sharks-3_5565	81	Gia-6202_81_shark-11_5464	81	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_147_sharks-9	Gre-c669_147_shark-13	Gre-c669_147_sharks-9_5565	147	Gre-c669_147_shark-13_5464	147	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-15	Tig-9404_36_sharks-22	Tig-9404_36_sharks-15_5565	36	Tig-9404_36_sharks-22_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Cho-c953_4_Chondrichthyes-1	Cho-c953_4_vertebrates-4	Cho-c953_4_Chondrichthyes-1_387	4	Cho-c953_4_vertebrates-4_3935	4	0	Chondrichthyes	vertebrates	100.0
+taxongroup	Sha-8b9d_489_sharks-8	Sha-8b9d_489_sharks-8	Sha-8b9d_489_sharks-8_5565	489	Sha-8b9d_489_sharks-8_5464	489	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_77_sharks-15	Tig-9404_77_sharks-15	Tig-9404_77_sharks-15_5565	77	Tig-9404_77_sharks-15_5464	77	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_76_sharks-5	Tig-9404_76_sharks-5	Tig-9404_76_sharks-5_5565	76	Tig-9404_76_sharks-5_5464	76	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_76_sharks-5	Tig-9404_76_sharks-27	Tig-9404_76_sharks-5_5565	76	Tig-9404_76_sharks-27_5464	76	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_76_sharks-5	Tig-9404_76_sharks-10	Tig-9404_76_sharks-5_5565	76	Tig-9404_76_sharks-10_5464	76	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_shark-43	Tig-9404_36_sharks-31	Tig-9404_36_shark-43_5565	36	Tig-9404_36_sharks-31_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_shark-43	Tig-9404_36_sharks-7	Tig-9404_36_shark-43_5565	36	Tig-9404_36_sharks-7_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-7	Tig-9404_36_sharks-31	Tig-9404_36_sharks-7_5565	36	Tig-9404_36_sharks-31_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-7	Tig-9404_36_sharks-7	Tig-9404_36_sharks-7_5565	36	Tig-9404_36_sharks-7_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_102_sharks-17	Tig-9404_102_sharks-17	Tig-9404_102_sharks-17_5565	102	Tig-9404_102_sharks-17_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_17_sharks-33	Tig-9404_17_sharks-19	Tig-9404_17_sharks-33_5565	17	Tig-9404_17_sharks-19_5464	17	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-9	Sha-8b9d_13_shark-6	Sha-8b9d_13_shark-9_5565	13	Sha-8b9d_13_shark-6_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-9	Sha-8b9d_13_shark-9	Sha-8b9d_13_shark-9_5565	13	Sha-8b9d_13_shark-9_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_489_sharks-54	Sha-8b9d_489_sharks-8	Sha-8b9d_489_sharks-54_5565	489	Sha-8b9d_489_sharks-8_5464	489	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_517_shark-16	Sha-8b9d_517_shark-16	Sha-8b9d_517_shark-16_5565	517	Sha-8b9d_517_shark-16_5464	517	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-15	Tig-9404_36_sharks-15	Tig-9404_36_sharks-15_5565	36	Tig-9404_36_sharks-15_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_sharks-2	Sha-8b9d_98_shark-24	Sha-8b9d_98_sharks-2_5565	98	Sha-8b9d_98_shark-24_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-9	Sha-8b9d_13_shark-16	Sha-8b9d_13_shark-9_5565	13	Sha-8b9d_13_shark-16_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_489_sharks-8	Sha-8b9d_489_sharks-13	Sha-8b9d_489_sharks-8_5565	489	Sha-8b9d_489_sharks-13_5464	489	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_489_sharks-8	Sha-8b9d_489_sharks-54	Sha-8b9d_489_sharks-8_5565	489	Sha-8b9d_489_sharks-54_5464	489	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-9	Sha-8b9d_13_shark-19	Sha-8b9d_13_shark-9_5565	13	Sha-8b9d_13_shark-19_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_489_sharks-54	Sha-8b9d_489_sharks-13	Sha-8b9d_489_sharks-54_5565	489	Sha-8b9d_489_sharks-13_5464	489	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_489_sharks-54	Sha-8b9d_489_sharks-54	Sha-8b9d_489_sharks-54_5565	489	Sha-8b9d_489_sharks-54_5464	489	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_sharks-2	Sha-8b9d_98_shark-21	Sha-8b9d_98_sharks-2_5565	98	Sha-8b9d_98_shark-21_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-9	Sha-8b9d_13_shark-13	Sha-8b9d_13_shark-9_5565	13	Sha-8b9d_13_shark-13_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_124_sharks-18	Tig-9404_124_sharks-22	Tig-9404_124_sharks-18_5565	124	Tig-9404_124_sharks-22_5464	124	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_124_sharks-18	Tig-9404_124_sharks-18	Tig-9404_124_sharks-18_5565	124	Tig-9404_124_sharks-18_5464	124	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_76_sharks-27	Tig-9404_76_sharks-10	Tig-9404_76_sharks-27_5565	76	Tig-9404_76_sharks-10_5464	76	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_41_shark-20	Tig-9404_41_shark-20	Tig-9404_41_shark-20_5565	41	Tig-9404_41_shark-20_5464	41	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_80_shark-6	Tig-9404_80_shark-6	Tig-9404_80_shark-6_5565	80	Tig-9404_80_shark-6_5464	80	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_80_shark-6	Tig-9404_80_sharks-22	Tig-9404_80_shark-6_5565	80	Tig-9404_80_sharks-22_5464	80	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_80_sharks-22	Tig-9404_80_shark-6	Tig-9404_80_sharks-22_5565	80	Tig-9404_80_shark-6_5464	80	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_80_sharks-22	Tig-9404_80_sharks-22	Tig-9404_80_sharks-22_5565	80	Tig-9404_80_sharks-22_5464	80	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-15	Tig-9404_36_shark-64	Tig-9404_36_sharks-15_5565	36	Tig-9404_36_shark-64_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-15	Tig-9404_36_shark-43	Tig-9404_36_sharks-15_5565	36	Tig-9404_36_shark-43_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_shark-64	Tig-9404_36_sharks-7	Tig-9404_36_shark-64_5565	36	Tig-9404_36_sharks-7_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_shark-64	Tig-9404_36_sharks-31	Tig-9404_36_shark-64_5565	36	Tig-9404_36_sharks-31_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_106_sharks-18	Tig-9404_106_sharks-18	Tig-9404_106_sharks-18_5565	106	Tig-9404_106_sharks-18_5464	106	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_102_sharks-7	Tig-9404_102_sharks-17	Tig-9404_102_sharks-7_5565	102	Tig-9404_102_sharks-17_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_102_sharks-7	Tig-9404_102_sharks-7	Tig-9404_102_sharks-7_5565	102	Tig-9404_102_sharks-7_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-22	Tig-9404_36_sharks-22	Tig-9404_36_sharks-22_5565	36	Tig-9404_36_sharks-22_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tige173_8_sharks-25	Tige173_8_sharks-25	Tige173_8_sharks-25_5565	8	Tige173_8_sharks-25_5464	8	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_123_shark-26	Sha-8b9d_123_shark-3	Sha-8b9d_123_shark-26_5565	123	Sha-8b9d_123_shark-3_5464	123	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_123_shark-26	Sha-8b9d_123_shark-26	Sha-8b9d_123_shark-26_5565	123	Sha-8b9d_123_shark-26_5464	123	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-23	Sha-8b9d_13_shark-19	Sha-8b9d_13_shark-23_5565	13	Sha-8b9d_13_shark-19_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_83_sharks-18	Tig-9404_83_shark-14	Tig-9404_83_sharks-18_5565	83	Tig-9404_83_shark-14_5464	83	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_shark-43	Tig-9404_36_sharks-22	Tig-9404_36_shark-43_5565	36	Tig-9404_36_sharks-22_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_shark-43	Tig-9404_36_sharks-15	Tig-9404_36_shark-43_5565	36	Tig-9404_36_sharks-15_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_shark-43	Tig-9404_36_shark-64	Tig-9404_36_shark-43_5565	36	Tig-9404_36_shark-64_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_shark-43	Tig-9404_36_shark-43	Tig-9404_36_shark-43_5565	36	Tig-9404_36_shark-43_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_33_sharks-13	Tig-9404_33_sharks-13	Tig-9404_33_sharks-13_5565	33	Tig-9404_33_sharks-13_5464	33	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_32_sharks-8	Tig-9404_32_sharks-8	Tig-9404_32_sharks-8_5565	32	Tig-9404_32_sharks-8_5464	32	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_31_shark-28	Tig-9404_31_shark-28	Tig-9404_31_shark-28_5565	31	Tig-9404_31_shark-28_5464	31	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_2_shark-3	Tig-9404_2_shark-3	Tig-9404_2_shark-3_5565	2	Tig-9404_2_shark-3_5464	2	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_76_sharks-10	Tig-9404_76_sharks-5	Tig-9404_76_sharks-10_5565	76	Tig-9404_76_sharks-5_5464	76	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_76_sharks-27	Tig-9404_76_sharks-27	Tig-9404_76_sharks-27_5565	76	Tig-9404_76_sharks-27_5464	76	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_76_sharks-27	Tig-9404_76_sharks-5	Tig-9404_76_sharks-27_5565	76	Tig-9404_76_sharks-5_5464	76	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_83_shark-14	Tig-9404_83_sharks-18	Tig-9404_83_shark-14_5565	83	Tig-9404_83_sharks-18_5464	83	0	tiger shark	sharks	100.0
+taxongroup	Squ-0cc5_222_shark-40	Squ-0cc5_222_shark-35	Squ-0cc5_222_shark-40_5565	222	Squ-0cc5_222_shark-35_5464	222	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_83_shark-14	Tig-9404_83_shark-14	Tig-9404_83_shark-14_5565	83	Tig-9404_83_shark-14_5464	83	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-10	Bot-9991_282_shark-3	Bot-9991_282_shark-10_5565	282	Bot-9991_282_shark-3_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-10	Bot-9991_282_shark-23	Bot-9991_282_shark-10_5565	282	Bot-9991_282_shark-23_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-10	Bot-9991_282_shark-19	Bot-9991_282_shark-10_5565	282	Bot-9991_282_shark-19_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Syn-38d5_128_synapsids-9	Syn-38d5_128_animals-21	Syn-38d5_128_synapsids-9_4028	128	Syn-38d5_128_animals-21_3812	128	0	synapsids	animals	100.0
+taxongroup	Gre-c669_103_ray-26	Gre-c669_103_fish-4	Gre-c669_103_ray-26_5211	103	Gre-c669_103_fish-4_4001	103	0	manta ray	cartilaginous fish	100.0
+taxongroup	Syn-38d5_3_synapsids-2	Syn-38d5_3_animals-7	Syn-38d5_3_synapsids-2_4028	3	Syn-38d5_3_animals-7_44	3	0	synapsids	Animals	100.0
+taxongroup	Syn-38d5_124_synapsids-3	Syn-38d5_124_animals-12	Syn-38d5_124_synapsids-3_4028	124	Syn-38d5_124_animals-12_44	124	0	synapsids	Animals	100.0
+taxongroup	Syn-38d5_153_synapsids-8	Syn-38d5_153_animal-31	Syn-38d5_153_synapsids-8_4028	153	Syn-38d5_153_animal-31_44	153	0	synapsids	Animals	100.0
+taxongroup	Syn-38d5_9_synapsids-23	Syn-38d5_9_animals-8	Syn-38d5_9_synapsids-23_4028	9	Syn-38d5_9_animals-8_44	9	0	synapsids	Animals	100.0
+taxongroup	Syn-38d5_9_synapsids-56	Syn-38d5_9_animals-8	Syn-38d5_9_synapsids-56_4028	9	Syn-38d5_9_animals-8_44	9	0	synapsids	Animals	100.0
+taxongroup	Ovi-e32b_36_synapsids-18	Ovi-e32b_36_animals-4	Ovi-e32b_36_synapsids-18_4028	36	Ovi-e32b_36_animals-4_44	36	0	synapsids	Animals	100.0
+taxongroup	Mam-3742_50_synapsid-5	Mam-3742_50_animal-35	Mam-3742_50_synapsid-5_4028	50	Mam-3742_50_animal-35_44	50	0	synapsids	Animals	100.0
+taxongroup	Mam-3742_89_synapsids-2	Mam-3742_89_animals-8	Mam-3742_89_synapsids-2_4028	89	Mam-3742_89_animals-8_44	89	0	synapsids	Animals	100.0
+taxongroup	Syn-38d5_17_synapsids-18	Syn-38d5_17_animals-28	Syn-38d5_17_synapsids-18_4028	17	Syn-38d5_17_animals-28_44	17	0	synapsids	Animals	100.0
+taxongroup	Syn-38d5_6_synapsids-10	Syn-38d5_6_animals-2	Syn-38d5_6_synapsids-10_4028	6	Syn-38d5_6_animals-2_44	6	0	synapsids	Animals	100.0
+taxongroup	Ham-9078_75_shark-31	Ham-9078_75_shark-31	Ham-9078_75_shark-31_5565	75	Ham-9078_75_shark-31_5464	75	0	tiger shark	sharks	100.0
+taxongroup	Ver-1720_136_synapsids-53	Ver-1720_136_vertebrates-36	Ver-1720_136_synapsids-53_4028	136	Ver-1720_136_vertebrates-36_3935	136	0	synapsids	vertebrates	100.0
+taxongroup	Ver-1720_136_synapsids-53	Ver-1720_136_vertebrates-25	Ver-1720_136_synapsids-53_4028	136	Ver-1720_136_vertebrates-25_3935	136	0	synapsids	vertebrates	100.0
+taxongroup	Mam-3742_91_synapsids-6	Mam-3742_91_vertebrates-25	Mam-3742_91_synapsids-6_4028	91	Mam-3742_91_vertebrates-25_3935	91	0	synapsids	vertebrates	100.0
+taxongroup	Syn-38d5_64_synapsids-13	Syn-38d5_64_vertebrates-7	Syn-38d5_64_synapsids-13_4028	64	Syn-38d5_64_vertebrates-7_3935	64	0	synapsids	vertebrates	100.0
+taxongroup	Syn-38d5_128_therapsids-2	Syn-38d5_128_animals-21	Syn-38d5_128_therapsids-2_5548	128	Syn-38d5_128_animals-21_44	128	0	therapsids	Animals	100.0
+taxongroup	Sha-8b9d_517_shark-9	Sha-8b9d_517_shark-13	Sha-8b9d_517_shark-9_5147	517	Sha-8b9d_517_shark-13_5464	517	0	mackerel sharks	sharks	100.0
+taxongroup	Sha-8b9d_517_shark-9	Sha-8b9d_517_shark-16	Sha-8b9d_517_shark-9_5147	517	Sha-8b9d_517_shark-16_5464	517	0	mackerel sharks	sharks	100.0
+taxongroup	Sha-8b9d_517_shark-9	Sha-8b9d_517_shark-19	Sha-8b9d_517_shark-9_5147	517	Sha-8b9d_517_shark-19_5464	517	0	mackerel sharks	sharks	100.0
+taxongroup	Sha-8b9d_517_shark-19	Sha-8b9d_517_shark-19	Sha-8b9d_517_shark-19_5147	517	Sha-8b9d_517_shark-19_5464	517	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_94_shark-15	Gre-c669_94_sharks-8	Gre-c669_94_shark-15_5147	94	Gre-c669_94_sharks-8_5464	94	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_22_sharks-12	Gre-c669_22_sharks-12	Gre-c669_22_sharks-12_5147	22	Gre-c669_22_sharks-12_5464	22	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_2_shark-4	Gre-c669_2_shark-15	Gre-c669_2_shark-4_5147	2	Gre-c669_2_shark-15_5464	2	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_2_shark-4	Gre-c669_2_shark-31	Gre-c669_2_shark-4_5147	2	Gre-c669_2_shark-31_5464	2	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_2_shark-4	Gre-c669_2_shark-4	Gre-c669_2_shark-4_5147	2	Gre-c669_2_shark-4_5464	2	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_94_sharks-3	Gre-c669_94_sharks-3	Gre-c669_94_sharks-3_5147	94	Gre-c669_94_sharks-3_5464	94	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_2_shark-15	Gre-c669_2_shark-15	Gre-c669_2_shark-15_5147	2	Gre-c669_2_shark-15_5464	2	0	mackerel sharks	sharks	100.0
+taxongroup	Cet-8d90_2_sharks-9	Cet-8d90_2_sharks-9	Cet-8d90_2_sharks-9_5147	2	Cet-8d90_2_sharks-9_5464	2	0	mackerel sharks	sharks	100.0
+taxongroup	Sha-8b9d_517_shark-16	Sha-8b9d_517_shark-13	Sha-8b9d_517_shark-16_5147	517	Sha-8b9d_517_shark-13_5464	517	0	mackerel sharks	sharks	100.0
+taxongroup	Sha-8b9d_517_shark-19	Sha-8b9d_517_shark-9	Sha-8b9d_517_shark-19_5147	517	Sha-8b9d_517_shark-9_5464	517	0	mackerel sharks	sharks	100.0
+taxongroup	Sha-8b9d_517_shark-19	Sha-8b9d_517_shark-13	Sha-8b9d_517_shark-19_5147	517	Sha-8b9d_517_shark-13_5464	517	0	mackerel sharks	sharks	100.0
+taxongroup	Lam-a51d_33_sharks-25	Lam-a51d_33_sharks-25	Lam-a51d_33_sharks-25_5147	33	Lam-a51d_33_sharks-25_5464	33	0	mackerel sharks	sharks	100.0
+taxongroup	Lam-a51d_33_sharks-25	Lam-a51d_33_sharks-22	Lam-a51d_33_sharks-25_5147	33	Lam-a51d_33_sharks-22_5464	33	0	mackerel sharks	sharks	100.0
+taxongroup	Lam-a51d_33_sharks-22	Lam-a51d_33_sharks-22	Lam-a51d_33_sharks-22_5147	33	Lam-a51d_33_sharks-22_5464	33	0	mackerel sharks	sharks	100.0
+taxongroup	Lam-a51d_33_sharks-22	Lam-a51d_33_sharks-25	Lam-a51d_33_sharks-22_5147	33	Lam-a51d_33_sharks-25_5464	33	0	mackerel sharks	sharks	100.0
+taxongroup	Lam-a51d_2_sharks-23	Lam-a51d_2_sharks-23	Lam-a51d_2_sharks-23_5147	2	Lam-a51d_2_sharks-23_5464	2	0	mackerel sharks	sharks	100.0
+taxongroup	Cet-8d90_2_sharks-9	Cet-8d90_2_sharks-18	Cet-8d90_2_sharks-9_5147	2	Cet-8d90_2_sharks-18_5464	2	0	mackerel sharks	sharks	100.0
+taxongroup	Cet-8d90_2_sharks-18	Cet-8d90_2_sharks-9	Cet-8d90_2_sharks-18_5147	2	Cet-8d90_2_sharks-9_5464	2	0	mackerel sharks	sharks	100.0
+taxongroup	Cet-8d90_2_sharks-18	Cet-8d90_2_sharks-18	Cet-8d90_2_sharks-18_5147	2	Cet-8d90_2_sharks-18_5464	2	0	mackerel sharks	sharks	100.0
+taxongroup	Sha-8b9d_60_sharks-8	Sha-8b9d_60_sharks-8	Sha-8b9d_60_sharks-8_5147	60	Sha-8b9d_60_sharks-8_5464	60	0	mackerel sharks	sharks	100.0
+taxongroup	Sha-8b9d_517_shark-13	Sha-8b9d_517_shark-13	Sha-8b9d_517_shark-13_5147	517	Sha-8b9d_517_shark-13_5464	517	0	mackerel sharks	sharks	100.0
+taxongroup	Sha-8b9d_517_shark-13	Sha-8b9d_517_shark-16	Sha-8b9d_517_shark-13_5147	517	Sha-8b9d_517_shark-16_5464	517	0	mackerel sharks	sharks	100.0
+taxongroup	Sha-8b9d_517_shark-13	Sha-8b9d_517_shark-19	Sha-8b9d_517_shark-13_5147	517	Sha-8b9d_517_shark-19_5464	517	0	mackerel sharks	sharks	100.0
+taxongroup	Sha-8b9d_517_shark-13	Sha-8b9d_517_shark-9	Sha-8b9d_517_shark-13_5147	517	Sha-8b9d_517_shark-9_5464	517	0	mackerel sharks	sharks	100.0
+taxongroup	Sha-8b9d_517_shark-19	Sha-8b9d_517_shark-16	Sha-8b9d_517_shark-19_5147	517	Sha-8b9d_517_shark-16_5464	517	0	mackerel sharks	sharks	100.0
+taxongroup	Sha-8b9d_517_shark-16	Sha-8b9d_517_shark-19	Sha-8b9d_517_shark-16_5147	517	Sha-8b9d_517_shark-19_5464	517	0	mackerel sharks	sharks	100.0
+taxongroup	The-6798_47_therapsids-7	The-6798_47_animals-4	The-6798_47_therapsids-7_5548	47	The-6798_47_animals-4_44	47	0	therapsids	Animals	100.0
+taxongroup	Syn-38d5_86_therapsid-10	Syn-38d5_86_animal-28	Syn-38d5_86_therapsid-10_5548	86	Syn-38d5_86_animal-28_44	86	0	therapsids	Animals	100.0
+taxongroup	Rep-aa64_54_therapsids-9	Rep-aa64_54_Synapsida-1	Rep-aa64_54_therapsids-9_5548	54	Rep-aa64_54_Synapsida-1_427	54	0	therapsids	Synapsida	100.0
+taxongroup	Tig-9404_124_sharks-9	Tig-9404_124_sharks-9	Tig-9404_124_sharks-9_5565	124	Tig-9404_124_sharks-9_4178	124	0	tiger shark	requiem sharks	100.0
+taxongroup	Tig-9404_124_sharks-9	Tig-9404_124_sharks-22	Tig-9404_124_sharks-9_5565	124	Tig-9404_124_sharks-22_4178	124	0	tiger shark	requiem sharks	100.0
+taxongroup	Tig-9404_124_sharks-22	Tig-9404_124_sharks-9	Tig-9404_124_sharks-22_5565	124	Tig-9404_124_sharks-9_4178	124	0	tiger shark	requiem sharks	100.0
+taxongroup	Tig-9404_124_sharks-22	Tig-9404_124_sharks-22	Tig-9404_124_sharks-22_5565	124	Tig-9404_124_sharks-22_4178	124	0	tiger shark	requiem sharks	100.0
+taxongroup	Tig-9404_124_sharks-22	Tig-9404_124_sharks-18	Tig-9404_124_sharks-22_5565	124	Tig-9404_124_sharks-18_4178	124	0	tiger shark	requiem sharks	100.0
+taxongroup	Tig-9404_124_sharks-18	Tig-9404_124_sharks-9	Tig-9404_124_sharks-18_5565	124	Tig-9404_124_sharks-9_4178	124	0	tiger shark	requiem sharks	100.0
+taxongroup	Tig-9404_150_sharks-8	Tig-9404_150_sharks-8	Tig-9404_150_sharks-8_5565	150	Tig-9404_150_sharks-8_5464	150	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-10	Bot-9991_282_shark-14	Bot-9991_282_shark-10_5565	282	Bot-9991_282_shark-14_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-10	Bot-9991_282_shark-10	Bot-9991_282_shark-10_5565	282	Bot-9991_282_shark-10_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-23	Bot-9991_282_shark-3	Bot-9991_282_shark-23_5565	282	Bot-9991_282_shark-3_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-19	Bot-9991_282_shark-3	Bot-9991_282_shark-19_5565	282	Bot-9991_282_shark-3_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-3	Bot-9991_282_shark-10	Bot-9991_282_shark-3_5565	282	Bot-9991_282_shark-10_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-19	Bot-9991_282_shark-19	Bot-9991_282_shark-19_5565	282	Bot-9991_282_shark-19_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-3	Bot-9991_282_shark-19	Bot-9991_282_shark-3_5565	282	Bot-9991_282_shark-19_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bel-4321_51_sharks-41	Bel-4321_51_sharks-41	Bel-4321_51_sharks-41_5565	51	Bel-4321_51_sharks-41_5464	51	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-19	Bot-9991_282_shark-23	Bot-9991_282_shark-19_5565	282	Bot-9991_282_shark-23_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-3	Bot-9991_282_shark-3	Bot-9991_282_shark-3_5565	282	Bot-9991_282_shark-3_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-3	Bot-9991_282_shark-14	Bot-9991_282_shark-3_5565	282	Bot-9991_282_shark-14_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-19	Bot-9991_282_shark-14	Bot-9991_282_shark-19_5565	282	Bot-9991_282_shark-14_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-19	Bot-9991_282_shark-10	Bot-9991_282_shark-19_5565	282	Bot-9991_282_shark-10_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-14	Bot-9991_282_shark-3	Bot-9991_282_shark-14_5565	282	Bot-9991_282_shark-3_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-14	Bot-9991_282_shark-23	Bot-9991_282_shark-14_5565	282	Bot-9991_282_shark-23_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-14	Bot-9991_282_shark-19	Bot-9991_282_shark-14_5565	282	Bot-9991_282_shark-19_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-14	Bot-9991_282_shark-14	Bot-9991_282_shark-14_5565	282	Bot-9991_282_shark-14_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Bot-9991_282_shark-14	Bot-9991_282_shark-10	Bot-9991_282_shark-14_5565	282	Bot-9991_282_shark-10_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Gia-6202_81_shark-20	Gia-6202_81_shark-11	Gia-6202_81_shark-20_5565	81	Gia-6202_81_shark-11_5464	81	0	tiger shark	sharks	100.0
+taxongroup	Gia-6202_81_sharks-3	Gia-6202_81_shark-20	Gia-6202_81_sharks-3_5565	81	Gia-6202_81_shark-20_5464	81	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_124_sharks-9	Tig-9404_124_sharks-18	Tig-9404_124_sharks-9_5565	124	Tig-9404_124_sharks-18_4178	124	0	tiger shark	requiem sharks	100.0
+taxongroup	Syn-38d5_36_therapsids-10	Syn-38d5_36_Synapsida-18	Syn-38d5_36_therapsids-10_5548	36	Syn-38d5_36_Synapsida-18_427	36	0	therapsids	Synapsida	100.0
+taxongroup	Tig-9404_2_shark-3	Tig-9404_2_shark-13	Tig-9404_2_shark-3_5565	2	Tig-9404_2_shark-13_4756	2	0	tiger shark	ground sharks	100.0
+taxongroup	Syn-38d5_37_therapsid-18	Syn-38d5_37_Synapsida-1	Syn-38d5_37_therapsid-18_5548	37	Syn-38d5_37_Synapsida-1_427	37	0	therapsids	Synapsida	100.0
+taxongroup	Syn-38d5_12_therapsids-21	Syn-38d5_12_synapsids-7	Syn-38d5_12_therapsids-21_5548	12	Syn-38d5_12_synapsids-7_4028	12	0	therapsids	synapsids	100.0
+taxongroup	Syn-38d5_32_therapsids-10	Syn-38d5_32_synapsids-2	Syn-38d5_32_therapsids-10_5548	32	Syn-38d5_32_synapsids-2_4028	32	0	therapsids	synapsids	100.0
+taxongroup	Syn-38d5_128_therapsids-2	Syn-38d5_128_synapsids-9	Syn-38d5_128_therapsids-2_5548	128	Syn-38d5_128_synapsids-9_4028	128	0	therapsids	synapsids	100.0
+taxongroup	Syn-38d5_32_therapsids-10	Syn-38d5_32_synapsids-44	Syn-38d5_32_therapsids-10_5548	32	Syn-38d5_32_synapsids-44_4028	32	0	therapsids	synapsids	100.0
+taxongroup	Syn-38d5_37_therapsid-18	Syn-38d5_37_synapsid-14	Syn-38d5_37_therapsid-18_5548	37	Syn-38d5_37_synapsid-14_4028	37	0	therapsids	synapsids	100.0
+taxongroup	The-6798_2_therapsid-2	The-6798_2_synapsids-18	The-6798_2_therapsid-2_5548	2	The-6798_2_synapsids-18_4028	2	0	therapsids	synapsids	100.0
+taxongroup	Pel-c217_2_therapsids-25	Pel-c217_2_synapsids-21	Pel-c217_2_therapsids-25_5548	2	Pel-c217_2_synapsids-21_4028	2	0	therapsids	synapsids	100.0
+taxongroup	Pel-c217_35_therapsids-13	Pel-c217_35_synapsids-19	Pel-c217_35_therapsids-13_5548	35	Pel-c217_35_synapsids-19_4028	35	0	therapsids	synapsids	100.0
+taxongroup	Syn-38d5_32_therapsids-10	Syn-38d5_32_synapsids-16	Syn-38d5_32_therapsids-10_5548	32	Syn-38d5_32_synapsids-16_4028	32	0	therapsids	synapsids	100.0
+taxongroup	Syn-38d5_54_therapsids-17	Syn-38d5_54_synapsids-2	Syn-38d5_54_therapsids-17_5548	54	Syn-38d5_54_synapsids-2_4028	54	0	therapsids	synapsids	100.0
+taxongroup	Syn-38d5_36_therapsids-10	Syn-38d5_36_vertebrate-3	Syn-38d5_36_therapsids-10_5548	36	Syn-38d5_36_vertebrate-3_3935	36	0	therapsids	vertebrates	100.0
+taxongroup	Sha-8b9d_489_sharks-13	Sha-8b9d_489_animals-33	Sha-8b9d_489_sharks-13_5565	489	Sha-8b9d_489_animals-33_44	489	0	tiger shark	Animals	100.0
+taxongroup	Sha-8b9d_489_sharks-8	Sha-8b9d_489_animals-33	Sha-8b9d_489_sharks-8_5565	489	Sha-8b9d_489_animals-33_44	489	0	tiger shark	Animals	100.0
+taxongroup	Sha-8b9d_489_sharks-54	Sha-8b9d_489_animals-33	Sha-8b9d_489_sharks-54_5565	489	Sha-8b9d_489_animals-33_44	489	0	tiger shark	Animals	100.0
+taxongroup	Tig-9404_17_sharks-33	Tig-9404_17_Carcharhiniformes-10	Tig-9404_17_sharks-33_5565	17	Tig-9404_17_Carcharhiniformes-10_1840	17	0	tiger shark	Carcharhiniformes	100.0
+taxongroup	Tig-9404_17_shark-3	Tig-9404_17_Carcharhiniformes-10	Tig-9404_17_shark-3_5565	17	Tig-9404_17_Carcharhiniformes-10_1840	17	0	tiger shark	Carcharhiniformes	100.0
+taxongroup	Tig-9404_17_sharks-19	Tig-9404_17_Carcharhiniformes-10	Tig-9404_17_sharks-19_5565	17	Tig-9404_17_Carcharhiniformes-10_1840	17	0	tiger shark	Carcharhiniformes	100.0
+taxongroup	Tig-9404_2_shark-13	Tig-9404_2_shark-13	Tig-9404_2_shark-13_5565	2	Tig-9404_2_shark-13_4756	2	0	tiger shark	ground sharks	100.0
+taxongroup	Tig-9404_2_shark-13	Tig-9404_2_shark-3	Tig-9404_2_shark-13_5565	2	Tig-9404_2_shark-3_4756	2	0	tiger shark	ground sharks	100.0
+taxongroup	Tig-9404_37_shark-19	Tig-9404_37_shark-19	Tig-9404_37_shark-19_5565	37	Tig-9404_37_shark-19_5464	37	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_28_sharks-7	Tig-9404_28_sharks-7	Tig-9404_28_sharks-7_5565	28	Tig-9404_28_sharks-7_5464	28	0	tiger shark	sharks	100.0
+taxongroup	Req-2240_29_sharks-32	Req-2240_29_sharks-32	Req-2240_29_sharks-32_5565	29	Req-2240_29_sharks-32_5464	29	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_sharks-2	Pin-2f45_282_shark-18	Pin-2f45_282_sharks-2_5565	282	Pin-2f45_282_shark-18_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_sharks-2	Pin-2f45_282_shark-21	Pin-2f45_282_sharks-2_5565	282	Pin-2f45_282_shark-21_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_sharks-2	Pin-2f45_282_sharks-2	Pin-2f45_282_sharks-2_5565	282	Pin-2f45_282_sharks-2_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_shark-21	Pin-2f45_282_shark-13	Pin-2f45_282_shark-21_5565	282	Pin-2f45_282_shark-13_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_shark-13	Pin-2f45_282_sharks-2	Pin-2f45_282_shark-13_5565	282	Pin-2f45_282_sharks-2_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_shark-13	Pin-2f45_282_shark-21	Pin-2f45_282_shark-13_5565	282	Pin-2f45_282_shark-21_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_shark-13	Pin-2f45_282_shark-18	Pin-2f45_282_shark-13_5565	282	Pin-2f45_282_shark-18_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_shark-13	Pin-2f45_282_shark-13	Pin-2f45_282_shark-13_5565	282	Pin-2f45_282_shark-13_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_shark-21	Pin-2f45_282_shark-18	Pin-2f45_282_shark-21_5565	282	Pin-2f45_282_shark-18_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_shark-21	Pin-2f45_282_shark-21	Pin-2f45_282_shark-21_5565	282	Pin-2f45_282_shark-21_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_shark-21	Pin-2f45_282_sharks-2	Pin-2f45_282_shark-21_5565	282	Pin-2f45_282_sharks-2_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_shark-18	Pin-2f45_282_shark-13	Pin-2f45_282_shark-18_5565	282	Pin-2f45_282_shark-13_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Req-2240_29_sharks-32	Req-2240_29_shark-56	Req-2240_29_sharks-32_5565	29	Req-2240_29_shark-56_5464	29	0	tiger shark	sharks	100.0
+taxongroup	Req-2240_29_shark-56	Req-2240_29_sharks-32	Req-2240_29_shark-56_5565	29	Req-2240_29_sharks-32_5464	29	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_517_shark-9	Sha-8b9d_517_shark-9	Sha-8b9d_517_shark-9_5565	517	Sha-8b9d_517_shark-9_5464	517	0	tiger shark	sharks	100.0
+taxongroup	Req-2240_29_shark-56	Req-2240_29_shark-56	Req-2240_29_shark-56_5565	29	Req-2240_29_shark-56_5464	29	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_sharks-2	Pin-2f45_282_shark-13	Pin-2f45_282_sharks-2_5565	282	Pin-2f45_282_shark-13_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_shark-18	Pin-2f45_282_sharks-2	Pin-2f45_282_shark-18_5565	282	Pin-2f45_282_sharks-2_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_129_shark-3	Tig-9404_129_shark-3	Tig-9404_129_shark-3_5565	129	Tig-9404_129_shark-3_5464	129	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_42_shark-13	Tig-9404_42_shark-3	Tig-9404_42_shark-13_5565	42	Tig-9404_42_shark-3_5464	42	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_68_sharks-3	Tig-9404_68_sharks-3	Tig-9404_68_sharks-3_5565	68	Tig-9404_68_sharks-3_5464	68	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_60_shark-3	Tig-9404_60_shark-3	Tig-9404_60_shark-3_5565	60	Tig-9404_60_shark-3_5464	60	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_57_shark-7	Tig-9404_57_shark-7	Tig-9404_57_shark-7_5565	57	Tig-9404_57_shark-7_5464	57	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_42_shark-13	Tig-9404_42_shark-13	Tig-9404_42_shark-13_5565	42	Tig-9404_42_shark-13_5464	42	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_45_shark-6	Tig-9404_45_shark-6	Tig-9404_45_shark-6_5565	45	Tig-9404_45_shark-6_5464	45	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_43_shark-3	Tig-9404_43_shark-3	Tig-9404_43_shark-3_5565	43	Tig-9404_43_shark-3_5464	43	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_42_shark-3	Tig-9404_42_shark-3	Tig-9404_42_shark-3_5565	42	Tig-9404_42_shark-3_5464	42	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_42_shark-3	Tig-9404_42_shark-13	Tig-9404_42_shark-3_5565	42	Tig-9404_42_shark-13_5464	42	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_shark-30	Sha-8b9d_98_shark-24	Sha-8b9d_98_shark-30_5565	98	Sha-8b9d_98_shark-24_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_shark-18	Pin-2f45_282_shark-21	Pin-2f45_282_shark-18_5565	282	Pin-2f45_282_shark-21_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-2	Ham-9078_102_sharks-2	Ham-9078_102_sharks-2_5565	102	Ham-9078_102_sharks-2_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-23	Sha-8b9d_13_shark-13	Sha-8b9d_13_shark-23_5565	13	Sha-8b9d_13_shark-13_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_113_shark-3	Tig-9404_113_shark-3	Tig-9404_113_shark-3_5565	113	Tig-9404_113_shark-3_5464	113	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-23	Sha-8b9d_13_shark-16	Sha-8b9d_13_shark-23_5565	13	Sha-8b9d_13_shark-16_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-6	Ham-9078_102_sharks-13	Ham-9078_102_sharks-6_5565	102	Ham-9078_102_sharks-13_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-2	Ham-9078_102_sharks-13	Ham-9078_102_sharks-2_5565	102	Ham-9078_102_sharks-13_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-9	Ham-9078_102_sharks-13	Ham-9078_102_sharks-9_5565	102	Ham-9078_102_sharks-13_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-9	Ham-9078_102_sharks-2	Ham-9078_102_sharks-9_5565	102	Ham-9078_102_sharks-2_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-9	Ham-9078_102_sharks-6	Ham-9078_102_sharks-9_5565	102	Ham-9078_102_sharks-6_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-13	Ham-9078_102_sharks-9	Ham-9078_102_sharks-13_5565	102	Ham-9078_102_sharks-9_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-13	Ham-9078_102_sharks-6	Ham-9078_102_sharks-13_5565	102	Ham-9078_102_sharks-6_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-13	Ham-9078_102_sharks-2	Ham-9078_102_sharks-13_5565	102	Ham-9078_102_sharks-2_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-13	Ham-9078_102_sharks-13	Ham-9078_102_sharks-13_5565	102	Ham-9078_102_sharks-13_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_102_sharks-9	Ham-9078_102_sharks-9	Ham-9078_102_sharks-9_5565	102	Ham-9078_102_sharks-9_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Ham-9078_75_shark-36	Ham-9078_75_shark-31	Ham-9078_75_shark-36_5565	75	Ham-9078_75_shark-31_5464	75	0	tiger shark	sharks	100.0
+taxongroup	Lam-a51d_44_shark-21	Lam-a51d_44_shark-21	Lam-a51d_44_shark-21_5565	44	Lam-a51d_44_shark-21_5464	44	0	tiger shark	sharks	100.0
+taxongroup	Ovo99d1_6_shark-16	Ovo99d1_6_shark-16	Ovo99d1_6_shark-16_5565	6	Ovo99d1_6_shark-16_5464	6	0	tiger shark	sharks	100.0
+taxongroup	Pin-2f45_282_shark-18	Pin-2f45_282_shark-18	Pin-2f45_282_shark-18_5565	282	Pin-2f45_282_shark-18_5464	282	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_123_shark-3	Sha-8b9d_123_shark-26	Sha-8b9d_123_shark-3_5565	123	Sha-8b9d_123_shark-26_5464	123	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-19	Sha-8b9d_13_shark-6	Sha-8b9d_13_shark-19_5565	13	Sha-8b9d_13_shark-6_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-6	Sha-8b9d_13_shark-9	Sha-8b9d_13_shark-6_5565	13	Sha-8b9d_13_shark-9_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_517_shark-16	Sha-8b9d_517_shark-9	Sha-8b9d_517_shark-16_5565	517	Sha-8b9d_517_shark-9_5464	517	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-16	Sha-8b9d_13_shark-16	Sha-8b9d_13_shark-16_5565	13	Sha-8b9d_13_shark-16_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-13	Sha-8b9d_13_shark-9	Sha-8b9d_13_shark-13_5565	13	Sha-8b9d_13_shark-9_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_shark-30	Sha-8b9d_98_sharks-2	Sha-8b9d_98_shark-30_5565	98	Sha-8b9d_98_sharks-2_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_shark-30	Sha-8b9d_98_shark-30	Sha-8b9d_98_shark-30_5565	98	Sha-8b9d_98_shark-30_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Cro-0859_15_vertebrates-9	Cro-0859_15_animals-4	Cro-0859_15_vertebrates-9_3935	15	Cro-0859_15_animals-4_44	15	0	vertebrates	Animals	100.0
+taxongroup	Oct-f4f7_382_vertebrates-31	Oct-f4f7_382_animals-14	Oct-f4f7_382_vertebrates-31_3935	382	Oct-f4f7_382_animals-14_44	382	0	vertebrates	Animals	100.0
+taxongroup	Das-ed91_164_vertebrate-3	Das-ed91_164_animal-19	Das-ed91_164_vertebrate-3_3935	164	Das-ed91_164_animal-19_44	164	0	vertebrates	Animals	100.0
+taxongroup	Tur-06de_37_vertebrates-9	Tur-06de_37_animal-15	Tur-06de_37_vertebrates-9_3935	37	Tur-06de_37_animal-15_44	37	0	vertebrates	Animals	100.0
+taxongroup	Tuf-fcbc_6_vertebrates-22	Tuf-fcbc_6_animal-7	Tuf-fcbc_6_vertebrates-22_3935	6	Tuf-fcbc_6_animal-7_44	6	0	vertebrates	Animals	100.0
+taxongroup	Tyr-70f1_264_vertebrates-31	Tyr-70f1_264_animals-20	Tyr-70f1_264_vertebrates-31_3935	264	Tyr-70f1_264_animals-20_44	264	0	vertebrates	Animals	100.0
+taxongroup	Ver-1720_34_vertebrates-2	Ver-1720_34_animal-29	Ver-1720_34_vertebrates-2_3935	34	Ver-1720_34_animal-29_44	34	0	vertebrates	Animals	100.0
+taxongroup	Ver-1720_154_vertebrates-29	Ver-1720_154_animal-23	Ver-1720_154_vertebrates-29_3935	154	Ver-1720_154_animal-23_44	154	0	vertebrates	Animals	100.0
+taxongroup	Ven-071d_30_vertebrates-13	Ven-071d_30_animals-19	Ven-071d_30_vertebrates-13_3935	30	Ven-071d_30_animals-19_44	30	0	vertebrates	Animals	100.0
+taxongroup	Ven-071d_5_vertebrates-24	Ven-071d_5_animals-15	Ven-071d_5_vertebrates-24_3935	5	Ven-071d_5_animals-15_44	5	0	vertebrates	Animals	100.0
+taxongroup	Fri-ce34_71_vertebrate-24	Fri-ce34_71_animal-25	Fri-ce34_71_vertebrate-24_3935	71	Fri-ce34_71_animal-25_44	71	0	vertebrates	Animals	100.0
+taxongroup	Ver-1720_26_vertebrates-2	Ver-1720_26_animal-30	Ver-1720_26_vertebrates-2_3935	26	Ver-1720_26_animal-30_44	26	0	vertebrates	Animals	100.0
+taxongroup	Yac-9d0f_6_vertebrates-17	Yac-9d0f_6_animals-8	Yac-9d0f_6_vertebrates-17_3935	6	Yac-9d0f_6_animals-8_44	6	0	vertebrates	Animals	100.0
+taxongroup	Ver-1720_34_vertebrate-32	Ver-1720_34_animal-29	Ver-1720_34_vertebrate-32_3935	34	Ver-1720_34_animal-29_3812	34	0	vertebrates	animals	100.0
+taxongroup	Par-5c6e_6_vertebrates-45	Par-5c6e_6_animal-11	Par-5c6e_6_vertebrates-45_3935	6	Par-5c6e_6_animal-11_3812	6	0	vertebrates	animals	100.0
+taxongroup	Par-e8bc_212_vertebrates-25	Par-e8bc_212_animal-7	Par-e8bc_212_vertebrates-25_3935	212	Par-e8bc_212_animal-7_3812	212	0	vertebrates	animals	100.0
+taxongroup	Tyr-9f97_392_vertebrates-31	Tyr-9f97_392_animals-20	Tyr-9f97_392_vertebrates-31_3935	392	Tyr-9f97_392_animals-20_3812	392	0	vertebrates	animals	100.0
+taxongroup	Tig-9404_56_shark-14	Tig-9404_56_shark-14	Tig-9404_56_shark-14_5565	56	Tig-9404_56_shark-14_5464	56	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_41_shark-9	Tig-9404_41_shark-9	Tig-9404_41_shark-9_5565	41	Tig-9404_41_shark-9_5464	41	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_41_shark-9	Tig-9404_41_shark-4	Tig-9404_41_shark-9_5565	41	Tig-9404_41_shark-4_5464	41	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_41_shark-9	Tig-9404_41_shark-20	Tig-9404_41_shark-9_5565	41	Tig-9404_41_shark-20_5464	41	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_143_shark-6	Tig-9404_143_shark-6	Tig-9404_143_shark-6_5565	143	Tig-9404_143_shark-6_5464	143	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_sharks-2	Tig-9404_139_shark-35	Tig-9404_139_sharks-2_5565	139	Tig-9404_139_shark-35_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_143_shark-6	Tig-9404_143_shark-38	Tig-9404_143_shark-6_5565	143	Tig-9404_143_shark-38_5464	143	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_143_shark-38	Tig-9404_143_shark-6	Tig-9404_143_shark-38_5565	143	Tig-9404_143_shark-6_5464	143	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_143_shark-38	Tig-9404_143_shark-38	Tig-9404_143_shark-38_5565	143	Tig-9404_143_shark-38_5464	143	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_141_shark-3	Tig-9404_141_shark-3	Tig-9404_141_shark-3_5565	141	Tig-9404_141_shark-3_5464	141	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_sharks-2	Tig-9404_139_sharks-2	Tig-9404_139_sharks-2_5565	139	Tig-9404_139_sharks-2_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_sharks-2	Tig-9404_139_shark-9	Tig-9404_139_sharks-2_5565	139	Tig-9404_139_shark-9_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_70_shark-3	Tig-9404_70_shark-3	Tig-9404_70_shark-3_5565	70	Tig-9404_70_shark-3_5464	70	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_6_shark-3	Tig-9404_6_shark-3	Tig-9404_6_shark-3_5565	6	Tig-9404_6_shark-3_5464	6	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_41_shark-4	Tig-9404_41_shark-9	Tig-9404_41_shark-4_5565	41	Tig-9404_41_shark-9_5464	41	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_41_shark-4	Tig-9404_41_shark-4	Tig-9404_41_shark-4_5565	41	Tig-9404_41_shark-4_5464	41	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_41_shark-4	Tig-9404_41_shark-20	Tig-9404_41_shark-4_5565	41	Tig-9404_41_shark-20_5464	41	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_41_shark-20	Tig-9404_41_shark-9	Tig-9404_41_shark-20_5565	41	Tig-9404_41_shark-9_5464	41	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_41_shark-20	Tig-9404_41_shark-4	Tig-9404_41_shark-20_5565	41	Tig-9404_41_shark-4_5464	41	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_72_sharks-3	Tig-9404_72_sharks-3	Tig-9404_72_sharks-3_5565	72	Tig-9404_72_sharks-3_5464	72	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_76_sharks-10	Tig-9404_76_sharks-10	Tig-9404_76_sharks-10_5565	76	Tig-9404_76_sharks-10_5464	76	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_sharks-19	Tig-9404_180_shark-3	Tig-9404_180_sharks-19_5565	180	Tig-9404_180_shark-3_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_76_sharks-10	Tig-9404_76_sharks-27	Tig-9404_76_sharks-10_5565	76	Tig-9404_76_sharks-27_5464	76	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_96_sharks-9	Tig-9404_96_sharks-9	Tig-9404_96_sharks-9_5565	96	Tig-9404_96_sharks-9_5464	96	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_96_sharks-9	Tig-9404_96_shark-24	Tig-9404_96_sharks-9_5565	96	Tig-9404_96_shark-24_5464	96	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_96_shark-24	Tig-9404_96_sharks-9	Tig-9404_96_shark-24_5565	96	Tig-9404_96_sharks-9_5464	96	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_96_shark-24	Tig-9404_96_shark-24	Tig-9404_96_shark-24_5565	96	Tig-9404_96_shark-24_5464	96	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_shark-64	Tig-9404_36_sharks-22	Tig-9404_36_shark-64_5565	36	Tig-9404_36_sharks-22_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_123_shark-3	Sha-8b9d_123_shark-3	Sha-8b9d_123_shark-3_5565	123	Sha-8b9d_123_shark-3_5464	123	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_21_shark-21	Tig-9404_21_shark-21	Tig-9404_21_shark-21_5565	21	Tig-9404_21_shark-21_5464	21	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_127_sharks-39	Tig-9404_127_sharks-39	Tig-9404_127_sharks-39_5565	127	Tig-9404_127_sharks-39_5464	127	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-31	Tig-9404_36_sharks-31	Tig-9404_36_sharks-31_5565	36	Tig-9404_36_sharks-31_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-31	Tig-9404_36_sharks-22	Tig-9404_36_sharks-31_5565	36	Tig-9404_36_sharks-22_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-31	Tig-9404_36_sharks-15	Tig-9404_36_sharks-31_5565	36	Tig-9404_36_sharks-15_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-31	Tig-9404_36_shark-64	Tig-9404_36_sharks-31_5565	36	Tig-9404_36_shark-64_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-31	Tig-9404_36_shark-43	Tig-9404_36_sharks-31_5565	36	Tig-9404_36_shark-43_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-22	Tig-9404_36_sharks-7	Tig-9404_36_sharks-22_5565	36	Tig-9404_36_sharks-7_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_shark-64	Tig-9404_36_shark-43	Tig-9404_36_shark-64_5565	36	Tig-9404_36_shark-43_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_sharks-19	Tig-9404_180_sharks-15	Tig-9404_180_sharks-19_5565	180	Tig-9404_180_sharks-15_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_sharks-19	Tig-9404_180_sharks-19	Tig-9404_180_sharks-19_5565	180	Tig-9404_180_sharks-19_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Squ-0cc5_222_shark-40	Squ-0cc5_222_shark-40	Squ-0cc5_222_shark-40_5565	222	Squ-0cc5_222_shark-40_5464	222	0	tiger shark	sharks	100.0
+taxongroup	Squ-0cc5_222_shark-35	Squ-0cc5_222_shark-30	Squ-0cc5_222_shark-35_5565	222	Squ-0cc5_222_shark-30_5464	222	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_155_sharks-22	Tig-9404_155_sharks-22	Tig-9404_155_sharks-22_5565	155	Tig-9404_155_sharks-22_5464	155	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_271_shark-9	Sha-8b9d_271_shark-9	Sha-8b9d_271_shark-9_5565	271	Sha-8b9d_271_shark-9_5464	271	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_151_sharks-24	Tig-9404_151_sharks-24	Tig-9404_151_sharks-24_5565	151	Tig-9404_151_sharks-24_5464	151	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_151_sharks-24	Tig-9404_151_shark-4	Tig-9404_151_sharks-24_5565	151	Tig-9404_151_shark-4_5464	151	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_shark-3	Tig-9404_180_sharks-19	Tig-9404_180_shark-3_5565	180	Tig-9404_180_sharks-19_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_shark-3	Tig-9404_180_sharks-15	Tig-9404_180_shark-3_5565	180	Tig-9404_180_sharks-15_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_shark-3	Tig-9404_180_shark-3	Tig-9404_180_shark-3_5565	180	Tig-9404_180_shark-3_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_shark-3	Tig-9404_180_shark-23	Tig-9404_180_shark-3_5565	180	Tig-9404_180_shark-23_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_125_sharks-11	Tig-9404_125_sharks-11	Tig-9404_125_sharks-11_5565	125	Tig-9404_125_sharks-11_5464	125	0	tiger shark	sharks	100.0
+taxongroup	Squ-0cc5_222_shark-30	Squ-0cc5_222_shark-30	Squ-0cc5_222_shark-30_5565	222	Squ-0cc5_222_shark-30_5464	222	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-31	Tig-9404_36_sharks-7	Tig-9404_36_sharks-31_5565	36	Tig-9404_36_sharks-7_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-7	Tig-9404_36_shark-43	Tig-9404_36_sharks-7_5565	36	Tig-9404_36_shark-43_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-7	Tig-9404_36_shark-64	Tig-9404_36_sharks-7_5565	36	Tig-9404_36_shark-64_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-7	Tig-9404_36_sharks-15	Tig-9404_36_sharks-7_5565	36	Tig-9404_36_sharks-15_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_83_sharks-18	Tig-9404_83_sharks-18	Tig-9404_83_sharks-18_5565	83	Tig-9404_83_sharks-18_5464	83	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_89_sharks-57	Tig-9404_89_sharks-57	Tig-9404_89_sharks-57_5565	89	Tig-9404_89_sharks-57_5464	89	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_74_sharks-85	Tig-9404_74_sharks-85	Tig-9404_74_sharks-85_5565	74	Tig-9404_74_sharks-85_5464	74	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_shark-9	Tig-9404_139_shark-21	Tig-9404_139_shark-9_5565	139	Tig-9404_139_shark-21_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_shark-35	Tig-9404_139_sharks-2	Tig-9404_139_shark-35_5565	139	Tig-9404_139_sharks-2_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_shark-35	Tig-9404_139_shark-9	Tig-9404_139_shark-35_5565	139	Tig-9404_139_shark-9_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_shark-35	Tig-9404_139_shark-35	Tig-9404_139_shark-35_5565	139	Tig-9404_139_shark-35_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_shark-35	Tig-9404_139_shark-21	Tig-9404_139_shark-35_5565	139	Tig-9404_139_shark-21_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_shark-21	Tig-9404_139_sharks-2	Tig-9404_139_shark-21_5565	139	Tig-9404_139_sharks-2_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_shark-21	Tig-9404_139_shark-9	Tig-9404_139_shark-21_5565	139	Tig-9404_139_shark-9_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_shark-21	Tig-9404_139_shark-35	Tig-9404_139_shark-21_5565	139	Tig-9404_139_shark-35_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_shark-21	Tig-9404_139_shark-21	Tig-9404_139_shark-21_5565	139	Tig-9404_139_shark-21_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_137_shark-9	Tig-9404_137_shark-9	Tig-9404_137_shark-9_5565	137	Tig-9404_137_shark-9_5464	137	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_136_shark-6	Tig-9404_136_shark-6	Tig-9404_136_shark-6_5565	136	Tig-9404_136_shark-6_5464	136	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_134_shark-14	Tig-9404_134_shark-14	Tig-9404_134_shark-14_5565	134	Tig-9404_134_shark-14_5464	134	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_sharks-19	Tig-9404_180_shark-23	Tig-9404_180_sharks-19_5565	180	Tig-9404_180_shark-23_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_shark-9	Tig-9404_139_shark-9	Tig-9404_139_shark-9_5565	139	Tig-9404_139_shark-9_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_shark-9	Tig-9404_139_sharks-2	Tig-9404_139_shark-9_5565	139	Tig-9404_139_sharks-2_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_sharks-2	Tig-9404_139_shark-21	Tig-9404_139_sharks-2_5565	139	Tig-9404_139_shark-21_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_139_shark-9	Tig-9404_139_shark-35	Tig-9404_139_shark-9_5565	139	Tig-9404_139_shark-35_5464	139	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_11_shark-3	Tig-9404_11_shark-3	Tig-9404_11_shark-3_5565	11	Tig-9404_11_shark-3_5464	11	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_23_shark-3	Tig-9404_23_shark-3	Tig-9404_23_shark-3_5565	23	Tig-9404_23_shark-3_5464	23	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_102_sharks-17	Tig-9404_102_sharks-7	Tig-9404_102_sharks-17_5565	102	Tig-9404_102_sharks-7_5464	102	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_shark-64	Tig-9404_36_shark-64	Tig-9404_36_shark-64_5565	36	Tig-9404_36_shark-64_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_shark-64	Tig-9404_36_sharks-15	Tig-9404_36_shark-64_5565	36	Tig-9404_36_sharks-15_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-22	Tig-9404_36_sharks-31	Tig-9404_36_sharks-22_5565	36	Tig-9404_36_sharks-31_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_36_sharks-7	Tig-9404_36_sharks-22	Tig-9404_36_sharks-7_5565	36	Tig-9404_36_sharks-22_5464	36	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_127_sharks-16	Tig-9404_127_sharks-16	Tig-9404_127_sharks-16_5565	127	Tig-9404_127_sharks-16_5464	127	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_sharks-2	Sha-8b9d_98_sharks-2	Sha-8b9d_98_sharks-2_5565	98	Sha-8b9d_98_sharks-2_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-9	Sha-8b9d_13_shark-23	Sha-8b9d_13_shark-9_5565	13	Sha-8b9d_13_shark-23_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Squ-0cc5_222_shark-30	Squ-0cc5_222_shark-40	Squ-0cc5_222_shark-30_5565	222	Squ-0cc5_222_shark-40_5464	222	0	tiger shark	sharks	100.0
+taxongroup	Squ-0cc5_222_shark-40	Squ-0cc5_222_shark-30	Squ-0cc5_222_shark-40_5565	222	Squ-0cc5_222_shark-30_5464	222	0	tiger shark	sharks	100.0
+taxongroup	Squ-0cc5_222_shark-35	Squ-0cc5_222_shark-35	Squ-0cc5_222_shark-35_5565	222	Squ-0cc5_222_shark-35_5464	222	0	tiger shark	sharks	100.0
+taxongroup	Squ-0cc5_222_shark-35	Squ-0cc5_222_shark-40	Squ-0cc5_222_shark-35_5565	222	Squ-0cc5_222_shark-40_5464	222	0	tiger shark	sharks	100.0
+taxongroup	Squ-0cc5_222_shark-30	Squ-0cc5_222_shark-35	Squ-0cc5_222_shark-30_5565	222	Squ-0cc5_222_shark-35_5464	222	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-16	Sha-8b9d_13_shark-23	Sha-8b9d_13_shark-16_5565	13	Sha-8b9d_13_shark-23_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-16	Sha-8b9d_13_shark-6	Sha-8b9d_13_shark-16_5565	13	Sha-8b9d_13_shark-6_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_shark-23	Tig-9404_180_sharks-15	Tig-9404_180_shark-23_5565	180	Tig-9404_180_sharks-15_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-16	Sha-8b9d_13_shark-19	Sha-8b9d_13_shark-16_5565	13	Sha-8b9d_13_shark-19_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_shark-23	Tig-9404_180_shark-23	Tig-9404_180_shark-23_5565	180	Tig-9404_180_shark-23_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_145_shark-21	Tig-9404_145_shark-21	Tig-9404_145_shark-21_5565	145	Tig-9404_145_shark-21_5464	145	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_145_sharks-5	Tig-9404_145_sharks-5	Tig-9404_145_sharks-5_5565	145	Tig-9404_145_sharks-5_5464	145	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_145_sharks-5	Tig-9404_145_shark-21	Tig-9404_145_sharks-5_5565	145	Tig-9404_145_shark-21_5464	145	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_145_shark-21	Tig-9404_145_sharks-5	Tig-9404_145_shark-21_5565	145	Tig-9404_145_sharks-5_5464	145	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_17_sharks-19	Tig-9404_17_sharks-19	Tig-9404_17_sharks-19_5565	17	Tig-9404_17_sharks-19_5464	17	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-16	Sha-8b9d_13_shark-9	Sha-8b9d_13_shark-16_5565	13	Sha-8b9d_13_shark-9_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_131_sharks-3	Sha-8b9d_131_sharks-3	Sha-8b9d_131_sharks-3_5565	131	Sha-8b9d_131_sharks-3_5464	131	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_shark-24	Sha-8b9d_98_sharks-2	Sha-8b9d_98_shark-24_5565	98	Sha-8b9d_98_sharks-2_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_shark-24	Sha-8b9d_98_shark-30	Sha-8b9d_98_shark-24_5565	98	Sha-8b9d_98_shark-30_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_shark-24	Sha-8b9d_98_shark-24	Sha-8b9d_98_shark-24_5565	98	Sha-8b9d_98_shark-24_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_sharks-2	Sha-8b9d_98_shark-30	Sha-8b9d_98_sharks-2_5565	98	Sha-8b9d_98_shark-30_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_98_shark-24	Sha-8b9d_98_shark-21	Sha-8b9d_98_shark-24_5565	98	Sha-8b9d_98_shark-21_5464	98	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-6	Sha-8b9d_13_shark-6	Sha-8b9d_13_shark-6_5565	13	Sha-8b9d_13_shark-6_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_127_sharks-16	Tig-9404_127_sharks-39	Tig-9404_127_sharks-16_5565	127	Tig-9404_127_sharks-39_5464	127	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_127_sharks-39	Tig-9404_127_sharks-16	Tig-9404_127_sharks-39_5565	127	Tig-9404_127_sharks-16_5464	127	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_shark-23	Tig-9404_180_shark-3	Tig-9404_180_shark-23_5565	180	Tig-9404_180_shark-3_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_146_shark-8	Tig-9404_146_shark-8	Tig-9404_146_shark-8_5565	146	Tig-9404_146_shark-8_5464	146	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_17_sharks-33	Tig-9404_17_shark-3	Tig-9404_17_sharks-33_5565	17	Tig-9404_17_shark-3_5464	17	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_17_sharks-33	Tig-9404_17_sharks-33	Tig-9404_17_sharks-33_5565	17	Tig-9404_17_sharks-33_5464	17	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_sharks-15	Tig-9404_180_sharks-19	Tig-9404_180_sharks-15_5565	180	Tig-9404_180_sharks-19_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_sharks-15	Tig-9404_180_sharks-15	Tig-9404_180_sharks-15_5565	180	Tig-9404_180_sharks-15_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_sharks-15	Tig-9404_180_shark-3	Tig-9404_180_sharks-15_5565	180	Tig-9404_180_shark-3_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_sharks-15	Tig-9404_180_shark-23	Tig-9404_180_sharks-15_5565	180	Tig-9404_180_shark-23_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_149_shark-7	Tig-9404_149_shark-7	Tig-9404_149_shark-7_5565	149	Tig-9404_149_shark-7_5464	149	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_151_shark-4	Tig-9404_151_shark-4	Tig-9404_151_shark-4_5565	151	Tig-9404_151_shark-4_5464	151	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_17_sharks-19	Tig-9404_17_shark-3	Tig-9404_17_sharks-19_5565	17	Tig-9404_17_shark-3_5464	17	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_151_shark-4	Tig-9404_151_sharks-24	Tig-9404_151_shark-4_5565	151	Tig-9404_151_sharks-24_5464	151	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_17_shark-3	Tig-9404_17_sharks-33	Tig-9404_17_shark-3_5565	17	Tig-9404_17_sharks-33_5464	17	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_17_shark-3	Tig-9404_17_sharks-19	Tig-9404_17_shark-3_5565	17	Tig-9404_17_sharks-19_5464	17	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_17_shark-3	Tig-9404_17_shark-3	Tig-9404_17_shark-3_5565	17	Tig-9404_17_shark-3_5464	17	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_180_shark-23	Tig-9404_180_sharks-19	Tig-9404_180_shark-23_5565	180	Tig-9404_180_sharks-19_5464	180	0	tiger shark	sharks	100.0
+taxongroup	Tig-9404_17_sharks-19	Tig-9404_17_sharks-33	Tig-9404_17_sharks-19_5565	17	Tig-9404_17_sharks-33_5464	17	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-23	Sha-8b9d_13_shark-23	Sha-8b9d_13_shark-23_5565	13	Sha-8b9d_13_shark-23_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-23	Sha-8b9d_13_shark-6	Sha-8b9d_13_shark-23_5565	13	Sha-8b9d_13_shark-6_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-23	Sha-8b9d_13_shark-9	Sha-8b9d_13_shark-23_5565	13	Sha-8b9d_13_shark-9_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-13	Sha-8b9d_13_shark-6	Sha-8b9d_13_shark-13_5565	13	Sha-8b9d_13_shark-6_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-13	Sha-8b9d_13_shark-23	Sha-8b9d_13_shark-13_5565	13	Sha-8b9d_13_shark-23_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-13	Sha-8b9d_13_shark-19	Sha-8b9d_13_shark-13_5565	13	Sha-8b9d_13_shark-19_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-13	Sha-8b9d_13_shark-16	Sha-8b9d_13_shark-13_5565	13	Sha-8b9d_13_shark-16_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-13	Sha-8b9d_13_shark-13	Sha-8b9d_13_shark-13_5565	13	Sha-8b9d_13_shark-13_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_13_shark-19	Sha-8b9d_13_shark-9	Sha-8b9d_13_shark-19_5565	13	Sha-8b9d_13_shark-9_5464	13	0	tiger shark	sharks	100.0
+taxongroup	Gre-c669_94_sharks-3	Gre-c669_94_sharks-8	Gre-c669_94_sharks-3_5147	94	Gre-c669_94_sharks-8_5464	94	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_94_shark-15	Gre-c669_94_shark-15	Gre-c669_94_shark-15_5147	94	Gre-c669_94_shark-15_5464	94	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_2_shark-31	Gre-c669_2_shark-15	Gre-c669_2_shark-31_5147	2	Gre-c669_2_shark-15_5464	2	0	mackerel sharks	sharks	100.0
+taxongroup	Ham-9078_103_sharks-31	Ham-9078_103_sharks-31	Ham-9078_103_sharks-31_5076	103	Ham-9078_103_sharks-31_5464	103	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_120_shark-3	Ham-9078_120_shark-11	Ham-9078_120_shark-3_5076	120	Ham-9078_120_shark-11_5464	120	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-23	Car4f21_2_sharks-3	Car4f21_2_sharks-23_5076	2	Car4f21_2_sharks-3_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_2_sharks-3	Ham-9078_2_sharks-8	Ham-9078_2_sharks-3_5076	2	Ham-9078_2_sharks-8_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_54_sharks-28	Ham-9078_54_sharks-28	Ham-9078_54_sharks-28_5076	54	Ham-9078_54_sharks-28_5464	54	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_2_sharks-3	Ham-9078_2_sharks-3	Ham-9078_2_sharks-3_5076	2	Ham-9078_2_sharks-3_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_120_shark-11	Ham-9078_120_shark-11	Ham-9078_120_shark-11_5076	120	Ham-9078_120_shark-11_5464	120	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_120_shark-11	Ham-9078_120_shark-3	Ham-9078_120_shark-11_5076	120	Ham-9078_120_shark-3_5464	120	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-23	Car4f21_2_Carcharhiniformes-5	Car4f21_2_sharks-23_5076	2	Car4f21_2_Carcharhiniformes-5_1840	2	0	hammerhead sharks	Carcharhiniformes	100.0
+taxongroup	Car4f21_2_sharks-17	Car4f21_2_sharks-17	Car4f21_2_sharks-17_5076	2	Car4f21_2_sharks-17_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-17	Car4f21_2_sharks-20	Car4f21_2_sharks-17_5076	2	Car4f21_2_sharks-20_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-3	Car4f21_2_sharks-17	Car4f21_2_sharks-3_5076	2	Car4f21_2_sharks-17_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-20	Car4f21_2_sharks-17	Car4f21_2_sharks-20_5076	2	Car4f21_2_sharks-17_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-23	Car4f21_2_sharks-17	Car4f21_2_sharks-23_5076	2	Car4f21_2_sharks-17_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-23	Car4f21_2_sharks-20	Car4f21_2_sharks-23_5076	2	Car4f21_2_sharks-20_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-23	Car4f21_2_sharks-23	Car4f21_2_sharks-23_5076	2	Car4f21_2_sharks-23_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-20	Car4f21_2_sharks-23	Car4f21_2_sharks-20_5076	2	Car4f21_2_sharks-23_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-17	Car4f21_2_sharks-23	Car4f21_2_sharks-17_5076	2	Car4f21_2_sharks-23_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-3	Car4f21_2_sharks-3	Car4f21_2_sharks-3_5076	2	Car4f21_2_sharks-3_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-3	Car4f21_2_sharks-23	Car4f21_2_sharks-3_5076	2	Car4f21_2_sharks-23_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-3	Car4f21_2_sharks-20	Car4f21_2_sharks-3_5076	2	Car4f21_2_sharks-20_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-20	Car4f21_2_sharks-3	Car4f21_2_sharks-20_5076	2	Car4f21_2_sharks-3_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-17	Car4f21_2_sharks-3	Car4f21_2_sharks-17_5076	2	Car4f21_2_sharks-3_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_68_sharks-25	Ham-9078_68_sharks-25	Ham-9078_68_sharks-25_5076	68	Ham-9078_68_sharks-25_5464	68	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-20	Car4f21_2_Carcharhiniformes-5	Car4f21_2_sharks-20_5076	2	Car4f21_2_Carcharhiniformes-5_1840	2	0	hammerhead sharks	Carcharhiniformes	100.0
+taxongroup	Sha-8b9d_483_sharks-15	Sha-8b9d_483_animals-41	Sha-8b9d_483_sharks-15_5076	483	Sha-8b9d_483_animals-41_3812	483	0	hammerhead sharks	animals	100.0
+taxongroup	Ham-9078_105_shark-3	Ham-9078_105_animal-10	Ham-9078_105_shark-3_5076	105	Ham-9078_105_animal-10_3812	105	0	hammerhead sharks	animals	100.0
+taxongroup	Sha-8b9d_483_sharks-52	Sha-8b9d_483_animals-41	Sha-8b9d_483_sharks-52_5076	483	Sha-8b9d_483_animals-41_3812	483	0	hammerhead sharks	animals	100.0
+taxongroup	Sha-8b9d_483_shark-27	Sha-8b9d_483_animals-41	Sha-8b9d_483_shark-27_5076	483	Sha-8b9d_483_animals-41_3812	483	0	hammerhead sharks	animals	100.0
+taxongroup	Car4f21_2_sharks-20	Car4f21_2_fish-12	Car4f21_2_sharks-20_5076	2	Car4f21_2_fish-12_4001	2	0	hammerhead sharks	cartilaginous fish	100.0
+taxongroup	Car4f21_2_sharks-3	Car4f21_2_fish-12	Car4f21_2_sharks-3_5076	2	Car4f21_2_fish-12_4001	2	0	hammerhead sharks	cartilaginous fish	100.0
+taxongroup	Car4f21_2_sharks-23	Car4f21_2_fish-12	Car4f21_2_sharks-23_5076	2	Car4f21_2_fish-12_4001	2	0	hammerhead sharks	cartilaginous fish	100.0
+taxongroup	Car4f21_2_sharks-17	Car4f21_2_fish-12	Car4f21_2_sharks-17_5076	2	Car4f21_2_fish-12_4001	2	0	hammerhead sharks	cartilaginous fish	100.0
+taxongroup	Car4f21_2_sharks-20	Car4f21_2_sharks-20	Car4f21_2_sharks-20_5076	2	Car4f21_2_sharks-20_4756	2	0	hammerhead sharks	ground sharks	100.0
+taxongroup	Ham-9078_26_shark-4	Ham-9078_26_sharks-15	Ham-9078_26_shark-4_5076	26	Ham-9078_26_sharks-15_5464	26	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_84_sharks-11	Ham-9078_84_sharks-11	Ham-9078_84_sharks-11_5076	84	Ham-9078_84_sharks-11_5464	84	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_2_sharks-8	Ham-9078_2_sharks-3	Ham-9078_2_sharks-8_5076	2	Ham-9078_2_sharks-3_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_525_shark-12	Sha-8b9d_525_shark-12	Sha-8b9d_525_shark-12_5076	525	Sha-8b9d_525_shark-12_5464	525	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_26_sharks-15	Ham-9078_26_shark-4	Ham-9078_26_sharks-15_5076	26	Ham-9078_26_shark-4_5464	26	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_103_shark-3	Ham-9078_103_shark-3	Ham-9078_103_shark-3_5076	103	Ham-9078_103_shark-3_5464	103	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_103_shark-3	Ham-9078_103_sharks-31	Ham-9078_103_shark-3_5076	103	Ham-9078_103_sharks-31_5464	103	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_105_shark-3	Ham-9078_105_shark-3	Ham-9078_105_shark-3_5076	105	Ham-9078_105_shark-3_5464	105	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_120_shark-3	Ham-9078_120_shark-3	Ham-9078_120_shark-3_5076	120	Ham-9078_120_shark-3_5464	120	0	hammerhead sharks	sharks	100.0
+taxongroup	Hamfddf_1_shark-6	Hamfddf_1_shark-6	Hamfddf_1_shark-6_5076	1	Hamfddf_1_shark-6_5464	1	0	hammerhead sharks	sharks	100.0
+taxongroup	Par-5c6e_201_shark-9	Par-5c6e_201_shark-9	Par-5c6e_201_shark-9_5076	201	Par-5c6e_201_shark-9_5464	201	0	hammerhead sharks	sharks	100.0
+taxongroup	Lem-ec0f_2_shark-12	Lem-ec0f_2_Carcharhinidae-16	Lem-ec0f_2_shark-12_5166	2	Lem-ec0f_2_Carcharhinidae-16_771	2	0	lemon shark	Carcharhinidae	100.0
+taxongroup	Lem-ec0f_2_shark-3	Lem-ec0f_2_Carcharhinidae-16	Lem-ec0f_2_shark-3_5166	2	Lem-ec0f_2_Carcharhinidae-16_771	2	0	lemon shark	Carcharhinidae	100.0
+taxongroup	Req-2240_50_shark-87	Req-2240_50_Negaprion-66	Req-2240_50_shark-87_5166	50	Req-2240_50_Negaprion-66_1167	50	0	lemon shark	Negaprion	100.0
+taxongroup	Req-2240_50_shark-87	Req-2240_50_Negaprion-78	Req-2240_50_shark-87_5166	50	Req-2240_50_Negaprion-78_1167	50	0	lemon shark	Negaprion	100.0
+taxongroup	Req-2240_50_shark-76	Req-2240_50_Negaprion-66	Req-2240_50_shark-76_5166	50	Req-2240_50_Negaprion-66_1167	50	0	lemon shark	Negaprion	100.0
+taxongroup	Req-2240_50_shark-76	Req-2240_50_Negaprion-78	Req-2240_50_shark-76_5166	50	Req-2240_50_Negaprion-78_1167	50	0	lemon shark	Negaprion	100.0
+taxongroup	Lem-ec0f_2_shark-12	Lem-ec0f_2_Negaprion-5	Lem-ec0f_2_shark-12_5166	2	Lem-ec0f_2_Negaprion-5_1167	2	0	lemon shark	Negaprion	100.0
+taxongroup	Lem-ec0f_2_shark-3	Lem-ec0f_2_Negaprion-5	Lem-ec0f_2_shark-3_5166	2	Lem-ec0f_2_Negaprion-5_1167	2	0	lemon shark	Negaprion	100.0
+taxongroup	Req-2240_50_shark-59	Req-2240_50_Negaprion-78	Req-2240_50_shark-59_5166	50	Req-2240_50_Negaprion-78_1167	50	0	lemon shark	Negaprion	100.0
+taxongroup	Req-2240_50_shark-41	Req-2240_50_Negaprion-78	Req-2240_50_shark-41_5166	50	Req-2240_50_Negaprion-78_1167	50	0	lemon shark	Negaprion	100.0
+taxongroup	Req-2240_50_shark-59	Req-2240_50_Negaprion-66	Req-2240_50_shark-59_5166	50	Req-2240_50_Negaprion-66_1167	50	0	lemon shark	Negaprion	100.0
+taxongroup	Req-2240_50_shark-29	Req-2240_50_Negaprion-66	Req-2240_50_shark-29_5166	50	Req-2240_50_Negaprion-66_1167	50	0	lemon shark	Negaprion	100.0
+taxongroup	Req-2240_50_shark-9	Req-2240_50_Negaprion-78	Req-2240_50_shark-9_5166	50	Req-2240_50_Negaprion-78_1167	50	0	lemon shark	Negaprion	100.0
+taxongroup	Req-2240_50_shark-9	Req-2240_50_Negaprion-66	Req-2240_50_shark-9_5166	50	Req-2240_50_Negaprion-66_1167	50	0	lemon shark	Negaprion	100.0
+taxongroup	Req-2240_50_shark-29	Req-2240_50_Negaprion-78	Req-2240_50_shark-29_5166	50	Req-2240_50_Negaprion-78_1167	50	0	lemon shark	Negaprion	100.0
+taxongroup	Req-2240_50_shark-41	Req-2240_50_Negaprion-66	Req-2240_50_shark-41_5166	50	Req-2240_50_Negaprion-66_1167	50	0	lemon shark	Negaprion	100.0
+taxongroup	Lem-ec0f_20_sharks-7	Lem-ec0f_20_fish-4	Lem-ec0f_20_sharks-7_5166	20	Lem-ec0f_20_fish-4_4001	20	0	lemon shark	cartilaginous fish	100.0
+taxongroup	Req-2240_33_sharks-3	Req-2240_33_sharks-3	Req-2240_33_sharks-3_5166	33	Req-2240_33_sharks-3_4178	33	0	lemon shark	requiem sharks	100.0
+taxongroup	Req-2240_33_sharks-3	Req-2240_33_sharks-17	Req-2240_33_sharks-3_5166	33	Req-2240_33_sharks-17_4178	33	0	lemon shark	requiem sharks	100.0
+taxongroup	Req-2240_33_sharks-3	Req-2240_33_sharks-14	Req-2240_33_sharks-3_5166	33	Req-2240_33_sharks-14_4178	33	0	lemon shark	requiem sharks	100.0
+taxongroup	Req-2240_33_sharks-17	Req-2240_33_sharks-3	Req-2240_33_sharks-17_5166	33	Req-2240_33_sharks-3_4178	33	0	lemon shark	requiem sharks	100.0
+taxongroup	Ham-9078_103_sharks-31	Ham-9078_103_shark-3	Ham-9078_103_sharks-31_5076	103	Ham-9078_103_shark-3_5464	103	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_26_shark-4	Ham-9078_26_shark-4	Ham-9078_26_shark-4_5076	26	Ham-9078_26_shark-4_5464	26	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_525_shark-12	Sha-8b9d_525_sharks-37	Sha-8b9d_525_shark-12_5076	525	Sha-8b9d_525_sharks-37_5464	525	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_26_sharks-15	Ham-9078_26_sharks-15	Ham-9078_26_sharks-15_5076	26	Ham-9078_26_sharks-15_5464	26	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_525_sharks-17	Sha-8b9d_525_shark-12	Sha-8b9d_525_sharks-17_5076	525	Sha-8b9d_525_shark-12_5464	525	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_525_sharks-17	Sha-8b9d_525_sharks-17	Sha-8b9d_525_sharks-17_5076	525	Sha-8b9d_525_sharks-17_5464	525	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_483_sharks-52	Sha-8b9d_483_shark-27	Sha-8b9d_483_sharks-52_5076	483	Sha-8b9d_483_shark-27_5464	483	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_525_sharks-17	Sha-8b9d_525_sharks-37	Sha-8b9d_525_sharks-17_5076	525	Sha-8b9d_525_sharks-37_5464	525	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_483_sharks-15	Sha-8b9d_483_sharks-52	Sha-8b9d_483_sharks-15_5076	483	Sha-8b9d_483_sharks-52_5464	483	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_483_sharks-15	Sha-8b9d_483_sharks-15	Sha-8b9d_483_sharks-15_5076	483	Sha-8b9d_483_sharks-15_5464	483	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_483_sharks-15	Sha-8b9d_483_shark-27	Sha-8b9d_483_sharks-15_5076	483	Sha-8b9d_483_shark-27_5464	483	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_483_shark-27	Sha-8b9d_483_sharks-52	Sha-8b9d_483_shark-27_5076	483	Sha-8b9d_483_sharks-52_5464	483	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_525_sharks-37	Sha-8b9d_525_shark-12	Sha-8b9d_525_sharks-37_5076	525	Sha-8b9d_525_shark-12_5464	525	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_525_sharks-37	Sha-8b9d_525_sharks-17	Sha-8b9d_525_sharks-37_5076	525	Sha-8b9d_525_sharks-17_5464	525	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_525_sharks-37	Sha-8b9d_525_sharks-37	Sha-8b9d_525_sharks-37_5076	525	Sha-8b9d_525_sharks-37_5464	525	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_483_shark-27	Sha-8b9d_483_shark-27	Sha-8b9d_483_shark-27_5076	483	Sha-8b9d_483_shark-27_5464	483	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_2_sharks-8	Ham-9078_2_sharks-8	Ham-9078_2_sharks-8_5076	2	Ham-9078_2_sharks-8_5464	2	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_483_sharks-52	Sha-8b9d_483_sharks-15	Sha-8b9d_483_sharks-52_5076	483	Sha-8b9d_483_sharks-15_5464	483	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_483_sharks-52	Sha-8b9d_483_sharks-52	Sha-8b9d_483_sharks-52_5076	483	Sha-8b9d_483_sharks-52_5464	483	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_525_shark-12	Sha-8b9d_525_sharks-17	Sha-8b9d_525_shark-12_5076	525	Sha-8b9d_525_sharks-17_5464	525	0	hammerhead sharks	sharks	100.0
+taxongroup	Sha-8b9d_483_shark-27	Sha-8b9d_483_sharks-15	Sha-8b9d_483_shark-27_5076	483	Sha-8b9d_483_sharks-15_5464	483	0	hammerhead sharks	sharks	100.0
+taxongroup	Ham-9078_90_sharks-9	Ham-9078_90_sharks-9	Ham-9078_90_sharks-9_5076	90	Ham-9078_90_sharks-9_5464	90	0	hammerhead sharks	sharks	100.0
+taxongroup	Car4f21_2_sharks-3	Car4f21_2_Carcharhiniformes-5	Car4f21_2_sharks-3_5076	2	Car4f21_2_Carcharhiniformes-5_1840	2	0	hammerhead sharks	Carcharhiniformes	100.0
+taxongroup	Car4f21_2_sharks-17	Car4f21_2_Carcharhiniformes-5	Car4f21_2_sharks-17_5076	2	Car4f21_2_Carcharhiniformes-5_1840	2	0	hammerhead sharks	Carcharhiniformes	100.0
+taxongroup	Req-2240_33_sharks-17	Req-2240_33_sharks-17	Req-2240_33_sharks-17_5166	33	Req-2240_33_sharks-17_4178	33	0	lemon shark	requiem sharks	100.0
+taxongroup	Car-807c_11_sharks-9	Car-807c_11_sharks-9	Car-807c_11_sharks-9_3540	11	Car-807c_11_sharks-9_5464	11	0	Tiger shark	sharks	100.0
+taxongroup	Syn-38d5_2_Synapsida-1	Syn-38d5_2_animals-11	Syn-38d5_2_Synapsida-1_427	2	Syn-38d5_2_animals-11_3812	2	0	Synapsida	animals	100.0
+taxongroup	Syn-38d5_36_Synapsida-18	Syn-38d5_36_vertebrate-3	Syn-38d5_36_Synapsida-18_427	36	Syn-38d5_36_vertebrate-3_3935	36	0	Synapsida	vertebrates	100.0
+taxongroup	Syn-38d5_41_Therapsida-4	Syn-38d5_41_Synapsida-2	Syn-38d5_41_Therapsida-4_3500	41	Syn-38d5_41_Synapsida-2_427	41	0	Therapsida	Synapsida	100.0
+taxongroup	The-6798_2_Therapsida-9	The-6798_2_synapsids-18	The-6798_2_Therapsida-9_3500	2	The-6798_2_synapsids-18_4028	2	0	Therapsida	synapsids	100.0
+taxongroup	Pel-c217_33_Therapsida-18	Pel-c217_33_synapsids-12	Pel-c217_33_Therapsida-18_3500	33	Pel-c217_33_synapsids-12_4028	33	0	Therapsida	synapsids	100.0
+taxongroup	Pel-c217_4_Therapsida-8	Pel-c217_4_synapsid-6	Pel-c217_4_Therapsida-8_3500	4	Pel-c217_4_synapsid-6_4028	4	0	Therapsida	synapsids	100.0
+taxongroup	Syn-38d5_162_Therapsida-30	Syn-38d5_162_synapsids-12	Syn-38d5_162_Therapsida-30_3500	162	Syn-38d5_162_synapsids-12_4028	162	0	Therapsida	synapsids	100.0
+taxongroup	The-6798_44_Therapsids-1	The-6798_44_animals-6	The-6798_44_Therapsids-1_3499	44	The-6798_44_animals-6_44	44	0	Therapsids	Animals	100.0
+taxongroup	Mam-3742_91_Therapsids-1	Mam-3742_91_synapsids-6	Mam-3742_91_Therapsids-1_3499	91	Mam-3742_91_synapsids-6_4028	91	0	Therapsids	synapsids	100.0
+taxongroup	Mam-3742_91_Therapsids-1	Mam-3742_91_vertebrates-25	Mam-3742_91_Therapsids-1_3499	91	Mam-3742_91_vertebrates-25_3935	91	0	Therapsids	vertebrates	100.0
+taxongroup	Car-807c_11_shark-4	Car-807c_11_shark-4	Car-807c_11_shark-4_3540	11	Car-807c_11_shark-4_5464	11	0	Tiger shark	sharks	100.0
+taxongroup	Car-807c_11_shark-4	Car-807c_11_sharks-9	Car-807c_11_shark-4_3540	11	Car-807c_11_sharks-9_5464	11	0	Tiger shark	sharks	100.0
+taxongroup	Car-807c_11_sharks-9	Car-807c_11_shark-4	Car-807c_11_sharks-9_3540	11	Car-807c_11_shark-4_5464	11	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_9_sharks-2	Tig-9404_9_sharks-2	Tig-9404_9_sharks-2_3540	9	Tig-9404_9_sharks-2_5464	9	0	Tiger shark	sharks	100.0
+taxongroup	Tige173_1_sharks-2	Tige173_1_sharks-2	Tige173_1_sharks-2_3540	1	Tige173_1_sharks-2_5464	1	0	Tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_122_sharks-2	Sha-8b9d_122_sharks-2	Sha-8b9d_122_sharks-2_3540	122	Sha-8b9d_122_sharks-2_5464	122	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_22_shark-2	Tig-9404_22_shark-2	Tig-9404_22_shark-2_3540	22	Tig-9404_22_shark-2_5464	22	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_92_sharks-11	Tig-9404_92_sharks-11	Tig-9404_92_sharks-11_3540	92	Tig-9404_92_sharks-11_5464	92	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_12_shark-2	Tig-9404_12_shark-2	Tig-9404_12_shark-2_3540	12	Tig-9404_12_shark-2_5464	12	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_121_shark-2	Tig-9404_121_shark-2	Tig-9404_121_shark-2_3540	121	Tig-9404_121_shark-2_5464	121	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_1_shark-2	Tig-9404_1_shark-2	Tig-9404_1_shark-2_3540	1	Tig-9404_1_shark-2_5464	1	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_157_shark-2	Tig-9404_157_shark-2	Tig-9404_157_shark-2_3540	157	Tig-9404_157_shark-2_5464	157	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_158_sharks-2	Tig-9404_158_sharks-2	Tig-9404_158_sharks-2_3540	158	Tig-9404_158_sharks-2_5464	158	0	Tiger shark	sharks	100.0
+taxongroup	Lem-ec0f_22_sharks-13	Lem-ec0f_22_sharks-4	Lem-ec0f_22_sharks-13_2688	22	Lem-ec0f_22_sharks-4_5464	22	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_102_shark-2	Lem-ec0f_102_shark-2	Lem-ec0f_102_shark-2_2688	102	Lem-ec0f_102_shark-2_5464	102	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_22_sharks-13	Lem-ec0f_22_sharks-28	Lem-ec0f_22_sharks-13_2688	22	Lem-ec0f_22_sharks-28_5464	22	0	Lemon shark	sharks	100.0
+taxongroup	Coe-f000_181_Coelacanths-1	Coe-f000_181_animals-18	Coe-f000_181_Coelacanths-1_2672	181	Coe-f000_181_animals-18_44	181	0	Coelacanths	Animals	100.0
+taxongroup	Coe-f000_2_Coelacanths-1	Coe-f000_2_Sarcopterygii-23	Coe-f000_2_Coelacanths-1_2672	2	Coe-f000_2_Sarcopterygii-23_420	2	0	Coelacanths	Sarcopterygii	100.0
+taxongroup	Ham-9078_59_shark-8	Ham-9078_59_shark-8	Ham-9078_59_shark-8_2494	59	Ham-9078_59_shark-8_5464	59	0	Hammerhead sharks	sharks	100.0
+taxongroup	Hamfddf_3_sharks-8	Hamfddf_3_sharks-8	Hamfddf_3_sharks-8_2494	3	Hamfddf_3_sharks-8_5464	3	0	Hammerhead sharks	sharks	100.0
+taxongroup	Lam-a51d_2_Lamniformes-2	Lam-a51d_2_sharks-23	Lam-a51d_2_Lamniformes-2_2652	2	Lam-a51d_2_sharks-23_5464	2	0	Lamniformes	sharks	100.0
+taxongroup	Lem-ec0f_1_shark-2	Lem-ec0f_1_shark-2	Lem-ec0f_1_shark-2_2688	1	Lem-ec0f_1_shark-2_5464	1	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_22_sharks-4	Lem-ec0f_22_sharks-13	Lem-ec0f_22_sharks-4_2688	22	Lem-ec0f_22_sharks-13_5464	22	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_22_sharks-4	Lem-ec0f_22_sharks-28	Lem-ec0f_22_sharks-4_2688	22	Lem-ec0f_22_sharks-28_5464	22	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_22_sharks-4	Lem-ec0f_22_sharks-4	Lem-ec0f_22_sharks-4_2688	22	Lem-ec0f_22_sharks-4_5464	22	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_23_shark-2	Lem-ec0f_23_shark-2	Lem-ec0f_23_shark-2_2688	23	Lem-ec0f_23_shark-2_5464	23	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_22_sharks-10	Lem-ec0f_22_sharks-10	Lem-ec0f_22_sharks-10_2688	22	Lem-ec0f_22_sharks-10_5464	22	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_22_sharks-10	Lem-ec0f_22_sharks-13	Lem-ec0f_22_sharks-10_2688	22	Lem-ec0f_22_sharks-13_5464	22	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_22_sharks-10	Lem-ec0f_22_sharks-28	Lem-ec0f_22_sharks-10_2688	22	Lem-ec0f_22_sharks-28_5464	22	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_15_shark-2	Lem-ec0f_15_shark-2	Lem-ec0f_15_shark-2_2688	15	Lem-ec0f_15_shark-2_5464	15	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_11_shark-2	Lem-ec0f_11_shark-2	Lem-ec0f_11_shark-2_2688	11	Lem-ec0f_11_shark-2_5464	11	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_22_sharks-28	Lem-ec0f_22_sharks-10	Lem-ec0f_22_sharks-28_2688	22	Lem-ec0f_22_sharks-10_5464	22	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_110_shark-2	Lem-ec0f_110_shark-2	Lem-ec0f_110_shark-2_2688	110	Lem-ec0f_110_shark-2_5464	110	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_112_shark-2	Lem-ec0f_112_shark-2	Lem-ec0f_112_shark-2_2688	112	Lem-ec0f_112_shark-2_5464	112	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_6_sharks-2	Lem-ec0f_6_sharks-2	Lem-ec0f_6_sharks-2_2688	6	Lem-ec0f_6_sharks-2_5464	6	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_22_sharks-4	Lem-ec0f_22_sharks-10	Lem-ec0f_22_sharks-4_2688	22	Lem-ec0f_22_sharks-10_5464	22	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_76_shark-2	Lem-ec0f_76_shark-2	Lem-ec0f_76_shark-2_2688	76	Lem-ec0f_76_shark-2_5464	76	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_77_sharks-2	Lem-ec0f_77_sharks-2	Lem-ec0f_77_sharks-2_2688	77	Lem-ec0f_77_sharks-2_5464	77	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_86_sharks-2	Lem-ec0f_86_sharks-2	Lem-ec0f_86_sharks-2_2688	86	Lem-ec0f_86_sharks-2_5464	86	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_63_shark-2	Lem-ec0f_63_shark-2	Lem-ec0f_63_shark-2_2688	63	Lem-ec0f_63_shark-2_5464	63	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_22_sharks-13	Lem-ec0f_22_sharks-13	Lem-ec0f_22_sharks-13_2688	22	Lem-ec0f_22_sharks-13_5464	22	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_22_sharks-10	Lem-ec0f_22_sharks-4	Lem-ec0f_22_sharks-10_2688	22	Lem-ec0f_22_sharks-4_5464	22	0	Lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_22_sharks-13	Lem-ec0f_22_sharks-10	Lem-ec0f_22_sharks-13_2688	22	Lem-ec0f_22_sharks-10_5464	22	0	Lemon shark	sharks	100.0
+taxongroup	Tig-9404_159_shark-3	Tig-9404_159_shark-3	Tig-9404_159_shark-3_3540	159	Tig-9404_159_shark-3_5464	159	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_160_shark-3	Tig-9404_160_shark-3	Tig-9404_160_shark-3_3540	160	Tig-9404_160_shark-3_5464	160	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_44_shark-2	Tig-9404_44_shark-2	Tig-9404_44_shark-2_3540	44	Tig-9404_44_shark-2_5464	44	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_93_shark-2	Tig-9404_93_shark-2	Tig-9404_93_shark-2_3540	93	Tig-9404_93_shark-2_5464	93	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_98_shark-2	Tig-9404_98_shark-2	Tig-9404_98_shark-2_3540	98	Tig-9404_98_shark-2_5464	98	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_95_sharks-2	Tig-9404_95_sharks-2	Tig-9404_95_sharks-2_3540	95	Tig-9404_95_sharks-2_5464	95	0	Tiger shark	sharks	100.0
+taxongroup	Spa-e46a_21_fish-7	Spa-e46a_21_animals-2	Spa-e46a_21_fish-7_5290	21	Spa-e46a_21_animals-2_44	21	0	bony fish	Animals	100.0
+taxongroup	Ost-8757_2_fish-16	Ost-8757_2_animals-24	Ost-8757_2_fish-16_5290	2	Ost-8757_2_animals-24_44	2	0	bony fish	Animals	100.0
+taxongroup	Cho-ea02_55_fish-47	Cho-ea02_55_vertebrates-81	Cho-ea02_55_fish-47_5290	55	Cho-ea02_55_vertebrates-81_3935	55	0	bony fish	vertebrates	100.0
+taxongroup	Ver-1720_7_fish-15	Ver-1720_7_vertebrates-22	Ver-1720_7_fish-15_5290	7	Ver-1720_7_vertebrates-22_3935	7	0	bony fish	vertebrates	100.0
+taxongroup	Ver-1720_136_fishes-29	Ver-1720_136_vertebrates-25	Ver-1720_136_fishes-29_5290	136	Ver-1720_136_vertebrates-25_3935	136	0	bony fish	vertebrates	100.0
+taxongroup	Ver-1720_7_fish-6	Ver-1720_7_vertebrates-22	Ver-1720_7_fish-6_5290	7	Ver-1720_7_vertebrates-22_3935	7	0	bony fish	vertebrates	100.0
+taxongroup	Per-ee9c_6_fish-27	Per-ee9c_6_vertebrates-47	Per-ee9c_6_fish-27_5290	6	Per-ee9c_6_vertebrates-47_3935	6	0	bony fish	vertebrates	100.0
+taxongroup	Cho-ea02_55_fish-21	Cho-ea02_55_vertebrates-81	Cho-ea02_55_fish-21_5290	55	Cho-ea02_55_vertebrates-81_3935	55	0	bony fish	vertebrates	100.0
+taxongroup	Cho-ea02_55_fish-59	Cho-ea02_55_vertebrates-81	Cho-ea02_55_fish-59_5290	55	Cho-ea02_55_vertebrates-81_3935	55	0	bony fish	vertebrates	100.0
+taxongroup	Ostc292_6_fish-18	Ostc292_6_vertebrates-31	Ostc292_6_fish-18_5290	6	Ostc292_6_vertebrates-31_3935	6	0	bony fish	vertebrates	100.0
+taxongroup	Ostc292_6_fish-2	Ostc292_6_vertebrates-31	Ostc292_6_fish-2_5290	6	Ostc292_6_vertebrates-31_3935	6	0	bony fish	vertebrates	100.0
+taxongroup	Sha-8b9d_87_fish-10	Sha-8b9d_87_vertebrates-13	Sha-8b9d_87_fish-10_5290	87	Sha-8b9d_87_vertebrates-13_3935	87	0	bony fish	vertebrates	100.0
+taxongroup	Ver-1720_131_fishes-11	Ver-1720_131_vertebrates-27	Ver-1720_131_fishes-11_4001	131	Ver-1720_131_vertebrates-27_3935	131	0	cartilaginous fish	vertebrates	100.0
+taxongroup	Ver-1720_5_fish-4	Ver-1720_5_vertebrates-21	Ver-1720_5_fish-4_4001	5	Ver-1720_5_vertebrates-21_3935	5	0	cartilaginous fish	vertebrates	100.0
+taxongroup	Ver-1720_5_fish-33	Ver-1720_5_vertebrates-21	Ver-1720_5_fish-33_4001	5	Ver-1720_5_vertebrates-21_3935	5	0	cartilaginous fish	vertebrates	100.0
+taxongroup	Ver-1720_131_fishes-5	Ver-1720_131_vertebrates-27	Ver-1720_131_fishes-5_4001	131	Ver-1720_131_vertebrates-27_3935	131	0	cartilaginous fish	vertebrates	100.0
+taxongroup	Cho-c953_89_fish-29	Cho-c953_89_vertebrates-16	Cho-c953_89_fish-29_4001	89	Cho-c953_89_vertebrates-16_3935	89	0	cartilaginous fish	vertebrates	100.0
+taxongroup	Cho-c953_89_fish-22	Cho-c953_89_vertebrates-16	Cho-c953_89_fish-22_4001	89	Cho-c953_89_vertebrates-16_3935	89	0	cartilaginous fish	vertebrates	100.0
+taxongroup	Cho-c953_5_fishes-7	Cho-c953_5_vertebrates-14	Cho-c953_5_fishes-7_4001	5	Cho-c953_5_vertebrates-14_3935	5	0	cartilaginous fish	vertebrates	100.0
+taxongroup	Tig-9404_104_shark-2	Tig-9404_104_shark-2	Tig-9404_104_shark-2_3540	104	Tig-9404_104_shark-2_5464	104	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_55_shark-2	Tig-9404_55_shark-2	Tig-9404_55_shark-2_3540	55	Tig-9404_55_shark-2_5464	55	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_59_shark-2	Tig-9404_59_shark-2	Tig-9404_59_shark-2_3540	59	Tig-9404_59_shark-2_5464	59	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_178_sharks-3	Tig-9404_178_sharks-3	Tig-9404_178_sharks-3_3540	178	Tig-9404_178_sharks-3_5464	178	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_168_shark-2	Tig-9404_168_shark-2	Tig-9404_168_shark-2_3540	168	Tig-9404_168_shark-2_5464	168	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_167_shark-2	Tig-9404_167_shark-2	Tig-9404_167_shark-2_3540	167	Tig-9404_167_shark-2_5464	167	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_163_shark-2	Tig-9404_163_shark-2	Tig-9404_163_shark-2_3540	163	Tig-9404_163_shark-2_5464	163	0	Tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_111_shark-24	Sha-8b9d_111_shark-24	Sha-8b9d_111_shark-24_3540	111	Sha-8b9d_111_shark-24_5464	111	0	Tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_111_shark-17	Sha-8b9d_111_shark-4	Sha-8b9d_111_shark-17_3540	111	Sha-8b9d_111_shark-4_5464	111	0	Tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_111_shark-17	Sha-8b9d_111_shark-24	Sha-8b9d_111_shark-17_3540	111	Sha-8b9d_111_shark-24_5464	111	0	Tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_111_shark-17	Sha-8b9d_111_shark-17	Sha-8b9d_111_shark-17_3540	111	Sha-8b9d_111_shark-17_5464	111	0	Tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_111_shark-4	Sha-8b9d_111_shark-17	Sha-8b9d_111_shark-4_3540	111	Sha-8b9d_111_shark-17_5464	111	0	Tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_111_shark-24	Sha-8b9d_111_shark-17	Sha-8b9d_111_shark-24_3540	111	Sha-8b9d_111_shark-17_5464	111	0	Tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_111_shark-24	Sha-8b9d_111_shark-4	Sha-8b9d_111_shark-24_3540	111	Sha-8b9d_111_shark-4_5464	111	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_128_shark-2	Tig-9404_128_shark-2	Tig-9404_128_shark-2_3540	128	Tig-9404_128_shark-2_5464	128	0	Tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_111_shark-4	Sha-8b9d_111_shark-24	Sha-8b9d_111_shark-4_3540	111	Sha-8b9d_111_shark-24_5464	111	0	Tiger shark	sharks	100.0
+taxongroup	Sha-8b9d_111_shark-4	Sha-8b9d_111_shark-4	Sha-8b9d_111_shark-4_3540	111	Sha-8b9d_111_shark-4_5464	111	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_69_shark-2	Tig-9404_69_shark-2	Tig-9404_69_shark-2_3540	69	Tig-9404_69_shark-2_5464	69	0	Tiger shark	sharks	100.0
+taxongroup	Tig-9404_65_sharks-2	Tig-9404_65_sharks-2	Tig-9404_65_sharks-2_3540	65	Tig-9404_65_sharks-2_5464	65	0	Tiger shark	sharks	100.0
+taxongroup	Req-2240_33_sharks-14	Req-2240_33_sharks-3	Req-2240_33_sharks-14_5166	33	Req-2240_33_sharks-3_4178	33	0	lemon shark	requiem sharks	100.0
+taxongroup	Req-2240_33_sharks-17	Req-2240_33_sharks-14	Req-2240_33_sharks-17_5166	33	Req-2240_33_sharks-14_4178	33	0	lemon shark	requiem sharks	100.0
+taxongroup	Gre-c669_94_shark-15	Gre-c669_94_sharks-3	Gre-c669_94_shark-15_5147	94	Gre-c669_94_sharks-3_5464	94	0	mackerel sharks	sharks	100.0
+taxongroup	Req-2240_3_shark-56	Req-2240_3_sharks-8	Req-2240_3_shark-56_5166	3	Req-2240_3_sharks-8_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_2_shark-3	Lem-ec0f_2_shark-3	Lem-ec0f_2_shark-3_5166	2	Lem-ec0f_2_shark-3_5464	2	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-50	Req-2240_3_shark-39	Req-2240_3_shark-50_5166	3	Req-2240_3_shark-39_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-29	Req-2240_50_shark-87	Req-2240_50_shark-29_5166	50	Req-2240_50_shark-87_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-56	Req-2240_3_shark-56	Req-2240_3_shark-56_5166	3	Req-2240_3_shark-56_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-59	Req-2240_50_shark-29	Req-2240_50_shark-59_5166	50	Req-2240_50_shark-29_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-68	Req-2240_3_shark-43	Req-2240_3_shark-68_5166	3	Req-2240_3_shark-43_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Sha-8b9d_240_sharks-5	Sha-8b9d_240_sharks-5	Sha-8b9d_240_sharks-5_5166	240	Sha-8b9d_240_sharks-5_5464	240	0	lemon shark	sharks	100.0
+taxongroup	Sha-8b9d_315_sharks-7	Sha-8b9d_315_sharks-7	Sha-8b9d_315_sharks-7_5166	315	Sha-8b9d_315_sharks-7_5464	315	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-56	Req-2240_3_shark-39	Req-2240_3_shark-56_5166	3	Req-2240_3_shark-39_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-56	Req-2240_3_shark-47	Req-2240_3_shark-56_5166	3	Req-2240_3_shark-47_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-59	Req-2240_50_shark-87	Req-2240_50_shark-59_5166	50	Req-2240_50_shark-87_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-56	Req-2240_3_shark-68	Req-2240_3_shark-56_5166	3	Req-2240_3_shark-68_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_64_sharks-4	Lem-ec0f_64_sharks-4	Lem-ec0f_64_sharks-4_5166	64	Lem-ec0f_64_sharks-4_5464	64	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-56	Req-2240_3_shark-63	Req-2240_3_shark-56_5166	3	Req-2240_3_shark-63_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-56	Req-2240_3_shark-59	Req-2240_3_shark-56_5166	3	Req-2240_3_shark-59_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-56	Req-2240_3_shark-53	Req-2240_3_shark-56_5166	3	Req-2240_3_shark-53_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-29	Req-2240_50_shark-76	Req-2240_50_shark-29_5166	50	Req-2240_50_shark-76_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-56	Req-2240_3_shark-50	Req-2240_3_shark-56_5166	3	Req-2240_3_shark-50_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-56	Req-2240_3_shark-43	Req-2240_3_shark-56_5166	3	Req-2240_3_shark-43_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-59	Req-2240_50_shark-41	Req-2240_50_shark-59_5166	50	Req-2240_50_shark-41_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-59	Req-2240_50_shark-59	Req-2240_50_shark-59_5166	50	Req-2240_50_shark-59_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-59	Req-2240_50_shark-76	Req-2240_50_shark-59_5166	50	Req-2240_50_shark-76_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-56	Req-2240_3_shark-27	Req-2240_3_shark-56_5166	3	Req-2240_3_shark-27_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_sharks-8	Req-2240_3_shark-68	Req-2240_3_sharks-8_5166	3	Req-2240_3_shark-68_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-56	Req-2240_3_shark-36	Req-2240_3_shark-56_5166	3	Req-2240_3_shark-36_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-68	Req-2240_3_sharks-8	Req-2240_3_shark-68_5166	3	Req-2240_3_sharks-8_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_64_shark-9	Lem-ec0f_64_sharks-4	Lem-ec0f_64_shark-9_5166	64	Lem-ec0f_64_sharks-4_5464	64	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_14_shark-3	Lem-ec0f_14_shark-3	Lem-ec0f_14_shark-3_5166	14	Lem-ec0f_14_shark-3_5464	14	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_12_shark-3	Lem-ec0f_12_shark-3	Lem-ec0f_12_shark-3_5166	12	Lem-ec0f_12_shark-3_5464	12	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-53	Req-2240_3_sharks-8	Req-2240_3_shark-53_5166	3	Req-2240_3_sharks-8_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-33	Req-2240_3_shark-59	Req-2240_3_shark-33_5166	3	Req-2240_3_shark-59_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-36	Req-2240_3_sharks-8	Req-2240_3_shark-36_5166	3	Req-2240_3_sharks-8_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-50	Req-2240_3_shark-36	Req-2240_3_shark-50_5166	3	Req-2240_3_shark-36_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_sharks-8	Req-2240_3_shark-59	Req-2240_3_sharks-8_5166	3	Req-2240_3_shark-59_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-50	Req-2240_3_shark-43	Req-2240_3_shark-50_5166	3	Req-2240_3_shark-43_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-9	Req-2240_50_shark-29	Req-2240_50_shark-9_5166	50	Req-2240_50_shark-29_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-9	Req-2240_50_shark-41	Req-2240_50_shark-9_5166	50	Req-2240_50_shark-41_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-9	Req-2240_50_shark-59	Req-2240_50_shark-9_5166	50	Req-2240_50_shark-59_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-50	Req-2240_3_shark-33	Req-2240_3_shark-50_5166	3	Req-2240_3_shark-33_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_2_shark-12	Lem-ec0f_2_shark-3	Lem-ec0f_2_shark-12_5166	2	Lem-ec0f_2_shark-3_5464	2	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_2_shark-3	Lem-ec0f_2_shark-12	Lem-ec0f_2_shark-3_5166	2	Lem-ec0f_2_shark-12_5464	2	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_22_sharks-28	Lem-ec0f_22_sharks-28	Lem-ec0f_22_sharks-28_5166	22	Lem-ec0f_22_sharks-28_5464	22	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_22_sharks-28	Lem-ec0f_22_sharks-4	Lem-ec0f_22_sharks-28_5166	22	Lem-ec0f_22_sharks-4_5464	22	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_72_sharks-16	Lem-ec0f_72_sharks-16	Lem-ec0f_72_sharks-16_5166	72	Lem-ec0f_72_sharks-16_5464	72	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_75_shark-6	Lem-ec0f_75_shark-6	Lem-ec0f_75_shark-6_5166	75	Lem-ec0f_75_shark-6_5464	75	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_81_shark-10	Lem-ec0f_81_shark-10	Lem-ec0f_81_shark-10_5166	81	Lem-ec0f_81_shark-10_5464	81	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_82_sharks-3	Lem-ec0f_82_sharks-3	Lem-ec0f_82_sharks-3_5166	82	Lem-ec0f_82_sharks-3_5464	82	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_83_sharks-9	Lem-ec0f_83_sharks-9	Lem-ec0f_83_sharks-9_5166	83	Lem-ec0f_83_sharks-9_5464	83	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_90_shark-32	Lem-ec0f_90_shark-32	Lem-ec0f_90_shark-32_5166	90	Lem-ec0f_90_shark-32_5464	90	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_90_shark-32	Lem-ec0f_90_shark-4	Lem-ec0f_90_shark-32_5166	90	Lem-ec0f_90_shark-4_5464	90	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_64_sharks-4	Lem-ec0f_64_shark-9	Lem-ec0f_64_sharks-4_5166	64	Lem-ec0f_64_shark-9_5464	64	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-68	Req-2240_3_shark-68	Req-2240_3_shark-68_5166	3	Req-2240_3_shark-68_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-68	Req-2240_3_shark-63	Req-2240_3_shark-68_5166	3	Req-2240_3_shark-63_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-50	Req-2240_3_shark-30	Req-2240_3_shark-50_5166	3	Req-2240_3_shark-30_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-59	Req-2240_50_shark-9	Req-2240_50_shark-59_5166	50	Req-2240_50_shark-9_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-29	Req-2240_50_shark-41	Req-2240_50_shark-29_5166	50	Req-2240_50_shark-41_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_33_sharks-14	Req-2240_33_sharks-14	Req-2240_33_sharks-14_5166	33	Req-2240_33_sharks-14_5464	33	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_33_sharks-14	Req-2240_33_sharks-17	Req-2240_33_sharks-14_5166	33	Req-2240_33_sharks-17_5464	33	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-53	Req-2240_3_shark-63	Req-2240_3_shark-53_5166	3	Req-2240_3_shark-63_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-53	Req-2240_3_shark-59	Req-2240_3_shark-53_5166	3	Req-2240_3_shark-59_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-53	Req-2240_3_shark-56	Req-2240_3_shark-53_5166	3	Req-2240_3_shark-56_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-53	Req-2240_3_shark-39	Req-2240_3_shark-53_5166	3	Req-2240_3_shark-39_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Gre-c669_94_sharks-8	Gre-c669_94_shark-15	Gre-c669_94_sharks-8_5147	94	Gre-c669_94_shark-15_5464	94	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_2_shark-31	Gre-c669_2_shark-31	Gre-c669_2_shark-31_5147	2	Gre-c669_2_shark-31_5464	2	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_94_sharks-8	Gre-c669_94_sharks-3	Gre-c669_94_sharks-8_5147	94	Gre-c669_94_sharks-3_5464	94	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_94_sharks-8	Gre-c669_94_sharks-8	Gre-c669_94_sharks-8_5147	94	Gre-c669_94_sharks-8_5464	94	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_2_shark-31	Gre-c669_2_shark-4	Gre-c669_2_shark-31_5147	2	Gre-c669_2_shark-4_5464	2	0	mackerel sharks	sharks	100.0
+taxongroup	Lamad43_7_shark-5	Lamad43_7_shark-5	Lamad43_7_shark-5_5147	7	Lamad43_7_shark-5_5464	7	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_87_sharks-21	Gre-c669_87_sharks-21	Gre-c669_87_sharks-21_5147	87	Gre-c669_87_sharks-21_5464	87	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_2_shark-15	Gre-c669_2_shark-31	Gre-c669_2_shark-15_5147	2	Gre-c669_2_shark-31_5464	2	0	mackerel sharks	sharks	100.0
+taxongroup	Bas-63b2_23_shark-3	Bas-63b2_23_shark-18	Bas-63b2_23_shark-3_5147	23	Bas-63b2_23_shark-18_5464	23	0	mackerel sharks	sharks	100.0
+taxongroup	Bas-63b2_23_shark-18	Bas-63b2_23_shark-3	Bas-63b2_23_shark-18_5147	23	Bas-63b2_23_shark-3_5464	23	0	mackerel sharks	sharks	100.0
+taxongroup	Bas-63b2_23_shark-18	Bas-63b2_23_shark-18	Bas-63b2_23_shark-18_5147	23	Bas-63b2_23_shark-18_5464	23	0	mackerel sharks	sharks	100.0
+taxongroup	Bas-63b2_23_shark-3	Bas-63b2_23_shark-3	Bas-63b2_23_shark-3_5147	23	Bas-63b2_23_shark-3_5464	23	0	mackerel sharks	sharks	100.0
+taxongroup	Cho-c953_44_sharks-18	Cho-c953_44_sharks-18	Cho-c953_44_sharks-18_5147	44	Cho-c953_44_sharks-18_5464	44	0	mackerel sharks	sharks	100.0
+taxongroup	Cho-c953_44_sharks-11	Cho-c953_44_sharks-18	Cho-c953_44_sharks-11_5147	44	Cho-c953_44_sharks-18_5464	44	0	mackerel sharks	sharks	100.0
+taxongroup	Cho-c953_44_sharks-18	Cho-c953_44_sharks-11	Cho-c953_44_sharks-18_5147	44	Cho-c953_44_sharks-11_5464	44	0	mackerel sharks	sharks	100.0
+taxongroup	Cho-c953_44_sharks-11	Cho-c953_44_sharks-11	Cho-c953_44_sharks-11_5147	44	Cho-c953_44_sharks-11_5464	44	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_2_shark-15	Gre-c669_2_shark-4	Gre-c669_2_shark-15_5147	2	Gre-c669_2_shark-4_5464	2	0	mackerel sharks	sharks	100.0
+taxongroup	Gre-c669_94_sharks-3	Gre-c669_94_shark-15	Gre-c669_94_sharks-3_5147	94	Gre-c669_94_shark-15_5464	94	0	mackerel sharks	sharks	100.0
+taxongroup	Req-2240_50_shark-29	Req-2240_50_shark-29	Req-2240_50_shark-29_5166	50	Req-2240_50_shark-29_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-53	Req-2240_3_shark-27	Req-2240_3_shark-53_5166	3	Req-2240_3_shark-27_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-50	Req-2240_3_shark-27	Req-2240_3_shark-50_5166	3	Req-2240_3_shark-27_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_sharks-8	Req-2240_3_shark-27	Req-2240_3_sharks-8_5166	3	Req-2240_3_shark-27_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-30	Req-2240_3_sharks-8	Req-2240_3_shark-30_5166	3	Req-2240_3_sharks-8_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-30	Req-2240_3_shark-68	Req-2240_3_shark-30_5166	3	Req-2240_3_shark-68_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-30	Req-2240_3_shark-63	Req-2240_3_shark-30_5166	3	Req-2240_3_shark-63_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-30	Req-2240_3_shark-59	Req-2240_3_shark-30_5166	3	Req-2240_3_shark-59_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_sharks-8	Req-2240_3_shark-63	Req-2240_3_sharks-8_5166	3	Req-2240_3_shark-63_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-50	Req-2240_3_sharks-8	Req-2240_3_shark-50_5166	3	Req-2240_3_sharks-8_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-29	Req-2240_50_shark-9	Req-2240_50_shark-29_5166	50	Req-2240_50_shark-9_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-56	Req-2240_3_shark-33	Req-2240_3_shark-56_5166	3	Req-2240_3_shark-33_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-56	Req-2240_3_shark-30	Req-2240_3_shark-56_5166	3	Req-2240_3_shark-30_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-53	Req-2240_3_shark-30	Req-2240_3_shark-53_5166	3	Req-2240_3_shark-30_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-53	Req-2240_3_shark-36	Req-2240_3_shark-53_5166	3	Req-2240_3_shark-36_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-53	Req-2240_3_shark-43	Req-2240_3_shark-53_5166	3	Req-2240_3_shark-43_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-53	Req-2240_3_shark-53	Req-2240_3_shark-53_5166	3	Req-2240_3_shark-53_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-53	Req-2240_3_shark-47	Req-2240_3_shark-53_5166	3	Req-2240_3_shark-47_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_sharks-8	Req-2240_3_shark-30	Req-2240_3_sharks-8_5166	3	Req-2240_3_shark-30_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-33	Req-2240_3_shark-56	Req-2240_3_shark-33_5166	3	Req-2240_3_shark-56_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-33	Req-2240_3_sharks-8	Req-2240_3_shark-33_5166	3	Req-2240_3_sharks-8_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-33	Req-2240_3_shark-68	Req-2240_3_shark-33_5166	3	Req-2240_3_shark-68_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-33	Req-2240_3_shark-63	Req-2240_3_shark-33_5166	3	Req-2240_3_shark-63_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-29	Req-2240_50_shark-59	Req-2240_50_shark-29_5166	50	Req-2240_50_shark-59_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-50	Req-2240_3_shark-50	Req-2240_3_shark-50_5166	3	Req-2240_3_shark-50_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-50	Req-2240_3_shark-53	Req-2240_3_shark-50_5166	3	Req-2240_3_shark-53_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-50	Req-2240_3_shark-56	Req-2240_3_shark-50_5166	3	Req-2240_3_shark-56_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-50	Req-2240_3_shark-59	Req-2240_3_shark-50_5166	3	Req-2240_3_shark-59_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-50	Req-2240_3_shark-63	Req-2240_3_shark-50_5166	3	Req-2240_3_shark-63_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-50	Req-2240_3_shark-68	Req-2240_3_shark-50_5166	3	Req-2240_3_shark-68_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-53	Req-2240_3_shark-33	Req-2240_3_shark-53_5166	3	Req-2240_3_shark-33_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_66_sharks-22	Lem-ec0f_66_sharks-22	Lem-ec0f_66_sharks-22_5166	66	Lem-ec0f_66_sharks-22_5464	66	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_20_sharks-7	Lem-ec0f_20_sharks-7	Lem-ec0f_20_sharks-7_5166	20	Lem-ec0f_20_sharks-7_5464	20	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-36	Req-2240_3_shark-59	Req-2240_3_shark-36_5166	3	Req-2240_3_shark-59_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-63	Req-2240_3_sharks-8	Req-2240_3_shark-63_5166	3	Req-2240_3_sharks-8_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-27	Req-2240_3_shark-33	Req-2240_3_shark-27_5166	3	Req-2240_3_shark-33_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-27	Req-2240_3_shark-30	Req-2240_3_shark-27_5166	3	Req-2240_3_shark-30_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_sharks-8	Req-2240_3_shark-53	Req-2240_3_sharks-8_5166	3	Req-2240_3_shark-53_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_sharks-8	Req-2240_3_shark-50	Req-2240_3_sharks-8_5166	3	Req-2240_3_shark-50_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_sharks-8	Req-2240_3_shark-47	Req-2240_3_sharks-8_5166	3	Req-2240_3_shark-47_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_sharks-8	Req-2240_3_shark-43	Req-2240_3_sharks-8_5166	3	Req-2240_3_shark-43_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-36	Req-2240_3_shark-39	Req-2240_3_shark-36_5166	3	Req-2240_3_shark-39_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-36	Req-2240_3_shark-43	Req-2240_3_shark-36_5166	3	Req-2240_3_shark-43_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-36	Req-2240_3_shark-47	Req-2240_3_shark-36_5166	3	Req-2240_3_shark-47_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-36	Req-2240_3_shark-50	Req-2240_3_shark-36_5166	3	Req-2240_3_shark-50_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-36	Req-2240_3_shark-53	Req-2240_3_shark-36_5166	3	Req-2240_3_shark-53_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-36	Req-2240_3_shark-56	Req-2240_3_shark-36_5166	3	Req-2240_3_shark-56_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-36	Req-2240_3_shark-63	Req-2240_3_shark-36_5166	3	Req-2240_3_shark-63_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_26_sharks-5	Lem-ec0f_26_sharks-5	Lem-ec0f_26_sharks-5_5166	26	Lem-ec0f_26_sharks-5_5464	26	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-36	Req-2240_3_shark-68	Req-2240_3_shark-36_5166	3	Req-2240_3_shark-68_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-53	Req-2240_3_shark-68	Req-2240_3_shark-53_5166	3	Req-2240_3_shark-68_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-33	Req-2240_3_shark-47	Req-2240_3_shark-33_5166	3	Req-2240_3_shark-47_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-33	Req-2240_3_shark-50	Req-2240_3_shark-33_5166	3	Req-2240_3_shark-50_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-33	Req-2240_3_shark-53	Req-2240_3_shark-33_5166	3	Req-2240_3_shark-53_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-53	Req-2240_3_shark-50	Req-2240_3_shark-53_5166	3	Req-2240_3_shark-50_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-41	Req-2240_50_shark-87	Req-2240_50_shark-41_5166	50	Req-2240_50_shark-87_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-68	Req-2240_3_shark-30	Req-2240_3_shark-68_5166	3	Req-2240_3_shark-30_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-27	Req-2240_3_shark-39	Req-2240_3_shark-27_5166	3	Req-2240_3_shark-39_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-27	Req-2240_3_shark-43	Req-2240_3_shark-27_5166	3	Req-2240_3_shark-43_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-47	Req-2240_3_shark-43	Req-2240_3_shark-47_5166	3	Req-2240_3_shark-43_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-87	Req-2240_50_shark-87	Req-2240_50_shark-87_5166	50	Req-2240_50_shark-87_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-68	Req-2240_3_shark-27	Req-2240_3_shark-68_5166	3	Req-2240_3_shark-27_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-63	Req-2240_3_shark-68	Req-2240_3_shark-63_5166	3	Req-2240_3_shark-68_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-63	Req-2240_3_shark-63	Req-2240_3_shark-63_5166	3	Req-2240_3_shark-63_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-9	Req-2240_50_shark-76	Req-2240_50_shark-9_5166	50	Req-2240_50_shark-76_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-33	Req-2240_3_shark-36	Req-2240_3_shark-33_5166	3	Req-2240_3_shark-36_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-30	Req-2240_3_shark-56	Req-2240_3_shark-30_5166	3	Req-2240_3_shark-56_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-33	Req-2240_3_shark-27	Req-2240_3_shark-33_5166	3	Req-2240_3_shark-27_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-33	Req-2240_3_shark-30	Req-2240_3_shark-33_5166	3	Req-2240_3_shark-30_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-33	Req-2240_3_shark-33	Req-2240_3_shark-33_5166	3	Req-2240_3_shark-33_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-33	Req-2240_3_shark-39	Req-2240_3_shark-33_5166	3	Req-2240_3_shark-39_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-9	Req-2240_50_shark-87	Req-2240_50_shark-9_5166	50	Req-2240_50_shark-87_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-33	Req-2240_3_shark-43	Req-2240_3_shark-33_5166	3	Req-2240_3_shark-43_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-36	Req-2240_3_shark-27	Req-2240_3_shark-36_5166	3	Req-2240_3_shark-27_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-36	Req-2240_3_shark-30	Req-2240_3_shark-36_5166	3	Req-2240_3_shark-30_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-36	Req-2240_3_shark-33	Req-2240_3_shark-36_5166	3	Req-2240_3_shark-33_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-36	Req-2240_3_shark-36	Req-2240_3_shark-36_5166	3	Req-2240_3_shark-36_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-9	Req-2240_50_shark-9	Req-2240_50_shark-9_5166	50	Req-2240_50_shark-9_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-87	Req-2240_50_shark-41	Req-2240_50_shark-87_5166	50	Req-2240_50_shark-41_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-27	Req-2240_3_shark-50	Req-2240_3_shark-27_5166	3	Req-2240_3_shark-50_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-47	Req-2240_3_shark-36	Req-2240_3_shark-47_5166	3	Req-2240_3_shark-36_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-47	Req-2240_3_shark-30	Req-2240_3_shark-47_5166	3	Req-2240_3_shark-30_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-47	Req-2240_3_shark-27	Req-2240_3_shark-47_5166	3	Req-2240_3_shark-27_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-43	Req-2240_3_shark-47	Req-2240_3_shark-43_5166	3	Req-2240_3_shark-47_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-43	Req-2240_3_shark-43	Req-2240_3_shark-43_5166	3	Req-2240_3_shark-43_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-43	Req-2240_3_shark-39	Req-2240_3_shark-43_5166	3	Req-2240_3_shark-39_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-43	Req-2240_3_shark-36	Req-2240_3_shark-43_5166	3	Req-2240_3_shark-36_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_sharks-8	Req-2240_3_shark-33	Req-2240_3_sharks-8_5166	3	Req-2240_3_shark-33_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_sharks-8	Req-2240_3_shark-39	Req-2240_3_sharks-8_5166	3	Req-2240_3_shark-39_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-87	Req-2240_50_shark-9	Req-2240_50_shark-87_5166	50	Req-2240_50_shark-9_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-41	Req-2240_50_shark-59	Req-2240_50_shark-41_5166	50	Req-2240_50_shark-59_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-68	Req-2240_3_shark-33	Req-2240_3_shark-68_5166	3	Req-2240_3_shark-33_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-63	Req-2240_3_shark-33	Req-2240_3_shark-63_5166	3	Req-2240_3_shark-33_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-63	Req-2240_3_shark-39	Req-2240_3_shark-63_5166	3	Req-2240_3_shark-39_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-63	Req-2240_3_shark-59	Req-2240_3_shark-63_5166	3	Req-2240_3_shark-59_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-63	Req-2240_3_shark-56	Req-2240_3_shark-63_5166	3	Req-2240_3_shark-56_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-47	Req-2240_3_sharks-8	Req-2240_3_shark-47_5166	3	Req-2240_3_sharks-8_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-47	Req-2240_3_shark-63	Req-2240_3_shark-47_5166	3	Req-2240_3_shark-63_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-47	Req-2240_3_shark-59	Req-2240_3_shark-47_5166	3	Req-2240_3_shark-59_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-47	Req-2240_3_shark-56	Req-2240_3_shark-47_5166	3	Req-2240_3_shark-56_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-47	Req-2240_3_shark-53	Req-2240_3_shark-47_5166	3	Req-2240_3_shark-53_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-47	Req-2240_3_shark-50	Req-2240_3_shark-47_5166	3	Req-2240_3_shark-50_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-47	Req-2240_3_shark-47	Req-2240_3_shark-47_5166	3	Req-2240_3_shark-47_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-30	Req-2240_3_shark-47	Req-2240_3_shark-30_5166	3	Req-2240_3_shark-47_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-30	Req-2240_3_shark-36	Req-2240_3_shark-30_5166	3	Req-2240_3_shark-36_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-30	Req-2240_3_shark-53	Req-2240_3_shark-30_5166	3	Req-2240_3_shark-53_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_sharks-8	Req-2240_3_shark-36	Req-2240_3_sharks-8_5166	3	Req-2240_3_shark-36_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_sharks-8	Req-2240_3_shark-56	Req-2240_3_sharks-8_5166	3	Req-2240_3_shark-56_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-47	Req-2240_3_shark-68	Req-2240_3_shark-47_5166	3	Req-2240_3_shark-68_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-43	Req-2240_3_shark-50	Req-2240_3_shark-43_5166	3	Req-2240_3_shark-50_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-41	Req-2240_50_shark-41	Req-2240_50_shark-41_5166	50	Req-2240_50_shark-41_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-27	Req-2240_3_shark-27	Req-2240_3_shark-27_5166	3	Req-2240_3_shark-27_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_17_shark-3	Lem-ec0f_17_shark-3	Lem-ec0f_17_shark-3_5166	17	Lem-ec0f_17_shark-3_5464	17	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_2_shark-12	Lem-ec0f_2_shark-12	Lem-ec0f_2_shark-12_5166	2	Lem-ec0f_2_shark-12_5464	2	0	lemon shark	sharks	100.0
+taxongroup	Lem-ec0f_28_sharks-3	Lem-ec0f_28_sharks-3	Lem-ec0f_28_sharks-3_5166	28	Lem-ec0f_28_sharks-3_5464	28	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-50	Req-2240_3_shark-47	Req-2240_3_shark-50_5166	3	Req-2240_3_shark-47_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-63	Req-2240_3_shark-36	Req-2240_3_shark-63_5166	3	Req-2240_3_shark-36_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-63	Req-2240_3_shark-30	Req-2240_3_shark-63_5166	3	Req-2240_3_shark-30_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-27	Req-2240_3_shark-53	Req-2240_3_shark-27_5166	3	Req-2240_3_shark-53_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-63	Req-2240_3_shark-27	Req-2240_3_shark-63_5166	3	Req-2240_3_shark-27_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-43	Req-2240_3_shark-27	Req-2240_3_shark-43_5166	3	Req-2240_3_shark-27_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-27	Req-2240_3_shark-47	Req-2240_3_shark-27_5166	3	Req-2240_3_shark-47_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-43	Req-2240_3_shark-30	Req-2240_3_shark-43_5166	3	Req-2240_3_shark-30_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-43	Req-2240_3_shark-33	Req-2240_3_shark-43_5166	3	Req-2240_3_shark-33_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-68	Req-2240_3_shark-36	Req-2240_3_shark-68_5166	3	Req-2240_3_shark-36_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-68	Req-2240_3_shark-39	Req-2240_3_shark-68_5166	3	Req-2240_3_shark-39_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-47	Req-2240_3_shark-33	Req-2240_3_shark-47_5166	3	Req-2240_3_shark-33_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-47	Req-2240_3_shark-39	Req-2240_3_shark-47_5166	3	Req-2240_3_shark-39_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-41	Req-2240_50_shark-9	Req-2240_50_shark-41_5166	50	Req-2240_50_shark-9_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-41	Req-2240_50_shark-29	Req-2240_50_shark-41_5166	50	Req-2240_50_shark-29_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-63	Req-2240_3_shark-53	Req-2240_3_shark-63_5166	3	Req-2240_3_shark-53_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-63	Req-2240_3_shark-50	Req-2240_3_shark-63_5166	3	Req-2240_3_shark-50_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-63	Req-2240_3_shark-47	Req-2240_3_shark-63_5166	3	Req-2240_3_shark-47_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-63	Req-2240_3_shark-43	Req-2240_3_shark-63_5166	3	Req-2240_3_shark-43_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-43	Req-2240_3_shark-59	Req-2240_3_shark-43_5166	3	Req-2240_3_shark-59_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-43	Req-2240_3_shark-56	Req-2240_3_shark-43_5166	3	Req-2240_3_shark-56_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-43	Req-2240_3_shark-53	Req-2240_3_shark-43_5166	3	Req-2240_3_shark-53_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-76	Req-2240_50_shark-29	Req-2240_50_shark-76_5166	50	Req-2240_50_shark-29_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-76	Req-2240_50_shark-41	Req-2240_50_shark-76_5166	50	Req-2240_50_shark-41_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-27	Req-2240_3_shark-56	Req-2240_3_shark-27_5166	3	Req-2240_3_shark-56_5464	3	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-87	Req-2240_50_shark-29	Req-2240_50_shark-87_5166	50	Req-2240_50_shark-29_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-87	Req-2240_50_shark-59	Req-2240_50_shark-87_5166	50	Req-2240_50_shark-59_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_50_shark-87	Req-2240_50_shark-76	Req-2240_50_shark-87_5166	50	Req-2240_50_shark-76_5464	50	0	lemon shark	sharks	100.0
+taxongroup	Req-2240_3_shark-27	Req-2240_3_shark-36	Req-2240_3_shark-27_5166	3	Req-2240_3_shark-36_5464	3	0	lemon shark	sharks	100.0

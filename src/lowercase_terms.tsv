@@ -1,0 +1,1890 @@
+	0
+0	learning
+1	migration
+2	hierarchical
+3	acoustic communication
+4	herbivorous
+5	maternal care
+6	nomadic
+7	polygynous
+8	social
+9	seed dispersal
+10	chemical communication
+11	sexual dimorphism
+12	heat tolerant
+13	tool use
+14	visual communication
+15	viviparous
+16	mammalia
+17	mammals
+18	australasia
+19	nearctic
+20	neotropical
+21	palaearctic
+22	palearctic
+23	elephants
+24	elephant
+25	desert
+26	flooded grassland
+27	marsh
+28	swamp
+29	tropical dry forest
+30	tropical grassland
+31	rainforest
+32	animals
+33	metazoa
+34	mink
+35	barn owl
+36	common barn owl
+37	screech owl
+38	white owl
+39	bearded tit
+40	bearded parrotbill
+41	bearded reedling 
+42	buff-tailed bumblebee
+43	large earth bumblebee
+44	brown rat
+45	common rat
+46	sewer rat
+47	wharf rat
+48	buff-necked ibis
+49	white-throated ibis
+50	capybara
+51	common crane
+52	common cuckoo
+53	common frog
+54	brown frog
+55	grass frog
+56	kestrel
+57	common moorhen
+58	common waterhen
+59	pheasant
+60	common pheasant
+61	common ringed plover
+62	common toad
+63	puma
+64	catamount
+65	cougar
+66	mountain lion
+67	red tiger
+68	yellow anaconda
+69	coot
+70	common coot
+71	reed warbler
+72	polecat
+73	mustela putorius
+74	fallow deer
+75	giant river otter
+76	golden eagle
+77	grasshopper warbler
+78	grass snake
+79	ringed snake
+80	water snake
+81	great northern diver
+82	common loon
+83	great northern loon
+84	harris hawk
+85	bay-winged hawk
+86	dusky hawk
+87	hen harrier
+88	northern harrier
+89	highland midge
+90	little egret
+91	little ringed plover
+92	mallard
+93	wild duck
+94	marsh frog
+95	merlin
+96	pigeon hawk
+97	mute swan
+98	bank vole
+99	natterjack toad 
+100	green-eyed hawker
+101	common otter
+102	northern river otter
+103	lapwing
+104	green plover
+105	northern lapwing
+106	peewit
+107	swallowtail
+108	common yellow swallowtail
+109	osprey
+110	black-tailed python
+111	raccoon
+112	common raccoon
+113	northern raccoon
+114	red-crowned crane
+115	sedge warbler
+116	shoebill
+117	whale-headed stork
+118	snow crane
+119	sika deer
+120	spotted deer
+121	skylark
+122	smoky jungle frog
+123	snow goose
+124	blue goose
+125	snowy owl
+126	arctic owl
+127	soprano pipistrelle
+128	spectacled caiman
+129	common caiman
+130	white caiman
+131	star-nosed mole
+132	stinging nettle
+133	common nettle
+134	tiger
+135	painted lady
+136	cosmopolitan
+137	adder
+138	common viper
+139	water buffalo
+140	river buffalo
+141	swamp buffalo
+142	wild water buffalo
+143	water rail
+144	marsh harrier
+145	western marsh harrier
+146	wild turkey
+147	wren
+148	troglodytes troglodytes
+149	northern wren
+150	winter wren
+151	wood stork
+152	proboscidea
+153	chordata
+154	vertebrates
+155	shedding body parts
+156	paternal care
+157	helpless young
+158	ambush predator
+159	culture
+160	language
+161	warning colours
+162	adapted to swimming
+163	tree dweller
+164	asexual reproduction
+165	bioluminescence
+166	camouflage
+167	carnivorous
+168	adapted to climbing
+169	colonial
+170	courtship display
+171	air plant
+172	aestivation
+173	eusocial
+174	flowering
+175	burrower
+176	tactile sense
+177	hermaphroditic
+178	hibernation
+179	food storage
+180	kleptoparasitic
+181	metamorphosis
+182	mimicry
+183	monogamous
+184	moulting
+185	neoteny
+186	nocturnal
+187	egg layer
+188	ovoviviparous
+189	parasitic
+190	parental investment
+191	parthenogenetic
+192	poisonous
+193	pollinator
+194	polygynandrous
+195	polymorphism
+196	predator
+197	adapted to running
+198	scavenger
+199	semelparous
+200	sessile
+201	spawning
+202	swarming
+203	symbiotic
+204	territorial
+205	torpor
+206	cave dweller
+207	venomous
+208	actinopterygii
+209	ray-finned fishes
+210	amphibia
+211	amphibians
+212	arachnids
+213	aves
+214	birds
+215	bivalvia
+216	cephalaspidomorphi
+217	lampreys
+218	cephalopoda
+219	cephalopods
+220	cartilaginous fish
+221	clitellata
+222	dicotyledons
+223	dicots
+224	gastropoda
+225	snails and slugs
+226	gastropod molluscs
+227	insects
+228	scyphozoa
+229	jellyfish
+230	jellies
+231	scyphozoans
+232	true jellyfish
+233	malacostraca
+234	malacostracans
+235	monocotyledons
+236	monocots
+237	polychaete worms
+238	bristle worms
+239	reptilia
+240	reptiles
+241	sarcopterygii
+242	lobe-finned fishes
+243	asteroidea
+244	starfish
+245	echinoidea
+246	sea urchins
+247	synapsids
+248	mammal-like reptiles
+249	antarctica
+250	abelisaurs
+251	agamid lizards
+252	albatrosses
+253	alligators and caimans
+254	amaryllidaceae
+255	anatidae
+256	ducks, geese and swans
+257	ants
+258	apidae
+259	bees 
+260	araceae
+261	asparagus family
+262	asteraceae
+263	atelidae
+264	auks
+265	balaenidae
+266	right whales
+267	bears
+268	birds of paradise
+269	mole rats
+270	blesmols
+271	boas and pythons
+272	bovids
+273	bovines
+274	otididae
+275	canidae
+276	dogs
+277	canines
+278	carcharodontosaurids
+279	shark-toothed lizards
+280	cavies
+281	ceratopsidae
+282	chameleons
+283	characids
+284	characins
+285	plovers and lapwings
+286	dwarf and mouse lemurs
+287	dwarf lemurs
+288	mouse lemurs
+289	ladybirds
+290	lady beetles
+291	ladybugs
+292	colubrid snakes
+293	colubrids
+294	columbidae
+295	pigeons and doves
+296	conidae
+297	corvidae
+298	crows and ravens
+299	corvids
+300	crow family
+301	gruidae
+302	cranes
+303	crocodile family
+304	dasyuridae
+305	dasyurid marsupials
+306	deer
+307	dormice
+308	dromaeosauridae
+309	dromaeosaurs
+310	raptors
+311	sundew family
+312	fur seals and sea lions
+313	eared seals
+314	otariids
+315	phocidae
+316	true seals
+317	crawling seals
+318	elapidae
+319	elephant shrews
+320	jumping shrews
+321	sengis
+322	hedgehogs and moonrats
+323	gymnures
+324	fagaceae
+325	beech family
+326	felidae
+327	cats
+328	felids
+329	felines
+330	finches
+331	true finches
+332	fireflies
+333	glow-worms
+334	lightning bugs
+335	geckos
+336	gibbons
+337	lesser apes
+338	giraffids
+339	grebes
+340	laridae
+341	seagulls
+342	helicidae
+343	herons, egrets and bitterns
+344	great apes
+345	hominids
+346	horseshoe bats
+347	hummingbirds
+348	hyaenidae
+349	iguanas
+350	iniidae
+351	jumping spiders
+352	salticids
+353	lacertidae
+354	wall lizards
+355	lacertids
+356	true lizards
+357	lamnidae
+358	lemuridae
+359	true lemurs
+360	leporidae
+361	hares and rabbits
+362	lilies
+363	lily family
+364	plethodontidae
+365	lungless salamanders
+366	gossamer-winged butterflies
+367	kangaroos and wallabies
+368	macropods
+369	manakins
+370	manidae
+371	megabats
+372	megapodiidae
+373	megapodes
+374	incubator birds
+375	mound builders
+376	mongooses
+377	white whales
+378	muridae
+379	weasel family
+380	mustelids
+381	cathartidae
+382	brush-footed butterflies
+383	oceanic dolphins
+384	octopodidae
+385	old world monkeys
+386	orb weavers
+387	orb spiders
+388	orchids
+389	orchid family
+390	penguins
+391	pheasants and partridges
+392	cebidae
+393	titis, sakis and uakaris
+394	grasses
+395	petrels and shearwaters
+396	protoceratopsidae
+397	requiem sharks
+398	rhinoceroses
+399	rhinos
+400	rorqual family
+401	rose family
+402	roses
+403	true salamanders and newts
+404	salmon family
+405	squirrels
+406	sea turtles
+407	soricidae
+408	suidae
+409	sulidae
+410	swallows and martins
+411	papilionidae
+412	apodidae
+413	syngnathidae
+414	seahorses and pipefish
+415	moles and desmans
+416	tarantulas
+417	tarsiidae
+418	taxaceae
+419	sternidae
+420	therizinosaurs
+421	paridae
+422	tits and chickadees
+423	tortoises
+424	ranidae
+425	true frogs
+426	strigidae
+427	true owls
+428	typical owls
+429	true parrots
+430	true toads
+431	toads
+432	tyrannosauridae
+433	tyrannosaurs
+434	vesper bats
+435	evening bats
+436	wasps
+437	vipers
+438	lycosidae
+439	woodpeckers
+440	accipiter
+441	acinonyx
+442	acrocephalus
+443	aeshna
+444	aix
+445	alauda
+446	alcedo
+447	alectoris
+448	allium
+449	anas
+450	anguis
+451	anser
+452	antilocapra
+453	aptenodytes
+454	great penguins
+455	apus
+456	aquila
+457	araneus
+458	southern fur seals
+459	ardea
+460	argynnis
+461	asio
+462	eared owls
+463	athene
+464	aurelia
+465	recurvirostra
+466	papio
+467	baboons
+468	balaena
+469	balaenoptera
+470	rorquals
+471	banded penguins
+472	castor
+473	beavers
+474	fagus
+475	boa
+476	bos
+477	botaurus
+478	bottlenose dolphins
+479	branta
+480	black geese
+481	brent geese
+482	bombus
+483	bumblebees
+484	bumble bee
+485	burhinus
+486	buteo
+487	caiman
+488	calopteryx
+489	camelus
+490	camels
+491	canis
+492	capra
+493	ibex and goats
+494	capreolus
+495	caprimulgus
+496	cebus
+497	capuchin monkeys
+498	capuchins
+499	carduelis
+500	goldfinches
+501	certhia
+502	cervus
+503	cetorhinus
+504	ringed plovers
+505	chelonia
+506	chen
+507	pan
+508	chimpanzees
+509	chimps
+510	pyrrhocorax
+511	coelodonta
+512	columba
+513	typical pigeons
+514	delphinus
+515	fulica
+516	phalacrocorax
+517	corvus
+518	true crows
+519	crested penguins
+520	crocodylus
+521	crocodiles
+522	crocuta
+523	culicoides
+524	dama
+525	cinclus
+526	dytiscus
+527	echis
+528	eciton
+529	egretta
+530	ulmus
+531	engraulis
+532	eptesicus
+533	equus
+534	erithacus
+535	euophrys
+536	eurycea
+537	falco
+538	felis
+539	ficedula
+540	flamingos
+541	formica
+542	wood ants
+543	field ants
+544	mound ants
+545	fringilla
+546	fritillaria
+547	furcifer
+548	morus
+549	gannets
+550	garrulus
+551	gavialis
+552	glis
+553	bucephala
+554	gonepteryx
+555	gorilla
+556	gorillas
+557	grus
+558	gulo
+559	lepus
+560	circus
+561	harriers
+562	helix
+563	hippopotamus
+564	hirundo
+565	homo
+566	man
+567	bubo
+568	horned owls
+569	vespa
+570	hypericum
+571	inia
+572	regulus
+573	rissa
+574	apteryx
+575	kiwis
+576	lacerta
+577	lagopus
+578	lama
+579	lampetra
+580	larus
+581	gulls
+582	lasius
+583	laticauda
+584	sea kraits
+585	leaf warblers
+586	leptodactylus
+587	ditch frogs
+588	foam-nest frogs
+589	white-lipped frogs
+590	gavia
+591	divers
+592	loons
+593	luscinia
+594	lutra
+595	lutungs
+596	lynx
+597	macaques
+598	macropus
+599	mammoths
+600	acer 
+601	dolichotis
+602	martes
+603	mammut
+604	milvus
+605	monachus
+606	varanus
+607	monitor lizards
+608	monodon
+609	gallinula
+610	motacilla
+611	wagtails
+612	myotis
+613	microcebus
+614	mycteria
+615	naja
+616	cobras
+617	narcissus
+618	nasua
+619	coatis
+620	natrix
+621	nestor
+622	urtica
+623	quercus
+624	oaks
+625	ophiophagus
+626	pongo
+627	orangutans
+628	otis
+629	ovis
+630	sheep
+631	panthera
+632	roaring cats
+633	great cats
+634	papilio
+635	paradisaea
+636	parotia
+637	parus
+638	passer
+639	pavo
+640	petaurus
+641	phasianus
+642	phocoena
+643	phoenicurus
+644	physeter
+645	pica
+646	picus
+647	ochotona
+648	pinus
+649	pines
+650	pipistrellus
+651	pipra
+652	podiceps
+653	prairie dogs
+654	fratercula
+655	puffinus
+656	shearwaters
+657	pusa
+658	pygoscelis
+659	brush-tailed penguins
+660	pyrrhula
+661	python
+662	pythons
+663	quelea
+664	rallus
+665	rana
+666	rattus
+667	rhinoceros
+668	rhinolophus
+669	rhynchocyon
+670	riparia
+671	rock wallabies
+672	salmo
+673	chats
+674	stonechats
+675	sciurus
+676	bushy-tailed squirrels
+677	haliaeetus
+678	sea eagles
+679	fish eagles
+680	hippocampus
+681	sepia
+682	propithecus
+683	sifakas
+684	snub-nosed monkeys
+685	sorex
+686	spermophilus
+687	spotted dolphins
+688	bridled dolphins
+689	spinner dolphins
+690	striped dolphins
+691	sterna
+692	turtle doves
+693	strix
+694	earless owls
+695	wood owls
+696	sturnus
+697	cygnus
+698	swans
+699	talpa
+700	taxus
+701	tetrao
+702	theraphosa
+703	three-toed sloths
+704	tolypeutes
+705	tragopan
+706	tree-kangaroos
+707	troglodytes
+708	turdus
+709	thrushes
+710	meleagris
+711	sylvia
+712	uria
+713	guillemots
+714	murres
+715	ursus
+716	vanellus
+717	vespula
+718	vipera
+719	vulpes
+720	true foxes
+721	bombycilla
+722	mustela
+723	weasels
+724	oak wood
+725	farmland
+726	sea bed
+727	bog
+728	brackish water
+729	brownfield land
+730	coastal
+731	deep ocean
+732	beech wood
+733	estuaries
+734	heathland
+735	hedgerows
+736	hydrothermal vents
+737	intertidal zone
+738	lakes and ponds
+739	limestone pavements
+740	mangroves
+741	wildflower meadow
+742	moorland
+743	mountains
+744	shallow seas
+745	parkland
+746	open ocean
+747	polar
+748	reefs
+749	rivers and streams
+750	taiga
+751	broadleaf forest
+752	coniferous forest
+753	temperate grassland
+754	tropical coniferous forest
+755	tundra
+756	urban
+757	temporary pools
+758	wetlands
+759	ceratopsia
+760	horned dinosaurs
+761	anisoptera
+762	dragonflies
+763	lemurs
+764	ornithopoda
+765	ornithopod dinosaurs
+766	sauropoda
+767	sauropod dinosaurs
+768	stegosauria
+769	fungi
+770	plants
+771	aardvark
+772	antbear
+773	anteater
+774	earth pig
+775	acacias
+776	acacia
+777	wattles
+778	death adders
+779	sycamore
+780	plane tree
+781	sycamore maple
+782	baobabs
+783	adansonia
+784	boab
+785	bottle tree
+786	monkey bread tree
+787	desert rose
+788	impala lily
+789	kudu
+790	mock azalea
+791	horse chestnut
+792	conker tree
+793	buffalo
+794	cape buffalo
+795	forest buffalo
+796	fish eagle
+797	forest elephant
+798	black-footed penguin
+799	jackass penguin
+800	african wild dog
+801	painted hunting dog
+802	painted wolf
+803	agamas
+804	agama
+805	agile gibbon
+806	black-handed gibbon
+807	allosaurus
+808	black lace-weaver
+809	boto
+810	bouto
+811	pink dolphin
+812	pink river dolphin
+813	black bear
+814	ammonites
+815	anglerfish
+816	slow worm
+817	blindworm
+818	ankylosaurs
+819	ankylosauria
+820	segmented worms
+821	annelida
+822	annelid worms
+823	antarctic fur seal
+824	southern minke whale
+825	spotted python
+826	corals and sea anemones
+827	anthozoa
+828	brontosaurus
+829	aphids
+830	blackfly
+831	greenfly
+832	plant lice
+833	apodiformes
+834	fungus gnats
+835	pirarucu
+836	arapaima
+837	archaeopteryx
+838	arctic fox
+839	polar fox
+840	snow fox
+841	white fox
+842	arctic ground squirrel
+843	tsik-tsik
+844	parasitic jaeger
+845	arctic tern
+846	mountain sheep
+847	armadillos
+848	cingulata
+849	arthropods
+850	arthropoda
+851	puffin
+852	common puffin
+853	billfish
+854	ocean gar
+855	leaf-cutter ants
+856	atta
+857	leafcutter ants
+858	common jellyfish
+859	moon jelly
+860	moon jellyfish
+861	saucer jelly
+862	cattle and aurochs
+863	cows
+864	domestic cattle
+865	wild cattle
+866	giant cuttlefish
+867	white-clawed crayfish
+868	aye-aye
+869	bactrian camel
+870	nerpa
+871	bald uakari
+872	red uakari
+873	bamboo
+874	banded demoiselle
+875	banded mongoose
+876	rock ape
+877	bar-headed goose
+878	barnacle goose
+879	swallow
+880	barn swallow
+881	basking shark
+882	bats
+883	chiroptera
+884	lammergeier
+885	bear dogs
+886	beetles
+887	coleoptera
+888	beluga whale
+889	sea canary
+890	white whale
+891	bharal
+892	bighorn sheep
+893	black-banded sea krait
+894	erabu
+895	blackberry
+896	bramble
+897	black-browed albatross
+898	black-browed mollymawk
+899	blackbuck
+900	blackcap
+901	black-crested gibbon
+902	black-footed rock-wallaby
+903	black-flanked rock-wallaby
+904	warru
+905	black garden ant
+906	black grouse
+907	black cock
+908	blackgame
+909	kittiwake
+910	black-legged kittiwake
+911	black mamba
+912	black-necked grebe
+913	eared grebe
+914	black rhinoceros
+915	hook-lipped rhinoceros
+916	black snub-nosed monkey
+917	black-tailed prairie dog
+918	black-throated diver
+919	black-throated loon
+920	blue tit
+921	blue whale
+922	blue wildebeest
+923	brindled gnu
+924	white-bearded wildebeest
+925	boa constrictor
+926	waxwing
+927	mangrove cat snake
+928	gold-ringed cat snake
+929	mangrove snake
+930	bongo
+931	bonobo
+932	pygmy chimpanzee
+933	eyelash viper
+934	eyelash mountain viper
+935	eyelash palm-pitviper
+936	eyelash pit viper
+937	eyelash snake
+938	horned palm viper
+939	fer-de-lance
+940	terciopelo
+941	northern bottlenose whale
+942	bowhead whale
+943	lamp shells
+944	brachiopods
+945	brent goose
+946	black brant
+947	brant goose
+948	brown basilisk
+949	 common basilisk
+950	striped basilisk
+951	brown bear
+952	brown fur seal
+953	brown long-eared bat
+954	common long-eared bat
+955	brown-throated sloth
+956	brown-throated three-toed sloth
+957	brown trout
+958	sea trout
+959	common woolly monkey
+960	brown woolly monkey
+961	brush-tailed rock wallaby
+962	brycon
+963	burrowing owl
+964	burrowing parrot
+965	sexton beetles
+966	burying beetles
+967	bythograeidae
+968	caecilians
+969	gymnophiona
+970	canalipalpata
+971	fan-head worms
+972	ground sharks
+973	carnivora
+974	carnivorans
+975	carrion crow
+976	corvus corone
+977	catfish
+978	catfishes
+979	cerapoda
+980	whales, dolphins and porpoises
+981	cetacea
+982	chaffinch
+983	shorebirds
+984	cheetah
+985	chiffchaff
+986	common chiffchaff
+987	chinstrap penguin
+988	bearded penguin
+989	ringed penguin
+990	stonecracker penguin
+991	cichlid fish
+992	cichlidae
+993	clouded leopard
+994	clupeidae
+995	clupeid fish
+996	herrings and anchovies
+997	cnidaria
+998	cnidarians
+999	coal tit
+1000	seven-spot ladybird 
+1001	seven-spotted ladybug
+1002	coccolithophores
+1003	coccolithophorids
+1004	coccoliths
+1005	cockroaches
+1006	blattodea
+1007	coelophysis
+1008	blackbird
+1009	common blackbird
+1010	common blossom bat
+1011	common bluebell
+1012	common bottlenose dolphin
+1013	common buzzard
+1014	chimpanzee
+1015	common chimpanzee
+1016	common crossbill
+1017	red crossbill
+1018	common cuttlefish
+1019	goldeneye
+1020	common goldeneye
+1021	kingfisher
+1022	common kingfisher
+1023	river kingfisher
+1024	guillemot
+1025	common guillemot 
+1026	common murre
+1027	noctule bat
+1028	raven
+1029	common raven
+1030	northern raven
+1031	redstart
+1032	common redstart
+1033	firetail
+1034	common shrew
+1035	common swift
+1036	common vampire bat
+1037	vampire bat
+1038	cone snails
+1039	conus
+1040	cones
+1041	cone shells
+1042	kingfishers and hornbills
+1043	cordyceps
+1044	smooth snake
+1045	coyote
+1046	prairie wolf
+1047	crabeater seal
+1048	crab spiders
+1049	hawthorn
+1050	common hawthorn
+1051	haw
+1052	mayblossom
+1053	maythorn
+1054	crested tit
+1055	crest-tailed mulgara
+1056	ampurta
+1057	crocodilia
+1058	rattlesnakes
+1059	crotalus
+1060	rattlers
+1061	crowned eagle
+1062	crowned hawk-eagle
+1063	crowned lemur
+1064	crown-of-thorns starfish
+1065	cynodonts
+1066	cynodontia
+1067	thinhorn sheep
+1068	damaraland blesmol
+1069	dark green fritillary
+1070	water bat
+1071	decapod crustaceans
+1072	decapods
+1073	demoiselle crane
+1074	desert locust
+1075	dinosaurs
+1076	dinosauria
+1077	diplodocus
+1078	diprotodontids
+1079	dire wolf
+1080	raft spiders
+1081	dock spiders
+1082	fishing spiders
+1083	wharf spiders
+1084	dromedary camel
+1085	drongos
+1086	sundews
+1087	drosera
+1088	dugong
+1089	dung beetles
+1090	scarab beetles
+1091	dunnock
+1092	hedge accentor
+1093	hedge sparrow
+1094	hedge warbler
+1095	eastern gorilla
+1096	gorilla beringei
+1097	eastern lowland gorilla
+1098	mountain gorilla
+1099	grey squirrel
+1100	eastern gray squirrel
+1101	eastern grey kangaroo
+1102	echinoderms
+1103	sea lilies
+1104	saw-scaled viper
+1105	carpet viper
+1106	army ant
+1107	edible dormouse
+1108	fat dormouse
+1109	eeltail catfish
+1110	elephant birds
+1111	vorompatra
+1112	elk
+1113	wapiti
+1114	emperor penguin
+1115	entelodonts
+1116	hell pigs
+1117	terminator pigs
+1118	cottongrass
+1119	cottonsedge
+1120	red fox
+1121	red jackal
+1122	eucalyptus trees
+1123	eucalyptus
+1124	gum trees
+1125	bittern
+1126	great bittern
+1127	bullfinch
+1128	common bullfinch
+1129	collared dove
+1130	harvest mouse
+1131	hobby
+1132	jay
+1133	lynx lynx
+1134	northern lynx
+1135	oystercatcher
+1136	common pied oystercatcher
+1137	sea pie
+1138	siskin
+1139	sparrowhawk
+1140	stone curlew
+1141	treecreeper
+1142	common treecreeper
+1143	badger
+1144	common beech
+1145	beech
+1146	brook lamprey
+1147	western brook lamprey
+1148	garden spider
+1149	cross spider
+1150	diadem spider
+1151	goldfinch
+1152	greenfinch
+1153	hare
+1154	brown hare
+1155	hedgehog
+1156	western honey bee
+1157	hornet
+1158	giant hornet
+1159	magpie
+1160	common magpie
+1161	mole
+1162	common mole
+1163	northern mole
+1164	nightjar
+1165	otter
+1166	pied flycatcher
+1167	pine marten
+1168	martes martes
+1169	rabbit
+1170	bunny
+1171	robin
+1172	starling
+1173	common starling
+1174	stonechat
+1175	common stonechat
+1176	storm petrel
+1177	water rat
+1178	water vole
+1179	sea scorpions
+1180	even-toed ungulates
+1181	artiodactyla
+1182	birds of prey
+1183	fieldfare
+1184	field vole
+1185	flowering plants
+1186	angiosperms 
+1187	flies
+1188	diptera
+1189	true flies
+1190	flying fish
+1191	fork-marked lemurs
+1192	phaner
+1193	fork-crowned lemurs
+1194	wood ant
+1195	hairy wood ant
+1196	fossa
+1197	frilled lizard
+1198	frilled dragon
+1199	frill-necked lizard
+1200	checkered daffodil
+1201	chess flower
+1202	frog-cup
+1203	leper lily
+1204	frogs and toads
+1205	anura
+1206	anurans
+1207	frogfish
+1208	snowdrop
+1209	common snowdrop
+1210	dark-rumped petrel
+1211	gamebirds
+1212	galliformes
+1213	galliforms
+1214	gamefowl
+1215	landfowl
+1216	garden warbler
+1217	gatekeeper butterfly
+1218	hedge brown
+1219	golden langur
+1220	gelada baboon
+1221	gentoo penguin
+1222	gharial
+1223	gavial
+1224	giant anteater
+1225	giant panda
+1226	giant tube worm
+1227	giraffe
+1228	giraffe weevil
+1229	glyptodonts
+1230	gobies
+1231	goldcrest
+1232	golden snub-nosed monkey
+1233	goliath birdeater
+1234	brimstone
+1235	gonepteryx rhamni
+1236	common brimstone
+1237	goose barnacles
+1238	stalked barnacles
+1239	gopher tortoise
+1240	giant-striped mongoose
+1241	vontsira 
+1242	grey langurs
+1243	gray langurs
+1244	hanuman langurs
+1245	grey mouse lemur
+1246	gray mouse lemur
+1247	lesser mouse lemur
+1248	grey seal
+1249	horsehead seal
+1250	grey whale
+1251	devil fish
+1252	gray back
+1253	gray whale
+1254	mussel digger
+1255	rip sack
+1256	grey wolf
+1257	great black-backed gull
+1258	great bustard
+1259	great crested grebe
+1260	great crested newt
+1261	northern crested newt
+1262	warty newt
+1263	great diving beetle
+1264	greater bulldog bat
+1265	fisherman bat
+1266	greater flamingo
+1267	great grey owl
+1268	great spotted woodpecker
+1269	greater spotted woodpecker
+1270	great tit
+1271	great white shark
+1272	white pointer
+1273	white shark
+1274	green sea turtle
+1275	green turtle
+1276	green woodpecker
+1277	grey-faced sengi
+1278	grey heron
+1279	grey wagtail
+1280	dumbo octopuses
+1281	grimpoteuthis
+1282	ground beetles
+1283	carabidae
+1284	carabids
+1285	guanaco
+1286	duck-billed dinosaurs
+1287	hadrosaurs
+1288	hamadryas baboon
+1289	sacred baboon
+1290	hammerhead sharks
+1291	common seal
+1292	harbor seal
+1293	harbour seal
+1294	harbour porpoise
+1295	common porpoise
+1296	harbor porpoise
+1297	harlequin ladybird
+1298	harpy eagle
+1299	dormouse
+1300	common dormouse
+1301	hazel dormouse
+1302	garden snail
+1303	brown garden snail
+1304	true bugs
+1305	hemiptera
+1306	hermit crabs
+1307	herring gull
+1308	high brown fritillary
+1309	honey buzzard
+1310	pern
+1311	hooded crow
+1312	corbie
+1313	grey crow
+1314	hoodie
+1315	house sparrow
+1316	human
+1317	human beings
+1318	people
+1319	jumbo flying squid
+1320	jumbo squid
+1321	red devil
+1322	humpback whale
+1323	huntsman spiders
+1324	giant crab spiders
+1325	rain spiders
+1326	wood spiders
+1327	ants, bees and wasps
+1328	hymenoptera
+1329	ichthyosaurs
+1330	ichthyosauria
+1331	iguanodon
+1332	peacock butterfly
+1333	peacock
+1334	blue peafowl
+1335	common peafowl
+1336	indri
+1337	indri indri
+1338	babakoto
+1339	inland taipan
+1340	fierce snake
+1341	giant deer
+1342	jackdaw
+1343	western jackdaw
+1344	jaguar
+1345	snow monkey
+1346	kagu
+1347	cagou
+1348	kakapo
+1349	owl parrot
+1350	kea
+1351	killer whale
+1352	blackfish
+1353	orca
+1354	king cobra
+1355	king penguin
+1356	kipunji
+1357	koala
+1358	hares, rabbits and pikas
+1359	lagomorpha
+1360	mackerel sharks
+1361	common glow-worm
+1362	large blue butterfly
+1363	large blue
+1364	cabbage white
+1365	cabbage butterfly
+1366	large cabbage white
+1367	large white
+1368	lar gibbon
+1369	white-handed gibbon
+1370	banded sea krait
+1371	colubrine sea krait
+1372	yellow-lipped sea krait
+1373	coelacanths
+1374	leafy sea dragon
+1375	weasel
+1376	common weasel
+1377	least weasel
+1378	lemmings
+1379	lemon shark
+1380	leopard cat
+1381	leopard
+1382	leopard seal
+1383	butterflies and moths
+1384	lepidoptera
+1385	lepidopterans
+1386	mountain chicken
+1387	giant ditch frog
+1388	lesser black-backed gull
+1389	lesser flamingo
+1390	lesser horseshoe bat
+1391	linnet
+1392	money spiders
+1393	sheet weavers
+1394	sheetweb spiders
+1395	lion
+1396	trapdoor spiders
+1397	little bent-wing bat
+1398	little long-fingered bat
+1399	little corella
+1400	bare-eyed cockatoo
+1401	little owl
+1402	lizards
+1403	common alplily
+1404	mountain spiderwort
+1405	long-eared hedgehog
+1406	long-eared owl
+1407	spiny seahorse
+1408	long-tailed tit
+1409	long-tailed bushtit
+1410	earthworms
+1411	lumbricid earthworms
+1412	macaroni penguin
+1413	macrauchenia
+1414	hummingbird hawk-moth
+1415	jackass
+1416	periodical cicadas
+1417	magicicada
+1418	magnificent frigatebird
+1419	spider crabs
+1420	malleefowl
+1421	mandarin duck
+1422	mandarin
+1423	maned wolf
+1424	manta ray
+1425	devilfish
+1426	devil ray
+1427	manta
+1428	praying mantis
+1429	mantodea
+1430	mantes
+1431	mantids
+1432	manx shearwater
+1433	marbled white
+1434	marine iguana
+1435	markhor
+1436	marsh fritillary
+1437	marvelous spatuletail
+1438	mason bees
+1439	osmia
+1440	mayflies
+1441	lake flies
+1442	shadflies
+1443	meerkat
+1444	suricate
+1445	microraptor
+1446	millipedes
+1447	moas
+1448	molluscs
+1449	mollusca
+1450	mollusks
+1451	monarch butterfly
+1452	milkweed butterfly
+1453	zeren
+1454	monocled cobra
+1455	naja kaouthia
+1456	monocellate cobra
+1457	amethystine python
+1458	scrub python
+1459	mosquitoes
+1460	mountain hare
+1461	blue hare
+1462	musk ox
+1463	naked mole rat
+1464	sand puppy
+1465	daffodil
+1466	wild daffodil
+1467	narwhal
+1468	nautiluses
+1469	nautilida
+1470	chambered nautilus
+1471	pearly nautilus
+1472	neanderthal
+1473	tropical pitcher plants
+1474	knob-tailed geckos
+1475	net-winged insects
+1476	neuroptera
+1477	nightingale
+1478	common nightingale
+1479	rufous nightingale
+1480	nile crocodile
+1481	fulmar
+1482	northern fulmar
+1483	northern gannet
+1484	gannet
+1485	northern goshawk
+1486	goshawk
+1487	octopuses
+1488	odd-toed ungulates
+1489	perissodactyla
+1490	perissodactyls
+1491	odonata
+1492	odonates
+1493	olive baboon
+1494	olive ridley turtle
+1495	bee orchids
+1496	ophrys
+1497	ophthalmosaurus
+1498	bird-hipped dinosaurs
+1499	ornithischia
+1500	bird-hipped
+1501	grasshoppers and crickets
+1502	orthoptera
+1503	bony fish
+1504	ostrich
+1505	owls
+1506	palmate newt
+1507	golden frog
+1508	pangolins
+1509	manis
+1510	scaly anteater
+1511	tenggiling
+1512	pantropical spotted dolphin
+1513	bridled dolphin
+1514	rooted poppy
+1515	yellow poppy
+1516	parrots
+1517	psittaciformes
+1518	psittacines
+1519	bess beetles
+1520	bessbugs
+1521	betsy beetles
+1522	horn beetles
+1523	horned passalus beetles
+1524	perching birds
+1525	passerine birds
+1526	passerines
+1527	song birds
+1528	passion flowers
+1529	passiflora
+1530	passion vines
+1531	patas monkey
+1532	hussar monkey
+1533	black-chinned dolphin
+1534	scallops
+1535	pectinidae
+1536	pelicans
+1537	perch-like fishes
+1538	milu
+1539	peregrine falcon
+1540	peregrine
+1541	perentie
+1542	phalanger
+1543	phalangers
+1544	crinoline stinkhorn
+1545	long net stinkhorn
+1546	veiled lady
+1547	stick insects
+1548	phasmatodea
+1549	phasmids
+1550	stick-bugs
+1551	walking sticks
+1552	terror birds
+1553	weedy sea dragon
+1554	common seadragon
+1555	rockfowl
+1556	picathartes
+1557	bald crows
+1558	avocet
+1559	pied avocet
+1560	pied kingfisher
+1561	pied tamarin
+1562	dung cannon
+1563	anteaters and sloths
+1564	pilosa
+1565	modern conifers
+1566	pinnipeds
+1567	conifers
+1568	western bristlecone pine
+1569	plateau pika
+1570	black-lipped pika
+1571	platypus
+1572	duck-billed platypus
+1573	plesiosauria
+1574	plesiosaurs
+1575	pliosaurs
+1576	grasses and sedges
+1577	poison dart frogs
+1578	poison arrow frogs
+1579	poison frogs
+1580	polar bear
+1581	primates
+1582	tubenoses
+1583	tube-nosed seabirds
+1584	pronghorn antelope
+1585	protoceratops
+1586	pteropus
+1587	flying foxes
+1588	pterosaurs
+1589	pterosauria
+1590	pterodactyls
+1591	pygmy parrots
+1592	pygmy three-toed sloth
+1593	pedunculate oak
+1594	radiated tortoise
+1595	rays, skates and sawfish
+1596	wild garlic
+1597	bear leek
+1598	broad-leaved garlic
+1599	buckrams
+1600	ramsons
+1601	wood garlic
+1602	ostriches and rheas
+1603	ratites
+1604	red-bellied piranha
+1605	red-billed chough
+1606	chough
+1607	red-billed quelea
+1608	quelea quelea
+1609	red-billed tropicbird
+1610	boatswain bird
+1611	red deer
+1612	red kangaroo
+1613	red kite
+1614	knot
+1615	red-legged partridge
+1616	red panda
+1617	firefox
+1618	lesser panda
+1619	red ruffed lemur
+1620	red squirrel
+1621	reed bunting
+1622	common reed bunting
+1623	muntjac deer
+1624	barking deer
+1625	reindeer
+1626	caribou
+1627	rhododendrons
+1628	rhododendron
+1629	ringed seal
+1630	ring-tailed lemur
+1631	lemur catta
+1632	pigeon
+1633	common pigeon
+1634	feral pigeon
+1635	feral rock dove
+1636	rock dove
+1637	rock pigeon
+1638	ptarmigan
+1639	rock ptarmigan
+1640	rodents
+1641	rodentia
+1642	roe deer
+1643	capreolus capreolus
+1644	western roe deer
+1645	rook
+1646	ring-necked parakeet
+1647	rufous elephant shrew
+1648	rufous sengi
+1649	saguaros
+1650	saiga
+1651	salamanders
+1652	caudata
+1653	sand goanna
+1654	racehorse goanna
+1655	sand monitor
+1656	sand lizard
+1657	sand martin
+1658	bank swallow
+1659	collared sand martin
+1660	saurischia
+1661	lizard-hipped
+1662	sauropodomorph dinosaurs
+1663	sauropodomorpha
+1664	yellow dung fly
+1665	golden dung fly
+1666	scorpions
+1667	scorpiones
+1668	sea otter
+1669	giant sequoia
+1670	sequoiadendron
+1671	wellingtonia
+1672	serotine bat
+1673	serval
+1674	sharks
+1675	short-beaked common dolphin
+1676	common dolphin
+1677	hourglass dolphin
+1678	short-eared owl
+1679	short-tailed shearwater
+1680	moonbird
+1681	muttonbird
+1682	slender-billed shearwater
+1683	yolla
+1684	siamang
+1685	silky sifaka
+1686	dugongs and manatees
+1687	sirenia
+1688	skimmers
+1689	rynchops
+1690	slow lorises
+1691	nycticebus
+1692	smilodon
+1693	sabre-toothed cats
+1694	snakes
+1695	snares crested penguin
+1696	snow leopard
+1697	snow petrel
+1698	sockeye salmon
+1699	camel spiders
+1700	solifugae
+1701	sun spider
+1702	wind scorpion
+1703	song thrush
+1704	ring-tailed coati
+1705	chilla
+1706	southern sea lion
+1707	southern carmine bee-eater
+1708	southern elephant seal
+1709	southern right whale
+1710	southern three-banded armadillo
+1711	south polar skua
+1712	spectacled bear
+1713	spectacled eider
+1714	sperm whale
+1715	spiders
+1716	spider wasps
+1717	pompilidae
+1718	spider-hunting wasps
+1719	spinosaurus 
+1720	little blue macaw
+1721	spotted flycatcher
+1722	spotted hyena
+1723	laughing hyena
+1724	springbok
+1725	springbuck
+1726	squamata
+1727	squid
+1728	teuthida
+1729	stag beetles
+1730	northern sea lion
+1731	stingrays
+1732	stoat
+1733	mustela erminea
+1734	stock dove
+1735	stock pigeon
+1736	straw-coloured fruit bat
+1737	striped skunk
+1738	purple sea urchin
+1739	sunflower sea star
+1740	superb lyrebird
+1741	tambaqui
+1742	pacu
+1743	dandelions
+1744	tarsiers
+1745	tarsius
+1746	tawny owl
+1747	common yew
+1748	tenrecs
+1749	tenrecidae
+1750	termites
+1751	isoptera
+1752	white ants
+1753	eastern box turtle
+1754	common box turtle
+1755	bush crickets
+1756	katydids
+1757	long-horned grasshoppers
+1758	therapsids
+1759	therapsida
+1760	theropod dinosaurs
+1761	theropoda
+1762	thick-billed murre
+1763	tommie
+1764	thorny devil
+1765	moloch
+1766	thorny dragon
+1767	thorny lizard
+1768	three-spined stickleback
+1769	tiddler
+1770	armoured dinosaurs
+1771	thyreophora
+1772	sand fox
+1773	tiger quoll
+1774	spotted-tailed quoll
+1775	tiger shark
+1776	shingleback skink
+1777	bobtail
+1778	pinecone lizard
+1779	sleepy lizard
+1780	long-tailed mayfly
+1781	titan arum
+1782	corpse flower
+1783	corpse plant
+1784	topi
+1785	korrigum
+1786	tiang
+1787	toque macaque
+1788	trilobites
+1789	tufted capuchin
+1790	black-capped capuchin
+1791	brown capuchin
+1792	tulips
+1793	tulipa
+1794	tundra swan
+1795	testudines
+1796	chelonians
+1797	testudinata
+1798	turtle dove
+1799	flat-tailed geckos
+1800	candirus
+1801	toothpick fish
+1802	velociraptor
+1803	common wasp
+1804	vespula vulgaris
+1805	violets and pansies
+1806	viola
+1807	heartsease
+1808	pansy
+1809	common lizard
+1810	viviparous lizard
+1811	walia ibex
+1812	walrus
+1813	wandering albatross
+1814	warthog
+1815	water monitor
+1816	waved albatross
+1817	capercaillie
+1818	western gorilla
+1819	gorilla gorilla
+1820	western red colobus
+1821	red colobus
+1822	whale shark
+1823	whinchat
+1824	whitebark pine
+1825	creeping pine
+1826	pitch pine
+1827	scrub pine
+1828	white-fronted bee-eater
+1829	white-nosed coati
+1830	antoon
+1831	pizote
+1832	white rhinoceros
+1833	square-lipped rhinoceros
+1834	ern
+1835	erne
+1836	sea eagle
+1837	white-tailed eagle
+1838	dipper
+1839	white-throated dipper 
+1840	pied wagtail
+1841	white wagtail
+1842	whooper swan
+1843	wild boar
+1844	boar
+1845	wild hog
+1846	wildcat
+1847	wild-cat
+1848	wild horse
+1849	willow warbler
+1850	willow wren
+1851	wire-tailed manakin
+1852	wolverine
+1853	gulo gulo
+1854	carcajou
+1855	glutton
+1856	quickhatch
+1857	skunk bear
+1858	wood mouse
+1859	field mouse
+1860	long-tailed field mouse
+1861	wood warbler
+1862	woolly mammoth
+1863	woolly rhinoceros
+1864	yacare caiman
+1865	yellow-bellied glider
+1866	fluffy glider
+1867	yellow meadow ant
+1868	meadow ant
+1869	yellow ant
+1870	zebra finch
+1871	burnet moth
+1872	forester moths
+1873	smoky moths
+1874	afrosoricida
+1875	anseriformes
+1876	asterales
+1877	columbiformes
+1878	gentianales
+1879	liliales
+1880	mesonychia
+1881	pholidota
+1882	rauisuchia
+1883	stylommatophora
+1884	basidiomycota
+1885	haptophyte
+1886	zygomycota
+1887	ichthyopterygia
+1888	sauropterygia

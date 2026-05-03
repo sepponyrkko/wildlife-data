@@ -1,0 +1,1146 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	And-dffe_60_condor-3	And-dffe_60_Mountains-16	And-dffe_60_condor-3_1498	60	And-dffe_60_Mountains-16_1366	60	0	Andean condor	Mountains	100.0
+location	Par-e7cb_111_kea-10	Par-e7cb_111_mountain-19	Par-e7cb_111_kea-10_5137	111	Par-e7cb_111_mountain-19_4527	111	0	kea	mountains	100.0
+location	Gre5442_4_bustards-4	Gre5442_4_farmland-9	Gre5442_4_bustards-4_5044	4	Gre5442_4_farmland-9_4509	4	0	great bustard	farmland	100.0
+location	Sno-0a8f_115_owl-36	Sno-0a8f_115_taiga-31	Sno-0a8f_115_owl-36_5053	115	Sno-0a8f_115_taiga-31_4534	115	0	great grey owl	taiga	100.0
+location	Eur-930e_25_moorhen-22	Eur-930e_25_lakes-12	Eur-930e_25_moorhen-22_100	25	Eur-930e_25_lakes-12_4522	25	0	Common moorhen	lakes and ponds	100.0
+location	Sno-0a8f_115_owl-66	Sno-0a8f_115_taiga-31	Sno-0a8f_115_owl-66_5053	115	Sno-0a8f_115_taiga-31_4534	115	0	great grey owl	taiga	100.0
+location	Sno-0a8f_115_owl-26	Sno-0a8f_115_taiga-31	Sno-0a8f_115_owl-26_5053	115	Sno-0a8f_115_taiga-31_4534	115	0	great grey owl	taiga	100.0
+location	Son-bd44_24_cuckoo-7	Son-bd44_24_marsh-21	Son-bd44_24_cuckoo-7_88	24	Son-bd44_24_marsh-21_3807	24	0	Common cuckoo	marsh	100.0
+location	Cra-bfc4_100_cranes-13	Cra-bfc4_100_wetland-30	Cra-bfc4_100_cranes-13_85	100	Cra-bfc4_100_wetland-30_4542	100	0	Common crane	wetlands	100.0
+location	Cra-bfc4_100_cranes-27	Cra-bfc4_100_wetland-30	Cra-bfc4_100_cranes-27_85	100	Cra-bfc4_100_wetland-30_4542	100	0	Common crane	wetlands	100.0
+location	Cra-bfc4_100_cranes-35	Cra-bfc4_100_wetland-30	Cra-bfc4_100_cranes-35_85	100	Cra-bfc4_100_wetland-30_4542	100	0	Common crane	wetlands	100.0
+location	Cra-bfc4_100_cranes-55	Cra-bfc4_100_wetland-30	Cra-bfc4_100_cranes-55_85	100	Cra-bfc4_100_wetland-30_4542	100	0	Common crane	wetlands	100.0
+location	Com-0bc9_51_cranes-8	Com-0bc9_51_wetlands-18	Com-0bc9_51_cranes-8_85	51	Com-0bc9_51_wetlands-18_4542	51	0	Common crane	wetlands	100.0
+location	Sno-0a8f_115_owl-12	Sno-0a8f_115_taiga-31	Sno-0a8f_115_owl-12_5053	115	Sno-0a8f_115_taiga-31_4534	115	0	great grey owl	taiga	100.0
+location	Com-0bc9_51_cranes-8	Com-0bc9_51_swamps-14	Com-0bc9_51_cranes-8_85	51	Com-0bc9_51_swamps-14_3808	51	0	Common crane	swamp	100.0
+location	Kea-483e_44_kea-5	Kea-483e_44_mountains-26	Kea-483e_44_kea-5_5137	44	Kea-483e_44_mountains-26_4527	44	0	kea	mountains	100.0
+location	Ant79a2_18_penguins-11	Ant79a2_18_ocean-15	Ant79a2_18_penguins-11_5142	18	Ant79a2_18_ocean-15_4530	18	0	king penguin	open ocean	100.0
+location	Sno-0a8f_453_ptarmigan-56	Sno-0a8f_453_mountain-96	Sno-0a8f_453_ptarmigan-56_5427	453	Sno-0a8f_453_mountain-96_4527	453	0	ptarmigan	mountains	100.0
+location	Kin1cdf_25_penguins-11	Kin1cdf_25_ocean-15	Kin1cdf_25_penguins-11_5142	25	Kin1cdf_25_ocean-15_4530	25	0	king penguin	open ocean	100.0
+location	Com-0bc9_51_cranes-8	Com-0bc9_51_bogs-16	Com-0bc9_51_cranes-8_85	51	Com-0bc9_51_bogs-16_4511	51	0	Common crane	bog	100.0
+location	Lite4fd_5_egrets-2	Lite4fd_5_coastal-7	Lite4fd_5_egrets-2_3871	5	Lite4fd_5_coastal-7_1353	5	0	little egret	Coastal	100.0
+location	Lit-0303_110_egret-7	Lit-0303_110_Marsh-16	Lit-0303_110_egret-7_3871	110	Lit-0303_110_Marsh-16_36	110	0	little egret	Marsh	100.0
+location	Lit-0303_48_egret-3	Lit-0303_48_marshes-24	Lit-0303_48_egret-3_3871	48	Lit-0303_48_marshes-24_3807	48	0	little egret	marsh	100.0
+location	Lit-f642_69_owls-2	Lit-f642_69_farmland-28	Lit-f642_69_owls-2_5188	69	Lit-f642_69_farmland-28_4509	69	0	little owl	farmland	100.0
+location	Lon-b0af_207_owls-23	Lon-b0af_207_farmland-12	Lon-b0af_207_owls-23_5193	207	Lon-b0af_207_farmland-12_4509	207	0	long-eared owl	farmland	100.0
+location	Lon-b0af_217_owl-57	Lon-b0af_217_taiga-12	Lon-b0af_217_owl-57_5193	217	Lon-b0af_217_taiga-12_4534	217	0	long-eared owl	taiga	100.0
+location	Lon-b0af_217_owl-37	Lon-b0af_217_taiga-12	Lon-b0af_217_owl-37_5193	217	Lon-b0af_217_taiga-12_4534	217	0	long-eared owl	taiga	100.0
+location	Whi-b4c3_368_mallard-28	Whi-b4c3_368_wetlands-39	Whi-b4c3_368_mallard-28_3873	368	Whi-b4c3_368_wetlands-39_4542	368	0	mallard	wetlands	100.0
+location	Mer-5a4a_40_merlin-14	Mer-5a4a_40_taiga-10	Mer-5a4a_40_merlin-14_3876	40	Mer-5a4a_40_taiga-10_4534	40	0	merlin	taiga	100.0
+location	Mer-5a4a_40_merlin-11	Mer-5a4a_40_taiga-10	Mer-5a4a_40_merlin-11_3876	40	Mer-5a4a_40_taiga-10_4534	40	0	merlin	taiga	100.0
+location	Com-9826_178_ostrich-3	Com-9826_178_desert-34	Com-9826_178_ostrich-3_5291	178	Com-9826_178_desert-34_34	178	0	ostrich	Desert	100.0
+location	Com-0e01_2_moorhen-3	Com-0e01_2_swamp-15	Com-0e01_2_moorhen-3_100	2	Com-0e01_2_swamp-15_3808	2	0	Common moorhen	swamp	100.0
+location	Pro-41d6_83_fulmar-25	Pro-41d6_83_polar-11	Pro-41d6_83_fulmar-25_5268	83	Pro-41d6_83_polar-11_4531	83	0	fulmar	polar	100.0
+location	Com-0e01_52_moorhens-21	Com-0e01_52_wetlands-5	Com-0e01_52_moorhens-21_100	52	Com-0e01_52_wetlands-5_4542	52	0	Common moorhen	wetlands	100.0
+location	Rai-6e97_4_coot-17	Rai-6e97_4_wetland-5	Rai-6e97_4_coot-17_3850	4	Rai-6e97_4_wetland-5_4542	4	0	coot	wetlands	100.0
+location	Kea-483e_8_Kea-1	Kea-483e_8_mountain-18	Kea-483e_8_Kea-1_2625	8	Kea-483e_8_mountain-18_4527	8	0	Kea	mountains	100.0
+location	Mou-ec99_166_Kea-16	Mou-ec99_166_mountain-4	Mou-ec99_166_Kea-16_2625	166	Mou-ec99_166_mountain-4_4527	166	0	Kea	mountains	100.0
+location	Mou-ec99_166_Kea-16	Mou-ec99_166_mountain-33	Mou-ec99_166_Kea-16_2625	166	Mou-ec99_166_mountain-33_4527	166	0	Kea	mountains	100.0
+location	Oce-2d88_457_Kea-6	Oce-2d88_457_mountain-4	Oce-2d88_457_Kea-6_2625	457	Oce-2d88_457_mountain-4_4527	457	0	Kea	mountains	100.0
+location	Too-567c_475_Kea-1	Too-567c_475_mountain-8	Too-567c_475_Kea-1_2625	475	Too-567c_475_mountain-8_4527	475	0	Kea	mountains	100.0
+location	Eur-3ec7_308_owls-59	Eur-3ec7_308_tundra-43	Eur-3ec7_308_owls-59_2146	308	Eur-3ec7_308_tundra-43_4539	308	0	Eurasian eagle owl	tundra	100.0
+location	Eur-3ec7_308_owls-6	Eur-3ec7_308_tundra-43	Eur-3ec7_308_owls-6_2146	308	Eur-3ec7_308_tundra-43_4539	308	0	Eurasian eagle owl	tundra	100.0
+location	Lon-b0af_124_owl-60	Lon-b0af_124_tundra-37	Lon-b0af_124_owl-60_3312	124	Lon-b0af_124_tundra-37_4539	124	0	Short-eared owl	tundra	100.0
+location	Lon-b0af_124_owl-16	Lon-b0af_124_tundra-37	Lon-b0af_124_owl-16_3312	124	Lon-b0af_124_tundra-37_4539	124	0	Short-eared owl	tundra	100.0
+location	Sib-2667_65_cranes-2	Sib-2667_65_tundra-7	Sib-2667_65_cranes-2_228	65	Sib-2667_65_tundra-7_4539	65	0	Siberian crane	tundra	100.0
+location	Wil-3cbf_38_turkeys-2	Wil-3cbf_38_marshes-23	Wil-3cbf_38_turkeys-2_294	38	Wil-3cbf_38_marshes-23_3807	38	0	Wild turkey	marsh	100.0
+location	Bar-89af_19_goose-5	Bar-89af_19_mountain-28	Bar-89af_19_goose-5_4660	19	Bar-89af_19_mountain-28_4527	19	0	bar-headed goose	mountains	100.0
+location	Bar-78df_97_owl-3	Bar-78df_97_farmland-13	Bar-78df_97_owl-3_3816	97	Bar-78df_97_farmland-13_4509	97	0	barn owl	farmland	100.0
+location	Blae1ae_15_grouse-2	Blae1ae_15_Moorland-24	Blae1ae_15_grouse-2_4690	15	Blae1ae_15_Moorland-24_1365	15	0	black grouse	Moorland	100.0
+location	Blae1ae_15_grouse-2	Blae1ae_15_moorland-26	Blae1ae_15_grouse-2_4690	15	Blae1ae_15_moorland-26_4526	15	0	black grouse	moorland	100.0
+location	Wes-0eef_17_capercaillie-10	Wes-0eef_17_taiga-20	Wes-0eef_17_capercaillie-10_5607	17	Wes-0eef_17_taiga-20_4534	17	0	capercaillie	taiga	100.0
+location	Wes-0eef_91_capercaillie-43	Wes-0eef_91_taiga-19	Wes-0eef_91_capercaillie-43_5607	91	Wes-0eef_91_taiga-19_4534	91	0	capercaillie	taiga	100.0
+location	Eur-930e_25_coot-2	Eur-930e_25_lakes-12	Eur-930e_25_coot-2_3850	25	Eur-930e_25_lakes-12_4522	25	0	coot	lakes and ponds	100.0
+location	Sno-0a8f_453_ptarmigan-56	Sno-0a8f_453_mountain-70	Sno-0a8f_453_ptarmigan-56_5427	453	Sno-0a8f_453_mountain-70_4527	453	0	ptarmigan	mountains	100.0
+location	Swa-b870_40_swans-14	Swa-b870_40_tundra-5	Swa-b870_40_swans-14_5632	40	Swa-b870_40_tundra-5_4539	40	0	whooper swan	tundra	100.0
+location	Sno-0a8f_403_owls-9	Sno-0a8f_403_tundra-6	Sno-0a8f_403_owls-9_3906	403	Sno-0a8f_403_tundra-6_4539	403	0	snowy owl	tundra	100.0
+location	Sno-0a8f_557_owls-9	Sno-0a8f_557_tundra-6	Sno-0a8f_557_owls-9_3906	557	Sno-0a8f_557_tundra-6_4539	557	0	snowy owl	tundra	100.0
+location	Anad0cc_7_swans-5	Anad0cc_7_wetlands-11	Anad0cc_7_swans-5_4482	7	Anad0cc_7_wetlands-11_4542	7	0	swans	wetlands	100.0
+location	Ani6f2b_23_swans-5	Ani6f2b_23_wetlands-11	Ani6f2b_23_swans-5_4482	23	Ani6f2b_23_wetlands-11_4542	23	0	swans	wetlands	100.0
+location	Swa-b870_40_swan-6	Swa-b870_40_tundra-5	Swa-b870_40_swan-6_5632	40	Swa-b870_40_tundra-5_4539	40	0	whooper swan	tundra	100.0
+location	Swa-b870_40_swan-3	Swa-b870_40_tundra-5	Swa-b870_40_swan-3_5632	40	Swa-b870_40_tundra-5_4539	40	0	whooper swan	tundra	100.0
+location	Wat-4f58_115_rail-22	Wat-4f58_115_wetland-14	Wat-4f58_115_rail-22_3924	115	Wat-4f58_115_wetland-14_4542	115	0	water rail	wetlands	100.0
+location	Wat-4f58_2_rail-13	Wat-4f58_2_wetlands-21	Wat-4f58_2_rail-13_3924	2	Wat-4f58_2_wetlands-21_4542	2	0	water rail	wetlands	100.0
+location	Wat-4f58_2_rail-3	Wat-4f58_2_wetlands-21	Wat-4f58_2_rail-3_3924	2	Wat-4f58_2_wetlands-21_4542	2	0	water rail	wetlands	100.0
+location	Wat-4f58_97_rail-7	Wat-4f58_97_wetland-10	Wat-4f58_97_rail-7_3924	97	Wat-4f58_97_wetland-10_4542	97	0	water rail	wetlands	100.0
+location	Wat-4f58_107_rails-14	Wat-4f58_107_marshes-36	Wat-4f58_107_rails-14_3924	107	Wat-4f58_107_marshes-36_3807	107	0	water rail	marsh	100.0
+location	Wat-4f58_115_rail-22	Wat-4f58_115_marshes-38	Wat-4f58_115_rail-22_3924	115	Wat-4f58_115_marshes-38_3807	115	0	water rail	marsh	100.0
+location	Sno-0a8f_453_ptarmigan-56	Sno-0a8f_453_mountain-30	Sno-0a8f_453_ptarmigan-56_5427	453	Sno-0a8f_453_mountain-30_4527	453	0	ptarmigan	mountains	100.0
+location	Sho-489b_66_shoebill-12	Sho-489b_66_wetlands-26	Sho-489b_66_shoebill-12_3897	66	Sho-489b_66_wetlands-26_4542	66	0	shoebill	wetlands	100.0
+location	Sto-c148_94_stork-16	Sto-c148_94_mangroves-26	Sto-c148_94_stork-16_3932	94	Sto-c148_94_mangroves-26_4524	94	0	wood stork	mangroves	100.0
+location	Woo-fa9e_69_stork-6	Woo-fa9e_69_marshes-9	Woo-fa9e_69_stork-6_3932	69	Woo-fa9e_69_marshes-9_3807	69	0	wood stork	marsh	100.0
+location	Lag-9dbf_14_ptarmigan-13	Lag-9dbf_14_mountain-29	Lag-9dbf_14_ptarmigan-13_5427	14	Lag-9dbf_14_mountain-29_4527	14	0	ptarmigan	mountains	100.0
+location	Gal-0153_156_ptarmigans-9	Gal-0153_156_mountain-26	Gal-0153_156_ptarmigans-9_5427	156	Gal-0153_156_mountain-26_4527	156	0	ptarmigan	mountains	100.0
+location	Sho-489b_76_shoebill-2	Sho-489b_76_swamps-11	Sho-489b_76_shoebill-2_3897	76	Sho-489b_76_swamps-11_3808	76	0	shoebill	swamp	100.0
+location	Sho-489b_67_shoebill-2	Sho-489b_67_marshes-9	Sho-489b_67_shoebill-2_3897	67	Sho-489b_67_marshes-9_3807	67	0	shoebill	marsh	100.0
+location	Sho-489b_76_shoebill-2	Sho-489b_76_marshes-13	Sho-489b_76_shoebill-2_3897	76	Sho-489b_76_marshes-13_3807	76	0	shoebill	marsh	100.0
+location	Sho-e23c_15_shearwater-6	Sho-e23c_15_ocean-22	Sho-e23c_15_shearwater-6_4439	15	Sho-e23c_15_ocean-22_4530	15	0	shearwaters	open ocean	100.0
+location	Woo-fa9e_69_stork-6	Woo-fa9e_69_water-29	Woo-fa9e_69_stork-6_3932	69	Woo-fa9e_69_water-29_4512	69	0	wood stork	brackish water	100.0
+location	Sto-c148_94_stork-19	Sto-c148_94_mangroves-26	Sto-c148_94_stork-19_3932	94	Sto-c148_94_mangroves-26_4524	94	0	wood stork	mangroves	100.0
+location	Woo-fa9e_69_stork-6	Woo-fa9e_69_mangrove-23	Woo-fa9e_69_stork-6_3932	69	Woo-fa9e_69_mangrove-23_4524	69	0	wood stork	mangroves	100.0
+location	Roc-fab6_53_ptarmigan-3	Roc-fab6_53_tundra-26	Roc-fab6_53_ptarmigan-3_5427	53	Roc-fab6_53_tundra-26_4539	53	0	ptarmigan	tundra	100.0
+location	Eur-bc75_260_ptarmigan-79	Eur-bc75_260_tundra-92	Eur-bc75_260_ptarmigan-79_5427	260	Eur-bc75_260_tundra-92_4539	260	0	ptarmigan	tundra	100.0
+location	Sho-489b_56_shoebill-2	Sho-489b_56_swamps-7	Sho-489b_56_shoebill-2_3897	56	Sho-489b_56_swamps-7_3808	56	0	shoebill	swamp	100.0
+location	Bar-89af_2_indicus-8	Bar-89af_2_mountain-23	Bar-89af_2_indicus-8_1644	2	Bar-89af_2_mountain-23_4527	2	0	Anser indicus	mountains	87.0
+location	Tun-4bf6_112_columbianus-11	Tun-4bf6_112_Tundra-6	Tun-4bf6_112_columbianus-11_3572	112	Tun-4bf6_112_Tundra-6_1379	112	0	Cygnus columbianus	Tundra	87.0
+location	Tun-4bf6_112_columbianus-11	Tun-4bf6_112_Tundra-22	Tun-4bf6_112_columbianus-11_3572	112	Tun-4bf6_112_Tundra-22_1379	112	0	Cygnus columbianus	Tundra	87.0
+location	Tun-4bf6_67_swan-2	Tun-4bf6_67_Tundra-1	Tun-4bf6_67_swan-2_3573	67	Tun-4bf6_67_Tundra-1_1379	67	0	Tundra swan	Tundra	83.0
+location	Tun-4bf6_39_swan-2	Tun-4bf6_39_Tundra-1	Tun-4bf6_39_swan-2_3573	39	Tun-4bf6_39_Tundra-1_1379	39	0	Tundra swan	Tundra	83.0
+location	Tun-4bf6_105_swan-2	Tun-4bf6_105_Tundra-1	Tun-4bf6_105_swan-2_3573	105	Tun-4bf6_105_Tundra-1_1379	105	0	Tundra swan	Tundra	83.0
+location	Tun-4bf6_8_swan-2	Tun-4bf6_8_Tundra-1	Tun-4bf6_8_swan-2_3573	8	Tun-4bf6_8_Tundra-1_1379	8	0	Tundra swan	Tundra	83.0
+location	Bra-4dd3_32_goose-3	Bra-4dd3_32_estuaries-14	Bra-4dd3_32_goose-3_4731	32	Bra-4dd3_32_estuaries-14_4517	32	0	brant goose	estuaries	83.0
+location	Tun-4bf6_78_swans-23	Tun-4bf6_78_tundra-2	Tun-4bf6_78_swans-23_5584	78	Tun-4bf6_78_tundra-2_4539	78	0	tundra swan	tundra	83.0
+location	Tune78c_8_swans-4	Tune78c_8_tundra-3	Tune78c_8_swans-4_5584	8	Tune78c_8_tundra-3_4539	8	0	tundra swan	tundra	83.0
+location	Tun-4bf6_104_swan-2	Tun-4bf6_104_Tundra-1	Tun-4bf6_104_swan-2_3573	104	Tun-4bf6_104_Tundra-1_1379	104	0	Tundra swan	Tundra	83.0
+location	Tun-4bf6_2_swan-3	Tun-4bf6_2_tundra-2	Tun-4bf6_2_swan-3_5584	2	Tun-4bf6_2_tundra-2_4539	2	0	tundra swan	tundra	83.0
+location	Tun-4bf6_103_swans-26	Tun-4bf6_103_tundra-25	Tun-4bf6_103_swans-26_5584	103	Tun-4bf6_103_tundra-25_4539	103	0	tundra swan	tundra	83.0
+location	Swa-b870_49_swan-19	Swa-b870_49_tundra-18	Swa-b870_49_swan-19_5584	49	Swa-b870_49_tundra-18_4539	49	0	tundra swan	tundra	83.0
+location	Tun-4bf6_78_swans-3	Tun-4bf6_78_tundra-2	Tun-4bf6_78_swans-3_5584	78	Tun-4bf6_78_tundra-2_4539	78	0	tundra swan	tundra	83.0
+location	Tun-4bf6_2_swan-11	Tun-4bf6_2_tundra-2	Tun-4bf6_2_swan-11_5584	2	Tun-4bf6_2_tundra-2_4539	2	0	tundra swan	tundra	83.0
+location	Tune78c_16_swan-10	Tune78c_16_tundra-9	Tune78c_16_swan-10_5584	16	Tune78c_16_tundra-9_4539	16	0	tundra swan	tundra	83.0
+location	Tune78c_1_swan-5	Tune78c_1_tundra-4	Tune78c_1_swan-5_5584	1	Tune78c_1_tundra-4_4539	1	0	tundra swan	tundra	83.0
+location	Tune78c_16_swan-14	Tune78c_16_tundra-9	Tune78c_16_swan-14_5584	16	Tune78c_16_tundra-9_4539	16	0	tundra swan	tundra	83.0
+location	Wil-3cbf_36_swan-31	Wil-3cbf_36_tundra-30	Wil-3cbf_36_swan-31_5584	36	Wil-3cbf_36_tundra-30_4539	36	0	tundra swan	tundra	83.0
+location	Tun-4bf6_100_swan-3	Tun-4bf6_100_tundra-2	Tun-4bf6_100_swan-3_5584	100	Tun-4bf6_100_tundra-2_4539	100	0	tundra swan	tundra	83.0
+location	Tun-4bf6_5_swans-2	Tun-4bf6_5_Tundra-1	Tun-4bf6_5_swans-2_5584	5	Tun-4bf6_5_Tundra-1_4539	5	0	tundra swan	tundra	83.0
+location	Tun-4bf6_76_swan-5	Tun-4bf6_76_tundra-4	Tun-4bf6_76_swan-5_5584	76	Tun-4bf6_76_tundra-4_4539	76	0	tundra swan	tundra	83.0
+location	Tun-4bf6_71_swans-8	Tun-4bf6_71_tundra-7	Tun-4bf6_71_swans-8_5584	71	Tun-4bf6_71_tundra-7_4539	71	0	tundra swan	tundra	83.0
+location	Lon-b0af_497_owls-32	Lon-b0af_497_tundra-20	Lon-b0af_497_owls-32_5468	497	Lon-b0af_497_tundra-20_4539	497	0	short-eared owl	tundra	75.0
+location	Sho-fcec_60_owl-5	Sho-fcec_60_tundra-13	Sho-fcec_60_owl-5_5468	60	Sho-fcec_60_tundra-13_4539	60	0	short-eared owl	tundra	75.0
+location	Lon-b0af_260_owls-35	Lon-b0af_260_tundra-43	Lon-b0af_260_owls-35_5468	260	Lon-b0af_260_tundra-43_4539	260	0	short-eared owl	tundra	75.0
+location	Lon-b0af_260_owl-20	Lon-b0af_260_tundra-43	Lon-b0af_260_owl-20_3312	260	Lon-b0af_260_tundra-43_4539	260	0	Short-eared owl	tundra	75.0
+location	Lit-0303_48_egret-3	Lit-0303_48_lakes-14	Lit-0303_48_egret-3_3871	48	Lit-0303_48_lakes-14_4522	48	0	little egret	lakes and ponds	66.0
+location	Gre-e288_39_owl-7	Gre-e288_39_Mountains-22	Gre-e288_39_owl-7_2445	39	Gre-e288_39_Mountains-22_1366	39	0	Great grey owl	Mountains	66.0
+location	Gre-e288_39_owl-7	Gre-e288_39_Mountains-15	Gre-e288_39_owl-7_2445	39	Gre-e288_39_Mountains-15_1366	39	0	Great grey owl	Mountains	66.0
+location	Man-7999_41_ducks-6	Man-7999_41_lakes-14	Man-7999_41_ducks-6_5208	41	Man-7999_41_lakes-14_4522	41	0	mandarin duck	lakes and ponds	66.0
+location	Man-7999_41_mandarin-5	Man-7999_41_lakes-14	Man-7999_41_mandarin-5_5209	41	Man-7999_41_lakes-14_4522	41	0	mandarin	lakes and ponds	54.78
+location	Gre-e890_2_bustard-13	Gre-e890_3_farmland-7	Gre-e890_2_bustard-13_2430	2	Gre-e890_3_farmland-7_4509	3	1	Great bustard	farmland	50.0
+location	Eur-24a9_85_nightjar-3	Eur-24a9_86_wetlands-24	Eur-24a9_85_nightjar-3_4949	85	Eur-24a9_86_wetlands-24_4542	86	1	nightjar	wetlands	50.0
+location	Mer-5a4a_171_merlin-4	Mer-5a4a_170_moorland-5	Mer-5a4a_171_merlin-4_3876	171	Mer-5a4a_170_moorland-5_4526	170	1	merlin	moorland	50.0
+location	Moo-69c5_24_merlin-19	Moo-69c5_25_moorlands-5	Moo-69c5_24_merlin-19_3876	24	Moo-69c5_25_moorlands-5_4526	25	1	merlin	moorland	50.0
+location	Sno-78f5_2_petrel-3	Sno-78f5_3_polar-26	Sno-78f5_2_petrel-3_3347	2	Sno-78f5_3_polar-26_4531	3	1	Snow petrel	polar	50.0
+location	Sno-78f5_4_petrel-2	Sno-78f5_3_polar-26	Sno-78f5_4_petrel-2_3347	4	Sno-78f5_3_polar-26_4531	3	1	Snow petrel	polar	50.0
+location	Sho-489b_66_shoebill-12	Sho-489b_67_marshes-9	Sho-489b_66_shoebill-12_3897	66	Sho-489b_67_marshes-9_3807	67	1	shoebill	marsh	50.0
+location	Blae1ae_16_grouse-16	Blae1ae_15_moorland-26	Blae1ae_16_grouse-16_1701	16	Blae1ae_15_moorland-26_4526	15	1	Black grouse	moorland	50.0
+location	Bla-fe8d_2_grouse-14	Bla-fe8d_3_moorland-12	Bla-fe8d_2_grouse-14_1701	2	Bla-fe8d_3_moorland-12_4526	3	1	Black grouse	moorland	50.0
+location	Bla-24f6_98_grebe-4	Bla-24f6_97_estuaries-13	Bla-24f6_98_grebe-4_1711	98	Bla-24f6_97_estuaries-13_4517	97	1	Black-necked grebe	estuaries	50.0
+location	Chi-cf82_32_penguins-12	Chi-cf82_31_polar-13	Chi-cf82_32_penguins-12_4771	32	Chi-cf82_31_polar-13_4531	31	1	chinstrap penguin	polar	50.0
+location	Bla-fe8d_2_grouse-31	Bla-fe8d_3_moorland-12	Bla-fe8d_2_grouse-31_1701	2	Bla-fe8d_3_moorland-12_4526	3	1	Black grouse	moorland	50.0
+location	Wes-0eef_54_capercaillie-2	Wes-0eef_55_taiga-10	Wes-0eef_54_capercaillie-2_5607	54	Wes-0eef_55_taiga-10_4534	55	1	capercaillie	taiga	50.0
+location	Wes-0eef_97_capercaillie-5	Wes-0eef_96_taiga-6	Wes-0eef_97_capercaillie-5_5607	97	Wes-0eef_96_taiga-6_4534	96	1	capercaillie	taiga	50.0
+location	Wes-0eef_18_capercaillie-2	Wes-0eef_17_taiga-20	Wes-0eef_18_capercaillie-2_5607	18	Wes-0eef_17_taiga-20_4534	17	1	capercaillie	taiga	50.0
+location	Wes-0eef_56_capercaillie-61	Wes-0eef_55_taiga-10	Wes-0eef_56_capercaillie-61_5607	56	Wes-0eef_55_taiga-10_4534	55	1	capercaillie	taiga	50.0
+location	Tai-3286_135_capercaillie-19	Tai-3286_136_Taiga-1	Tai-3286_135_capercaillie-19_5607	135	Tai-3286_136_Taiga-1_1373	136	1	capercaillie	Taiga	50.0
+location	Osp-8ead_142_osprey-22	Osp-8ead_143_coastal-18	Osp-8ead_142_osprey-22_3890	142	Osp-8ead_143_coastal-18_1353	143	1	osprey	Coastal	50.0
+location	Bur-d18a_132_owl-63	Bur-d18a_133_desert-36	Bur-d18a_132_owl-63_4747	132	Bur-d18a_133_desert-36_3805	133	1	burrowing owl	desert	50.0
+location	Eur-bc75_401_osprey-35	Eur-bc75_400_marsh-52	Eur-bc75_401_osprey-35_3890	401	Eur-bc75_400_marsh-52_3807	400	1	osprey	marsh	50.0
+location	Wat-4f58_189_rail-2	Wat-4f58_188_marsh-13	Wat-4f58_189_rail-2_287	189	Wat-4f58_188_marsh-13_3807	188	1	Water rail	marsh	50.0
+location	Com-9826_179_ostrich-2	Com-9826_178_desert-34	Com-9826_179_ostrich-2_5291	179	Com-9826_178_desert-34_34	178	1	ostrich	Desert	50.0
+location	Gal-0153_4_malleefowl-68	Gal-0153_5_deserts-9	Gal-0153_4_malleefowl-68_5207	4	Gal-0153_5_deserts-9_3805	5	1	malleefowl	desert	50.0
+location	Mal-71cc_98_mallard-2	Mal-71cc_99_wetlands-12	Mal-71cc_98_mallard-2_3873	98	Mal-71cc_99_wetlands-12_4542	99	1	mallard	wetlands	50.0
+location	Bla-fe8d_49_grouse-6	Bla-fe8d_50_moorland-7	Bla-fe8d_49_grouse-6_1701	49	Bla-fe8d_50_moorland-7_4526	50	1	Black grouse	moorland	50.0
+location	Sib-2667_2_crane-19	Sib-2667_3_tundra-35	Sib-2667_2_crane-19_228	2	Sib-2667_3_tundra-35_4539	3	1	Siberian crane	tundra	50.0
+location	Bog-cdf9_49_cranes-29	Bog-cdf9_50_bog-10	Bog-cdf9_49_cranes-29_228	49	Bog-cdf9_50_bog-10_4511	50	1	Siberian crane	bog	50.0
+location	Blae1ae_14_grouse-4	Blae1ae_15_moorland-26	Blae1ae_14_grouse-4_1701	14	Blae1ae_15_moorland-26_4526	15	1	Black grouse	moorland	50.0
+location	Malc085_4_mallards-13	Malc085_3_coastal-2	Malc085_4_mallards-13_3873	4	Malc085_3_coastal-2_1353	3	1	mallard	Coastal	50.0
+location	Sho-489b_65_shoebill-2	Sho-489b_66_wetlands-26	Sho-489b_65_shoebill-2_3897	65	Sho-489b_66_wetlands-26_4542	66	1	shoebill	wetlands	50.0
+location	Sho-489b_58_shoebills-8	Sho-489b_57_wetlands-32	Sho-489b_58_shoebills-8_3897	58	Sho-489b_57_wetlands-32_4542	57	1	shoebill	wetlands	50.0
+location	Sho-489b_127_shoebill-28	Sho-489b_126_wetlands-9	Sho-489b_127_shoebill-28_3897	127	Sho-489b_126_wetlands-9_4542	126	1	shoebill	wetlands	50.0
+location	Sib-2667_2_crane-15	Sib-2667_3_tundra-35	Sib-2667_2_crane-15_228	2	Sib-2667_3_tundra-35_4539	3	1	Siberian crane	tundra	50.0
+location	Sib-2667_64_crane-2	Sib-2667_65_tundra-7	Sib-2667_64_crane-2_228	64	Sib-2667_65_tundra-7_4539	65	1	Siberian crane	tundra	50.0
+location	Sib-2667_77_crane-2	Sib-2667_78_tundra-11	Sib-2667_77_crane-2_228	77	Sib-2667_78_tundra-11_4539	78	1	Siberian crane	tundra	50.0
+location	Sib-2667_2_crane-3	Sib-2667_3_tundra-35	Sib-2667_2_crane-3_228	2	Sib-2667_3_tundra-35_4539	3	1	Siberian crane	tundra	50.0
+location	Sib-2667_2_cranes-30	Sib-2667_3_tundra-35	Sib-2667_2_cranes-30_228	2	Sib-2667_3_tundra-35_4539	3	1	Siberian crane	tundra	50.0
+location	Sho-489b_67_shoebill-2	Sho-489b_68_wetlands-3	Sho-489b_67_shoebill-2_3897	67	Sho-489b_68_wetlands-3_4542	68	1	shoebill	wetlands	50.0
+location	Sho-489b_67_shoebill-2	Sho-489b_66_wetlands-26	Sho-489b_67_shoebill-2_3897	67	Sho-489b_66_wetlands-26_4542	66	1	shoebill	wetlands	50.0
+location	Sho-489b_56_shoebill-2	Sho-489b_57_wetlands-32	Sho-489b_56_shoebill-2_3897	56	Sho-489b_57_wetlands-32_4542	57	1	shoebill	wetlands	50.0
+location	Bla-fe8d_2_grouse-18	Bla-fe8d_3_moorland-12	Bla-fe8d_2_grouse-18_1701	2	Bla-fe8d_3_moorland-12_4526	3	1	Black grouse	moorland	50.0
+location	Mal-71cc_98_mallard-2	Mal-71cc_99_estuaries-24	Mal-71cc_98_mallard-2_3873	98	Mal-71cc_99_estuaries-24_4517	99	1	mallard	estuaries	50.0
+location	Whi-b4c3_369_mallards-7	Whi-b4c3_368_wetlands-39	Whi-b4c3_369_mallards-7_3873	369	Whi-b4c3_368_wetlands-39_4542	368	1	mallard	wetlands	50.0
+location	Wat-4f58_1_rail-2	Wat-4f58_2_wetlands-21	Wat-4f58_1_rail-2_287	1	Wat-4f58_2_wetlands-21_4542	2	1	Water rail	wetlands	50.0
+location	Sul-00bf_2_gannets-7	Sul-00bf_3_coastal-9	Sul-00bf_2_gannets-7_4331	2	Sul-00bf_3_coastal-9_1353	3	1	gannets	Coastal	50.0
+location	Com-9826_81_ostriches-3	Com-9826_80_desert-11	Com-9826_81_ostriches-3_5291	81	Com-9826_80_desert-11_34	80	1	ostrich	Desert	50.0
+location	Lit-f642_4_owl-20	Lit-f642_5_farmland-27	Lit-f642_4_owl-20_3816	4	Lit-f642_5_farmland-27_4509	5	1	barn owl	farmland	50.0
+location	Lit-f642_4_owl-2	Lit-f642_5_farmland-27	Lit-f642_4_owl-2_3816	4	Lit-f642_5_farmland-27_4509	5	1	barn owl	farmland	50.0
+location	Roc-2376_84_pigeon-3	Roc-2376_83_deserts-24	Roc-2376_84_pigeon-3_5421	84	Roc-2376_83_deserts-24_3805	83	1	pigeon	desert	50.0
+location	Bir-ebe4_337_pigeon-12	Bir-ebe4_338_desert-2	Bir-ebe4_337_pigeon-12_5421	337	Bir-ebe4_338_desert-2_34	338	1	pigeon	Desert	50.0
+location	Lon-b0af_685_owls-47	Lon-b0af_686_wetland-26	Lon-b0af_685_owls-47_3816	685	Lon-b0af_686_wetland-26_4542	686	1	barn owl	wetlands	50.0
+location	Lon-b0af_685_owl-34	Lon-b0af_686_wetland-26	Lon-b0af_685_owl-34_3816	685	Lon-b0af_686_wetland-26_4542	686	1	barn owl	wetlands	50.0
+location	Com-3e4d_78_pheasants-2	Com-3e4d_79_farmland-8	Com-3e4d_78_pheasants-2_3840	78	Com-3e4d_79_farmland-8_4509	79	1	pheasant	farmland	50.0
+location	Com-3e4d_80_pheasant-7	Com-3e4d_79_farmland-8	Com-3e4d_80_pheasant-7_3840	80	Com-3e4d_79_farmland-8_4509	79	1	pheasant	farmland	50.0
+location	Com-3e4d_82_pheasants-2	Com-3e4d_81_farmland-3	Com-3e4d_82_pheasants-2_3840	82	Com-3e4d_81_farmland-3_4509	81	1	pheasant	farmland	50.0
+location	Com-3e4d_80_pheasant-7	Com-3e4d_81_farmland-3	Com-3e4d_80_pheasant-7_3840	80	Com-3e4d_81_farmland-3_4509	81	1	pheasant	farmland	50.0
+location	Her-2dde_56_bitterns-4	Her-2dde_57_wetlands-10	Her-2dde_56_bitterns-4_4910	56	Her-2dde_57_wetlands-10_4542	57	1	bittern	wetlands	50.0
+location	Bra-a2c9_2_geese-14	Bra-a2c9_3_coastal-6	Bra-a2c9_2_geese-14_4262	2	Bra-a2c9_3_coastal-6_1353	3	1	black geese	Coastal	50.0
+location	Bra-a2c9_2_geese-3	Bra-a2c9_3_coastal-6	Bra-a2c9_2_geese-3_4262	2	Bra-a2c9_3_coastal-6_1353	3	1	black geese	Coastal	50.0
+location	Com-9826_79_ostriches-3	Com-9826_80_desert-11	Com-9826_79_ostriches-3_5291	79	Com-9826_80_desert-11_3805	80	1	ostrich	desert	50.0
+location	Blae1ae_16_grouse-16	Blae1ae_15_Moorland-24	Blae1ae_16_grouse-16_4690	16	Blae1ae_15_Moorland-24_1365	15	1	black grouse	Moorland	50.0
+location	Lit-f642_4_owls-28	Lit-f642_5_farmland-27	Lit-f642_4_owls-28_3816	4	Lit-f642_5_farmland-27_4509	5	1	barn owl	farmland	50.0
+location	Bar-78df_96_owl-33	Bar-78df_97_farmland-13	Bar-78df_96_owl-33_3816	96	Bar-78df_97_farmland-13_4509	97	1	barn owl	farmland	50.0
+location	Bar-78df_96_owl-21	Bar-78df_97_farmland-13	Bar-78df_96_owl-21_3816	96	Bar-78df_97_farmland-13_4509	97	1	barn owl	farmland	50.0
+location	Wil-3cbf_37_turkey-2	Wil-3cbf_38_marshes-23	Wil-3cbf_37_turkey-2_294	37	Wil-3cbf_38_marshes-23_3807	38	1	Wild turkey	marsh	50.0
+location	Bog-cdf9_49_cranes-29	Bog-cdf9_48_Bogs-1	Bog-cdf9_49_cranes-29_228	49	Bog-cdf9_48_Bogs-1_1349	48	1	Siberian crane	Bog	50.0
+location	Sno-0a8f_402_ptarmigan-32	Sno-0a8f_403_tundra-6	Sno-0a8f_402_ptarmigan-32_5427	402	Sno-0a8f_403_tundra-6_4539	403	1	ptarmigan	tundra	50.0
+location	Lag-9dbf_2_ptarmigans-15	Lag-9dbf_3_tundra-15	Lag-9dbf_2_ptarmigans-15_5427	2	Lag-9dbf_3_tundra-15_4539	3	1	ptarmigan	tundra	50.0
+location	Bra-a2c9_2_Branta-7	Bra-a2c9_3_coastal-6	Bra-a2c9_2_Branta-7_939	2	Bra-a2c9_3_coastal-6_1353	3	1	Branta	Coastal	50.0
+location	Roc-fab6_53_ptarmigan-3	Roc-fab6_54_mountains-16	Roc-fab6_53_ptarmigan-3_5427	53	Roc-fab6_54_mountains-16_4527	54	1	ptarmigan	mountains	50.0
+location	Pha-6deb_27_ptarmigans-20	Pha-6deb_26_mountains-16	Pha-6deb_27_ptarmigans-20_5427	27	Pha-6deb_26_mountains-16_4527	26	1	ptarmigan	mountains	50.0
+location	Lon-b0af_685_owl-34	Lon-b0af_686_bogs-27	Lon-b0af_685_owl-34_3816	685	Lon-b0af_686_bogs-27_4511	686	1	barn owl	bog	50.0
+location	Lon-b0af_685_owls-47	Lon-b0af_686_bogs-27	Lon-b0af_685_owls-47_3816	685	Lon-b0af_686_bogs-27_4511	686	1	barn owl	bog	50.0
+location	Lag-9dbf_15_ptarmigan-13	Lag-9dbf_14_mountain-29	Lag-9dbf_15_ptarmigan-13_5427	15	Lag-9dbf_14_mountain-29_4527	14	1	ptarmigan	mountains	50.0
+location	Bla-fe8d_2_grouse-3	Bla-fe8d_3_moorland-12	Bla-fe8d_2_grouse-3_4690	2	Bla-fe8d_3_moorland-12_4526	3	1	black grouse	moorland	50.0
+location	Roc-fab6_53_ptarmigan-3	Roc-fab6_54_Mountains-37	Roc-fab6_53_ptarmigan-3_5427	53	Roc-fab6_54_Mountains-37_1366	54	1	ptarmigan	Mountains	50.0
+location	Roc-fab6_53_ptarmigan-3	Roc-fab6_54_Mountains-41	Roc-fab6_53_ptarmigan-3_5427	53	Roc-fab6_54_Mountains-41_1366	54	1	ptarmigan	Mountains	50.0
+location	Bar-78df_96_pigeon-10	Bar-78df_97_farmland-13	Bar-78df_96_pigeon-10_5421	96	Bar-78df_97_farmland-13_4509	97	1	pigeon	farmland	50.0
+location	Bog-cdf9_49_cranes-29	Bog-cdf9_50_Bogs-1	Bog-cdf9_49_cranes-29_228	49	Bog-cdf9_50_Bogs-1_1349	50	1	Siberian crane	Bog	50.0
+location	Mer-5a4a_86_Merlin-1	Mer-5a4a_87_moorland-31	Mer-5a4a_86_Merlin-1_179	86	Mer-5a4a_87_moorland-31_4526	87	1	Merlin	moorland	50.0
+location	Kea-483e_7_kea-2	Kea-483e_8_mountain-18	Kea-483e_7_kea-2_5137	7	Kea-483e_8_mountain-18_4527	8	1	kea	mountains	50.0
+location	Pen-9962_239_penguin-43	Pen-9962_238_polar-25	Pen-9962_239_penguin-43_4899	239	Pen-9962_238_polar-25_4531	238	1	emperor penguin	polar	50.0
+location	Too-567c_476_kea-4	Too-567c_475_mountain-8	Too-567c_476_kea-4_5137	476	Too-567c_475_mountain-8_4527	475	1	kea	mountains	50.0
+location	Rai-6e97_3_coots-19	Rai-6e97_4_wetland-5	Rai-6e97_3_coots-19_3850	3	Rai-6e97_4_wetland-5_4542	4	1	coot	wetlands	50.0
+location	Com-0e01_53_moorhen-6	Com-0e01_52_wetlands-5	Com-0e01_53_moorhen-6_100	53	Com-0e01_52_wetlands-5_4542	52	1	Common moorhen	wetlands	50.0
+location	Gre-e890_2_bustard-3	Gre-e890_3_farmland-7	Gre-e890_2_bustard-3_2430	2	Gre-e890_3_farmland-7_4509	3	1	Great bustard	farmland	50.0
+location	Eurb53d_5_Nightjar-14	Eurb53d_6_heathland-7	Eurb53d_5_Nightjar-14_2223	5	Eurb53d_6_heathland-7_4518	6	1	Nightjar	heathland	50.0
+location	Osp-8ead_144_Osprey-1	Osp-8ead_143_coastal-18	Osp-8ead_144_Osprey-1_205	144	Osp-8ead_143_coastal-18_1353	143	1	Osprey	Coastal	50.0
+location	Fal-22b0_12_kestrel-14	Fal-22b0_13_deserts-12	Fal-22b0_12_kestrel-14_3837	12	Fal-22b0_13_deserts-12_34	13	1	kestrel	Desert	50.0
+location	Kea-483e_95_kea-2	Kea-483e_96_mountains-7	Kea-483e_95_kea-2_5137	95	Kea-483e_96_mountains-7_4527	96	1	kea	mountains	50.0
+location	Com-0e01_1_moorhen-2	Com-0e01_2_swamp-15	Com-0e01_1_moorhen-2_100	1	Com-0e01_2_swamp-15_3808	2	1	Common moorhen	swamp	50.0
+location	Lit-23ba_25_corellas-2	Lit-23ba_24_deserts-6	Lit-23ba_25_corellas-2_5186	25	Lit-23ba_24_deserts-6_34	24	1	little corella	Desert	50.0
+location	Gre-e288_27_owl-3	Gre-e288_28_taiga-15	Gre-e288_27_owl-3_2445	27	Gre-e288_28_taiga-15_4534	28	1	Great grey owl	taiga	50.0
+location	Woo-fa9e_13_stork-3	Woo-fa9e_12_mangroves-17	Woo-fa9e_13_stork-3_3932	13	Woo-fa9e_12_mangroves-17_4524	12	1	wood stork	mangroves	50.0
+location	Woo-fa9e_11_stork-3	Woo-fa9e_12_mangroves-17	Woo-fa9e_11_stork-3_3932	11	Woo-fa9e_12_mangroves-17_4524	12	1	wood stork	mangroves	50.0
+location	Bar-89af_1_goose-4	Bar-89af_2_mountain-23	Bar-89af_1_goose-4_1643	1	Bar-89af_2_mountain-23_4527	2	1	Bar-headed goose	mountains	50.0
+location	Woo-fa9e_69_stork-6	Woo-fa9e_68_estuaries-25	Woo-fa9e_69_stork-6_3932	69	Woo-fa9e_68_estuaries-25_4517	68	1	wood stork	estuaries	50.0
+location	Tune78c_9_swans-13	Tune78c_8_tundra-3	Tune78c_9_swans-13_5632	9	Tune78c_8_tundra-3_4539	8	1	whooper swan	tundra	50.0
+location	Tune78c_9_swans-23	Tune78c_8_tundra-3	Tune78c_9_swans-23_5632	9	Tune78c_8_tundra-3_4539	8	1	whooper swan	tundra	50.0
+location	Wat-4f58_114_rail-9	Wat-4f58_115_marshes-38	Wat-4f58_114_rail-9_3924	114	Wat-4f58_115_marshes-38_3807	115	1	water rail	marsh	50.0
+location	Wat-4f58_88_rail-6	Wat-4f58_89_wetlands-19	Wat-4f58_88_rail-6_3924	88	Wat-4f58_89_wetlands-19_4542	89	1	water rail	wetlands	50.0
+location	Wat-4f58_114_rail-9	Wat-4f58_115_wetland-14	Wat-4f58_114_rail-9_3924	114	Wat-4f58_115_wetland-14_4542	115	1	water rail	wetlands	50.0
+location	Pro-9ebc_52_fulmars-31	Pro-9ebc_53_polar-17	Pro-9ebc_52_fulmars-31_5268	52	Pro-9ebc_53_polar-17_4531	53	1	fulmar	polar	50.0
+location	Pro-9ebc_52_fulmars-31	Pro-9ebc_53_polar-48	Pro-9ebc_52_fulmars-31_5268	52	Pro-9ebc_53_polar-48_4531	53	1	fulmar	polar	50.0
+location	Kin1cdf_26_penguins-2	Kin1cdf_25_ocean-15	Kin1cdf_26_penguins-2_2635	26	Kin1cdf_25_ocean-15_4530	25	1	King penguin	open ocean	50.0
+location	Ant79a2_19_penguins-2	Ant79a2_18_ocean-15	Ant79a2_19_penguins-2_2635	19	Ant79a2_18_ocean-15_4530	18	1	King penguin	open ocean	50.0
+location	Wat-4f58_107_rails-14	Wat-4f58_108_marsh-23	Wat-4f58_107_rails-14_3924	107	Wat-4f58_108_marsh-23_3807	108	1	water rail	marsh	50.0
+location	Com-0bc9_47_crane-6	Com-0bc9_48_bogs-12	Com-0bc9_47_crane-6_85	47	Com-0bc9_48_bogs-12_4511	48	1	Common crane	bog	50.0
+location	Blae1ae_14_grouse-4	Blae1ae_15_Moorland-24	Blae1ae_14_grouse-4_4690	14	Blae1ae_15_Moorland-24_1365	15	1	black grouse	Moorland	50.0
+location	Sho-489b_8_Shoebill-1	Sho-489b_7_swamps-9	Sho-489b_8_Shoebill-1_224	8	Sho-489b_7_swamps-9_3808	7	1	Shoebill	swamp	50.0
+location	Sno-0a8f_501_owl-24	Sno-0a8f_500_tundra-37	Sno-0a8f_501_owl-24_3906	501	Sno-0a8f_500_tundra-37_4539	500	1	snowy owl	tundra	50.0
+location	Sno-0a8f_2_owl-18	Sno-0a8f_3_tundra-21	Sno-0a8f_2_owl-18_3906	2	Sno-0a8f_3_tundra-21_4539	3	1	snowy owl	tundra	50.0
+location	Sno-0a8f_2_owl-14	Sno-0a8f_3_tundra-21	Sno-0a8f_2_owl-14_3906	2	Sno-0a8f_3_tundra-21_4539	3	1	snowy owl	tundra	50.0
+location	Sno-0a8f_2_owl-3	Sno-0a8f_3_tundra-21	Sno-0a8f_2_owl-3_3906	2	Sno-0a8f_3_tundra-21_4539	3	1	snowy owl	tundra	50.0
+location	Eurbbc7_4_Coots-1	Eurbbc7_3_lakes-16	Eurbbc7_4_Coots-1_127	4	Eurbbc7_3_lakes-16_4522	3	1	Coot	lakes and ponds	50.0
+location	Sho-489b_158_Shoebill-1	Sho-489b_157_swamps-3	Sho-489b_158_Shoebill-1_224	158	Sho-489b_157_swamps-3_3808	157	1	Shoebill	swamp	50.0
+location	Eurbbc7_2_Coots-1	Eurbbc7_3_lakes-16	Eurbbc7_2_Coots-1_127	2	Eurbbc7_3_lakes-16_4522	3	1	Coot	lakes and ponds	50.0
+location	Lon-b0af_261_owls-10	Lon-b0af_260_taiga-40	Lon-b0af_261_owls-10_5193	261	Lon-b0af_260_taiga-40_4534	260	1	long-eared owl	taiga	50.0
+location	Lon-b0af_216_owls-26	Lon-b0af_217_taiga-12	Lon-b0af_216_owls-26_5193	216	Lon-b0af_217_taiga-12_4534	217	1	long-eared owl	taiga	50.0
+location	Lon-b0af_261_owls-4	Lon-b0af_260_taiga-40	Lon-b0af_261_owls-4_5193	261	Lon-b0af_260_taiga-40_4534	260	1	long-eared owl	taiga	50.0
+location	Lon-b0af_216_owls-17	Lon-b0af_217_taiga-12	Lon-b0af_216_owls-17_5193	216	Lon-b0af_217_taiga-12_4534	217	1	long-eared owl	taiga	50.0
+location	Lon-b0af_218_owl-4	Lon-b0af_217_taiga-12	Lon-b0af_218_owl-4_5193	218	Lon-b0af_217_taiga-12_4534	217	1	long-eared owl	taiga	50.0
+location	Sno-0a8f_505_owls-5	Sno-0a8f_504_tundra-4	Sno-0a8f_505_owls-5_3906	505	Sno-0a8f_504_tundra-4_4539	504	1	snowy owl	tundra	50.0
+location	Sno-0a8f_520_owls-7	Sno-0a8f_519_tundra-28	Sno-0a8f_520_owls-7_3906	520	Sno-0a8f_519_tundra-28_4539	519	1	snowy owl	tundra	50.0
+location	Sno-0a8f_116_owl-19	Sno-0a8f_115_taiga-31	Sno-0a8f_116_owl-19_2146	116	Sno-0a8f_115_taiga-31_4534	115	1	Eurasian eagle owl	taiga	50.0
+location	Sno-0a8f_116_owl-42	Sno-0a8f_115_taiga-31	Sno-0a8f_116_owl-42_2146	116	Sno-0a8f_115_taiga-31_4534	115	1	Eurasian eagle owl	taiga	50.0
+location	Lit-23ba_31_corella-2	Lit-23ba_30_desert-16	Lit-23ba_31_corella-2_5186	31	Lit-23ba_30_desert-16_34	30	1	little corella	Desert	50.0
+location	Sno-0a8f_10_owl-3	Sno-0a8f_11_tundra-15	Sno-0a8f_10_owl-3_3906	10	Sno-0a8f_11_tundra-15_4539	11	1	snowy owl	tundra	50.0
+location	Lon-b0af_204_owls-20	Lon-b0af_203_taiga-44	Lon-b0af_204_owls-20_5193	204	Lon-b0af_203_taiga-44_4534	203	1	long-eared owl	taiga	50.0
+location	Sno-0a8f_2_owl-29	Sno-0a8f_3_tundra-21	Sno-0a8f_2_owl-29_3906	2	Sno-0a8f_3_tundra-21_4539	3	1	snowy owl	tundra	50.0
+location	Lit-0303_111_egret-2	Lit-0303_110_Marsh-16	Lit-0303_111_egret-2_3871	111	Lit-0303_110_Marsh-16_36	110	1	little egret	Marsh	50.0
+location	Lit-0303_48_egret-3	Lit-0303_49_swamps-9	Lit-0303_48_egret-3_3871	48	Lit-0303_49_swamps-9_3808	49	1	little egret	swamp	50.0
+location	Sno-0a8f_116_owl-8	Sno-0a8f_115_taiga-31	Sno-0a8f_116_owl-8_2146	116	Sno-0a8f_115_taiga-31_4534	115	1	Eurasian eagle owl	taiga	50.0
+location	Tun-4bf6_112_columbianus-11	Tun-4bf6_111_Tundra-1	Tun-4bf6_112_columbianus-11_3572	112	Tun-4bf6_111_Tundra-1_1379	111	1	Cygnus columbianus	Tundra	43.5
+location	Eur-bc75_401_haliaetus-38	Eur-bc75_400_marsh-52	Eur-bc75_401_haliaetus-38_206	401	Eur-bc75_400_marsh-52_3807	400	1	Pandion haliaetus	marsh	43.5
+location	Tun-4bf6_115_columbianus-6	Tun-4bf6_114_Tundra-1	Tun-4bf6_115_columbianus-6_3572	115	Tun-4bf6_114_Tundra-1_1379	114	1	Cygnus columbianus	Tundra	43.5
+location	Whi-b4c3_528_scandiacus-89	Whi-b4c3_527_marsh-26	Whi-b4c3_528_scandiacus-89_251	528	Whi-b4c3_527_marsh-26_3807	527	1	Bubo scandiacus	marsh	43.5
+location	Bla-fe8d_2_blackgame-20	Bla-fe8d_3_moorland-12	Bla-fe8d_2_blackgame-20_4692	2	Bla-fe8d_3_moorland-12_4526	3	1	blackgame	moorland	41.5
+location	Lon-b0af_120_owls-12	Lon-b0af_121_Marsh-2	Lon-b0af_120_owls-12_3818	120	Lon-b0af_121_Marsh-2_36	121	1	screech owl	Marsh	41.5
+location	Roc-2376_82_doves-8	Roc-2376_83_deserts-24	Roc-2376_82_doves-8_3232	82	Roc-2376_83_deserts-24_34	83	1	Rock dove	Desert	41.5
+location	Tun-4bf6_103_swans-26	Tun-4bf6_104_Tundra-1	Tun-4bf6_103_swans-26_5584	103	Tun-4bf6_104_Tundra-1_1379	104	1	tundra swan	Tundra	41.5
+location	Tun-4bf6_78_swans-3	Tun-4bf6_77_Tundra-1	Tun-4bf6_78_swans-3_5584	78	Tun-4bf6_77_Tundra-1_1379	77	1	tundra swan	Tundra	41.5
+location	Tun-4bf6_2_swan-11	Tun-4bf6_1_Tundra-1	Tun-4bf6_2_swan-11_5584	2	Tun-4bf6_1_Tundra-1_1379	1	1	tundra swan	Tundra	41.5
+location	Tun-4bf6_78_swans-23	Tun-4bf6_77_Tundra-1	Tun-4bf6_78_swans-23_5584	78	Tun-4bf6_77_Tundra-1_1379	77	1	tundra swan	Tundra	41.5
+location	Tun-4bf6_2_swan-3	Tun-4bf6_1_Tundra-1	Tun-4bf6_2_swan-3_5584	2	Tun-4bf6_1_Tundra-1_1379	1	1	tundra swan	Tundra	41.5
+location	Tun-4bf6_76_swan-5	Tun-4bf6_77_Tundra-1	Tun-4bf6_76_swan-5_5584	76	Tun-4bf6_77_Tundra-1_1379	77	1	tundra swan	Tundra	41.5
+location	Tun-4bf6_105_swan-2	Tun-4bf6_106_Tundra-1	Tun-4bf6_105_swan-2_3573	105	Tun-4bf6_106_Tundra-1_1379	106	1	Tundra swan	Tundra	41.5
+location	Tun-4bf6_39_swan-2	Tun-4bf6_40_tundra-13	Tun-4bf6_39_swan-2_3573	39	Tun-4bf6_40_tundra-13_4539	40	1	Tundra swan	tundra	41.5
+location	Bra-4dd3_31_goose-3	Bra-4dd3_32_estuaries-14	Bra-4dd3_31_goose-3_1777	31	Bra-4dd3_32_estuaries-14_4517	32	1	Brant goose	estuaries	41.5
+location	Tun-4bf6_104_swan-2	Tun-4bf6_103_tundra-25	Tun-4bf6_104_swan-2_3573	104	Tun-4bf6_103_tundra-25_4539	103	1	Tundra swan	tundra	41.5
+location	Lon-b0af_120_owls-4	Lon-b0af_121_Marsh-2	Lon-b0af_120_owls-4_3818	120	Lon-b0af_121_Marsh-2_36	121	1	screech owl	Marsh	41.5
+location	Tun-4bf6_104_swan-2	Tun-4bf6_105_Tundra-1	Tun-4bf6_104_swan-2_3573	104	Tun-4bf6_105_Tundra-1_1379	105	1	Tundra swan	Tundra	41.5
+location	Tun-4bf6_105_swan-2	Tun-4bf6_104_Tundra-1	Tun-4bf6_105_swan-2_3573	105	Tun-4bf6_104_Tundra-1_1379	104	1	Tundra swan	Tundra	41.5
+location	Tun-4bf6_39_swan-2	Tun-4bf6_40_tundra-8	Tun-4bf6_39_swan-2_3573	39	Tun-4bf6_40_tundra-8_4539	40	1	Tundra swan	tundra	41.5
+location	Bar-267a_9_owls-11	Bar-267a_7_deserts-10	Bar-267a_9_owls-11_59	9	Bar-267a_7_deserts-10_3805	7	2	Barn owl	desert	33.333
+location	And-dffe_58_condor-2	And-dffe_60_Mountains-16	And-dffe_58_condor-2_1498	58	And-dffe_60_Mountains-16_1366	60	2	Andean condor	Mountains	33.333
+location	Lit-23ba_28_corellas-2	Lit-23ba_30_desert-16	Lit-23ba_28_corellas-2_5186	28	Lit-23ba_30_desert-16_34	30	2	little corella	Desert	33.333
+location	Gre-acd6_2_Ardeidae-20	Gre-acd6_4_marshes-18	Gre-acd6_2_Ardeidae-20_628	2	Gre-acd6_4_marshes-18_3807	4	2	Ardeidae	marsh	33.333
+location	Pro-9ebc_2_petrels-25	Pro-9ebc_4_ocean-11	Pro-9ebc_2_petrels-25_4962	2	Pro-9ebc_4_ocean-11_4530	4	2	storm petrel	open ocean	33.333
+location	Sul-00bf_5_gannets-11	Sul-00bf_3_coastal-9	Sul-00bf_5_gannets-11_4331	5	Sul-00bf_3_coastal-9_4514	3	2	gannets	coastal	33.333
+location	Wat-4f58_107_rails-14	Wat-4f58_105_marshes-8	Wat-4f58_107_rails-14_3924	107	Wat-4f58_105_marshes-8_3807	105	2	water rail	marsh	33.333
+location	Sto-c148_87_storks-9	Sto-c148_89_grasslands-5	Sto-c148_87_storks-9_3932	87	Sto-c148_89_grasslands-5_35	89	2	wood stork	Flooded grassland	33.333
+location	Wat-4f58_136_rail-3	Wat-4f58_138_wetlands-3	Wat-4f58_136_rail-3_3924	136	Wat-4f58_138_wetlands-3_4542	138	2	water rail	wetlands	33.333
+location	Gre-e890_1_bustard-2	Gre-e890_3_farmland-7	Gre-e890_1_bustard-2_5044	1	Gre-e890_3_farmland-7_4509	3	2	great bustard	farmland	33.333
+location	Com-0bc9_46_crane-2	Com-0bc9_48_bogs-12	Com-0bc9_46_crane-2_85	46	Com-0bc9_48_bogs-12_4511	48	2	Common crane	bog	33.333
+location	Com-a681_42_kestrels-3	Com-a681_40_desert-17	Com-a681_42_kestrels-3_3837	42	Com-a681_40_desert-17_3805	40	2	kestrel	desert	33.333
+location	Com-0e01_2_moorhen-3	Com-0e01_4_marshes-9	Com-0e01_2_moorhen-3_100	2	Com-0e01_4_marshes-9_3807	4	2	Common moorhen	marsh	33.333
+location	Com-0e01_8_moorhen-2	Com-0e01_10_marsh-10	Com-0e01_8_moorhen-2_100	8	Com-0e01_10_marsh-10_3807	10	2	Common moorhen	marsh	33.333
+location	Gre-e288_37_owl-4	Gre-e288_39_Mountains-22	Gre-e288_37_owl-4_5053	37	Gre-e288_39_Mountains-22_1366	39	2	great grey owl	Mountains	33.333
+location	Gre-e288_37_owl-4	Gre-e288_39_Mountains-15	Gre-e288_37_owl-4_5053	37	Gre-e288_39_Mountains-15_1366	39	2	great grey owl	Mountains	33.333
+location	Com-0e01_12_moorhen-25	Com-0e01_10_marsh-10	Com-0e01_12_moorhen-25_100	12	Com-0e01_10_marsh-10_3807	10	2	Common moorhen	marsh	33.333
+location	Wat-4f58_190_rail-5	Wat-4f58_188_marsh-13	Wat-4f58_190_rail-5_3924	190	Wat-4f58_188_marsh-13_3807	188	2	water rail	marsh	33.333
+location	Fal-22b0_11_falcon-12	Fal-22b0_13_deserts-12	Fal-22b0_11_falcon-12_5326	11	Fal-22b0_13_deserts-12_34	13	2	peregrine falcon	Desert	33.333
+location	Bra-a2c9_5_geese-3	Bra-a2c9_3_coastal-6	Bra-a2c9_5_geese-3_940	5	Bra-a2c9_3_coastal-6_1353	3	2	Black geese	Coastal	33.333
+location	Pro-9ebc_2_petrels-16	Pro-9ebc_4_ocean-11	Pro-9ebc_2_petrels-16_4962	2	Pro-9ebc_4_ocean-11_4530	4	2	storm petrel	open ocean	33.333
+location	Pro-9ebc_2_shearwaters-18	Pro-9ebc_4_ocean-11	Pro-9ebc_2_shearwaters-18_4439	2	Pro-9ebc_4_ocean-11_4530	4	2	shearwaters	open ocean	33.333
+location	Sho-489b_78_shoebills-15	Sho-489b_76_marshes-13	Sho-489b_78_shoebills-15_3897	78	Sho-489b_76_marshes-13_3807	76	2	shoebill	marsh	33.333
+location	Sho-489b_65_shoebill-2	Sho-489b_67_marshes-9	Sho-489b_65_shoebill-2_3897	65	Sho-489b_67_marshes-9_3807	67	2	shoebill	marsh	33.333
+location	Sho-489b_78_shoebills-2	Sho-489b_76_marshes-13	Sho-489b_78_shoebills-2_3897	78	Sho-489b_76_marshes-13_3807	76	2	shoebill	marsh	33.333
+location	Mer-5a4a_168_merlins-26	Mer-5a4a_170_moorland-5	Mer-5a4a_168_merlins-26_3876	168	Mer-5a4a_170_moorland-5_4526	170	2	merlin	moorland	33.333
+location	Mer-5a4a_124_merlin-12	Mer-5a4a_126_moorland-2	Mer-5a4a_124_merlin-12_3876	124	Mer-5a4a_126_moorland-2_4526	126	2	merlin	moorland	33.333
+location	Eurb53d_4_nightjar-5	Eurb53d_6_heathland-7	Eurb53d_4_nightjar-5_4949	4	Eurb53d_6_heathland-7_4518	6	2	nightjar	heathland	33.333
+location	Sho-e23c_17_shearwater-4	Sho-e23c_15_ocean-22	Sho-e23c_17_shearwater-4_4439	17	Sho-e23c_15_ocean-22_4530	15	2	shearwaters	open ocean	33.333
+location	Lon-b0af_684_owl-24	Lon-b0af_686_bogs-27	Lon-b0af_684_owl-24_5468	684	Lon-b0af_686_bogs-27_4511	686	2	short-eared owl	bog	33.333
+location	Sno-0a8f_397_ptarmigans-18	Sno-0a8f_399_tundra-30	Sno-0a8f_397_ptarmigans-18_5427	397	Sno-0a8f_399_tundra-30_4539	399	2	ptarmigan	tundra	33.333
+location	Sno-0a8f_402_ptarmigan-32	Sno-0a8f_400_tundra-54	Sno-0a8f_402_ptarmigan-32_5427	402	Sno-0a8f_400_tundra-54_4539	400	2	ptarmigan	tundra	33.333
+location	Roc-fab6_51_ptarmigan-2	Roc-fab6_53_tundra-26	Roc-fab6_51_ptarmigan-2_5427	51	Roc-fab6_53_tundra-26_4539	53	2	ptarmigan	tundra	33.333
+location	Bra-a2c9_1_Branta-1	Bra-a2c9_3_coastal-6	Bra-a2c9_1_Branta-1_939	1	Bra-a2c9_3_coastal-6_1353	3	2	Branta	Coastal	33.333
+location	Ros-3786_46_pigeon-15	Ros-3786_44_farmlands-10	Ros-3786_46_pigeon-15_5421	46	Ros-3786_44_farmlands-10_4509	44	2	pigeon	farmland	33.333
+location	Mal-71cc_97_mallards-27	Mal-71cc_99_estuaries-24	Mal-71cc_97_mallards-27_3873	97	Mal-71cc_99_estuaries-24_4517	99	2	mallard	estuaries	33.333
+location	Lon-b0af_684_owl-5	Lon-b0af_686_bogs-27	Lon-b0af_684_owl-5_5468	684	Lon-b0af_686_bogs-27_4511	686	2	short-eared owl	bog	33.333
+location	Lon-b0af_209_owl-9	Lon-b0af_207_farmland-12	Lon-b0af_209_owl-9_5193	209	Lon-b0af_207_farmland-12_4509	207	2	long-eared owl	farmland	33.333
+location	Lit-0303_108_egrets-2	Lit-0303_110_Marsh-16	Lit-0303_108_egrets-2_3871	108	Lit-0303_110_Marsh-16_36	110	2	little egret	Marsh	33.333
+location	Lit-0303_112_egret-2	Lit-0303_110_Marsh-16	Lit-0303_112_egret-2_3871	112	Lit-0303_110_Marsh-16_36	110	2	little egret	Marsh	33.333
+location	Lit-0303_46_egret-12	Lit-0303_48_marshes-24	Lit-0303_46_egret-12_3871	46	Lit-0303_48_marshes-24_3807	48	2	little egret	marsh	33.333
+location	Lon-b0af_209_owls-18	Lon-b0af_207_farmland-12	Lon-b0af_209_owls-18_5188	209	Lon-b0af_207_farmland-12_4509	207	2	little owl	farmland	33.333
+location	Sno-0a8f_220_owls-7	Sno-0a8f_222_moorlands-17	Sno-0a8f_220_owls-7_3906	220	Sno-0a8f_222_moorlands-17_4526	222	2	snowy owl	moorland	33.333
+location	Sno-0a8f_220_owls-7	Sno-0a8f_218_coastal-11	Sno-0a8f_220_owls-7_3906	220	Sno-0a8f_218_coastal-11_4514	218	2	snowy owl	coastal	33.333
+location	Sno-78f5_1_petrel-2	Sno-78f5_3_polar-26	Sno-78f5_1_petrel-2_5487	1	Sno-78f5_3_polar-26_4531	3	2	snow petrel	polar	33.333
+location	Sno-3c77_57_goose-2	Sno-3c77_59_tundra-41	Sno-3c77_57_goose-2_3904	57	Sno-3c77_59_tundra-41_4539	59	2	snow goose	tundra	33.333
+location	Sno-3c77_66_goose-2	Sno-3c77_64_tundra-17	Sno-3c77_66_goose-2_3904	66	Sno-3c77_64_tundra-17_4539	64	2	snow goose	tundra	33.333
+location	Sto-c148_87_storks-9	Sto-c148_89_marshes-10	Sto-c148_87_storks-9_3932	87	Sto-c148_89_marshes-10_3807	89	2	wood stork	marsh	33.333
+location	Sho-489b_146_Shoebill-1	Sho-489b_148_swamps-18	Sho-489b_146_Shoebill-1_224	146	Sho-489b_148_swamps-18_3808	148	2	Shoebill	swamp	33.333
+location	Com-0e01_6_coot-15	Com-0e01_4_wetlands-16	Com-0e01_6_coot-15_3850	6	Com-0e01_4_wetlands-16_4542	4	2	coot	wetlands	33.333
+location	Sho-489b_71_Shoebill-1	Sho-489b_69_swamps-24	Sho-489b_71_Shoebill-1_224	71	Sho-489b_69_swamps-24_3808	69	2	Shoebill	swamp	33.333
+location	Bog-cdf9_49_cranes-29	Bog-cdf9_51_bogs-8	Bog-cdf9_49_cranes-29_228	49	Bog-cdf9_51_bogs-8_4511	51	2	Siberian crane	bog	33.333
+location	Osp-8ead_145_Osprey-1	Osp-8ead_143_coastal-18	Osp-8ead_145_Osprey-1_205	145	Osp-8ead_143_coastal-18_4514	143	2	Osprey	coastal	33.333
+location	Gre-acd6_86_heron-2	Gre-acd6_88_wetlands-23	Gre-acd6_86_heron-2_2469	86	Gre-acd6_88_wetlands-23_4542	88	2	Grey heron	wetlands	33.333
+location	Emp-5971_143_penguin-3	Emp-5971_145_polar-3	Emp-5971_143_penguin-3_4899	143	Emp-5971_145_polar-3_4531	145	2	emperor penguin	polar	33.333
+location	Emp-5971_147_penguins-15	Emp-5971_145_polar-3	Emp-5971_147_penguins-15_4899	147	Emp-5971_145_polar-3_4531	145	2	emperor penguin	polar	33.333
+location	Bog-cdf9_49_cranes-29	Bog-cdf9_51_bog-38	Bog-cdf9_49_cranes-29_228	49	Bog-cdf9_51_bog-38_4511	51	2	Siberian crane	bog	33.333
+location	Com-0e01_6_coot-15	Com-0e01_4_marshes-9	Com-0e01_6_coot-15_3850	6	Com-0e01_4_marshes-9_3807	4	2	coot	marsh	33.333
+location	Bur-d18a_5_owls-6	Bur-d18a_3_deserts-14	Bur-d18a_5_owls-6_4747	5	Bur-d18a_3_deserts-14_34	3	2	burrowing owl	Desert	33.333
+location	Eur-930e_23_coot-2	Eur-930e_25_lakes-12	Eur-930e_23_coot-2_3850	23	Eur-930e_25_lakes-12_4522	25	2	coot	lakes and ponds	33.333
+location	Sul-00bf_5_Morus-9	Sul-00bf_3_coastal-9	Sul-00bf_5_Morus-9_1045	5	Sul-00bf_3_coastal-9_4514	3	2	Morus	coastal	33.333
+location	Com-0e01_54_moorhen-16	Com-0e01_52_wetlands-5	Com-0e01_54_moorhen-16_100	54	Com-0e01_52_wetlands-5_4542	52	2	Common moorhen	wetlands	33.333
+location	Com-0e01_2_moorhen-3	Com-0e01_4_wetlands-16	Com-0e01_2_moorhen-3_100	2	Com-0e01_4_wetlands-16_4542	4	2	Common moorhen	wetlands	33.333
+location	Sho-489b_54_Shoebill-1	Sho-489b_56_swamps-7	Sho-489b_54_Shoebill-1_224	54	Sho-489b_56_swamps-7_3808	56	2	Shoebill	swamp	33.333
+location	And-dffe_62_condor-9	And-dffe_60_Mountains-16	And-dffe_62_condor-9_1498	62	And-dffe_60_Mountains-16_1366	60	2	Andean condor	Mountains	33.333
+location	Bur-d18a_5_owls-3	Bur-d18a_3_deserts-14	Bur-d18a_5_owls-3_4747	5	Bur-d18a_3_deserts-14_3805	3	2	burrowing owl	desert	33.333
+location	Woo-fa9e_71_stork-2	Woo-fa9e_69_mangrove-23	Woo-fa9e_71_stork-2_301	71	Woo-fa9e_69_mangrove-23_4524	69	2	Wood stork	mangroves	33.333
+location	Woo-fa9e_71_stork-2	Woo-fa9e_69_marshes-9	Woo-fa9e_71_stork-2_301	71	Woo-fa9e_69_marshes-9_3807	69	2	Wood stork	marsh	33.333
+location	Bar-89af_19_goose-5	Bar-89af_21_mountains-49	Bar-89af_19_goose-5_4660	19	Bar-89af_21_mountains-49_4527	21	2	bar-headed goose	mountains	33.333
+location	Bog-cdf9_49_cranes-29	Bog-cdf9_47_bog-9	Bog-cdf9_49_cranes-29_228	49	Bog-cdf9_47_bog-9_4511	47	2	Siberian crane	bog	33.333
+location	Pro-9ebc_52_fulmars-31	Pro-9ebc_54_polar-21	Pro-9ebc_52_fulmars-31_5268	52	Pro-9ebc_54_polar-21_4531	54	2	fulmar	polar	33.333
+location	Ful-93ab_8_fulmar-5	Ful-93ab_6_ocean-20	Ful-93ab_8_fulmar-5_5268	8	Ful-93ab_6_ocean-20_4530	6	2	fulmar	open ocean	33.333
+location	Woo-fa9e_71_stork-2	Woo-fa9e_69_water-29	Woo-fa9e_71_stork-2_301	71	Woo-fa9e_69_water-29_4512	69	2	Wood stork	brackish water	33.333
+location	Chi-cf82_29_penguin-7	Chi-cf82_31_polar-13	Chi-cf82_29_penguin-7_4771	29	Chi-cf82_31_polar-13_4531	31	2	chinstrap penguin	polar	33.333
+location	Chi-cf82_33_penguins-12	Chi-cf82_31_polar-13	Chi-cf82_33_penguins-12_4771	33	Chi-cf82_31_polar-13_4531	31	2	chinstrap penguin	polar	33.333
+location	Bog-cdf9_49_cranes-29	Bog-cdf9_51_bogs-27	Bog-cdf9_49_cranes-29_228	49	Bog-cdf9_51_bogs-27_4511	51	2	Siberian crane	bog	33.333
+location	Wat-4f58_213_rail-2	Wat-4f58_211_marshes-11	Wat-4f58_213_rail-2_287	213	Wat-4f58_211_marshes-11_3807	211	2	Water rail	marsh	33.333
+location	Sho-489b_155_Shoebill-5	Sho-489b_157_swamps-3	Sho-489b_155_Shoebill-5_224	155	Sho-489b_157_swamps-3_3808	157	2	Shoebill	swamp	33.333
+location	Eur-3ec7_418_owl-5	Eur-3ec7_417_taiga-32	Eur-3ec7_418_owl-5_2146	418	Eur-3ec7_417_taiga-32_4534	417	1	Eurasian eagle owl	taiga	33.0
+location	Eur-3ec7_323_owls-15	Eur-3ec7_322_farmland-6	Eur-3ec7_323_owls-15_2146	323	Eur-3ec7_322_farmland-6_4509	322	1	Eurasian eagle owl	farmland	33.0
+location	Eur-3ec7_323_owls-15	Eur-3ec7_324_farmland-14	Eur-3ec7_323_owls-15_2146	323	Eur-3ec7_324_farmland-14_4509	324	1	Eurasian eagle owl	farmland	33.0
+location	Tai-3286_134_owl-53	Tai-3286_133_taiga-11	Tai-3286_134_owl-53_5053	134	Tai-3286_133_taiga-11_4534	133	1	great grey owl	taiga	33.0
+location	Tai-3286_134_owl-63	Tai-3286_133_taiga-11	Tai-3286_134_owl-63_5053	134	Tai-3286_133_taiga-11_4534	133	1	great grey owl	taiga	33.0
+location	Com-8a84_120_kingfishers-2	Com-8a84_119_rivers-17	Com-8a84_120_kingfishers-2_4806	120	Com-8a84_119_rivers-17_4533	119	1	kingfisher	rivers and streams	33.0
+location	Tun-4bf6_112_columbianus-11	Tun-4bf6_114_Tundra-1	Tun-4bf6_112_columbianus-11_3572	112	Tun-4bf6_114_Tundra-1_1379	114	2	Cygnus columbianus	Tundra	29.0
+location	Fal-22b0_11_peregrine-11	Fal-22b0_13_deserts-12	Fal-22b0_11_peregrine-11_5327	11	Fal-22b0_13_deserts-12_3805	13	2	peregrine	desert	27.667
+location	Tun-4bf6_67_swan-2	Tun-4bf6_65_Tundra-1	Tun-4bf6_67_swan-2_3573	67	Tun-4bf6_65_Tundra-1_1379	65	2	Tundra swan	Tundra	27.667
+location	Tun-4bf6_104_swan-2	Tun-4bf6_106_Tundra-1	Tun-4bf6_104_swan-2_3573	104	Tun-4bf6_106_Tundra-1_1379	106	2	Tundra swan	Tundra	27.667
+location	Tun-4bf6_105_swan-2	Tun-4bf6_103_tundra-25	Tun-4bf6_105_swan-2_3573	105	Tun-4bf6_103_tundra-25_4539	103	2	Tundra swan	tundra	27.667
+location	Tun-4bf6_103_swans-26	Tun-4bf6_105_Tundra-1	Tun-4bf6_103_swans-26_5584	103	Tun-4bf6_105_Tundra-1_1379	105	2	tundra swan	Tundra	27.667
+location	Per-145f_203_peregrines-15	Per-145f_201_mangrove-4	Per-145f_203_peregrines-15_5327	203	Per-145f_201_mangrove-4_4524	201	2	peregrine	mangroves	27.667
+location	Per-145f_203_peregrines-2	Per-145f_201_mangrove-4	Per-145f_203_peregrines-2_5327	203	Per-145f_201_mangrove-4_4524	201	2	peregrine	mangroves	27.667
+location	Sho-e23c_18_shearwaters-6	Sho-e23c_15_ocean-22	Sho-e23c_18_shearwaters-6_4439	18	Sho-e23c_15_ocean-22_4530	15	3	shearwaters	open ocean	25.0
+location	Sho-489b_73_shoebill-2	Sho-489b_76_marshes-13	Sho-489b_73_shoebill-2_3897	73	Sho-489b_76_marshes-13_3807	76	3	shoebill	marsh	25.0
+location	Sho-489b_64_shoebill-20	Sho-489b_67_marshes-9	Sho-489b_64_shoebill-20_3897	64	Sho-489b_67_marshes-9_3807	67	3	shoebill	marsh	25.0
+location	Sho-489b_79_shoebills-9	Sho-489b_76_marshes-13	Sho-489b_79_shoebills-9_3897	79	Sho-489b_76_marshes-13_3807	76	3	shoebill	marsh	25.0
+location	Sno-0a8f_402_ptarmigan-32	Sno-0a8f_399_tundra-30	Sno-0a8f_402_ptarmigan-32_5427	402	Sno-0a8f_399_tundra-30_4539	399	3	ptarmigan	tundra	25.0
+location	Ant-44b4_171_penguin-20	Ant-44b4_174_polar-13	Ant-44b4_171_penguin-20_2111	171	Ant-44b4_174_polar-13_4531	174	3	Emperor penguin	polar	25.0
+location	Sno-78f5_6_petrel-3	Sno-78f5_3_polar-26	Sno-78f5_6_petrel-3_3347	6	Sno-78f5_3_polar-26_4531	3	3	Snow petrel	polar	25.0
+location	Lon-b0af_420_owls-12	Lon-b0af_423_desert-14	Lon-b0af_420_owls-12_5468	420	Lon-b0af_423_desert-14_3805	423	3	short-eared owl	desert	25.0
+location	Ant-44b4_171_penguin-3	Ant-44b4_174_polar-13	Ant-44b4_171_penguin-3_2111	171	Ant-44b4_174_polar-13_4531	174	3	Emperor penguin	polar	25.0
+location	Lon-b0af_420_owls-4	Lon-b0af_423_desert-14	Lon-b0af_420_owls-4_5468	420	Lon-b0af_423_desert-14_3805	423	3	short-eared owl	desert	25.0
+location	Ant-44b4_171_penguin-27	Ant-44b4_174_polar-13	Ant-44b4_171_penguin-27_2111	171	Ant-44b4_174_polar-13_4531	174	3	Emperor penguin	polar	25.0
+location	Sno-3c77_57_goose-2	Sno-3c77_60_farmland-21	Sno-3c77_57_goose-2_247	57	Sno-3c77_60_farmland-21_4509	60	3	Snow goose	farmland	25.0
+location	Wil-3cbf_142_turkeys-14	Wil-3cbf_139_farmland-11	Wil-3cbf_142_turkeys-14_294	142	Wil-3cbf_139_farmland-11_4509	139	3	Wild turkey	farmland	25.0
+location	Wat-4f58_214_rail-2	Wat-4f58_211_marshes-11	Wat-4f58_214_rail-2_287	214	Wat-4f58_211_marshes-11_3807	211	3	Water rail	marsh	25.0
+location	Bla-24f6_100_grebe-4	Bla-24f6_97_estuaries-13	Bla-24f6_100_grebe-4_1711	100	Bla-24f6_97_estuaries-13_4517	97	3	Black-necked grebe	estuaries	25.0
+location	Sno-3c77_97_goose-2	Sno-3c77_94_tundra-37	Sno-3c77_97_goose-2_247	97	Sno-3c77_94_tundra-37_4539	94	3	Snow goose	tundra	25.0
+location	Sno-3c77_67_goose-3	Sno-3c77_64_tundra-17	Sno-3c77_67_goose-3_247	67	Sno-3c77_64_tundra-17_4539	64	3	Snow goose	tundra	25.0
+location	Roc-fab6_51_ptarmigan-2	Roc-fab6_54_Mountains-37	Roc-fab6_51_ptarmigan-2_5427	51	Roc-fab6_54_Mountains-37_1366	54	3	ptarmigan	Mountains	25.0
+location	Bar-267a_10_owl-35	Bar-267a_7_deserts-10	Bar-267a_10_owl-35_59	10	Bar-267a_7_deserts-10_34	7	3	Barn owl	Desert	25.0
+location	Bar-267a_10_owl-6	Bar-267a_7_deserts-10	Bar-267a_10_owl-6_59	10	Bar-267a_7_deserts-10_3805	7	3	Barn owl	desert	25.0
+location	Bar-267a_10_owl-25	Bar-267a_7_deserts-10	Bar-267a_10_owl-25_59	10	Bar-267a_7_deserts-10_3805	7	3	Barn owl	desert	25.0
+location	Lon-b0af_683_owls-22	Lon-b0af_686_bogs-27	Lon-b0af_683_owls-22_59	683	Lon-b0af_686_bogs-27_4511	686	3	Barn owl	bog	25.0
+location	Lon-b0af_683_owl-35	Lon-b0af_686_bogs-27	Lon-b0af_683_owl-35_59	683	Lon-b0af_686_bogs-27_4511	686	3	Barn owl	bog	25.0
+location	Lon-b0af_683_owl-28	Lon-b0af_686_bogs-27	Lon-b0af_683_owl-28_59	683	Lon-b0af_686_bogs-27_4511	686	3	Barn owl	bog	25.0
+location	Wat-4f58_114_rail-9	Wat-4f58_111_marsh-17	Wat-4f58_114_rail-9_3924	114	Wat-4f58_111_marsh-17_3807	111	3	water rail	marsh	25.0
+location	Wat-4f58_208_rails-23	Wat-4f58_211_marshes-11	Wat-4f58_208_rails-23_3924	208	Wat-4f58_211_marshes-11_3807	211	3	water rail	marsh	25.0
+location	Lon-b0af_683_owls-56	Lon-b0af_686_bogs-27	Lon-b0af_683_owls-56_59	683	Lon-b0af_686_bogs-27_4511	686	3	Barn owl	bog	25.0
+location	Wat-4f58_107_rails-14	Wat-4f58_110_wetland-17	Wat-4f58_107_rails-14_3924	107	Wat-4f58_110_wetland-17_4542	110	3	water rail	wetlands	25.0
+location	Wat-4f58_86_rail-3	Wat-4f58_89_wetlands-19	Wat-4f58_86_rail-3_3924	86	Wat-4f58_89_wetlands-19_4542	89	3	water rail	wetlands	25.0
+location	Gre-e288_31_owl-3	Gre-e288_28_taiga-15	Gre-e288_31_owl-3_2445	31	Gre-e288_28_taiga-15_4534	28	3	Great grey owl	taiga	25.0
+location	Bar-89af_5_goose-4	Bar-89af_2_mountain-23	Bar-89af_5_goose-4_1643	5	Bar-89af_2_mountain-23_4527	2	3	Bar-headed goose	mountains	25.0
+location	Gre-e288_98_owl-3	Gre-e288_95_mountain-35	Gre-e288_98_owl-3_2445	98	Gre-e288_95_mountain-35_4527	95	3	Great grey owl	mountains	25.0
+location	Gre5442_1_bustards-2	Gre5442_4_farmland-9	Gre5442_1_bustards-2_2430	1	Gre5442_4_farmland-9_4509	4	3	Great bustard	farmland	25.0
+location	Gre5442_7_bustard-7	Gre5442_4_farmland-9	Gre5442_7_bustard-7_2430	7	Gre5442_4_farmland-9_4509	4	3	Great bustard	farmland	25.0
+location	Woo-fa9e_74_stork-12	Woo-fa9e_77_mangrove-15	Woo-fa9e_74_stork-12_3932	74	Woo-fa9e_77_mangrove-15_4524	77	3	wood stork	mangroves	25.0
+location	Lon-b0af_215_owls-9	Lon-b0af_217_taiga-12	Lon-b0af_215_owls-9_2742	215	Lon-b0af_217_taiga-12_4534	217	2	Long-eared owl	taiga	25.0
+location	Lon-b0af_219_owls-4	Lon-b0af_217_taiga-12	Lon-b0af_219_owls-4_2742	219	Lon-b0af_217_taiga-12_4534	217	2	Long-eared owl	taiga	25.0
+location	Bar-78df_100_owl-7	Bar-78df_97_farmland-13	Bar-78df_100_owl-7_59	100	Bar-78df_97_farmland-13_4509	97	3	Barn owl	farmland	25.0
+location	Bar-78df_100_owls-3	Bar-78df_97_farmland-13	Bar-78df_100_owls-3_59	100	Bar-78df_97_farmland-13_4509	97	3	Barn owl	farmland	25.0
+location	Sho-489b_54_Shoebill-1	Sho-489b_57_wetlands-32	Sho-489b_54_Shoebill-1_224	54	Sho-489b_57_wetlands-32_4542	57	3	Shoebill	wetlands	25.0
+location	Sho-489b_71_Shoebill-1	Sho-489b_68_wetlands-3	Sho-489b_71_Shoebill-1_224	71	Sho-489b_68_wetlands-3_4542	68	3	Shoebill	wetlands	25.0
+location	Sho-489b_160_Shoebill-1	Sho-489b_157_swamps-3	Sho-489b_160_Shoebill-1_224	160	Sho-489b_157_swamps-3_3808	157	3	Shoebill	swamp	25.0
+location	Lag-9dbf_6_ptarmigan-18	Lag-9dbf_3_tundra-15	Lag-9dbf_6_ptarmigan-18_5427	6	Lag-9dbf_3_tundra-15_4539	3	3	ptarmigan	tundra	25.0
+location	Eur-3ec7_420_owl-5	Eur-3ec7_417_taiga-32	Eur-3ec7_420_owl-5_2146	420	Eur-3ec7_417_taiga-32_4534	417	3	Eurasian eagle owl	taiga	25.0
+location	Eur-3ec7_305_owl-4	Eur-3ec7_308_tundra-43	Eur-3ec7_305_owl-4_2146	305	Eur-3ec7_308_tundra-43_4539	308	3	Eurasian eagle owl	tundra	25.0
+location	Bir-ebe4_341_pigeon-2	Bir-ebe4_338_desert-2	Bir-ebe4_341_pigeon-2_3227	341	Bir-ebe4_338_desert-2_3805	338	3	Pigeon	desert	25.0
+location	Eur-3ec7_319_owl-19	Eur-3ec7_322_farmland-6	Eur-3ec7_319_owl-19_5536	319	Eur-3ec7_322_farmland-6_4509	322	3	tawny owl	farmland	25.0
+location	Col-0371_126_pigeon-19	Col-0371_123_desert-9	Col-0371_126_pigeon-19_3227	126	Col-0371_123_desert-9_3805	123	3	Pigeon	desert	25.0
+location	Lon-b0af_683_owls-22	Lon-b0af_686_wetland-26	Lon-b0af_683_owls-22_59	683	Lon-b0af_686_wetland-26_4542	686	3	Barn owl	wetlands	25.0
+location	Lon-b0af_683_owl-28	Lon-b0af_686_wetland-26	Lon-b0af_683_owl-28_59	683	Lon-b0af_686_wetland-26_4542	686	3	Barn owl	wetlands	25.0
+location	Lon-b0af_683_owl-35	Lon-b0af_686_wetland-26	Lon-b0af_683_owl-35_59	683	Lon-b0af_686_wetland-26_4542	686	3	Barn owl	wetlands	25.0
+location	Lon-b0af_683_owls-56	Lon-b0af_686_wetland-26	Lon-b0af_683_owls-56_59	683	Lon-b0af_686_wetland-26_4542	686	3	Barn owl	wetlands	25.0
+location	Eurb53d_9_Nightjars-1	Eurb53d_6_heathland-7	Eurb53d_9_Nightjars-1_2223	9	Eurb53d_6_heathland-7_4518	6	3	Nightjar	heathland	25.0
+location	Sno-0a8f_397_ptarmigans-18	Sno-0a8f_400_tundra-54	Sno-0a8f_397_ptarmigans-18_5427	397	Sno-0a8f_400_tundra-54_4539	400	3	ptarmigan	tundra	25.0
+location	Woo-fa9e_71_stork-2	Woo-fa9e_68_estuaries-25	Woo-fa9e_71_stork-2_301	71	Woo-fa9e_68_estuaries-25_4517	68	3	Wood stork	estuaries	25.0
+location	Eur-930e_22_coot-3	Eur-930e_25_lakes-12	Eur-930e_22_coot-3_3850	22	Eur-930e_25_lakes-12_4522	25	3	coot	lakes and ponds	25.0
+location	Com-0bc9_51_cranes-8	Com-0bc9_48_bogs-12	Com-0bc9_51_cranes-8_85	51	Com-0bc9_48_bogs-12_4511	48	3	Common crane	bog	25.0
+location	Moo-69c5_24_merlin-19	Moo-69c5_21_moorland-14	Moo-69c5_24_merlin-19_3876	24	Moo-69c5_21_moorland-14_4526	21	3	merlin	moorland	25.0
+location	Eur-24a9_89_nightjar-2	Eur-24a9_86_wetlands-24	Eur-24a9_89_nightjar-2_4949	89	Eur-24a9_86_wetlands-24_4542	86	3	nightjar	wetlands	25.0
+location	Osp-8ead_146_ospreys-10	Osp-8ead_143_coastal-18	Osp-8ead_146_ospreys-10_3890	146	Osp-8ead_143_coastal-18_1353	143	3	osprey	Coastal	25.0
+location	Chi-cf82_34_penguin-2	Chi-cf82_31_polar-13	Chi-cf82_34_penguin-2_1871	34	Chi-cf82_31_polar-13_4531	31	3	Chinstrap penguin	polar	25.0
+location	Lit-0303_52_egret-2	Lit-0303_49_swamps-9	Lit-0303_52_egret-2_3871	52	Lit-0303_49_swamps-9_3808	49	3	little egret	swamp	25.0
+location	Kin-aa66_48_kingfisher-21	Kin-aa66_51_deserts-15	Kin-aa66_48_kingfisher-21_5347	48	Kin-aa66_51_deserts-15_34	51	3	pied kingfisher	Desert	25.0
+location	Whi-0286_27_kingfisher-33	Whi-0286_30_rivers-12	Whi-0286_27_kingfisher-33_4806	27	Whi-0286_30_rivers-12_4533	30	3	kingfisher	rivers and streams	25.0
+location	Lon-b0af_210_owls-7	Lon-b0af_207_farmland-12	Lon-b0af_210_owls-7_5193	210	Lon-b0af_207_farmland-12_4509	207	3	long-eared owl	farmland	25.0
+location	Com-0e01_1_moorhen-2	Com-0e01_4_wetlands-16	Com-0e01_1_moorhen-2_3838	1	Com-0e01_4_wetlands-16_4542	4	3	common moorhen	wetlands	25.0
+location	Lon-b0af_204_owls-20	Lon-b0af_207_farmland-12	Lon-b0af_204_owls-20_5193	204	Lon-b0af_207_farmland-12_4509	207	3	long-eared owl	farmland	25.0
+location	Ant-44b4_171_penguin-7	Ant-44b4_174_polar-13	Ant-44b4_171_penguin-7_2111	171	Ant-44b4_174_polar-13_4531	174	3	Emperor penguin	polar	25.0
+location	Lit-23ba_27_corella-2	Lit-23ba_30_desert-16	Lit-23ba_27_corella-2_5186	27	Lit-23ba_30_desert-16_34	30	3	little corella	Desert	25.0
+location	Lit-23ba_27_corella-2	Lit-23ba_24_deserts-6	Lit-23ba_27_corella-2_5186	27	Lit-23ba_24_deserts-6_34	24	3	little corella	Desert	25.0
+location	Com-0e01_1_moorhen-2	Com-0e01_4_marshes-9	Com-0e01_1_moorhen-2_3838	1	Com-0e01_4_marshes-9_3807	4	3	common moorhen	marsh	25.0
+location	Lit-0303_107_egrets-3	Lit-0303_110_Marsh-16	Lit-0303_107_egrets-3_3871	107	Lit-0303_110_Marsh-16_36	110	3	little egret	Marsh	25.0
+location	Lit-f642_2_owl-3	Lit-f642_5_farmland-27	Lit-f642_2_owl-3_5188	2	Lit-f642_5_farmland-27_4509	5	3	little owl	farmland	25.0
+location	Lit-f642_2_owl-13	Lit-f642_5_farmland-27	Lit-f642_2_owl-13_5188	2	Lit-f642_5_farmland-27_4509	5	3	little owl	farmland	25.0
+location	Lit-f642_66_owl-3	Lit-f642_69_farmland-28	Lit-f642_66_owl-3_5188	66	Lit-f642_69_farmland-28_4509	69	3	little owl	farmland	25.0
+location	Lit-0303_46_egret-12	Lit-0303_49_swamps-9	Lit-0303_46_egret-12_3871	46	Lit-0303_49_swamps-9_3808	49	3	little egret	swamp	25.0
+location	Egr-0859_3_egret-16	Egr-0859_6_wetlands-9	Egr-0859_3_egret-16_3871	3	Egr-0859_6_wetlands-9_4542	6	3	little egret	wetlands	25.0
+location	Pel-a6d1_10_gannets-14	Pel-a6d1_7_ocean-16	Pel-a6d1_10_gannets-14_4331	10	Pel-a6d1_7_ocean-16_4530	7	3	gannets	open ocean	25.0
+location	Roc-fab6_51_ptarmigan-2	Roc-fab6_54_Mountains-41	Roc-fab6_51_ptarmigan-2_5427	51	Roc-fab6_54_Mountains-41_1366	54	3	ptarmigan	Mountains	25.0
+location	Pte-62aa_514_gannets-53	Pte-62aa_517_coastal-5	Pte-62aa_514_gannets-53_4331	514	Pte-62aa_517_coastal-5_4514	517	3	gannets	coastal	25.0
+location	Roc-fab6_51_ptarmigan-2	Roc-fab6_54_mountains-16	Roc-fab6_51_ptarmigan-2_5427	51	Roc-fab6_54_mountains-16_4527	54	3	ptarmigan	mountains	25.0
+location	Gre-acd6_2_Ardeidae-20	Gre-acd6_4_lakes-12	Gre-acd6_2_Ardeidae-20_628	2	Gre-acd6_4_lakes-12_4522	4	2	Ardeidae	lakes and ponds	22.0
+location	Eur-3ec7_306_owls-3	Eur-3ec7_308_tundra-43	Eur-3ec7_306_owls-3_2146	306	Eur-3ec7_308_tundra-43_4539	308	2	Eurasian eagle owl	tundra	22.0
+location	Lit-0303_46_egret-12	Lit-0303_48_lakes-14	Lit-0303_46_egret-12_3871	46	Lit-0303_48_lakes-14_4522	48	2	little egret	lakes and ponds	22.0
+location	Mal-71cc_198_mallard-9	Mal-71cc_196_rivers-13	Mal-71cc_198_mallard-9_3873	198	Mal-71cc_196_rivers-13_4533	196	2	mallard	rivers and streams	22.0
+location	Kin-aa66_60_kingfisher-4	Kin-aa66_62_rivers-7	Kin-aa66_60_kingfisher-4_4806	60	Kin-aa66_62_rivers-7_4533	62	2	kingfisher	rivers and streams	22.0
+location	Tai-3286_134_owl-63	Tai-3286_136_Taiga-1	Tai-3286_134_owl-63_5053	134	Tai-3286_136_Taiga-1_1373	136	2	great grey owl	Taiga	22.0
+location	Com-8a84_117_kingfisher-12	Com-8a84_119_rivers-17	Com-8a84_117_kingfisher-12_4806	117	Com-8a84_119_rivers-17_4533	119	2	kingfisher	rivers and streams	22.0
+location	Gre-acd6_2_heron-17	Gre-acd6_4_lakes-12	Gre-acd6_2_heron-17_5064	2	Gre-acd6_4_lakes-12_4522	4	2	grey heron	lakes and ponds	22.0
+location	Tai-3286_134_owl-53	Tai-3286_136_Taiga-1	Tai-3286_134_owl-53_5053	134	Tai-3286_136_Taiga-1_1373	136	2	great grey owl	Taiga	22.0
+location	Eur-3ec7_318_owls-12	Eur-3ec7_316_mountains-11	Eur-3ec7_318_owls-12_5053	318	Eur-3ec7_316_mountains-11_4527	316	2	great grey owl	mountains	22.0
+location	Per-145f_243_owl-17	Per-145f_241_mountain-43	Per-145f_243_owl-17_5053	243	Per-145f_241_mountain-43_4527	241	2	great grey owl	mountains	22.0
+location	Gre-acd6_2_heron-3	Gre-acd6_4_lakes-12	Gre-acd6_2_heron-3_5064	2	Gre-acd6_4_lakes-12_4522	4	2	grey heron	lakes and ponds	22.0
+location	Eur-3ec7_320_owls-15	Eur-3ec7_322_farmland-6	Eur-3ec7_320_owls-15_2146	320	Eur-3ec7_322_farmland-6_4509	322	2	Eurasian eagle owl	farmland	22.0
+location	Kin-aa66_64_kingfishers-15	Kin-aa66_62_rivers-7	Kin-aa66_64_kingfishers-15_4806	64	Kin-aa66_62_rivers-7_4533	62	2	kingfisher	rivers and streams	22.0
+location	Eur-3ec7_419_owl-16	Eur-3ec7_417_taiga-32	Eur-3ec7_419_owl-16_5053	419	Eur-3ec7_417_taiga-32_4534	417	2	great grey owl	taiga	22.0
+location	Her-2dde_50_herons-2	Her-2dde_48_lakes-20	Her-2dde_50_herons-2_5064	50	Her-2dde_48_lakes-20_4522	48	2	grey heron	lakes and ponds	22.0
+location	Her-2dde_50_heron-23	Her-2dde_48_lakes-20	Her-2dde_50_heron-23_5064	50	Her-2dde_48_lakes-20_4522	48	2	grey heron	lakes and ponds	22.0
+location	Kin-aa66_64_kingfisher-5	Kin-aa66_62_rivers-7	Kin-aa66_64_kingfisher-5_4806	64	Kin-aa66_62_rivers-7_4533	62	2	kingfisher	rivers and streams	22.0
+location	Tun-4bf6_115_columbianus-6	Tun-4bf6_112_Tundra-22	Tun-4bf6_115_columbianus-6_3572	115	Tun-4bf6_112_Tundra-22_1379	112	3	Cygnus columbianus	Tundra	21.75
+location	Tun-4bf6_115_columbianus-6	Tun-4bf6_112_Tundra-6	Tun-4bf6_115_columbianus-6_3572	115	Tun-4bf6_112_Tundra-6_1379	112	3	Cygnus columbianus	Tundra	21.75
+location	Tun-4bf6_5_swans-2	Tun-4bf6_8_Tundra-1	Tun-4bf6_5_swans-2_5584	5	Tun-4bf6_8_Tundra-1_1379	8	3	tundra swan	Tundra	20.75
+location	Tun-4bf6_103_swans-26	Tun-4bf6_106_Tundra-1	Tun-4bf6_103_swans-26_5584	103	Tun-4bf6_106_Tundra-1_1379	106	3	tundra swan	Tundra	20.75
+location	Cor-f314_93_gannets-26	Cor-f314_96_seas-19	Cor-f314_93_gannets-26_5271	93	Cor-f314_96_seas-19_1367	96	3	gannet	Shallow seas	20.75
+location	Per-145f_198_peregrines-19	Per-145f_201_mangrove-4	Per-145f_198_peregrines-19_5327	198	Per-145f_201_mangrove-4_4524	201	3	peregrine	mangroves	20.75
+location	Bra-4dd3_44_goose-3	Bra-4dd3_41_coastal-12	Bra-4dd3_44_goose-3_1777	44	Bra-4dd3_41_coastal-12_1353	41	3	Brant goose	Coastal	20.75
+location	Tun-4bf6_8_swan-2	Tun-4bf6_5_Tundra-1	Tun-4bf6_8_swan-2_3573	8	Tun-4bf6_5_Tundra-1_4539	5	3	Tundra swan	tundra	20.75
+location	Col-0371_126_dove-12	Col-0371_123_desert-9	Col-0371_126_dove-12_5425	126	Col-0371_123_desert-9_3805	123	3	rock dove	desert	20.75
+location	Bir-ebe4_337_pigeon-12	Bir-ebe4_333_desert-2	Bir-ebe4_337_pigeon-12_5421	337	Bir-ebe4_333_desert-2_3805	333	4	pigeon	desert	20.0
+location	Eur-3ec7_413_owls-4	Eur-3ec7_417_taiga-32	Eur-3ec7_413_owls-4_2146	413	Eur-3ec7_417_taiga-32_4534	417	4	Eurasian eagle owl	taiga	20.0
+location	Bra-4dd3_45_Branta-1	Bra-4dd3_41_coastal-12	Bra-4dd3_45_Branta-1_939	45	Bra-4dd3_41_coastal-12_4514	41	4	Branta	coastal	20.0
+location	Sul-00bf_7_gannets-15	Sul-00bf_3_coastal-9	Sul-00bf_7_gannets-15_4331	7	Sul-00bf_3_coastal-9_4514	3	4	gannets	coastal	20.0
+location	Sho-489b_80_shoebill-9	Sho-489b_76_marshes-13	Sho-489b_80_shoebill-9_3897	80	Sho-489b_76_marshes-13_3807	76	4	shoebill	marsh	20.0
+location	Lit-f642_1_owl-2	Lit-f642_5_farmland-27	Lit-f642_1_owl-2_5188	1	Lit-f642_5_farmland-27_4509	5	4	little owl	farmland	20.0
+location	Bog-cdf9_49_cranes-29	Bog-cdf9_53_bog-10	Bog-cdf9_49_cranes-29_228	49	Bog-cdf9_53_bog-10_4511	53	4	Siberian crane	bog	20.0
+location	Sno-3c77_68_goose-20	Sno-3c77_64_tundra-17	Sno-3c77_68_goose-20_4661	68	Sno-3c77_64_tundra-17_4539	64	4	barnacle goose	tundra	20.0
+location	Sno-0a8f_444_pheasants-3	Sno-0a8f_440_Marsh-3	Sno-0a8f_444_pheasants-3_3840	444	Sno-0a8f_440_Marsh-3_36	440	4	pheasant	Marsh	20.0
+location	Gre-e288_99_owl-9	Gre-e288_95_mountain-35	Gre-e288_99_owl-9_5053	99	Gre-e288_95_mountain-35_4527	95	4	great grey owl	mountains	20.0
+location	Sno-3c77_68_goose-27	Sno-3c77_64_tundra-17	Sno-3c77_68_goose-27_4661	68	Sno-3c77_64_tundra-17_4539	64	4	barnacle goose	tundra	20.0
+location	Eur-82d0_14_bittern-2	Eur-82d0_10_wetlands-11	Eur-82d0_14_bittern-2_4910	14	Eur-82d0_10_wetlands-11_4542	10	4	bittern	wetlands	20.0
+location	Com-0bc9_47_crane-6	Com-0bc9_51_swamps-14	Com-0bc9_47_crane-6_85	47	Com-0bc9_51_swamps-14_3808	51	4	Common crane	swamp	20.0
+location	Sho-489b_71_Shoebill-1	Sho-489b_67_marshes-9	Sho-489b_71_Shoebill-1_224	71	Sho-489b_67_marshes-9_3807	67	4	Shoebill	marsh	20.0
+location	Mal-71cc_103_Mallard-1	Mal-71cc_99_wetlands-12	Mal-71cc_103_Mallard-1_171	103	Mal-71cc_99_wetlands-12_4542	99	4	Mallard	wetlands	20.0
+location	Mal-71cc_103_Mallard-1	Mal-71cc_99_estuaries-24	Mal-71cc_103_Mallard-1_171	103	Mal-71cc_99_estuaries-24_4517	99	4	Mallard	estuaries	20.0
+location	Com-0e01_8_moorhen-2	Com-0e01_4_wetlands-16	Com-0e01_8_moorhen-2_100	8	Com-0e01_4_wetlands-16_4542	4	4	Common moorhen	wetlands	20.0
+location	Com-0bc9_47_crane-6	Com-0bc9_51_bogs-16	Com-0bc9_47_crane-6_85	47	Com-0bc9_51_bogs-16_4511	51	4	Common crane	bog	20.0
+location	Com-0e01_6_coot-15	Com-0e01_10_marsh-10	Com-0e01_6_coot-15_3850	6	Com-0e01_10_marsh-10_3807	10	4	coot	marsh	20.0
+location	Com-a681_44_kestrels-9	Com-a681_40_desert-17	Com-a681_44_kestrels-9_3837	44	Com-a681_40_desert-17_34	40	4	kestrel	Desert	20.0
+location	Mer-5a4a_83_merlin-20	Mer-5a4a_87_moorland-31	Mer-5a4a_83_merlin-20_3876	83	Mer-5a4a_87_moorland-31_4526	87	4	merlin	moorland	20.0
+adaptation	Afr-f1c4_110_penguins-6	Afr-f1c4_110_predators-3	Afr-f1c4_110_penguins-6_1455	110	Afr-f1c4_110_predators-3_359	110	0	African penguin	Predator	100.0
+adaptation	Bar-78df_194_owl-8	Bar-78df_194_predators-30	Bar-78df_194_owl-8_4350	194	Bar-78df_194_predators-30_3977	194	0	horned owls	predator	100.0
+adaptation	Mex-2908_68_owls-19	Mex-2908_68_Predators-1	Mex-2908_68_owls-19_4350	68	Mex-2908_68_Predators-1_359	68	0	horned owls	Predator	100.0
+adaptation	Mal-71cc_147_owls-29	Mal-71cc_147_predators-76	Mal-71cc_147_owls-29_4350	147	Mal-71cc_147_predators-76_359	147	0	horned owls	Predator	100.0
+adaptation	Per-145f_243_owl-17	Per-145f_243_predators-4	Per-145f_243_owl-17_4350	243	Per-145f_243_predators-4_359	243	0	horned owls	Predator	100.0
+adaptation	Mal-71cc_147_owls-29	Mal-71cc_147_predators-67	Mal-71cc_147_owls-29_4350	147	Mal-71cc_147_predators-67_359	147	0	horned owls	Predator	100.0
+adaptation	Gre-e288_109_owls-27	Gre-e288_109_predators-21	Gre-e288_109_owls-27_4350	109	Gre-e288_109_predators-21_359	109	0	horned owls	Predator	100.0
+adaptation	Gre-e288_109_owls-3	Gre-e288_109_predators-21	Gre-e288_109_owls-3_4350	109	Gre-e288_109_predators-21_359	109	0	horned owls	Predator	100.0
+adaptation	Mal-71cc_147_owls-37	Mal-71cc_147_predators-67	Mal-71cc_147_owls-37_4350	147	Mal-71cc_147_predators-67_359	147	0	horned owls	Predator	100.0
+adaptation	Mal-71cc_147_owls-37	Mal-71cc_147_predators-76	Mal-71cc_147_owls-37_4350	147	Mal-71cc_147_predators-76_359	147	0	horned owls	Predator	100.0
+adaptation	Mex-2908_68_owls-22	Mex-2908_68_Predators-1	Mex-2908_68_owls-22_4350	68	Mex-2908_68_Predators-1_3977	68	0	horned owls	predator	100.0
+adaptation	Bar-78df_194_owls-33	Bar-78df_194_predators-30	Bar-78df_194_owls-33_4350	194	Bar-78df_194_predators-30_3977	194	0	horned owls	predator	100.0
+adaptation	Bar-78df_194_owl-23	Bar-78df_194_predators-30	Bar-78df_194_owl-23_4350	194	Bar-78df_194_predators-30_3977	194	0	horned owls	predator	100.0
+adaptation	Bar-b361_97_hobbies-27	Bar-b361_97_predators-10	Bar-b361_97_hobbies-27_4916	97	Bar-b361_97_predators-10_359	97	0	hobby	Predator	100.0
+adaptation	Roc-2376_181_owls-25	Roc-2376_181_predators-3	Roc-2376_181_owls-25_4350	181	Roc-2376_181_predators-3_3977	181	0	horned owls	predator	100.0
+adaptation	Roc-2376_181_owls-21	Roc-2376_181_predators-3	Roc-2376_181_owls-21_4350	181	Roc-2376_181_predators-3_3977	181	0	horned owls	predator	100.0
+adaptation	Tru-4f35_87_owls-10	Tru-4f35_87_predators-3	Tru-4f35_87_owls-10_4350	87	Tru-4f35_87_predators-3_3977	87	0	horned owls	predator	100.0
+adaptation	Har-8a11_61_owls-30	Har-8a11_61_predator-20	Har-8a11_61_owls-30_4350	61	Har-8a11_61_predator-20_3977	61	0	horned owls	predator	100.0
+adaptation	Har-8a11_61_owls-30	Har-8a11_61_predators-24	Har-8a11_61_owls-30_4350	61	Har-8a11_61_predators-24_3977	61	0	horned owls	predator	100.0
+adaptation	Lon-b0af_533_owl-11	Lon-b0af_533_predator-6	Lon-b0af_533_owl-11_4350	533	Lon-b0af_533_predator-6_3977	533	0	horned owls	predator	100.0
+adaptation	Sta-7425_30_owl-13	Sta-7425_30_Predators-1	Sta-7425_30_owl-13_4350	30	Sta-7425_30_Predators-1_3977	30	0	horned owls	predator	100.0
+adaptation	Sta-7425_30_owl-16	Sta-7425_30_Predators-1	Sta-7425_30_owl-16_4350	30	Sta-7425_30_Predators-1_3977	30	0	horned owls	predator	100.0
+adaptation	Tru-4f35_87_owls-6	Tru-4f35_87_predators-3	Tru-4f35_87_owls-6_4350	87	Tru-4f35_87_predators-3_3977	87	0	horned owls	predator	100.0
+adaptation	Sta-7425_30_owl-10	Sta-7425_30_Predators-1	Sta-7425_30_owl-10_4350	30	Sta-7425_30_Predators-1_3977	30	0	horned owls	predator	100.0
+adaptation	Mal-71cc_147_owls-41	Mal-71cc_147_predators-67	Mal-71cc_147_owls-41_4350	147	Mal-71cc_147_predators-67_359	147	0	horned owls	Predator	100.0
+adaptation	Mal-71cc_147_owls-41	Mal-71cc_147_predators-76	Mal-71cc_147_owls-41_4350	147	Mal-71cc_147_predators-76_359	147	0	horned owls	Predator	100.0
+adaptation	Bar-b361_183_hobby-13	Bar-b361_183_predators-5	Bar-b361_183_hobby-13_4916	183	Bar-b361_183_predators-5_359	183	0	hobby	Predator	100.0
+adaptation	Bar-b361_97_hobbies-27	Bar-b361_97_predators-24	Bar-b361_97_hobbies-27_4916	97	Bar-b361_97_predators-24_359	97	0	hobby	Predator	100.0
+adaptation	Bar-b361_26_hobby-23	Bar-b361_26_predators-9	Bar-b361_26_hobby-23_4916	26	Bar-b361_26_predators-9_359	26	0	hobby	Predator	100.0
+adaptation	Swa-71c0_71_hobbies-14	Swa-71c0_71_predators-8	Swa-71c0_71_hobbies-14_4916	71	Swa-71c0_71_predators-8_3977	71	0	hobby	predator	100.0
+adaptation	Mer-5a4a_101_hobbies-29	Mer-5a4a_101_predators-15	Mer-5a4a_101_hobbies-29_4916	101	Mer-5a4a_101_predators-15_3977	101	0	hobby	predator	100.0
+adaptation	Bro-4c07_30_kestrel-10	Bro-4c07_30_predator-3	Bro-4c07_30_kestrel-10_3837	30	Bro-4c07_30_predator-3_3977	30	0	kestrel	predator	100.0
+adaptation	Com-f222_480_kestrel-28	Com-f222_480_predator-6	Com-f222_480_kestrel-28_3837	480	Com-f222_480_predator-6_3977	480	0	kestrel	predator	100.0
+adaptation	Com-f222_480_kestrel-37	Com-f222_480_predator-6	Com-f222_480_kestrel-37_3837	480	Com-f222_480_predator-6_3977	480	0	kestrel	predator	100.0
+adaptation	Bro-4c07_22_kestrels-19	Bro-4c07_22_predators-16	Bro-4c07_22_kestrels-19_3837	22	Bro-4c07_22_predators-16_3977	22	0	kestrel	predator	100.0
+adaptation	Eur-987c_60_kestrel-41	Eur-987c_60_predators-50	Eur-987c_60_kestrel-41_3837	60	Eur-987c_60_predators-50_3977	60	0	kestrel	predator	100.0
+adaptation	Eur-9ec0_53_kestrels-22	Eur-9ec0_53_predators-2	Eur-9ec0_53_kestrels-22_3837	53	Eur-9ec0_53_predators-2_3977	53	0	kestrel	predator	100.0
+adaptation	Ban-5f22_71_kestrel-56	Ban-5f22_71_predators-21	Ban-5f22_71_kestrel-56_3837	71	Ban-5f22_71_predators-21_3977	71	0	kestrel	predator	100.0
+adaptation	Him-3e6b_35_kestrels-21	Him-3e6b_35_predators-2	Him-3e6b_35_kestrels-21_3837	35	Him-3e6b_35_predators-2_3977	35	0	kestrel	predator	100.0
+adaptation	Mex-2908_68_kestrels-15	Mex-2908_68_Predators-1	Mex-2908_68_kestrels-15_3837	68	Mex-2908_68_Predators-1_3977	68	0	kestrel	predator	100.0
+adaptation	Wat-4f58_195_kestrel-43	Wat-4f58_195_predators-7	Wat-4f58_195_kestrel-43_3837	195	Wat-4f58_195_predators-7_3977	195	0	kestrel	predator	100.0
+adaptation	Bir-ebe4_324_kingfishers-29	Bir-ebe4_324_predators-24	Bir-ebe4_324_kingfishers-29_4806	324	Bir-ebe4_324_predators-24_359	324	0	kingfisher	Predator	100.0
+adaptation	Bir-959d_5_kingfishers-52	Bir-959d_5_predators-39	Bir-959d_5_kingfishers-52_4806	5	Bir-959d_5_predators-39_359	5	0	kingfisher	Predator	100.0
+adaptation	Com-8a84_76_kingfishers-3	Com-8a84_76_territorial-10	Com-8a84_76_kingfishers-3_4806	76	Com-8a84_76_territorial-10_3985	76	0	kingfisher	territorial	100.0
+adaptation	Com-8a84_76_kingfisher-7	Com-8a84_76_territorial-10	Com-8a84_76_kingfisher-7_4806	76	Com-8a84_76_territorial-10_3985	76	0	kingfisher	territorial	100.0
+adaptation	Riv-d435_41_kingfishers-2	Riv-d435_41_territorial-6	Riv-d435_41_kingfishers-2_4806	41	Riv-d435_41_territorial-6_3985	41	0	kingfisher	territorial	100.0
+adaptation	Eur-9ec0_53_owls-11	Eur-9ec0_53_predators-2	Eur-9ec0_53_owls-11_5188	53	Eur-9ec0_53_predators-2_359	53	0	little owl	Predator	100.0
+adaptation	Eur-9ec0_53_owls-8	Eur-9ec0_53_predators-2	Eur-9ec0_53_owls-8_5188	53	Eur-9ec0_53_predators-2_359	53	0	little owl	Predator	100.0
+adaptation	Eur-9ec0_53_owls-16	Eur-9ec0_53_predators-2	Eur-9ec0_53_owls-16_5188	53	Eur-9ec0_53_predators-2_359	53	0	little owl	Predator	100.0
+adaptation	Eur-9ec0_53_owls-19	Eur-9ec0_53_predators-2	Eur-9ec0_53_owls-19_5188	53	Eur-9ec0_53_predators-2_359	53	0	little owl	Predator	100.0
+adaptation	Eur-b4b7_155_owl-3	Eur-b4b7_155_predator-7	Eur-b4b7_155_owl-3_5188	155	Eur-b4b7_155_predator-7_359	155	0	little owl	Predator	100.0
+adaptation	Cho-a88d_88_kestrel-13	Cho-a88d_88_predators-31	Cho-a88d_88_kestrel-13_3837	88	Cho-a88d_88_predators-31_3977	88	0	kestrel	predator	100.0
+adaptation	Kag-2289_72_kagu-14	Kag-2289_72_predators-23	Kag-2289_72_kagu-14_5133	72	Kag-2289_72_predators-23_359	72	0	kagu	Predator	100.0
+adaptation	Kag-2289_72_kagu-2	Kag-2289_72_predators-23	Kag-2289_72_kagu-2_5133	72	Kag-2289_72_predators-23_359	72	0	kagu	Predator	100.0
+adaptation	Kag-2289_72_kagu-14	Kag-2289_72_territorial-10	Kag-2289_72_kagu-14_5133	72	Kag-2289_72_territorial-10_3985	72	0	kagu	territorial	100.0
+adaptation	Kag-2289_72_kagu-2	Kag-2289_72_territorial-10	Kag-2289_72_kagu-2_5133	72	Kag-2289_72_territorial-10_3985	72	0	kagu	territorial	100.0
+adaptation	Eur-987c_60_owl-30	Eur-987c_60_predators-50	Eur-987c_60_owl-30_3816	60	Eur-987c_60_predators-50_3977	60	0	barn owl	predator	100.0
+adaptation	Bar-78df_196_owls-15	Bar-78df_196_predators-6	Bar-78df_196_owls-15_3816	196	Bar-78df_196_predators-6_3977	196	0	barn owl	predator	100.0
+adaptation	Eur-987c_60_owl-21	Eur-987c_60_predators-50	Eur-987c_60_owl-21_3816	60	Eur-987c_60_predators-50_3977	60	0	barn owl	predator	100.0
+adaptation	Cal-7842_33_owls-8	Cal-7842_33_predators-3	Cal-7842_33_owls-8_3816	33	Cal-7842_33_predators-3_3977	33	0	barn owl	predator	100.0
+adaptation	Eur-b4b7_154_owls-22	Eur-b4b7_154_predators-2	Eur-b4b7_154_owls-22_3816	154	Eur-b4b7_154_predators-2_3977	154	0	barn owl	predator	100.0
+adaptation	Gre-e288_111_owl-3	Gre-e288_111_Territorial-5	Gre-e288_111_owl-3_5053	111	Gre-e288_111_Territorial-5_3985	111	0	great grey owl	territorial	100.0
+adaptation	Eur-b4b7_154_owl-15	Eur-b4b7_154_predators-2	Eur-b4b7_154_owl-15_3816	154	Eur-b4b7_154_predators-2_3977	154	0	barn owl	predator	100.0
+adaptation	Eur-9431_150_owl-10	Eur-9431_150_predators-2	Eur-9431_150_owl-10_3816	150	Eur-9431_150_predators-2_3977	150	0	barn owl	predator	100.0
+adaptation	Eur-9431_150_owl-14	Eur-9431_150_predators-2	Eur-9431_150_owl-14_3816	150	Eur-9431_150_predators-2_3977	150	0	barn owl	predator	100.0
+adaptation	Gra-9199_91_owl-13	Gra-9199_91_predators-4	Gra-9199_91_owl-13_3816	91	Gra-9199_91_predators-4_3977	91	0	barn owl	predator	100.0
+adaptation	Eur-82d0_133_bittern-27	Eur-82d0_133_camouflage-12	Eur-82d0_133_bittern-27_4910	133	Eur-82d0_133_camouflage-12_3947	133	0	bittern	camouflage	100.0
+adaptation	Bla-24f6_168_grebe-12	Bla-24f6_168_migration-16	Bla-24f6_168_grebe-12_4696	168	Bla-24f6_168_migration-16_1	168	0	black-necked grebe	Migration	100.0
+adaptation	Bar-78df_194_bubo-26	Bar-78df_194_predators-30	Bar-78df_194_bubo-26_4349	194	Bar-78df_194_predators-30_359	194	0	bubo	Predator	100.0
+adaptation	Com-f222_468_bubo-21	Com-f222_468_predator-4	Com-f222_468_bubo-21_4349	468	Com-f222_468_predator-4_359	468	0	bubo	Predator	100.0
+adaptation	Bar-78df_198_owls-8	Bar-78df_198_predators-14	Bar-78df_198_owls-8_3816	198	Bar-78df_198_predators-14_3977	198	0	barn owl	predator	100.0
+adaptation	Bar-78df_196_owls-9	Bar-78df_196_predators-6	Bar-78df_196_owls-9_3816	196	Bar-78df_196_predators-6_3977	196	0	barn owl	predator	100.0
+adaptation	Eur-9431_150_owl-30	Eur-9431_150_predators-2	Eur-9431_150_owl-30_3816	150	Eur-9431_150_predators-2_359	150	0	barn owl	Predator	100.0
+adaptation	Bar-78df_83_owls-3	Bar-78df_83_nocturnal-9	Bar-78df_83_owls-3_3816	83	Bar-78df_83_nocturnal-9_3967	83	0	barn owl	nocturnal	100.0
+adaptation	Bar-267a_13_owls-3	Bar-267a_13_nocturnal-6	Bar-267a_13_owls-3_3816	13	Bar-267a_13_nocturnal-6_3967	13	0	barn owl	nocturnal	100.0
+adaptation	Bar-78df_10_owl-3	Bar-78df_10_nocturnal-5	Bar-78df_10_owl-3_3816	10	Bar-78df_10_nocturnal-5_3967	10	0	barn owl	nocturnal	100.0
+adaptation	Bar-78df_83_owl-7	Bar-78df_83_nocturnal-9	Bar-78df_83_owl-7_3816	83	Bar-78df_83_nocturnal-9_3967	83	0	barn owl	nocturnal	100.0
+adaptation	Eur-b4b7_154_owl-15	Eur-b4b7_154_nocturnal-13	Eur-b4b7_154_owl-15_3816	154	Eur-b4b7_154_nocturnal-13_3967	154	0	barn owl	nocturnal	100.0
+adaptation	Eur-b4b7_154_owls-22	Eur-b4b7_154_nocturnal-13	Eur-b4b7_154_owls-22_3816	154	Eur-b4b7_154_nocturnal-13_3967	154	0	barn owl	nocturnal	100.0
+adaptation	Gra-9199_91_owl-16	Gra-9199_91_predators-4	Gra-9199_91_owl-16_3816	91	Gra-9199_91_predators-4_3977	91	0	barn owl	predator	100.0
+adaptation	Bar-78df_198_owl-34	Bar-78df_198_predators-14	Bar-78df_198_owl-34_3816	198	Bar-78df_198_predators-14_3977	198	0	barn owl	predator	100.0
+adaptation	Bar-78df_198_owls-17	Bar-78df_198_predators-14	Bar-78df_198_owls-17_3816	198	Bar-78df_198_predators-14_3977	198	0	barn owl	predator	100.0
+adaptation	Bar-78df_196_owls-24	Bar-78df_196_predators-6	Bar-78df_196_owls-24_3816	196	Bar-78df_196_predators-6_3977	196	0	barn owl	predator	100.0
+adaptation	Bar-78df_192_owl-2	Bar-78df_192_Predators-8	Bar-78df_192_owl-2_3816	192	Bar-78df_192_Predators-8_3977	192	0	barn owl	predator	100.0
+adaptation	Eur-1ed4_58_bubo-7	Eur-1ed4_58_predators-21	Eur-1ed4_58_bubo-7_4349	58	Eur-1ed4_58_predators-21_359	58	0	bubo	Predator	100.0
+adaptation	Ame-86f0_149_bubo-7	Ame-86f0_149_predators-12	Ame-86f0_149_bubo-7_4349	149	Ame-86f0_149_predators-12_359	149	0	bubo	Predator	100.0
+adaptation	Eur-3123_242_bubo-6	Eur-3123_242_predators-41	Eur-3123_242_bubo-6_4349	242	Eur-3123_242_predators-41_359	242	0	bubo	Predator	100.0
+adaptation	Com-0bc9_127_cranes-2	Com-0bc9_127_migration-15	Com-0bc9_127_cranes-2_3832	127	Com-0bc9_127_migration-15_3781	127	0	common crane	migration	100.0
+adaptation	Mar-bb56_278_owl-12	Mar-bb56_278_predators-3	Mar-bb56_278_owl-12_4244	278	Mar-bb56_278_predators-3_3977	278	0	eared owls	predator	100.0
+adaptation	Rat-9c9a_130_birds-4	Rat-9c9a_130_herbivorous-18	Rat-9c9a_130_birds-4_4895	130	Rat-9c9a_130_herbivorous-18_3784	130	0	elephant birds	herbivorous	100.0
+adaptation	Emp-5971_118_penguin-3	Emp-5971_118_social-6	Emp-5971_118_penguin-3_4899	118	Emp-5971_118_social-6_3788	118	0	emperor penguin	social	100.0
+adaptation	Com-f450_6_goldeneyes-2	Com-f450_6_displays-13	Com-f450_6_goldeneyes-2_4804	6	Com-f450_6_displays-13_3951	6	0	goldeneye	courtship display	100.0
+adaptation	Com-f450_6_goldeneyes-2	Com-f450_6_territorial-6	Com-f450_6_goldeneyes-2_4804	6	Com-f450_6_territorial-6_3985	6	0	goldeneye	territorial	100.0
+adaptation	Gre-e890_72_bustards-2	Gre-e890_72_migration-17	Gre-e890_72_bustards-2_5044	72	Gre-e890_72_migration-17_1	72	0	great bustard	Migration	100.0
+adaptation	Com-f222_477_owls-15	Com-f222_477_predators-5	Com-f222_477_owls-15_5053	477	Com-f222_477_predators-5_359	477	0	great grey owl	Predator	100.0
+adaptation	Com-f222_477_owls-32	Com-f222_477_predators-5	Com-f222_477_owls-32_5053	477	Com-f222_477_predators-5_359	477	0	great grey owl	Predator	100.0
+adaptation	Com-f222_477_owls-39	Com-f222_477_predators-5	Com-f222_477_owls-39_5053	477	Com-f222_477_predators-5_359	477	0	great grey owl	Predator	100.0
+adaptation	Gre-e288_108_owls-9	Gre-e288_108_predators-13	Gre-e288_108_owls-9_5053	108	Gre-e288_108_predators-13_359	108	0	great grey owl	Predator	100.0
+adaptation	Gre-e288_112_owl-4	Gre-e288_112_predators-13	Gre-e288_112_owl-4_5053	112	Gre-e288_112_predators-13_359	112	0	great grey owl	Predator	100.0
+adaptation	Gre-e288_110_owls-9	Gre-e288_110_predator-4	Gre-e288_110_owls-9_5053	110	Gre-e288_110_predator-4_359	110	0	great grey owl	Predator	100.0
+adaptation	Gre-e288_110_owl-15	Gre-e288_110_predator-4	Gre-e288_110_owl-15_5053	110	Gre-e288_110_predator-4_359	110	0	great grey owl	Predator	100.0
+adaptation	Com-0bc9_36_cranes-5	Com-0bc9_36_Migration-1	Com-0bc9_36_cranes-5_3832	36	Com-0bc9_36_Migration-1_3781	36	0	common crane	migration	100.0
+adaptation	Gre-e288_110_bubo-18	Gre-e288_110_predator-4	Gre-e288_110_bubo-18_4349	110	Gre-e288_110_predator-4_359	110	0	bubo	Predator	100.0
+adaptation	Com-0bc9_127_crane-9	Com-0bc9_127_migration-15	Com-0bc9_127_crane-9_3832	127	Com-0bc9_127_migration-15_3781	127	0	common crane	migration	100.0
+adaptation	Eur-bc75_403_bubo-29	Eur-bc75_403_predator-19	Eur-bc75_403_bubo-29_4349	403	Eur-bc75_403_predator-19_3977	403	0	bubo	predator	100.0
+adaptation	Bur-d18a_147_owls-10	Bur-d18a_147_predators-17	Bur-d18a_147_owls-10_4747	147	Bur-d18a_147_predators-17_359	147	0	burrowing owl	Predator	100.0
+adaptation	Bur-d18a_151_owls-9	Bur-d18a_151_predators-23	Bur-d18a_151_owls-9_4747	151	Bur-d18a_151_predators-23_359	151	0	burrowing owl	Predator	100.0
+adaptation	Bur-d18a_151_owls-21	Bur-d18a_151_predators-23	Bur-d18a_151_owls-21_4747	151	Bur-d18a_151_predators-23_359	151	0	burrowing owl	Predator	100.0
+adaptation	Bur-d18a_151_owls-30	Bur-d18a_151_predators-23	Bur-d18a_151_owls-30_4747	151	Bur-d18a_151_predators-23_359	151	0	burrowing owl	Predator	100.0
+adaptation	Wes30d4_16_capercaillie-3	Wes30d4_16_display-5	Wes30d4_16_capercaillie-3_5607	16	Wes30d4_16_display-5_3951	16	0	capercaillie	courtship display	100.0
+adaptation	Com-0bc9_22_crane-11	Com-0bc9_22_migration-6	Com-0bc9_22_crane-11_3832	22	Com-0bc9_22_migration-6_1	22	0	common crane	Migration	100.0
+adaptation	Sto-5255_5_petrels-3	Sto-5255_5_migration-41	Sto-5255_5_petrels-3_4962	5	Sto-5255_5_migration-41_1	5	0	storm petrel	Migration	100.0
+adaptation	Sno-0a8f_266_owls-12	Sno-0a8f_266_territorial-14	Sno-0a8f_266_owls-12_3906	266	Sno-0a8f_266_territorial-14_3985	266	0	snowy owl	territorial	100.0
+adaptation	Nor-f256_72_petrel-8	Nor-f256_72_migrations-21	Nor-f256_72_petrel-8_4962	72	Nor-f256_72_migrations-21_1	72	0	storm petrel	Migration	100.0
+adaptation	Nor-f256_71_petrel-51	Nor-f256_71_migrations-8	Nor-f256_71_petrel-51_4962	71	Nor-f256_71_migrations-8_1	71	0	storm petrel	Migration	100.0
+adaptation	Nor-f256_71_petrel-26	Nor-f256_71_migrations-8	Nor-f256_71_petrel-26_4962	71	Nor-f256_71_migrations-8_1	71	0	storm petrel	Migration	100.0
+adaptation	Nor-f256_71_petrel-6	Nor-f256_71_migrations-8	Nor-f256_71_petrel-6_4962	71	Nor-f256_71_migrations-8_1	71	0	storm petrel	Migration	100.0
+adaptation	Pro-9ebc_64_petrel-18	Pro-9ebc_64_migrations-11	Pro-9ebc_64_petrel-18_4962	64	Pro-9ebc_64_migrations-11_1	64	0	storm petrel	Migration	100.0
+adaptation	Sto-5255_5_petrel-19	Sto-5255_5_migration-41	Sto-5255_5_petrel-19_4962	5	Sto-5255_5_migration-41_1	5	0	storm petrel	Migration	100.0
+adaptation	Sto-5255_5_petrels-38	Sto-5255_5_migration-41	Sto-5255_5_petrels-38_4962	5	Sto-5255_5_migration-41_1	5	0	storm petrel	Migration	100.0
+adaptation	Pro-9ebc_64_petrel-5	Pro-9ebc_64_migrations-11	Pro-9ebc_64_petrel-5_4962	64	Pro-9ebc_64_migrations-11_1	64	0	storm petrel	Migration	100.0
+adaptation	Pro-9ebc_64_petrel-22	Pro-9ebc_64_migrations-11	Pro-9ebc_64_petrel-22_4962	64	Pro-9ebc_64_migrations-11_1	64	0	storm petrel	Migration	100.0
+adaptation	Nor-f256_102_petrel-4	Nor-f256_102_predators-15	Nor-f256_102_petrel-4_4962	102	Nor-f256_102_predators-15_359	102	0	storm petrel	Predator	100.0
+adaptation	Bar-b361_183_falcon-9	Bar-b361_183_predators-5	Bar-b361_183_falcon-9_5326	183	Bar-b361_183_predators-5_359	183	0	peregrine falcon	Predator	100.0
+adaptation	Nor-f256_67_petrels-32	Nor-f256_67_predators-9	Nor-f256_67_petrels-32_4962	67	Nor-f256_67_predators-9_359	67	0	storm petrel	Predator	100.0
+adaptation	Nor-f256_15_petrels-6	Nor-f256_15_predators-36	Nor-f256_15_petrels-6_4962	15	Nor-f256_15_predators-36_359	15	0	storm petrel	Predator	100.0
+adaptation	Nor-f256_15_petrels-21	Nor-f256_15_predators-36	Nor-f256_15_petrels-21_4962	15	Nor-f256_15_predators-36_359	15	0	storm petrel	Predator	100.0
+adaptation	Nor-f256_75_petrels-16	Nor-f256_75_predators-9	Nor-f256_75_petrels-16_4962	75	Nor-f256_75_predators-9_359	75	0	storm petrel	Predator	100.0
+adaptation	Sno526c_5_owls-28	Sno526c_5_predators-7	Sno526c_5_owls-28_3906	5	Sno526c_5_predators-7_3977	5	0	snowy owl	predator	100.0
+adaptation	Sno-0a8f_501_owl-24	Sno-0a8f_501_predators-6	Sno-0a8f_501_owl-24_3906	501	Sno-0a8f_501_predators-6_3977	501	0	snowy owl	predator	100.0
+adaptation	Sno-0a8f_491_owls-6	Sno-0a8f_491_predators-17	Sno-0a8f_491_owls-6_3906	491	Sno-0a8f_491_predators-17_3977	491	0	snowy owl	predator	100.0
+adaptation	Sno-0a8f_478_owls-26	Sno-0a8f_478_predators-21	Sno-0a8f_478_owls-26_3906	478	Sno-0a8f_478_predators-21_3977	478	0	snowy owl	predator	100.0
+adaptation	Cho-a88d_87_falcon-8	Cho-a88d_87_Predators-1	Cho-a88d_87_falcon-8_5326	87	Cho-a88d_87_Predators-1_3977	87	0	peregrine falcon	predator	100.0
+adaptation	Wat-4f58_195_falcons-50	Wat-4f58_195_predators-7	Wat-4f58_195_falcons-50_5326	195	Wat-4f58_195_predators-7_3977	195	0	peregrine falcon	predator	100.0
+adaptation	Lon-b0af_538_falcons-26	Lon-b0af_538_predators-2	Lon-b0af_538_falcons-26_5326	538	Lon-b0af_538_predators-2_3977	538	0	peregrine falcon	predator	100.0
+adaptation	Red-56ec_100_falcon-11	Red-56ec_100_predators-7	Red-56ec_100_falcon-11_5326	100	Red-56ec_100_predators-7_3977	100	0	peregrine falcon	predator	100.0
+adaptation	Eur-9431_150_falcon-22	Eur-9431_150_predators-2	Eur-9431_150_falcon-22_5326	150	Eur-9431_150_predators-2_3977	150	0	peregrine falcon	predator	100.0
+adaptation	Per-145f_229_falcon-8	Per-145f_229_territorial-10	Per-145f_229_falcon-8_5326	229	Per-145f_229_territorial-10_3985	229	0	peregrine falcon	territorial	100.0
+adaptation	Roc-2376_157_pigeons-19	Roc-2376_157_social-34	Roc-2376_157_pigeons-19_5421	157	Roc-2376_157_social-34_3788	157	0	pigeon	social	100.0
+adaptation	Roc-fab6_109_ptarmigan-3	Roc-fab6_109_territorial-7	Roc-fab6_109_ptarmigan-3_5427	109	Roc-fab6_109_territorial-7_3985	109	0	ptarmigan	territorial	100.0
+adaptation	Redb29d_7_cranes-5	Redb29d_7_migration-14	Redb29d_7_cranes-5_3895	7	Redb29d_7_migration-14_1	7	0	red-crowned crane	Migration	100.0
+adaptation	Nil-600c_352_shoebills-42	Nil-600c_352_predators-8	Nil-600c_352_shoebills-42_3897	352	Nil-600c_352_predators-8_359	352	0	shoebill	Predator	100.0
+adaptation	Asi-04d8_10_owls-11	Asi-04d8_10_nocturnal-5	Asi-04d8_10_owls-11_5468	10	Asi-04d8_10_nocturnal-5_3967	10	0	short-eared owl	nocturnal	100.0
+adaptation	Asi-04d8_10_owls-2	Asi-04d8_10_nocturnal-5	Asi-04d8_10_owls-2_5468	10	Asi-04d8_10_nocturnal-5_3967	10	0	short-eared owl	nocturnal	100.0
+adaptation	Taw-0bfd_6_owl-3	Taw-0bfd_6_nocturnal-6	Taw-0bfd_6_owl-3_5536	6	Taw-0bfd_6_nocturnal-6_3967	6	0	tawny owl	nocturnal	100.0
+adaptation	Taw-0bfd_4_owl-3	Taw-0bfd_4_predators-23	Taw-0bfd_4_owl-3_5536	4	Taw-0bfd_4_predators-23_3977	4	0	tawny owl	predator	100.0
+adaptation	Ban-5f22_71_owl-74	Ban-5f22_71_predators-21	Ban-5f22_71_owl-74_5536	71	Ban-5f22_71_predators-21_3977	71	0	tawny owl	predator	100.0
+adaptation	Tur100d_6_doves-11	Tur100d_6_migration-20	Tur100d_6_doves-11_5588	6	Tur100d_6_migration-20_1	6	0	turtle dove	Migration	100.0
+adaptation	Wat-4f58_129_rails-8	Wat-4f58_129_migrations-18	Wat-4f58_129_rails-8_3924	129	Wat-4f58_129_migrations-18_1	129	0	water rail	Migration	100.0
+adaptation	Tur-2bce_60_turkeys-12	Tur-2bce_60_social-5	Tur-2bce_60_turkeys-12_3927	60	Tur-2bce_60_social-5_3788	60	0	wild turkey	social	100.0
+adaptation	Tur-2bce_60_turkeys-2	Tur-2bce_60_social-5	Tur-2bce_60_turkeys-2_3927	60	Tur-2bce_60_social-5_3788	60	0	wild turkey	social	100.0
+adaptation	Tur-2bce_60_turkeys-23	Tur-2bce_60_social-5	Tur-2bce_60_turkeys-23_3927	60	Tur-2bce_60_social-5_3788	60	0	wild turkey	social	100.0
+adaptation	Woo-fa9e_159_stork-6	Woo-fa9e_159_predators-3	Woo-fa9e_159_stork-6_3932	159	Woo-fa9e_159_predators-3_359	159	0	wood stork	Predator	100.0
+adaptation	Woo-fa9e_26_stork-5	Woo-fa9e_26_Predators-1	Woo-fa9e_26_stork-5_3932	26	Woo-fa9e_26_Predators-1_359	26	0	wood stork	Predator	100.0
+adaptation	Ani6f2b_23_swans-5	Ani6f2b_23_migration-18	Ani6f2b_23_swans-5_4482	23	Ani6f2b_23_migration-18_1	23	0	swans	Migration	100.0
+adaptation	Swa-b870_41_swan-10	Swa-b870_41_migration-34	Swa-b870_41_swan-10_4482	41	Swa-b870_41_migration-34_1	41	0	swans	Migration	100.0
+adaptation	Anad0cc_7_swans-5	Anad0cc_7_migration-18	Anad0cc_7_swans-5_4482	7	Anad0cc_7_migration-18_1	7	0	swans	Migration	100.0
+adaptation	Lon-b0af_531_owls-11	Lon-b0af_531_territorial-35	Lon-b0af_531_owls-11_5193	531	Lon-b0af_531_territorial-35_3985	531	0	long-eared owl	territorial	100.0
+adaptation	Lon-b0af_519_owls-8	Lon-b0af_519_predators-18	Lon-b0af_519_owls-8_5193	519	Lon-b0af_519_predators-18_3977	519	0	long-eared owl	predator	100.0
+adaptation	Eur-3ec7_90_owls-26	Eur-3ec7_90_predators-21	Eur-3ec7_90_owls-26_5193	90	Eur-3ec7_90_predators-21_3977	90	0	long-eared owl	predator	100.0
+adaptation	Eur-3ec7_90_owls-18	Eur-3ec7_90_predators-21	Eur-3ec7_90_owls-18_5193	90	Eur-3ec7_90_predators-21_3977	90	0	long-eared owl	predator	100.0
+adaptation	Lon-b0af_539_owls-12	Lon-b0af_539_predators-18	Lon-b0af_539_owls-12_5193	539	Lon-b0af_539_predators-18_3977	539	0	long-eared owl	predator	100.0
+adaptation	Lon-b0af_415_owls-4	Lon-b0af_415_predators-8	Lon-b0af_415_owls-4_5193	415	Lon-b0af_415_predators-8_3977	415	0	long-eared owl	predator	100.0
+adaptation	Lon-b0af_8_owl-5	Lon-b0af_8_predator-10	Lon-b0af_8_owl-5_5193	8	Lon-b0af_8_predator-10_3977	8	0	long-eared owl	predator	100.0
+adaptation	Lon-b0af_531_owls-5	Lon-b0af_531_territorial-35	Lon-b0af_531_owls-5_5193	531	Lon-b0af_531_territorial-35_3985	531	0	long-eared owl	territorial	100.0
+adaptation	Lon-b0af_277_owls-3	Lon-b0af_277_territorial-10	Lon-b0af_277_owls-3_5193	277	Lon-b0af_277_territorial-10_3985	277	0	long-eared owl	territorial	100.0
+adaptation	Lon-b0af_531_owls-21	Lon-b0af_531_territorial-35	Lon-b0af_531_owls-21_5193	531	Lon-b0af_531_territorial-35_3985	531	0	long-eared owl	territorial	100.0
+adaptation	Lon-b0af_277_owls-25	Lon-b0af_277_territorial-10	Lon-b0af_277_owls-25_5193	277	Lon-b0af_277_territorial-10_3985	277	0	long-eared owl	territorial	100.0
+adaptation	Lon-b0af_13_owls-3	Lon-b0af_13_territorial-12	Lon-b0af_13_owls-3_5193	13	Lon-b0af_13_territorial-12_3985	13	0	long-eared owl	territorial	100.0
+adaptation	Lon-b0af_531_owls-8	Lon-b0af_531_territorial-35	Lon-b0af_531_owls-8_5193	531	Lon-b0af_531_territorial-35_3985	531	0	long-eared owl	territorial	100.0
+adaptation	Lon-b0af_13_owls-8	Lon-b0af_13_territorial-12	Lon-b0af_13_owls-8_5193	13	Lon-b0af_13_territorial-12_3985	13	0	long-eared owl	territorial	100.0
+adaptation	Lon-b0af_277_owls-34	Lon-b0af_277_territorial-10	Lon-b0af_277_owls-34_5193	277	Lon-b0af_277_territorial-10_3985	277	0	long-eared owl	territorial	100.0
+adaptation	Mac-6b1c_83_penguin-9	Mac-6b1c_83_social-12	Mac-6b1c_83_penguin-9_5199	83	Mac-6b1c_83_social-12_3788	83	0	macaroni penguin	social	100.0
+adaptation	Mac-6b1c_83_penguin-4	Mac-6b1c_83_social-12	Mac-6b1c_83_penguin-4_5199	83	Mac-6b1c_83_social-12_3788	83	0	macaroni penguin	social	100.0
+adaptation	Mal-71cc_120_mallards-25	Mal-71cc_120_camouflage-21	Mal-71cc_120_mallards-25_3873	120	Mal-71cc_120_camouflage-21_3947	120	0	mallard	camouflage	100.0
+adaptation	Malc085_18_mallards-4	Malc085_18_moulting-5	Malc085_18_mallards-4_3873	18	Malc085_18_moulting-5_3965	18	0	mallard	moulting	100.0
+adaptation	Lon-b0af_219_owls-4	Lon-b0af_219_nocturnal-10	Lon-b0af_219_owls-4_5193	219	Lon-b0af_219_nocturnal-10_3967	219	0	long-eared owl	nocturnal	100.0
+adaptation	Lon-b0af_250_owl-8	Lon-b0af_250_migration-3	Lon-b0af_250_owl-8_5193	250	Lon-b0af_250_migration-3_3781	250	0	long-eared owl	migration	100.0
+adaptation	Lon-b0af_250_owl-8	Lon-b0af_250_migration-29	Lon-b0af_250_owl-8_5193	250	Lon-b0af_250_migration-29_3781	250	0	long-eared owl	migration	100.0
+adaptation	Lon-b0af_249_owls-39	Lon-b0af_249_migration-2	Lon-b0af_249_owls-39_5193	249	Lon-b0af_249_migration-2_1	249	0	long-eared owl	Migration	100.0
+adaptation	Lon-b0af_249_owls-11	Lon-b0af_249_migration-2	Lon-b0af_249_owls-11_5193	249	Lon-b0af_249_migration-2_1	249	0	long-eared owl	Migration	100.0
+adaptation	Lon-b0af_250_owl-28	Lon-b0af_250_migration-3	Lon-b0af_250_owl-28_5193	250	Lon-b0af_250_migration-3_1	250	0	long-eared owl	Migration	100.0
+adaptation	Lon-b0af_250_owl-28	Lon-b0af_250_migration-29	Lon-b0af_250_owl-28_5193	250	Lon-b0af_250_migration-29_1	250	0	long-eared owl	Migration	100.0
+adaptation	Mer-5a4a_7_merlins-16	Mer-5a4a_7_migration-27	Mer-5a4a_7_merlins-16_3876	7	Mer-5a4a_7_migration-27_1	7	0	merlin	Migration	100.0
+adaptation	Whi-100a_59_merlin-13	Whi-100a_59_predators-16	Whi-100a_59_merlin-13_3876	59	Whi-100a_59_predators-16_359	59	0	merlin	Predator	100.0
+adaptation	Whi-100a_59_merlin-13	Whi-100a_59_Predators-1	Whi-100a_59_merlin-13_3876	59	Whi-100a_59_Predators-1_359	59	0	merlin	Predator	100.0
+adaptation	Eur-24a9_3_nightjar-13	Eur-24a9_3_nocturnal-12	Eur-24a9_3_nightjar-13_4949	3	Eur-24a9_3_nocturnal-12_3967	3	0	nightjar	nocturnal	100.0
+adaptation	Eur-24a9_2_nightjar-13	Eur-24a9_2_nocturnal-22	Eur-24a9_2_nightjar-13_4949	2	Eur-24a9_2_nocturnal-22_3967	2	0	nightjar	nocturnal	100.0
+adaptation	Eur-24a9_2_nightjar-3	Eur-24a9_2_nocturnal-22	Eur-24a9_2_nightjar-3_4949	2	Eur-24a9_2_nocturnal-22_3967	2	0	nightjar	nocturnal	100.0
+adaptation	Eur-24a9_158_nightjars-8	Eur-24a9_158_nocturnal-4	Eur-24a9_158_nightjars-8_4949	158	Eur-24a9_158_nocturnal-4_3967	158	0	nightjar	nocturnal	100.0
+adaptation	Lep-f8ec_369_nightjars-9	Lep-f8ec_369_nocturnal-12	Lep-f8ec_369_nightjars-9_4949	369	Lep-f8ec_369_nocturnal-12_3967	369	0	nightjar	nocturnal	100.0
+adaptation	Nor-4d51_14_gannet-3	Nor-4d51_14_migrations-6	Nor-4d51_14_gannet-3_5270	14	Nor-4d51_14_migrations-6_1	14	0	northern gannet	Migration	100.0
+adaptation	Osp-8ead_132_ospreys-2	Osp-8ead_132_migration-28	Osp-8ead_132_ospreys-2_3890	132	Osp-8ead_132_migration-28_1	132	0	osprey	Migration	100.0
+adaptation	Osp-8ead_132_ospreys-2	Osp-8ead_132_migration-10	Osp-8ead_132_ospreys-2_3890	132	Osp-8ead_132_migration-10_1	132	0	osprey	Migration	100.0
+adaptation	Bar-b361_155_ospreys-2	Bar-b361_155_predators-10	Bar-b361_155_ospreys-2_3890	155	Bar-b361_155_predators-10_359	155	0	osprey	Predator	100.0
+adaptation	Pole5d6_10_peacocks-15	Pole5d6_10_dimorphism-22	Pole5d6_10_peacocks-15_5120	10	Pole5d6_10_dimorphism-22_14	10	0	peacock	Sexual dimorphism	100.0
+adaptation	Jum-50eb_118_peacock-22	Jum-50eb_118_dimorphism-5	Jum-50eb_118_peacock-22_5120	118	Jum-50eb_118_dimorphism-5_14	118	0	peacock	Sexual dimorphism	100.0
+adaptation	Lyr-470e_97_peacock-28	Lyr-470e_97_display-31	Lyr-470e_97_peacock-28_5120	97	Lyr-470e_97_display-31_3951	97	0	peacock	courtship display	100.0
+adaptation	Pea-41a9_23_peacock-3	Pea-41a9_23_displays-24	Pea-41a9_23_peacock-3_5120	23	Pea-41a9_23_displays-24_3951	23	0	peacock	courtship display	100.0
+adaptation	Pea-41a9_39_peacock-21	Pea-41a9_39_display-7	Pea-41a9_39_peacock-21_5120	39	Pea-41a9_39_display-7_3951	39	0	peacock	courtship display	100.0
+adaptation	Eur-24a9_91_nightjar-3	Eur-24a9_91_nocturnal-7	Eur-24a9_91_nightjar-3_4949	91	Eur-24a9_91_nocturnal-7_3967	91	0	nightjar	nocturnal	100.0
+adaptation	Eur-24a9_28_nightjar-5	Eur-24a9_28_nocturnal-16	Eur-24a9_28_nightjar-5_4949	28	Eur-24a9_28_nocturnal-16_3967	28	0	nightjar	nocturnal	100.0
+adaptation	Sno-0a8f_507_merlin-54	Sno-0a8f_507_predator-7	Sno-0a8f_507_merlin-54_3876	507	Sno-0a8f_507_predator-7_359	507	0	merlin	Predator	100.0
+adaptation	Eur-24a9_21_nightjars-2	Eur-24a9_21_nocturnal-12	Eur-24a9_21_nightjars-2_4949	21	Eur-24a9_21_nocturnal-12_3967	21	0	nightjar	nocturnal	100.0
+adaptation	Mer-5a4a_101_merlin-7	Mer-5a4a_101_predators-15	Mer-5a4a_101_merlin-7_3876	101	Mer-5a4a_101_predators-15_359	101	0	merlin	Predator	100.0
+adaptation	Hou-905b_333_merlin-4	Hou-905b_333_predators-9	Hou-905b_333_merlin-4_3876	333	Hou-905b_333_predators-9_359	333	0	merlin	Predator	100.0
+adaptation	Mer-5a4a_103_merlin-2	Mer-5a4a_103_predator-38	Mer-5a4a_103_merlin-2_3876	103	Mer-5a4a_103_predator-38_359	103	0	merlin	Predator	100.0
+adaptation	Com-a9dd_183_merlins-38	Com-a9dd_183_predators-25	Com-a9dd_183_merlins-38_3876	183	Com-a9dd_183_predators-25_359	183	0	merlin	Predator	100.0
+adaptation	Eur-24a9_82_nightjars-8	Eur-24a9_82_migration-12	Eur-24a9_82_nightjars-8_4949	82	Eur-24a9_82_migration-12_1	82	0	nightjar	Migration	100.0
+adaptation	Bir-ebe4_455_nightjars-15	Bir-ebe4_455_camouflage-21	Bir-ebe4_455_nightjars-15_4949	455	Bir-ebe4_455_camouflage-21_3947	455	0	nightjar	camouflage	100.0
+adaptation	Pas-2c4d_33_nightjars-29	Pas-2c4d_33_camouflage-32	Pas-2c4d_33_nightjars-29_4949	33	Pas-2c4d_33_camouflage-32_3947	33	0	nightjar	camouflage	100.0
+adaptation	Bir-ebe4_308_nightjars-17	Bir-ebe4_308_nocturnal-20	Bir-ebe4_308_nightjars-17_4949	308	Bir-ebe4_308_nocturnal-20_3967	308	0	nightjar	nocturnal	100.0
+adaptation	Cap-6f9e_2_nightjars-10	Cap-6f9e_2_nocturnal-13	Cap-6f9e_2_nightjars-10_4949	2	Cap-6f9e_2_nocturnal-13_3967	2	0	nightjar	nocturnal	100.0
+adaptation	Cap-6f9e_4_nightjar-5	Cap-6f9e_4_nocturnal-16	Cap-6f9e_4_nightjar-5_4949	4	Cap-6f9e_4_nocturnal-16_3967	4	0	nightjar	nocturnal	100.0
+adaptation	Eur-24a9_162_nightjars-5	Eur-24a9_162_nocturnal-2	Eur-24a9_162_nightjars-5_4949	162	Eur-24a9_162_nocturnal-2_3967	162	0	nightjar	nocturnal	100.0
+adaptation	Eur-24a9_54_nightjar-13	Eur-24a9_54_nocturnal-3	Eur-24a9_54_nightjar-13_4949	54	Eur-24a9_54_nocturnal-3_3967	54	0	nightjar	nocturnal	100.0
+adaptation	Eurbbc7_2_Coots-1	Eurbbc7_2_territorial-3	Eurbbc7_2_Coots-1_127	2	Eurbbc7_2_territorial-3_3985	2	0	Coot	territorial	100.0
+adaptation	Red-4352_16_owls-44	Red-4352_16_predators-23	Red-4352_16_owls-44_2146	16	Red-4352_16_predators-23_359	16	0	Eurasian eagle owl	Predator	100.0
+adaptation	Eur-3123_242_owls-3	Eur-3123_242_predators-41	Eur-3123_242_owls-3_2146	242	Eur-3123_242_predators-41_359	242	0	Eurasian eagle owl	Predator	100.0
+adaptation	Eur-1ed4_58_owls-4	Eur-1ed4_58_predators-21	Eur-1ed4_58_owls-4_2146	58	Eur-1ed4_58_predators-21_359	58	0	Eurasian eagle owl	Predator	100.0
+adaptation	Eur-3ec7_570_owls-9	Eur-3ec7_570_predators-4	Eur-3ec7_570_owls-9_2146	570	Eur-3ec7_570_predators-4_359	570	0	Eurasian eagle owl	Predator	100.0
+adaptation	Eur-bc75_403_owl-4	Eur-bc75_403_predator-19	Eur-bc75_403_owl-4_2146	403	Eur-bc75_403_predator-19_359	403	0	Eurasian eagle owl	Predator	100.0
+adaptation	Eur-bc75_403_owls-21	Eur-bc75_403_predator-19	Eur-bc75_403_owls-21_2146	403	Eur-bc75_403_predator-19_359	403	0	Eurasian eagle owl	Predator	100.0
+adaptation	Lon-b0af_523_owl-15	Lon-b0af_523_predators-7	Lon-b0af_523_owl-15_2146	523	Lon-b0af_523_predators-7_359	523	0	Eurasian eagle owl	Predator	100.0
+adaptation	Red-56ec_100_owl-19	Red-56ec_100_predators-7	Red-56ec_100_owl-19_2146	100	Red-56ec_100_predators-7_359	100	0	Eurasian eagle owl	Predator	100.0
+adaptation	Rac-2d62_212_owls-22	Rac-2d62_212_predators-13	Rac-2d62_212_owls-22_2146	212	Rac-2d62_212_predators-13_359	212	0	Eurasian eagle owl	Predator	100.0
+adaptation	Gre-e288_110_Bubo-17	Gre-e288_110_predator-4	Gre-e288_110_Bubo-17_1077	110	Gre-e288_110_predator-4_3977	110	0	Bubo	predator	100.0
+adaptation	Eur-bc75_432_Bubo-48	Eur-bc75_432_predators-3	Eur-bc75_432_Bubo-48_1077	432	Eur-bc75_432_predators-3_359	432	0	Bubo	Predator	100.0
+adaptation	Eur-1ed4_58_Bubo-6	Eur-1ed4_58_predators-21	Eur-1ed4_58_Bubo-6_1077	58	Eur-1ed4_58_predators-21_359	58	0	Bubo	Predator	100.0
+adaptation	Eur-3123_242_Bubo-5	Eur-3123_242_predators-41	Eur-3123_242_Bubo-5_1077	242	Eur-3123_242_predators-41_359	242	0	Bubo	Predator	100.0
+adaptation	Har-8a11_60_Bubo-33	Har-8a11_60_predators-47	Har-8a11_60_Bubo-33_1077	60	Har-8a11_60_predators-47_359	60	0	Bubo	Predator	100.0
+adaptation	Sno-0a8f_499_Bubo-7	Sno-0a8f_499_predators-18	Sno-0a8f_499_Bubo-7_1077	499	Sno-0a8f_499_predators-18_359	499	0	Bubo	Predator	100.0
+adaptation	Bar-78df_196_Bubo-17	Bar-78df_196_predators-6	Bar-78df_196_Bubo-17_1077	196	Bar-78df_196_predators-6_3977	196	0	Bubo	predator	100.0
+adaptation	Ame-86f0_149_Bubo-6	Ame-86f0_149_predators-12	Ame-86f0_149_Bubo-6_1077	149	Ame-86f0_149_predators-12_3977	149	0	Bubo	predator	100.0
+adaptation	Bar-78df_194_Bubo-10	Bar-78df_194_predators-30	Bar-78df_194_Bubo-10_1077	194	Bar-78df_194_predators-30_3977	194	0	Bubo	predator	100.0
+adaptation	Com-f222_468_Bubo-20	Com-f222_468_predator-4	Com-f222_468_Bubo-20_1077	468	Com-f222_468_predator-4_3977	468	0	Bubo	predator	100.0
+adaptation	Com-f222_476_Bubo-34	Com-f222_476_predator-42	Com-f222_476_Bubo-34_1077	476	Com-f222_476_predator-42_3977	476	0	Bubo	predator	100.0
+adaptation	Eur-bc75_62_Bubo-16	Eur-bc75_62_predator-8	Eur-bc75_62_Bubo-16_1077	62	Eur-bc75_62_predator-8_3977	62	0	Bubo	predator	100.0
+adaptation	Man-7999_70_owls-13	Man-7999_70_predators-20	Man-7999_70_owls-13_2146	70	Man-7999_70_predators-20_359	70	0	Eurasian eagle owl	Predator	100.0
+adaptation	Eur-bc75_403_owl-26	Eur-bc75_403_predator-19	Eur-bc75_403_owl-26_2146	403	Eur-bc75_403_predator-19_359	403	0	Eurasian eagle owl	Predator	100.0
+adaptation	Kin-aa66_84_Kingfishers-1	Kin-aa66_84_territorial-3	Kin-aa66_84_Kingfishers-1_1938	84	Kin-aa66_84_territorial-3_3985	84	0	Kingfisher	territorial	100.0
+adaptation	Cho-a88d_87_owl-16	Cho-a88d_87_Predators-1	Cho-a88d_87_owl-16_2146	87	Cho-a88d_87_Predators-1_3977	87	0	Eurasian eagle owl	predator	100.0
+adaptation	Com-f222_468_owl-18	Com-f222_468_predator-4	Com-f222_468_owl-18_2146	468	Com-f222_468_predator-4_3977	468	0	Eurasian eagle owl	predator	100.0
+adaptation	Com-9711_107_owls-18	Com-9711_107_predators-6	Com-9711_107_owls-18_2146	107	Com-9711_107_predators-6_3977	107	0	Eurasian eagle owl	predator	100.0
+adaptation	Ame-86f0_149_owls-4	Ame-86f0_149_predators-12	Ame-86f0_149_owls-4_2146	149	Ame-86f0_149_predators-12_3977	149	0	Eurasian eagle owl	predator	100.0
+adaptation	Eur-3ec7_395_owls-4	Eur-3ec7_395_territorial-7	Eur-3ec7_395_owls-4_2146	395	Eur-3ec7_395_territorial-7_3985	395	0	Eurasian eagle owl	territorial	100.0
+adaptation	Eur-3ec7_395_owls-17	Eur-3ec7_395_territorial-22	Eur-3ec7_395_owls-17_2146	395	Eur-3ec7_395_territorial-22_3985	395	0	Eurasian eagle owl	territorial	100.0
+adaptation	Eur-3ec7_395_owls-17	Eur-3ec7_395_territorial-7	Eur-3ec7_395_owls-17_2146	395	Eur-3ec7_395_territorial-7_3985	395	0	Eurasian eagle owl	territorial	100.0
+adaptation	Hum-42cb_49_penguin-3	Hum-42cb_49_predator-7	Hum-42cb_49_penguin-3_2556	49	Hum-42cb_49_predator-7_359	49	0	Humboldt penguin	Predator	100.0
+adaptation	Red-4352_16_owls-44	Red-4352_16_predators-9	Red-4352_16_owls-44_2146	16	Red-4352_16_predators-9_359	16	0	Eurasian eagle owl	Predator	100.0
+adaptation	Eur-3ec7_359_owl-5	Eur-3ec7_359_nocturnal-8	Eur-3ec7_359_owl-5_2146	359	Eur-3ec7_359_nocturnal-8_3967	359	0	Eurasian eagle owl	nocturnal	100.0
+adaptation	New-d8c1_91_vultures-31	New-d8c1_91_scavengers-34	New-d8c1_91_vultures-31_1490	91	New-d8c1_91_scavengers-34_3979	91	0	American black vulture	scavenger	100.0
+adaptation	New-d8c1_91_vulture-13	New-d8c1_91_scavengers-34	New-d8c1_91_vulture-13_1490	91	New-d8c1_91_scavengers-34_3979	91	0	American black vulture	scavenger	100.0
+adaptation	New-d8c1_91_vulture-9	New-d8c1_91_scavengers-34	New-d8c1_91_vulture-9_1490	91	New-d8c1_91_scavengers-34_3979	91	0	American black vulture	scavenger	100.0
+adaptation	And-dffe_116_condors-8	And-dffe_116_scavengers-22	And-dffe_116_condors-8_1498	116	And-dffe_116_scavengers-22_3979	116	0	Andean condor	scavenger	100.0
+adaptation	And-dffe_101_condor-3	And-dffe_101_scavenger-6	And-dffe_101_condor-3_1498	101	And-dffe_101_scavenger-6_3979	101	0	Andean condor	scavenger	100.0
+adaptation	And-6c52_46_hillstar-15	And-6c52_46_pollinator-22	And-6c52_46_hillstar-15_1500	46	And-6c52_46_pollinator-22_3974	46	0	Andean hillstar	pollinator	100.0
+adaptation	Mal-71cc_147_Asio-44	Mal-71cc_147_predators-76	Mal-71cc_147_Asio-44_908	147	Mal-71cc_147_predators-76_359	147	0	Asio	Predator	100.0
+adaptation	Mal-71cc_147_Asio-44	Mal-71cc_147_predators-67	Mal-71cc_147_Asio-44_908	147	Mal-71cc_147_predators-67_359	147	0	Asio	Predator	100.0
+adaptation	Eur-3ec7_377_Asio-24	Eur-3ec7_377_camouflage-34	Eur-3ec7_377_Asio-24_908	377	Eur-3ec7_377_camouflage-34_3947	377	0	Asio	camouflage	100.0
+adaptation	Kea-483e_52_Kea-1	Kea-483e_52_social-3	Kea-483e_52_Kea-1_2625	52	Kea-483e_52_social-3_3788	52	0	Kea	social	100.0
+adaptation	Eur-3ec7_395_owls-4	Eur-3ec7_395_territorial-22	Eur-3ec7_395_owls-4_2146	395	Eur-3ec7_395_territorial-22_3985	395	0	Eurasian eagle owl	territorial	100.0
+adaptation	Woo-fa9e_158_stork-2	Woo-fa9e_158_Predators-4	Woo-fa9e_158_stork-2_301	158	Woo-fa9e_158_Predators-4_3977	158	0	Wood stork	predator	100.0
+adaptation	Bar-78df_198_Strix-36	Bar-78df_198_predators-14	Bar-78df_198_Strix-36_1293	198	Bar-78df_198_predators-14_3977	198	0	Strix	predator	100.0
+adaptation	Ban-5f22_71_Strix-76	Ban-5f22_71_predators-21	Ban-5f22_71_Strix-76_1293	71	Ban-5f22_71_predators-21_3977	71	0	Strix	predator	100.0
+adaptation	Com-f222_477_Strix-34	Com-f222_477_predators-5	Com-f222_477_Strix-34_1293	477	Com-f222_477_predators-5_3977	477	0	Strix	predator	100.0
+adaptation	Com-f222_477_Strix-41	Com-f222_477_predators-5	Com-f222_477_Strix-41_1293	477	Com-f222_477_predators-5_3977	477	0	Strix	predator	100.0
+adaptation	Eur-bc75_432_Strix-55	Eur-bc75_432_predators-3	Eur-bc75_432_Strix-55_1293	432	Eur-bc75_432_predators-3_3977	432	0	Strix	predator	100.0
+adaptation	Wil-3cbf_105_Strix-19	Wil-3cbf_105_predators-2	Wil-3cbf_105_Strix-19_1293	105	Wil-3cbf_105_predators-2_3977	105	0	Strix	predator	100.0
+adaptation	Sib-2667_45_cranes-2	Sib-2667_45_territorial-13	Sib-2667_45_cranes-2_228	45	Sib-2667_45_territorial-13_3985	45	0	Siberian crane	territorial	100.0
+adaptation	Phe-1cad_5_Pheasants-1	Phe-1cad_5_dimorphism-7	Phe-1cad_5_Pheasants-1_103	5	Phe-1cad_5_dimorphism-7_3791	5	0	Pheasant	sexual dimorphism	100.0
+adaptation	Nig-1fdb_2_Nightjars-1	Nig-1fdb_2_nocturnal-5	Nig-1fdb_2_Nightjars-1_2223	2	Nig-1fdb_2_nocturnal-5_3967	2	0	Nightjar	nocturnal	100.0
+adaptation	Eur-bc75_432_scandiacus-49	Eur-bc75_432_predators-3	Eur-bc75_432_scandiacus-49_251	432	Eur-bc75_432_predators-3_359	432	0	Bubo scandiacus	Predator	87.0
+adaptation	Mal-71cc_147_flammeus-45	Mal-71cc_147_predators-67	Mal-71cc_147_flammeus-45_3313	147	Mal-71cc_147_predators-67_359	147	0	Asio flammeus	Predator	87.0
+adaptation	Mal-71cc_147_flammeus-45	Mal-71cc_147_predators-76	Mal-71cc_147_flammeus-45_3313	147	Mal-71cc_147_predators-76_359	147	0	Asio flammeus	Predator	87.0
+adaptation	Kāk-e004_2_habroptila-14	Kāk-e004_2_nocturnal-33	Kāk-e004_2_habroptila-14_2623	2	Kāk-e004_2_nocturnal-33_3967	2	0	Strigops habroptila	nocturnal	87.0
+adaptation	Swa-27b4_337_gannets-27	Swa-27b4_337_predators-19	Swa-27b4_337_gannets-27_5271	337	Swa-27b4_337_predators-19_359	337	0	gannet	Predator	83.0
+adaptation	Red-56ec_100_peregrine-10	Red-56ec_100_predators-7	Red-56ec_100_peregrine-10_5327	100	Red-56ec_100_predators-7_359	100	0	peregrine	Predator	83.0
+adaptation	Per-145f_208_peregrine-2	Per-145f_208_migration-26	Per-145f_208_peregrine-2_5327	208	Per-145f_208_migration-26_1	208	0	peregrine	Migration	83.0
+adaptation	Kāk-e004_2_parrot-38	Kāk-e004_2_nocturnal-33	Kāk-e004_2_parrot-38_5136	2	Kāk-e004_2_nocturnal-33_3967	2	0	owl parrot	nocturnal	83.0
+adaptation	Kāk-e004_2_parrot-22	Kāk-e004_2_nocturnal-33	Kāk-e004_2_parrot-22_5136	2	Kāk-e004_2_nocturnal-33_3967	2	0	owl parrot	nocturnal	83.0
+adaptation	Per-145f_245_Peregrines-1	Per-145f_245_predators-27	Per-145f_245_Peregrines-1_3041	245	Per-145f_245_predators-27_3977	245	0	Peregrine	predator	83.0
+adaptation	Mal-71cc_153_loons-2	Mal-71cc_153_territorial-9	Mal-71cc_153_loons-2_3863	153	Mal-71cc_153_territorial-9_3985	153	0	common loon	territorial	83.0
+adaptation	Com-6e0a_116_loons-8	Com-6e0a_116_territorial-12	Com-6e0a_116_loons-8_154	116	Com-6e0a_116_territorial-12_3985	116	0	Common loon	territorial	83.0
+adaptation	Wat-4f58_195_peregrine-49	Wat-4f58_195_predators-7	Wat-4f58_195_peregrine-49_5327	195	Wat-4f58_195_predators-7_359	195	0	peregrine	Predator	83.0
+adaptation	Coc-29aa_195_owl-8	Coc-29aa_195_predators-2	Coc-29aa_195_owl-8_4479	195	Coc-29aa_195_predators-2_359	195	0	wood owls	Predator	83.0
+adaptation	Nor-4d51_283_gannet-2	Nor-4d51_283_Predators-4	Nor-4d51_283_gannet-2_5271	283	Nor-4d51_283_Predators-4_3977	283	0	gannet	predator	83.0
+adaptation	Swa-27b4_337_gannets-27	Swa-27b4_337_migration-3	Swa-27b4_337_gannets-27_5271	337	Swa-27b4_337_migration-3_3781	337	0	gannet	migration	83.0
+adaptation	Cho-a88d_87_peregrine-7	Cho-a88d_87_Predators-1	Cho-a88d_87_peregrine-7_5327	87	Cho-a88d_87_Predators-1_359	87	0	peregrine	Predator	83.0
+adaptation	Eur-9431_150_peregrine-21	Eur-9431_150_predators-2	Eur-9431_150_peregrine-21_5327	150	Eur-9431_150_predators-2_3977	150	0	peregrine	predator	83.0
+adaptation	Bar-b361_183_peregrine-8	Bar-b361_183_predators-5	Bar-b361_183_peregrine-8_5327	183	Bar-b361_183_predators-5_359	183	0	peregrine	Predator	83.0
+adaptation	Per-145f_229_peregrine-7	Per-145f_229_territorial-10	Per-145f_229_peregrine-7_5327	229	Per-145f_229_territorial-10_3985	229	0	peregrine	territorial	83.0
+adaptation	Ind-4264_5_peafowl-2	Ind-4264_5_dimorphism-9	Ind-4264_5_peafowl-2_2587	5	Ind-4264_5_dimorphism-9_14	5	0	Indian peafowl	Sexual dimorphism	83.0
+adaptation	Equ-d3c3_9_jackass-26	Equ-d3c3_9_social-3	Equ-d3c3_9_jackass-26_5202	9	Equ-d3c3_9_social-3_3788	9	0	jackass	social	83.0
+adaptation	Equ-d3c3_9_jackass-26	Equ-d3c3_9_territorial-43	Equ-d3c3_9_jackass-26_5202	9	Equ-d3c3_9_territorial-43_3985	9	0	jackass	territorial	83.0
+adaptation	Eur-9431_187_peregrine-24	Eur-9431_187_predators-18	Eur-9431_187_peregrine-24_5327	187	Eur-9431_187_predators-18_3977	187	0	peregrine	predator	83.0
+adaptation	Lon-b0af_538_peregrine-25	Lon-b0af_538_predators-2	Lon-b0af_538_peregrine-25_5327	538	Lon-b0af_538_predators-2_359	538	0	peregrine	Predator	83.0
+adaptation	Pro-41d6_88_shearwater-14	Pro-41d6_88_migrations-29	Pro-41d6_88_shearwater-14_3314	88	Pro-41d6_88_migrations-29_3781	88	0	Short-tailed shearwater	migration	75.0
+adaptation	Pro-41d6_88_shearwater-4	Pro-41d6_88_migrations-29	Pro-41d6_88_shearwater-4_3314	88	Pro-41d6_88_migrations-29_3781	88	0	Short-tailed shearwater	migration	75.0
+adaptation	Pro-41d6_88_shearwater-9	Pro-41d6_88_migrations-29	Pro-41d6_88_shearwater-9_3314	88	Pro-41d6_88_migrations-29_3781	88	0	Short-tailed shearwater	migration	75.0
+adaptation	Puf-816d_10_shearwaters-17	Puf-816d_10_migrations-21	Puf-816d_10_shearwaters-17_3314	10	Puf-816d_10_migrations-21_3781	10	0	Short-tailed shearwater	migration	75.0
+adaptation	Lon-b0af_532_owls-13	Lon-b0af_532_predators-8	Lon-b0af_532_owls-13_2742	532	Lon-b0af_532_predators-8_3977	532	0	Long-eared owl	predator	75.0
+adaptation	Wat-4f58_195_owl-31	Wat-4f58_195_predators-7	Wat-4f58_195_owl-31_2742	195	Wat-4f58_195_predators-7_3977	195	0	Long-eared owl	predator	75.0
+adaptation	Sno-0a8f_474_owls-21	Sno-0a8f_474_predators-10	Sno-0a8f_474_owls-21_2742	474	Sno-0a8f_474_predators-10_3977	474	0	Long-eared owl	predator	75.0
+adaptation	Lon-b0af_148_owls-31	Lon-b0af_148_nocturnal-37	Lon-b0af_148_owls-31_2742	148	Lon-b0af_148_nocturnal-37_3967	148	0	Long-eared owl	nocturnal	75.0
+adaptation	Lon-b0af_148_owls-25	Lon-b0af_148_nocturnal-37	Lon-b0af_148_owls-25_2742	148	Lon-b0af_148_nocturnal-37_3967	148	0	Long-eared owl	nocturnal	75.0
+adaptation	Eur-3ec7_370_owl-53	Eur-3ec7_370_territorial-11	Eur-3ec7_370_owl-53_5053	370	Eur-3ec7_370_territorial-11_3985	370	0	great grey owl	territorial	66.0
+adaptation	Eur-3ec7_320_owls-15	Eur-3ec7_320_territorial-10	Eur-3ec7_320_owls-15_2146	320	Eur-3ec7_320_territorial-10_3985	320	0	Eurasian eagle owl	territorial	66.0
+adaptation	Eur-3ec7_370_owl-37	Eur-3ec7_370_territorial-31	Eur-3ec7_370_owl-37_5053	370	Eur-3ec7_370_territorial-31_3985	370	0	great grey owl	territorial	66.0
+adaptation	Eur-3ec7_370_owl-37	Eur-3ec7_370_territorial-11	Eur-3ec7_370_owl-37_5053	370	Eur-3ec7_370_territorial-11_3985	370	0	great grey owl	territorial	66.0
+adaptation	Ani-57f1_199_grebes-12	Ani-57f1_199_displays-20	Ani-57f1_199_grebes-12_5045	199	Ani-57f1_199_displays-20_3951	199	0	great crested grebe	courtship display	66.0
+adaptation	Ani-57f1_199_grebes-12	Ani-57f1_199_displays-38	Ani-57f1_199_grebes-12_5045	199	Ani-57f1_199_displays-38_3951	199	0	great crested grebe	courtship display	66.0
+adaptation	Bla-e03a_117_vultures-4	Bla-e03a_117_predators-20	Bla-e03a_117_vultures-4_1490	117	Bla-e03a_117_predators-20_359	117	0	American black vulture	Predator	66.0
+adaptation	And-dffe_117_vultures-2	And-dffe_117_scavengers-11	And-dffe_117_vultures-2_1490	117	And-dffe_117_scavengers-11_3979	117	0	American black vulture	scavenger	66.0
+adaptation	And-dffe_117_vultures-2	And-dffe_117_scavengers-37	And-dffe_117_vultures-2_1490	117	And-dffe_117_scavengers-37_3979	117	0	American black vulture	scavenger	66.0
+adaptation	Bla-e03a_12_vulture-3	Bla-e03a_12_scavenger-6	Bla-e03a_12_vulture-3_1490	12	Bla-e03a_12_scavenger-6_3979	12	0	American black vulture	scavenger	66.0
+adaptation	Bla-e03a_57_vulture-3	Bla-e03a_57_scavenger-8	Bla-e03a_57_vulture-3_1490	57	Bla-e03a_57_scavenger-8_3979	57	0	American black vulture	scavenger	66.0
+adaptation	And-dffe_117_vultures-19	And-dffe_117_scavengers-11	And-dffe_117_vultures-19_1490	117	And-dffe_117_scavengers-11_3979	117	0	American black vulture	scavenger	66.0
+adaptation	And-dffe_117_vultures-19	And-dffe_117_scavengers-37	And-dffe_117_vultures-19_1490	117	And-dffe_117_scavengers-37_3979	117	0	American black vulture	scavenger	66.0
+adaptation	Eur-3ec7_16_owl-4	Eur-3ec7_16_nocturnal-8	Eur-3ec7_16_owl-4_2146	16	Eur-3ec7_16_nocturnal-8_3967	16	0	Eurasian eagle owl	nocturnal	66.0
+adaptation	Eur-3ec7_370_owl-53	Eur-3ec7_370_territorial-31	Eur-3ec7_370_owl-53_5053	370	Eur-3ec7_370_territorial-31_3985	370	0	great grey owl	territorial	66.0
+adaptation	Wes-8d71_351_eaters-12	Wes-8d71_351_predators-3	Wes-8d71_351_eaters-12_3376	351	Wes-8d71_351_predators-3_359	351	0	Southern carmine bee-eater	Predator	60.0
+adaptation	Bee-ace3_329_eaters-43	Bee-ace3_329_predators-37	Bee-ace3_329_eaters-43_3376	329	Bee-ace3_329_predators-37_359	329	0	Southern carmine bee-eater	Predator	60.0
+adaptation	Bee-ace3_12_eaters-13	Bee-ace3_12_predators-16	Bee-ace3_12_eaters-13_5497	12	Bee-ace3_12_predators-16_359	12	0	southern carmine bee-eater	Predator	60.0
+adaptation	Bee-ace3_231_eaters-8	Bee-ace3_231_predators-2	Bee-ace3_231_eaters-8_5497	231	Bee-ace3_231_predators-2_3977	231	0	southern carmine bee-eater	predator	60.0
+adaptation	Whi-fa5f_20_eaters-6	Whi-fa5f_20_social-16	Whi-fa5f_20_eaters-6_3376	20	Whi-fa5f_20_social-16_3788	20	0	Southern carmine bee-eater	social	60.0
+adaptation	Bee-ace3_12_eaters-13	Bee-ace3_12_predators-2	Bee-ace3_12_eaters-13_5497	12	Bee-ace3_12_predators-2_3977	12	0	southern carmine bee-eater	predator	60.0
+taxongroup	New-d8c1_121_vulture-6	New-d8c1_121_bird-16	New-d8c1_121_vulture-6_1490	121	New-d8c1_121_bird-16_381	121	0	American black vulture	Birds	100.0
+taxongroup	Pri-2545_312_bird-33	Pri-2545_312_vertebrates-38	Pri-2545_312_bird-33_3995	312	Pri-2545_312_vertebrates-38_3935	312	0	birds	vertebrates	100.0
+taxongroup	Pre-b54c_41_birds-13	Pre-b54c_41_animals-7	Pre-b54c_41_birds-13_3995	41	Pre-b54c_41_animals-7_3812	41	0	birds	animals	100.0
+taxongroup	Tuf-fcbc_6_bird-27	Tuf-fcbc_6_animal-7	Tuf-fcbc_6_bird-27_3995	6	Tuf-fcbc_6_animal-7_3812	6	0	birds	animals	100.0
+taxongroup	Tun-4bf6_66_birds-29	Tun-4bf6_66_animals-16	Tun-4bf6_66_birds-29_3995	66	Tun-4bf6_66_animals-16_3812	66	0	birds	animals	100.0
+taxongroup	Tun-4bf6_6_birds-22	Tun-4bf6_6_animals-24	Tun-4bf6_6_birds-22_3995	6	Tun-4bf6_6_animals-24_3812	6	0	birds	animals	100.0
+taxongroup	Tru-f072_21_birds-3	Tru-f072_21_animals-7	Tru-f072_21_birds-3_3995	21	Tru-f072_21_animals-7_3812	21	0	birds	animals	100.0
+taxongroup	Tor-e831_5_birds-7	Tor-e831_5_Animals-1	Tor-e831_5_birds-7_3995	5	Tor-e831_5_Animals-1_3812	5	0	birds	animals	100.0
+taxongroup	Tri-5b33_97_birds-15	Tri-5b33_97_animals-8	Tri-5b33_97_birds-15_3995	97	Tri-5b33_97_animals-8_3812	97	0	birds	animals	100.0
+taxongroup	Pat-9307_139_birds-9	Pat-9307_139_vertebrate-13	Pat-9307_139_birds-9_3995	139	Pat-9307_139_vertebrate-13_3935	139	0	birds	vertebrates	100.0
+taxongroup	Pie-f170_39_bird-22	Pie-f170_39_vertebrates-20	Pie-f170_39_bird-22_3995	39	Pie-f170_39_vertebrates-20_3935	39	0	birds	vertebrates	100.0
+taxongroup	Rep-aa64_39_birds-21	Rep-aa64_39_vertebrates-7	Rep-aa64_39_birds-21_3995	39	Rep-aa64_39_vertebrates-7_3935	39	0	birds	vertebrates	100.0
+taxongroup	Pre-0725_171_birds-15	Pre-0725_171_vertebrates-2	Pre-0725_171_birds-15_3995	171	Pre-0725_171_vertebrates-2_3935	171	0	birds	vertebrates	100.0
+taxongroup	Pri-2545_142_birds-31	Pri-2545_142_vertebrates-21	Pri-2545_142_birds-31_3995	142	Pri-2545_142_vertebrates-21_3935	142	0	birds	vertebrates	100.0
+taxongroup	Pri-2545_312_birds-41	Pri-2545_312_vertebrates-38	Pri-2545_312_birds-41_3995	312	Pri-2545_312_vertebrates-38_3935	312	0	birds	vertebrates	100.0
+taxongroup	Pte-5908_24_birds-31	Pte-5908_24_vertebrates-14	Pte-5908_24_birds-31_3995	24	Pte-5908_24_vertebrates-14_3935	24	0	birds	vertebrates	100.0
+taxongroup	Tur-06de_318_birds-26	Tur-06de_318_vertebrates-14	Tur-06de_318_birds-26_3995	318	Tur-06de_318_vertebrates-14_3935	318	0	birds	vertebrates	100.0
+taxongroup	Pac-29db_14_birds-8	Pac-29db_14_vertebrates-14	Pac-29db_14_birds-8_3995	14	Pac-29db_14_vertebrates-14_3935	14	0	birds	vertebrates	100.0
+taxongroup	Pas-2c4d_4_birds-18	Pas-2c4d_4_vertebrates-27	Pas-2c4d_4_birds-18_3995	4	Pas-2c4d_4_vertebrates-27_3935	4	0	birds	vertebrates	100.0
+taxongroup	Par-5c6e_6_birds-57	Par-5c6e_6_vertebrates-45	Par-5c6e_6_birds-57_3995	6	Par-5c6e_6_vertebrates-45_3935	6	0	birds	vertebrates	100.0
+taxongroup	Par-5c6e_112_birds-16	Par-5c6e_112_vertebrates-2	Par-5c6e_112_birds-16_3995	112	Par-5c6e_112_vertebrates-2_3935	112	0	birds	vertebrates	100.0
+taxongroup	Pas-2c4d_4_birds-33	Pas-2c4d_4_vertebrates-27	Pas-2c4d_4_birds-33_3995	4	Pas-2c4d_4_vertebrates-27_3935	4	0	birds	vertebrates	100.0
+taxongroup	Pte-62aa_58_birds-10	Pte-62aa_58_vertebrate-5	Pte-62aa_58_birds-10_3995	58	Pte-62aa_58_vertebrate-5_3935	58	0	birds	vertebrates	100.0
+taxongroup	Rin-8693_198_birds-31	Rin-8693_198_vertebrates-29	Rin-8693_198_birds-31_3995	198	Rin-8693_198_vertebrates-29_3935	198	0	birds	vertebrates	100.0
+taxongroup	Sar73af_3_birds-20	Sar73af_3_vertebrates-14	Sar73af_3_birds-20_3995	3	Sar73af_3_vertebrates-14_3935	3	0	birds	vertebrates	100.0
+taxongroup	Sem-88a0_33_birds-5	Sem-88a0_33_vertebrates-2	Sem-88a0_33_birds-5_3995	33	Sem-88a0_33_vertebrates-2_3935	33	0	birds	vertebrates	100.0
+taxongroup	Tam-2f4a_31_bird-21	Tam-2f4a_31_vertebrates-19	Tam-2f4a_31_bird-21_3995	31	Tam-2f4a_31_vertebrates-19_3935	31	0	birds	vertebrates	100.0
+taxongroup	Tar-bf27_80_birds-18	Tar-bf27_80_vertebrates-9	Tar-bf27_80_birds-18_3995	80	Tar-bf27_80_vertebrates-9_3935	80	0	birds	vertebrates	100.0
+taxongroup	Tas-3df1_229_birds-25	Tas-3df1_229_vertebrates-14	Tas-3df1_229_birds-25_3995	229	Tas-3df1_229_vertebrates-14_3935	229	0	birds	vertebrates	100.0
+taxongroup	Str-7d42_77_birds-33	Str-7d42_77_vertebrates-16	Str-7d42_77_birds-33_3995	77	Str-7d42_77_vertebrates-16_3935	77	0	birds	vertebrates	100.0
+taxongroup	Too-567c_5_birds-10	Too-567c_5_animals-5	Too-567c_5_birds-10_3995	5	Too-567c_5_animals-5_3812	5	0	birds	animals	100.0
+taxongroup	Too-567c_354_bird-3	Too-567c_354_animal-63	Too-567c_354_bird-3_3995	354	Too-567c_354_animal-63_3812	354	0	birds	animals	100.0
+taxongroup	Pla-4bec_219_birds-23	Pla-4bec_219_animal-13	Pla-4bec_219_birds-23_3995	219	Pla-4bec_219_animal-13_3812	219	0	birds	animals	100.0
+taxongroup	Pla-4bec_219_birds-23	Pla-4bec_219_animals-18	Pla-4bec_219_birds-23_3995	219	Pla-4bec_219_animals-18_3812	219	0	birds	animals	100.0
+taxongroup	Sca-9161_72_birds-20	Sca-9161_72_animals-26	Sca-9161_72_birds-20_3995	72	Sca-9161_72_animals-26_3812	72	0	birds	animals	100.0
+taxongroup	Roo-1bd1_60_bird-30	Roo-1bd1_60_animal-19	Roo-1bd1_60_bird-30_3995	60	Roo-1bd1_60_animal-19_3812	60	0	birds	animals	100.0
+taxongroup	See-1516_107_birds-12	See-1516_107_animals-9	See-1516_107_birds-12_3995	107	See-1516_107_animals-9_3812	107	0	birds	animals	100.0
+taxongroup	See-1516_110_Birds-1	See-1516_110_animals-17	See-1516_110_Birds-1_3995	110	See-1516_110_animals-17_3812	110	0	birds	animals	100.0
+taxongroup	Sau-89d2_78_bird-2	Sau-89d2_78_animals-17	Sau-89d2_78_bird-2_3995	78	Sau-89d2_78_animals-17_3812	78	0	birds	animals	100.0
+taxongroup	Sex-811c_214_birds-10	Sex-811c_214_animals-20	Sex-811c_214_birds-10_3995	214	Sex-811c_214_animals-20_3812	214	0	birds	animals	100.0
+taxongroup	She-572b_325_birds-14	She-572b_325_animals-2	She-572b_325_birds-14_3995	325	She-572b_325_animals-2_3812	325	0	birds	animals	100.0
+taxongroup	Sir-1b7d_15_birds-15	Sir-1b7d_15_animals-12	Sir-1b7d_15_birds-15_3995	15	Sir-1b7d_15_animals-12_3812	15	0	birds	animals	100.0
+taxongroup	Sou-9a89_21_bird-16	Sou-9a89_21_animals-13	Sou-9a89_21_bird-16_3995	21	Sou-9a89_21_animals-13_3812	21	0	birds	animals	100.0
+taxongroup	Spa-e46a_10_birds-41	Spa-e46a_10_animals-23	Spa-e46a_10_birds-41_3995	10	Spa-e46a_10_animals-23_3812	10	0	birds	animals	100.0
+taxongroup	Sna-dfa9_315_birds-22	Sna-dfa9_315_animals-10	Sna-dfa9_315_birds-22_3995	315	Sna-dfa9_315_animals-10_3812	315	0	birds	animals	100.0
+taxongroup	Sno-0a8f_358_birds-23	Sno-0a8f_358_animals-30	Sno-0a8f_358_birds-23_3995	358	Sno-0a8f_358_animals-30_3812	358	0	birds	animals	100.0
+taxongroup	Spe-51aa_49_birds-19	Spe-51aa_49_animals-2	Spe-51aa_49_birds-19_3995	49	Spe-51aa_49_animals-2_3812	49	0	birds	animals	100.0
+taxongroup	Spi-fb82_261_bird-15	Spi-fb82_261_animal-21	Spi-fb82_261_bird-15_3995	261	Spi-fb82_261_animal-21_3812	261	0	birds	animals	100.0
+taxongroup	Too-567c_628_Bird-7	Too-567c_628_Animal-3	Too-567c_628_Bird-7_3995	628	Too-567c_628_Animal-3_3812	628	0	birds	animals	100.0
+taxongroup	Too-567c_341_birds-19	Too-567c_341_animal-55	Too-567c_341_birds-19_3995	341	Too-567c_341_animal-55_3812	341	0	birds	animals	100.0
+taxongroup	Syn-38d5_2_birds-27	Syn-38d5_2_animals-11	Syn-38d5_2_birds-27_3995	2	Syn-38d5_2_animals-11_3812	2	0	birds	animals	100.0
+taxongroup	Syn-38d5_9_bird-41	Syn-38d5_9_animals-8	Syn-38d5_9_bird-41_3995	9	Syn-38d5_9_animals-8_3812	9	0	birds	animals	100.0
+taxongroup	Too-567c_354_bird-13	Too-567c_354_animal-63	Too-567c_354_bird-13_3995	354	Too-567c_354_animal-63_3812	354	0	birds	animals	100.0
+taxongroup	Too-567c_628_Bird-7	Too-567c_628_animals-22	Too-567c_628_Bird-7_3995	628	Too-567c_628_animals-22_3812	628	0	birds	animals	100.0
+taxongroup	Swa-27b4_32_bird-11	Swa-27b4_32_animals-22	Swa-27b4_32_bird-11_3995	32	Swa-27b4_32_animals-22_3812	32	0	birds	animals	100.0
+taxongroup	Swa-27b4_32_bird-11	Swa-27b4_32_animals-36	Swa-27b4_32_bird-11_3995	32	Swa-27b4_32_animals-36_3812	32	0	birds	animals	100.0
+taxongroup	Too-567c_42_bird-33	Too-567c_42_animal-13	Too-567c_42_bird-33_3995	42	Too-567c_42_animal-13_3812	42	0	birds	animals	100.0
+taxongroup	Too-567c_340_birds-2	Too-567c_340_animals-6	Too-567c_340_birds-2_3995	340	Too-567c_340_animals-6_3812	340	0	birds	animals	100.0
+taxongroup	Pik-2f87_28_birds-9	Pik-2f87_28_animals-23	Pik-2f87_28_birds-9_3995	28	Pik-2f87_28_animals-23_3812	28	0	birds	animals	100.0
+taxongroup	Pin-feaf_18_birds-23	Pin-feaf_18_animal-18	Pin-feaf_18_birds-23_3995	18	Pin-feaf_18_animal-18_3812	18	0	birds	animals	100.0
+taxongroup	Pla-4bec_219_birds-23	Pla-4bec_219_animals-21	Pla-4bec_219_birds-23_3995	219	Pla-4bec_219_animals-21_3812	219	0	birds	animals	100.0
+taxongroup	Tuf-fcbc_6_bird-27	Tuf-fcbc_6_vertebrates-22	Tuf-fcbc_6_bird-27_3995	6	Tuf-fcbc_6_vertebrates-22_3935	6	0	birds	vertebrates	100.0
+taxongroup	Sum-fc8d_11_bird-5	Sum-fc8d_11_vertebrates-9	Sum-fc8d_11_bird-5_3995	11	Sum-fc8d_11_vertebrates-9_3935	11	0	birds	vertebrates	100.0
+taxongroup	Bla-e03a_2_vulture-15	Bla-e03a_2_bird-29	Bla-e03a_2_vulture-15_1490	2	Bla-e03a_2_bird-29_381	2	0	American black vulture	Birds	100.0
+taxongroup	Eur-3ec7_469_birds-18	Eur-3ec7_469_birds-18	Eur-3ec7_469_birds-18_4968	469	Eur-3ec7_469_birds-18_381	469	0	birds of prey	Birds	100.0
+taxongroup	Whi-b4c3_189_bird-17	Whi-b4c3_189_bird-17	Whi-b4c3_189_bird-17_4968	189	Whi-b4c3_189_bird-17_381	189	0	birds of prey	Birds	100.0
+taxongroup	Whi8d41_6_bird-4	Whi8d41_6_bird-4	Whi8d41_6_bird-4_4968	6	Whi8d41_6_bird-4_381	6	0	birds of prey	Birds	100.0
+taxongroup	Whi-b4c3_133_bird-34	Whi-b4c3_133_bird-34	Whi-b4c3_133_bird-34_4968	133	Whi-b4c3_133_bird-34_381	133	0	birds of prey	Birds	100.0
+taxongroup	Whi8d41_25_bird-3	Whi8d41_25_bird-3	Whi8d41_25_bird-3_4968	25	Whi8d41_25_bird-3_381	25	0	birds of prey	Birds	100.0
+taxongroup	Per-145f_327_birds-27	Per-145f_327_bird-19	Per-145f_327_birds-27_4968	327	Per-145f_327_bird-19_381	327	0	birds of prey	Birds	100.0
+taxongroup	Eur-bc75_653_birds-48	Eur-bc75_653_birds-33	Eur-bc75_653_birds-48_4968	653	Eur-bc75_653_birds-33_381	653	0	birds of prey	Birds	100.0
+taxongroup	Eur-bc75_2_bird-16	Eur-bc75_2_bird-16	Eur-bc75_2_bird-16_4968	2	Eur-bc75_2_bird-16_381	2	0	birds of prey	Birds	100.0
+taxongroup	Eur-bc75_209_bird-19	Eur-bc75_209_bird-19	Eur-bc75_209_bird-19_4968	209	Eur-bc75_209_bird-19_381	209	0	birds of prey	Birds	100.0
+taxongroup	Eur-bc75_213_birds-11	Eur-bc75_213_birds-11	Eur-bc75_213_birds-11_4968	213	Eur-bc75_213_birds-11_381	213	0	birds of prey	Birds	100.0
+taxongroup	Sea-a827_2_birds-28	Sea-a827_2_birds-28	Sea-a827_2_birds-28_4968	2	Sea-a827_2_birds-28_381	2	0	birds of prey	Birds	100.0
+taxongroup	San-a712_92_birds-18	San-a712_92_birds-18	San-a712_92_birds-18_4968	92	San-a712_92_birds-18_381	92	0	birds of prey	Birds	100.0
+taxongroup	Rüp-247d_2_bird-24	Rüp-247d_2_bird-24	Rüp-247d_2_bird-24_4968	2	Rüp-247d_2_bird-24_381	2	0	birds of prey	Birds	100.0
+taxongroup	Ros-3786_100_birds-15	Ros-3786_100_birds-15	Ros-3786_100_birds-15_4968	100	Ros-3786_100_birds-15_381	100	0	birds of prey	Birds	100.0
+taxongroup	Eur-3ec7_30_birds-10	Eur-3ec7_30_birds-10	Eur-3ec7_30_birds-10_4968	30	Eur-3ec7_30_birds-10_381	30	0	birds of prey	Birds	100.0
+taxongroup	Per-145f_327_birds-27	Per-145f_327_birds-27	Per-145f_327_birds-27_4968	327	Per-145f_327_birds-27_381	327	0	birds of prey	Birds	100.0
+taxongroup	Sea-a827_2_bird-37	Sea-a827_2_bird-37	Sea-a827_2_bird-37_4968	2	Sea-a827_2_bird-37_381	2	0	birds of prey	Birds	100.0
+taxongroup	Sex-811c_163_birds-23	Sex-811c_163_birds-34	Sex-811c_163_birds-23_4968	163	Sex-811c_163_birds-34_381	163	0	birds of prey	Birds	100.0
+taxongroup	Sex-811c_163_birds-34	Sex-811c_163_birds-34	Sex-811c_163_birds-34_4968	163	Sex-811c_163_birds-34_381	163	0	birds of prey	Birds	100.0
+taxongroup	Sea686b_1_birds-3	Sea686b_1_birds-3	Sea686b_1_birds-3_4968	1	Sea686b_1_birds-3_381	1	0	birds of prey	Birds	100.0
+taxongroup	Sex-811c_163_birds-23	Sex-811c_163_birds-23	Sex-811c_163_birds-23_4968	163	Sex-811c_163_birds-23_381	163	0	birds of prey	Birds	100.0
+taxongroup	Per-145f_2_bird-29	Per-145f_2_bird-29	Per-145f_2_bird-29_4968	2	Per-145f_2_bird-29_381	2	0	birds of prey	Birds	100.0
+taxongroup	Per-145f_327_bird-19	Per-145f_327_birds-27	Per-145f_327_bird-19_4968	327	Per-145f_327_birds-27_381	327	0	birds of prey	Birds	100.0
+taxongroup	Per-145f_326_birds-21	Per-145f_326_birds-21	Per-145f_326_birds-21_4968	326	Per-145f_326_birds-21_381	326	0	birds of prey	Birds	100.0
+taxongroup	Per-145f_27_birds-15	Per-145f_27_birds-15	Per-145f_27_birds-15_4968	27	Per-145f_27_birds-15_381	27	0	birds of prey	Birds	100.0
+taxongroup	Per-145f_326_birds-52	Per-145f_326_birds-21	Per-145f_326_birds-52_4968	326	Per-145f_326_birds-21_381	326	0	birds of prey	Birds	100.0
+taxongroup	Per-145f_326_birds-52	Per-145f_326_birds-52	Per-145f_326_birds-52_4968	326	Per-145f_326_birds-52_381	326	0	birds of prey	Birds	100.0
+taxongroup	She-572b_325_birds-14	She-572b_325_birds-14	She-572b_325_birds-14_4968	325	She-572b_325_birds-14_381	325	0	birds of prey	Birds	100.0
+taxongroup	Whi-b4c3_523_birds-3	Whi-b4c3_523_birds-3	Whi-b4c3_523_birds-3_4968	523	Whi-b4c3_523_birds-3_381	523	0	birds of prey	Birds	100.0
+taxongroup	Too-567c_59_birds-9	Too-567c_59_birds-2	Too-567c_59_birds-9_4968	59	Too-567c_59_birds-2_381	59	0	birds of prey	Birds	100.0
+taxongroup	Til-b8a5_75_birds-9	Til-b8a5_75_birds-9	Til-b8a5_75_birds-9_4968	75	Til-b8a5_75_birds-9_381	75	0	birds of prey	Birds	100.0
+taxongroup	Whi-b4c3_2_bird-23	Whi-b4c3_2_bird-23	Whi-b4c3_2_bird-23_4968	2	Whi-b4c3_2_bird-23_381	2	0	birds of prey	Birds	100.0
+taxongroup	Vel-f1d8_178_birds-25	Vel-f1d8_178_birds-25	Vel-f1d8_178_birds-25_4968	178	Vel-f1d8_178_birds-25_381	178	0	birds of prey	Birds	100.0
+taxongroup	Vel-f1d8_176_birds-33	Vel-f1d8_176_birds-33	Vel-f1d8_176_birds-33_4968	176	Vel-f1d8_176_birds-33_381	176	0	birds of prey	Birds	100.0
+taxongroup	Sno-0a8f_117_birds-3	Sno-0a8f_117_birds-18	Sno-0a8f_117_birds-3_4968	117	Sno-0a8f_117_birds-18_381	117	0	birds of prey	Birds	100.0
+taxongroup	Pre-0725_140_birds-6	Pre-0725_140_birds-6	Pre-0725_140_birds-6_4968	140	Pre-0725_140_birds-6_381	140	0	birds of prey	Birds	100.0
+taxongroup	Pie-f170_40_birds-9	Pie-f170_40_birds-9	Pie-f170_40_birds-9_4968	40	Pie-f170_40_birds-9_381	40	0	birds of prey	Birds	100.0
+taxongroup	Per-5200_4_bird-19	Per-5200_4_bird-19	Per-5200_4_bird-19_4968	4	Per-5200_4_bird-19_381	4	0	birds of prey	Birds	100.0
+taxongroup	Viv-ac84_59_birds-6	Viv-ac84_59_birds-6	Viv-ac84_59_birds-6_4968	59	Viv-ac84_59_birds-6_381	59	0	birds of prey	Birds	100.0
+taxongroup	Too-567c_59_birds-9	Too-567c_59_birds-9	Too-567c_59_birds-9_4968	59	Too-567c_59_birds-9_381	59	0	birds of prey	Birds	100.0
+taxongroup	Tuf-fcbc_40_birds-9	Tuf-fcbc_40_birds-9	Tuf-fcbc_40_birds-9_4968	40	Tuf-fcbc_40_birds-9_381	40	0	birds of prey	Birds	100.0
+taxongroup	Wes-9ef7_2_bird-15	Wes-9ef7_2_bird-15	Wes-9ef7_2_bird-15_4968	2	Wes-9ef7_2_bird-15_381	2	0	birds of prey	Birds	100.0
+taxongroup	Wes-9ef7_14_bird-16	Wes-9ef7_14_bird-16	Wes-9ef7_14_bird-16_4968	14	Wes-9ef7_14_bird-16_381	14	0	birds of prey	Birds	100.0
+taxongroup	Sno-0a8f_117_birds-3	Sno-0a8f_117_birds-3	Sno-0a8f_117_birds-3_4968	117	Sno-0a8f_117_birds-3_381	117	0	birds of prey	Birds	100.0
+taxongroup	Per-145f_327_bird-19	Per-145f_327_bird-19	Per-145f_327_bird-19_4968	327	Per-145f_327_bird-19_381	327	0	birds of prey	Birds	100.0
+taxongroup	Pre10d6_160_birds-2	Pre10d6_160_birds-2	Pre10d6_160_birds-2_4968	160	Pre10d6_160_birds-2_381	160	0	birds of prey	Birds	100.0
+taxongroup	Per-145f_326_birds-21	Per-145f_326_birds-52	Per-145f_326_birds-21_4968	326	Per-145f_326_birds-52_381	326	0	birds of prey	Birds	100.0
+taxongroup	Red-a597_60_birds-5	Red-a597_60_birds-5	Red-a597_60_birds-5_4968	60	Red-a597_60_birds-5_381	60	0	birds of prey	Birds	100.0
+taxongroup	Red1328_17_bird-7	Red1328_17_bird-7	Red1328_17_bird-7_4968	17	Red1328_17_bird-7_381	17	0	birds of prey	Birds	100.0
+taxongroup	Pte-62aa_599_birds-11	Pte-62aa_599_birds-11	Pte-62aa_599_birds-11_4968	599	Pte-62aa_599_birds-11_381	599	0	birds of prey	Birds	100.0
+taxongroup	Pri-2545_327_birds-10	Pri-2545_327_birds-10	Pri-2545_327_birds-10_4968	327	Pri-2545_327_birds-10_381	327	0	birds of prey	Birds	100.0
+taxongroup	Too-567c_59_birds-2	Too-567c_59_birds-9	Too-567c_59_birds-2_4968	59	Too-567c_59_birds-9_381	59	0	birds of prey	Birds	100.0
+taxongroup	Too-567c_59_birds-2	Too-567c_59_birds-2	Too-567c_59_birds-2_4968	59	Too-567c_59_birds-2_381	59	0	birds of prey	Birds	100.0
+taxongroup	Sto-1ff0_152_birds-7	Sto-1ff0_152_birds-7	Sto-1ff0_152_birds-7_4968	152	Sto-1ff0_152_birds-7_381	152	0	birds of prey	Birds	100.0
+taxongroup	Ste-6e04_2_bird-27	Ste-6e04_2_bird-27	Ste-6e04_2_bird-27_4968	2	Ste-6e04_2_bird-27_381	2	0	birds of prey	Birds	100.0
+taxongroup	Sno-0a8f_117_birds-18	Sno-0a8f_117_birds-18	Sno-0a8f_117_birds-18_4968	117	Sno-0a8f_117_birds-18_381	117	0	birds of prey	Birds	100.0
+taxongroup	Whi8d41_15_bird-24	Whi8d41_15_bird-24	Whi8d41_15_bird-24_4968	15	Whi8d41_15_bird-24_381	15	0	birds of prey	Birds	100.0
+taxongroup	Whi-b4c3_133_bird-34	Whi-b4c3_133_bird-10	Whi-b4c3_133_bird-34_4968	133	Whi-b4c3_133_bird-10_381	133	0	birds of prey	Birds	100.0
+taxongroup	Whi-b4c3_523_birds-3	Whi-b4c3_523_birds-37	Whi-b4c3_523_birds-3_4968	523	Whi-b4c3_523_birds-37_381	523	0	birds of prey	Birds	100.0
+taxongroup	Rai-6e97_208_Birds-3	Rai-6e97_208_Animals-1	Rai-6e97_208_Birds-3_3995	208	Rai-6e97_208_Animals-1_3812	208	0	birds	animals	100.0
+taxongroup	Red-1eff_84_birds-14	Red-1eff_84_animals-17	Red-1eff_84_birds-14_3995	84	Red-1eff_84_animals-17_3812	84	0	birds	animals	100.0
+taxongroup	Pte-62aa_461_Birds-1	Pte-62aa_461_animals-9	Pte-62aa_461_Birds-1_3995	461	Pte-62aa_461_animals-9_3812	461	0	birds	animals	100.0
+taxongroup	Pho-dee1_54_bird-26	Pho-dee1_54_animals-22	Pho-dee1_54_bird-26_3995	54	Pho-dee1_54_animals-22_44	54	0	birds	Animals	100.0
+taxongroup	Asi-04d8_2_owls-7	Asi-04d8_2_owls-11	Asi-04d8_2_owls-7_843	2	Asi-04d8_2_owls-11_5292	2	0	True owls	owls	100.0
+taxongroup	Asi-04d8_2_owls-11	Asi-04d8_2_owls-7	Asi-04d8_2_owls-11_843	2	Asi-04d8_2_owls-7_5292	2	0	True owls	owls	100.0
+taxongroup	Bar-267a_25_owls-13	Bar-267a_25_owls-7	Bar-267a_25_owls-13_843	25	Bar-267a_25_owls-7_5292	25	0	True owls	owls	100.0
+taxongroup	Bar-267a_45_owls-23	Bar-267a_45_owls-30	Bar-267a_45_owls-23_843	45	Bar-267a_45_owls-30_5292	45	0	True owls	owls	100.0
+taxongroup	Bar-267a_45_owls-23	Bar-267a_45_owls-23	Bar-267a_45_owls-23_843	45	Bar-267a_45_owls-23_5292	45	0	True owls	owls	100.0
+taxongroup	Bar-267a_45_owls-30	Bar-267a_45_owls-23	Bar-267a_45_owls-30_843	45	Bar-267a_45_owls-23_5292	45	0	True owls	owls	100.0
+taxongroup	Bar-267a_45_owls-30	Bar-267a_45_owls-30	Bar-267a_45_owls-30_843	45	Bar-267a_45_owls-30_5292	45	0	True owls	owls	100.0
+taxongroup	Bar-267a_45_owls-30	Bar-267a_45_owls-7	Bar-267a_45_owls-30_843	45	Bar-267a_45_owls-7_5292	45	0	True owls	owls	100.0
+taxongroup	Bar-267a_45_owls-7	Bar-267a_45_owls-23	Bar-267a_45_owls-7_843	45	Bar-267a_45_owls-23_5292	45	0	True owls	owls	100.0
+taxongroup	Bar-267a_45_owls-7	Bar-267a_45_owls-7	Bar-267a_45_owls-7_843	45	Bar-267a_45_owls-7_5292	45	0	True owls	owls	100.0
+taxongroup	Bar-267a_2_owls-14	Bar-267a_2_owls-14	Bar-267a_2_owls-14_843	2	Bar-267a_2_owls-14_5292	2	0	True owls	owls	100.0
+taxongroup	Bar-267a_45_owls-23	Bar-267a_45_owls-7	Bar-267a_45_owls-23_843	45	Bar-267a_45_owls-7_5292	45	0	True owls	owls	100.0
+taxongroup	Red-5937_96_birds-27	Red-5937_96_animals-14	Red-5937_96_birds-27_3995	96	Red-5937_96_animals-14_44	96	0	birds	Animals	100.0
+taxongroup	Rep-aa64_191_birds-9	Rep-aa64_191_animals-35	Rep-aa64_191_birds-9_3995	191	Rep-aa64_191_animals-35_44	191	0	birds	Animals	100.0
+taxongroup	Pte-62aa_482_birds-19	Pte-62aa_482_animals-16	Pte-62aa_482_birds-19_3995	482	Pte-62aa_482_animals-16_3812	482	0	birds	animals	100.0
+taxongroup	Rat-4b67_4_birds-18	Rat-4b67_4_animals-15	Rat-4b67_4_birds-18_3995	4	Rat-4b67_4_animals-15_44	4	0	birds	Animals	100.0
+taxongroup	Rep-aa64_32_birds-55	Rep-aa64_32_animals-26	Rep-aa64_32_birds-55_3995	32	Rep-aa64_32_animals-26_44	32	0	birds	Animals	100.0
+taxongroup	Rep-aa64_49_birds-17	Rep-aa64_49_animals-2	Rep-aa64_49_birds-17_3995	49	Rep-aa64_49_animals-2_44	49	0	birds	Animals	100.0
+taxongroup	Rat-4b67_33_birds-13	Rat-4b67_33_animals-18	Rat-4b67_33_birds-13_3995	33	Rat-4b67_33_animals-18_44	33	0	birds	Animals	100.0
+taxongroup	Red-2707_35_birds-33	Red-2707_35_animal-2	Red-2707_35_birds-33_3995	35	Red-2707_35_animal-2_44	35	0	birds	Animals	100.0
+taxongroup	Pre-146e_3_birds-8	Pre-146e_3_animals-23	Pre-146e_3_birds-8_3995	3	Pre-146e_3_animals-23_44	3	0	birds	Animals	100.0
+taxongroup	Pro-b864_498_birds-2	Pro-b864_498_animal-11	Pro-b864_498_birds-2_3995	498	Pro-b864_498_animal-11_44	498	0	birds	Animals	100.0
+taxongroup	Pte-5908_21_birds-21	Pte-5908_21_animal-11	Pte-5908_21_birds-21_3995	21	Pte-5908_21_animal-11_44	21	0	birds	Animals	100.0
+taxongroup	Pre-0725_171_birds-15	Pre-0725_171_animal-46	Pre-0725_171_birds-15_3995	171	Pre-0725_171_animal-46_44	171	0	birds	Animals	100.0
+taxongroup	Pte-5908_45_birds-18	Pte-5908_45_animal-2	Pte-5908_45_birds-18_3995	45	Pte-5908_45_animal-2_44	45	0	birds	Animals	100.0
+taxongroup	Pro-cbba_48_birds-2	Pro-cbba_48_animal-12	Pro-cbba_48_birds-2_3995	48	Pro-cbba_48_animal-12_44	48	0	birds	Animals	100.0
+taxongroup	Owl-fee2_333_bird-11	Owl-fee2_333_animal-16	Owl-fee2_333_bird-11_3995	333	Owl-fee2_333_animal-16_44	333	0	birds	Animals	100.0
+taxongroup	Par-5c6e_6_birds-57	Par-5c6e_6_animal-11	Par-5c6e_6_birds-57_3995	6	Par-5c6e_6_animal-11_44	6	0	birds	Animals	100.0
+taxongroup	Asi-04d8_2_owls-7	Asi-04d8_2_owls-7	Asi-04d8_2_owls-7_843	2	Asi-04d8_2_owls-7_5292	2	0	True owls	owls	100.0
+taxongroup	Asi-04d8_2_owls-11	Asi-04d8_2_owls-11	Asi-04d8_2_owls-11_843	2	Asi-04d8_2_owls-11_5292	2	0	True owls	owls	100.0
+taxongroup	Bar-267a_2_owls-21	Bar-267a_2_owls-14	Bar-267a_2_owls-21_843	2	Bar-267a_2_owls-14_5292	2	0	True owls	owls	100.0
+taxongroup	Bar-267a_2_owls-14	Bar-267a_2_owls-24	Bar-267a_2_owls-14_843	2	Bar-267a_2_owls-24_5292	2	0	True owls	owls	100.0
+taxongroup	Pha-6deb_2_Phasianidae-2	Pha-6deb_2_birds-12	Pha-6deb_2_Phasianidae-2_745	2	Pha-6deb_2_birds-12_381	2	0	Phasianidae	Birds	100.0
+taxongroup	Gal-0153_4_Phasianidae-20	Gal-0153_4_birds-66	Gal-0153_4_Phasianidae-20_745	4	Gal-0153_4_birds-66_381	4	0	Phasianidae	Birds	100.0
+taxongroup	Red-35e6_2_Phasianidae-16	Red-35e6_2_birds-23	Red-35e6_2_Phasianidae-16_745	2	Red-35e6_2_birds-23_381	2	0	Phasianidae	Birds	100.0
+taxongroup	Phe-1cad_2_Phasianidae-14	Phe-1cad_2_birds-7	Phe-1cad_2_Phasianidae-14_745	2	Phe-1cad_2_birds-7_381	2	0	Phasianidae	Birds	100.0
+taxongroup	Red-35e6_2_Phasianidae-16	Red-35e6_2_gamebird-11	Red-35e6_2_Phasianidae-16_745	2	Red-35e6_2_gamebird-11_4997	2	0	Phasianidae	gamebirds	100.0
+taxongroup	Eur-b4b7_21_Procellariidae-43	Eur-b4b7_21_tubenoses-19	Eur-b4b7_21_Procellariidae-43_759	21	Eur-b4b7_21_tubenoses-19_5369	21	0	Procellariidae	tubenoses	100.0
+taxongroup	Asi-04d8_2_Strigidae-16	Asi-04d8_2_owls-7	Asi-04d8_2_Strigidae-16_842	2	Asi-04d8_2_owls-7_5292	2	0	Strigidae	owls	100.0
+taxongroup	Asi-04d8_2_Strigidae-16	Asi-04d8_2_owls-11	Asi-04d8_2_Strigidae-16_842	2	Asi-04d8_2_owls-11_5292	2	0	Strigidae	owls	100.0
+taxongroup	Bar-267a_25_owls-7	Bar-267a_25_owls-13	Bar-267a_25_owls-7_843	25	Bar-267a_25_owls-13_5292	25	0	True owls	owls	100.0
+taxongroup	Bar-267a_25_owls-7	Bar-267a_25_owls-7	Bar-267a_25_owls-7_843	25	Bar-267a_25_owls-7_5292	25	0	True owls	owls	100.0
+taxongroup	Bar-267a_25_owls-7	Bar-267a_25_owls-10	Bar-267a_25_owls-7_843	25	Bar-267a_25_owls-10_5292	25	0	True owls	owls	100.0
+taxongroup	Bar-267a_25_owls-10	Bar-267a_25_owls-7	Bar-267a_25_owls-10_843	25	Bar-267a_25_owls-7_5292	25	0	True owls	owls	100.0
+taxongroup	Bar-267a_2_owls-24	Bar-267a_2_owls-14	Bar-267a_2_owls-24_843	2	Bar-267a_2_owls-14_5292	2	0	True owls	owls	100.0
+taxongroup	Bar-267a_2_owls-24	Bar-267a_2_owls-21	Bar-267a_2_owls-24_843	2	Bar-267a_2_owls-21_5292	2	0	True owls	owls	100.0
+taxongroup	Bar-267a_25_owls-10	Bar-267a_25_owls-10	Bar-267a_25_owls-10_843	25	Bar-267a_25_owls-10_5292	25	0	True owls	owls	100.0
+taxongroup	Bar-267a_25_owls-10	Bar-267a_25_owls-13	Bar-267a_25_owls-10_843	25	Bar-267a_25_owls-13_5292	25	0	True owls	owls	100.0
+taxongroup	Bar-267a_45_owls-7	Bar-267a_45_owls-30	Bar-267a_45_owls-7_843	45	Bar-267a_45_owls-30_5292	45	0	True owls	owls	100.0
+taxongroup	Bar-267a_2_owls-24	Bar-267a_2_owls-24	Bar-267a_2_owls-24_843	2	Bar-267a_2_owls-24_5292	2	0	True owls	owls	100.0
+taxongroup	Bar-267a_2_owls-14	Bar-267a_2_owls-21	Bar-267a_2_owls-14_843	2	Bar-267a_2_owls-21_5292	2	0	True owls	owls	100.0
+taxongroup	Bar-267a_2_owls-21	Bar-267a_2_owls-24	Bar-267a_2_owls-21_843	2	Bar-267a_2_owls-24_5292	2	0	True owls	owls	100.0
+taxongroup	Bar-267a_25_owls-13	Bar-267a_25_owls-13	Bar-267a_25_owls-13_843	25	Bar-267a_25_owls-13_5292	25	0	True owls	owls	100.0
+taxongroup	Bar-267a_2_owls-21	Bar-267a_2_owls-21	Bar-267a_2_owls-21_843	2	Bar-267a_2_owls-21_5292	2	0	True owls	owls	100.0
+taxongroup	Rep-aa64_200_birds-30	Rep-aa64_200_animal-12	Rep-aa64_200_birds-30_3995	200	Rep-aa64_200_animal-12_44	200	0	birds	Animals	100.0
+taxongroup	Pum-f726_48_birds-13	Pum-f726_48_animals-8	Pum-f726_48_birds-13_3995	48	Pum-f726_48_animals-8_44	48	0	birds	Animals	100.0
+taxongroup	Sno-0a8f_499_birds-14	Sno-0a8f_499_birds-14	Sno-0a8f_499_birds-14_4968	499	Sno-0a8f_499_birds-14_381	499	0	birds of prey	Birds	100.0
+taxongroup	Riv-1495_224_birds-32	Riv-1495_224_birds-27	Riv-1495_224_birds-32_4968	224	Riv-1495_224_birds-27_381	224	0	birds of prey	Birds	100.0
+taxongroup	Riv-1495_224_birds-32	Riv-1495_224_birds-32	Riv-1495_224_birds-32_4968	224	Riv-1495_224_birds-32_381	224	0	birds of prey	Birds	100.0
+taxongroup	Osp-8ead_42_bird-31	Osp-8ead_42_bird-31	Osp-8ead_42_bird-31_4968	42	Osp-8ead_42_bird-31_3995	42	0	birds of prey	birds	100.0
+taxongroup	New-d8c1_23_birds-34	New-d8c1_23_birds-34	New-d8c1_23_birds-34_4968	23	New-d8c1_23_birds-34_3995	23	0	birds of prey	birds	100.0
+taxongroup	Mou338e_9_birds-21	Mou338e_9_birds-21	Mou338e_9_birds-21_4968	9	Mou338e_9_birds-21_3995	9	0	birds of prey	birds	100.0
+taxongroup	Owl-fee2_121_birds-10	Owl-fee2_121_birds-10	Owl-fee2_121_birds-10_4968	121	Owl-fee2_121_birds-10_3995	121	0	birds of prey	birds	100.0
+taxongroup	Owl-fee2_55_birds-5	Owl-fee2_55_birds-5	Owl-fee2_55_birds-5_4968	55	Owl-fee2_55_birds-5_3995	55	0	birds of prey	birds	100.0
+taxongroup	Owl-fee2_2_birds-3	Owl-fee2_2_birds-3	Owl-fee2_2_birds-3_4968	2	Owl-fee2_2_birds-3_3995	2	0	birds of prey	birds	100.0
+taxongroup	Owl-fee2_2_birds-3	Owl-fee2_2_birds-21	Owl-fee2_2_birds-3_4968	2	Owl-fee2_2_birds-21_3995	2	0	birds of prey	birds	100.0
+taxongroup	Owl-fee2_11_birds-2	Owl-fee2_11_birds-2	Owl-fee2_11_birds-2_4968	11	Owl-fee2_11_birds-2_3995	11	0	birds of prey	birds	100.0
+taxongroup	Owl-fee2_2_birds-21	Owl-fee2_2_birds-3	Owl-fee2_2_birds-21_4968	2	Owl-fee2_2_birds-3_3995	2	0	birds of prey	birds	100.0
+taxongroup	Osp-8ead_140_birds-27	Osp-8ead_140_birds-27	Osp-8ead_140_birds-27_4968	140	Osp-8ead_140_birds-27_3995	140	0	birds of prey	birds	100.0
+taxongroup	Osp-8ead_45_birds-10	Osp-8ead_45_birds-10	Osp-8ead_45_birds-10_4968	45	Osp-8ead_45_birds-10_3995	45	0	birds of prey	birds	100.0
+taxongroup	Nor-d815_2_bird-23	Nor-d815_2_bird-23	Nor-d815_2_bird-23_4968	2	Nor-d815_2_bird-23_3995	2	0	birds of prey	birds	100.0
+taxongroup	Nor7ddb_1_Birds-8	Nor7ddb_1_Birds-8	Nor7ddb_1_Birds-8_4968	1	Nor7ddb_1_Birds-8_3995	1	0	birds of prey	birds	100.0
+taxongroup	Nor7ddb_1_Birds-8	Nor7ddb_1_birds-19	Nor7ddb_1_Birds-8_4968	1	Nor7ddb_1_birds-19_3995	1	0	birds of prey	birds	100.0
+taxongroup	Nor-d815_14_bird-16	Nor-d815_14_bird-16	Nor-d815_14_bird-16_4968	14	Nor-d815_14_bird-16_3995	14	0	birds of prey	birds	100.0
+taxongroup	Nor7ddb_1_birds-19	Nor7ddb_1_Birds-8	Nor7ddb_1_birds-19_4968	1	Nor7ddb_1_Birds-8_3995	1	0	birds of prey	birds	100.0
+taxongroup	Nor7ddb_1_birds-19	Nor7ddb_1_birds-19	Nor7ddb_1_birds-19_4968	1	Nor7ddb_1_birds-19_3995	1	0	birds of prey	birds	100.0
+taxongroup	Nor7ddb_4_birds-10	Nor7ddb_4_birds-10	Nor7ddb_4_birds-10_4968	4	Nor7ddb_4_birds-10_3995	4	0	birds of prey	birds	100.0
+taxongroup	Owl-fee2_2_birds-21	Owl-fee2_2_birds-21	Owl-fee2_2_birds-21_4968	2	Owl-fee2_2_birds-21_3995	2	0	birds of prey	birds	100.0
+taxongroup	Owl-fee2_62_birds-19	Owl-fee2_62_birds-19	Owl-fee2_62_birds-19_4968	62	Owl-fee2_62_birds-19_3995	62	0	birds of prey	birds	100.0
+taxongroup	Mor-26fe_280_birds-15	Mor-26fe_280_birds-15	Mor-26fe_280_birds-15_4968	280	Mor-26fe_280_birds-15_3995	280	0	birds of prey	birds	100.0
+taxongroup	Taw-0bfd_29_birds-30	Taw-0bfd_29_birds-30	Taw-0bfd_29_birds-30_4968	29	Taw-0bfd_29_birds-30_3995	29	0	birds of prey	birds	100.0
+taxongroup	New-ec36_77_birds-22	New-ec36_77_birds-22	New-ec36_77_birds-22_4968	77	New-ec36_77_birds-22_3995	77	0	birds of prey	birds	100.0
+taxongroup	Sto-1ff0_153_birds-5	Sto-1ff0_153_birds-5	Sto-1ff0_153_birds-5_4968	153	Sto-1ff0_153_birds-5_3995	153	0	birds of prey	birds	100.0
+taxongroup	Str-7d42_4_birds-13	Str-7d42_4_birds-13	Str-7d42_4_birds-13_4968	4	Str-7d42_4_birds-13_3995	4	0	birds of prey	birds	100.0
+taxongroup	Noc-ac81_33_birds-26	Noc-ac81_33_birds-26	Noc-ac81_33_birds-26_4968	33	Noc-ac81_33_birds-26_3995	33	0	birds of prey	birds	100.0
+taxongroup	Per41d5_41_bird-3	Per41d5_41_bird-3	Per41d5_41_bird-3_4968	41	Per41d5_41_bird-3_3995	41	0	birds of prey	birds	100.0
+taxongroup	New-d8c1_121_bird-16	New-d8c1_121_bird-16	New-d8c1_121_bird-16_4968	121	New-d8c1_121_bird-16_3995	121	0	birds of prey	birds	100.0
+taxongroup	New-d8c1_22_bird-10	New-d8c1_22_birds-22	New-d8c1_22_bird-10_4968	22	New-d8c1_22_birds-22_3995	22	0	birds of prey	birds	100.0
+taxongroup	New-d8c1_22_bird-10	New-d8c1_22_bird-10	New-d8c1_22_bird-10_4968	22	New-d8c1_22_bird-10_3995	22	0	birds of prey	birds	100.0
+taxongroup	New-d8c1_22_birds-22	New-d8c1_22_birds-22	New-d8c1_22_birds-22_4968	22	New-d8c1_22_birds-22_3995	22	0	birds of prey	birds	100.0
+taxongroup	Riv-1495_224_birds-27	Riv-1495_224_birds-32	Riv-1495_224_birds-27_4968	224	Riv-1495_224_birds-32_3995	224	0	birds of prey	birds	100.0
+taxongroup	Red-a286_42_birds-23	Red-a286_42_birds-23	Red-a286_42_birds-23_4968	42	Red-a286_42_birds-23_3995	42	0	birds of prey	birds	100.0
+taxongroup	Red-1eff_2_bird-13	Red-1eff_2_bird-13	Red-1eff_2_bird-13_4968	2	Red-1eff_2_bird-13_3995	2	0	birds of prey	birds	100.0
+taxongroup	Riv-1495_224_birds-27	Riv-1495_224_birds-27	Riv-1495_224_birds-27_4968	224	Riv-1495_224_birds-27_3995	224	0	birds of prey	birds	100.0
+taxongroup	Sno-0a8f_117_birds-18	Sno-0a8f_117_birds-3	Sno-0a8f_117_birds-18_4968	117	Sno-0a8f_117_birds-3_3995	117	0	birds of prey	birds	100.0
+taxongroup	Slo-13c7_59_birds-10	Slo-13c7_59_birds-10	Slo-13c7_59_birds-10_4968	59	Slo-13c7_59_birds-10_3995	59	0	birds of prey	birds	100.0
+taxongroup	Sex-811c_163_birds-34	Sex-811c_163_birds-23	Sex-811c_163_birds-34_4968	163	Sex-811c_163_birds-23_3995	163	0	birds of prey	birds	100.0
+taxongroup	Taw-0bfd_36_bird-7	Taw-0bfd_36_bird-7	Taw-0bfd_36_bird-7_4968	36	Taw-0bfd_36_bird-7_3995	36	0	birds of prey	birds	100.0
+taxongroup	Taw-0bfd_6_bird-7	Taw-0bfd_6_bird-7	Taw-0bfd_6_bird-7_4968	6	Taw-0bfd_6_bird-7_3995	6	0	birds of prey	birds	100.0
+taxongroup	Par-c337_2_bird-6	Par-c337_2_bird-6	Par-c337_2_bird-6_4968	2	Par-c337_2_bird-6_3995	2	0	birds of prey	birds	100.0
+taxongroup	Pan-0e09_2_bird-9	Pan-0e09_2_bird-9	Pan-0e09_2_bird-9_4968	2	Pan-0e09_2_bird-9_3995	2	0	birds of prey	birds	100.0
+taxongroup	Osp-8ead_147_bird-9	Osp-8ead_147_bird-9	Osp-8ead_147_bird-9_4968	147	Osp-8ead_147_bird-9_3995	147	0	birds of prey	birds	100.0
+taxongroup	Osp6325_36_birds-8	Osp6325_36_birds-8	Osp6325_36_birds-8_4968	36	Osp6325_36_birds-8_3995	36	0	birds of prey	birds	100.0
+taxongroup	Osp-8ead_2_bird-28	Osp-8ead_2_bird-28	Osp-8ead_2_bird-28_4968	2	Osp-8ead_2_bird-28_3995	2	0	birds of prey	birds	100.0
+taxongroup	Owl-fee2_175_birds-22	Owl-fee2_175_birds-22	Owl-fee2_175_birds-22_4968	175	Owl-fee2_175_birds-22_3995	175	0	birds of prey	birds	100.0
+taxongroup	Owl-fee2_122_bird-14	Owl-fee2_122_bird-14	Owl-fee2_122_bird-14_4968	122	Owl-fee2_122_bird-14_3995	122	0	birds of prey	birds	100.0
+taxongroup	Pac-29db_14_birds-8	Pac-29db_14_birds-8	Pac-29db_14_birds-8_4968	14	Pac-29db_14_birds-8_3995	14	0	birds of prey	birds	100.0
+taxongroup	Per41d5_41_birds-16	Per41d5_41_bird-3	Per41d5_41_birds-16_4968	41	Per41d5_41_bird-3_3995	41	0	birds of prey	birds	100.0
+taxongroup	Per41d5_41_birds-16	Per41d5_41_birds-16	Per41d5_41_birds-16_4968	41	Per41d5_41_birds-16_3995	41	0	birds of prey	birds	100.0
+taxongroup	Pat-53c4_37_birds-17	Pat-53c4_37_birds-17	Pat-53c4_37_birds-17_4968	37	Pat-53c4_37_birds-17_3995	37	0	birds of prey	birds	100.0
+taxongroup	Per41d5_41_bird-3	Per41d5_41_birds-16	Per41d5_41_bird-3_4968	41	Per41d5_41_birds-16_3995	41	0	birds of prey	birds	100.0
+taxongroup	Tar-edfc_71_birds-29	Tar-edfc_71_birds-29	Tar-edfc_71_birds-29_4968	71	Tar-edfc_71_birds-29_3995	71	0	birds of prey	birds	100.0
+taxongroup	Taw-0bfd_35_birds-3	Taw-0bfd_35_birds-3	Taw-0bfd_35_birds-3_4968	35	Taw-0bfd_35_birds-3_3995	35	0	birds of prey	birds	100.0
+taxongroup	Bar-267a_25_owls-13	Bar-267a_25_owls-10	Bar-267a_25_owls-13_4209	25	Bar-267a_25_owls-10_5292	25	0	true owls	owls	100.0
+taxongroup	Woo-fa9e_47_stork-4	Woo-fa9e_47_bird-8	Woo-fa9e_47_stork-4_3932	47	Woo-fa9e_47_bird-8_381	47	0	wood stork	Birds	100.0
+taxongroup	Woo-fa9e_26_stork-5	Woo-fa9e_26_birds-25	Woo-fa9e_26_stork-5_3932	26	Woo-fa9e_26_birds-25_381	26	0	wood stork	Birds	100.0
+taxongroup	Woo-fa9e_2_stork-3	Woo-fa9e_2_bird-13	Woo-fa9e_2_stork-3_3932	2	Woo-fa9e_2_bird-13_381	2	0	wood stork	Birds	100.0
+taxongroup	Woo-fa9e_2_storks-19	Woo-fa9e_2_bird-13	Woo-fa9e_2_storks-19_3932	2	Woo-fa9e_2_bird-13_381	2	0	wood stork	Birds	100.0
+taxongroup	Woo-fa9e_107_stork-24	Woo-fa9e_107_birds-8	Woo-fa9e_107_stork-24_3932	107	Woo-fa9e_107_birds-8_381	107	0	wood stork	Birds	100.0
+taxongroup	Woo-fa9e_2_stork-3	Woo-fa9e_2_Ciconiidae-17	Woo-fa9e_2_stork-3_3932	2	Woo-fa9e_2_Ciconiidae-17_807	2	0	wood stork	Ciconiidae	100.0
+taxongroup	Woo-fa9e_2_storks-19	Woo-fa9e_2_Ciconiidae-17	Woo-fa9e_2_storks-19_3932	2	Woo-fa9e_2_Ciconiidae-17_807	2	0	wood stork	Ciconiidae	100.0
+taxongroup	Woo-fa9e_2_stork-3	Woo-fa9e_2_Mycteria-5	Woo-fa9e_2_stork-3_3932	2	Woo-fa9e_2_Mycteria-5_1159	2	0	wood stork	Mycteria	100.0
+taxongroup	Woo-fa9e_2_storks-19	Woo-fa9e_2_Mycteria-5	Woo-fa9e_2_storks-19_3932	2	Woo-fa9e_2_Mycteria-5_1159	2	0	wood stork	Mycteria	100.0
+taxongroup	Woo-fa9e_31_stork-3	Woo-fa9e_31_Mycteria-11	Woo-fa9e_31_stork-3_3932	31	Woo-fa9e_31_Mycteria-11_1159	31	0	wood stork	Mycteria	100.0
+taxongroup	Lon-b0af_492_birds-15	Lon-b0af_492_birds-15	Lon-b0af_492_birds-15_4968	492	Lon-b0af_492_birds-15_3995	492	0	birds of prey	birds	100.0
+taxongroup	Lon-b0af_223_birds-15	Lon-b0af_223_birds-15	Lon-b0af_223_birds-15_4968	223	Lon-b0af_223_birds-15_3995	223	0	birds of prey	birds	100.0
+taxongroup	Lon-b0af_480_birds-21	Lon-b0af_480_birds-21	Lon-b0af_480_birds-21_4968	480	Lon-b0af_480_birds-21_3995	480	0	birds of prey	birds	100.0
+taxongroup	New-ec36_55_birds-17	New-ec36_55_birds-17	New-ec36_55_birds-17_4968	55	New-ec36_55_birds-17_3995	55	0	birds of prey	birds	100.0
+taxongroup	Mil-4f3d_2_birds-8	Mil-4f3d_2_birds-8	Mil-4f3d_2_birds-8_4968	2	Mil-4f3d_2_birds-8_3995	2	0	birds of prey	birds	100.0
+taxongroup	New-d8c1_62_birds-15	New-d8c1_62_birds-15	New-d8c1_62_birds-15_4968	62	New-d8c1_62_birds-15_3995	62	0	birds of prey	birds	100.0
+taxongroup	New-d8c1_22_birds-22	New-d8c1_22_bird-10	New-d8c1_22_birds-22_4968	22	New-d8c1_22_bird-10_3995	22	0	birds of prey	birds	100.0
+taxongroup	New-d8c1_21_birds-28	New-d8c1_21_birds-28	New-d8c1_21_birds-28_4968	21	New-d8c1_21_birds-28_3995	21	0	birds of prey	birds	100.0
+taxongroup	New-d8c1_127_Birds-1	New-d8c1_127_Birds-1	New-d8c1_127_Birds-1_4968	127	New-d8c1_127_Birds-1_3995	127	0	birds of prey	birds	100.0
+taxongroup	Mer-5a4a_168_birds-16	Mer-5a4a_168_birds-16	Mer-5a4a_168_birds-16_4968	168	Mer-5a4a_168_birds-16_3995	168	0	birds of prey	birds	100.0
+taxongroup	Mar-80c6_2_birds-5	Mar-80c6_2_birds-5	Mar-80c6_2_birds-5_4968	2	Mar-80c6_2_birds-5_3995	2	0	birds of prey	birds	100.0
+taxongroup	Mal-71cc_147_birds-14	Mal-71cc_147_birds-14	Mal-71cc_147_birds-14_4968	147	Mal-71cc_147_birds-14_3995	147	0	birds of prey	birds	100.0
+taxongroup	Cap-6f9e_26_nightjar-31	Cap-6f9e_26_Caprimulgus-28	Cap-6f9e_26_nightjar-31_4949	26	Cap-6f9e_26_Caprimulgus-28_959	26	0	nightjar	Caprimulgus	100.0
+taxongroup	Afr-2fe6_62_pelicans-23	Afr-2fe6_62_birds-7	Afr-2fe6_62_pelicans-23_5323	62	Afr-2fe6_62_birds-7_3995	62	0	pelicans	birds	100.0
+taxongroup	Eur-b4b7_21_petrels-48	Eur-b4b7_21_tubenoses-19	Eur-b4b7_21_petrels-48_4176	21	Eur-b4b7_21_tubenoses-19_5369	21	0	petrels and shearwaters	tubenoses	100.0
+taxongroup	Eur-b4b7_21_petrels-4	Eur-b4b7_21_tubenoses-19	Eur-b4b7_21_petrels-4_4176	21	Eur-b4b7_21_tubenoses-19_5369	21	0	petrels and shearwaters	tubenoses	100.0
+taxongroup	Eur-b4b7_21_petrels-37	Eur-b4b7_21_tubenoses-19	Eur-b4b7_21_petrels-37_4176	21	Eur-b4b7_21_tubenoses-19_5369	21	0	petrels and shearwaters	tubenoses	100.0
+taxongroup	Lon-b0af_527_birds-16	Lon-b0af_527_birds-16	Lon-b0af_527_birds-16_4968	527	Lon-b0af_527_birds-16_381	527	0	birds of prey	Birds	100.0
+taxongroup	Sea-a827_2_birds-28	Sea-a827_2_bird-37	Sea-a827_2_birds-28_4968	2	Sea-a827_2_bird-37_381	2	0	birds of prey	Birds	100.0
+taxongroup	Sea-a827_2_bird-37	Sea-a827_2_birds-28	Sea-a827_2_bird-37_4968	2	Sea-a827_2_birds-28_381	2	0	birds of prey	Birds	100.0
+taxongroup	Lon-b0af_91_birds-36	Lon-b0af_91_birds-6	Lon-b0af_91_birds-36_4968	91	Lon-b0af_91_birds-6_3995	91	0	birds of prey	birds	100.0
+taxongroup	Arc-4c1c_230_Archaeopteryx-13	Arc-4c1c_230_birds-7	Arc-4c1c_230_Archaeopteryx-13_1543	230	Arc-4c1c_230_birds-7_381	230	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_293_Archaeopteryx-7	Arc-4c1c_293_birds-10	Arc-4c1c_293_Archaeopteryx-7_1543	293	Arc-4c1c_293_birds-10_381	293	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_207_Archaeopteryx-18	Arc-4c1c_207_bird-33	Arc-4c1c_207_Archaeopteryx-18_1543	207	Arc-4c1c_207_bird-33_381	207	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_199_Archaeopteryx-6	Arc-4c1c_199_bird-11	Arc-4c1c_199_Archaeopteryx-6_1543	199	Arc-4c1c_199_bird-11_381	199	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_270_Archaeopteryx-26	Arc-4c1c_270_birds-11	Arc-4c1c_270_Archaeopteryx-26_1543	270	Arc-4c1c_270_birds-11_381	270	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_290_Archaeopteryx-21	Arc-4c1c_290_birds-6	Arc-4c1c_290_Archaeopteryx-21_1543	290	Arc-4c1c_290_birds-6_381	290	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_9_Archaeopteryx-17	Arc-4c1c_9_birds-30	Arc-4c1c_9_Archaeopteryx-17_1543	9	Arc-4c1c_9_birds-30_381	9	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_211_Archaeopteryx-16	Arc-4c1c_211_birds-24	Arc-4c1c_211_Archaeopteryx-16_1543	211	Arc-4c1c_211_birds-24_381	211	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_201_Archaeopteryx-3	Arc-4c1c_201_bird-14	Arc-4c1c_201_Archaeopteryx-3_1543	201	Arc-4c1c_201_bird-14_381	201	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_277_Archaeopteryx-8	Arc-4c1c_277_birds-31	Arc-4c1c_277_Archaeopteryx-8_1543	277	Arc-4c1c_277_birds-31_381	277	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_204_Archaeopteryx-4	Arc-4c1c_204_birds-15	Arc-4c1c_204_Archaeopteryx-4_1543	204	Arc-4c1c_204_birds-15_381	204	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_234_Archaeopteryx-11	Arc-4c1c_234_birds-21	Arc-4c1c_234_Archaeopteryx-11_1543	234	Arc-4c1c_234_birds-21_381	234	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_128_Archaeopteryx-13	Arc-4c1c_128_birds-8	Arc-4c1c_128_Archaeopteryx-13_1543	128	Arc-4c1c_128_birds-8_381	128	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_17_Archaeopteryx-1	Arc-4c1c_17_birds-14	Arc-4c1c_17_Archaeopteryx-1_1543	17	Arc-4c1c_17_birds-14_381	17	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_245_Archaeopteryx-7	Arc-4c1c_245_birds-17	Arc-4c1c_245_Archaeopteryx-7_1543	245	Arc-4c1c_245_birds-17_381	245	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_86_Archaeopteryx-21	Arc-4c1c_86_birds-40	Arc-4c1c_86_Archaeopteryx-21_1543	86	Arc-4c1c_86_birds-40_381	86	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_205_Archaeopteryx-19	Arc-4c1c_205_birds-17	Arc-4c1c_205_Archaeopteryx-19_1543	205	Arc-4c1c_205_birds-17_381	205	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_309_Archaeopteryx-8	Arc-4c1c_309_bird-18	Arc-4c1c_309_Archaeopteryx-8_1543	309	Arc-4c1c_309_bird-18_381	309	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_127_Archaeopteryx-5	Arc-4c1c_127_birds-3	Arc-4c1c_127_Archaeopteryx-5_1543	127	Arc-4c1c_127_birds-3_381	127	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_282_Archaeopteryx-32	Arc-4c1c_282_birds-24	Arc-4c1c_282_Archaeopteryx-32_1543	282	Arc-4c1c_282_birds-24_381	282	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_5_Archaeopteryx-12	Arc-4c1c_5_bird-27	Arc-4c1c_5_Archaeopteryx-12_1543	5	Arc-4c1c_5_bird-27_381	5	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_278_Archaeopteryx-4	Arc-4c1c_278_birds-17	Arc-4c1c_278_Archaeopteryx-4_1543	278	Arc-4c1c_278_birds-17_381	278	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_233_Archaeopteryx-31	Arc-4c1c_233_birds-27	Arc-4c1c_233_Archaeopteryx-31_1543	233	Arc-4c1c_233_birds-27_381	233	0	Archaeopteryx	Birds	100.0
+taxongroup	Bir-ebe4_12_Archaeopteryx-12	Bir-ebe4_12_Birds-1	Bir-ebe4_12_Archaeopteryx-12_1543	12	Bir-ebe4_12_Birds-1_3995	12	0	Archaeopteryx	birds	100.0
+taxongroup	Bir-ebe4_37_Archaeopteryx-25	Bir-ebe4_37_birds-23	Bir-ebe4_37_Archaeopteryx-25_1543	37	Bir-ebe4_37_birds-23_3995	37	0	Archaeopteryx	birds	100.0
+taxongroup	Arc-4c1c_35_Archaeopteryx-73	Arc-4c1c_35_birds-28	Arc-4c1c_35_Archaeopteryx-73_1543	35	Arc-4c1c_35_birds-28_3995	35	0	Archaeopteryx	birds	100.0
+taxongroup	Arc-4c1c_225_Archaeopteryx-2	Arc-4c1c_225_bird-30	Arc-4c1c_225_Archaeopteryx-2_1543	225	Arc-4c1c_225_bird-30_381	225	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_129_Archaeopteryx-25	Arc-4c1c_129_birds-19	Arc-4c1c_129_Archaeopteryx-25_1543	129	Arc-4c1c_129_birds-19_381	129	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_35_Archaeopteryx-73	Arc-4c1c_35_bird-52	Arc-4c1c_35_Archaeopteryx-73_1543	35	Arc-4c1c_35_bird-52_381	35	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_285_Archaeopteryx-16	Arc-4c1c_285_birds-13	Arc-4c1c_285_Archaeopteryx-16_1543	285	Arc-4c1c_285_birds-13_381	285	0	Archaeopteryx	Birds	100.0
+taxongroup	Bla-e03a_2_vulture-18	Bla-e03a_2_bird-29	Bla-e03a_2_vulture-18_1490	2	Bla-e03a_2_bird-29_381	2	0	American black vulture	Birds	100.0
+taxongroup	Bla-e03a_2_vulture-3	Bla-e03a_2_bird-29	Bla-e03a_2_vulture-3_1490	2	Bla-e03a_2_bird-29_381	2	0	American black vulture	Birds	100.0
+taxongroup	Bir-ebe4_37_Archaeopteryx-25	Bir-ebe4_37_Aves-6	Bir-ebe4_37_Archaeopteryx-25_1543	37	Bir-ebe4_37_Aves-6_380	37	0	Archaeopteryx	Aves	100.0
+taxongroup	Bir-ebe4_50_Archaeopteryx-5	Bir-ebe4_50_Aves-15	Bir-ebe4_50_Archaeopteryx-5_1543	50	Bir-ebe4_50_Aves-15_380	50	0	Archaeopteryx	Aves	100.0
+taxongroup	Arc-4c1c_217_Archaeopteryx-63	Arc-4c1c_217_Aves-65	Arc-4c1c_217_Archaeopteryx-63_1543	217	Arc-4c1c_217_Aves-65_380	217	0	Archaeopteryx	Aves	100.0
+taxongroup	Arc-4c1c_217_Archaeopteryx-8	Arc-4c1c_217_Aves-65	Arc-4c1c_217_Archaeopteryx-8_1543	217	Arc-4c1c_217_Aves-65_380	217	0	Archaeopteryx	Aves	100.0
+taxongroup	Arc-4c1c_12_Archaeopteryx-3	Arc-4c1c_12_birds-18	Arc-4c1c_12_Archaeopteryx-3_1543	12	Arc-4c1c_12_birds-18_381	12	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_350_Archaeopteryx-9	Arc-4c1c_350_birds-6	Arc-4c1c_350_Archaeopteryx-9_1543	350	Arc-4c1c_350_birds-6_381	350	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_282_Archaeopteryx-17	Arc-4c1c_282_birds-24	Arc-4c1c_282_Archaeopteryx-17_1543	282	Arc-4c1c_282_birds-24_381	282	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_127_Archaeopteryx-20	Arc-4c1c_127_birds-3	Arc-4c1c_127_Archaeopteryx-20_1543	127	Arc-4c1c_127_birds-3_381	127	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_86_Archaeopteryx-31	Arc-4c1c_86_birds-40	Arc-4c1c_86_Archaeopteryx-31_1543	86	Arc-4c1c_86_birds-40_381	86	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_35_Archaeopteryx-73	Arc-4c1c_35_bird-70	Arc-4c1c_35_Archaeopteryx-73_1543	35	Arc-4c1c_35_bird-70_381	35	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_279_Archaeopteryx-3	Arc-4c1c_279_birds-11	Arc-4c1c_279_Archaeopteryx-3_1543	279	Arc-4c1c_279_birds-11_381	279	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_203_Archaeopteryx-12	Arc-4c1c_203_bird-17	Arc-4c1c_203_Archaeopteryx-12_1543	203	Arc-4c1c_203_bird-17_381	203	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_244_Archaeopteryx-32	Arc-4c1c_244_birds-9	Arc-4c1c_244_Archaeopteryx-32_1543	244	Arc-4c1c_244_birds-9_381	244	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_11_Archaeopteryx-4	Arc-4c1c_11_birds-16	Arc-4c1c_11_Archaeopteryx-4_1543	11	Arc-4c1c_11_birds-16_381	11	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_293_Archaeopteryx-7	Arc-4c1c_293_birds-25	Arc-4c1c_293_Archaeopteryx-7_1543	293	Arc-4c1c_293_birds-25_381	293	0	Archaeopteryx	Birds	100.0
+taxongroup	Arc-4c1c_220_Archaeopteryx-3	Arc-4c1c_220_birds-15	Arc-4c1c_220_Archaeopteryx-3_1543	220	Arc-4c1c_220_birds-15_381	220	0	Archaeopteryx	Birds	100.0
+taxongroup	Whi-b4c3_133_bird-10	Whi-b4c3_133_bird-34	Whi-b4c3_133_bird-10_2269	133	Whi-b4c3_133_bird-34_3995	133	0	Birds of prey	birds	100.0
+taxongroup	Whi-b4c3_133_bird-10	Whi-b4c3_133_bird-10	Whi-b4c3_133_bird-10_2269	133	Whi-b4c3_133_bird-10_3995	133	0	Birds of prey	birds	100.0
+taxongroup	Eur-bc75_653_birds-33	Eur-bc75_653_birds-33	Eur-bc75_653_birds-33_2269	653	Eur-bc75_653_birds-33_3995	653	0	Birds of prey	birds	100.0
+taxongroup	Ele-d775_8_bird-6	Ele-d775_8_bird-6	Ele-d775_8_bird-6_2269	8	Ele-d775_8_bird-6_3995	8	0	Birds of prey	birds	100.0
+taxongroup	Eur-bc75_653_birds-33	Eur-bc75_653_birds-48	Eur-bc75_653_birds-33_2269	653	Eur-bc75_653_birds-48_3995	653	0	Birds of prey	birds	100.0
+taxongroup	Lon-b0af_304_bird-40	Lon-b0af_304_bird-40	Lon-b0af_304_bird-40_2269	304	Lon-b0af_304_bird-40_3995	304	0	Birds of prey	birds	100.0
+taxongroup	Lon-b0af_91_birds-36	Lon-b0af_91_birds-36	Lon-b0af_91_birds-36_2269	91	Lon-b0af_91_birds-36_381	91	0	Birds of prey	Birds	100.0

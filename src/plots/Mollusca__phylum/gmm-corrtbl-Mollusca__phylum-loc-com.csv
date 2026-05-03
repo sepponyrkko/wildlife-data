@@ -1,0 +1,5 @@
+feat,pearson,p_pvalue,spearman,s_pvalue,N,group,relrole
+case> ...,0.885,0.115,0.949,0.051,4,Mollusca__phylum,location_comment
+nmod>case> ...,0.878,0.122,0.949,0.051,3,Mollusca__phylum,location_comment
+nmod> ...,0.873,0.127,0.949,0.051,3,Mollusca__phylum,location_comment
+compound< ...,0.394,0.606,0.775,0.225,3,Mollusca__phylum,location_comment

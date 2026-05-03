@@ -1,0 +1,797 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Tho-9ab9_37_devil-3	Tho-9ab9_37_desert-11	Tho-9ab9_37_devil-3_5554	37	Tho-9ab9_37_desert-11_34	37	0	thorny devil	Desert	100.0
+location	Asi-7d4f_3_lizards-9	Asi-7d4f_3_coastal-15	Asi-7d4f_3_lizards-9_5599	3	Asi-7d4f_3_coastal-15_1353	3	0	common lizard	Coastal	100.0
+location	San-a712_5_lizard-52	San-a712_5_heathlands-30	San-a712_5_lizard-52_5445	5	San-a712_5_heathlands-30_4518	5	0	sand lizard	heathland	100.0
+location	San-a712_5_lizard-8	San-a712_5_heathlands-30	San-a712_5_lizard-8_5445	5	San-a712_5_heathlands-30_4518	5	0	sand lizard	heathland	100.0
+location	Tho-9ab9_27_devil-3	Tho-9ab9_27_desert-13	Tho-9ab9_27_devil-3_5554	27	Tho-9ab9_27_desert-13_34	27	0	thorny devil	Desert	100.0
+location	Tho-9ab9_37_devil-3	Tho-9ab9_37_desert-22	Tho-9ab9_37_devil-3_5554	37	Tho-9ab9_37_desert-22_34	37	0	thorny devil	Desert	100.0
+location	Asi-7d4f_57_monitor-4	Asi-7d4f_57_swamps-25	Asi-7d4f_57_monitor-4_5605	57	Asi-7d4f_57_swamps-25_3808	57	0	water monitor	swamp	100.0
+location	Com-b39d_27_basilisk-3	Com-b39d_27_rainforests-8	Com-b39d_27_basilisk-3_1785	27	Com-b39d_27_rainforests-8_3811	27	0	 Common basilisk	rainforest	83.0
+location	San-a712_35_lizard-7	San-a712_34_heathland-15	San-a712_35_lizard-7_5445	35	San-a712_34_heathland-15_4518	34	1	sand lizard	heathland	50.0
+location	Tho-9ab9_26_devil-3	Tho-9ab9_27_desert-13	Tho-9ab9_26_devil-3_5554	26	Tho-9ab9_27_desert-13_3805	27	1	thorny devil	desert	50.0
+location	San-a712_33_lizard-3	San-a712_34_heathland-15	San-a712_33_lizard-3_5445	33	San-a712_34_heathland-15_4518	34	1	sand lizard	heathland	50.0
+location	Viv-ac84_40_lizard-3	Viv-ac84_39_heathland-5	Viv-ac84_40_lizard-3_5600	40	Viv-ac84_39_heathland-5_4518	39	1	viviparous lizard	heathland	41.5
+location	Viv-ac84_40_lizard-3	Viv-ac84_39_moorland-7	Viv-ac84_40_lizard-3_5600	40	Viv-ac84_39_moorland-7_4526	39	1	viviparous lizard	moorland	41.5
+location	Com-b39d_2_basilisk-3	Com-b39d_3_rainforests-21	Com-b39d_2_basilisk-3_1785	2	Com-b39d_3_rainforests-21_3811	3	1	 Common basilisk	rainforest	41.5
+location	Com-b39d_26_basilisk-2	Com-b39d_27_rainforests-8	Com-b39d_26_basilisk-2_1785	26	Com-b39d_27_rainforests-8_3811	27	1	 Common basilisk	rainforest	41.5
+location	San-6e1f_40_monitor-8	San-6e1f_39_desert-14	San-6e1f_40_monitor-8_5444	40	San-6e1f_39_desert-14_3805	39	1	sand monitor	desert	41.5
+location	San-a712_36_lizards-19	San-a712_34_heathland-15	San-a712_36_lizards-19_5445	36	San-a712_34_heathland-15_4518	34	2	sand lizard	heathland	33.333
+location	San-a712_32_lizard-2	San-a712_34_heathland-15	San-a712_32_lizard-2_3269	32	San-a712_34_heathland-15_4518	34	2	Sand lizard	heathland	33.333
+location	Asi-7d4f_62_monitor-3	Asi-7d4f_60_swamps-13	Asi-7d4f_62_monitor-3_5605	62	Asi-7d4f_60_swamps-13_3808	60	2	water monitor	swamp	33.333
+location	San-a712_36_lizards-3	San-a712_34_heathland-15	San-a712_36_lizards-3_5445	36	San-a712_34_heathland-15_4518	34	2	sand lizard	heathland	33.333
+location	Liz-2f75_178_chameleons-2	Liz-2f75_179_desert-13	Liz-2f75_178_chameleons-2_1835	178	Liz-2f75_179_desert-13_34	179	1	Cape dwarf chameleon	Desert	33.0
+location	Liz-2f75_178_chameleon-26	Liz-2f75_179_desert-13	Liz-2f75_178_chameleon-26_1835	178	Liz-2f75_179_desert-13_34	179	1	Cape dwarf chameleon	Desert	33.0
+location	Com-b39d_4_lizard-17	Com-b39d_3_rainforests-21	Com-b39d_4_lizard-17_1786	4	Com-b39d_3_rainforests-21_3811	3	1	Jesus Christ lizard	rainforest	27.0
+location	San-a712_2_lizard-11	San-a712_5_heathlands-30	San-a712_2_lizard-11_5445	2	San-a712_5_heathlands-30_4518	5	3	sand lizard	heathland	25.0
+location	Asi-7d4f_57_monitor-4	Asi-7d4f_60_swamps-13	Asi-7d4f_57_monitor-4_5605	57	Asi-7d4f_60_swamps-13_3808	60	3	water monitor	swamp	25.0
+location	Tho-9ab9_44_devil-2	Tho-9ab9_47_desert-9	Tho-9ab9_44_devil-2_3518	44	Tho-9ab9_47_desert-9_3805	47	3	Thorny devil	desert	25.0
+location	San-a712_2_lizard-3	San-a712_5_heathlands-30	San-a712_2_lizard-3_5445	2	San-a712_5_heathlands-30_4518	5	3	sand lizard	heathland	25.0
+location	Asi-7d4f_54_monitor-4	Asi-7d4f_57_swamps-25	Asi-7d4f_54_monitor-4_5605	54	Asi-7d4f_57_swamps-25_3808	57	3	water monitor	swamp	25.0
+location	San-6e1f_42_monitor-10	San-6e1f_39_desert-14	San-6e1f_42_monitor-10_5444	42	San-6e1f_39_desert-14_3805	39	3	sand monitor	desert	20.75
+location	San-6e1f_43_goanna-21	San-6e1f_39_desert-14	San-6e1f_43_goanna-21_5442	43	San-6e1f_39_desert-14_3805	39	4	sand goanna	desert	20.0
+location	San-6e1f_10_goanna-8	San-6e1f_14_desert-11	San-6e1f_10_goanna-8_5442	10	San-6e1f_14_desert-11_34	14	4	sand goanna	Desert	20.0
+location	Asi-7d4f_64_monitors-2	Asi-7d4f_60_swamps-13	Asi-7d4f_64_monitors-2_3629	64	Asi-7d4f_60_swamps-13_3808	60	4	Water monitor	swamp	20.0
+location	San-a712_1_lizard-2	San-a712_5_heathlands-30	San-a712_1_lizard-2_3269	1	San-a712_5_heathlands-30_4518	5	4	Sand lizard	heathland	20.0
+location	San-a712_10_lizards-2	San-a712_5_heathlands-30	San-a712_10_lizards-2_3269	10	San-a712_5_heathlands-30_4518	5	5	Sand lizard	heathland	16.667
+location	San-a712_39_lizard-2	San-a712_34_heathland-15	San-a712_39_lizard-2_3269	39	San-a712_34_heathland-15_4518	34	5	Sand lizard	heathland	16.667
+location	San-a712_29_lizards-3	San-a712_34_heathland-15	San-a712_29_lizards-3_5445	29	San-a712_34_heathland-15_4518	34	5	sand lizard	heathland	16.667
+location	Viv-ac84_43_lizard-2	Viv-ac84_39_moorland-7	Viv-ac84_43_lizard-2_3618	43	Viv-ac84_39_moorland-7_4526	39	4	Viviparous lizard	moorland	16.6
+location	Viv-ac84_43_lizard-2	Viv-ac84_39_heathland-5	Viv-ac84_43_lizard-2_3618	43	Viv-ac84_39_heathland-5_4518	39	4	Viviparous lizard	heathland	16.6
+location	Cap-f892_203_pumilum-13	Cap-f892_198_Urban-22	Cap-f892_203_pumilum-13_1836	203	Cap-f892_198_Urban-22_1380	198	5	Bradypodion pumilum	Urban	14.5
+location	Cap-f892_203_pumilum-2	Cap-f892_198_Urban-22	Cap-f892_203_pumilum-2_1836	203	Cap-f892_198_Urban-22_1380	198	5	Bradypodion pumilum	Urban	14.5
+location	San-a712_40_lizard-2	San-a712_34_heathland-15	San-a712_40_lizard-2_3269	40	San-a712_34_heathland-15_4518	34	6	Sand lizard	heathland	14.286
+location	Tho-9ab9_53_devil-2	Tho-9ab9_47_desert-9	Tho-9ab9_53_devil-2_3518	53	Tho-9ab9_47_desert-9_34	47	6	Thorny devil	Desert	14.286
+location	Tho-9ab9_44_devil-2	Tho-9ab9_37_desert-11	Tho-9ab9_44_devil-2_3518	44	Tho-9ab9_37_desert-11_34	37	7	Thorny devil	Desert	12.5
+location	Tho-9ab9_44_devil-2	Tho-9ab9_37_desert-22	Tho-9ab9_44_devil-2_3518	44	Tho-9ab9_37_desert-22_34	37	7	Thorny devil	Desert	12.5
+location	San-a712_41_lizards-2	San-a712_34_heathland-15	San-a712_41_lizards-2_3269	41	San-a712_34_heathland-15_4518	34	7	Sand lizard	heathland	12.5
+location	Asi-7d4f_64_monitors-2	Asi-7d4f_57_swamps-25	Asi-7d4f_64_monitors-2_3629	64	Asi-7d4f_57_swamps-25_3808	57	7	Water monitor	swamp	12.5
+location	Til-b8a5_23_rugosa-2	Til-b8a5_29_desert-13	Til-b8a5_23_rugosa-2_3543	23	Til-b8a5_29_desert-13_3805	29	6	Tiliqua rugosa	desert	12.429
+location	Viv-ac84_33_lizard-2	Viv-ac84_39_heathland-5	Viv-ac84_33_lizard-2_3618	33	Viv-ac84_39_heathland-5_4518	39	6	Viviparous lizard	heathland	11.857
+location	Viv-ac84_33_lizard-2	Viv-ac84_39_moorland-7	Viv-ac84_33_lizard-2_3618	33	Viv-ac84_39_moorland-7_4526	39	6	Viviparous lizard	moorland	11.857
+location	Til-b8a5_22_bobtail-11	Til-b8a5_29_desert-13	Til-b8a5_22_bobtail-11_5567	22	Til-b8a5_29_desert-13_3805	29	7	bobtail	desert	10.375
+location	Tho-9ab9_44_devil-2	Tho-9ab9_35_desert-27	Tho-9ab9_44_devil-2_3518	44	Tho-9ab9_35_desert-27_3805	35	9	Thorny devil	desert	10.0
+location	San-a712_14_lizard-2	San-a712_5_heathlands-30	San-a712_14_lizard-2_3269	14	San-a712_5_heathlands-30_4518	5	9	Sand lizard	heathland	10.0
+location	Tho-9ab9_44_devil-2	Tho-9ab9_35_desert-68	Tho-9ab9_44_devil-2_3518	44	Tho-9ab9_35_desert-68_3805	35	9	Thorny devil	desert	10.0
+location	Per-a3bf_36_perentie-7	Per-a3bf_27_desert-7	Per-a3bf_36_perentie-7_5328	36	Per-a3bf_27_desert-7_34	27	9	perentie	Desert	10.0
+location	Til-b8a5_37_rugosa-2	Til-b8a5_29_desert-13	Til-b8a5_37_rugosa-2_3543	37	Til-b8a5_29_desert-13_34	29	8	Tiliqua rugosa	Desert	9.667
+location	Viv-ac84_47_lizard-2	Viv-ac84_39_heathland-5	Viv-ac84_47_lizard-2_3618	47	Viv-ac84_39_heathland-5_4518	39	8	Viviparous lizard	heathland	9.222
+location	Viv-ac84_31_lizard-2	Viv-ac84_39_heathland-5	Viv-ac84_31_lizard-2_3618	31	Viv-ac84_39_heathland-5_4518	39	8	Viviparous lizard	heathland	9.222
+location	Viv-ac84_47_lizard-2	Viv-ac84_39_moorland-7	Viv-ac84_47_lizard-2_3618	47	Viv-ac84_39_moorland-7_4526	39	8	Viviparous lizard	moorland	9.222
+location	Viv-ac84_31_lizard-2	Viv-ac84_39_moorland-7	Viv-ac84_31_lizard-2_3618	31	Viv-ac84_39_moorland-7_4526	39	8	Viviparous lizard	moorland	9.222
+location	San-a712_45_lizards-2	San-a712_34_heathland-15	San-a712_45_lizards-2_3269	45	San-a712_34_heathland-15_4518	34	11	Sand lizard	heathland	8.333
+location	Liz-2f75_168_iguana-9	Liz-2f75_179_desert-13	Liz-2f75_168_iguana-9_5221	168	Liz-2f75_179_desert-13_3805	179	11	marine iguana	desert	8.333
+location	San-6e1f_2_goanna-19	San-6e1f_14_desert-11	San-6e1f_2_goanna-19_5442	2	San-6e1f_14_desert-11_3805	14	12	sand goanna	desert	7.692
+location	San-6e1f_2_goanna-3	San-6e1f_14_desert-11	San-6e1f_2_goanna-3_5442	2	San-6e1f_14_desert-11_3805	14	12	sand goanna	desert	7.692
+location	Til-b8a5_19_bobtail-4	Til-b8a5_29_desert-13	Til-b8a5_19_bobtail-4_5567	19	Til-b8a5_29_desert-13_34	29	10	bobtail	Desert	7.545
+location	Viv-ac84_49_lizard-2	Viv-ac84_39_moorland-7	Viv-ac84_49_lizard-2_3618	49	Viv-ac84_39_moorland-7_4526	39	10	Viviparous lizard	moorland	7.545
+location	Viv-ac84_49_lizard-2	Viv-ac84_39_heathland-5	Viv-ac84_49_lizard-2_3618	49	Viv-ac84_39_heathland-5_4518	39	10	Viviparous lizard	heathland	7.545
+location	Cha-1a30_39_chameleon-9	Cha-1a30_47_desert-19	Cha-1a30_39_chameleon-9_1835	39	Cha-1a30_47_desert-19_3805	47	8	Cape dwarf chameleon	desert	7.333
+location	Til-b8a5_18_rugosa-2	Til-b8a5_29_desert-13	Til-b8a5_18_rugosa-2_3543	18	Til-b8a5_29_desert-13_3805	29	11	Tiliqua rugosa	desert	7.25
+location	Per-a3bf_40_perentie-5	Per-a3bf_27_desert-7	Per-a3bf_40_perentie-5_5328	40	Per-a3bf_27_desert-7_3805	27	13	perentie	desert	7.143
+location	Per-a3bf_41_Perentie-1	Per-a3bf_27_desert-7	Per-a3bf_41_Perentie-1_3042	41	Per-a3bf_27_desert-7_34	27	14	Perentie	Desert	6.667
+location	Per-a3bf_12_goanna-15	Per-a3bf_27_desert-7	Per-a3bf_12_goanna-15_5442	12	Per-a3bf_27_desert-7_34	27	15	sand goanna	Desert	6.25
+location	Til-b8a5_16_rugosa-2	Til-b8a5_29_desert-13	Til-b8a5_16_rugosa-2_3543	16	Til-b8a5_29_desert-13_3805	29	13	Tiliqua rugosa	desert	6.214
+location	Per-a3bf_9_perentie-8	Per-a3bf_27_desert-7	Per-a3bf_9_perentie-8_5328	9	Per-a3bf_27_desert-7_34	27	18	perentie	Desert	5.263
+location	Tho-9ab9_2_dragon-21	Tho-9ab9_17_desert-9	Tho-9ab9_2_dragon-21_5556	2	Tho-9ab9_17_desert-9_3805	17	15	thorny dragon	desert	5.188
+location	Tho-9ab9_2_lizard-30	Tho-9ab9_17_desert-9	Tho-9ab9_2_lizard-30_5557	2	Tho-9ab9_17_desert-9_34	17	15	thorny lizard	Desert	5.188
+location	Tho-9ab9_2_lizard-18	Tho-9ab9_17_desert-9	Tho-9ab9_2_lizard-18_5557	2	Tho-9ab9_17_desert-9_34	17	15	thorny lizard	Desert	5.188
+location	Tho-9ab9_2_Moloch-5	Tho-9ab9_17_desert-9	Tho-9ab9_2_Moloch-5_3520	2	Tho-9ab9_17_desert-9_3805	17	15	Moloch	desert	5.188
+location	Tho-9ab9_2_moloch-24	Tho-9ab9_17_desert-9	Tho-9ab9_2_moloch-24_5555	2	Tho-9ab9_17_desert-9_34	17	15	moloch	Desert	5.188
+location	Viv-ac84_23_lizard-14	Viv-ac84_39_heathland-5	Viv-ac84_23_lizard-14_5600	23	Viv-ac84_39_heathland-5_4518	39	16	viviparous lizard	heathland	4.882
+location	Viv-ac84_23_lizard-14	Viv-ac84_39_moorland-7	Viv-ac84_23_lizard-14_5600	23	Viv-ac84_39_moorland-7_4526	39	16	viviparous lizard	moorland	4.882
+location	Tho-9ab9_64_horridus-23	Tho-9ab9_47_desert-9	Tho-9ab9_64_horridus-23_3519	64	Tho-9ab9_47_desert-9_34	47	17	Moloch horridus	Desert	4.833
+location	Cam-4bd8_164_chameleon-6	Cam-4bd8_151_desert-24	Cam-4bd8_164_chameleon-6_1835	164	Cam-4bd8_151_desert-24_34	151	13	Cape dwarf chameleon	Desert	4.714
+location	Com-b39d_45_lizard-22	Com-b39d_27_rainforests-8	Com-b39d_45_lizard-22_1786	45	Com-b39d_27_rainforests-8_3811	27	18	Jesus Christ lizard	rainforest	4.368
+location	Com-b39d_45_lizard-27	Com-b39d_27_rainforests-8	Com-b39d_45_lizard-27_1787	45	Com-b39d_27_rainforests-8_3811	27	18	Jesus lizard	rainforest	4.368
+location	Per-a3bf_2_perentie-2	Per-a3bf_27_desert-7	Per-a3bf_2_perentie-2_5328	2	Per-a3bf_27_desert-7_34	27	25	perentie	Desert	3.846
+location	Per-a3bf_1_Perentie-1	Per-a3bf_27_desert-7	Per-a3bf_1_Perentie-1_3042	1	Per-a3bf_27_desert-7_3805	27	26	Perentie	desert	3.704
+location	Til-b8a5_2_skink-29	Til-b8a5_29_desert-13	Til-b8a5_2_skink-29_5566	2	Til-b8a5_29_desert-13_34	29	27	shingleback skink	Desert	3.571
+location	Til-b8a5_2_skink-10	Til-b8a5_29_desert-13	Til-b8a5_2_skink-10_5566	2	Til-b8a5_29_desert-13_34	29	27	shingleback skink	Desert	3.571
+location	Til-b8a5_6_bobtail-3	Til-b8a5_29_desert-13	Til-b8a5_6_bobtail-3_5567	6	Til-b8a5_29_desert-13_34	29	23	bobtail	Desert	3.458
+location	Per-a3bf_56_perentie-2	Per-a3bf_27_desert-7	Per-a3bf_56_perentie-2_5328	56	Per-a3bf_27_desert-7_34	27	29	perentie	Desert	3.333
+location	San-6e1f_43_goanna-21	San-6e1f_14_desert-11	San-6e1f_43_goanna-21_5442	43	San-6e1f_14_desert-11_34	14	29	sand goanna	Desert	3.333
+location	San-6e1f_10_goanna-8	San-6e1f_39_desert-14	San-6e1f_10_goanna-8_5442	10	San-6e1f_39_desert-14_3805	39	29	sand goanna	desert	3.333
+location	Cha-1a30_66_chameleons-2	Cha-1a30_47_desert-19	Cha-1a30_66_chameleons-2_1835	66	Cha-1a30_47_desert-19_3805	47	19	Cape dwarf chameleon	desert	3.3
+location	Cha-1a30_66_chameleon-5	Cha-1a30_47_desert-19	Cha-1a30_66_chameleon-5_1835	66	Cha-1a30_47_desert-19_34	47	19	Cape dwarf chameleon	Desert	3.3
+location	Per-a3bf_57_Perentie-1	Per-a3bf_27_desert-7	Per-a3bf_57_Perentie-1_3042	57	Per-a3bf_27_desert-7_34	27	30	Perentie	Desert	3.226
+location	San-6e1f_65_gouldii-10	San-6e1f_39_desert-14	San-6e1f_65_gouldii-10_3265	65	San-6e1f_39_desert-14_34	39	26	Varanus gouldii	Desert	3.222
+location	Tho-9ab9_2_Moloch-5	Tho-9ab9_27_desert-13	Tho-9ab9_2_Moloch-5_3520	2	Tho-9ab9_27_desert-13_34	27	25	Moloch	Desert	3.192
+location	Tho-9ab9_2_dragon-21	Tho-9ab9_27_desert-13	Tho-9ab9_2_dragon-21_5556	2	Tho-9ab9_27_desert-13_34	27	25	thorny dragon	Desert	3.192
+location	Tho-9ab9_2_lizard-30	Tho-9ab9_27_desert-13	Tho-9ab9_2_lizard-30_5557	2	Tho-9ab9_27_desert-13_34	27	25	thorny lizard	Desert	3.192
+location	Tho-9ab9_2_lizard-18	Tho-9ab9_27_desert-13	Tho-9ab9_2_lizard-18_5557	2	Tho-9ab9_27_desert-13_34	27	25	thorny lizard	Desert	3.192
+location	Tho-9ab9_2_moloch-24	Tho-9ab9_27_desert-13	Tho-9ab9_2_moloch-24_5555	2	Tho-9ab9_27_desert-13_3805	27	25	moloch	desert	3.192
+location	Til-b8a5_4_bobtail-15	Til-b8a5_29_desert-13	Til-b8a5_4_bobtail-15_5567	4	Til-b8a5_29_desert-13_34	29	25	bobtail	Desert	3.192
+location	Tho-9ab9_64_horridus-23	Tho-9ab9_37_desert-22	Tho-9ab9_64_horridus-23_3519	64	Tho-9ab9_37_desert-22_3805	37	27	Moloch horridus	desert	3.107
+location	Tho-9ab9_64_horridus-23	Tho-9ab9_37_desert-11	Tho-9ab9_64_horridus-23_3519	64	Tho-9ab9_37_desert-11_34	37	27	Moloch horridus	Desert	3.107
+location	Til-b8a5_2_bobtail-12	Til-b8a5_29_desert-13	Til-b8a5_2_bobtail-12_5567	2	Til-b8a5_29_desert-13_34	29	27	bobtail	Desert	2.964
+location	Tho-9ab9_64_horridus-23	Tho-9ab9_35_desert-27	Tho-9ab9_64_horridus-23_3519	64	Tho-9ab9_35_desert-27_34	35	29	Moloch horridus	Desert	2.9
+location	Tho-9ab9_64_horridus-23	Tho-9ab9_35_desert-68	Tho-9ab9_64_horridus-23_3519	64	Tho-9ab9_35_desert-68_3805	35	29	Moloch horridus	desert	2.9
+location	Per-a3bf_63_Perentie-1	Per-a3bf_27_desert-7	Per-a3bf_63_Perentie-1_3042	63	Per-a3bf_27_desert-7_3805	27	36	Perentie	desert	2.703
+location	Liz-2f75_143_iguana-3	Liz-2f75_179_desert-13	Liz-2f75_143_iguana-3_5221	143	Liz-2f75_179_desert-13_3805	179	36	marine iguana	desert	2.703
+location	Bog-cdf9_52_lizard-6	Bog-cdf9_22_moorland-16	Bog-cdf9_52_lizard-6_5600	52	Bog-cdf9_22_moorland-16_4526	22	30	viviparous lizard	moorland	2.677
+location	Viv-ac84_2_lizard-20	Viv-ac84_39_moorland-7	Viv-ac84_2_lizard-20_5599	2	Viv-ac84_39_moorland-7_4526	39	37	common lizard	moorland	2.632
+location	Viv-ac84_2_lizard-3	Viv-ac84_39_heathland-5	Viv-ac84_2_lizard-3_5599	2	Viv-ac84_39_heathland-5_4518	39	37	common lizard	heathland	2.632
+location	Viv-ac84_2_lizard-7	Viv-ac84_39_heathland-5	Viv-ac84_2_lizard-7_5599	2	Viv-ac84_39_heathland-5_4518	39	37	common lizard	heathland	2.632
+location	San-6e1f_2_goanna-19	San-6e1f_39_desert-14	San-6e1f_2_goanna-19_5442	2	San-6e1f_39_desert-14_3805	39	37	sand goanna	desert	2.632
+location	Viv-ac84_2_lizard-7	Viv-ac84_39_moorland-7	Viv-ac84_2_lizard-7_5599	2	Viv-ac84_39_moorland-7_4526	39	37	common lizard	moorland	2.632
+location	Viv-ac84_2_lizard-3	Viv-ac84_39_moorland-7	Viv-ac84_2_lizard-3_5599	2	Viv-ac84_39_moorland-7_4526	39	37	common lizard	moorland	2.632
+location	San-6e1f_2_goanna-3	San-6e1f_39_desert-14	San-6e1f_2_goanna-3_5442	2	San-6e1f_39_desert-14_3805	39	37	sand goanna	desert	2.632
+location	Viv-ac84_2_lizard-20	Viv-ac84_39_heathland-5	Viv-ac84_2_lizard-20_5599	2	Viv-ac84_39_heathland-5_4518	39	37	common lizard	heathland	2.632
+location	Til-b8a5_67_skink-3	Til-b8a5_29_desert-13	Til-b8a5_67_skink-3_5566	67	Til-b8a5_29_desert-13_3805	29	38	shingleback skink	desert	2.564
+location	Tho-9ab9_2_dragon-21	Tho-9ab9_35_desert-68	Tho-9ab9_2_dragon-21_5556	2	Tho-9ab9_35_desert-68_34	35	33	thorny dragon	Desert	2.441
+location	Tho-9ab9_2_dragon-21	Tho-9ab9_35_desert-27	Tho-9ab9_2_dragon-21_5556	2	Tho-9ab9_35_desert-27_34	35	33	thorny dragon	Desert	2.441
+location	Tho-9ab9_2_Moloch-5	Tho-9ab9_35_desert-27	Tho-9ab9_2_Moloch-5_3520	2	Tho-9ab9_35_desert-27_3805	35	33	Moloch	desert	2.441
+location	Tho-9ab9_2_moloch-24	Tho-9ab9_35_desert-27	Tho-9ab9_2_moloch-24_5555	2	Tho-9ab9_35_desert-27_3805	35	33	moloch	desert	2.441
+location	Tho-9ab9_2_moloch-24	Tho-9ab9_35_desert-68	Tho-9ab9_2_moloch-24_5555	2	Tho-9ab9_35_desert-68_3805	35	33	moloch	desert	2.441
+location	Tho-9ab9_2_Moloch-5	Tho-9ab9_35_desert-68	Tho-9ab9_2_Moloch-5_3520	2	Tho-9ab9_35_desert-68_34	35	33	Moloch	Desert	2.441
+location	Viv-ac84_73_lizard-3	Viv-ac84_39_heathland-5	Viv-ac84_73_lizard-3_5600	73	Viv-ac84_39_heathland-5_4518	39	34	viviparous lizard	heathland	2.371
+location	Viv-ac84_73_lizard-3	Viv-ac84_39_moorland-7	Viv-ac84_73_lizard-3_5600	73	Viv-ac84_39_moorland-7_4526	39	34	viviparous lizard	moorland	2.371
+location	Cha-1a30_39_chameleon-9	Cha-1a30_12_desert-10	Cha-1a30_39_chameleon-9_1835	39	Cha-1a30_12_desert-10_3805	12	27	Cape dwarf chameleon	desert	2.357
+location	Tho-9ab9_2_dragon-21	Tho-9ab9_37_desert-22	Tho-9ab9_2_dragon-21_3521	2	Tho-9ab9_37_desert-22_34	37	35	Thorny dragon	Desert	2.306
+location	Tho-9ab9_2_dragon-21	Tho-9ab9_37_desert-11	Tho-9ab9_2_dragon-21_3521	2	Tho-9ab9_37_desert-11_34	37	35	Thorny dragon	Desert	2.306
+location	Tho-9ab9_2_moloch-24	Tho-9ab9_37_desert-11	Tho-9ab9_2_moloch-24_5555	2	Tho-9ab9_37_desert-11_34	37	35	moloch	Desert	2.306
+location	Tho-9ab9_2_Moloch-5	Tho-9ab9_37_desert-11	Tho-9ab9_2_Moloch-5_3520	2	Tho-9ab9_37_desert-11_34	37	35	Moloch	Desert	2.306
+location	Tho-9ab9_2_moloch-24	Tho-9ab9_37_desert-22	Tho-9ab9_2_moloch-24_5555	2	Tho-9ab9_37_desert-22_3805	37	35	moloch	desert	2.306
+location	Tho-9ab9_2_Moloch-5	Tho-9ab9_37_desert-22	Tho-9ab9_2_Moloch-5_3520	2	Tho-9ab9_37_desert-22_3805	37	35	Moloch	desert	2.306
+location	Tho-9ab9_64_horridus-23	Tho-9ab9_27_desert-13	Tho-9ab9_64_horridus-23_3519	64	Tho-9ab9_27_desert-13_3805	27	37	Moloch horridus	desert	2.289
+location	Com-b39d_4_lizard-17	Com-b39d_27_rainforests-8	Com-b39d_4_lizard-17_1786	4	Com-b39d_27_rainforests-8_3811	27	23	Jesus Christ lizard	rainforest	2.25
+location	Viv-ac84_78_lizard-29	Viv-ac84_39_heathland-5	Viv-ac84_78_lizard-29_5600	78	Viv-ac84_39_heathland-5_4518	39	39	viviparous lizard	heathland	2.075
+location	Viv-ac84_78_lizard-29	Viv-ac84_39_moorland-7	Viv-ac84_78_lizard-29_5600	78	Viv-ac84_39_moorland-7_4526	39	39	viviparous lizard	moorland	2.075
+location	Com-b39d_45_lizard-22	Com-b39d_3_rainforests-21	Com-b39d_45_lizard-22_1786	45	Com-b39d_3_rainforests-21_3811	3	42	Jesus Christ lizard	rainforest	1.93
+location	Com-b39d_45_lizard-27	Com-b39d_3_rainforests-21	Com-b39d_45_lizard-27_1787	45	Com-b39d_3_rainforests-21_3811	3	42	Jesus lizard	rainforest	1.93
+location	Tho-9ab9_64_horridus-23	Tho-9ab9_17_desert-9	Tho-9ab9_64_horridus-23_3519	64	Tho-9ab9_17_desert-9_34	17	47	Moloch horridus	Desert	1.812
+location	Tho-9ab9_2_moloch-24	Tho-9ab9_47_desert-9	Tho-9ab9_2_moloch-24_5555	2	Tho-9ab9_47_desert-9_3805	47	45	moloch	desert	1.804
+location	Tho-9ab9_2_dragon-21	Tho-9ab9_47_desert-9	Tho-9ab9_2_dragon-21_5556	2	Tho-9ab9_47_desert-9_34	47	45	thorny dragon	Desert	1.804
+location	Tho-9ab9_2_Moloch-5	Tho-9ab9_47_desert-9	Tho-9ab9_2_Moloch-5_3520	2	Tho-9ab9_47_desert-9_34	47	45	Moloch	Desert	1.804
+location	Cam-4bd8_164_chameleon-6	Cam-4bd8_128_desert-15	Cam-4bd8_164_chameleon-6_1835	164	Cam-4bd8_128_desert-15_34	128	36	Cape dwarf chameleon	Desert	1.784
+location	Cap-f892_162_chameleons-7	Cap-f892_198_Urban-22	Cap-f892_162_chameleons-7_1835	162	Cap-f892_198_Urban-22_1380	198	36	Cape dwarf chameleon	Urban	1.784
+location	San-6e1f_65_gouldii-10	San-6e1f_14_desert-11	San-6e1f_65_gouldii-10_3265	65	San-6e1f_14_desert-11_3805	14	51	Varanus gouldii	desert	1.673
+location	Liz-2f75_168_iguana-9	Liz-2f75_238_desert-15	Liz-2f75_168_iguana-9_5221	168	Liz-2f75_238_desert-15_3805	238	70	marine iguana	desert	1.408
+location	Til-b8a5_96_bobtail-11	Til-b8a5_29_desert-13	Til-b8a5_96_bobtail-11_5567	96	Til-b8a5_29_desert-13_3805	29	67	bobtail	desert	1.221
+location	Cha-1a30_66_chameleon-5	Cha-1a30_12_desert-10	Cha-1a30_66_chameleon-5_1835	66	Cha-1a30_12_desert-10_3805	12	54	Cape dwarf chameleon	desert	1.2
+location	Cha-1a30_66_chameleons-2	Cha-1a30_12_desert-10	Cha-1a30_66_chameleons-2_1835	66	Cha-1a30_12_desert-10_3805	12	54	Cape dwarf chameleon	desert	1.2
+location	Til-b8a5_99_bobtail-7	Til-b8a5_29_desert-13	Til-b8a5_99_bobtail-7_5567	99	Til-b8a5_29_desert-13_3805	29	70	bobtail	desert	1.169
+adaptation	Asi-7d4f_109_monitors-3	Asi-7d4f_109_predators-7	Asi-7d4f_109_monitors-3_5605	109	Asi-7d4f_109_predators-7_359	109	0	water monitor	Predator	100.0
+adaptation	Kom-6ea1_169_dragons-3	Kom-6ea1_169_predators-20	Kom-6ea1_169_dragons-3_2641	169	Kom-6ea1_169_predators-20_359	169	0	Komodo dragon	Predator	100.0
+adaptation	Kom-6ea1_4_dragons-9	Kom-6ea1_4_predators-12	Kom-6ea1_4_dragons-9_2641	4	Kom-6ea1_4_predators-12_3977	4	0	Komodo dragon	predator	100.0
+adaptation	Kom-6ea1_91_dragons-2	Kom-6ea1_91_predators-5	Kom-6ea1_91_dragons-2_2641	91	Kom-6ea1_91_predators-5_3977	91	0	Komodo dragon	predator	100.0
+adaptation	Tyr-9f97_524_dragon-23	Tyr-9f97_524_predators-54	Tyr-9f97_524_dragon-23_2641	524	Tyr-9f97_524_predators-54_359	524	0	Komodo dragon	Predator	100.0
+adaptation	Liz-2f75_168_iguana-9	Liz-2f75_168_herbivorous-4	Liz-2f75_168_iguana-9_5221	168	Liz-2f75_168_herbivorous-4_3784	168	0	marine iguana	herbivorous	100.0
+adaptation	Viv-ac84_2_lizard-7	Viv-ac84_2_viviparous-2	Viv-ac84_2_lizard-7_5599	2	Viv-ac84_2_viviparous-2_3795	2	0	common lizard	viviparous	100.0
+adaptation	Asi-7d4f_95_monitor-12	Asi-7d4f_95_scavengers-4	Asi-7d4f_95_monitor-12_5605	95	Asi-7d4f_95_scavengers-4_3979	95	0	water monitor	scavenger	100.0
+adaptation	Viv-ac84_2_lizard-20	Viv-ac84_2_viviparous-2	Viv-ac84_2_lizard-20_5599	2	Viv-ac84_2_viviparous-2_3795	2	0	common lizard	viviparous	100.0
+adaptation	Slo-13c7_47_worms-2	Slo-13c7_47_ovoviviparous-4	Slo-13c7_47_worms-2_4599	47	Slo-13c7_47_ovoviviparous-4_3969	47	0	slow worm	ovoviviparous	100.0
+adaptation	Viv-ac84_2_lizard-3	Viv-ac84_2_viviparous-2	Viv-ac84_2_lizard-3_5599	2	Viv-ac84_2_viviparous-2_3795	2	0	common lizard	viviparous	100.0
+adaptation	Viv-ac84_73_lizard-3	Viv-ac84_73_viviparous-2	Viv-ac84_73_lizard-3_5600	73	Viv-ac84_73_viviparous-2_3795	73	0	viviparous lizard	viviparous	83.0
+adaptation	Viv-ac84_144_lizards-5	Viv-ac84_144_viviparous-4	Viv-ac84_144_lizards-5_5600	144	Viv-ac84_144_viviparous-4_3795	144	0	viviparous lizard	viviparous	83.0
+adaptation	Viv-ac84_73_lizard-3	Viv-ac84_73_viviparous-11	Viv-ac84_73_lizard-3_5600	73	Viv-ac84_73_viviparous-11_3795	73	0	viviparous lizard	viviparous	83.0
+adaptation	Lac-f461_18_lizard-23	Lac-f461_18_viviparous-22	Lac-f461_18_lizard-23_5600	18	Lac-f461_18_viviparous-22_3795	18	0	viviparous lizard	viviparous	83.0
+adaptation	Viv-ac84_23_lizard-14	Viv-ac84_23_polymorphism-11	Viv-ac84_23_lizard-14_5600	23	Viv-ac84_23_polymorphism-11_3976	23	0	viviparous lizard	polymorphism	83.0
+adaptation	Zoo-edfc_4_lizard-10	Zoo-edfc_4_viviparous-9	Zoo-edfc_4_lizard-10_5600	4	Zoo-edfc_4_viviparous-9_3795	4	0	viviparous lizard	viviparous	83.0
+adaptation	Viv-ac84_179_lizard-4	Viv-ac84_179_viviparous-3	Viv-ac84_179_lizard-4_5600	179	Viv-ac84_179_viviparous-3_3795	179	0	viviparous lizard	viviparous	83.0
+adaptation	Viv-ac84_78_lizard-29	Viv-ac84_78_viviparous-28	Viv-ac84_78_lizard-29_5600	78	Viv-ac84_78_viviparous-28_3795	78	0	viviparous lizard	viviparous	83.0
+adaptation	Viv-ac84_40_lizard-3	Viv-ac84_40_viviparous-2	Viv-ac84_40_lizard-3_5600	40	Viv-ac84_40_viviparous-2_3795	40	0	viviparous lizard	viviparous	83.0
+adaptation	Gal-c07a_28_iguanas-2	Gal-c07a_28_herbivorous-5	Gal-c07a_28_iguanas-2_2326	28	Gal-c07a_28_herbivorous-5_3784	28	0	land iguana	herbivorous	83.0
+adaptation	Viv-ac84_23_lizard-14	Viv-ac84_23_viviparous-13	Viv-ac84_23_lizard-14_5600	23	Viv-ac84_23_viviparous-13_3795	23	0	viviparous lizard	viviparous	83.0
+adaptation	Bog-cdf9_52_lizard-6	Bog-cdf9_52_viviparous-5	Bog-cdf9_52_lizard-6_5600	52	Bog-cdf9_52_viviparous-5_3795	52	0	viviparous lizard	viviparous	83.0
+adaptation	Cha-1a30_39_chameleon-9	Cha-1a30_39_predator-30	Cha-1a30_39_chameleon-9_1835	39	Cha-1a30_39_predator-30_3977	39	0	Cape dwarf chameleon	predator	66.0
+adaptation	Liz-2f75_178_chameleons-2	Liz-2f75_178_camouflage-33	Liz-2f75_178_chameleons-2_1835	178	Liz-2f75_178_camouflage-33_3947	178	0	Cape dwarf chameleon	camouflage	66.0
+adaptation	Cep-fb80_129_chameleon-11	Cep-fb80_129_camouflage-48	Cep-fb80_129_chameleon-11_1835	129	Cep-fb80_129_camouflage-48_3947	129	0	Cape dwarf chameleon	camouflage	66.0
+adaptation	Cha-1a30_39_chameleon-9	Cha-1a30_39_camouflage-22	Cha-1a30_39_chameleon-9_1835	39	Cha-1a30_39_camouflage-22_3947	39	0	Cape dwarf chameleon	camouflage	66.0
+adaptation	Liz-2f75_178_chameleon-26	Liz-2f75_178_camouflage-16	Liz-2f75_178_chameleon-26_1835	178	Liz-2f75_178_camouflage-16_3947	178	0	Cape dwarf chameleon	camouflage	66.0
+adaptation	Liz-2f75_178_chameleons-2	Liz-2f75_178_camouflage-16	Liz-2f75_178_chameleons-2_1835	178	Liz-2f75_178_camouflage-16_3947	178	0	Cape dwarf chameleon	camouflage	66.0
+adaptation	Liz-2f75_178_chameleon-26	Liz-2f75_178_camouflage-33	Liz-2f75_178_chameleon-26_1835	178	Liz-2f75_178_camouflage-33_3947	178	0	Cape dwarf chameleon	camouflage	66.0
+adaptation	Cep-fb80_129_chameleons-5	Cep-fb80_129_camouflage-48	Cep-fb80_129_chameleons-5_1835	129	Cep-fb80_129_camouflage-48_3947	129	0	Cape dwarf chameleon	camouflage	66.0
+adaptation	Cam-4bd8_164_chameleon-6	Cam-4bd8_164_camouflage-13	Cam-4bd8_164_chameleon-6_1835	164	Cam-4bd8_164_camouflage-13_3947	164	0	Cape dwarf chameleon	camouflage	66.0
+adaptation	San-a712_65_lizard-4	San-a712_64_hibernation-7	San-a712_65_lizard-4_5445	65	San-a712_64_hibernation-7_3959	64	1	sand lizard	hibernation	50.0
+adaptation	Asi-7d4f_110_monitor-3	Asi-7d4f_109_predators-7	Asi-7d4f_110_monitor-3_5605	110	Asi-7d4f_109_predators-7_359	109	1	water monitor	Predator	50.0
+adaptation	Asi-7d4f_107_monitor-3	Asi-7d4f_106_predators-13	Asi-7d4f_107_monitor-3_5605	107	Asi-7d4f_106_predators-13_359	106	1	water monitor	Predator	50.0
+adaptation	Liz-2f75_162_dragon-12	Liz-2f75_163_scavengers-4	Liz-2f75_162_dragon-12_2641	162	Liz-2f75_163_scavengers-4_3979	163	1	Komodo dragon	scavenger	50.0
+adaptation	Viv-ac84_2_lizard-3	Viv-ac84_3_viviparous-22	Viv-ac84_2_lizard-3_5599	2	Viv-ac84_3_viviparous-22_3795	3	1	common lizard	viviparous	50.0
+adaptation	Viv-ac84_2_lizard-20	Viv-ac84_3_viviparous-22	Viv-ac84_2_lizard-20_5599	2	Viv-ac84_3_viviparous-22_3795	3	1	common lizard	viviparous	50.0
+adaptation	Viv-ac84_2_lizard-7	Viv-ac84_3_viviparous-22	Viv-ac84_2_lizard-7_5599	2	Viv-ac84_3_viviparous-22_3795	3	1	common lizard	viviparous	50.0
+adaptation	Uro-49a1_2_Uroplatus-1	Uro-49a1_3_nocturnal-3	Uro-49a1_2_Uroplatus-1_3590	2	Uro-49a1_3_nocturnal-3_3967	3	1	Uroplatus	nocturnal	43.5
+adaptation	Til-b8a5_81_rugosa-2	Til-b8a5_82_viviparous-5	Til-b8a5_81_rugosa-2_3543	81	Til-b8a5_82_viviparous-5_3795	82	1	Tiliqua rugosa	viviparous	43.5
+adaptation	Viv-ac84_144_lizards-5	Viv-ac84_143_polymorphism-7	Viv-ac84_144_lizards-5_5600	144	Viv-ac84_143_polymorphism-7_3976	143	1	viviparous lizard	polymorphism	41.5
+adaptation	Viv-ac84_135_lizard-2	Viv-ac84_136_polymorphism-2	Viv-ac84_135_lizard-2_3618	135	Viv-ac84_136_polymorphism-2_3976	136	1	Viviparous lizard	polymorphism	41.5
+adaptation	Viv-ac84_1_lizard-2	Viv-ac84_2_viviparous-2	Viv-ac84_1_lizard-2_3618	1	Viv-ac84_2_viviparous-2_3795	2	1	Viviparous lizard	viviparous	41.5
+adaptation	Gec-d21f_78_gecko-6	Gec-d21f_79_camouflage-7	Gec-d21f_78_gecko-6_5589	78	Gec-d21f_79_camouflage-7_3947	79	1	flat-tailed geckos	camouflage	37.5
+adaptation	Kno-f762_5_gecko-4	Kno-f762_4_nocturnal-17	Kno-f762_5_gecko-4_5589	5	Kno-f762_4_nocturnal-17_3967	4	1	flat-tailed geckos	nocturnal	37.5
+adaptation	San-a712_66_lizards-3	San-a712_64_hibernation-7	San-a712_66_lizards-3_5445	66	San-a712_64_hibernation-7_3959	64	2	sand lizard	hibernation	33.333
+adaptation	Per-a3bf_41_Perentie-1	Per-a3bf_43_predators-11	Per-a3bf_41_Perentie-1_3042	41	Per-a3bf_43_predators-11_359	43	2	Perentie	Predator	33.333
+adaptation	Asi-7d4f_14_monitor-17	Asi-7d4f_16_scavengers-12	Asi-7d4f_14_monitor-17_5605	14	Asi-7d4f_16_scavengers-12_3979	16	2	water monitor	scavenger	33.333
+adaptation	Per-a3bf_41_Perentie-1	Per-a3bf_43_predators-5	Per-a3bf_41_Perentie-1_3042	41	Per-a3bf_43_predators-5_359	43	2	Perentie	Predator	33.333
+adaptation	Asi-7d4f_66_monitor-9	Asi-7d4f_68_predators-18	Asi-7d4f_66_monitor-9_5605	66	Asi-7d4f_68_predators-18_3977	68	2	water monitor	predator	33.333
+adaptation	Asi-7d4f_107_monitor-3	Asi-7d4f_109_predators-7	Asi-7d4f_107_monitor-3_5605	107	Asi-7d4f_109_predators-7_3977	109	2	water monitor	predator	33.333
+adaptation	Asi-7d4f_72_monitor-8	Asi-7d4f_70_predators-4	Asi-7d4f_72_monitor-8_5605	72	Asi-7d4f_70_predators-4_3977	70	2	water monitor	predator	33.333
+adaptation	Slo-13c7_49_worms-3	Slo-13c7_47_ovoviviparous-4	Slo-13c7_49_worms-3_4599	49	Slo-13c7_47_ovoviviparous-4_3969	47	2	slow worm	ovoviviparous	33.333
+adaptation	Tho-9ab9_20_devil-17	Tho-9ab9_22_Camouflage-1	Tho-9ab9_20_devil-17_5554	20	Tho-9ab9_22_Camouflage-1_319	22	2	thorny devil	Camouflage	33.333
+adaptation	Asi-7d4f_14_monitor-17	Asi-7d4f_16_predators-10	Asi-7d4f_14_monitor-17_5605	14	Asi-7d4f_16_predators-10_3977	16	2	water monitor	predator	33.333
+adaptation	Cha-1a30_39_chameleon-9	Cha-1a30_40_predators-42	Cha-1a30_39_chameleon-9_1835	39	Cha-1a30_40_predators-42_359	40	1	Cape dwarf chameleon	Predator	33.0
+adaptation	Cap-f892_7_chameleon-4	Cap-f892_8_ovoviviparous-3	Cap-f892_7_chameleon-4_1835	7	Cap-f892_8_ovoviviparous-3_3969	8	1	Cape dwarf chameleon	ovoviviparous	33.0
+adaptation	Uro-49a1_5_Uroplatus-5	Uro-49a1_3_nocturnal-3	Uro-49a1_5_Uroplatus-5_3590	5	Uro-49a1_3_nocturnal-3_3967	3	2	Uroplatus	nocturnal	29.0
+adaptation	Uro-49a1_5_Uroplatus-5	Uro-49a1_7_nocturnal-7	Uro-49a1_5_Uroplatus-5_3590	5	Uro-49a1_7_nocturnal-7_3967	7	2	Uroplatus	nocturnal	29.0
+adaptation	Uro-49a1_19_Uroplatus-4	Uro-49a1_21_nocturnal-5	Uro-49a1_19_Uroplatus-4_3590	19	Uro-49a1_21_nocturnal-5_3967	21	2	Uroplatus	nocturnal	29.0
+adaptation	Uro-49a1_9_Uroplatus-4	Uro-49a1_7_nocturnal-7	Uro-49a1_9_Uroplatus-4_3590	9	Uro-49a1_7_nocturnal-7_3967	7	2	Uroplatus	nocturnal	29.0
+adaptation	Uro-49a1_1_Uroplatus-1	Uro-49a1_3_nocturnal-3	Uro-49a1_1_Uroplatus-1_3590	1	Uro-49a1_3_nocturnal-3_3967	3	2	Uroplatus	nocturnal	29.0
+adaptation	Viv-ac84_1_lizard-2	Viv-ac84_3_viviparous-22	Viv-ac84_1_lizard-2_3618	1	Viv-ac84_3_viviparous-22_3795	3	2	Viviparous lizard	viviparous	27.667
+adaptation	Viv-ac84_87_lizard-2	Viv-ac84_85_viviparous-3	Viv-ac84_87_lizard-2_3618	87	Viv-ac84_85_viviparous-3_3795	85	2	Viviparous lizard	viviparous	27.667
+adaptation	Viv-ac84_71_lizard-2	Viv-ac84_73_viviparous-11	Viv-ac84_71_lizard-2_3618	71	Viv-ac84_73_viviparous-11_3795	73	2	Viviparous lizard	viviparous	27.667
+adaptation	Gal-c07a_26_iguana-3	Gal-c07a_28_herbivorous-5	Gal-c07a_26_iguana-3_2326	26	Gal-c07a_28_herbivorous-5_3784	28	2	land iguana	herbivorous	27.667
+adaptation	Viv-ac84_71_lizard-2	Viv-ac84_73_viviparous-2	Viv-ac84_71_lizard-2_3618	71	Viv-ac84_73_viviparous-2_3795	73	2	Viviparous lizard	viviparous	27.667
+adaptation	Viv-ac84_135_lizard-2	Viv-ac84_137_polymorphism-3	Viv-ac84_135_lizard-2_3618	135	Viv-ac84_137_polymorphism-3_3976	137	2	Viviparous lizard	polymorphism	27.667
+adaptation	Per-a3bf_40_perentie-5	Per-a3bf_43_predators-11	Per-a3bf_40_perentie-5_5328	40	Per-a3bf_43_predators-11_3977	43	3	perentie	predator	25.0
+adaptation	Igu-7d5f_5_iguana-19	Igu-7d5f_2_herbivorous-14	Igu-7d5f_5_iguana-19_5221	5	Igu-7d5f_2_herbivorous-14_3784	2	3	marine iguana	herbivorous	25.0
+adaptation	Per-a3bf_40_perentie-5	Per-a3bf_43_predators-5	Per-a3bf_40_perentie-5_5328	40	Per-a3bf_43_predators-5_359	43	3	perentie	Predator	25.0
+adaptation	Igu-7d5f_5_iguana-3	Igu-7d5f_2_herbivorous-14	Igu-7d5f_5_iguana-3_5221	5	Igu-7d5f_2_herbivorous-14_3784	2	3	marine iguana	herbivorous	25.0
+adaptation	Asi-7d4f_109_monitors-3	Asi-7d4f_106_predators-13	Asi-7d4f_109_monitors-3_5605	109	Asi-7d4f_106_predators-13_359	106	3	water monitor	Predator	25.0
+adaptation	Asi-7d4f_112_monitors-7	Asi-7d4f_109_predators-7	Asi-7d4f_112_monitors-7_5605	112	Asi-7d4f_109_predators-7_359	109	3	water monitor	Predator	25.0
+adaptation	Tho-9ab9_19_devil-3	Tho-9ab9_22_Camouflage-1	Tho-9ab9_19_devil-3_5554	19	Tho-9ab9_22_Camouflage-1_319	22	3	thorny devil	Camouflage	25.0
+adaptation	Asi-7d4f_98_monitors-8	Asi-7d4f_95_scavengers-4	Asi-7d4f_98_monitors-8_5605	98	Asi-7d4f_95_scavengers-4_3979	95	3	water monitor	scavenger	25.0
+adaptation	Cep-fb80_129_chameleons-5	Cep-fb80_127_predators-2	Cep-fb80_129_chameleons-5_1835	129	Cep-fb80_127_predators-2_359	127	2	Cape dwarf chameleon	Predator	22.0
+adaptation	Cep-fb80_129_chameleon-11	Cep-fb80_127_predators-2	Cep-fb80_129_chameleon-11_1835	129	Cep-fb80_127_predators-2_3977	127	2	Cape dwarf chameleon	predator	22.0
+adaptation	Cam-4bd8_164_chameleon-6	Cam-4bd8_162_Camouflage-1	Cam-4bd8_164_chameleon-6_1835	164	Cam-4bd8_162_Camouflage-1_319	162	2	Cape dwarf chameleon	Camouflage	22.0
+adaptation	Uro-49a1_9_Uroplatus-4	Uro-49a1_12_camouflage-12	Uro-49a1_9_Uroplatus-4_3590	9	Uro-49a1_12_camouflage-12_3947	12	3	Uroplatus	camouflage	21.75
+adaptation	Viv-ac84_93_lizard-2	Viv-ac84_90_hibernation-24	Viv-ac84_93_lizard-2_3618	93	Viv-ac84_90_hibernation-24_3959	90	3	Viviparous lizard	hibernation	20.75
+adaptation	Viv-ac84_87_lizard-2	Viv-ac84_90_hibernation-24	Viv-ac84_87_lizard-2_3618	87	Viv-ac84_90_hibernation-24_3959	90	3	Viviparous lizard	hibernation	20.75
+adaptation	Viv-ac84_87_lizard-2	Viv-ac84_84_viviparous-9	Viv-ac84_87_lizard-2_3618	87	Viv-ac84_84_viviparous-9_3795	84	3	Viviparous lizard	viviparous	20.75
+adaptation	Viv-ac84_43_lizard-2	Viv-ac84_40_viviparous-2	Viv-ac84_43_lizard-2_3618	43	Viv-ac84_40_viviparous-2_3795	40	3	Viviparous lizard	viviparous	20.75
+adaptation	San-a712_68_lizard-7	San-a712_64_hibernation-7	San-a712_68_lizard-7_5445	68	San-a712_64_hibernation-7_338	64	4	sand lizard	Hibernation	20.0
+adaptation	Asi-7d4f_64_monitors-2	Asi-7d4f_68_predators-18	Asi-7d4f_64_monitors-2_3629	64	Asi-7d4f_68_predators-18_359	68	4	Water monitor	Predator	20.0
+adaptation	Tho-9ab9_26_devil-3	Tho-9ab9_22_Camouflage-1	Tho-9ab9_26_devil-3_5554	26	Tho-9ab9_22_Camouflage-1_319	22	4	thorny devil	Camouflage	20.0
+adaptation	San-a712_60_lizard-2	San-a712_64_hibernation-7	San-a712_60_lizard-2_3269	60	San-a712_64_hibernation-7_338	64	4	Sand lizard	Hibernation	20.0
+adaptation	Slo-13c7_51_worm-2	Slo-13c7_47_ovoviviparous-4	Slo-13c7_51_worm-2_1506	51	Slo-13c7_47_ovoviviparous-4_3969	47	4	Slow worm	ovoviviparous	20.0
+adaptation	Uro-49a1_25_Uroplatus-7	Uro-49a1_21_nocturnal-5	Uro-49a1_25_Uroplatus-7_3590	25	Uro-49a1_21_nocturnal-5_3967	21	4	Uroplatus	nocturnal	17.4
+adaptation	Uro-49a1_9_Uroplatus-4	Uro-49a1_13_camouflage-7	Uro-49a1_9_Uroplatus-4_3590	9	Uro-49a1_13_camouflage-7_3947	13	4	Uroplatus	camouflage	17.4
+adaptation	Tho-9ab9_27_devil-3	Tho-9ab9_22_Camouflage-1	Tho-9ab9_27_devil-3_5554	27	Tho-9ab9_22_Camouflage-1_319	22	5	thorny devil	Camouflage	16.667
+adaptation	Gal-c07a_23_iguana-4	Gal-c07a_28_herbivorous-5	Gal-c07a_23_iguana-4_2324	23	Gal-c07a_28_herbivorous-5_3784	28	5	Galápagos land iguana	herbivorous	16.667
+adaptation	Viv-ac84_23_lizard-14	Viv-ac84_19_polymorphism-7	Viv-ac84_23_lizard-14_5600	23	Viv-ac84_19_polymorphism-7_3976	19	4	viviparous lizard	polymorphism	16.6
+adaptation	Asi-7d4f_12_monitor-3	Asi-7d4f_16_scavengers-12	Asi-7d4f_12_monitor-3_3631	12	Asi-7d4f_16_scavengers-12_3979	16	4	Asian water monitor	scavenger	16.6
+adaptation	Viv-ac84_15_lizard-2	Viv-ac84_19_polymorphism-7	Viv-ac84_15_lizard-2_3618	15	Viv-ac84_19_polymorphism-7_3976	19	4	Viviparous lizard	polymorphism	16.6
+adaptation	Asi-7d4f_20_monitor-3	Asi-7d4f_16_scavengers-12	Asi-7d4f_20_monitor-3_3631	20	Asi-7d4f_16_scavengers-12_3979	16	4	Asian water monitor	scavenger	16.6
+adaptation	Viv-ac84_69_lizard-2	Viv-ac84_73_viviparous-11	Viv-ac84_69_lizard-2_3618	69	Viv-ac84_73_viviparous-11_3795	73	4	Viviparous lizard	viviparous	16.6
+adaptation	Viv-ac84_69_lizard-2	Viv-ac84_73_viviparous-2	Viv-ac84_69_lizard-2_3618	69	Viv-ac84_73_viviparous-2_3795	73	4	Viviparous lizard	viviparous	16.6
+adaptation	Lizaf6e_20_lizards-4	Lizaf6e_17_parts-18	Lizaf6e_20_lizards-4_5599	20	Lizaf6e_17_parts-18_307	17	3	common lizard	Shedding body parts	16.5
+adaptation	Uro-49a1_2_Uroplatus-1	Uro-49a1_7_nocturnal-7	Uro-49a1_2_Uroplatus-1_3590	2	Uro-49a1_7_nocturnal-7_3967	7	5	Uroplatus	nocturnal	14.5
+adaptation	Asi-7d4f_64_monitors-2	Asi-7d4f_70_predators-4	Asi-7d4f_64_monitors-2_3629	64	Asi-7d4f_70_predators-4_3977	70	6	Water monitor	predator	14.286
+adaptation	Gal-c07a_22_iguana-7	Gal-c07a_28_herbivorous-5	Gal-c07a_22_iguana-7_2324	22	Gal-c07a_28_herbivorous-5_3784	28	6	Galápagos land iguana	herbivorous	14.286
+adaptation	Asi-7d4f_11_monitor-10	Asi-7d4f_16_scavengers-12	Asi-7d4f_11_monitor-10_3632	11	Asi-7d4f_16_scavengers-12_3979	16	5	Malayan water monitor	scavenger	13.833
+adaptation	Gal-c07a_33_iguana-3	Gal-c07a_28_herbivorous-5	Gal-c07a_33_iguana-3_2326	33	Gal-c07a_28_herbivorous-5_3784	28	5	land iguana	herbivorous	13.833
+adaptation	Asi-7d4f_11_monitor-35	Asi-7d4f_16_scavengers-12	Asi-7d4f_11_monitor-35_3632	11	Asi-7d4f_16_scavengers-12_3979	16	5	Malayan water monitor	scavenger	13.833
+adaptation	Asi-7d4f_11_monitor-19	Asi-7d4f_16_scavengers-12	Asi-7d4f_11_monitor-19_3632	11	Asi-7d4f_16_scavengers-12_3979	16	5	Malayan water monitor	scavenger	13.833
+adaptation	Asi-7d4f_11_monitor-14	Asi-7d4f_16_scavengers-12	Asi-7d4f_11_monitor-14_3632	11	Asi-7d4f_16_scavengers-12_3979	16	5	Malayan water monitor	scavenger	13.833
+adaptation	Viv-ac84_87_lizard-2	Viv-ac84_82_viviparous-15	Viv-ac84_87_lizard-2_3618	87	Viv-ac84_82_viviparous-15_3795	82	5	Viviparous lizard	viviparous	13.833
+adaptation	San-a712_57_lizards-3	San-a712_64_hibernation-7	San-a712_57_lizards-3_5445	57	San-a712_64_hibernation-7_3959	64	7	sand lizard	hibernation	12.5
+adaptation	Per-a3bf_36_perentie-7	Per-a3bf_43_predators-11	Per-a3bf_36_perentie-7_5328	36	Per-a3bf_43_predators-11_359	43	7	perentie	Predator	12.5
+adaptation	Fri-c770_52_lizards-4	Fri-c770_45_camouflage-6	Fri-c770_52_lizards-4_4983	52	Fri-c770_45_camouflage-6_3947	45	7	frilled lizard	camouflage	12.5
+adaptation	Per-a3bf_36_perentie-7	Per-a3bf_43_predators-5	Per-a3bf_36_perentie-7_5328	36	Per-a3bf_43_predators-5_359	43	7	perentie	Predator	12.5
+adaptation	Tho-9ab9_15_devil-3	Tho-9ab9_22_Camouflage-1	Tho-9ab9_15_devil-3_5554	15	Tho-9ab9_22_Camouflage-1_319	22	7	thorny devil	Camouflage	12.5
+adaptation	Tyr-9f97_524_dragon-23	Tyr-9f97_531_scavenger-13	Tyr-9f97_524_dragon-23_2641	524	Tyr-9f97_531_scavenger-13_3979	531	7	Komodo dragon	scavenger	12.5
+adaptation	San-a712_71_lizards-4	San-a712_64_hibernation-7	San-a712_71_lizards-4_5445	71	San-a712_64_hibernation-7_338	64	7	sand lizard	Hibernation	12.5
+adaptation	Uro-49a1_19_Uroplatus-4	Uro-49a1_13_camouflage-7	Uro-49a1_19_Uroplatus-4_3590	19	Uro-49a1_13_camouflage-7_3947	13	6	Uroplatus	camouflage	12.429
+adaptation	Uro-49a1_1_Uroplatus-1	Uro-49a1_7_nocturnal-7	Uro-49a1_1_Uroplatus-1_3590	1	Uro-49a1_7_nocturnal-7_3967	7	6	Uroplatus	nocturnal	12.429
+adaptation	Uro-49a1_9_Uroplatus-4	Uro-49a1_3_nocturnal-3	Uro-49a1_9_Uroplatus-4_3590	9	Uro-49a1_3_nocturnal-3_3967	3	6	Uroplatus	nocturnal	12.429
+adaptation	Asi-7d4f_89_monitor-3	Asi-7d4f_95_scavengers-4	Asi-7d4f_89_monitor-3_3631	89	Asi-7d4f_95_scavengers-4_3979	95	6	Asian water monitor	scavenger	11.857
+adaptation	Asi-7d4f_101_monitor-3	Asi-7d4f_95_scavengers-4	Asi-7d4f_101_monitor-3_3631	101	Asi-7d4f_95_scavengers-4_3979	95	6	Asian water monitor	scavenger	11.857
+adaptation	Uro-49a1_5_Uroplatus-5	Uro-49a1_12_camouflage-12	Uro-49a1_5_Uroplatus-5_3590	5	Uro-49a1_12_camouflage-12_3947	12	7	Uroplatus	camouflage	10.875
+adaptation	Uro-49a1_19_Uroplatus-4	Uro-49a1_12_camouflage-12	Uro-49a1_19_Uroplatus-4_3590	19	Uro-49a1_12_camouflage-12_3947	12	7	Uroplatus	camouflage	10.875
+adaptation	Viv-ac84_144_lizards-5	Viv-ac84_137_polymorphism-3	Viv-ac84_144_lizards-5_5600	144	Viv-ac84_137_polymorphism-3_3976	137	7	viviparous lizard	polymorphism	10.375
+adaptation	Slo-13c7_38_worm-2	Slo-13c7_47_ovoviviparous-4	Slo-13c7_38_worm-2_1506	38	Slo-13c7_47_ovoviviparous-4_3969	47	9	Slow worm	ovoviviparous	10.0
+adaptation	Liz-2f75_178_chameleon-26	Liz-2f75_172_Camouflage-8	Liz-2f75_178_chameleon-26_1835	178	Liz-2f75_172_Camouflage-8_319	172	6	Cape dwarf chameleon	Camouflage	9.429
+adaptation	Liz-2f75_178_chameleons-2	Liz-2f75_172_Camouflage-8	Liz-2f75_178_chameleons-2_1835	178	Liz-2f75_172_Camouflage-8_319	172	6	Cape dwarf chameleon	Camouflage	9.429
+adaptation	Viv-ac84_144_lizards-5	Viv-ac84_136_polymorphism-2	Viv-ac84_144_lizards-5_5600	144	Viv-ac84_136_polymorphism-2_3976	136	8	viviparous lizard	polymorphism	9.222
+adaptation	Viv-ac84_98_lizard-2	Viv-ac84_90_hibernation-24	Viv-ac84_98_lizard-2_3618	98	Viv-ac84_90_hibernation-24_3959	90	8	Viviparous lizard	hibernation	9.222
+adaptation	Gal-c07a_20_iguana-3	Gal-c07a_28_herbivorous-5	Gal-c07a_20_iguana-3_2326	20	Gal-c07a_28_herbivorous-5_3784	28	8	land iguana	herbivorous	9.222
+adaptation	Viv-ac84_31_lizard-2	Viv-ac84_23_polymorphism-11	Viv-ac84_31_lizard-2_3618	31	Viv-ac84_23_polymorphism-11_3976	23	8	Viviparous lizard	polymorphism	9.222
+adaptation	Viv-ac84_135_lizard-2	Viv-ac84_143_polymorphism-7	Viv-ac84_135_lizard-2_3618	135	Viv-ac84_143_polymorphism-7_3976	143	8	Viviparous lizard	polymorphism	9.222
+adaptation	Viv-ac84_15_lizard-2	Viv-ac84_23_polymorphism-11	Viv-ac84_15_lizard-2_3618	15	Viv-ac84_23_polymorphism-11_3976	23	8	Viviparous lizard	polymorphism	9.222
+adaptation	Slo-13c7_57_worm-2	Slo-13c7_47_ovoviviparous-4	Slo-13c7_57_worm-2_1506	57	Slo-13c7_47_ovoviviparous-4_3969	47	10	Slow worm	ovoviviparous	9.091
+adaptation	Liz-2f75_143_iguana-3	Liz-2f75_133_territorial-8	Liz-2f75_143_iguana-3_5221	143	Liz-2f75_133_territorial-8_3985	133	10	marine iguana	territorial	9.091
+adaptation	Pla-cd2e_13_Augrabies-30	Pla-cd2e_8_dimorphism-7	Pla-cd2e_13_Augrabies-30_1782	13	Pla-cd2e_8_dimorphism-7_3791	8	5	Augrabies flat lizard	sexual dimorphism	9.0
+adaptation	San-a712_75_lizard-2	San-a712_64_hibernation-7	San-a712_75_lizard-2_3269	75	San-a712_64_hibernation-7_338	64	11	Sand lizard	Hibernation	8.333
+adaptation	Til-b8a5_72_rugosa-2	Til-b8a5_82_viviparous-5	Til-b8a5_72_rugosa-2_3543	72	Til-b8a5_82_viviparous-5_3795	82	10	Tiliqua rugosa	viviparous	7.909
+adaptation	Fri-c770_57_lizard-2	Fri-c770_45_camouflage-6	Fri-c770_57_lizard-2_2297	57	Fri-c770_45_camouflage-6_3947	45	12	Frilled lizard	camouflage	7.692
+adaptation	Viv-ac84_33_lizard-2	Viv-ac84_23_polymorphism-11	Viv-ac84_33_lizard-2_3618	33	Viv-ac84_23_polymorphism-11_3976	23	10	Viviparous lizard	polymorphism	7.545
+adaptation	Kno-f762_13_gecko-4	Kno-f762_4_nocturnal-17	Kno-f762_13_gecko-4_3589	13	Kno-f762_4_nocturnal-17_3967	4	9	Flat-tailed geckos	nocturnal	7.5
+adaptation	Per-a3bf_56_perentie-2	Per-a3bf_43_predators-11	Per-a3bf_56_perentie-2_5328	56	Per-a3bf_43_predators-11_359	43	13	perentie	Predator	7.143
+adaptation	San-a712_51_lizard-2	San-a712_64_hibernation-7	San-a712_51_lizard-2_3269	51	San-a712_64_hibernation-7_3959	64	13	Sand lizard	hibernation	7.143
+adaptation	Per-a3bf_56_perentie-2	Per-a3bf_43_predators-5	Per-a3bf_56_perentie-2_5328	56	Per-a3bf_43_predators-5_3977	43	13	perentie	predator	7.143
+adaptation	Fri-c770_32_lizard-3	Fri-c770_45_camouflage-6	Fri-c770_32_lizard-3_4983	32	Fri-c770_45_camouflage-6_3947	45	13	frilled lizard	camouflage	7.143
+adaptation	Tyr-9f97_524_dragon-23	Tyr-9f97_537_scavenger-17	Tyr-9f97_524_dragon-23_2641	524	Tyr-9f97_537_scavenger-17_3979	537	13	Komodo dragon	scavenger	7.143
+adaptation	Per-a3bf_57_Perentie-1	Per-a3bf_43_predators-11	Per-a3bf_57_Perentie-1_3042	57	Per-a3bf_43_predators-11_3977	43	14	Perentie	predator	6.667
+adaptation	Pre10d6_9_Perentie-1	Pre10d6_23_predator-2	Pre10d6_9_Perentie-1_3042	9	Pre10d6_23_predator-2_3977	23	14	Perentie	predator	6.667
+adaptation	Per-a3bf_57_Perentie-1	Per-a3bf_43_predators-5	Per-a3bf_57_Perentie-1_3042	57	Per-a3bf_43_predators-5_359	43	14	Perentie	Predator	6.667
+adaptation	Slo-13c7_61_worm-2	Slo-13c7_47_ovoviviparous-4	Slo-13c7_61_worm-2_1506	61	Slo-13c7_47_ovoviviparous-4_3969	47	14	Slow worm	ovoviviparous	6.667
+adaptation	Fri-c770_31_lizard-2	Fri-c770_45_camouflage-6	Fri-c770_31_lizard-2_2297	31	Fri-c770_45_camouflage-6_3947	45	14	Frilled lizard	camouflage	6.667
+adaptation	Cam-4bd8_164_chameleon-6	Cam-4bd8_155_Camouflage-1	Cam-4bd8_164_chameleon-6_1835	164	Cam-4bd8_155_Camouflage-1_319	155	9	Cape dwarf chameleon	Camouflage	6.6
+adaptation	Viv-ac84_78_lizard-29	Viv-ac84_90_hibernation-24	Viv-ac84_78_lizard-29_5600	78	Viv-ac84_90_hibernation-24_338	90	12	viviparous lizard	Hibernation	6.385
+adaptation	Viv-ac84_102_lizard-2	Viv-ac84_90_hibernation-24	Viv-ac84_102_lizard-2_3618	102	Viv-ac84_90_hibernation-24_338	90	12	Viviparous lizard	Hibernation	6.385
+adaptation	Viv-ac84_31_lizard-2	Viv-ac84_19_polymorphism-7	Viv-ac84_31_lizard-2_3618	31	Viv-ac84_19_polymorphism-7_3976	19	12	Viviparous lizard	polymorphism	6.385
+adaptation	Til-b8a5_67_skink-3	Til-b8a5_82_viviparous-5	Til-b8a5_67_skink-3_5566	67	Til-b8a5_82_viviparous-5_3795	82	15	shingleback skink	viviparous	6.25
+adaptation	Til-b8a5_95_rugosa-2	Til-b8a5_82_viviparous-5	Til-b8a5_95_rugosa-2_3543	95	Til-b8a5_82_viviparous-5_3795	82	13	Tiliqua rugosa	viviparous	6.214
+adaptation	Cap-f892_18_chameleon-10	Cap-f892_8_ovoviviparous-3	Cap-f892_18_chameleon-10_1835	18	Cap-f892_8_ovoviviparous-3_3969	8	10	Cape dwarf chameleon	ovoviviparous	6.0
+adaptation	Cap-f892_18_chameleon-4	Cap-f892_8_ovoviviparous-3	Cap-f892_18_chameleon-4_1835	18	Cap-f892_8_ovoviviparous-3_3969	8	10	Cape dwarf chameleon	ovoviviparous	6.0
+adaptation	Tho-9ab9_6_devil-2	Tho-9ab9_22_Camouflage-1	Tho-9ab9_6_devil-2_3518	6	Tho-9ab9_22_Camouflage-1_319	22	16	Thorny devil	Camouflage	5.882
+adaptation	Viv-ac84_2_lizard-3	Viv-ac84_19_polymorphism-7	Viv-ac84_2_lizard-3_5599	2	Viv-ac84_19_polymorphism-7_3976	19	17	common lizard	polymorphism	5.556
+adaptation	Viv-ac84_2_lizard-20	Viv-ac84_19_polymorphism-7	Viv-ac84_2_lizard-20_5599	2	Viv-ac84_19_polymorphism-7_3976	19	17	common lizard	polymorphism	5.556
+adaptation	Viv-ac84_2_lizard-7	Viv-ac84_19_polymorphism-7	Viv-ac84_2_lizard-7_5599	2	Viv-ac84_19_polymorphism-7_3976	19	17	common lizard	polymorphism	5.556
+adaptation	Cap-f892_25_chameleons-3	Cap-f892_8_ovoviviparous-3	Cap-f892_25_chameleons-3_1835	25	Cap-f892_8_ovoviviparous-3_3969	8	17	Cape dwarf chameleon	ovoviviparous	5.556
+adaptation	Liz-2f75_143_iguana-3	Liz-2f75_126_territorial-26	Liz-2f75_143_iguana-3_5221	143	Liz-2f75_126_territorial-26_3985	126	17	marine iguana	territorial	5.556
+adaptation	Viv-ac84_33_lizard-2	Viv-ac84_19_polymorphism-7	Viv-ac84_33_lizard-2_3618	33	Viv-ac84_19_polymorphism-7_3976	19	14	Viviparous lizard	polymorphism	5.533
+adaptation	Viv-ac84_104_lizard-2	Viv-ac84_90_hibernation-24	Viv-ac84_104_lizard-2_3618	104	Viv-ac84_90_hibernation-24_3959	90	14	Viviparous lizard	hibernation	5.533
+adaptation	Til-b8a5_96_bobtail-11	Til-b8a5_82_viviparous-5	Til-b8a5_96_bobtail-11_5567	96	Til-b8a5_82_viviparous-5_3795	82	14	bobtail	viviparous	5.533
+adaptation	Gib-8392_21_moloch-11	Gib-8392_5_dimorphism-31	Gib-8392_21_moloch-11_5555	21	Gib-8392_5_dimorphism-31_3791	5	16	moloch	sexual dimorphism	4.882
+adaptation	Per-a3bf_63_Perentie-1	Per-a3bf_43_predators-11	Per-a3bf_63_Perentie-1_3042	63	Per-a3bf_43_predators-11_3977	43	20	Perentie	predator	4.762
+adaptation	Per-a3bf_63_Perentie-1	Per-a3bf_43_predators-5	Per-a3bf_63_Perentie-1_3042	63	Per-a3bf_43_predators-5_3977	43	20	Perentie	predator	4.762
+adaptation	Viv-ac84_73_lizard-3	Viv-ac84_90_hibernation-24	Viv-ac84_73_lizard-3_5600	73	Viv-ac84_90_hibernation-24_3959	90	17	viviparous lizard	hibernation	4.611
+adaptation	Viv-ac84_40_lizard-3	Viv-ac84_23_polymorphism-11	Viv-ac84_40_lizard-3_5600	40	Viv-ac84_23_polymorphism-11_3976	23	17	viviparous lizard	polymorphism	4.611
+adaptation	Til-b8a5_99_bobtail-7	Til-b8a5_82_viviparous-5	Til-b8a5_99_bobtail-7_5567	99	Til-b8a5_82_viviparous-5_3795	82	17	bobtail	viviparous	4.611
+adaptation	Til-b8a5_64_rugosa-2	Til-b8a5_82_viviparous-5	Til-b8a5_64_rugosa-2_3543	64	Til-b8a5_82_viviparous-5_3795	82	18	Tiliqua rugosa	viviparous	4.579
+adaptation	Fri-c770_66_lizard-2	Fri-c770_45_camouflage-6	Fri-c770_66_lizard-2_2297	66	Fri-c770_45_camouflage-6_3947	45	21	Frilled lizard	camouflage	4.545
+adaptation	Tho-9ab9_1_devil-2	Tho-9ab9_22_Camouflage-1	Tho-9ab9_1_devil-2_3518	1	Tho-9ab9_22_Camouflage-1_319	22	21	Thorny devil	Camouflage	4.545
+adaptation	Fri-c770_23_lizard-3	Fri-c770_45_camouflage-6	Fri-c770_23_lizard-3_4983	23	Fri-c770_45_camouflage-6_3947	45	22	frilled lizard	camouflage	4.348
+adaptation	Tho-9ab9_44_devil-2	Tho-9ab9_22_Camouflage-1	Tho-9ab9_44_devil-2_3518	44	Tho-9ab9_22_Camouflage-1_319	22	22	Thorny devil	Camouflage	4.348
+adaptation	Fri-c770_68_lizard-3	Fri-c770_45_camouflage-6	Fri-c770_68_lizard-3_4983	68	Fri-c770_45_camouflage-6_3947	45	23	frilled lizard	camouflage	4.167
+adaptation	Liz-2f75_143_iguana-3	Liz-2f75_155_herbivorous-28	Liz-2f75_143_iguana-3_2819	143	Liz-2f75_155_herbivorous-28_3784	155	12	Galápagos marine iguana	herbivorous	4.154
+adaptation	Tho-9ab9_2_dragon-21	Tho-9ab9_22_Camouflage-1	Tho-9ab9_2_dragon-21_3521	2	Tho-9ab9_22_Camouflage-1_319	22	20	Thorny dragon	Camouflage	3.952
+adaptation	Tho-9ab9_2_lizard-30	Tho-9ab9_22_Camouflage-1	Tho-9ab9_2_lizard-30_5557	2	Tho-9ab9_22_Camouflage-1_319	22	20	thorny lizard	Camouflage	3.952
+adaptation	Tho-9ab9_2_lizard-18	Tho-9ab9_22_Camouflage-1	Tho-9ab9_2_lizard-18_5557	2	Tho-9ab9_22_Camouflage-1_319	22	20	thorny lizard	Camouflage	3.952
+adaptation	Tho-9ab9_2_Moloch-5	Tho-9ab9_22_Camouflage-1	Tho-9ab9_2_Moloch-5_3520	2	Tho-9ab9_22_Camouflage-1_319	22	20	Moloch	Camouflage	3.952
+adaptation	Tho-9ab9_2_moloch-24	Tho-9ab9_22_Camouflage-1	Tho-9ab9_2_moloch-24_5555	2	Tho-9ab9_22_Camouflage-1_319	22	20	moloch	Camouflage	3.952
+adaptation	Liz-2f75_168_iguana-9	Liz-2f75_155_herbivorous-28	Liz-2f75_168_iguana-9_2819	168	Liz-2f75_155_herbivorous-28_3784	155	13	Galápagos marine iguana	herbivorous	3.857
+adaptation	Mar-bb56_179_iguanas-17	Mar-bb56_153_territorial-23	Mar-bb56_179_iguanas-17_5221	179	Mar-bb56_153_territorial-23_3985	153	26	marine iguana	territorial	3.704
+adaptation	Cam-4bd8_164_chameleon-6	Cam-4bd8_147_Camouflage-1	Cam-4bd8_164_chameleon-6_1835	164	Cam-4bd8_147_Camouflage-1_319	147	17	Cape dwarf chameleon	Camouflage	3.667
+adaptation	Fri-c770_18_lizard-9	Fri-c770_45_camouflage-6	Fri-c770_18_lizard-9_4983	18	Fri-c770_45_camouflage-6_3947	45	27	frilled lizard	camouflage	3.571
+adaptation	Cam-4bd8_164_chameleon-6	Cam-4bd8_182_Camouflage-1	Cam-4bd8_164_chameleon-6_1835	164	Cam-4bd8_182_Camouflage-1_319	182	18	Cape dwarf chameleon	Camouflage	3.474
+adaptation	Til-b8a5_105_bobtail-12	Til-b8a5_82_viviparous-5	Til-b8a5_105_bobtail-12_5567	105	Til-b8a5_82_viviparous-5_3795	82	23	bobtail	viviparous	3.458
+adaptation	Gib-8392_28_moloch-46	Gib-8392_5_dimorphism-31	Gib-8392_28_moloch-46_5555	28	Gib-8392_5_dimorphism-31_14	5	23	moloch	Sexual dimorphism	3.458
+adaptation	Fri-c770_17_lizard-2	Fri-c770_45_camouflage-6	Fri-c770_17_lizard-2_2297	17	Fri-c770_45_camouflage-6_3947	45	28	Frilled lizard	camouflage	3.448
+adaptation	Per-a3bf_12_goanna-15	Per-a3bf_43_predators-11	Per-a3bf_12_goanna-15_5442	12	Per-a3bf_43_predators-11_3977	43	31	sand goanna	predator	3.125
+adaptation	Per-a3bf_12_goanna-15	Per-a3bf_43_predators-5	Per-a3bf_12_goanna-15_5442	12	Per-a3bf_43_predators-5_3977	43	31	sand goanna	predator	3.125
+adaptation	Tho-9ab9_53_devil-2	Tho-9ab9_22_Camouflage-1	Tho-9ab9_53_devil-2_3518	53	Tho-9ab9_22_Camouflage-1_319	22	31	Thorny devil	Camouflage	3.125
+adaptation	Til-b8a5_55_rugosa-2	Til-b8a5_82_viviparous-5	Til-b8a5_55_rugosa-2_3543	55	Til-b8a5_82_viviparous-5_3795	82	27	Tiliqua rugosa	viviparous	3.107
+adaptation	Kom-6ea1_137_perentie-13	Kom-6ea1_169_predators-20	Kom-6ea1_137_perentie-13_5328	137	Kom-6ea1_169_predators-20_359	169	32	perentie	Predator	3.03
+adaptation	Til-b8a5_111_rugosa-2	Til-b8a5_82_viviparous-5	Til-b8a5_111_rugosa-2_3543	111	Til-b8a5_82_viviparous-5_3795	82	29	Tiliqua rugosa	viviparous	2.9
+adaptation	Mar-bb56_102_iguanas-6	Mar-bb56_136_territorial-2	Mar-bb56_102_iguanas-6_5221	102	Mar-bb56_136_territorial-2_3985	136	34	marine iguana	territorial	2.857
+adaptation	Per-a3bf_9_perentie-8	Per-a3bf_43_predators-5	Per-a3bf_9_perentie-8_5328	9	Per-a3bf_43_predators-5_3977	43	34	perentie	predator	2.857
+adaptation	Per-a3bf_9_perentie-8	Per-a3bf_43_predators-11	Per-a3bf_9_perentie-8_5328	9	Per-a3bf_43_predators-11_359	43	34	perentie	Predator	2.857
+adaptation	Til-b8a5_112_rugosa-2	Til-b8a5_82_viviparous-5	Til-b8a5_112_rugosa-2_3543	112	Til-b8a5_82_viviparous-5_3795	82	30	Tiliqua rugosa	viviparous	2.806
+adaptation	Fri-c770_10_lizard-3	Fri-c770_45_camouflage-6	Fri-c770_10_lizard-3_4983	10	Fri-c770_45_camouflage-6_3947	45	35	frilled lizard	camouflage	2.778
+adaptation	Tho-9ab9_57_devil-2	Tho-9ab9_22_Camouflage-1	Tho-9ab9_57_devil-2_3518	57	Tho-9ab9_22_Camouflage-1_319	22	35	Thorny devil	Camouflage	2.778
+adaptation	Liz-2f75_168_iguana-9	Liz-2f75_133_territorial-8	Liz-2f75_168_iguana-9_5221	168	Liz-2f75_133_territorial-8_3985	133	35	marine iguana	territorial	2.778
+taxongroup	Mar-bb56_70_iguanas-30	Mar-bb56_70_Conolophus-17	Mar-bb56_70_iguanas-30_2324	70	Mar-bb56_70_Conolophus-17_987	70	0	Galápagos land iguana	Conolophus	100.0
+taxongroup	Mon-a066_69_lizards-2	Mon-a066_69_lizards-2	Mon-a066_69_lizards-2_4389	69	Mon-a066_69_lizards-2_2734	69	0	monitor lizards	Lizards	100.0
+taxongroup	Lizaf6e_16_lizards-24	Lizaf6e_16_lizards-14	Lizaf6e_16_lizards-24_4389	16	Lizaf6e_16_lizards-14_2734	16	0	monitor lizards	Lizards	100.0
+taxongroup	Lizaf6e_16_lizards-14	Lizaf6e_16_lizards-14	Lizaf6e_16_lizards-14_4389	16	Lizaf6e_16_lizards-14_2734	16	0	monitor lizards	Lizards	100.0
+taxongroup	Lizaf6e_16_lizards-14	Lizaf6e_16_lizards-24	Lizaf6e_16_lizards-14_4389	16	Lizaf6e_16_lizards-24_2734	16	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_51_lizards-5	Mon-a066_51_lizards-20	Mon-a066_51_lizards-5_4389	51	Mon-a066_51_lizards-20_2734	51	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_38_lizards-18	Mon-a066_38_lizards-18	Mon-a066_38_lizards-18_4389	38	Mon-a066_38_lizards-18_2734	38	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_50_lizard-5	Mon-a066_50_lizard-5	Mon-a066_50_lizard-5_4389	50	Mon-a066_50_lizard-5_2734	50	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_38_lizards-18	Mon-a066_38_lizards-6	Mon-a066_38_lizards-18_4389	38	Mon-a066_38_lizards-6_2734	38	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_24_lizard-2	Mon-a066_24_lizard-2	Mon-a066_24_lizard-2_4389	24	Mon-a066_24_lizard-2_2734	24	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_43_lizards-17	Mon-a066_43_lizards-17	Mon-a066_43_lizards-17_4389	43	Mon-a066_43_lizards-17_2734	43	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_79_lizard-2	Mon-a066_79_lizard-2	Mon-a066_79_lizard-2_4389	79	Mon-a066_79_lizard-2_2734	79	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_78_lizards-8	Mon-a066_78_lizards-8	Mon-a066_78_lizards-8_4389	78	Mon-a066_78_lizards-8_2734	78	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_82_lizards-23	Mon-a066_82_lizards-23	Mon-a066_82_lizards-23_4389	82	Mon-a066_82_lizards-23_2734	82	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_66_lizard-2	Mon-a066_66_lizard-2	Mon-a066_66_lizard-2_4389	66	Mon-a066_66_lizard-2_2734	66	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_82_lizards-23	Mon-a066_82_lizard-7	Mon-a066_82_lizards-23_4389	82	Mon-a066_82_lizard-7_2734	82	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_2_lizards-4	Mon-a066_2_lizards-4	Mon-a066_2_lizards-4_4389	2	Mon-a066_2_lizards-4_2734	2	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_65_lizard-2	Mon-a066_65_lizard-2	Mon-a066_65_lizard-2_4389	65	Mon-a066_65_lizard-2_2734	65	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_5_lizards-2	Mon-a066_5_lizards-2	Mon-a066_5_lizards-2_4389	5	Mon-a066_5_lizards-2_2734	5	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_151_lizard-2	Mon-a066_151_lizard-2	Mon-a066_151_lizard-2_4389	151	Mon-a066_151_lizard-2_2734	151	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_82_lizards-23	Mon-a066_82_lizard-33	Mon-a066_82_lizards-23_4389	82	Mon-a066_82_lizard-33_2734	82	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_77_lizards-21	Mon-a066_77_lizards-21	Mon-a066_77_lizards-21_4389	77	Mon-a066_77_lizards-21_2734	77	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_81_lizards-9	Mon-a066_81_lizards-9	Mon-a066_81_lizards-9_4389	81	Mon-a066_81_lizards-9_2734	81	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_82_lizard-7	Mon-a066_82_lizard-7	Mon-a066_82_lizard-7_4389	82	Mon-a066_82_lizard-7_2734	82	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_47_lizard-2	Mon-a066_47_lizard-2	Mon-a066_47_lizard-2_4389	47	Mon-a066_47_lizard-2_2734	47	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_1_lizard-2	Mon-a066_1_lizard-2	Mon-a066_1_lizard-2_4389	1	Mon-a066_1_lizard-2_2734	1	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_119_lizard-2	Mon-a066_119_lizard-2	Mon-a066_119_lizard-2_4389	119	Mon-a066_119_lizard-2_2734	119	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_45_lizards-2	Mon-a066_45_lizards-2	Mon-a066_45_lizards-2_4389	45	Mon-a066_45_lizards-2_2734	45	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_88_lizards-5	Mon-a066_88_lizards-5	Mon-a066_88_lizards-5_4389	88	Mon-a066_88_lizards-5_2734	88	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_93_lizards-7	Mon-a066_93_lizards-7	Mon-a066_93_lizards-7_4389	93	Mon-a066_93_lizards-7_2734	93	0	monitor lizards	Lizards	100.0
+taxongroup	Lizaf6e_16_lizards-24	Lizaf6e_16_lizards-24	Lizaf6e_16_lizards-24_4389	16	Lizaf6e_16_lizards-24_2734	16	0	monitor lizards	Lizards	100.0
+taxongroup	Lizaf6e_16_lizards-24	Lizaf6e_16_lizards-30	Lizaf6e_16_lizards-24_4389	16	Lizaf6e_16_lizards-30_2734	16	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_90_lizard-2	Mon-a066_90_lizard-2	Mon-a066_90_lizard-2_4389	90	Mon-a066_90_lizard-2_2734	90	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_164_lizard-2	Mon-a066_164_lizard-2	Mon-a066_164_lizard-2_4389	164	Mon-a066_164_lizard-2_2734	164	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_40_lizards-5	Mon-a066_40_lizards-5	Mon-a066_40_lizards-5_4389	40	Mon-a066_40_lizards-5_2734	40	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_28_lizards-2	Mon-a066_28_lizards-2	Mon-a066_28_lizards-2_4389	28	Mon-a066_28_lizards-2_2734	28	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_42_lizards-2	Mon-a066_42_lizards-2	Mon-a066_42_lizards-2_4389	42	Mon-a066_42_lizards-2_2734	42	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_38_lizards-6	Mon-a066_38_lizards-6	Mon-a066_38_lizards-6_4389	38	Mon-a066_38_lizards-6_2734	38	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_8_lizards-4	Mon-a066_8_lizards-4	Mon-a066_8_lizards-4_4389	8	Mon-a066_8_lizards-4_2734	8	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_82_lizard-33	Mon-a066_82_lizard-33	Mon-a066_82_lizard-33_4389	82	Mon-a066_82_lizard-33_2734	82	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_82_lizard-33	Mon-a066_82_lizard-7	Mon-a066_82_lizard-33_4389	82	Mon-a066_82_lizard-7_2734	82	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_82_lizard-33	Mon-a066_82_lizards-23	Mon-a066_82_lizard-33_4389	82	Mon-a066_82_lizards-23_2734	82	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_75_lizards-2	Mon-a066_75_lizards-2	Mon-a066_75_lizards-2_4389	75	Mon-a066_75_lizards-2_2734	75	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_72_lizard-2	Mon-a066_72_lizard-2	Mon-a066_72_lizard-2_4389	72	Mon-a066_72_lizard-2_2734	72	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_82_lizard-7	Mon-a066_82_lizard-33	Mon-a066_82_lizard-7_4389	82	Mon-a066_82_lizard-33_2734	82	0	monitor lizards	Lizards	100.0
+taxongroup	Cro-5646_355_lizards-17	Cro-5646_355_lizards-17	Cro-5646_355_lizards-17_4389	355	Cro-5646_355_lizards-17_2734	355	0	monitor lizards	Lizards	100.0
+taxongroup	Asi-7d4f_3_lizards-9	Asi-7d4f_3_lizards-9	Asi-7d4f_3_lizards-9_4389	3	Asi-7d4f_3_lizards-9_2734	3	0	monitor lizards	Lizards	100.0
+taxongroup	Ase-acb4_7_lizards-6	Ase-acb4_7_lizards-6	Ase-acb4_7_lizards-6_4389	7	Ase-acb4_7_lizards-6_2734	7	0	monitor lizards	Lizards	100.0
+taxongroup	Ani-2170_462_lizards-2	Ani-2170_462_lizards-2	Ani-2170_462_lizards-2_4389	462	Ani-2170_462_lizards-2_2734	462	0	monitor lizards	Lizards	100.0
+taxongroup	Inl-4b16_98_lizard-11	Inl-4b16_98_lizard-11	Inl-4b16_98_lizard-11_4389	98	Inl-4b16_98_lizard-11_2734	98	0	monitor lizards	Lizards	100.0
+taxongroup	Komddae_15_lizards-11	Komddae_15_lizards-11	Komddae_15_lizards-11_4389	15	Komddae_15_lizards-11_2734	15	0	monitor lizards	Lizards	100.0
+taxongroup	Komddae_15_lizards-15	Komddae_15_lizards-11	Komddae_15_lizards-15_4389	15	Komddae_15_lizards-11_2734	15	0	monitor lizards	Lizards	100.0
+taxongroup	Komddae_15_lizards-15	Komddae_15_lizards-15	Komddae_15_lizards-15_4389	15	Komddae_15_lizards-15_2734	15	0	monitor lizards	Lizards	100.0
+taxongroup	Coc-29aa_194_lizard-5	Coc-29aa_194_lizard-5	Coc-29aa_194_lizard-5_4389	194	Coc-29aa_194_lizard-5_2734	194	0	monitor lizards	Lizards	100.0
+taxongroup	Cen-cfeb_70_lizards-25	Cen-cfeb_70_lizards-25	Cen-cfeb_70_lizards-25_4389	70	Cen-cfeb_70_lizards-25_2734	70	0	monitor lizards	Lizards	100.0
+taxongroup	Bea-1194_98_lizard-25	Bea-1194_98_lizard-25	Bea-1194_98_lizard-25_4389	98	Bea-1194_98_lizard-25_2734	98	0	monitor lizards	Lizards	100.0
+taxongroup	Asi-7d4f_34_lizard-10	Asi-7d4f_34_lizard-10	Asi-7d4f_34_lizard-10_4389	34	Asi-7d4f_34_lizard-10_2734	34	0	monitor lizards	Lizards	100.0
+taxongroup	Asi-7d4f_15_lizards-10	Asi-7d4f_15_lizards-10	Asi-7d4f_15_lizards-10_4389	15	Asi-7d4f_15_lizards-10_2734	15	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_51_lizards-20	Mon-a066_51_lizards-5	Mon-a066_51_lizards-20_4389	51	Mon-a066_51_lizards-5_2734	51	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_51_lizards-20	Mon-a066_51_lizards-20	Mon-a066_51_lizards-20_4389	51	Mon-a066_51_lizards-20_2734	51	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_85_lizard-2	Mon-a066_85_lizard-2	Mon-a066_85_lizard-2_4389	85	Mon-a066_85_lizard-2_2734	85	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_29_lizard-2	Mon-a066_29_lizard-2	Mon-a066_29_lizard-2_4389	29	Mon-a066_29_lizard-2_2734	29	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_38_lizards-6	Mon-a066_38_lizards-18	Mon-a066_38_lizards-6_4389	38	Mon-a066_38_lizards-18_2734	38	0	monitor lizards	Lizards	100.0
+taxongroup	Mar-bb56_70_iguanas-14	Mar-bb56_70_Conolophus-17	Mar-bb56_70_iguanas-14_2324	70	Mar-bb56_70_Conolophus-17_987	70	0	Galápagos land iguana	Conolophus	100.0
+taxongroup	Wat153a_6_lizard-9	Wat153a_6_lizard-9	Wat153a_6_lizard-9_4389	6	Wat153a_6_lizard-9_2734	6	0	monitor lizards	Lizards	100.0
+taxongroup	Kom-6ea1_247_lizard-62	Kom-6ea1_247_lizards-5	Kom-6ea1_247_lizard-62_4389	247	Kom-6ea1_247_lizards-5_2734	247	0	monitor lizards	Lizards	100.0
+taxongroup	Liz-2f75_236_lizards-2	Liz-2f75_236_lizards-2	Liz-2f75_236_lizards-2_4389	236	Liz-2f75_236_lizards-2_2734	236	0	monitor lizards	Lizards	100.0
+taxongroup	Liz-2f75_32_lizards-9	Liz-2f75_32_lizards-9	Liz-2f75_32_lizards-9_4389	32	Liz-2f75_32_lizards-9_2734	32	0	monitor lizards	Lizards	100.0
+taxongroup	Liz-2f75_55_lizards-2	Liz-2f75_55_lizards-2	Liz-2f75_55_lizards-2_4389	55	Liz-2f75_55_lizards-2_2734	55	0	monitor lizards	Lizards	100.0
+taxongroup	Liz-2f75_32_lizards-4	Liz-2f75_32_lizards-9	Liz-2f75_32_lizards-4_4389	32	Liz-2f75_32_lizards-9_2734	32	0	monitor lizards	Lizards	100.0
+taxongroup	Lizaf6e_16_lizards-30	Lizaf6e_16_lizards-14	Lizaf6e_16_lizards-30_4389	16	Lizaf6e_16_lizards-14_2734	16	0	monitor lizards	Lizards	100.0
+taxongroup	Lizaf6e_16_lizards-14	Lizaf6e_16_lizards-30	Lizaf6e_16_lizards-14_4389	16	Lizaf6e_16_lizards-30_2734	16	0	monitor lizards	Lizards	100.0
+taxongroup	Liz-2f75_61_lizards-7	Liz-2f75_61_lizards-7	Liz-2f75_61_lizards-7_4389	61	Liz-2f75_61_lizards-7_2734	61	0	monitor lizards	Lizards	100.0
+taxongroup	Liz-2f75_32_lizards-9	Liz-2f75_32_lizards-4	Liz-2f75_32_lizards-9_4389	32	Liz-2f75_32_lizards-4_2734	32	0	monitor lizards	Lizards	100.0
+taxongroup	Liz-2f75_50_lizards-2	Liz-2f75_50_lizards-2	Liz-2f75_50_lizards-2_4389	50	Liz-2f75_50_lizards-2_2734	50	0	monitor lizards	Lizards	100.0
+taxongroup	Liz-2f75_32_lizards-4	Liz-2f75_32_lizards-4	Liz-2f75_32_lizards-4_4389	32	Liz-2f75_32_lizards-4_2734	32	0	monitor lizards	Lizards	100.0
+taxongroup	Kom-6ea1_247_lizard-62	Kom-6ea1_247_lizard-62	Kom-6ea1_247_lizard-62_4389	247	Kom-6ea1_247_lizard-62_2734	247	0	monitor lizards	Lizards	100.0
+taxongroup	Kom-6ea1_247_lizards-5	Kom-6ea1_247_lizard-62	Kom-6ea1_247_lizards-5_4389	247	Kom-6ea1_247_lizard-62_2734	247	0	monitor lizards	Lizards	100.0
+taxongroup	Var-faa1_28_lizards-2	Var-faa1_28_lizards-2	Var-faa1_28_lizards-2_4389	28	Var-faa1_28_lizards-2_2734	28	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_58_lizard-2	Mon-a066_58_lizard-2	Mon-a066_58_lizard-2_4389	58	Mon-a066_58_lizard-2_2734	58	0	monitor lizards	Lizards	100.0
+taxongroup	Kom-6ea1_247_lizards-5	Kom-6ea1_247_lizards-5	Kom-6ea1_247_lizards-5_4389	247	Kom-6ea1_247_lizards-5_2734	247	0	monitor lizards	Lizards	100.0
+taxongroup	Kom-6ea1_2_lizard-22	Kom-6ea1_2_lizard-22	Kom-6ea1_2_lizard-22_4389	2	Kom-6ea1_2_lizard-22_2734	2	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_37_lizards-2	Mon-a066_37_lizards-2	Mon-a066_37_lizards-2_4389	37	Mon-a066_37_lizards-2_2734	37	0	monitor lizards	Lizards	100.0
+taxongroup	Par-5c6e_240_lizards-12	Par-5c6e_240_reptiles-2	Par-5c6e_240_lizards-12_4389	240	Par-5c6e_240_reptiles-2_419	240	0	monitor lizards	Reptiles	100.0
+taxongroup	Mon-a066_69_lizards-2	Mon-a066_69_reptile-9	Mon-a066_69_lizards-2_4389	69	Mon-a066_69_reptile-9_419	69	0	monitor lizards	Reptiles	100.0
+taxongroup	Cro-5646_355_lizards-17	Cro-5646_355_reptiles-3	Cro-5646_355_lizards-17_4389	355	Cro-5646_355_reptiles-3_419	355	0	monitor lizards	Reptiles	100.0
+taxongroup	Mon-a066_8_lizards-4	Mon-a066_8_reptiles-10	Mon-a066_8_lizards-4_4389	8	Mon-a066_8_reptiles-10_419	8	0	monitor lizards	Reptiles	100.0
+taxongroup	Mon-a066_43_lizards-17	Mon-a066_43_reptiles-3	Mon-a066_43_lizards-17_4389	43	Mon-a066_43_reptiles-3_419	43	0	monitor lizards	Reptiles	100.0
+taxongroup	Kom-6ea1_247_lizard-25	Kom-6ea1_247_reptiles-42	Kom-6ea1_247_lizard-25_4389	247	Kom-6ea1_247_reptiles-42_419	247	0	monitor lizards	Reptiles	100.0
+taxongroup	Kom-6ea1_247_lizard-62	Kom-6ea1_247_reptiles-42	Kom-6ea1_247_lizard-62_4389	247	Kom-6ea1_247_reptiles-42_419	247	0	monitor lizards	Reptiles	100.0
+taxongroup	Ven-071d_69_lizards-23	Ven-071d_69_reptiles-8	Ven-071d_69_lizards-23_4389	69	Ven-071d_69_reptiles-8_419	69	0	monitor lizards	Reptiles	100.0
+taxongroup	Ven-071d_69_lizard-14	Ven-071d_69_reptiles-8	Ven-071d_69_lizard-14_4389	69	Ven-071d_69_reptiles-8_419	69	0	monitor lizards	Reptiles	100.0
+taxongroup	Kom-6ea1_247_lizards-5	Kom-6ea1_247_reptiles-42	Kom-6ea1_247_lizards-5_4389	247	Kom-6ea1_247_reptiles-42_419	247	0	monitor lizards	Reptiles	100.0
+taxongroup	Kom-6ea1_247_lizards-5	Kom-6ea1_247_lizard-25	Kom-6ea1_247_lizards-5_4389	247	Kom-6ea1_247_lizard-25_2734	247	0	monitor lizards	Lizards	100.0
+taxongroup	Kom-6ea1_247_lizard-25	Kom-6ea1_247_lizards-5	Kom-6ea1_247_lizard-25_4389	247	Kom-6ea1_247_lizards-5_2734	247	0	monitor lizards	Lizards	100.0
+taxongroup	Kom-6ea1_247_lizard-25	Kom-6ea1_247_lizard-62	Kom-6ea1_247_lizard-25_4389	247	Kom-6ea1_247_lizard-62_2734	247	0	monitor lizards	Lizards	100.0
+taxongroup	Kom-6ea1_247_lizard-62	Kom-6ea1_247_lizard-25	Kom-6ea1_247_lizard-62_4389	247	Kom-6ea1_247_lizard-25_2734	247	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_153_lizard-2	Mon-a066_153_lizard-2	Mon-a066_153_lizard-2_4389	153	Mon-a066_153_lizard-2_2734	153	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_54_lizard-8	Mon-a066_54_lizard-8	Mon-a066_54_lizard-8_4389	54	Mon-a066_54_lizard-8_2734	54	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_155_lizard-2	Mon-a066_155_lizard-2	Mon-a066_155_lizard-2_4389	155	Mon-a066_155_lizard-2_2734	155	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_82_lizard-7	Mon-a066_82_lizards-23	Mon-a066_82_lizard-7_4389	82	Mon-a066_82_lizards-23_2734	82	0	monitor lizards	Lizards	100.0
+taxongroup	Komddae_15_lizards-11	Komddae_15_lizards-15	Komddae_15_lizards-11_4389	15	Komddae_15_lizards-15_2734	15	0	monitor lizards	Lizards	100.0
+taxongroup	Per-a3bf_46_lizards-5	Per-a3bf_46_lizards-5	Per-a3bf_46_lizards-5_4389	46	Per-a3bf_46_lizards-5_2734	46	0	monitor lizards	Lizards	100.0
+taxongroup	Var-faa1_5_lizard-9	Var-faa1_5_lizard-13	Var-faa1_5_lizard-9_4389	5	Var-faa1_5_lizard-13_2734	5	0	monitor lizards	Lizards	100.0
+taxongroup	Var-faa1_5_lizard-9	Var-faa1_5_lizard-9	Var-faa1_5_lizard-9_4389	5	Var-faa1_5_lizard-9_2734	5	0	monitor lizards	Lizards	100.0
+taxongroup	Var-faa1_28_lizards-11	Var-faa1_28_lizards-2	Var-faa1_28_lizards-11_4389	28	Var-faa1_28_lizards-2_2734	28	0	monitor lizards	Lizards	100.0
+taxongroup	Var-faa1_28_lizards-2	Var-faa1_28_lizards-11	Var-faa1_28_lizards-2_4389	28	Var-faa1_28_lizards-11_2734	28	0	monitor lizards	Lizards	100.0
+taxongroup	Var-faa1_14_lizard-8	Var-faa1_14_lizard-8	Var-faa1_14_lizard-8_4389	14	Var-faa1_14_lizard-8_2734	14	0	monitor lizards	Lizards	100.0
+taxongroup	Ven-071d_69_lizards-23	Ven-071d_69_lizards-23	Ven-071d_69_lizards-23_4389	69	Ven-071d_69_lizards-23_2734	69	0	monitor lizards	Lizards	100.0
+taxongroup	Ven-071d_69_lizards-23	Ven-071d_69_lizard-14	Ven-071d_69_lizards-23_4389	69	Ven-071d_69_lizard-14_2734	69	0	monitor lizards	Lizards	100.0
+taxongroup	Ven-071d_69_lizard-14	Ven-071d_69_lizard-14	Ven-071d_69_lizard-14_4389	69	Ven-071d_69_lizard-14_2734	69	0	monitor lizards	Lizards	100.0
+taxongroup	Ven-071d_69_lizard-14	Ven-071d_69_lizards-23	Ven-071d_69_lizard-14_4389	69	Ven-071d_69_lizards-23_2734	69	0	monitor lizards	Lizards	100.0
+taxongroup	Var-faa1_5_lizard-13	Var-faa1_5_lizard-9	Var-faa1_5_lizard-13_4389	5	Var-faa1_5_lizard-9_2734	5	0	monitor lizards	Lizards	100.0
+taxongroup	Var-faa1_28_lizards-11	Var-faa1_28_lizards-11	Var-faa1_28_lizards-11_4389	28	Var-faa1_28_lizards-11_2734	28	0	monitor lizards	Lizards	100.0
+taxongroup	Var-faa1_11_lizard-14	Var-faa1_11_lizard-14	Var-faa1_11_lizard-14_4389	11	Var-faa1_11_lizard-14_2734	11	0	monitor lizards	Lizards	100.0
+taxongroup	Rep-aa64_299_lizard-21	Rep-aa64_299_lizards-25	Rep-aa64_299_lizard-21_4389	299	Rep-aa64_299_lizards-25_2734	299	0	monitor lizards	Lizards	100.0
+taxongroup	Rep-aa64_299_lizard-21	Rep-aa64_299_lizards-13	Rep-aa64_299_lizard-21_4389	299	Rep-aa64_299_lizards-13_2734	299	0	monitor lizards	Lizards	100.0
+taxongroup	Rep-aa64_299_lizard-21	Rep-aa64_299_lizard-21	Rep-aa64_299_lizard-21_4389	299	Rep-aa64_299_lizard-21_2734	299	0	monitor lizards	Lizards	100.0
+taxongroup	Rep-aa64_224_lizards-10	Rep-aa64_224_lizards-10	Rep-aa64_224_lizards-10_4389	224	Rep-aa64_224_lizards-10_2734	224	0	monitor lizards	Lizards	100.0
+taxongroup	Rep-aa64_299_lizards-25	Rep-aa64_299_lizard-21	Rep-aa64_299_lizards-25_4389	299	Rep-aa64_299_lizard-21_2734	299	0	monitor lizards	Lizards	100.0
+taxongroup	Per52c4_2_lizards-10	Per52c4_2_lizards-10	Per52c4_2_lizards-10_4389	2	Per52c4_2_lizards-10_2734	2	0	monitor lizards	Lizards	100.0
+taxongroup	Per-a3bf_46_lizards-5	Per-a3bf_46_lizard-40	Per-a3bf_46_lizards-5_4389	46	Per-a3bf_46_lizard-40_2734	46	0	monitor lizards	Lizards	100.0
+taxongroup	Var-faa1_5_lizard-13	Var-faa1_5_lizard-13	Var-faa1_5_lizard-13_4389	5	Var-faa1_5_lizard-13_2734	5	0	monitor lizards	Lizards	100.0
+taxongroup	Kom-6ea1_247_lizard-25	Kom-6ea1_247_lizard-25	Kom-6ea1_247_lizard-25_4389	247	Kom-6ea1_247_lizard-25_2734	247	0	monitor lizards	Lizards	100.0
+taxongroup	Cro-5646_344_lizards-2	Cro-5646_344_lizards-2	Cro-5646_344_lizards-2_4389	344	Cro-5646_344_lizards-2_2734	344	0	monitor lizards	Lizards	100.0
+taxongroup	Asi-7d4f_111_lizards-2	Asi-7d4f_111_lizards-2	Asi-7d4f_111_lizards-2_4389	111	Asi-7d4f_111_lizards-2_2734	111	0	monitor lizards	Lizards	100.0
+taxongroup	Asi-7d4f_111_lizard-13	Asi-7d4f_111_lizard-13	Asi-7d4f_111_lizard-13_4389	111	Asi-7d4f_111_lizard-13_2734	111	0	monitor lizards	Lizards	100.0
+taxongroup	Cae-3f0c_154_lizards-29	Cae-3f0c_154_vertebrates-23	Cae-3f0c_154_lizards-29_5189	154	Cae-3f0c_154_vertebrates-23_3935	154	0	lizards	vertebrates	100.0
+taxongroup	Ani-2170_6_lizards-45	Ani-2170_6_reptiles-43	Ani-2170_6_lizards-45_5189	6	Ani-2170_6_reptiles-43_4021	6	0	lizards	reptiles	100.0
+taxongroup	All-7078_4_lizard-33	All-7078_4_reptile-37	All-7078_4_lizard-33_5189	4	All-7078_4_reptile-37_4021	4	0	lizards	reptiles	100.0
+taxongroup	All-7078_32_lizard-27	All-7078_32_reptile-31	All-7078_32_lizard-27_5189	32	All-7078_32_reptile-31_4021	32	0	lizards	reptiles	100.0
+taxongroup	Amp-436a_10_lizards-8	Amp-436a_10_reptiles-12	Amp-436a_10_lizards-8_5189	10	Amp-436a_10_reptiles-12_4021	10	0	lizards	reptiles	100.0
+taxongroup	Ang-7414_14_lizards-2	Ang-7414_14_reptiles-25	Ang-7414_14_lizards-2_5189	14	Ang-7414_14_reptiles-25_4021	14	0	lizards	reptiles	100.0
+taxongroup	Har-8a11_73_lizards-113	Har-8a11_73_squamata-87	Har-8a11_73_lizards-113_5189	73	Har-8a11_73_squamata-87_5516	73	0	lizards	squamata	100.0
+taxongroup	Pri-2545_312_lizards-43	Pri-2545_312_vertebrates-38	Pri-2545_312_lizards-43_5189	312	Pri-2545_312_vertebrates-38_3935	312	0	lizards	vertebrates	100.0
+taxongroup	Dip-c98d_261_lizards-24	Dip-c98d_261_vertebrates-2	Dip-c98d_261_lizards-24_5189	261	Dip-c98d_261_vertebrates-2_3935	261	0	lizards	vertebrates	100.0
+taxongroup	Pol-516e_97_lizards-16	Pol-516e_97_vertebrates-2	Pol-516e_97_lizards-16_5189	97	Pol-516e_97_vertebrates-2_3935	97	0	lizards	vertebrates	100.0
+taxongroup	Par-5c6e_114_lizards-21	Par-5c6e_114_vertebrate-9	Par-5c6e_114_lizards-21_5189	114	Par-5c6e_114_vertebrate-9_3935	114	0	lizards	vertebrates	100.0
+taxongroup	Par-5c6e_112_lizards-12	Par-5c6e_112_vertebrates-2	Par-5c6e_112_lizards-12_5189	112	Par-5c6e_112_vertebrates-2_3935	112	0	lizards	vertebrates	100.0
+taxongroup	Man-05b8_105_lizards-19	Man-05b8_105_vertebrates-16	Man-05b8_105_lizards-19_5189	105	Man-05b8_105_vertebrates-16_3935	105	0	lizards	vertebrates	100.0
+taxongroup	Fri-c770_83_lizards-2	Fri-c770_83_vertebrates-15	Fri-c770_83_lizards-2_5189	83	Fri-c770_83_vertebrates-15_3935	83	0	lizards	vertebrates	100.0
+taxongroup	Man-05b8_115_lizards-11	Man-05b8_115_vertebrates-6	Man-05b8_115_lizards-11_5189	115	Man-05b8_115_vertebrates-6_3935	115	0	lizards	vertebrates	100.0
+taxongroup	Asi-7d4f_115_lizards-10	Asi-7d4f_115_lizards-10	Asi-7d4f_115_lizards-10_4389	115	Asi-7d4f_115_lizards-10_2734	115	0	monitor lizards	Lizards	100.0
+taxongroup	Lon-7721_32_lizards-43	Lon-7721_32_vertebrates-39	Lon-7721_32_lizards-43_5189	32	Lon-7721_32_vertebrates-39_3935	32	0	lizards	vertebrates	100.0
+taxongroup	Gro-2286_18_lizards-19	Gro-2286_18_vertebrate-11	Gro-2286_18_lizards-19_5189	18	Gro-2286_18_vertebrate-11_3935	18	0	lizards	vertebrates	100.0
+taxongroup	Liz-2f75_48_Lizards-1	Liz-2f75_48_vertebrates-17	Liz-2f75_48_Lizards-1_5189	48	Liz-2f75_48_vertebrates-17_3935	48	0	lizards	vertebrates	100.0
+taxongroup	Kin-dc2e_75_lizards-19	Kin-dc2e_75_vertebrates-12	Kin-dc2e_75_lizards-19_5189	75	Kin-dc2e_75_vertebrates-12_3935	75	0	lizards	vertebrates	100.0
+taxongroup	Ant-f3cd_239_lizards-33	Ant-f3cd_239_vertebrates-27	Ant-f3cd_239_lizards-33_5189	239	Ant-f3cd_239_vertebrates-27_3935	239	0	lizards	vertebrates	100.0
+taxongroup	Ant-f3cd_239_lizard-56	Ant-f3cd_239_vertebrates-27	Ant-f3cd_239_lizard-56_5189	239	Ant-f3cd_239_vertebrates-27_3935	239	0	lizards	vertebrates	100.0
+taxongroup	Apa-3e1a_301_lizards-26	Apa-3e1a_301_vertebrates-2	Apa-3e1a_301_lizards-26_5189	301	Apa-3e1a_301_vertebrates-2_3935	301	0	lizards	vertebrates	100.0
+taxongroup	All-7078_343_lizards-39	All-7078_343_vertebrates-29	All-7078_343_lizards-39_5189	343	All-7078_343_vertebrates-29_3935	343	0	lizards	vertebrates	100.0
+taxongroup	Mar-bb56_297_iguanas-8	Mar-bb56_297_iguanas-8	Mar-bb56_297_iguanas-8_5221	297	Mar-bb56_297_iguanas-8_4130	297	0	marine iguana	iguanas	100.0
+taxongroup	Mar-bb56_312_iguanas-11	Mar-bb56_312_iguanas-11	Mar-bb56_312_iguanas-11_5221	312	Mar-bb56_312_iguanas-11_4130	312	0	marine iguana	iguanas	100.0
+taxongroup	Mar-bb56_213_iguanas-5	Mar-bb56_213_iguanas-5	Mar-bb56_213_iguanas-5_5221	213	Mar-bb56_213_iguanas-5_4130	213	0	marine iguana	iguanas	100.0
+taxongroup	Mar-bb56_32_iguana-4	Mar-bb56_32_iguana-4	Mar-bb56_32_iguana-4_5221	32	Mar-bb56_32_iguana-4_4130	32	0	marine iguana	iguanas	100.0
+taxongroup	Mar-bb56_25_iguanas-20	Mar-bb56_25_iguanas-20	Mar-bb56_25_iguanas-20_5221	25	Mar-bb56_25_iguanas-20_4130	25	0	marine iguana	iguanas	100.0
+taxongroup	Amp-436a_10_lizards-8	Amp-436a_10_reptiles-6	Amp-436a_10_lizards-8_5189	10	Amp-436a_10_reptiles-6_4021	10	0	lizards	reptiles	100.0
+taxongroup	Liz-2f75_157_lizards-7	Liz-2f75_157_reptiles-24	Liz-2f75_157_lizards-7_5189	157	Liz-2f75_157_reptiles-24_4021	157	0	lizards	reptiles	100.0
+taxongroup	Liz-2f75_198_lizards-29	Liz-2f75_198_reptiles-2	Liz-2f75_198_lizards-29_5189	198	Liz-2f75_198_reptiles-2_4021	198	0	lizards	reptiles	100.0
+taxongroup	Mon-a066_39_lizards-7	Mon-a066_39_reptiles-17	Mon-a066_39_lizards-7_5189	39	Mon-a066_39_reptiles-17_4021	39	0	lizards	reptiles	100.0
+taxongroup	Liz-2f75_22_lizards-9	Liz-2f75_22_reptiles-4	Liz-2f75_22_lizards-9_5189	22	Liz-2f75_22_reptiles-4_4021	22	0	lizards	reptiles	100.0
+taxongroup	Mar-bb56_3_lizards-4	Mar-bb56_3_reptile-10	Mar-bb56_3_lizards-4_5189	3	Mar-bb56_3_reptile-10_4021	3	0	lizards	reptiles	100.0
+taxongroup	Igu-7d5f_34_lizards-12	Igu-7d5f_34_reptiles-29	Igu-7d5f_34_lizards-12_5189	34	Igu-7d5f_34_reptiles-29_4021	34	0	lizards	reptiles	100.0
+taxongroup	Igu-7d5f_36_lizards-7	Igu-7d5f_36_reptiles-25	Igu-7d5f_36_lizards-7_5189	36	Igu-7d5f_36_reptiles-25_4021	36	0	lizards	reptiles	100.0
+taxongroup	Liz-2f75_207_lizards-5	Liz-2f75_207_reptiles-11	Liz-2f75_207_lizards-5_5189	207	Liz-2f75_207_reptiles-11_4021	207	0	lizards	reptiles	100.0
+taxongroup	Sau-cca0_2_lizard-26	Sau-cca0_2_reptile-13	Sau-cca0_2_lizard-26_5189	2	Sau-cca0_2_reptile-13_4021	2	0	lizards	reptiles	100.0
+taxongroup	Liz-2f75_208_Lizards-1	Liz-2f75_208_reptiles-10	Liz-2f75_208_Lizards-1_5189	208	Liz-2f75_208_reptiles-10_4021	208	0	lizards	reptiles	100.0
+taxongroup	Lon-b0af_465_lizards-12	Lon-b0af_465_reptiles-3	Lon-b0af_465_lizards-12_5189	465	Lon-b0af_465_reptiles-3_4021	465	0	lizards	reptiles	100.0
+taxongroup	Lizaf6e_15_lizards-10	Lizaf6e_15_reptiles-23	Lizaf6e_15_lizards-10_5189	15	Lizaf6e_15_reptiles-23_4021	15	0	lizards	reptiles	100.0
+taxongroup	Igu-76d2_71_lizards-29	Igu-76d2_71_reptiles-67	Igu-76d2_71_lizards-29_5189	71	Igu-76d2_71_reptiles-67_4021	71	0	lizards	reptiles	100.0
+taxongroup	Rep-aa64_56_lizards-10	Rep-aa64_56_reptiles-7	Rep-aa64_56_lizards-10_5189	56	Rep-aa64_56_reptiles-7_4021	56	0	lizards	reptiles	100.0
+taxongroup	Rep-aa64_151_lizards-43	Rep-aa64_151_reptiles-14	Rep-aa64_151_lizards-43_5189	151	Rep-aa64_151_reptiles-14_4021	151	0	lizards	reptiles	100.0
+taxongroup	Rep-aa64_400_lizards-13	Rep-aa64_400_reptiles-10	Rep-aa64_400_lizards-13_5189	400	Rep-aa64_400_reptiles-10_4021	400	0	lizards	reptiles	100.0
+taxongroup	Des-000c_343_lizards-9	Des-000c_343_Reptiles-1	Des-000c_343_lizards-9_5189	343	Des-000c_343_Reptiles-1_4021	343	0	lizards	reptiles	100.0
+taxongroup	San-a712_125_lizard-17	San-a712_125_reptile-23	San-a712_125_lizard-17_5189	125	San-a712_125_reptile-23_4021	125	0	lizards	reptiles	100.0
+taxongroup	Rep-aa64_151_lizards-43	Rep-aa64_151_reptiles-8	Rep-aa64_151_lizards-43_5189	151	Rep-aa64_151_reptiles-8_4021	151	0	lizards	reptiles	100.0
+taxongroup	Rep-aa64_55_lizard-19	Rep-aa64_55_reptiles-22	Rep-aa64_55_lizard-19_5189	55	Rep-aa64_55_reptiles-22_4021	55	0	lizards	reptiles	100.0
+taxongroup	Rep-aa64_26_lizards-33	Rep-aa64_26_reptile-9	Rep-aa64_26_lizards-33_5189	26	Rep-aa64_26_reptile-9_4021	26	0	lizards	reptiles	100.0
+taxongroup	Rep-aa64_168_lizard-40	Rep-aa64_168_reptiles-18	Rep-aa64_168_lizard-40_5189	168	Rep-aa64_168_reptiles-18_4021	168	0	lizards	reptiles	100.0
+taxongroup	Rep-aa64_168_lizard-40	Rep-aa64_168_reptiles-5	Rep-aa64_168_lizard-40_5189	168	Rep-aa64_168_reptiles-5_4021	168	0	lizards	reptiles	100.0
+taxongroup	Ichdf71_17_lizards-7	Ichdf71_17_reptile-17	Ichdf71_17_lizards-7_5189	17	Ichdf71_17_reptile-17_4021	17	0	lizards	reptiles	100.0
+taxongroup	Ich-89df_5_lizard-2	Ich-89df_5_reptiles-12	Ich-89df_5_lizard-2_5189	5	Ich-89df_5_reptiles-12_4021	5	0	lizards	reptiles	100.0
+taxongroup	Ind-4264_185_lizards-28	Ind-4264_185_reptiles-24	Ind-4264_185_lizards-28_5189	185	Ind-4264_185_reptiles-24_4021	185	0	lizards	reptiles	100.0
+taxongroup	Mar-bb56_92_iguanas-20	Mar-bb56_92_iguanas-20	Mar-bb56_92_iguanas-20_5221	92	Mar-bb56_92_iguanas-20_4130	92	0	marine iguana	iguanas	100.0
+taxongroup	Mar-bb56_264_iguanas-12	Mar-bb56_264_iguanas-12	Mar-bb56_264_iguanas-12_5221	264	Mar-bb56_264_iguanas-12_4130	264	0	marine iguana	iguanas	100.0
+taxongroup	Mar-bb56_102_iguanas-6	Mar-bb56_102_iguanas-6	Mar-bb56_102_iguanas-6_5221	102	Mar-bb56_102_iguanas-6_4130	102	0	marine iguana	iguanas	100.0
+taxongroup	Rep-aa64_299_lizards-13	Rep-aa64_299_lizards-13	Rep-aa64_299_lizards-13_4389	299	Rep-aa64_299_lizards-13_2734	299	0	monitor lizards	Lizards	100.0
+taxongroup	Per-a3bf_46_lizard-40	Per-a3bf_46_lizards-5	Per-a3bf_46_lizard-40_4389	46	Per-a3bf_46_lizards-5_2734	46	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_35_lizards-2	Mon-a066_35_lizards-2	Mon-a066_35_lizards-2_4389	35	Mon-a066_35_lizards-2_2734	35	0	monitor lizards	Lizards	100.0
+taxongroup	Var-faa1_3_lizard-33	Var-faa1_3_lizards-10	Var-faa1_3_lizard-33_4389	3	Var-faa1_3_lizards-10_2734	3	0	monitor lizards	Lizards	100.0
+taxongroup	Squ-be6b_20_lizards-35	Squ-be6b_20_lizards-38	Squ-be6b_20_lizards-35_4389	20	Squ-be6b_20_lizards-38_2734	20	0	monitor lizards	Lizards	100.0
+taxongroup	Squ-be6b_95_lizards-38	Squ-be6b_95_lizards-38	Squ-be6b_95_lizards-38_4389	95	Squ-be6b_95_lizards-38_2734	95	0	monitor lizards	Lizards	100.0
+taxongroup	San-6e1f_2_lizard-33	San-6e1f_2_lizard-33	San-6e1f_2_lizard-33_4389	2	San-6e1f_2_lizard-33_2734	2	0	monitor lizards	Lizards	100.0
+taxongroup	Sna-dfa9_257_lizard-29	Sna-dfa9_257_lizard-12	Sna-dfa9_257_lizard-29_4389	257	Sna-dfa9_257_lizard-12_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Sna-dfa9_257_lizard-29	Sna-dfa9_257_lizards-32	Sna-dfa9_257_lizard-29_4389	257	Sna-dfa9_257_lizards-32_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Sna-dfa9_257_lizard-29	Sna-dfa9_257_lizard-29	Sna-dfa9_257_lizard-29_4389	257	Sna-dfa9_257_lizard-29_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Sna-dfa9_257_lizards-32	Sna-dfa9_257_lizards-32	Sna-dfa9_257_lizards-32_4389	257	Sna-dfa9_257_lizards-32_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Sna-dfa9_257_lizards-32	Sna-dfa9_257_lizards-22	Sna-dfa9_257_lizards-32_4389	257	Sna-dfa9_257_lizards-22_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Sna-dfa9_257_lizards-22	Sna-dfa9_257_lizards-22	Sna-dfa9_257_lizards-22_4389	257	Sna-dfa9_257_lizards-22_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Sna-dfa9_257_lizards-22	Sna-dfa9_257_lizards-32	Sna-dfa9_257_lizards-22_4389	257	Sna-dfa9_257_lizards-32_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Var-faa1_3_lizard-33	Var-faa1_3_lizard-33	Var-faa1_3_lizard-33_4389	3	Var-faa1_3_lizard-33_2734	3	0	monitor lizards	Lizards	100.0
+taxongroup	Var-faa1_3_lizards-10	Var-faa1_3_lizards-10	Var-faa1_3_lizards-10_4389	3	Var-faa1_3_lizards-10_2734	3	0	monitor lizards	Lizards	100.0
+taxongroup	Var-faa1_12_lizard-39	Var-faa1_12_lizard-39	Var-faa1_12_lizard-39_4389	12	Var-faa1_12_lizard-39_2734	12	0	monitor lizards	Lizards	100.0
+taxongroup	Squ-be6b_95_lizards-44	Squ-be6b_95_lizards-44	Squ-be6b_95_lizards-44_4389	95	Squ-be6b_95_lizards-44_2734	95	0	monitor lizards	Lizards	100.0
+taxongroup	Squ-be6b_82_lizards-15	Squ-be6b_82_lizards-15	Squ-be6b_82_lizards-15_4389	82	Squ-be6b_82_lizards-15_2734	82	0	monitor lizards	Lizards	100.0
+taxongroup	Squ-be6b_95_lizards-38	Squ-be6b_95_lizards-44	Squ-be6b_95_lizards-38_4389	95	Squ-be6b_95_lizards-44_2734	95	0	monitor lizards	Lizards	100.0
+taxongroup	Squ-be6b_20_lizards-35	Squ-be6b_20_lizards-35	Squ-be6b_20_lizards-35_4389	20	Squ-be6b_20_lizards-35_2734	20	0	monitor lizards	Lizards	100.0
+taxongroup	Var-faa1_3_lizards-10	Var-faa1_3_lizard-33	Var-faa1_3_lizards-10_4389	3	Var-faa1_3_lizard-33_2734	3	0	monitor lizards	Lizards	100.0
+taxongroup	Per-a3bf_2_lizard-12	Per-a3bf_2_lizard-12	Per-a3bf_2_lizard-12_4389	2	Per-a3bf_2_lizard-12_2734	2	0	monitor lizards	Lizards	100.0
+taxongroup	Asi-7d4f_111_lizard-13	Asi-7d4f_111_lizards-2	Asi-7d4f_111_lizard-13_4389	111	Asi-7d4f_111_lizards-2_2734	111	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_51_lizards-5	Mon-a066_51_lizards-5	Mon-a066_51_lizards-5_4389	51	Mon-a066_51_lizards-5_2734	51	0	monitor lizards	Lizards	100.0
+taxongroup	Lizaf6e_16_lizards-30	Lizaf6e_16_lizards-30	Lizaf6e_16_lizards-30_4389	16	Lizaf6e_16_lizards-30_2734	16	0	monitor lizards	Lizards	100.0
+taxongroup	Lizaf6e_16_lizards-30	Lizaf6e_16_lizards-24	Lizaf6e_16_lizards-30_4389	16	Lizaf6e_16_lizards-24_2734	16	0	monitor lizards	Lizards	100.0
+taxongroup	Asi-7d4f_111_lizards-2	Asi-7d4f_111_lizard-13	Asi-7d4f_111_lizards-2_4389	111	Asi-7d4f_111_lizard-13_2734	111	0	monitor lizards	Lizards	100.0
+taxongroup	Rep-aa64_299_lizards-25	Rep-aa64_299_lizards-13	Rep-aa64_299_lizards-25_4389	299	Rep-aa64_299_lizards-13_2734	299	0	monitor lizards	Lizards	100.0
+taxongroup	Rep-aa64_299_lizards-13	Rep-aa64_299_lizard-21	Rep-aa64_299_lizards-13_4389	299	Rep-aa64_299_lizard-21_2734	299	0	monitor lizards	Lizards	100.0
+taxongroup	Nil-600c_313_lizards-18	Nil-600c_313_animals-21	Nil-600c_313_lizards-18_4389	313	Nil-600c_313_animals-21_44	313	0	monitor lizards	Animals	100.0
+taxongroup	Rep-aa64_299_lizards-13	Rep-aa64_299_lizards-25	Rep-aa64_299_lizards-13_4389	299	Rep-aa64_299_lizards-25_2734	299	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_35_lizards-2	Mon-a066_35_animals-7	Mon-a066_35_lizards-2_4389	35	Mon-a066_35_animals-7_44	35	0	monitor lizards	Animals	100.0
+taxongroup	Sna-dfa9_257_lizard-12	Sna-dfa9_257_lizard-29	Sna-dfa9_257_lizard-12_4389	257	Sna-dfa9_257_lizard-29_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Squ-be6b_20_lizards-38	Squ-be6b_20_lizards-35	Squ-be6b_20_lizards-38_4389	20	Squ-be6b_20_lizards-35_2734	20	0	monitor lizards	Lizards	100.0
+taxongroup	Squ-be6b_20_lizards-38	Squ-be6b_20_lizards-38	Squ-be6b_20_lizards-38_4389	20	Squ-be6b_20_lizards-38_2734	20	0	monitor lizards	Lizards	100.0
+taxongroup	Sna-dfa9_257_lizard-12	Sna-dfa9_257_lizards-22	Sna-dfa9_257_lizard-12_4389	257	Sna-dfa9_257_lizards-22_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Sna-dfa9_257_lizards-22	Sna-dfa9_257_lizard-29	Sna-dfa9_257_lizards-22_4389	257	Sna-dfa9_257_lizard-29_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Sna-dfa9_257_lizard-12	Sna-dfa9_257_lizard-12	Sna-dfa9_257_lizard-12_4389	257	Sna-dfa9_257_lizard-12_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Sna-dfa9_257_lizards-22	Sna-dfa9_257_lizard-12	Sna-dfa9_257_lizards-22_4389	257	Sna-dfa9_257_lizard-12_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Sna-dfa9_257_lizards-32	Sna-dfa9_257_lizard-12	Sna-dfa9_257_lizards-32_4389	257	Sna-dfa9_257_lizard-12_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Sna-dfa9_257_lizard-12	Sna-dfa9_257_lizards-32	Sna-dfa9_257_lizard-12_4389	257	Sna-dfa9_257_lizards-32_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Squ-be6b_95_lizards-44	Squ-be6b_95_lizards-38	Squ-be6b_95_lizards-44_4389	95	Squ-be6b_95_lizards-38_2734	95	0	monitor lizards	Lizards	100.0
+taxongroup	Sna-dfa9_257_lizard-29	Sna-dfa9_257_lizards-22	Sna-dfa9_257_lizard-29_4389	257	Sna-dfa9_257_lizards-22_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Per-a3bf_46_lizard-40	Per-a3bf_46_lizard-40	Per-a3bf_46_lizard-40_4389	46	Per-a3bf_46_lizard-40_2734	46	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_2_lizards-2	Mon-a066_2_lizards-2	Mon-a066_2_lizards-2_4389	2	Mon-a066_2_lizards-2_2734	2	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_97_lizard-2	Mon-a066_97_lizard-2	Mon-a066_97_lizard-2_4389	97	Mon-a066_97_lizard-2_2734	97	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_30_lizards-3	Mon-a066_30_lizards-3	Mon-a066_30_lizards-3_4389	30	Mon-a066_30_lizards-3_2734	30	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_34_lizard-2	Mon-a066_34_lizard-2	Mon-a066_34_lizard-2_4389	34	Mon-a066_34_lizard-2_2734	34	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_2_lizards-4	Mon-a066_2_lizards-2	Mon-a066_2_lizards-4_4389	2	Mon-a066_2_lizards-2_2734	2	0	monitor lizards	Lizards	100.0
+taxongroup	Sna-dfa9_257_lizards-32	Sna-dfa9_257_lizard-29	Sna-dfa9_257_lizards-32_4389	257	Sna-dfa9_257_lizard-29_2734	257	0	monitor lizards	Lizards	100.0
+taxongroup	Par-5c6e_240_lizards-12	Par-5c6e_240_lizards-12	Par-5c6e_240_lizards-12_4389	240	Par-5c6e_240_lizards-12_2734	240	0	monitor lizards	Lizards	100.0
+taxongroup	Nil-600c_313_lizards-18	Nil-600c_313_lizards-18	Nil-600c_313_lizards-18_4389	313	Nil-600c_313_lizards-18_2734	313	0	monitor lizards	Lizards	100.0
+taxongroup	Mone503_2_lizards-2	Mone503_2_lizards-2	Mone503_2_lizards-2_4389	2	Mone503_2_lizards-2_2734	2	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_96_lizards-23	Mon-a066_96_lizards-23	Mon-a066_96_lizards-23_4389	96	Mon-a066_96_lizards-23_2734	96	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_9_lizard-2	Mon-a066_9_lizard-2	Mon-a066_9_lizard-2_4389	9	Mon-a066_9_lizard-2_2734	9	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_2_lizards-2	Mon-a066_2_lizards-4	Mon-a066_2_lizards-2_4389	2	Mon-a066_2_lizards-4_2734	2	0	monitor lizards	Lizards	100.0
+taxongroup	Rep-aa64_299_lizards-25	Rep-aa64_299_lizards-25	Rep-aa64_299_lizards-25_4389	299	Rep-aa64_299_lizards-25_2734	299	0	monitor lizards	Lizards	100.0
+taxongroup	Rod-7dc6_454_lizards-11	Rod-7dc6_454_lizards-11	Rod-7dc6_454_lizards-11_4389	454	Rod-7dc6_454_lizards-11_2734	454	0	monitor lizards	Lizards	100.0
+taxongroup	Mon-a066_2_lizards-2	Mon-a066_2_Varanidae-17	Mon-a066_2_lizards-2_4389	2	Mon-a066_2_Varanidae-17_859	2	0	monitor lizards	Varanidae	100.0
+taxongroup	San-6e1f_2_lizard-33	San-6e1f_2_Varanidae-37	San-6e1f_2_lizard-33_4389	2	San-6e1f_2_Varanidae-37_859	2	0	monitor lizards	Varanidae	100.0
+taxongroup	Var-faa1_12_lizard-39	Var-faa1_12_Varanidae-11	Var-faa1_12_lizard-39_4389	12	Var-faa1_12_Varanidae-11_859	12	0	monitor lizards	Varanidae	100.0
+taxongroup	Asi-7d4f_2_monitor-4	Asi-7d4f_2_lizard-13	Asi-7d4f_2_monitor-4_5605	2	Asi-7d4f_2_lizard-13_2734	2	0	water monitor	Lizards	100.0
+taxongroup	Asi-7d4f_11_monitor-14	Asi-7d4f_11_lizard-28	Asi-7d4f_11_monitor-14_5605	11	Asi-7d4f_11_lizard-28_2734	11	0	water monitor	Lizards	100.0
+taxongroup	Asi-7d4f_11_monitor-14	Asi-7d4f_11_lizard-25	Asi-7d4f_11_monitor-14_5605	11	Asi-7d4f_11_lizard-25_2734	11	0	water monitor	Lizards	100.0
+taxongroup	Asi-7d4f_11_monitor-10	Asi-7d4f_11_lizard-32	Asi-7d4f_11_monitor-10_5605	11	Asi-7d4f_11_lizard-32_2734	11	0	water monitor	Lizards	100.0
+taxongroup	Asi-7d4f_11_monitor-10	Asi-7d4f_11_lizard-28	Asi-7d4f_11_monitor-10_5605	11	Asi-7d4f_11_lizard-28_2734	11	0	water monitor	Lizards	100.0
+taxongroup	Asi-7d4f_11_monitor-10	Asi-7d4f_11_lizard-25	Asi-7d4f_11_monitor-10_5605	11	Asi-7d4f_11_lizard-25_2734	11	0	water monitor	Lizards	100.0
+taxongroup	Asi-7d4f_11_monitor-10	Asi-7d4f_11_lizard-22	Asi-7d4f_11_monitor-10_5605	11	Asi-7d4f_11_lizard-22_2734	11	0	water monitor	Lizards	100.0
+taxongroup	Asi-7d4f_138_monitor-9	Asi-7d4f_138_Varanus-11	Asi-7d4f_138_monitor-9_5605	138	Asi-7d4f_138_Varanus-11_1146	138	0	water monitor	Varanus	100.0
+taxongroup	Asi-7d4f_145_monitor-8	Asi-7d4f_145_Varanus-10	Asi-7d4f_145_monitor-8_5605	145	Asi-7d4f_145_Varanus-10_1146	145	0	water monitor	Varanus	100.0
+taxongroup	Asi-7d4f_2_monitor-4	Asi-7d4f_2_Varanus-6	Asi-7d4f_2_monitor-4_5605	2	Asi-7d4f_2_Varanus-6_1146	2	0	water monitor	Varanus	100.0
+taxongroup	Asi-7d4f_11_monitor-19	Asi-7d4f_11_lizard-22	Asi-7d4f_11_monitor-19_5605	11	Asi-7d4f_11_lizard-22_5189	11	0	water monitor	lizards	100.0
+taxongroup	Asi-7d4f_11_monitor-35	Asi-7d4f_11_lizard-32	Asi-7d4f_11_monitor-35_5605	11	Asi-7d4f_11_lizard-32_5189	11	0	water monitor	lizards	100.0
+taxongroup	Asi-7d4f_11_monitor-35	Asi-7d4f_11_lizard-28	Asi-7d4f_11_monitor-35_5605	11	Asi-7d4f_11_lizard-28_5189	11	0	water monitor	lizards	100.0
+taxongroup	Asi-7d4f_11_monitor-35	Asi-7d4f_11_lizard-25	Asi-7d4f_11_monitor-35_5605	11	Asi-7d4f_11_lizard-25_5189	11	0	water monitor	lizards	100.0
+taxongroup	Asi-7d4f_11_monitor-35	Asi-7d4f_11_lizard-22	Asi-7d4f_11_monitor-35_5605	11	Asi-7d4f_11_lizard-22_5189	11	0	water monitor	lizards	100.0
+taxongroup	Asi-7d4f_11_monitor-19	Asi-7d4f_11_lizard-32	Asi-7d4f_11_monitor-19_5605	11	Asi-7d4f_11_lizard-32_5189	11	0	water monitor	lizards	100.0
+taxongroup	Asi-7d4f_11_monitor-19	Asi-7d4f_11_lizard-28	Asi-7d4f_11_monitor-19_5605	11	Asi-7d4f_11_lizard-28_5189	11	0	water monitor	lizards	100.0
+taxongroup	Asi-7d4f_11_monitor-19	Asi-7d4f_11_lizard-25	Asi-7d4f_11_monitor-19_5605	11	Asi-7d4f_11_lizard-25_5189	11	0	water monitor	lizards	100.0
+taxongroup	Asi-7d4f_98_monitors-8	Asi-7d4f_98_lizard-28	Asi-7d4f_98_monitors-8_5605	98	Asi-7d4f_98_lizard-28_5189	98	0	water monitor	lizards	100.0
+taxongroup	Asi-7d4f_11_monitor-14	Asi-7d4f_11_lizard-22	Asi-7d4f_11_monitor-14_5605	11	Asi-7d4f_11_lizard-22_5189	11	0	water monitor	lizards	100.0
+taxongroup	Asi-7d4f_11_monitor-14	Asi-7d4f_11_lizard-32	Asi-7d4f_11_monitor-14_5605	11	Asi-7d4f_11_lizard-32_5189	11	0	water monitor	lizards	100.0
+taxongroup	San-6e1f_2_goanna-19	San-6e1f_2_lizard-33	San-6e1f_2_goanna-19_5442	2	San-6e1f_2_lizard-33_2734	2	0	sand goanna	Lizards	100.0
+taxongroup	San-6e1f_2_goanna-3	San-6e1f_2_lizard-33	San-6e1f_2_goanna-3_5442	2	San-6e1f_2_lizard-33_2734	2	0	sand goanna	Lizards	100.0
+taxongroup	San-6e1f_2_goanna-19	San-6e1f_2_Varanidae-37	San-6e1f_2_goanna-19_5442	2	San-6e1f_2_Varanidae-37_859	2	0	sand goanna	Varanidae	100.0
+taxongroup	San-6e1f_2_goanna-3	San-6e1f_2_Varanidae-37	San-6e1f_2_goanna-3_5442	2	San-6e1f_2_Varanidae-37_859	2	0	sand goanna	Varanidae	100.0
+taxongroup	San-6e1f_2_goanna-19	San-6e1f_2_Varanus-5	San-6e1f_2_goanna-19_5442	2	San-6e1f_2_Varanus-5_1146	2	0	sand goanna	Varanus	100.0
+taxongroup	San-6e1f_2_goanna-3	San-6e1f_2_Varanus-5	San-6e1f_2_goanna-3_5442	2	San-6e1f_2_Varanus-5_1146	2	0	sand goanna	Varanus	100.0
+taxongroup	Aga7800_1_devil-21	Aga7800_1_lizards-7	Aga7800_1_devil-21_5554	1	Aga7800_1_lizards-7_444	1	0	thorny devil	Agamid lizards	100.0
+taxongroup	Aga7800_1_devil-21	Aga7800_1_lizards-2	Aga7800_1_devil-21_5554	1	Aga7800_1_lizards-2_444	1	0	thorny devil	Agamid lizards	100.0
+taxongroup	Aga7800_1_devil-21	Aga7800_1_lizard-25	Aga7800_1_devil-21_5554	1	Aga7800_1_lizard-25_444	1	0	thorny devil	Agamid lizards	100.0
+taxongroup	Tho-9ab9_9_devil-3	Tho-9ab9_9_lizards-15	Tho-9ab9_9_devil-3_5554	9	Tho-9ab9_9_lizards-15_2734	9	0	thorny devil	Lizards	100.0
+taxongroup	Tho-9ab9_2_devil-3	Tho-9ab9_2_lizard-30	Tho-9ab9_2_devil-3_5554	2	Tho-9ab9_2_lizard-30_5189	2	0	thorny devil	lizards	100.0
+taxongroup	Var-faa1_12_lizard-39	Var-faa1_12_Varanidae-42	Var-faa1_12_lizard-39_4389	12	Var-faa1_12_Varanidae-42_859	12	0	monitor lizards	Varanidae	100.0
+taxongroup	Asi-7d4f_15_lizards-10	Asi-7d4f_15_Varanidae-3	Asi-7d4f_15_lizards-10_4389	15	Asi-7d4f_15_Varanidae-3_859	15	0	monitor lizards	Varanidae	100.0
+taxongroup	Mon-a066_2_lizards-4	Mon-a066_2_Varanidae-17	Mon-a066_2_lizards-4_4389	2	Mon-a066_2_Varanidae-17_859	2	0	monitor lizards	Varanidae	100.0
+taxongroup	Eur-3123_212_lizards-20	Eur-3123_212_reptiles-16	Eur-3123_212_lizards-20_5189	212	Eur-3123_212_reptiles-16_4021	212	0	lizards	reptiles	100.0
+taxongroup	Sau-cca0_10_lizard-11	Sau-cca0_10_reptiles-31	Sau-cca0_10_lizard-11_2734	10	Sau-cca0_10_reptiles-31_4021	10	0	Lizards	reptiles	100.0
+taxongroup	Sana320_9_lizards-9	Sana320_9_reptile-16	Sana320_9_lizards-9_2734	9	Sana320_9_reptile-16_4021	9	0	Lizards	reptiles	100.0
+taxongroup	Rep-aa64_400_lizard-25	Rep-aa64_400_reptiles-10	Rep-aa64_400_lizard-25_2734	400	Rep-aa64_400_reptiles-10_4021	400	0	Lizards	reptiles	100.0
+taxongroup	Aus-e5de_84_lizards-27	Aus-e5de_84_animals-23	Aus-e5de_84_lizards-27_2734	84	Aus-e5de_84_animals-23_3812	84	0	Lizards	animals	100.0
+taxongroup	Sau-cca0_10_lizards-28	Sau-cca0_10_reptiles-31	Sau-cca0_10_lizards-28_2734	10	Sau-cca0_10_reptiles-31_4021	10	0	Lizards	reptiles	100.0
+taxongroup	Amp-436a_162_lizards-26	Amp-436a_162_animals-22	Amp-436a_162_lizards-26_2734	162	Amp-436a_162_animals-22_3812	162	0	Lizards	animals	100.0
+taxongroup	Ani-57f1_298_lizard-34	Ani-57f1_298_animal-11	Ani-57f1_298_lizard-34_2734	298	Ani-57f1_298_animal-11_3812	298	0	Lizards	animals	100.0
+taxongroup	Rep-aa64_42_lizards-18	Rep-aa64_42_reptiles-38	Rep-aa64_42_lizards-18_2734	42	Rep-aa64_42_reptiles-38_4021	42	0	Lizards	reptiles	100.0
+taxongroup	Rep-aa64_42_lizards-18	Rep-aa64_42_reptile-29	Rep-aa64_42_lizards-18_2734	42	Rep-aa64_42_reptile-29_4021	42	0	Lizards	reptiles	100.0
+taxongroup	Rep-aa64_387_lizards-9	Rep-aa64_387_reptiles-3	Rep-aa64_387_lizards-9_2734	387	Rep-aa64_387_reptiles-3_4021	387	0	Lizards	reptiles	100.0
+taxongroup	Pte-62aa_2_lizard-13	Pte-62aa_2_reptiles-22	Pte-62aa_2_lizard-13_2734	2	Pte-62aa_2_reptiles-22_4021	2	0	Lizards	reptiles	100.0
+taxongroup	Din-756f_103_lizards-8	Din-756f_103_Reptiles-50	Din-756f_103_lizards-8_2734	103	Din-756f_103_Reptiles-50_4021	103	0	Lizards	reptiles	100.0
+taxongroup	Din-756f_104_lizard-27	Din-756f_104_reptile-29	Din-756f_104_lizard-27_2734	104	Din-756f_104_reptile-29_4021	104	0	Lizards	reptiles	100.0
+taxongroup	Par-5c6e_238_lizards-33	Par-5c6e_238_reptiles-2	Par-5c6e_238_lizards-33_2734	238	Par-5c6e_238_reptiles-2_4021	238	0	Lizards	reptiles	100.0
+taxongroup	Sana320_15_lizards-5	Sana320_15_reptiles-12	Sana320_15_lizards-5_2734	15	Sana320_15_reptiles-12_4021	15	0	Lizards	reptiles	100.0
+taxongroup	Par-5c6e_102_lizards-14	Par-5c6e_102_reptiles-11	Par-5c6e_102_lizards-14_2734	102	Par-5c6e_102_reptiles-11_4021	102	0	Lizards	reptiles	100.0
+taxongroup	Par-5c6e_238_lizards-8	Par-5c6e_238_reptiles-2	Par-5c6e_238_lizards-8_2734	238	Par-5c6e_238_reptiles-2_4021	238	0	Lizards	reptiles	100.0
+taxongroup	Ple-3991_2_lizard-18	Ple-3991_2_reptiles-28	Ple-3991_2_lizard-18_2734	2	Ple-3991_2_reptiles-28_4021	2	0	Lizards	reptiles	100.0
+taxongroup	Ple-f864_49_lizard-23	Ple-f864_49_reptile-17	Ple-f864_49_lizard-23_2734	49	Ple-f864_49_reptile-17_4021	49	0	Lizards	reptiles	100.0
+taxongroup	Ple-f864_2_lizard-35	Ple-f864_2_reptiles-49	Ple-f864_2_lizard-35_2734	2	Ple-f864_2_reptiles-49_4021	2	0	Lizards	reptiles	100.0
+taxongroup	Mon-a066_11_Varanus-4	Mon-a066_11_lizard-45	Mon-a066_11_Varanus-4_1146	11	Mon-a066_11_lizard-45_2734	11	0	Varanus	Lizards	100.0
+taxongroup	Mon-a066_2_Varanus-8	Mon-a066_2_lizards-2	Mon-a066_2_Varanus-8_1146	2	Mon-a066_2_lizards-2_2734	2	0	Varanus	Lizards	100.0
+taxongroup	Var-faa1_3_Varanus-16	Var-faa1_3_lizards-10	Var-faa1_3_Varanus-16_1146	3	Var-faa1_3_lizards-10_2734	3	0	Varanus	Lizards	100.0
+taxongroup	Var-faa1_3_Varanus-16	Var-faa1_3_lizard-33	Var-faa1_3_Varanus-16_1146	3	Var-faa1_3_lizard-33_2734	3	0	Varanus	Lizards	100.0
+taxongroup	Kom-6ea1_247_Varanus-48	Kom-6ea1_247_lizard-62	Kom-6ea1_247_Varanus-48_1146	247	Kom-6ea1_247_lizard-62_2734	247	0	Varanus	Lizards	100.0
+taxongroup	Kom-6ea1_247_Varanus-48	Kom-6ea1_247_lizards-5	Kom-6ea1_247_Varanus-48_1146	247	Kom-6ea1_247_lizards-5_2734	247	0	Varanus	Lizards	100.0
+taxongroup	Kom-6ea1_247_Varanus-48	Kom-6ea1_247_lizard-25	Kom-6ea1_247_Varanus-48_1146	247	Kom-6ea1_247_lizard-25_2734	247	0	Varanus	Lizards	100.0
+taxongroup	Kom-6ea1_2_Varanus-5	Kom-6ea1_2_lizard-22	Kom-6ea1_2_Varanus-5_1146	2	Kom-6ea1_2_lizard-22_2734	2	0	Varanus	Lizards	100.0
+taxongroup	Kom-6ea1_247_Varanus-19	Kom-6ea1_247_lizards-5	Kom-6ea1_247_Varanus-19_1146	247	Kom-6ea1_247_lizards-5_2734	247	0	Varanus	Lizards	100.0
+taxongroup	Kom-6ea1_247_Varanus-19	Kom-6ea1_247_lizard-25	Kom-6ea1_247_Varanus-19_1146	247	Kom-6ea1_247_lizard-25_2734	247	0	Varanus	Lizards	100.0
+taxongroup	Kom-6ea1_247_Varanus-19	Kom-6ea1_247_lizard-62	Kom-6ea1_247_Varanus-19_1146	247	Kom-6ea1_247_lizard-62_2734	247	0	Varanus	Lizards	100.0
+taxongroup	Asi-7d4f_16_Varanus-2	Asi-7d4f_16_reptiles-6	Asi-7d4f_16_Varanus-2_1146	16	Asi-7d4f_16_reptiles-6_419	16	0	Varanus	Reptiles	100.0
+taxongroup	Kom-6ea1_247_Varanus-48	Kom-6ea1_247_reptiles-42	Kom-6ea1_247_Varanus-48_1146	247	Kom-6ea1_247_reptiles-42_419	247	0	Varanus	Reptiles	100.0
+taxongroup	Kom-6ea1_247_Varanus-19	Kom-6ea1_247_reptiles-42	Kom-6ea1_247_Varanus-19_1146	247	Kom-6ea1_247_reptiles-42_419	247	0	Varanus	Reptiles	100.0
+taxongroup	Mon-a066_2_Varanus-8	Mon-a066_2_Varanidae-17	Mon-a066_2_Varanus-8_1146	2	Mon-a066_2_Varanidae-17_859	2	0	Varanus	Varanidae	100.0
+taxongroup	Mon-a066_98_Varanus-1	Mon-a066_98_Varanidae-10	Mon-a066_98_Varanus-1_1146	98	Mon-a066_98_Varanidae-10_859	98	0	Varanus	Varanidae	100.0
+taxongroup	San-6e1f_60_Varanus-15	San-6e1f_60_Varanidae-20	San-6e1f_60_Varanus-15_1146	60	San-6e1f_60_Varanidae-20_859	60	0	Varanus	Varanidae	100.0
+taxongroup	San-6e1f_2_Varanus-5	San-6e1f_2_Varanidae-37	San-6e1f_2_Varanus-5_1146	2	San-6e1f_2_Varanidae-37_859	2	0	Varanus	Varanidae	100.0
+taxongroup	Var-faa1_12_Varanus-27	Var-faa1_12_Varanidae-11	Var-faa1_12_Varanus-27_1146	12	Var-faa1_12_Varanidae-11_859	12	0	Varanus	Varanidae	100.0
+taxongroup	Var-faa1_12_Varanus-27	Var-faa1_12_Varanidae-42	Var-faa1_12_Varanus-27_1146	12	Var-faa1_12_Varanidae-42_859	12	0	Varanus	Varanidae	100.0
+taxongroup	Var-faa1_12_Varanus-19	Var-faa1_12_Varanidae-11	Var-faa1_12_Varanus-19_1146	12	Var-faa1_12_Varanidae-11_859	12	0	Varanus	Varanidae	100.0
+taxongroup	Var-faa1_12_Varanus-19	Var-faa1_12_Varanidae-42	Var-faa1_12_Varanus-19_1146	12	Var-faa1_12_Varanidae-42_859	12	0	Varanus	Varanidae	100.0
+taxongroup	Var-faa1_10_Varanus-19	Var-faa1_10_Varanidae-14	Var-faa1_10_Varanus-19_1146	10	Var-faa1_10_Varanidae-14_859	10	0	Varanus	Varanidae	100.0
+taxongroup	Asi-7d4f_15_Varanus-19	Asi-7d4f_15_Varanidae-3	Asi-7d4f_15_Varanus-19_1146	15	Asi-7d4f_15_Varanidae-3_859	15	0	Varanus	Varanidae	100.0
+taxongroup	Per-a3bf_2_Varanus-4	Per-a3bf_2_lizard-12	Per-a3bf_2_Varanus-4_1146	2	Per-a3bf_2_lizard-12_5189	2	0	Varanus	lizards	100.0
+taxongroup	San-6e1f_2_Varanus-5	San-6e1f_2_lizard-33	San-6e1f_2_Varanus-5_1146	2	San-6e1f_2_lizard-33_5189	2	0	Varanus	lizards	100.0
+taxongroup	San-6e1f_18_Varanus-4	San-6e1f_18_lizards-6	San-6e1f_18_Varanus-4_1146	18	San-6e1f_18_lizards-6_5189	18	0	Varanus	lizards	100.0
+taxongroup	Mon-a066_2_Varanus-8	Mon-a066_2_lizards-4	Mon-a066_2_Varanus-8_1146	2	Mon-a066_2_lizards-4_5189	2	0	Varanus	lizards	100.0
+taxongroup	Mon-a066_166_Varanus-11	Mon-a066_166_lizard-5	Mon-a066_166_Varanus-11_1146	166	Mon-a066_166_lizard-5_2734	166	0	Varanus	Lizards	100.0
+taxongroup	Coc-29aa_194_Varanus-7	Coc-29aa_194_lizard-5	Coc-29aa_194_Varanus-7_1146	194	Coc-29aa_194_lizard-5_2734	194	0	Varanus	Lizards	100.0
+taxongroup	Asi-7d4f_15_Varanus-19	Asi-7d4f_15_lizards-10	Asi-7d4f_15_Varanus-19_1146	15	Asi-7d4f_15_lizards-10_2734	15	0	Varanus	Lizards	100.0
+taxongroup	Gal-ccff_40_lizards-24	Gal-ccff_40_vertebrates-22	Gal-ccff_40_lizards-24_2734	40	Gal-ccff_40_vertebrates-22_3935	40	0	Lizards	vertebrates	100.0
+taxongroup	Mar-bb56_328_iguana-11	Mar-bb56_328_iguana-21	Mar-bb56_328_iguana-11_2817	328	Mar-bb56_328_iguana-21_4130	328	0	Marine iguana	iguanas	100.0
+taxongroup	Var-faa1_3_Varanus-27	Var-faa1_3_lizards-10	Var-faa1_3_Varanus-27_1146	3	Var-faa1_3_lizards-10_2734	3	0	Varanus	Lizards	100.0
+taxongroup	Var-faa1_12_Varanus-27	Var-faa1_12_lizard-39	Var-faa1_12_Varanus-27_1146	12	Var-faa1_12_lizard-39_2734	12	0	Varanus	Lizards	100.0
+taxongroup	Var-faa1_4_Varanus-1	Var-faa1_4_lizard-10	Var-faa1_4_Varanus-1_1146	4	Var-faa1_4_lizard-10_2734	4	0	Varanus	Lizards	100.0
+taxongroup	Var-faa1_3_Varanus-27	Var-faa1_3_lizard-33	Var-faa1_3_Varanus-27_1146	3	Var-faa1_3_lizard-33_2734	3	0	Varanus	Lizards	100.0
+taxongroup	Var-faa1_12_Varanus-19	Var-faa1_12_lizard-39	Var-faa1_12_Varanus-19_1146	12	Var-faa1_12_lizard-39_2734	12	0	Varanus	Lizards	100.0
+taxongroup	Asi-7d4f_2_Varanus-6	Asi-7d4f_2_lizard-13	Asi-7d4f_2_Varanus-6_1146	2	Asi-7d4f_2_lizard-13_2734	2	0	Varanus	Lizards	100.0
+taxongroup	Cro-5646_344_Varanus-31	Cro-5646_344_lizards-2	Cro-5646_344_Varanus-31_1146	344	Cro-5646_344_lizards-2_2734	344	0	Varanus	Lizards	100.0
+taxongroup	Inl-4b16_98_Varanus-4	Inl-4b16_98_lizard-11	Inl-4b16_98_Varanus-4_1146	98	Inl-4b16_98_lizard-11_2734	98	0	Varanus	Lizards	100.0
+taxongroup	Arc-4c1c_297_lizards-23	Arc-4c1c_297_animals-13	Arc-4c1c_297_lizards-23_2734	297	Arc-4c1c_297_animals-13_3812	297	0	Lizards	animals	100.0
+taxongroup	Aar-5e58_155_lizards-18	Aar-5e58_155_animals-2	Aar-5e58_155_lizards-18_2734	155	Aar-5e58_155_animals-2_3812	155	0	Lizards	animals	100.0
+taxongroup	Gal-0153_135_lizards-36	Gal-0153_135_animal-10	Gal-0153_135_lizards-36_2734	135	Gal-0153_135_animal-10_44	135	0	Lizards	Animals	100.0
+taxongroup	Ani-2170_6_lizards-45	Ani-2170_6_animal-4	Ani-2170_6_lizards-45_2734	6	Ani-2170_6_animal-4_44	6	0	Lizards	Animals	100.0
+taxongroup	Ichdf71_18_lizards-8	Ichdf71_18_animals-3	Ichdf71_18_lizards-8_2734	18	Ichdf71_18_animals-3_44	18	0	Lizards	Animals	100.0
+taxongroup	Kag-2289_76_lizards-19	Kag-2289_76_animals-12	Kag-2289_76_lizards-19_2734	76	Kag-2289_76_animals-12_44	76	0	Lizards	Animals	100.0
+taxongroup	Rep-aa64_192_lizards-23	Rep-aa64_192_animals-19	Rep-aa64_192_lizards-23_2734	192	Rep-aa64_192_animals-19_44	192	0	Lizards	Animals	100.0
+taxongroup	Rep-aa64_115_lizard-6	Rep-aa64_115_animal-9	Rep-aa64_115_lizard-6_2734	115	Rep-aa64_115_animal-9_44	115	0	Lizards	Animals	100.0
+taxongroup	Mar-bb56_70_iguanas-30	Mar-bb56_70_iguanas-30	Mar-bb56_70_iguanas-30_2324	70	Mar-bb56_70_iguanas-30_4130	70	0	Galápagos land iguana	iguanas	100.0
+taxongroup	Mar-bb56_70_iguanas-14	Mar-bb56_70_iguanas-14	Mar-bb56_70_iguanas-14_2324	70	Mar-bb56_70_iguanas-14_4130	70	0	Galápagos land iguana	iguanas	100.0
+taxongroup	Mar-bb56_70_iguanas-14	Mar-bb56_70_iguanas-30	Mar-bb56_70_iguanas-14_2324	70	Mar-bb56_70_iguanas-30_4130	70	0	Galápagos land iguana	iguanas	100.0
+taxongroup	Mar-bb56_316_iguana-16	Mar-bb56_316_iguana-16	Mar-bb56_316_iguana-16_2324	316	Mar-bb56_316_iguana-16_4130	316	0	Galápagos land iguana	iguanas	100.0
+taxongroup	Mar-bb56_70_iguanas-30	Mar-bb56_70_iguanas-14	Mar-bb56_70_iguanas-30_2324	70	Mar-bb56_70_iguanas-14_4130	70	0	Galápagos land iguana	iguanas	100.0
+taxongroup	Galbc9d_4_iguanas-3	Galbc9d_4_iguanas-3	Galbc9d_4_iguanas-3_2324	4	Galbc9d_4_iguanas-3_4130	4	0	Galápagos land iguana	iguanas	100.0
+taxongroup	Igu-7a3f_2_Iguanidae-2	Igu-7a3f_2_lizards-7	Igu-7a3f_2_Iguanidae-2_642	2	Igu-7a3f_2_lizards-7_2734	2	0	Iguanidae	Lizards	100.0
+taxongroup	Gal-c07a_2_Iguanidae-19	Gal-c07a_2_lizard-15	Gal-c07a_2_Iguanidae-19_642	2	Gal-c07a_2_lizard-15_2734	2	0	Iguanidae	Lizards	100.0
+taxongroup	Liz-2f75_218_Lacertilia-20	Liz-2f75_218_Squamata-25	Liz-2f75_218_Lacertilia-20_2735	218	Liz-2f75_218_Squamata-25_3415	218	0	Lacertilia	Squamata	100.0
+taxongroup	Rep-aa64_387_lizards-9	Rep-aa64_387_animals-31	Rep-aa64_387_lizards-9_2734	387	Rep-aa64_387_animals-31_44	387	0	Lizards	Animals	100.0
+taxongroup	Pte-62aa_442_lizards-21	Pte-62aa_442_animals-12	Pte-62aa_442_lizards-21_2734	442	Pte-62aa_442_animals-12_44	442	0	Lizards	Animals	100.0
+taxongroup	Pte-62aa_393_lizard-2	Pte-62aa_393_animal-6	Pte-62aa_393_lizard-2_2734	393	Pte-62aa_393_animal-6_44	393	0	Lizards	Animals	100.0
+taxongroup	Rep-aa64_42_lizards-18	Rep-aa64_42_animals-26	Rep-aa64_42_lizards-18_2734	42	Rep-aa64_42_animals-26_44	42	0	Lizards	Animals	100.0
+taxongroup	Sal-5617_335_lizard-21	Sal-5617_335_animal-17	Sal-5617_335_lizard-21_2734	335	Sal-5617_335_animal-17_44	335	0	Lizards	Animals	100.0
+taxongroup	Par424a_6_lizards-18	Par424a_6_animals-3	Par424a_6_lizards-18_2734	6	Par424a_6_animals-3_44	6	0	Lizards	Animals	100.0
+taxongroup	Fos-88c7_10_lizards-23	Fos-88c7_10_animals-29	Fos-88c7_10_lizards-23_2734	10	Fos-88c7_10_animals-29_44	10	0	Lizards	Animals	100.0
+taxongroup	Flo-338d_150_lizards-21	Flo-338d_150_animals-3	Flo-338d_150_lizards-21_2734	150	Flo-338d_150_animals-3_44	150	0	Lizards	Animals	100.0
+taxongroup	Mer-5a4a_112_lizards-69	Mer-5a4a_112_animals-31	Mer-5a4a_112_lizards-69_2734	112	Mer-5a4a_112_animals-31_44	112	0	Lizards	Animals	100.0
+taxongroup	Fri-c770_117_lizard-3	Fri-c770_117_animals-13	Fri-c770_117_lizard-3_2734	117	Fri-c770_117_animals-13_44	117	0	Lizards	Animals	100.0
+taxongroup	Liz-2f75_15_lizards-2	Liz-2f75_15_animals-6	Liz-2f75_15_lizards-2_2734	15	Liz-2f75_15_animals-6_44	15	0	Lizards	Animals	100.0
+taxongroup	Mam-3742_127_lizard-76	Mam-3742_127_animal-69	Mam-3742_127_lizard-76_2734	127	Mam-3742_127_animal-69_44	127	0	Lizards	Animals	100.0
+taxongroup	Sauff81_3_lizard-4	Sauff81_3_animal-26	Sauff81_3_lizard-4_2734	3	Sauff81_3_animal-26_44	3	0	Lizards	Animals	100.0
+taxongroup	Igu-7d5f_110_lizards-11	Igu-7d5f_110_Squamata-20	Igu-7d5f_110_lizards-11_2734	110	Igu-7d5f_110_Squamata-20_3415	110	0	Lizards	Squamata	100.0
+taxongroup	Liz-2f75_227_lizard-13	Liz-2f75_227_Squamata-45	Liz-2f75_227_lizard-13_2734	227	Liz-2f75_227_Squamata-45_3415	227	0	Lizards	Squamata	100.0
+taxongroup	Rep-aa64_4_lizards-13	Rep-aa64_4_Squamata-11	Rep-aa64_4_lizards-13_2734	4	Rep-aa64_4_Squamata-11_3415	4	0	Lizards	Squamata	100.0
+taxongroup	Rep-aa64_93_lizards-15	Rep-aa64_93_Squamata-13	Rep-aa64_93_lizards-15_2734	93	Rep-aa64_93_Squamata-13_3415	93	0	Lizards	Squamata	100.0
+taxongroup	Liz-2f75_211_lizard-30	Liz-2f75_211_Squamata-16	Liz-2f75_211_lizard-30_2734	211	Liz-2f75_211_Squamata-16_3415	211	0	Lizards	Squamata	100.0
+taxongroup	Liz-2f75_207_lizards-5	Liz-2f75_207_Squamata-8	Liz-2f75_207_lizards-5_2734	207	Liz-2f75_207_Squamata-8_3415	207	0	Lizards	Squamata	100.0
+taxongroup	Liz-2f75_211_lizards-9	Liz-2f75_211_Squamata-16	Liz-2f75_211_lizards-9_2734	211	Liz-2f75_211_Squamata-16_3415	211	0	Lizards	Squamata	100.0
+taxongroup	Liz-2f75_211_lizards-25	Liz-2f75_211_Squamata-16	Liz-2f75_211_lizards-25_2734	211	Liz-2f75_211_Squamata-16_3415	211	0	Lizards	Squamata	100.0
+taxongroup	Liz-2f75_218_lizards-29	Liz-2f75_218_Squamata-25	Liz-2f75_218_lizards-29_2734	218	Liz-2f75_218_Squamata-25_3415	218	0	Lizards	Squamata	100.0
+taxongroup	Rep-aa64_46_lizards-18	Rep-aa64_46_Squamata-16	Rep-aa64_46_lizards-18_2734	46	Rep-aa64_46_Squamata-16_3415	46	0	Lizards	Squamata	100.0
+taxongroup	Cam-4bd8_126_lizards-8	Cam-4bd8_126_animals-2	Cam-4bd8_126_lizards-8_5189	126	Cam-4bd8_126_animals-2_3812	126	0	lizards	animals	100.0
+taxongroup	Igu-76d2_181_iguanas-24	Igu-76d2_181_animals-2	Igu-76d2_181_iguanas-24_4130	181	Igu-76d2_181_animals-2_44	181	0	iguanas	Animals	100.0
+taxongroup	Ant-f3cd_239_geckos-30	Ant-f3cd_239_lizard-56	Ant-f3cd_239_geckos-30_4116	239	Ant-f3cd_239_lizard-56_2734	239	0	geckos	Lizards	100.0
+taxongroup	Ant-f3cd_239_geckos-30	Ant-f3cd_239_lizards-33	Ant-f3cd_239_geckos-30_4116	239	Ant-f3cd_239_lizards-33_2734	239	0	geckos	Lizards	100.0
+taxongroup	Squ-be6b_42_geckos-13	Squ-be6b_42_lizards-8	Squ-be6b_42_geckos-13_4116	42	Squ-be6b_42_lizards-8_2734	42	0	geckos	Lizards	100.0
+taxongroup	Aca-0b77_65_gecko-13	Aca-0b77_65_reptiles-2	Aca-0b77_65_gecko-13_4116	65	Aca-0b77_65_reptiles-2_419	65	0	geckos	Reptiles	100.0
+taxongroup	Squ-be6b_7_gecko-20	Squ-be6b_7_reptiles-8	Squ-be6b_7_gecko-20_4116	7	Squ-be6b_7_reptiles-8_4021	7	0	geckos	reptiles	100.0
+taxongroup	Ant-f3cd_239_geckos-30	Ant-f3cd_239_vertebrates-27	Ant-f3cd_239_geckos-30_4116	239	Ant-f3cd_239_vertebrates-27_3935	239	0	geckos	vertebrates	100.0
+taxongroup	Pyt-d6ca_26_iguana-20	Pyt-d6ca_26_animals-12	Pyt-d6ca_26_iguana-20_4130	26	Pyt-d6ca_26_animals-12_44	26	0	iguanas	Animals	100.0
+taxongroup	Mar-bb56_237_iguana-8	Mar-bb56_237_animal-4	Mar-bb56_237_iguana-8_4130	237	Mar-bb56_237_animal-4_44	237	0	iguanas	Animals	100.0
+taxongroup	Igu-76d2_46_iguana-25	Igu-76d2_46_animal-21	Igu-76d2_46_iguana-25_4130	46	Igu-76d2_46_animal-21_44	46	0	iguanas	Animals	100.0
+taxongroup	Igu-76d2_46_iguana-13	Igu-76d2_46_animal-21	Igu-76d2_46_iguana-13_4130	46	Igu-76d2_46_animal-21_44	46	0	iguanas	Animals	100.0
+taxongroup	Igu-76d2_46_iguana-31	Igu-76d2_46_animal-21	Igu-76d2_46_iguana-31_4130	46	Igu-76d2_46_animal-21_44	46	0	iguanas	Animals	100.0
+taxongroup	Gal-c07a_56_iguanas-20	Gal-c07a_56_animals-2	Gal-c07a_56_iguanas-20_4130	56	Gal-c07a_56_animals-2_44	56	0	iguanas	Animals	100.0
+taxongroup	Gal-c07a_22_iguana-7	Gal-c07a_22_animals-11	Gal-c07a_22_iguana-7_4130	22	Gal-c07a_22_animals-11_44	22	0	iguanas	Animals	100.0
+taxongroup	Gal-c07a_19_iguanas-46	Gal-c07a_19_animal-34	Gal-c07a_19_iguanas-46_4130	19	Gal-c07a_19_animal-34_44	19	0	iguanas	Animals	100.0
+taxongroup	Igu-7a3f_2_iguanas-11	Igu-7a3f_2_lizards-7	Igu-7a3f_2_iguanas-11_4130	2	Igu-7a3f_2_lizards-7_2734	2	0	iguanas	Lizards	100.0
+taxongroup	Igu-7a3f_58_iguanas-36	Igu-7a3f_58_lizards-14	Igu-7a3f_58_iguanas-36_4130	58	Igu-7a3f_58_lizards-14_2734	58	0	iguanas	Lizards	100.0
+taxongroup	Mar-bb56_4_iguanas-2	Mar-bb56_4_lizard-7	Mar-bb56_4_iguanas-2_4130	4	Mar-bb56_4_lizard-7_2734	4	0	iguanas	Lizards	100.0
+taxongroup	Mara2a7_2_iguanas-2	Mara2a7_2_lizards-7	Mara2a7_2_iguanas-2_4130	2	Mara2a7_2_lizards-7_2734	2	0	iguanas	Lizards	100.0
+taxongroup	Liz-2f75_65_iguanas-30	Liz-2f75_65_lizards-18	Liz-2f75_65_iguanas-30_4130	65	Liz-2f75_65_lizards-18_2734	65	0	iguanas	Lizards	100.0
+taxongroup	Liz-2f75_237_iguanas-2	Liz-2f75_237_lizards-41	Liz-2f75_237_iguanas-2_4130	237	Liz-2f75_237_lizards-41_2734	237	0	iguanas	Lizards	100.0
+taxongroup	Rep-aa64_224_iguanas-12	Rep-aa64_224_lizards-10	Rep-aa64_224_iguanas-12_4130	224	Rep-aa64_224_lizards-10_2734	224	0	iguanas	Lizards	100.0
+taxongroup	Rep-aa64_503_iguanas-14	Rep-aa64_503_lizard-4	Rep-aa64_503_iguanas-14_4130	503	Rep-aa64_503_lizard-4_2734	503	0	iguanas	Lizards	100.0
+taxongroup	Tyr-9f97_325_iguanas-46	Tyr-9f97_325_lizards-43	Tyr-9f97_325_iguanas-46_4130	325	Tyr-9f97_325_lizards-43_2734	325	0	iguanas	Lizards	100.0
+taxongroup	Igu-76d2_48_iguana-32	Igu-76d2_48_lizard-13	Igu-76d2_48_iguana-32_4130	48	Igu-76d2_48_lizard-13_2734	48	0	iguanas	Lizards	100.0
+taxongroup	Bro-5361_26_basilisk-7	Bro-5361_26_reptiles-3	Bro-5361_26_basilisk-7_4732	26	Bro-5361_26_reptiles-3_4021	26	0	brown basilisk	reptiles	100.0
+taxongroup	Bro-5361_2_basilisk-24	Bro-5361_2_lizard-31	Bro-5361_2_basilisk-24_4732	2	Bro-5361_2_lizard-31_5189	2	0	brown basilisk	lizards	100.0
+taxongroup	Bro-5361_2_basilisk-3	Bro-5361_2_lizard-31	Bro-5361_2_basilisk-3_4732	2	Bro-5361_2_lizard-31_5189	2	0	brown basilisk	lizards	100.0
+taxongroup	Bro-5361_2_basilisk-16	Bro-5361_2_lizard-31	Bro-5361_2_basilisk-16_4732	2	Bro-5361_2_lizard-31_5189	2	0	brown basilisk	lizards	100.0
+taxongroup	Bro-5361_2_basilisk-30	Bro-5361_2_lizard-31	Bro-5361_2_basilisk-30_4732	2	Bro-5361_2_lizard-31_2734	2	0	brown basilisk	Lizards	100.0
+taxongroup	Igu4c77_1_iguanas-10	Igu4c77_1_lizards-6	Igu4c77_1_iguanas-10_4130	1	Igu4c77_1_lizards-6_2734	1	0	iguanas	Lizards	100.0
+taxongroup	Liz-2f75_235_iguanas-14	Liz-2f75_235_lizard-4	Liz-2f75_235_iguanas-14_4130	235	Liz-2f75_235_lizard-4_2734	235	0	iguanas	Lizards	100.0
+taxongroup	Igu-7a3f_52_iguanas-40	Igu-7a3f_52_lizards-5	Igu-7a3f_52_iguanas-40_4130	52	Igu-7a3f_52_lizards-5_2734	52	0	iguanas	Lizards	100.0
+taxongroup	Igu-7a3f_52_iguanas-40	Igu-7a3f_52_lizards-17	Igu-7a3f_52_iguanas-40_4130	52	Igu-7a3f_52_lizards-17_5189	52	0	iguanas	lizards	100.0
+taxongroup	Igu-7a3f_52_iguanas-40	Igu-7a3f_52_lizards-12	Igu-7a3f_52_iguanas-40_4130	52	Igu-7a3f_52_lizards-12_5189	52	0	iguanas	lizards	100.0
+taxongroup	Igu-7a3f_58_iguanas-36	Igu-7a3f_58_lizards-10	Igu-7a3f_58_iguanas-36_4130	58	Igu-7a3f_58_lizards-10_5189	58	0	iguanas	lizards	100.0
+taxongroup	Igu-7a3f_58_iguanas-36	Igu-7a3f_58_lizards-4	Igu-7a3f_58_iguanas-36_4130	58	Igu-7a3f_58_lizards-4_5189	58	0	iguanas	lizards	100.0
+taxongroup	Igu-7a3f_2_iguana-24	Igu-7a3f_2_lizards-7	Igu-7a3f_2_iguana-24_4130	2	Igu-7a3f_2_lizards-7_5189	2	0	iguanas	lizards	100.0
+taxongroup	Igu-7d5f_27_iguanas-8	Igu-7d5f_27_lizards-4	Igu-7d5f_27_iguanas-8_4130	27	Igu-7d5f_27_lizards-4_5189	27	0	iguanas	lizards	100.0
+taxongroup	Gal-c07a_2_iguana-4	Gal-c07a_2_lizard-15	Gal-c07a_2_iguana-4_4130	2	Gal-c07a_2_lizard-15_5189	2	0	iguanas	lizards	100.0
+taxongroup	Gal-c07a_23_iguana-4	Gal-c07a_23_lizards-10	Gal-c07a_23_iguana-4_4130	23	Gal-c07a_23_lizards-10_5189	23	0	iguanas	lizards	100.0
+taxongroup	Boa-7d46_69_iguanas-29	Boa-7d46_69_lizards-23	Boa-7d46_69_iguanas-29_4130	69	Boa-7d46_69_lizards-23_5189	69	0	iguanas	lizards	100.0
+taxongroup	Mar-bb56_233_iguanas-2	Mar-bb56_233_reptiles-9	Mar-bb56_233_iguanas-2_4130	233	Mar-bb56_233_reptiles-9_4021	233	0	iguanas	reptiles	100.0
+taxongroup	Rep-aa64_313_iguanas-18	Rep-aa64_313_reptile-9	Rep-aa64_313_iguanas-18_4130	313	Rep-aa64_313_reptile-9_4021	313	0	iguanas	reptiles	100.0
+taxongroup	Igu-7d5f_6_iguana-37	Igu-7d5f_6_Reptile-26	Igu-7d5f_6_iguana-37_4130	6	Igu-7d5f_6_Reptile-26_4021	6	0	iguanas	reptiles	100.0
+taxongroup	Igu-7d5f_6_iguana-7	Igu-7d5f_6_Reptile-26	Igu-7d5f_6_iguana-7_4130	6	Igu-7d5f_6_Reptile-26_4021	6	0	iguanas	reptiles	100.0
+taxongroup	Igu-7d5f_22_iguana-6	Igu-7d5f_22_reptiles-3	Igu-7d5f_22_iguana-6_4130	22	Igu-7d5f_22_reptiles-3_4021	22	0	iguanas	reptiles	100.0
+taxongroup	Ame-fe9c_165_iguanas-46	Ame-fe9c_165_reptiles-19	Ame-fe9c_165_iguanas-46_4130	165	Ame-fe9c_165_reptiles-19_4021	165	0	iguanas	reptiles	100.0
+taxongroup	Igu-7d5f_41_iguanas-2	Igu-7d5f_41_Squamata-9	Igu-7d5f_41_iguanas-2_4130	41	Igu-7d5f_41_Squamata-9_3415	41	0	iguanas	Squamata	100.0
+taxongroup	Asi-7d4f_34_monitor-9	Asi-7d4f_34_lizard-10	Asi-7d4f_34_monitor-9_5605	34	Asi-7d4f_34_lizard-10_5189	34	0	water monitor	lizards	100.0

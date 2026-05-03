@@ -1,0 +1,925 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Afr-354e_14_buffalo-3	Afr-354e_14_rainforests-33	Afr-354e_14_buffalo-3_1442	14	Afr-354e_14_rainforests-33_3811	14	0	African buffalo	rainforest	100.0
+location	Wat-9861_99_buffalo-6	Wat-9861_99_swamp-18	Wat-9861_99_buffalo-6_3920	99	Wat-9861_99_swamp-18_3808	99	0	water buffalo	swamp	100.0
+location	Wat-9861_243_buffalo-20	Wat-9861_243_swamp-16	Wat-9861_243_buffalo-20_3920	243	Wat-9861_243_swamp-16_3808	243	0	water buffalo	swamp	100.0
+location	Wat-9861_84_buffalo-27	Wat-9861_84_Swamp-1	Wat-9861_84_buffalo-27_3920	84	Wat-9861_84_Swamp-1_39	84	0	water buffalo	Swamp	100.0
+location	Wat-9861_84_buffalo-5	Wat-9861_84_Swamp-1	Wat-9861_84_buffalo-5_3920	84	Wat-9861_84_Swamp-1_39	84	0	water buffalo	Swamp	100.0
+location	Bov-d455_252_springbok-19	Bov-d455_252_deserts-24	Bov-d455_252_springbok-19_5514	252	Bov-d455_252_deserts-24_3805	252	0	springbok	desert	100.0
+location	Bov-d455_252_bongo-26	Bov-d455_252_rainforests-5	Bov-d455_252_bongo-26_4714	252	Bov-d455_252_rainforests-5_3811	252	0	bongo	rainforest	100.0
+location	Cou-56f5_112_sheep-23	Cou-56f5_112_mountain-19	Cou-56f5_112_sheep-23_4675	112	Cou-56f5_112_mountain-19_4527	112	0	bighorn sheep	mountains	100.0
+location	Big-0af3_40_sheep-4	Big-0af3_40_desert-20	Big-0af3_40_sheep-4_4675	40	Big-0af3_40_desert-20_3805	40	0	bighorn sheep	desert	100.0
+location	Big-0af3_30_sheep-33	Big-0af3_30_desert-43	Big-0af3_30_sheep-33_4675	30	Big-0af3_30_desert-43_3805	30	0	bighorn sheep	desert	100.0
+location	Big-0af3_40_sheep-22	Big-0af3_40_desert-20	Big-0af3_40_sheep-22_4675	40	Big-0af3_40_desert-20_3805	40	0	bighorn sheep	desert	100.0
+location	Big-0af3_40_sheep-13	Big-0af3_40_desert-20	Big-0af3_40_sheep-13_4675	40	Big-0af3_40_desert-20_3805	40	0	bighorn sheep	desert	100.0
+location	Big-0af3_32_sheep-4	Big-0af3_32_Mountains-17	Big-0af3_32_sheep-4_4675	32	Big-0af3_32_Mountains-17_1366	32	0	bighorn sheep	Mountains	100.0
+location	Bha-2df5_5_bharal-11	Bha-2df5_5_Mountains-3	Bha-2df5_5_bharal-11_4674	5	Bha-2df5_5_Mountains-3_1366	5	0	bharal	Mountains	100.0
+location	Bha-2df5_5_bharals-18	Bha-2df5_5_Mountains-3	Bha-2df5_5_bharals-18_4674	5	Bha-2df5_5_Mountains-3_1366	5	0	bharal	Mountains	100.0
+location	Afr-354e_14_buffalo-3	Afr-354e_14_rainforests-7	Afr-354e_14_buffalo-3_1442	14	Afr-354e_14_rainforests-7_3811	14	0	African buffalo	rainforest	100.0
+location	Nub-af58_131_ibex-2	Nub-af58_131_desert-5	Nub-af58_131_ibex-2_2935	131	Nub-af58_131_desert-5_34	131	0	Nubian ibex	Desert	100.0
+location	Nub-af58_2_ibex-3	Nub-af58_2_desert-10	Nub-af58_2_ibex-3_2935	2	Nub-af58_2_desert-10_34	2	0	Nubian ibex	Desert	100.0
+location	Nub-af58_134_ibex-2	Nub-af58_134_desert-10	Nub-af58_134_ibex-2_2935	134	Nub-af58_134_desert-10_34	134	0	Nubian ibex	Desert	100.0
+location	Wat-9861_99_buffalos-21	Wat-9861_99_swamp-18	Wat-9861_99_buffalos-21_3920	99	Wat-9861_99_swamp-18_3808	99	0	water buffalo	swamp	100.0
+location	Wal-cefe_10_ibex-9	Wal-cefe_10_mountain-13	Wal-cefe_10_ibex-9_3621	10	Wal-cefe_10_mountain-13_4527	10	0	Walia ibex	mountains	100.0
+location	Wat-9861_81_buffalo-8	Wat-9861_81_swamp-4	Wat-9861_81_buffalo-8_3920	81	Wat-9861_81_swamp-4_3808	81	0	water buffalo	swamp	100.0
+location	Wat-9861_88_buffalo-16	Wat-9861_88_swamp-15	Wat-9861_88_buffalo-16_3920	88	Wat-9861_88_swamp-15_3808	88	0	water buffalo	swamp	100.0
+location	Wat-9861_88_buffalo-8	Wat-9861_88_swamp-15	Wat-9861_88_buffalo-8_3920	88	Wat-9861_88_swamp-15_3808	88	0	water buffalo	swamp	100.0
+location	Wat-9861_20_buffalos-18	Wat-9861_20_swamp-14	Wat-9861_20_buffalos-18_3920	20	Wat-9861_20_swamp-14_3808	20	0	water buffalo	swamp	100.0
+location	Wat-9861_20_buffalos-18	Wat-9861_20_swamp-38	Wat-9861_20_buffalos-18_3920	20	Wat-9861_20_swamp-38_3808	20	0	water buffalo	swamp	100.0
+location	Wat-9861_249_buffalo-23	Wat-9861_249_swamp-19	Wat-9861_249_buffalo-23_3920	249	Wat-9861_249_swamp-19_3808	249	0	water buffalo	swamp	100.0
+location	Wat-9861_91_buffalo-16	Wat-9861_91_swamp-32	Wat-9861_91_buffalo-16_3920	91	Wat-9861_91_swamp-32_3808	91	0	water buffalo	swamp	100.0
+location	Wat-9861_211_buffalo-15	Wat-9861_211_swamp-7	Wat-9861_211_buffalo-15_3920	211	Wat-9861_211_swamp-7_3808	211	0	water buffalo	swamp	100.0
+location	Wat-9861_251_buffalo-15	Wat-9861_251_swamp-11	Wat-9861_251_buffalo-15_3920	251	Wat-9861_251_swamp-11_3808	251	0	water buffalo	swamp	100.0
+location	Argaf7f_1_sheep-2	Argaf7f_1_mountains-9	Argaf7f_1_sheep-2_1563	1	Argaf7f_1_mountains-9_4527	1	0	Argali sheep	mountains	100.0
+location	Wil-28c2_15_buffalo-14	Wil-28c2_15_swamp-38	Wil-28c2_15_buffalo-14_3920	15	Wil-28c2_15_swamp-38_3808	15	0	water buffalo	swamp	100.0
+location	Wat-9861_20_bubalis-29	Wat-9861_20_swamp-38	Wat-9861_20_bubalis-29_280	20	Wat-9861_20_swamp-38_3808	20	0	Bubalus bubalis	swamp	87.0
+location	Wat-9861_20_bubalis-45	Wat-9861_20_swamp-38	Wat-9861_20_bubalis-45_280	20	Wat-9861_20_swamp-38_3808	20	0	Bubalus bubalis	swamp	87.0
+location	Wat-9861_20_bubalis-28	Wat-9861_20_swamp-38	Wat-9861_20_bubalis-28_280	20	Wat-9861_20_swamp-38_3808	20	0	Bubalus bubalis	swamp	87.0
+location	Wat-9861_20_bubalis-28	Wat-9861_20_swamp-14	Wat-9861_20_bubalis-28_280	20	Wat-9861_20_swamp-14_3808	20	0	Bubalus bubalis	swamp	87.0
+location	Wat-9861_20_bubalis-45	Wat-9861_20_swamp-14	Wat-9861_20_bubalis-45_280	20	Wat-9861_20_swamp-14_3808	20	0	Bubalus bubalis	swamp	87.0
+location	Wat-9861_20_bubalis-29	Wat-9861_20_swamp-14	Wat-9861_20_bubalis-29_280	20	Wat-9861_20_swamp-14_3808	20	0	Bubalus bubalis	swamp	87.0
+location	Arg-817f_2_sheep-18	Arg-817f_2_Mountains-36	Arg-817f_2_sheep-18_1565	2	Arg-817f_2_Mountains-36_1366	2	0	Mountain sheep	Mountains	83.0
+location	Wat-9861_40_buffalo-11	Wat-9861_40_swamp-2	Wat-9861_40_buffalo-11_3922	40	Wat-9861_40_swamp-2_3808	40	0	swamp buffalo	swamp	83.0
+location	Arg-817f_2_sheep-13	Arg-817f_2_Mountains-36	Arg-817f_2_sheep-13_1565	2	Arg-817f_2_Mountains-36_1366	2	0	Mountain sheep	Mountains	83.0
+location	Arg-817f_2_sheep-13	Arg-817f_2_mountain-12	Arg-817f_2_sheep-13_1674	2	Arg-817f_2_mountain-12_4527	2	0	Mountain sheep	mountains	83.0
+location	Big-0af3_9_sheep-24	Big-0af3_9_mountain-9	Big-0af3_9_sheep-24_1674	9	Big-0af3_9_mountain-9_4527	9	0	Mountain sheep	mountains	83.0
+location	Dal-d353_109_sheep-2	Dal-d353_109_Mountain-1	Dal-d353_109_sheep-2_1674	109	Dal-d353_109_Mountain-1_4527	109	0	Mountain sheep	mountains	83.0
+location	Big-0af3_9_sheep-10	Big-0af3_9_mountain-9	Big-0af3_9_sheep-10_1565	9	Big-0af3_9_mountain-9_4527	9	0	Mountain sheep	mountains	83.0
+location	Arg-817f_2_sheep-18	Arg-817f_2_mountain-12	Arg-817f_2_sheep-18_1674	2	Arg-817f_2_mountain-12_4527	2	0	Mountain sheep	mountains	83.0
+location	Wat-9861_8_buffalo-3	Wat-9861_8_swamp-18	Wat-9861_8_buffalo-3_3921	8	Wat-9861_8_swamp-18_3808	8	0	river buffalo	swamp	83.0
+location	Wat-9861_153_buffaloes-5	Wat-9861_153_swamp-12	Wat-9861_153_buffaloes-5_3922	153	Wat-9861_153_swamp-12_3808	153	0	swamp buffalo	swamp	83.0
+location	Wat-9861_40_buffalo-3	Wat-9861_40_swamp-2	Wat-9861_40_buffalo-3_3922	40	Wat-9861_40_swamp-2_3808	40	0	swamp buffalo	swamp	83.0
+location	Wat-9861_153_buffaloes-5	Wat-9861_153_swamp-2	Wat-9861_153_buffaloes-5_3922	153	Wat-9861_153_swamp-2_3808	153	0	swamp buffalo	swamp	83.0
+location	Wat-9861_8_buffalo-19	Wat-9861_8_swamp-18	Wat-9861_8_buffalo-19_3922	8	Wat-9861_8_swamp-18_3808	8	0	swamp buffalo	swamp	83.0
+location	Wat-9861_98_buffaloes-13	Wat-9861_98_swamp-9	Wat-9861_98_buffaloes-13_3921	98	Wat-9861_98_swamp-9_3808	98	0	river buffalo	swamp	83.0
+location	Wat-9861_26_buffaloes-2	Wat-9861_26_swamp-14	Wat-9861_26_buffaloes-2_283	26	Wat-9861_26_swamp-14_3808	26	0	River buffalo	swamp	83.0
+location	Big-0af3_23_sheep-3	Big-0af3_23_desert-12	Big-0af3_23_sheep-3_1673	23	Big-0af3_23_desert-12_3805	23	0	American bighorn sheep	desert	54.0
+location	Big-0af3_23_sheep-14	Big-0af3_23_desert-12	Big-0af3_23_sheep-14_1673	23	Big-0af3_23_desert-12_3805	23	0	American bighorn sheep	desert	54.0
+location	Big-0af3_37_sheep-14	Big-0af3_37_desert-12	Big-0af3_37_sheep-14_1673	37	Big-0af3_37_desert-12_3805	37	0	American bighorn sheep	desert	54.0
+location	Big-0af3_36_sheep-3	Big-0af3_36_desert-13	Big-0af3_36_sheep-3_1673	36	Big-0af3_36_desert-13_3805	36	0	American bighorn sheep	desert	54.0
+location	Nub-af58_1_ibex-2	Nub-af58_2_desert-10	Nub-af58_1_ibex-2_2935	1	Nub-af58_2_desert-10_34	2	1	Nubian ibex	Desert	50.0
+location	Tun-c63e_40_ox-10	Tun-c63e_41_Tundra-1	Tun-c63e_40_ox-10_5249	40	Tun-c63e_41_Tundra-1_1379	41	1	musk ox	Tundra	50.0
+location	Big-0af3_59_sheep-3	Big-0af3_58_mountain-8	Big-0af3_59_sheep-3_4675	59	Big-0af3_58_mountain-8_4527	58	1	bighorn sheep	mountains	50.0
+location	Nub-af58_130_ibex-15	Nub-af58_131_desert-5	Nub-af58_130_ibex-15_2935	130	Nub-af58_131_desert-5_3805	131	1	Nubian ibex	desert	50.0
+location	Nub-af58_135_ibex-10	Nub-af58_134_desert-10	Nub-af58_135_ibex-10_2935	135	Nub-af58_134_desert-10_3805	134	1	Nubian ibex	desert	50.0
+location	Tun-c63e_40_ox-10	Tun-c63e_39_tundra-6	Tun-c63e_40_ox-10_5249	40	Tun-c63e_39_tundra-6_4539	39	1	musk ox	tundra	50.0
+location	Wat-9861_154_buffalo-2	Wat-9861_153_swamp-2	Wat-9861_154_buffalo-2_279	154	Wat-9861_153_swamp-2_3808	153	1	Water buffalo	swamp	50.0
+location	Wat-9861_154_buffalo-2	Wat-9861_153_swamp-12	Wat-9861_154_buffalo-2_279	154	Wat-9861_153_swamp-12_3808	153	1	Water buffalo	swamp	50.0
+location	Big-0af3_33_sheep-4	Big-0af3_32_Mountains-17	Big-0af3_33_sheep-4_4675	33	Big-0af3_32_Mountains-17_1366	32	1	bighorn sheep	Mountains	50.0
+location	Wil-28c2_72_buffalo-3	Wil-28c2_71_wetlands-41	Wil-28c2_72_buffalo-3_3920	72	Wil-28c2_71_wetlands-41_4542	71	1	water buffalo	wetlands	50.0
+location	Mar-3955_45_markhor-12	Mar-3955_44_mountain-31	Mar-3955_45_markhor-12_5222	45	Mar-3955_44_mountain-31_4527	44	1	markhor	mountains	50.0
+location	Mar-3955_45_markhor-2	Mar-3955_44_mountain-31	Mar-3955_45_markhor-2_5222	45	Mar-3955_44_mountain-31_4527	44	1	markhor	mountains	50.0
+location	Mar-3955_45_markhor-5	Mar-3955_44_mountain-31	Mar-3955_45_markhor-5_5222	45	Mar-3955_44_mountain-31_4527	44	1	markhor	mountains	50.0
+location	Mar-3955_77_markhor-6	Mar-3955_78_mountains-15	Mar-3955_77_markhor-6_5222	77	Mar-3955_78_mountains-15_4527	78	1	markhor	mountains	50.0
+location	Big-0af3_56_sheep-8	Big-0af3_57_desert-5	Big-0af3_56_sheep-8_4675	56	Big-0af3_57_desert-5_34	57	1	bighorn sheep	Desert	50.0
+location	Big-0af3_18_sheep-4	Big-0af3_17_desert-27	Big-0af3_18_sheep-4_4675	18	Big-0af3_17_desert-27_34	17	1	bighorn sheep	Desert	50.0
+location	Big-0af3_56_sheep-8	Big-0af3_57_desert-14	Big-0af3_56_sheep-8_4675	56	Big-0af3_57_desert-14_34	57	1	bighorn sheep	Desert	50.0
+location	Big-0af3_33_sheep-14	Big-0af3_32_Mountains-17	Big-0af3_33_sheep-14_4675	33	Big-0af3_32_Mountains-17_1366	32	1	bighorn sheep	Mountains	50.0
+location	Big-0af3_34_sheep-9	Big-0af3_35_mountains-22	Big-0af3_34_sheep-9_4675	34	Big-0af3_35_mountains-22_4527	35	1	bighorn sheep	mountains	50.0
+location	Big-0af3_18_sheep-4	Big-0af3_17_mountain-20	Big-0af3_18_sheep-4_4675	18	Big-0af3_17_mountain-20_4527	17	1	bighorn sheep	mountains	50.0
+location	Mar-3955_66_markhor-4	Mar-3955_67_mountains-19	Mar-3955_66_markhor-4_5222	66	Mar-3955_67_mountains-19_4527	67	1	markhor	mountains	50.0
+location	Wal-cefe_5_ibex-4	Wal-cefe_4_mountain-10	Wal-cefe_5_ibex-4_5601	5	Wal-cefe_4_mountain-10_4527	4	1	walia ibex	mountains	50.0
+location	Wal-cefe_11_ibex-2	Wal-cefe_10_mountain-13	Wal-cefe_11_ibex-2_3621	11	Wal-cefe_10_mountain-13_4527	10	1	Walia ibex	mountains	50.0
+location	Spr-39f8_164_Springbok-1	Spr-39f8_163_desert-26	Spr-39f8_164_Springbok-1_3411	164	Spr-39f8_163_desert-26_34	163	1	Springbok	Desert	50.0
+location	Spr-39f8_162_springbok-6	Spr-39f8_163_desert-26	Spr-39f8_162_springbok-6_5514	162	Spr-39f8_163_desert-26_34	163	1	springbok	Desert	50.0
+location	Afr-354e_19_buffalo-11	Afr-354e_20_rainforest-6	Afr-354e_19_buffalo-11_1442	19	Afr-354e_20_rainforest-6_3811	20	1	African buffalo	rainforest	50.0
+location	Wal-cefe_9_ibex-10	Wal-cefe_10_mountain-13	Wal-cefe_9_ibex-10_5601	9	Wal-cefe_10_mountain-13_4527	10	1	walia ibex	mountains	50.0
+location	Wal-cefe_9_ibex-3	Wal-cefe_10_mountain-13	Wal-cefe_9_ibex-3_5601	9	Wal-cefe_10_mountain-13_4527	10	1	walia ibex	mountains	50.0
+location	Afr-354e_3_caffer-10	Afr-354e_4_rainforests-13	Afr-354e_3_caffer-10_1443	3	Afr-354e_4_rainforests-13_3811	4	1	Syncerus caffer	rainforest	43.5
+location	Afr-354e_3_caffer-11	Afr-354e_4_rainforests-13	Afr-354e_3_caffer-11_1443	3	Afr-354e_4_rainforests-13_3811	4	1	Syncerus caffer	rainforest	43.5
+location	Afr-354e_3_caffer-19	Afr-354e_4_rainforests-13	Afr-354e_3_caffer-19_1443	3	Afr-354e_4_rainforests-13_3811	4	1	Syncerus caffer	rainforest	43.5
+location	Afr-354e_3_caffer-29	Afr-354e_4_rainforests-13	Afr-354e_3_caffer-29_1443	3	Afr-354e_4_rainforests-13_3811	4	1	Syncerus caffer	rainforest	43.5
+location	Ara-1963_42_Buffalo-19	Ara-1963_41_rainforest-5	Ara-1963_42_Buffalo-19_1444	42	Ara-1963_41_rainforest-5_3811	41	1	Buffalo	rainforest	41.5
+location	Wat-9861_83_buffalo-3	Wat-9861_84_Swamp-1	Wat-9861_83_buffalo-3_3921	83	Wat-9861_84_Swamp-1_39	84	1	river buffalo	Swamp	41.5
+location	Afr-354e_13_buffalo-3	Afr-354e_14_rainforests-7	Afr-354e_13_buffalo-3_4578	13	Afr-354e_14_rainforests-7_3811	14	1	forest buffalo	rainforest	41.5
+location	Afr-354e_22_buffalo-7	Afr-354e_23_rainforest-18	Afr-354e_22_buffalo-7_4578	22	Afr-354e_23_rainforest-18_3811	23	1	forest buffalo	rainforest	41.5
+location	Afr-354e_13_buffalo-3	Afr-354e_14_rainforests-33	Afr-354e_13_buffalo-3_4578	13	Afr-354e_14_rainforests-33_3811	14	1	forest buffalo	rainforest	41.5
+location	Afr-354e_15_buffalo-7	Afr-354e_14_rainforests-7	Afr-354e_15_buffalo-7_4576	15	Afr-354e_14_rainforests-7_3811	14	1	buffalo	rainforest	41.5
+location	Afr-354e_15_buffalo-7	Afr-354e_14_rainforests-33	Afr-354e_15_buffalo-7_4576	15	Afr-354e_14_rainforests-33_3811	14	1	buffalo	rainforest	41.5
+location	Afr-354e_3_buffalo-7	Afr-354e_4_rainforests-13	Afr-354e_3_buffalo-7_4576	3	Afr-354e_4_rainforests-13_3811	4	1	buffalo	rainforest	41.5
+location	Sno-d342_95_sheep-11	Sno-d342_96_Mountains-13	Sno-d342_95_sheep-11_1670	95	Sno-d342_96_Mountains-13_1366	96	1	Himalayan blue sheep	Mountains	41.5
+location	Ara-1963_40_Buffalo-14	Ara-1963_41_rainforest-5	Ara-1963_40_Buffalo-14_1444	40	Ara-1963_41_rainforest-5_3811	41	1	Buffalo	rainforest	41.5
+location	Wat-9861_83_buffalo-23	Wat-9861_84_Swamp-1	Wat-9861_83_buffalo-23_3921	83	Wat-9861_84_Swamp-1_39	84	1	river buffalo	Swamp	41.5
+location	Spr-39f8_162_springbok-6	Spr-39f8_160_desert-10	Spr-39f8_162_springbok-6_5514	162	Spr-39f8_160_desert-10_3805	160	2	springbok	desert	33.333
+location	Afr-354e_2_buffalo-16	Afr-354e_4_rainforests-13	Afr-354e_2_buffalo-16_1442	2	Afr-354e_4_rainforests-13_3811	4	2	African buffalo	rainforest	33.333
+location	Afr-354e_16_buffalo-3	Afr-354e_14_rainforests-7	Afr-354e_16_buffalo-3_1442	16	Afr-354e_14_rainforests-7_3811	14	2	African buffalo	rainforest	33.333
+location	Afr-354e_2_buffalo-29	Afr-354e_4_rainforests-13	Afr-354e_2_buffalo-29_1442	2	Afr-354e_4_rainforests-13_3811	4	2	African buffalo	rainforest	33.333
+location	Wal-cefe_8_ibex-8	Wal-cefe_10_mountain-13	Wal-cefe_8_ibex-8_5601	8	Wal-cefe_10_mountain-13_4527	10	2	walia ibex	mountains	33.333
+location	Tun-c63e_40_ox-10	Tun-c63e_42_tundra-8	Tun-c63e_40_ox-10_5249	40	Tun-c63e_42_tundra-8_4539	42	2	musk ox	tundra	33.333
+location	Big-0af3_30_sheep-33	Big-0af3_32_Mountains-17	Big-0af3_30_sheep-33_4675	30	Big-0af3_32_Mountains-17_1366	32	2	bighorn sheep	Mountains	33.333
+location	Spr-39f8_165_springbok-2	Spr-39f8_163_desert-26	Spr-39f8_165_springbok-2_5514	165	Spr-39f8_163_desert-26_3805	163	2	springbok	desert	33.333
+location	Nub-af58_185_ibex-2	Nub-af58_187_mountains-16	Nub-af58_185_ibex-2_2935	185	Nub-af58_187_mountains-16_4527	187	2	Nubian ibex	mountains	33.333
+location	Big-0af3_34_sheep-9	Big-0af3_32_Mountains-17	Big-0af3_34_sheep-9_4675	34	Big-0af3_32_Mountains-17_1366	32	2	bighorn sheep	Mountains	33.333
+location	Wat-9861_104_buffalo-2	Wat-9861_106_swamp-25	Wat-9861_104_buffalo-2_279	104	Wat-9861_106_swamp-25_3808	106	2	Water buffalo	swamp	33.333
+location	Wal-cefe_29_ibex-2	Wal-cefe_31_mountain-4	Wal-cefe_29_ibex-2_3621	29	Wal-cefe_31_mountain-4_4527	31	2	Walia ibex	mountains	33.333
+location	Mar-3955_65_Markhor-1	Mar-3955_67_mountains-19	Mar-3955_65_Markhor-1_2820	65	Mar-3955_67_mountains-19_4527	67	2	Markhor	mountains	33.333
+location	Spr-39f8_156_Springbok-1	Spr-39f8_158_desert-11	Spr-39f8_156_Springbok-1_3411	156	Spr-39f8_158_desert-11_34	158	2	Springbok	Desert	33.333
+location	Wal-cefe_2_ibex-3	Wal-cefe_4_mountain-10	Wal-cefe_2_ibex-3_5601	2	Wal-cefe_4_mountain-10_4527	4	2	walia ibex	mountains	33.333
+location	Wal-cefe_41_ibex-2	Wal-cefe_43_Mountains-6	Wal-cefe_41_ibex-2_3621	41	Wal-cefe_43_Mountains-6_1366	43	2	Walia ibex	Mountains	33.333
+location	Bha-2df5_7_bharal-2	Bha-2df5_5_Mountains-3	Bha-2df5_7_bharal-2_4674	7	Bha-2df5_5_Mountains-3_1366	5	2	bharal	Mountains	33.333
+location	Afr-354e_2_buffalo-4	Afr-354e_4_rainforests-13	Afr-354e_2_buffalo-4_1442	2	Afr-354e_4_rainforests-13_3811	4	2	African buffalo	rainforest	33.333
+location	Argaf7f_3_sheep-2	Argaf7f_1_mountains-9	Argaf7f_3_sheep-2_1563	3	Argaf7f_1_mountains-9_4527	1	2	Argali sheep	mountains	33.333
+location	Afr-354e_16_buffalo-3	Afr-354e_14_rainforests-33	Afr-354e_16_buffalo-3_1442	16	Afr-354e_14_rainforests-33_3811	14	2	African buffalo	rainforest	33.333
+location	Bha03bc_3_bharal-19	Bha03bc_1_Mountain-1	Bha03bc_3_bharal-19_4674	3	Bha03bc_1_Mountain-1_4527	1	2	bharal	mountains	33.333
+location	Wal-cefe_2_ibex-24	Wal-cefe_4_mountain-10	Wal-cefe_2_ibex-24_5601	2	Wal-cefe_4_mountain-10_4527	4	2	walia ibex	mountains	33.333
+location	Afr-354e_12_buffalo-13	Afr-354e_14_rainforests-7	Afr-354e_12_buffalo-13_4577	12	Afr-354e_14_rainforests-7_3811	14	2	cape buffalo	rainforest	27.667
+location	Afr-354e_12_buffalo-2	Afr-354e_14_rainforests-33	Afr-354e_12_buffalo-2_4577	12	Afr-354e_14_rainforests-33_3811	14	2	cape buffalo	rainforest	27.667
+location	Wat-9861_86_buffalo-6	Wat-9861_84_Swamp-1	Wat-9861_86_buffalo-6_3921	86	Wat-9861_84_Swamp-1_39	84	2	river buffalo	Swamp	27.667
+location	Afr-354e_12_buffalo-13	Afr-354e_14_rainforests-33	Afr-354e_12_buffalo-13_4577	12	Afr-354e_14_rainforests-33_3811	14	2	cape buffalo	rainforest	27.667
+location	Afr-354e_12_buffalo-2	Afr-354e_14_rainforests-7	Afr-354e_12_buffalo-2_4577	12	Afr-354e_14_rainforests-7_3811	14	2	cape buffalo	rainforest	27.667
+location	Tai-3286_123_sheep-22	Tai-3286_125_mountain-47	Tai-3286_123_sheep-22_1673	123	Tai-3286_125_mountain-47_4527	125	2	American bighorn sheep	mountains	27.667
+location	Tai-3286_123_sheep-13	Tai-3286_125_mountain-47	Tai-3286_123_sheep-13_1673	123	Tai-3286_125_mountain-47_4527	125	2	American bighorn sheep	mountains	27.667
+location	Big-0af3_36_sheep-3	Big-0af3_35_mountains-22	Big-0af3_36_sheep-3_1673	36	Big-0af3_35_mountains-22_4527	35	1	American bighorn sheep	mountains	27.0
+location	Wat-9861_6_buffalo-4	Wat-9861_7_swamp-29	Wat-9861_6_buffalo-4_282	6	Wat-9861_7_swamp-29_3808	7	1	Indian wild buffalo	swamp	27.0
+location	Wat-9861_6_buffalo-18	Wat-9861_7_swamp-29	Wat-9861_6_buffalo-18_282	6	Wat-9861_7_swamp-29_3808	7	1	Indian wild buffalo	swamp	27.0
+location	Wil-28c2_16_buffalo-3	Wil-28c2_15_swamp-38	Wil-28c2_16_buffalo-3_282	16	Wil-28c2_15_swamp-38_3808	15	1	Indian wild buffalo	swamp	27.0
+location	Bha-2df5_2_bharal-2	Bha-2df5_5_Mountains-3	Bha-2df5_2_bharal-2_4674	2	Bha-2df5_5_Mountains-3_1366	5	3	bharal	Mountains	25.0
+location	Nub-af58_185_ibex-2	Nub-af58_188_mountain-9	Nub-af58_185_ibex-2_2935	185	Nub-af58_188_mountain-9_4527	188	3	Nubian ibex	mountains	25.0
+location	Wat-9861_81_buffalo-8	Wat-9861_84_Swamp-1	Wat-9861_81_buffalo-8_3920	81	Wat-9861_84_Swamp-1_39	84	3	water buffalo	Swamp	25.0
+location	Wil-28c2_68_buffalo-3	Wil-28c2_71_wetlands-41	Wil-28c2_68_buffalo-3_3920	68	Wil-28c2_71_wetlands-41_4542	71	3	water buffalo	wetlands	25.0
+location	Wal-cefe_1_ibex-2	Wal-cefe_4_mountain-10	Wal-cefe_1_ibex-2_3621	1	Wal-cefe_4_mountain-10_4527	4	3	Walia ibex	mountains	25.0
+location	Mar-495f_16_buffalo-10	Mar-495f_19_marsh-9	Mar-495f_16_buffalo-10_3920	16	Mar-495f_19_marsh-9_3807	19	3	water buffalo	marsh	25.0
+location	Bha-2df5_2_nayaur-5	Bha-2df5_5_Mountains-3	Bha-2df5_2_nayaur-5_1669	2	Bha-2df5_5_Mountains-3_1366	5	3	Pseudois nayaur	Mountains	21.75
+location	Wat-9861_87_buffalo-8	Wat-9861_84_Swamp-1	Wat-9861_87_buffalo-8_3921	87	Wat-9861_84_Swamp-1_39	84	3	river buffalo	Swamp	20.75
+location	Big-0af3_12_sheep-6	Big-0af3_9_mountain-9	Big-0af3_12_sheep-6_2014	12	Big-0af3_9_mountain-9_4527	9	3	Dalls sheep	mountains	20.75
+location	Big-0af3_12_sheep-14	Big-0af3_9_mountain-9	Big-0af3_12_sheep-14_2014	12	Big-0af3_9_mountain-9_4527	9	3	Dalls sheep	mountains	20.75
+location	Big-0af3_12_sheep-25	Big-0af3_9_mountain-9	Big-0af3_12_sheep-25_2014	12	Big-0af3_9_mountain-9_4527	9	3	Dalls sheep	mountains	20.75
+location	Wat-9861_80_buffalo-6	Wat-9861_84_Swamp-1	Wat-9861_80_buffalo-6_3920	80	Wat-9861_84_Swamp-1_39	84	4	water buffalo	Swamp	20.0
+location	Mar-3955_82_Markhor-1	Mar-3955_78_mountains-15	Mar-3955_82_Markhor-1_2820	82	Mar-3955_78_mountains-15_4527	78	4	Markhor	mountains	20.0
+location	Wat-9861_88_buffalo-8	Wat-9861_84_Swamp-1	Wat-9861_88_buffalo-8_3920	88	Wat-9861_84_Swamp-1_39	84	4	water buffalo	Swamp	20.0
+location	Wat-9861_80_buffalo-42	Wat-9861_84_Swamp-1	Wat-9861_80_buffalo-42_3920	80	Wat-9861_84_Swamp-1_39	84	4	water buffalo	Swamp	20.0
+location	Spr-39f8_164_Springbok-1	Spr-39f8_160_desert-10	Spr-39f8_164_Springbok-1_3411	164	Spr-39f8_160_desert-10_34	160	4	Springbok	Desert	20.0
+location	Spr-39f8_156_Springbok-1	Spr-39f8_160_desert-10	Spr-39f8_156_Springbok-1_3411	156	Spr-39f8_160_desert-10_34	160	4	Springbok	Desert	20.0
+location	Wat-9861_88_buffalo-16	Wat-9861_84_Swamp-1	Wat-9861_88_buffalo-16_3920	88	Wat-9861_84_Swamp-1_39	84	4	water buffalo	Swamp	20.0
+location	Wat-9861_80_buffalo-19	Wat-9861_84_Swamp-1	Wat-9861_80_buffalo-19_3920	80	Wat-9861_84_Swamp-1_39	84	4	water buffalo	Swamp	20.0
+location	Mar2a6b_5_Markhor-1	Mar2a6b_1_Mountain-1	Mar2a6b_5_Markhor-1_2820	5	Mar2a6b_1_Mountain-1_4527	1	4	Markhor	mountains	20.0
+location	Tun-c63e_40_ox-10	Tun-c63e_44_Tundra-1	Tun-c63e_40_ox-10_5249	40	Tun-c63e_44_Tundra-1_1379	44	4	musk ox	Tundra	20.0
+location	Bha-2df5_9_bharal-2	Bha-2df5_5_Mountains-3	Bha-2df5_9_bharal-2_4674	9	Bha-2df5_5_Mountains-3_1366	5	4	bharal	Mountains	20.0
+location	Bha-2df5_34_bharal-9	Bha-2df5_38_mountain-16	Bha-2df5_34_bharal-9_4674	34	Bha-2df5_38_mountain-16_4527	38	4	bharal	mountains	20.0
+location	Wil-28c2_75_buffalo-3	Wil-28c2_71_wetlands-41	Wil-28c2_75_buffalo-3_3920	75	Wil-28c2_71_wetlands-41_4542	71	4	water buffalo	wetlands	20.0
+location	Wal-cefe_56_ibex-2	Wal-cefe_60_Mountains-12	Wal-cefe_56_ibex-2_3621	56	Wal-cefe_60_Mountains-12_1366	60	4	Walia ibex	Mountains	20.0
+location	Big-0af3_47_sheep-3	Big-0af3_51_Mountains-5	Big-0af3_47_sheep-3_4675	47	Big-0af3_51_Mountains-5_1366	51	4	bighorn sheep	Mountains	20.0
+location	Mar-3955_40_Markhor-1	Mar-3955_44_mountain-31	Mar-3955_40_Markhor-1_2820	40	Mar-3955_44_mountain-31_4527	44	4	Markhor	mountains	20.0
+location	Tun-c63e_40_ox-10	Tun-c63e_45_tundra-5	Tun-c63e_40_ox-10_5249	40	Tun-c63e_45_tundra-5_4539	45	5	musk ox	tundra	16.667
+location	Tun-c63e_40_ox-10	Tun-c63e_35_tundra-4	Tun-c63e_40_ox-10_5249	40	Tun-c63e_35_tundra-4_4539	35	5	musk ox	tundra	16.667
+location	Wil-28c2_76_buffalo-3	Wil-28c2_71_wetlands-41	Wil-28c2_76_buffalo-3_3920	76	Wil-28c2_71_wetlands-41_4542	71	5	water buffalo	wetlands	16.667
+location	Spr-39f8_168_Springbok-1	Spr-39f8_163_desert-26	Spr-39f8_168_Springbok-1_3411	168	Spr-39f8_163_desert-26_3805	163	5	Springbok	desert	16.667
+location	Wal-cefe_55_ibex-2	Wal-cefe_60_Mountains-12	Wal-cefe_55_ibex-2_3621	55	Wal-cefe_60_Mountains-12_1366	60	5	Walia ibex	Mountains	16.667
+location	Wat-9861_79_buffalo-8	Wat-9861_84_Swamp-1	Wat-9861_79_buffalo-8_3920	79	Wat-9861_84_Swamp-1_39	84	5	water buffalo	Swamp	16.667
+location	Sno-d342_91_markhor-29	Sno-d342_96_Mountains-13	Sno-d342_91_markhor-29_5222	91	Sno-d342_96_Mountains-13_1366	96	5	markhor	Mountains	16.667
+location	Mar-3955_39_Markhor-1	Mar-3955_44_mountain-31	Mar-3955_39_Markhor-1_2820	39	Mar-3955_44_mountain-31_4527	44	5	Markhor	mountains	16.667
+location	Mar-3955_72_Markhor-1	Mar-3955_67_mountains-19	Mar-3955_72_Markhor-1_2820	72	Mar-3955_67_mountains-19_4527	67	5	Markhor	mountains	16.667
+location	Bha03bc_6_bharals-13	Bha03bc_1_Mountain-1	Bha03bc_6_bharals-13_4674	6	Bha03bc_1_Mountain-1_4527	1	5	bharal	mountains	16.667
+location	Wat-9861_79_buffalo-13	Wat-9861_84_Swamp-1	Wat-9861_79_buffalo-13_3920	79	Wat-9861_84_Swamp-1_39	84	5	water buffalo	Swamp	16.667
+location	Mar-3955_49_Markhor-1	Mar-3955_44_mountain-31	Mar-3955_49_Markhor-1_2820	49	Mar-3955_44_mountain-31_4527	44	5	Markhor	mountains	16.667
+location	Sno-d342_91_nayaur-13	Sno-d342_96_Mountains-13	Sno-d342_91_nayaur-13_1669	91	Sno-d342_96_Mountains-13_1366	96	5	Pseudois nayaur	Mountains	14.5
+location	Sno-d342_91_falconeri-32	Sno-d342_96_Mountains-13	Sno-d342_91_falconeri-32_2821	91	Sno-d342_96_Mountains-13_1366	96	5	Capra falconeri	Mountains	14.5
+location	Bha-2df5_32_bharal-21	Bha-2df5_38_mountain-16	Bha-2df5_32_bharal-21_4674	32	Bha-2df5_38_mountain-16_4527	38	6	bharal	mountains	14.286
+location	Wal-cefe_10_ibex-9	Wal-cefe_4_mountain-10	Wal-cefe_10_ibex-9_3621	10	Wal-cefe_4_mountain-10_4527	4	6	Walia ibex	mountains	14.286
+location	Dal-d353_11_sheep-10	Dal-d353_16_Mountains-33	Dal-d353_11_sheep-10_2014	11	Dal-d353_16_Mountains-33_1366	16	5	Dalls sheep	Mountains	13.833
+location	Dal-d353_11_sheep-7	Dal-d353_16_Mountains-33	Dal-d353_11_sheep-7_2014	11	Dal-d353_16_Mountains-33_1366	16	5	Dalls sheep	Mountains	13.833
+location	Big-0af3_12_sheep-6	Big-0af3_17_mountain-20	Big-0af3_12_sheep-6_2014	12	Big-0af3_17_mountain-20_4527	17	5	Dalls sheep	mountains	13.833
+location	Dal-d353_11_sheep-7	Dal-d353_16_Mountains-30	Dal-d353_11_sheep-7_2014	11	Dal-d353_16_Mountains-30_1366	16	5	Dalls sheep	Mountains	13.833
+location	Dal-d353_11_sheep-10	Dal-d353_16_Mountains-30	Dal-d353_11_sheep-10_2014	11	Dal-d353_16_Mountains-30_1366	16	5	Dalls sheep	Mountains	13.833
+location	Big-0af3_12_sheep-25	Big-0af3_17_mountain-20	Big-0af3_12_sheep-25_2014	12	Big-0af3_17_mountain-20_4527	17	5	Dalls sheep	mountains	13.833
+location	Big-0af3_12_sheep-14	Big-0af3_17_mountain-20	Big-0af3_12_sheep-14_2014	12	Big-0af3_17_mountain-20_4527	17	5	Dalls sheep	mountains	13.833
+location	Sno-d342_91_sheep-10	Sno-d342_96_Mountains-13	Sno-d342_91_sheep-10_1670	91	Sno-d342_96_Mountains-13_1366	96	5	Himalayan blue sheep	Mountains	13.833
+location	Wat-9861_2_buffalo-14	Wat-9861_7_swamp-29	Wat-9861_2_buffalo-14_281	2	Wat-9861_7_swamp-29_3808	7	5	Asian buffalo	swamp	13.833
+location	Wat-9861_2_buffalo-18	Wat-9861_7_swamp-29	Wat-9861_2_buffalo-18_281	2	Wat-9861_7_swamp-29_3808	7	5	Asian buffalo	swamp	13.833
+location	Wat-9861_2_buffalo-3	Wat-9861_7_swamp-29	Wat-9861_2_buffalo-3_281	2	Wat-9861_7_swamp-29_3808	7	5	Asian buffalo	swamp	13.833
+location	Bha-2df5_71_sheep-8	Bha-2df5_68_Mountains-17	Bha-2df5_71_sheep-8_1670	71	Bha-2df5_68_Mountains-17_1366	68	3	Himalayan blue sheep	Mountains	13.5
+location	Bha-2df5_2_sheep-12	Bha-2df5_5_Mountains-3	Bha-2df5_2_sheep-12_1670	2	Bha-2df5_5_Mountains-3_1366	5	3	Himalayan blue sheep	Mountains	13.5
+location	Woo-aaf8_347_saiga-62	Woo-aaf8_354_deserts-47	Woo-aaf8_347_saiga-62_5439	347	Woo-aaf8_354_deserts-47_34	354	7	saiga	Desert	12.5
+location	Bha-2df5_31_bharal-30	Bha-2df5_38_mountain-16	Bha-2df5_31_bharal-30_4674	31	Bha-2df5_38_mountain-16_4527	38	7	bharal	mountains	12.5
+location	Bha-2df5_31_bharal-8	Bha-2df5_38_mountain-16	Bha-2df5_31_bharal-8_4674	31	Bha-2df5_38_mountain-16_4527	38	7	bharal	mountains	12.5
+location	Wal-cefe_53_ibex-3	Wal-cefe_60_Mountains-12	Wal-cefe_53_ibex-3_3621	53	Wal-cefe_60_Mountains-12_1366	60	7	Walia ibex	Mountains	12.5
+location	Wal-cefe_11_ibex-2	Wal-cefe_4_mountain-10	Wal-cefe_11_ibex-2_3621	11	Wal-cefe_4_mountain-10_4527	4	7	Walia ibex	mountains	12.5
+location	Tun-c63e_40_ox-10	Tun-c63e_48_tundra-29	Tun-c63e_40_ox-10_5249	40	Tun-c63e_48_tundra-29_4539	48	8	musk ox	tundra	11.111
+location	Wal-cefe_23_ibex-2	Wal-cefe_31_mountain-4	Wal-cefe_23_ibex-2_3621	23	Wal-cefe_31_mountain-4_4527	31	8	Walia ibex	mountains	11.111
+location	Tem-2c3b_12_Saiga-26	Tem-2c3b_20_grasslands-2	Tem-2c3b_12_Saiga-26_3260	12	Tem-2c3b_20_grasslands-2_1376	20	8	Saiga	Temperate grassland	11.111
+location	Tem-2c3b_12_Saiga-26	Tem-2c3b_20_grasslands-10	Tem-2c3b_12_Saiga-26_3260	12	Tem-2c3b_20_grasslands-10_1376	20	8	Saiga	Temperate grassland	11.111
+location	Dal-d353_97_dalli-18	Dal-d353_90_mountain-28	Dal-d353_97_dalli-18_2013	97	Dal-d353_90_mountain-28_4527	90	7	Ovis dalli	mountains	10.875
+location	Dal-d353_97_dalli-17	Dal-d353_90_mountain-28	Dal-d353_97_dalli-17_2013	97	Dal-d353_90_mountain-28_4527	90	7	Ovis dalli	mountains	10.875
+location	Tem-2c3b_12_Saiga-26	Tem-2c3b_21_grasslands-2	Tem-2c3b_12_Saiga-26_3260	12	Tem-2c3b_21_grasslands-2_1376	21	9	Saiga	Temperate grassland	10.0
+location	Wal-cefe_1_ibex-2	Wal-cefe_10_mountain-13	Wal-cefe_1_ibex-2_3621	1	Wal-cefe_10_mountain-13_4527	10	9	Walia ibex	mountains	10.0
+location	Sno-d342_104_sheep-26	Sno-d342_96_Mountains-13	Sno-d342_104_sheep-26_1670	104	Sno-d342_96_Mountains-13_1366	96	8	Himalayan blue sheep	Mountains	9.222
+location	Sno-d342_104_sheep-9	Sno-d342_96_Mountains-13	Sno-d342_104_sheep-9_1670	104	Sno-d342_96_Mountains-13_1366	96	8	Himalayan blue sheep	Mountains	9.222
+location	Tem-2c3b_12_Saiga-26	Tem-2c3b_2_grasslands-2	Tem-2c3b_12_Saiga-26_3260	12	Tem-2c3b_2_grasslands-2_1376	2	10	Saiga	Temperate grassland	9.091
+location	Nub-af58_198_ibex-3	Nub-af58_188_mountain-9	Nub-af58_198_ibex-3_2935	198	Nub-af58_188_mountain-9_4527	188	10	Nubian ibex	mountains	9.091
+location	Wal-cefe_41_ibex-2	Wal-cefe_31_mountain-4	Wal-cefe_41_ibex-2_3621	41	Wal-cefe_31_mountain-4_4527	31	10	Walia ibex	mountains	9.091
+location	Tun-c63e_40_ox-10	Tun-c63e_50_Tundra-1	Tun-c63e_40_ox-10_2877	40	Tun-c63e_50_Tundra-1_1379	50	10	Musk ox	Tundra	9.091
+location	Wal-cefe_53_ibex-3	Wal-cefe_43_Mountains-6	Wal-cefe_53_ibex-3_3621	53	Wal-cefe_43_Mountains-6_1366	43	10	Walia ibex	Mountains	9.091
+location	Bha-2df5_57_bharal-6	Bha-2df5_68_Mountains-17	Bha-2df5_57_bharal-6_4674	57	Bha-2df5_68_Mountains-17_1366	68	11	bharal	Mountains	8.333
+location	Tun-c63e_40_ox-10	Tun-c63e_29_Tundra-1	Tun-c63e_40_ox-10_5249	40	Tun-c63e_29_Tundra-1_1379	29	11	musk ox	Tundra	8.333
+location	Tem-2c3b_12_Saiga-26	Tem-2c3b_1_grasslands-2	Tem-2c3b_12_Saiga-26_3260	12	Tem-2c3b_1_grasslands-2_1376	1	11	Saiga	Temperate grassland	8.333
+location	Bha-2df5_57_bharal-20	Bha-2df5_68_Mountains-17	Bha-2df5_57_bharal-20_4674	57	Bha-2df5_68_Mountains-17_1366	68	11	bharal	Mountains	8.333
+location	Nub-af58_198_ibex-3	Nub-af58_187_mountains-16	Nub-af58_198_ibex-3_2935	198	Nub-af58_187_mountains-16_4527	187	11	Nubian ibex	mountains	8.333
+location	Wal-cefe_55_ibex-2	Wal-cefe_43_Mountains-6	Wal-cefe_55_ibex-2_3621	55	Wal-cefe_43_Mountains-6_1366	43	12	Walia ibex	Mountains	7.692
+location	Tun-c63e_40_ox-10	Tun-c63e_52_Tundra-1	Tun-c63e_40_ox-10_5249	40	Tun-c63e_52_Tundra-1_1379	52	12	musk ox	Tundra	7.692
+location	Tem-2c3b_12_Saiga-26	Tem-2c3b_24_grasslands-2	Tem-2c3b_12_Saiga-26_3260	12	Tem-2c3b_24_grasslands-2_1376	24	12	Saiga	Temperate grassland	7.692
+location	Mar-495f_16_buffalo-10	Mar-495f_4_marsh-2	Mar-495f_16_buffalo-10_3920	16	Mar-495f_4_marsh-2_3807	4	12	water buffalo	marsh	7.692
+location	Tun-c63e_40_ox-10	Tun-c63e_27_tundras-2	Tun-c63e_40_ox-10_2877	40	Tun-c63e_27_tundras-2_4539	27	13	Musk ox	tundra	7.143
+location	Wal-cefe_23_ibex-2	Wal-cefe_10_mountain-13	Wal-cefe_23_ibex-2_3621	23	Wal-cefe_10_mountain-13_4527	10	13	Walia ibex	mountains	7.143
+location	Nub-af58_201_ibex-2	Nub-af58_188_mountain-9	Nub-af58_201_ibex-2_2935	201	Nub-af58_188_mountain-9_4527	188	13	Nubian ibex	mountains	7.143
+location	Wal-cefe_56_ibex-2	Wal-cefe_43_Mountains-6	Wal-cefe_56_ibex-2_3621	56	Wal-cefe_43_Mountains-6_1366	43	13	Walia ibex	Mountains	7.143
+location	Bha-2df5_51_bharal-2	Bha-2df5_38_mountain-16	Bha-2df5_51_bharal-2_4674	51	Bha-2df5_38_mountain-16_4527	38	13	bharal	mountains	7.143
+location	Dal-d353_97_dalli-18	Dal-d353_109_Mountain-1	Dal-d353_97_dalli-18_2013	97	Dal-d353_109_Mountain-1_4527	109	12	Ovis dalli	mountains	6.692
+location	Dal-d353_97_dalli-17	Dal-d353_109_Mountain-1	Dal-d353_97_dalli-17_2013	97	Dal-d353_109_Mountain-1_4527	109	12	Ovis dalli	mountains	6.692
+location	Tem-2c3b_12_Saiga-26	Tem-2c3b_26_grasslands-2	Tem-2c3b_12_Saiga-26_3260	12	Tem-2c3b_26_grasslands-2_1376	26	14	Saiga	Temperate grassland	6.667
+location	Dal-d353_2_sheep-9	Dal-d353_16_Mountains-33	Dal-d353_2_sheep-9_2012	2	Dal-d353_16_Mountains-33_1366	16	14	Dall sheep	Mountains	6.667
+location	Wal-cefe_29_ibex-2	Wal-cefe_43_Mountains-6	Wal-cefe_29_ibex-2_3621	29	Wal-cefe_43_Mountains-6_1366	43	14	Walia ibex	Mountains	6.667
+location	Tun-c63e_40_ox-10	Tun-c63e_54_tundra-2	Tun-c63e_40_ox-10_2877	40	Tun-c63e_54_tundra-2_4539	54	14	Musk ox	tundra	6.667
+location	Dal-d353_2_sheep-9	Dal-d353_16_Mountains-30	Dal-d353_2_sheep-9_2012	2	Dal-d353_16_Mountains-30_1366	16	14	Dall sheep	Mountains	6.667
+location	Bha-2df5_54_bharal-27	Bha-2df5_68_Mountains-17	Bha-2df5_54_bharal-27_4674	54	Bha-2df5_68_Mountains-17_1366	68	14	bharal	Mountains	6.667
+location	Cou-56f5_112_sheep-23	Cou-56f5_98_Mountains-5	Cou-56f5_112_sheep-23_4675	112	Cou-56f5_98_Mountains-5_1366	98	14	bighorn sheep	Mountains	6.667
+location	Mar-495f_16_buffalo-10	Mar-495f_2_marsh-2	Mar-495f_16_buffalo-10_3920	16	Mar-495f_2_marsh-2_3807	2	14	water buffalo	marsh	6.667
+location	Dal-d353_2_sheep-12	Dal-d353_16_Mountains-30	Dal-d353_2_sheep-12_2012	2	Dal-d353_16_Mountains-30_1366	16	14	Dall sheep	Mountains	6.667
+location	Dal-d353_2_sheep-19	Dal-d353_16_Mountains-30	Dal-d353_2_sheep-19_2012	2	Dal-d353_16_Mountains-30_1366	16	14	Dall sheep	Mountains	6.667
+location	Dal-d353_2_sheep-19	Dal-d353_16_Mountains-33	Dal-d353_2_sheep-19_2012	2	Dal-d353_16_Mountains-33_1366	16	14	Dall sheep	Mountains	6.667
+location	Dal-d353_2_sheep-12	Dal-d353_16_Mountains-33	Dal-d353_2_sheep-12_2012	2	Dal-d353_16_Mountains-33_1366	16	14	Dall sheep	Mountains	6.667
+location	Nub-af58_201_ibex-2	Nub-af58_187_mountains-16	Nub-af58_201_ibex-2_2935	201	Nub-af58_187_mountains-16_4527	187	14	Nubian ibex	mountains	6.667
+adaptation	Blu-3a31_98_wildebeest-8	Blu-3a31_98_social-47	Blu-3a31_98_wildebeest-8_4706	98	Blu-3a31_98_social-47_3788	98	0	blue wildebeest	social	100.0
+adaptation	Sai-afdf_54_gazelles-6	Sai-afdf_54_migrations-13	Sai-afdf_54_gazelles-6_2863	54	Sai-afdf_54_migrations-13_3781	54	0	Mongolian gazelle	migration	100.0
+adaptation	Wil-de29_102_wildebeest-10	Wil-de29_102_migration-16	Wil-de29_102_wildebeest-10_4706	102	Wil-de29_102_migration-16_1	102	0	blue wildebeest	Migration	100.0
+adaptation	Wil-de29_8_wildebeest-7	Wil-de29_8_migration-22	Wil-de29_8_wildebeest-7_4706	8	Wil-de29_8_migration-22_1	8	0	blue wildebeest	Migration	100.0
+adaptation	Bon-fbc3_61_Bongo-1	Bon-fbc3_61_Social-6	Bon-fbc3_61_Bongo-1_1745	61	Bon-fbc3_61_Social-6_3788	61	0	Bongo	social	100.0
+adaptation	Tem-2c3b_12_Saiga-26	Tem-2c3b_12_migrations-12	Tem-2c3b_12_Saiga-26_3260	12	Tem-2c3b_12_migrations-12_3781	12	0	Saiga	migration	100.0
+adaptation	Bon-fbc3_96_bongos-6	Bon-fbc3_96_herbivorous-8	Bon-fbc3_96_bongos-6_4714	96	Bon-fbc3_96_herbivorous-8_3784	96	0	bongo	herbivorous	100.0
+adaptation	Wil-de29_8_wildebeest-31	Wil-de29_8_migration-22	Wil-de29_8_wildebeest-31_4706	8	Wil-de29_8_migration-22_3781	8	0	blue wildebeest	migration	100.0
+adaptation	Afr-324e_62_buffalo-2	Afr-324e_62_Social-4	Afr-324e_62_buffalo-2_1442	62	Afr-324e_62_Social-4_3788	62	0	African buffalo	social	100.0
+adaptation	Top-df25_42_topi-2	Top-df25_42_social-10	Top-df25_42_topi-2_5574	42	Top-df25_42_social-10_3788	42	0	topi	social	100.0
+adaptation	Spr-39f8_94_springbok-6	Spr-39f8_94_social-2	Spr-39f8_94_springbok-6_5514	94	Spr-39f8_94_social-2_3788	94	0	springbok	social	100.0
+adaptation	Afr-324e_110_buffalo-2	Afr-324e_110_Social-4	Afr-324e_110_buffalo-2_1442	110	Afr-324e_110_Social-4_3788	110	0	African buffalo	social	100.0
+adaptation	Afr-354e_32_buffalo-3	Afr-354e_32_Social-5	Afr-354e_32_buffalo-3_4576	32	Afr-354e_32_Social-5_3788	32	0	buffalo	social	83.0
+adaptation	Afr-354e_89_buffalo-7	Afr-354e_89_social-19	Afr-354e_89_buffalo-7_4576	89	Afr-354e_89_social-19_3788	89	0	buffalo	social	83.0
+adaptation	Man-5a67_13_cow-4	Man-5a67_13_herbivorous-16	Man-5a67_13_cow-4_4646	13	Man-5a67_13_herbivorous-16_3784	13	0	cows	herbivorous	83.0
+adaptation	Man-5a67_2_cows-24	Man-5a67_2_herbivorous-17	Man-5a67_2_cows-24_4646	2	Man-5a67_2_herbivorous-17_3784	2	0	cows	herbivorous	83.0
+adaptation	Sir-1b7d_2_cows-11	Sir-1b7d_2_herbivorous-22	Sir-1b7d_2_cows-11_4646	2	Sir-1b7d_2_herbivorous-22_3784	2	0	cows	herbivorous	83.0
+adaptation	Asi-f65e_101_cows-6	Asi-f65e_101_social-12	Asi-f65e_101_cows-6_4646	101	Asi-f65e_101_social-12_3788	101	0	cows	social	83.0
+adaptation	Afr-7494_7_cows-12	Afr-7494_7_social-4	Afr-7494_7_cows-12_4646	7	Afr-7494_7_social-4_3788	7	0	cows	social	83.0
+adaptation	Aur-c4ea_123_cows-25	Aur-c4ea_123_social-11	Aur-c4ea_123_cows-25_4646	123	Aur-c4ea_123_social-11_3788	123	0	cows	social	83.0
+adaptation	Aur-c4ea_123_cows-25	Aur-c4ea_123_social-4	Aur-c4ea_123_cows-25_4646	123	Aur-c4ea_123_social-4_3788	123	0	cows	social	83.0
+adaptation	Ind-363f_137_cows-2	Ind-363f_137_social-6	Ind-363f_137_cows-2_4646	137	Ind-363f_137_social-6_3788	137	0	cows	social	83.0
+adaptation	Blu-3a31_185_wildebeest-6	Blu-3a31_184_migration-12	Blu-3a31_185_wildebeest-6_4706	185	Blu-3a31_184_migration-12_3781	184	1	blue wildebeest	migration	50.0
+adaptation	Wil-de29_81_wildebeest-3	Wil-de29_80_migrations-21	Wil-de29_81_wildebeest-3_4706	81	Wil-de29_80_migrations-21_1	80	1	blue wildebeest	Migration	50.0
+adaptation	Wil-28c2_51_buffalo-3	Wil-28c2_52_nocturnal-8	Wil-28c2_51_buffalo-3_3920	51	Wil-28c2_52_nocturnal-8_3967	52	1	water buffalo	nocturnal	50.0
+adaptation	Blu-3a31_15_wildebeest-3	Blu-3a31_14_migration-14	Blu-3a31_15_wildebeest-3_4706	15	Blu-3a31_14_migration-14_3781	14	1	blue wildebeest	migration	50.0
+adaptation	Wil-de29_102_wildebeest-10	Wil-de29_103_migrations-5	Wil-de29_102_wildebeest-10_4706	102	Wil-de29_103_migrations-5_1	103	1	blue wildebeest	Migration	50.0
+adaptation	Bov-d455_225_topi-7	Bov-d455_226_displays-19	Bov-d455_225_topi-7_5574	225	Bov-d455_226_displays-19_3951	226	1	topi	courtship display	50.0
+adaptation	Bov-d455_225_topi-7	Bov-d455_226_displays-16	Bov-d455_225_topi-7_5574	225	Bov-d455_226_displays-16_3951	226	1	topi	courtship display	50.0
+adaptation	Ani6f2b_116_Saiga-1	Ani6f2b_117_Migration-1	Ani6f2b_116_Saiga-1_3260	116	Ani6f2b_117_Migration-1_3781	117	1	Saiga	migration	50.0
+adaptation	Ani6f2b_116_Saiga-1	Ani6f2b_115_migration-20	Ani6f2b_116_Saiga-1_3260	116	Ani6f2b_115_migration-20_3781	115	1	Saiga	migration	50.0
+adaptation	Nub-af58_75_ibex-2	Nub-af58_76_Social-1	Nub-af58_75_ibex-2_2935	75	Nub-af58_76_Social-1_3788	76	1	Nubian ibex	social	50.0
+adaptation	Ani6f2b_13_gazelles-2	Ani6f2b_12_migration-2	Ani6f2b_13_gazelles-2_2863	13	Ani6f2b_12_migration-2_3781	12	1	Mongolian gazelle	migration	50.0
+adaptation	Top-df25_2_topi-8	Top-df25_3_social-5	Top-df25_2_topi-8_5574	2	Top-df25_3_social-5_3788	3	1	topi	social	50.0
+adaptation	Dam-2357_65_topi-3	Dam-2357_66_migration-3	Dam-2357_65_topi-3_5574	65	Dam-2357_66_migration-3_3781	66	1	topi	migration	50.0
+adaptation	Top-df25_2_topi-16	Top-df25_3_social-5	Top-df25_2_topi-16_5574	2	Top-df25_3_social-5_3788	3	1	topi	social	50.0
+adaptation	Bon-fbc3_62_bongos-6	Bon-fbc3_61_Social-6	Bon-fbc3_62_bongos-6_4714	62	Bon-fbc3_61_Social-6_3788	61	1	bongo	social	50.0
+adaptation	Ame-d5c4_161_bison-2	Ame-d5c4_160_social-19	Ame-d5c4_161_bison-2_1484	161	Ame-d5c4_160_social-19_3788	160	1	American bison	social	50.0
+adaptation	Afr-324e_95_buffalo-2	Afr-324e_96_Social-1	Afr-324e_95_buffalo-2_1442	95	Afr-324e_96_Social-1_3788	96	1	African buffalo	social	50.0
+adaptation	Bon-fbc3_95_Bongo-1	Bon-fbc3_96_herbivorous-8	Bon-fbc3_95_Bongo-1_1745	95	Bon-fbc3_96_herbivorous-8_3784	96	1	Bongo	herbivorous	50.0
+adaptation	Afr-354e_33_buffalo-3	Afr-354e_32_Social-5	Afr-354e_33_buffalo-3_1442	33	Afr-354e_32_Social-5_3788	32	1	African buffalo	social	50.0
+adaptation	Afr-354e_33_buffalo-15	Afr-354e_32_Social-5	Afr-354e_33_buffalo-15_1442	33	Afr-354e_32_Social-5_3788	32	1	African buffalo	social	50.0
+adaptation	Blu-3a31_44_wildebeest-3	Blu-3a31_45_social-4	Blu-3a31_44_wildebeest-3_4706	44	Blu-3a31_45_social-4_3788	45	1	blue wildebeest	social	50.0
+adaptation	Wil-de29_52_wildebeest-12	Wil-de29_53_social-4	Wil-de29_52_wildebeest-12_4706	52	Wil-de29_53_social-4_3788	53	1	blue wildebeest	social	50.0
+adaptation	Wil-de29_52_wildebeest-3	Wil-de29_53_social-4	Wil-de29_52_wildebeest-3_4706	52	Wil-de29_53_social-4_3788	53	1	blue wildebeest	social	50.0
+adaptation	Blu-3a31_44_wildebeest-11	Blu-3a31_45_social-4	Blu-3a31_44_wildebeest-11_4706	44	Blu-3a31_45_social-4_3788	45	1	blue wildebeest	social	50.0
+adaptation	Mac-9f03_40_saiga-34	Mac-9f03_41_herbivorous-14	Mac-9f03_40_saiga-34_5439	40	Mac-9f03_41_herbivorous-14_3784	41	1	saiga	herbivorous	50.0
+adaptation	Ame-d5c4_133_bison-2	Ame-d5c4_134_Social-5	Ame-d5c4_133_bison-2_1484	133	Ame-d5c4_134_Social-5_3788	134	1	American bison	social	50.0
+adaptation	Asi-f65e_12_Cows-1	Asi-f65e_11_herbivorous-3	Asi-f65e_12_Cows-1_4646	12	Asi-f65e_11_herbivorous-3_3784	11	1	cows	herbivorous	41.5
+adaptation	Asi-f65e_69_cows-34	Asi-f65e_70_dimorphism-2	Asi-f65e_69_cows-34_4646	69	Asi-f65e_70_dimorphism-2_3791	70	1	cows	sexual dimorphism	41.5
+adaptation	Sir-1b7d_3_cow-20	Sir-1b7d_2_herbivorous-22	Sir-1b7d_3_cow-20_4646	3	Sir-1b7d_2_herbivorous-22_3784	2	1	cows	herbivorous	41.5
+adaptation	Dug-bf37_20_cows-16	Dug-bf37_21_herbivorous-14	Dug-bf37_20_cows-16_4646	20	Dug-bf37_21_herbivorous-14_3784	21	1	cows	herbivorous	41.5
+adaptation	Dug-bf37_20_cows-16	Dug-bf37_21_herbivorous-6	Dug-bf37_20_cows-16_4646	20	Dug-bf37_21_herbivorous-6_3784	21	1	cows	herbivorous	41.5
+adaptation	Afr-324e_155_Buffalo-8	Afr-324e_156_Social-1	Afr-324e_155_Buffalo-8_1444	155	Afr-324e_156_Social-1_11	156	1	Buffalo	Social	41.5
+adaptation	Ani6f2b_116_Saiga-1	Ani6f2b_114_migrations-2	Ani6f2b_116_Saiga-1_3260	116	Ani6f2b_114_migrations-2_3781	114	2	Saiga	migration	33.333
+adaptation	Nub-af58_75_ibex-2	Nub-af58_77_social-3	Nub-af58_75_ibex-2_2935	75	Nub-af58_77_social-3_3788	77	2	Nubian ibex	social	33.333
+adaptation	Bon-fbc3_59_bongo-2	Bon-fbc3_61_Social-6	Bon-fbc3_59_bongo-2_4714	59	Bon-fbc3_61_Social-6_3788	61	2	bongo	social	33.333
+adaptation	Bon-fbc3_7_bongo-5	Bon-fbc3_5_social-5	Bon-fbc3_7_bongo-5_4714	7	Bon-fbc3_5_social-5_3788	5	2	bongo	social	33.333
+adaptation	Top-df25_5_topi-45	Top-df25_3_social-5	Top-df25_5_topi-45_5574	5	Top-df25_3_social-5_3788	3	2	topi	social	33.333
+adaptation	Spr-39f8_92_springbok-7	Spr-39f8_94_social-2	Spr-39f8_92_springbok-7_5514	92	Spr-39f8_94_social-2_3788	94	2	springbok	social	33.333
+adaptation	Blu-3a31_96_wildebeest-3	Blu-3a31_98_social-47	Blu-3a31_96_wildebeest-3_4706	96	Blu-3a31_98_social-47_3788	98	2	blue wildebeest	social	33.333
+adaptation	Dom-6f87_103_sheep-3	Dom-6f87_105_social-7	Dom-6f87_103_sheep-3_4675	103	Dom-6f87_105_social-7_3788	105	2	bighorn sheep	social	33.333
+adaptation	Top-df25_5_topi-27	Top-df25_3_social-5	Top-df25_5_topi-27_5574	5	Top-df25_3_social-5_3788	3	2	topi	social	33.333
+adaptation	Ame-d5c4_177_bison-2	Ame-d5c4_175_social-26	Ame-d5c4_177_bison-2_1484	177	Ame-d5c4_175_social-26_3788	175	2	American bison	social	33.333
+adaptation	Afr-354e_34_buffalo-2	Afr-354e_32_Social-5	Afr-354e_34_buffalo-2_1445	34	Afr-354e_32_Social-5_3788	32	2	Cape buffalo	social	27.667
+adaptation	Afr-354e_34_buffalo-15	Afr-354e_32_Social-5	Afr-354e_34_buffalo-15_1445	34	Afr-354e_32_Social-5_3788	32	2	Cape buffalo	social	27.667
+adaptation	Orn-efbf_5_cow-34	Orn-efbf_3_herbivorous-10	Orn-efbf_5_cow-34_4646	5	Orn-efbf_3_herbivorous-10_3784	3	2	cows	herbivorous	27.667
+adaptation	Art-6267_151_antelopes-3	Art-6267_149_dimorphism-11	Art-6267_151_antelopes-3_1686	151	Art-6267_149_dimorphism-11_3791	149	2	Indian antelope	sexual dimorphism	27.667
+adaptation	Spr-39f8_91_Springbok-1	Spr-39f8_94_social-2	Spr-39f8_91_Springbok-1_3411	91	Spr-39f8_94_social-2_3788	94	3	Springbok	social	25.0
+adaptation	Saidf6a_6_Saiga-1	Saidf6a_9_Migration-1	Saidf6a_6_Saiga-1_3260	6	Saidf6a_9_Migration-1_3781	9	3	Saiga	migration	25.0
+adaptation	Sai-afdf_57_Saiga-1	Sai-afdf_54_migrations-13	Sai-afdf_57_Saiga-1_3260	57	Sai-afdf_54_migrations-13_3781	54	3	Saiga	migration	25.0
+adaptation	Big-0af3_59_sheep-3	Big-0af3_62_adapted-4	Big-0af3_59_sheep-3_4675	59	Big-0af3_62_adapted-4_3949	62	3	bighorn sheep	adapted to climbing	25.0
+adaptation	Wil-28c2_49_buffaloes-9	Wil-28c2_52_nocturnal-8	Wil-28c2_49_buffaloes-9_3920	49	Wil-28c2_52_nocturnal-8_3967	52	3	water buffalo	nocturnal	25.0
+adaptation	Bon-fbc3_58_bongo-12	Bon-fbc3_61_Social-6	Bon-fbc3_58_bongo-12_4714	58	Bon-fbc3_61_Social-6_3788	61	3	bongo	social	25.0
+adaptation	Blu-3a31_116_wildebeest-3	Blu-3a31_113_territorial-6	Blu-3a31_116_wildebeest-3_4706	116	Blu-3a31_113_territorial-6_3985	113	3	blue wildebeest	territorial	25.0
+adaptation	Bon-fbc3_8_bongo-5	Bon-fbc3_5_social-5	Bon-fbc3_8_bongo-5_4714	8	Bon-fbc3_5_social-5_3788	5	3	bongo	social	25.0
+adaptation	Bon-fbc3_2_bongo-2	Bon-fbc3_5_social-5	Bon-fbc3_2_bongo-2_4714	2	Bon-fbc3_5_social-5_3788	5	3	bongo	social	25.0
+adaptation	Sno-d342_91_markhor-29	Sno-d342_88_communication-36	Sno-d342_91_markhor-29_5222	91	Sno-d342_88_communication-36_3790	88	3	markhor	chemical communication	25.0
+adaptation	Spr-39f8_101_springbok-22	Spr-39f8_98_Territorial-1	Spr-39f8_101_springbok-22_5514	101	Spr-39f8_98_Territorial-1_3985	98	3	springbok	territorial	25.0
+adaptation	Che-369e_16_springbok-30	Che-369e_13_social-7	Che-369e_16_springbok-30_5514	16	Che-369e_13_social-7_3788	13	3	springbok	social	25.0
+adaptation	Afr-3b7b_181_wildebeest-38	Afr-3b7b_178_territorial-18	Afr-3b7b_181_wildebeest-38_4706	181	Afr-3b7b_178_territorial-18_3985	178	3	blue wildebeest	territorial	25.0
+adaptation	Afr-3b7b_120_springbok-26	Afr-3b7b_117_social-7	Afr-3b7b_120_springbok-26_5514	120	Afr-3b7b_117_social-7_3788	117	3	springbok	social	25.0
+adaptation	Nub-af58_73_ibex-2	Nub-af58_76_Social-1	Nub-af58_73_ibex-2_2935	73	Nub-af58_76_Social-1_3788	76	3	Nubian ibex	social	25.0
+adaptation	Ani6f2b_13_gazelles-2	Ani6f2b_16_migration-2	Ani6f2b_13_gazelles-2_2863	13	Ani6f2b_16_migration-2_3781	16	3	Mongolian gazelle	migration	25.0
+adaptation	Sno-d342_91_falconeri-32	Sno-d342_88_communication-36	Sno-d342_91_falconeri-32_2821	91	Sno-d342_88_communication-36_3790	88	3	Capra falconeri	chemical communication	21.75
+adaptation	Aur-c4ea_62_cows-27	Aur-c4ea_65_dimorphism-39	Aur-c4ea_62_cows-27_4646	62	Aur-c4ea_65_dimorphism-39_14	65	3	cows	Sexual dimorphism	20.75
+adaptation	Tai-3286_123_sheep-13	Tai-3286_120_herbivorous-11	Tai-3286_123_sheep-13_1673	123	Tai-3286_120_herbivorous-11_3784	120	3	American bighorn sheep	herbivorous	20.75
+adaptation	Tai-3286_123_sheep-22	Tai-3286_120_herbivorous-11	Tai-3286_123_sheep-22_1673	123	Tai-3286_120_herbivorous-11_3784	120	3	American bighorn sheep	herbivorous	20.75
+adaptation	Spe-2571_84_cattle-24	Spe-2571_81_herbivorous-13	Spe-2571_84_cattle-24_4647	84	Spe-2571_81_herbivorous-13_3784	81	3	domestic cattle	herbivorous	20.75
+adaptation	Afr-324e_99_cattle-13	Afr-324e_96_Social-1	Afr-324e_99_cattle-13_1607	99	Afr-324e_96_Social-1_3788	96	3	Domestic cattle	social	20.75
+adaptation	Bon-fbc3_1_Bongo-1	Bon-fbc3_5_social-5	Bon-fbc3_1_Bongo-1_1745	1	Bon-fbc3_5_social-5_3788	5	4	Bongo	social	20.0
+adaptation	Top-df25_38_Topi-1	Top-df25_42_social-10	Top-df25_38_Topi-1_3556	38	Top-df25_42_social-10_3788	42	4	Topi	social	20.0
+adaptation	Ani6f2b_13_gazelles-2	Ani6f2b_9_Migration-1	Ani6f2b_13_gazelles-2_2863	13	Ani6f2b_9_Migration-1_1	9	4	Mongolian gazelle	Migration	20.0
+adaptation	Afr-3b7b_182_springbok-36	Afr-3b7b_178_territorial-18	Afr-3b7b_182_springbok-36_5514	182	Afr-3b7b_178_territorial-18_3985	178	4	springbok	territorial	20.0
+adaptation	Afr-3b7b_120_springbok-26	Afr-3b7b_124_social-7	Afr-3b7b_120_springbok-26_5514	120	Afr-3b7b_124_social-7_3788	124	4	springbok	social	20.0
+adaptation	Mon-b346_18_gazelles-15	Mon-b346_14_migrations-9	Mon-b346_18_gazelles-15_2863	18	Mon-b346_14_migrations-9_3781	14	4	Mongolian gazelle	migration	20.0
+adaptation	Wil-28c2_48_buffalo-18	Wil-28c2_52_nocturnal-8	Wil-28c2_48_buffalo-18_3920	48	Wil-28c2_52_nocturnal-8_3967	52	4	water buffalo	nocturnal	20.0
+adaptation	Spr-39f8_90_Springbok-1	Spr-39f8_94_social-2	Spr-39f8_90_Springbok-1_3411	90	Spr-39f8_94_social-2_3788	94	4	Springbok	social	20.0
+adaptation	Spr-39f8_94_springbok-6	Spr-39f8_98_Territorial-1	Spr-39f8_94_springbok-6_5514	94	Spr-39f8_98_Territorial-1_3985	98	4	springbok	territorial	20.0
+adaptation	Bla-3ee3_73_blackbuck-2	Bla-3ee3_77_dimorphism-2	Bla-3ee3_73_blackbuck-2_4683	73	Bla-3ee3_77_dimorphism-2_14	77	4	blackbuck	Sexual dimorphism	20.0
+adaptation	Nub-af58_72_ibex-2	Nub-af58_76_Social-1	Nub-af58_72_ibex-2_2935	72	Nub-af58_76_Social-1_3788	76	4	Nubian ibex	social	20.0
+adaptation	Nub-af58_73_ibex-2	Nub-af58_77_social-3	Nub-af58_73_ibex-2_2935	73	Nub-af58_77_social-3_3788	77	4	Nubian ibex	social	20.0
+adaptation	Din-756f_375_bison-27	Din-756f_380_social-7	Din-756f_375_bison-27_1484	375	Din-756f_380_social-7_3788	380	5	American bison	social	16.667
+adaptation	Nub-af58_72_ibex-2	Nub-af58_77_social-3	Nub-af58_72_ibex-2_2935	72	Nub-af58_77_social-3_3788	77	5	Nubian ibex	social	16.667
+adaptation	Blu-3a31_50_wildebeest-9	Blu-3a31_45_social-4	Blu-3a31_50_wildebeest-9_4706	50	Blu-3a31_45_social-4_3788	45	5	blue wildebeest	social	16.667
+adaptation	Blu-3a31_93_wildebeest-3	Blu-3a31_98_social-47	Blu-3a31_93_wildebeest-3_4706	93	Blu-3a31_98_social-47_3788	98	5	blue wildebeest	social	16.667
+adaptation	Blu-3a31_127_wildebeest-3	Blu-3a31_132_territorial-16	Blu-3a31_127_wildebeest-3_4706	127	Blu-3a31_132_territorial-16_3985	132	5	blue wildebeest	territorial	16.667
+adaptation	Blu-3a31_98_wildebeest-8	Blu-3a31_103_territorial-3	Blu-3a31_98_wildebeest-8_4706	98	Blu-3a31_103_territorial-3_3985	103	5	blue wildebeest	territorial	16.667
+adaptation	Bon-fbc3_101_bongo-16	Bon-fbc3_96_herbivorous-8	Bon-fbc3_101_bongo-16_4714	101	Bon-fbc3_96_herbivorous-8_3784	96	5	bongo	herbivorous	16.667
+adaptation	Bon-fbc3_101_bongo-9	Bon-fbc3_96_herbivorous-8	Bon-fbc3_101_bongo-9_4714	101	Bon-fbc3_96_herbivorous-8_3784	96	5	bongo	herbivorous	16.667
+adaptation	Ame-d5c4_170_bison-2	Ame-d5c4_175_social-26	Ame-d5c4_170_bison-2_1484	170	Ame-d5c4_175_social-26_3788	175	5	American bison	social	16.667
+adaptation	Bon-fbc3_91_Bongos-1	Bon-fbc3_96_herbivorous-8	Bon-fbc3_91_Bongos-1_1745	91	Bon-fbc3_96_herbivorous-8_3784	96	5	Bongo	herbivorous	16.667
+adaptation	Bha-2df5_34_bharal-9	Bha-2df5_39_camouflage-5	Bha-2df5_34_bharal-9_4674	34	Bha-2df5_39_camouflage-5_3947	39	5	bharal	camouflage	16.667
+adaptation	Spr-39f8_103_Springbok-1	Spr-39f8_98_Territorial-1	Spr-39f8_103_Springbok-1_3411	103	Spr-39f8_98_Territorial-1_3985	98	5	Springbok	territorial	16.667
+adaptation	Bla-3ee3_82_blackbuck-26	Bla-3ee3_77_dimorphism-2	Bla-3ee3_82_blackbuck-26_4683	82	Bla-3ee3_77_dimorphism-2_14	77	5	blackbuck	Sexual dimorphism	16.667
+adaptation	Bla-3ee3_72_blackbuck-2	Bla-3ee3_77_dimorphism-2	Bla-3ee3_72_blackbuck-2_4683	72	Bla-3ee3_77_dimorphism-2_3791	77	5	blackbuck	sexual dimorphism	16.667
+adaptation	Aur-c4ea_87_cows-13	Aur-c4ea_83_dimorphism-6	Aur-c4ea_87_cows-13_4646	87	Aur-c4ea_83_dimorphism-6_3791	83	4	cows	sexual dimorphism	16.6
+adaptation	Aur-c4ea_79_cows-30	Aur-c4ea_83_dimorphism-6	Aur-c4ea_79_cows-30_4646	79	Aur-c4ea_83_dimorphism-6_14	83	4	cows	Sexual dimorphism	16.6
+adaptation	Bla-3ee3_71_blackbuck-10	Bla-3ee3_77_dimorphism-2	Bla-3ee3_71_blackbuck-10_4683	71	Bla-3ee3_77_dimorphism-2_14	77	6	blackbuck	Sexual dimorphism	14.286
+adaptation	Afr-324e_150_buffalo-2	Afr-324e_156_Social-1	Afr-324e_150_buffalo-2_1442	150	Afr-324e_156_Social-1_11	156	6	African buffalo	Social	14.286
+adaptation	Sai-afdf_60_saiga-4	Sai-afdf_54_migrations-13	Sai-afdf_60_saiga-4_5439	60	Sai-afdf_54_migrations-13_1	54	6	saiga	Migration	14.286
+adaptation	Bon-fbc3_11_Bongo-30	Bon-fbc3_5_social-5	Bon-fbc3_11_Bongo-30_1745	11	Bon-fbc3_5_social-5_3788	5	6	Bongo	social	14.286
+adaptation	Liz-2f75_162_buffalo-20	Liz-2f75_168_herbivorous-4	Liz-2f75_162_buffalo-20_3920	162	Liz-2f75_168_herbivorous-4_3784	168	6	water buffalo	herbivorous	14.286
+adaptation	Bon-fbc3_102_bongos-4	Bon-fbc3_96_herbivorous-8	Bon-fbc3_102_bongos-4_4714	102	Bon-fbc3_96_herbivorous-8_3784	96	6	bongo	herbivorous	14.286
+adaptation	Dam-2357_60_topi-2	Dam-2357_66_migration-3	Dam-2357_60_topi-2_5574	60	Dam-2357_66_migration-3_1	66	6	topi	Migration	14.286
+adaptation	Bla-3ee3_83_Blackbuck-1	Bla-3ee3_77_dimorphism-2	Bla-3ee3_83_Blackbuck-1_1684	83	Bla-3ee3_77_dimorphism-2_14	77	6	Blackbuck	Sexual dimorphism	14.286
+adaptation	Din-756f_375_bison-27	Din-756f_369_social-6	Din-756f_375_bison-27_1484	375	Din-756f_369_social-6_3788	369	6	American bison	social	14.286
+adaptation	Spr-39f8_104_springbok-11	Spr-39f8_98_Territorial-1	Spr-39f8_104_springbok-11_5514	104	Spr-39f8_98_Territorial-1_3985	98	6	springbok	territorial	14.286
+adaptation	Spr-39f8_92_springbok-7	Spr-39f8_98_Territorial-1	Spr-39f8_92_springbok-7_5514	92	Spr-39f8_98_Territorial-1_3985	98	6	springbok	territorial	14.286
+adaptation	Nub-af58_70_ibex-2	Nub-af58_76_Social-1	Nub-af58_70_ibex-2_2935	70	Nub-af58_76_Social-1_3788	76	6	Nubian ibex	social	14.286
+adaptation	Bha-2df5_34_bharal-9	Bha-2df5_40_camouflage-24	Bha-2df5_34_bharal-9_4674	34	Bha-2df5_40_camouflage-24_3947	40	6	bharal	camouflage	14.286
+adaptation	Big-0af3_56_sheep-8	Big-0af3_62_adapted-4	Big-0af3_56_sheep-8_4675	56	Big-0af3_62_adapted-4_3949	62	6	bighorn sheep	adapted to climbing	14.286
+adaptation	Nub-af58_83_ibex-2	Nub-af58_77_social-3	Nub-af58_83_ibex-2_2935	83	Nub-af58_77_social-3_3788	77	6	Nubian ibex	social	14.286
+adaptation	Pra-7b55_47_buffalo-16	Pra-7b55_42_herbivorous-5	Pra-7b55_47_buffalo-16_4576	47	Pra-7b55_42_herbivorous-5_3784	42	5	buffalo	herbivorous	13.833
+adaptation	Blu-3a31_96_wildebeest-3	Blu-3a31_103_territorial-3	Blu-3a31_96_wildebeest-3_4706	96	Blu-3a31_103_territorial-3_3985	103	7	blue wildebeest	territorial	12.5
+adaptation	Liz-2f75_162_buffalo-20	Liz-2f75_155_herbivorous-28	Liz-2f75_162_buffalo-20_3920	162	Liz-2f75_155_herbivorous-28_3784	155	7	water buffalo	herbivorous	12.5
+adaptation	Asi-28dd_54_buffalo-17	Asi-28dd_47_nocturnal-8	Asi-28dd_54_buffalo-17_3920	54	Asi-28dd_47_nocturnal-8_3967	47	7	water buffalo	nocturnal	12.5
+adaptation	Sai-afdf_61_saiga-7	Sai-afdf_54_migrations-13	Sai-afdf_61_saiga-7_5439	61	Sai-afdf_54_migrations-13_1	54	7	saiga	Migration	12.5
+adaptation	Bha-2df5_32_bharal-21	Bha-2df5_39_camouflage-5	Bha-2df5_32_bharal-21_4674	32	Bha-2df5_39_camouflage-5_3947	39	7	bharal	camouflage	12.5
+adaptation	Dom3f20_30_Markhor-1	Dom3f20_23_social-15	Dom3f20_30_Markhor-1_2820	30	Dom3f20_23_social-15_3788	23	7	Markhor	social	12.5
+adaptation	Bla-3ee3_84_blackbuck-2	Bla-3ee3_77_dimorphism-2	Bla-3ee3_84_blackbuck-2_4683	84	Bla-3ee3_77_dimorphism-2_14	77	7	blackbuck	Sexual dimorphism	12.5
+adaptation	Spr-39f8_91_Springbok-1	Spr-39f8_98_Territorial-1	Spr-39f8_91_Springbok-1_3411	91	Spr-39f8_98_Territorial-1_3985	98	7	Springbok	territorial	12.5
+adaptation	Dom-6f87_103_sheep-3	Dom-6f87_96_hierarchical-15	Dom-6f87_103_sheep-3_4675	103	Dom-6f87_96_hierarchical-15_3782	96	7	bighorn sheep	hierarchical	12.5
+adaptation	Spr-39f8_105_Springbok-1	Spr-39f8_98_Territorial-1	Spr-39f8_105_Springbok-1_3411	105	Spr-39f8_98_Territorial-1_3985	98	7	Springbok	territorial	12.5
+adaptation	Afr-324e_149_buffalo-2	Afr-324e_156_Social-1	Afr-324e_149_buffalo-2_1442	149	Afr-324e_156_Social-1_11	156	7	African buffalo	Social	12.5
+adaptation	Afr-324e_56_cattle-15	Afr-324e_62_Social-4	Afr-324e_56_cattle-15_1607	56	Afr-324e_62_Social-4_3788	62	6	Domestic cattle	social	11.857
+adaptation	Aur-c4ea_117_cattle-44	Aur-c4ea_123_social-4	Aur-c4ea_117_cattle-44_1607	117	Aur-c4ea_123_social-4_3788	123	6	Domestic cattle	social	11.857
+adaptation	Aur-c4ea_117_cattle-44	Aur-c4ea_123_social-11	Aur-c4ea_117_cattle-44_4647	117	Aur-c4ea_123_social-11_3788	123	6	domestic cattle	social	11.857
+adaptation	Bha-2df5_31_bharal-30	Bha-2df5_39_camouflage-5	Bha-2df5_31_bharal-30_4674	31	Bha-2df5_39_camouflage-5_3947	39	8	bharal	camouflage	11.111
+adaptation	Bha-2df5_32_bharal-21	Bha-2df5_40_camouflage-24	Bha-2df5_32_bharal-21_4674	32	Bha-2df5_40_camouflage-24_3947	40	8	bharal	camouflage	11.111
+adaptation	Dom-6f87_103_sheep-3	Dom-6f87_95_hierarchical-17	Dom-6f87_103_sheep-3_4675	103	Dom-6f87_95_hierarchical-17_4	95	8	bighorn sheep	Hierarchical	11.111
+adaptation	Bon-fbc3_104_Bongo-1	Bon-fbc3_96_herbivorous-8	Bon-fbc3_104_Bongo-1_1745	104	Bon-fbc3_96_herbivorous-8_3784	96	8	Bongo	herbivorous	11.111
+adaptation	Sai-afdf_62_saiga-13	Sai-afdf_54_migrations-13	Sai-afdf_62_saiga-13_5439	62	Sai-afdf_54_migrations-13_1	54	8	saiga	Migration	11.111
+adaptation	Bha-2df5_31_bharal-8	Bha-2df5_39_camouflage-5	Bha-2df5_31_bharal-8_4674	31	Bha-2df5_39_camouflage-5_3947	39	8	bharal	camouflage	11.111
+adaptation	Sai-afdf_46_saiga-19	Sai-afdf_54_migrations-13	Sai-afdf_46_saiga-19_5439	46	Sai-afdf_54_migrations-13_1	54	8	saiga	Migration	11.111
+adaptation	Saidf6a_1_saiga-4	Saidf6a_9_Migration-1	Saidf6a_1_saiga-4_5439	1	Saidf6a_9_Migration-1_1	9	8	saiga	Migration	11.111
+adaptation	Bon-fbc3_13_Bongo-1	Bon-fbc3_5_social-5	Bon-fbc3_13_Bongo-1_1745	13	Bon-fbc3_5_social-5_3788	5	8	Bongo	social	11.111
+adaptation	Din-756f_375_springbok-31	Din-756f_367_herbivorous-3	Din-756f_375_springbok-31_5514	375	Din-756f_367_herbivorous-3_3784	367	8	springbok	herbivorous	11.111
+adaptation	Afr-3b7b_120_springbok-26	Afr-3b7b_128_hierarchical-33	Afr-3b7b_120_springbok-26_5514	120	Afr-3b7b_128_hierarchical-33_3782	128	8	springbok	hierarchical	11.111
+adaptation	Sai-afdf_46_saiga-35	Sai-afdf_54_migrations-13	Sai-afdf_46_saiga-35_5439	46	Sai-afdf_54_migrations-13_1	54	8	saiga	Migration	11.111
+adaptation	Bon-fbc3_53_Bongo-1	Bon-fbc3_61_Social-6	Bon-fbc3_53_Bongo-1_1745	53	Bon-fbc3_61_Social-6_3788	61	8	Bongo	social	11.111
+adaptation	Spr-39f8_90_Springbok-1	Spr-39f8_98_Territorial-1	Spr-39f8_90_Springbok-1_3411	90	Spr-39f8_98_Territorial-1_3985	98	8	Springbok	territorial	11.111
+adaptation	Dom3f20_30_Markhor-1	Dom3f20_38_Social-1	Dom3f20_30_Markhor-1_2820	30	Dom3f20_38_Social-1_3788	38	8	Markhor	social	11.111
+adaptation	Din-756f_375_bison-27	Din-756f_367_herbivorous-3	Din-756f_375_bison-27_1484	375	Din-756f_367_herbivorous-3_3784	367	8	American bison	herbivorous	11.111
+adaptation	Top-df25_10_korrigum-28	Top-df25_3_social-5	Top-df25_10_korrigum-28_5575	10	Top-df25_3_social-5_3788	3	7	korrigum	social	10.375
+adaptation	Top-df25_10_korrigum-21	Top-df25_3_social-5	Top-df25_10_korrigum-21_5575	10	Top-df25_3_social-5_3788	3	7	korrigum	social	10.375
+adaptation	Top-df25_10_korrigum-35	Top-df25_3_social-5	Top-df25_10_korrigum-35_5575	10	Top-df25_3_social-5_3788	3	7	korrigum	social	10.375
+adaptation	Spr-39f8_103_Springbok-1	Spr-39f8_94_social-2	Spr-39f8_103_Springbok-1_3411	103	Spr-39f8_94_social-2_3788	94	9	Springbok	social	10.0
+adaptation	Sai-afdf_63_saiga-8	Sai-afdf_54_migrations-13	Sai-afdf_63_saiga-8_5439	63	Sai-afdf_54_migrations-13_1	54	9	saiga	Migration	10.0
+adaptation	Bha-2df5_31_bharal-8	Bha-2df5_40_camouflage-24	Bha-2df5_31_bharal-8_4674	31	Bha-2df5_40_camouflage-24_3947	40	9	bharal	camouflage	10.0
+adaptation	Bla-3ee3_86_blackbuck-12	Bla-3ee3_77_dimorphism-2	Bla-3ee3_86_blackbuck-12_4683	86	Bla-3ee3_77_dimorphism-2_3791	77	9	blackbuck	sexual dimorphism	10.0
+adaptation	Bha-2df5_31_bharal-30	Bha-2df5_40_camouflage-24	Bha-2df5_31_bharal-30_4674	31	Bha-2df5_40_camouflage-24_3947	40	9	bharal	camouflage	10.0
+adaptation	Aur-c4ea_75_cows-4	Aur-c4ea_83_dimorphism-6	Aur-c4ea_75_cows-4_4646	75	Aur-c4ea_83_dimorphism-6_3791	83	8	cows	sexual dimorphism	9.222
+adaptation	Afr-324e_56_cattle-15	Afr-324e_48_social-16	Afr-324e_56_cattle-15_1607	56	Afr-324e_48_social-16_3788	48	8	Domestic cattle	social	9.222
+adaptation	Ovi-a47a_29_sheep-3	Ovi-a47a_37_social-3	Ovi-a47a_29_sheep-3_2014	29	Ovi-a47a_37_social-3_3788	37	8	Dalls sheep	social	9.222
+adaptation	Aur-c4ea_57_cattle-26	Aur-c4ea_65_dimorphism-39	Aur-c4ea_57_cattle-26_1607	57	Aur-c4ea_65_dimorphism-39_14	65	8	Domestic cattle	Sexual dimorphism	9.222
+adaptation	Liz-2f75_162_buffalo-20	Liz-2f75_152_social-18	Liz-2f75_162_buffalo-20_3920	162	Liz-2f75_152_social-18_3788	152	10	water buffalo	social	9.091
+adaptation	Bon-fbc3_86_Bongo-1	Bon-fbc3_96_herbivorous-8	Bon-fbc3_86_Bongo-1_1745	86	Bon-fbc3_96_herbivorous-8_3784	96	10	Bongo	herbivorous	9.091
+adaptation	Sai-afdf_64_saiga-11	Sai-afdf_54_migrations-13	Sai-afdf_64_saiga-11_5439	64	Sai-afdf_54_migrations-13_3781	54	10	saiga	migration	9.091
+adaptation	Big-0af3_67_sheep-9	Big-0af3_72_Social-1	Big-0af3_67_sheep-9_1673	67	Big-0af3_72_Social-1_3788	72	5	American bighorn sheep	social	9.0
+adaptation	Big-0af3_67_sheep-9	Big-0af3_62_adapted-4	Big-0af3_67_sheep-9_1673	67	Big-0af3_62_adapted-4_3949	62	5	American bighorn sheep	adapted to climbing	9.0
+adaptation	Spr-39f8_105_Springbok-1	Spr-39f8_94_social-2	Spr-39f8_105_Springbok-1_3411	105	Spr-39f8_94_social-2_3788	94	11	Springbok	social	8.333
+adaptation	Afr-324e_145_buffalo-2	Afr-324e_156_Social-1	Afr-324e_145_buffalo-2_1442	145	Afr-324e_156_Social-1_11	156	11	African buffalo	Social	8.333
+adaptation	Dam-2357_55_topi-16	Dam-2357_66_migration-3	Dam-2357_55_topi-16_5574	55	Dam-2357_66_migration-3_1	66	11	topi	Migration	8.333
+adaptation	Bon-fbc3_85_Bongo-1	Bon-fbc3_96_herbivorous-8	Bon-fbc3_85_Bongo-1_1745	85	Bon-fbc3_96_herbivorous-8_3784	96	11	Bongo	herbivorous	8.333
+adaptation	Afr-324e_167_buffalo-2	Afr-324e_156_Social-1	Afr-324e_167_buffalo-2_1442	167	Afr-324e_156_Social-1_11	156	11	African buffalo	Social	8.333
+adaptation	Bon-fbc3_50_Bongo-1	Bon-fbc3_61_Social-6	Bon-fbc3_50_Bongo-1_1745	50	Bon-fbc3_61_Social-6_3788	61	11	Bongo	social	8.333
+adaptation	Afr-324e_147_cattle-10	Afr-324e_156_Social-1	Afr-324e_147_cattle-10_1607	147	Afr-324e_156_Social-1_11	156	9	Domestic cattle	Social	8.3
+adaptation	Spr-39f8_82_Springbok-1	Spr-39f8_94_social-2	Spr-39f8_82_Springbok-1_3411	82	Spr-39f8_94_social-2_3788	94	12	Springbok	social	7.692
+adaptation	Bla-3ee3_65_Blackbuck-1	Bla-3ee3_77_dimorphism-2	Bla-3ee3_65_Blackbuck-1_1684	65	Bla-3ee3_77_dimorphism-2_14	77	12	Blackbuck	Sexual dimorphism	7.692
+adaptation	Wil-28c2_40_buffaloes-17	Wil-28c2_52_nocturnal-8	Wil-28c2_40_buffaloes-17_3920	40	Wil-28c2_52_nocturnal-8_3967	52	12	water buffalo	nocturnal	7.692
+adaptation	Blu-3a31_35_wildebeest-15	Blu-3a31_45_social-4	Blu-3a31_35_wildebeest-15_4708	35	Blu-3a31_45_social-4_3788	45	10	white-bearded wildebeest	social	7.545
+adaptation	Afr-324e_169_buffalo-6	Afr-324e_156_Social-1	Afr-324e_169_buffalo-6_1442	169	Afr-324e_156_Social-1_11	156	13	African buffalo	Social	7.143
+adaptation	Big-0af3_59_sheep-3	Big-0af3_72_Social-1	Big-0af3_59_sheep-3_4675	59	Big-0af3_72_Social-1_3788	72	13	bighorn sheep	social	7.143
+adaptation	Bov-d455_176_saigas-11	Bov-d455_163_Social-1	Bov-d455_176_saigas-11_5439	176	Bov-d455_163_Social-1_3788	163	13	saiga	social	7.143
+adaptation	Che-369e_284_blackbuck-33	Che-369e_271_Social-1	Che-369e_284_blackbuck-33_4683	284	Che-369e_271_Social-1_3788	271	13	blackbuck	social	7.143
+adaptation	Afr-324e_169_buffalo-9	Afr-324e_156_Social-1	Afr-324e_169_buffalo-9_1442	169	Afr-324e_156_Social-1_11	156	13	African buffalo	Social	7.143
+adaptation	Afr-324e_143_buffalo-39	Afr-324e_156_Social-1	Afr-324e_143_buffalo-39_1442	143	Afr-324e_156_Social-1_11	156	13	African buffalo	Social	7.143
+adaptation	Bov-d455_24_cattle-18	Bov-d455_13_social-9	Bov-d455_24_cattle-18_1607	24	Bov-d455_13_social-9_3788	13	11	Domestic cattle	social	6.917
+adaptation	Afr-324e_99_cattle-13	Afr-324e_110_Social-4	Afr-324e_99_cattle-13_1607	99	Afr-324e_110_Social-4_3788	110	11	Domestic cattle	social	6.917
+adaptation	Bov-d455_24_cattle-18	Bov-d455_13_social-6	Bov-d455_24_cattle-18_4647	24	Bov-d455_13_social-6_3788	13	11	domestic cattle	social	6.917
+adaptation	Pra-7b55_47_buffalo-16	Pra-7b55_36_dimorphism-2	Pra-7b55_47_buffalo-16_4576	47	Pra-7b55_36_dimorphism-2_14	36	11	buffalo	Sexual dimorphism	6.917
+adaptation	Spe-2571_84_cattle-24	Spe-2571_73_herbivorous-5	Spe-2571_84_cattle-24_4647	84	Spe-2571_73_herbivorous-5_3784	73	11	domestic cattle	herbivorous	6.917
+adaptation	Spo-c072_240_buffalo-2	Spo-c072_229_social-6	Spo-c072_240_buffalo-2_4577	240	Spo-c072_229_social-6_3788	229	11	cape buffalo	social	6.917
+adaptation	Blu-3a31_37_wildebeest-15	Blu-3a31_45_social-4	Blu-3a31_37_wildebeest-15_1736	37	Blu-3a31_45_social-4_3788	45	8	White-bearded wildebeest	social	6.889
+adaptation	Spr-39f8_112_springbok-20	Spr-39f8_98_Territorial-1	Spr-39f8_112_springbok-20_5514	112	Spr-39f8_98_Territorial-1_3985	98	14	springbok	territorial	6.667
+adaptation	Spr-39f8_84_springbok-22	Spr-39f8_98_Territorial-1	Spr-39f8_84_springbok-22_5514	84	Spr-39f8_98_Territorial-1_3985	98	14	springbok	territorial	6.667
+adaptation	Spr-39f8_112_springbok-9	Spr-39f8_98_Territorial-1	Spr-39f8_112_springbok-9_5514	112	Spr-39f8_98_Territorial-1_3985	98	14	springbok	territorial	6.667
+adaptation	Spo-c072_241_buffalo-10	Spo-c072_229_social-6	Spo-c072_241_buffalo-10_1445	241	Spo-c072_229_social-6_3788	229	12	Cape buffalo	social	6.385
+adaptation	Big-0af3_47_sheep-3	Big-0af3_62_adapted-4	Big-0af3_47_sheep-3_4675	47	Big-0af3_62_adapted-4_3949	62	15	bighorn sheep	adapted to climbing	6.25
+adaptation	Spr-39f8_83_springbok-10	Spr-39f8_98_Territorial-1	Spr-39f8_83_springbok-10_5514	83	Spr-39f8_98_Territorial-1_3985	98	15	springbok	territorial	6.25
+adaptation	Bov-d455_24_cattle-18	Bov-d455_11_Social-1	Bov-d455_24_cattle-18_4647	24	Bov-d455_11_Social-1_3788	11	13	domestic cattle	social	5.929
+adaptation	Rei-38eb_295_cows-6	Rei-38eb_308_communication-29	Rei-38eb_295_cows-6_4646	295	Rei-38eb_308_communication-29_3783	308	13	cows	acoustic communication	5.929
+adaptation	Spr-39f8_82_springbok-13	Spr-39f8_98_Territorial-1	Spr-39f8_82_springbok-13_5514	82	Spr-39f8_98_Territorial-1_3985	98	16	springbok	territorial	5.882
+adaptation	Iri-77a8_91_saiga-20	Iri-77a8_75_dimorphism-15	Iri-77a8_91_saiga-20_5439	91	Iri-77a8_75_dimorphism-15_3791	75	16	saiga	sexual dimorphism	5.882
+adaptation	Dam-2357_82_topi-2	Dam-2357_66_migration-3	Dam-2357_82_topi-2_5574	82	Dam-2357_66_migration-3_1	66	16	topi	Migration	5.882
+adaptation	Din-756f_375_bison-27	Din-756f_391_herbivorous-5	Din-756f_375_bison-27_1484	375	Din-756f_391_herbivorous-5_3784	391	16	American bison	herbivorous	5.882
+adaptation	Big-0af3_56_sheep-8	Big-0af3_72_Social-1	Big-0af3_56_sheep-8_4675	56	Big-0af3_72_Social-1_3788	72	16	bighorn sheep	social	5.882
+adaptation	Din-756f_375_springbok-31	Din-756f_391_herbivorous-5	Din-756f_375_springbok-31_5514	375	Din-756f_391_herbivorous-5_3784	391	16	springbok	herbivorous	5.882
+adaptation	Iri-77a8_91_saiga-20	Iri-77a8_75_social-5	Iri-77a8_91_saiga-20_5439	91	Iri-77a8_75_social-5_3788	75	16	saiga	social	5.882
+adaptation	Wil-28c2_68_buffalo-3	Wil-28c2_52_nocturnal-8	Wil-28c2_68_buffalo-3_3920	68	Wil-28c2_52_nocturnal-8_3967	52	16	water buffalo	nocturnal	5.882
+adaptation	Spr-39f8_82_Springbok-1	Spr-39f8_98_Territorial-1	Spr-39f8_82_Springbok-1_3411	82	Spr-39f8_98_Territorial-1_3985	98	16	Springbok	territorial	5.882
+adaptation	Che-369e_474_blackbuck-24	Che-369e_491_social-13	Che-369e_474_blackbuck-24_4683	474	Che-369e_491_social-13_3788	491	17	blackbuck	social	5.556
+adaptation	Bha-2df5_25_sheep-3	Bha-2df5_39_camouflage-5	Bha-2df5_25_sheep-3_1670	25	Bha-2df5_39_camouflage-5_3947	39	14	Himalayan blue sheep	camouflage	5.533
+adaptation	Bha-2df5_25_sheep-19	Bha-2df5_39_camouflage-5	Bha-2df5_25_sheep-19_1670	25	Bha-2df5_39_camouflage-5_3947	39	14	Himalayan blue sheep	camouflage	5.533
+adaptation	Bha-2df5_25_sheep-10	Bha-2df5_39_camouflage-5	Bha-2df5_25_sheep-10_1670	25	Bha-2df5_39_camouflage-5_3947	39	14	Himalayan blue sheep	camouflage	5.533
+adaptation	Wil-de29_26_topi-41	Wil-de29_8_migration-22	Wil-de29_26_topi-41_5574	26	Wil-de29_8_migration-22_3781	8	18	topi	migration	5.263
+adaptation	Iri-77a8_93_saiga-2	Iri-77a8_75_dimorphism-15	Iri-77a8_93_saiga-2_5439	93	Iri-77a8_75_dimorphism-15_3791	75	18	saiga	sexual dimorphism	5.263
+adaptation	Iri-77a8_93_saiga-2	Iri-77a8_75_social-5	Iri-77a8_93_saiga-2_5439	93	Iri-77a8_75_social-5_3788	75	18	saiga	social	5.263
+adaptation	Dom-6f87_103_sheep-3	Dom-6f87_85_hierarchical-9	Dom-6f87_103_sheep-3_4675	103	Dom-6f87_85_hierarchical-9_3782	85	18	bighorn sheep	hierarchical	5.263
+adaptation	Bha-2df5_25_sheep-3	Bha-2df5_40_camouflage-24	Bha-2df5_25_sheep-3_1670	25	Bha-2df5_40_camouflage-24_3947	40	15	Himalayan blue sheep	camouflage	5.188
+adaptation	Bha-2df5_25_sheep-19	Bha-2df5_40_camouflage-24	Bha-2df5_25_sheep-19_1670	25	Bha-2df5_40_camouflage-24_3947	40	15	Himalayan blue sheep	camouflage	5.188
+adaptation	Bha-2df5_25_sheep-10	Bha-2df5_40_camouflage-24	Bha-2df5_25_sheep-10_1670	25	Bha-2df5_40_camouflage-24_3947	40	15	Himalayan blue sheep	camouflage	5.188
+adaptation	Dug-bf37_218_cows-14	Dug-bf37_203_communication-2	Dug-bf37_218_cows-14_4646	218	Dug-bf37_203_communication-2_3794	203	15	cows	visual communication	5.188
+adaptation	Liz-2f75_9_buffalo-30	Liz-2f75_28_herbivorous-19	Liz-2f75_9_buffalo-30_3920	9	Liz-2f75_28_herbivorous-19_3784	28	19	water buffalo	herbivorous	5.0
+adaptation	Dom-6f87_103_sheep-3	Dom-6f87_122_social-8	Dom-6f87_103_sheep-3_4675	103	Dom-6f87_122_social-8_3788	122	19	bighorn sheep	social	5.0
+adaptation	Bha-2df5_29_sheep-4	Bha-2df5_39_camouflage-5	Bha-2df5_29_sheep-4_1670	29	Bha-2df5_39_camouflage-5_3947	39	10	Himalayan blue sheep	camouflage	4.909
+adaptation	Dee-529a_73_buffalo-61	Dee-529a_89_dimorphism-2	Dee-529a_73_buffalo-61_4576	73	Dee-529a_89_dimorphism-2_3791	89	16	buffalo	sexual dimorphism	4.882
+adaptation	Bla-3ee3_97_Blackbuck-1	Bla-3ee3_77_dimorphism-2	Bla-3ee3_97_Blackbuck-1_1684	97	Bla-3ee3_77_dimorphism-2_3791	77	20	Blackbuck	sexual dimorphism	4.762
+adaptation	Wil-28c2_72_buffalo-3	Wil-28c2_52_nocturnal-8	Wil-28c2_72_buffalo-3_3920	72	Wil-28c2_52_nocturnal-8_3967	52	20	water buffalo	nocturnal	4.762
+adaptation	Big-0af3_59_sheep-3	Big-0af3_79_social-6	Big-0af3_59_sheep-3_4675	59	Big-0af3_79_social-6_3788	79	20	bighorn sheep	social	4.762
+adaptation	Ovi-a47a_29_sheep-3	Ovi-a47a_46_Social-1	Ovi-a47a_29_sheep-3_2014	29	Ovi-a47a_46_Social-1_3788	46	17	Dalls sheep	social	4.611
+adaptation	Bha-2df5_28_sheep-3	Bha-2df5_39_camouflage-5	Bha-2df5_28_sheep-3_1670	28	Bha-2df5_39_camouflage-5_3947	39	11	Himalayan blue sheep	camouflage	4.5
+adaptation	Bha-2df5_29_sheep-4	Bha-2df5_40_camouflage-24	Bha-2df5_29_sheep-4_1670	29	Bha-2df5_40_camouflage-24_3947	40	11	Himalayan blue sheep	camouflage	4.5
+adaptation	Cat-98ff_90_buffalo-33	Cat-98ff_72_dimorphism-2	Cat-98ff_90_buffalo-33_4576	90	Cat-98ff_72_dimorphism-2_14	72	18	buffalo	Sexual dimorphism	4.368
+adaptation	Spo-c072_240_buffalo-2	Spo-c072_222_social-24	Spo-c072_240_buffalo-2_4577	240	Spo-c072_222_social-24_3788	222	18	cape buffalo	social	4.368
+adaptation	Top-df25_21_korrigum-13	Top-df25_3_social-5	Top-df25_21_korrigum-13_5575	21	Top-df25_3_social-5_3788	3	18	korrigum	social	4.368
+adaptation	Big-0af3_40_sheep-22	Big-0af3_62_adapted-4	Big-0af3_40_sheep-22_4675	40	Big-0af3_62_adapted-4_3949	62	22	bighorn sheep	adapted to climbing	4.348
+adaptation	Big-0af3_40_sheep-4	Big-0af3_62_adapted-4	Big-0af3_40_sheep-4_4675	40	Big-0af3_62_adapted-4_3949	62	22	bighorn sheep	adapted to climbing	4.348
+adaptation	Big-0af3_40_sheep-13	Big-0af3_62_adapted-4	Big-0af3_40_sheep-13_4675	40	Big-0af3_62_adapted-4_3949	62	22	bighorn sheep	adapted to climbing	4.348
+adaptation	Bon-fbc3_27_Bongo-1	Bon-fbc3_5_social-5	Bon-fbc3_27_Bongo-1_1745	27	Bon-fbc3_5_social-5_3788	5	22	Bongo	social	4.348
+adaptation	Bla-3ee3_54_Blackbuck-1	Bla-3ee3_77_dimorphism-2	Bla-3ee3_54_Blackbuck-1_1684	54	Bla-3ee3_77_dimorphism-2_14	77	23	Blackbuck	Sexual dimorphism	4.167
+adaptation	Wil-28c2_75_buffalo-3	Wil-28c2_52_nocturnal-8	Wil-28c2_75_buffalo-3_3920	75	Wil-28c2_52_nocturnal-8_3967	52	23	water buffalo	nocturnal	4.167
+adaptation	Bov-d455_230_buffalo-20	Bov-d455_207_dimorphism-4	Bov-d455_230_buffalo-20_1442	230	Bov-d455_207_dimorphism-4_3791	207	23	African buffalo	sexual dimorphism	4.167
+adaptation	Big-0af3_56_sheep-8	Big-0af3_79_social-6	Big-0af3_56_sheep-8_4675	56	Big-0af3_79_social-6_3788	79	23	bighorn sheep	social	4.167
+adaptation	Bha-2df5_28_sheep-3	Bha-2df5_40_camouflage-24	Bha-2df5_28_sheep-3_1670	28	Bha-2df5_40_camouflage-24_3947	40	12	Himalayan blue sheep	camouflage	4.154
+adaptation	Big-0af3_67_sheep-9	Big-0af3_79_social-6	Big-0af3_67_sheep-9_1673	67	Big-0af3_79_social-6_3788	79	12	American bighorn sheep	social	4.154
+adaptation	Spe-2571_84_cattle-24	Spe-2571_103_care-18	Spe-2571_84_cattle-24_4647	84	Spe-2571_103_care-18_3785	103	19	domestic cattle	maternal care	4.15
+adaptation	Spo-c072_241_buffalo-10	Spo-c072_222_social-24	Spo-c072_241_buffalo-10_4577	241	Spo-c072_222_social-24_3788	222	19	cape buffalo	social	4.15
+adaptation	Bon-fbc3_85_Bongo-1	Bon-fbc3_61_Social-6	Bon-fbc3_85_Bongo-1_1745	85	Bon-fbc3_61_Social-6_3788	61	24	Bongo	social	4.0
+adaptation	Bon-fbc3_37_Bongo-1	Bon-fbc3_61_Social-6	Bon-fbc3_37_Bongo-1_1745	37	Bon-fbc3_61_Social-6_3788	61	24	Bongo	social	4.0
+adaptation	Wil-28c2_76_buffalo-3	Wil-28c2_52_nocturnal-8	Wil-28c2_76_buffalo-3_3920	76	Wil-28c2_52_nocturnal-8_3967	52	24	water buffalo	nocturnal	4.0
+adaptation	Din-756f_375_bison-27	Din-756f_350_herbivorous-5	Din-756f_375_bison-27_1484	375	Din-756f_350_herbivorous-5_3784	350	25	American bison	herbivorous	3.846
+adaptation	Wil-28c2_27_buffalo-4	Wil-28c2_52_nocturnal-8	Wil-28c2_27_buffalo-4_3920	27	Wil-28c2_52_nocturnal-8_3967	52	25	water buffalo	nocturnal	3.846
+adaptation	Din-756f_375_springbok-31	Din-756f_350_herbivorous-5	Din-756f_375_springbok-31_5514	375	Din-756f_350_herbivorous-5_3784	350	25	springbok	herbivorous	3.846
+adaptation	Big-0af3_47_sheep-3	Big-0af3_72_Social-1	Big-0af3_47_sheep-3_4675	47	Big-0af3_72_Social-1_3788	72	25	bighorn sheep	social	3.846
+adaptation	Bon-fbc3_121_Bongo-1	Bon-fbc3_96_herbivorous-8	Bon-fbc3_121_Bongo-1_1745	121	Bon-fbc3_96_herbivorous-8_3784	96	25	Bongo	herbivorous	3.846
+adaptation	Dom3f20_30_Markhor-1	Dom3f20_5_Hierarchical-1	Dom3f20_30_Markhor-1_2820	30	Dom3f20_5_Hierarchical-1_3782	5	25	Markhor	hierarchical	3.846
+adaptation	Bon-fbc3_86_Bongo-1	Bon-fbc3_61_Social-6	Bon-fbc3_86_Bongo-1_1745	86	Bon-fbc3_61_Social-6_3788	61	25	Bongo	social	3.846
+adaptation	Top-df25_21_korrigum-13	Top-df25_42_social-10	Top-df25_21_korrigum-13_5575	21	Top-df25_42_social-10_3788	42	21	korrigum	social	3.773
+taxongroup	Afr-324e_131_buffalo-7	Afr-324e_131_animal-12	Afr-324e_131_buffalo-7_1442	131	Afr-324e_131_animal-12_44	131	0	African buffalo	Animals	100.0
+taxongroup	Bon-fbc3_127_bongo-15	Bon-fbc3_127_animal-32	Bon-fbc3_127_bongo-15_4714	127	Bon-fbc3_127_animal-32_3812	127	0	bongo	animals	100.0
+taxongroup	Bon-fbc3_117_bongo-18	Bon-fbc3_117_animal-13	Bon-fbc3_117_bongo-18_4714	117	Bon-fbc3_117_animal-13_3812	117	0	bongo	animals	100.0
+taxongroup	Bon-fbc3_103_bongo-7	Bon-fbc3_103_animal-4	Bon-fbc3_103_bongo-7_4714	103	Bon-fbc3_103_animal-4_3812	103	0	bongo	animals	100.0
+taxongroup	Bon-fbc3_160_bongo-9	Bon-fbc3_160_animals-29	Bon-fbc3_160_bongo-9_4714	160	Bon-fbc3_160_animals-29_3812	160	0	bongo	animals	100.0
+taxongroup	Bon-fbc3_160_bongo-9	Bon-fbc3_160_mammals-18	Bon-fbc3_160_bongo-9_4714	160	Bon-fbc3_160_mammals-18_3797	160	0	bongo	mammals	100.0
+taxongroup	Mar-3955_130_markhor-2	Mar-3955_130_animal-6	Mar-3955_130_markhor-2_5222	130	Mar-3955_130_animal-6_44	130	0	markhor	Animals	100.0
+taxongroup	Mar-3955_4_markhor-2	Mar-3955_4_animal-6	Mar-3955_4_markhor-2_5222	4	Mar-3955_4_animal-6_44	4	0	markhor	Animals	100.0
+taxongroup	Sno-d342_91_markhor-29	Sno-d342_91_Capra-31	Sno-d342_91_markhor-29_5222	91	Sno-d342_91_Capra-31_956	91	0	markhor	Capra	100.0
+taxongroup	Cap-9b25_29_markhor-36	Cap-9b25_29_Capra-38	Cap-9b25_29_markhor-36_5222	29	Cap-9b25_29_Capra-38_956	29	0	markhor	Capra	100.0
+taxongroup	Cap-9b25_29_markhor-36	Cap-9b25_29_Capra-21	Cap-9b25_29_markhor-36_5222	29	Cap-9b25_29_Capra-21_956	29	0	markhor	Capra	100.0
+taxongroup	Cap-9b25_29_markhor-36	Cap-9b25_29_Capra-46	Cap-9b25_29_markhor-36_5222	29	Cap-9b25_29_Capra-46_956	29	0	markhor	Capra	100.0
+taxongroup	Cap-9b25_29_markhor-36	Cap-9b25_29_Capra-30	Cap-9b25_29_markhor-36_5222	29	Cap-9b25_29_Capra-30_956	29	0	markhor	Capra	100.0
+taxongroup	Cap-9b25_2_markhor-17	Cap-9b25_2_Capra-1	Cap-9b25_2_markhor-17_5222	2	Cap-9b25_2_Capra-1_956	2	0	markhor	Capra	100.0
+taxongroup	Mar-3955_2_markhor-2	Mar-3955_2_Capra-11	Mar-3955_2_markhor-2_5222	2	Mar-3955_2_Capra-11_956	2	0	markhor	Capra	100.0
+taxongroup	Mar-3955_75_markhor-3	Mar-3955_75_Capra-5	Mar-3955_75_markhor-3_5222	75	Mar-3955_75_Capra-5_956	75	0	markhor	Capra	100.0
+taxongroup	Mar-3955_2_markhor-2	Mar-3955_2_Capra-4	Mar-3955_2_markhor-2_5222	2	Mar-3955_2_Capra-4_956	2	0	markhor	Capra	100.0
+taxongroup	Mar-3955_52_markhor-11	Mar-3955_52_Capra-5	Mar-3955_52_markhor-11_5222	52	Mar-3955_52_Capra-5_956	52	0	markhor	Capra	100.0
+taxongroup	Cap-9b25_2_markhor-17	Cap-9b25_2_mammals-6	Cap-9b25_2_markhor-17_5222	2	Cap-9b25_2_mammals-6_3797	2	0	markhor	mammals	100.0
+taxongroup	Bon-fbc3_78_bongo-2	Bon-fbc3_78_animal-17	Bon-fbc3_78_bongo-2_4714	78	Bon-fbc3_78_animal-17_3812	78	0	bongo	animals	100.0
+taxongroup	Bon7c8f_5_bongos-6	Bon7c8f_5_animals-11	Bon7c8f_5_bongos-6_4714	5	Bon7c8f_5_animals-11_3812	5	0	bongo	animals	100.0
+taxongroup	Tun-c63e_40_ox-10	Tun-c63e_40_animals-2	Tun-c63e_40_ox-10_5249	40	Tun-c63e_40_animals-2_44	40	0	musk ox	Animals	100.0
+taxongroup	Bon-fbc3_15_bongo-6	Bon-fbc3_15_Bovidae-20	Bon-fbc3_15_bongo-6_4714	15	Bon-fbc3_15_Bovidae-20_497	15	0	bongo	Bovidae	100.0
+taxongroup	Spr-39f8_25_blackbuck-30	Spr-39f8_25_Antilope-28	Spr-39f8_25_blackbuck-30_4683	25	Spr-39f8_25_Antilope-28_896	25	0	blackbuck	Antilope	100.0
+taxongroup	Bla-3ee3_2_blackbuck-2	Bla-3ee3_2_Antilope-4	Bla-3ee3_2_blackbuck-2_4683	2	Bla-3ee3_2_Antilope-4_896	2	0	blackbuck	Antilope	100.0
+taxongroup	Bla-3ee3_186_blackbuck-14	Bla-3ee3_186_animals-11	Bla-3ee3_186_blackbuck-14_4683	186	Bla-3ee3_186_animals-11_3812	186	0	blackbuck	animals	100.0
+taxongroup	Wil-de29_100_wildebeest-13	Wil-de29_100_animals-19	Wil-de29_100_wildebeest-13_4706	100	Wil-de29_100_animals-19_44	100	0	blue wildebeest	Animals	100.0
+taxongroup	Blu-3a31_198_wildebeest-15	Blu-3a31_198_animal-9	Blu-3a31_198_wildebeest-15_4706	198	Blu-3a31_198_animal-9_44	198	0	blue wildebeest	Animals	100.0
+taxongroup	Blu-3a31_98_wildebeest-8	Blu-3a31_98_animals-17	Blu-3a31_98_wildebeest-8_4706	98	Blu-3a31_98_animals-17_44	98	0	blue wildebeest	Animals	100.0
+taxongroup	Blu-3a31_193_wildebeest-15	Blu-3a31_193_animals-20	Blu-3a31_193_wildebeest-15_4706	193	Blu-3a31_193_animals-20_44	193	0	blue wildebeest	Animals	100.0
+taxongroup	Blu-3a31_26_wildebeest-6	Blu-3a31_26_animals-34	Blu-3a31_26_wildebeest-6_4706	26	Blu-3a31_26_animals-34_44	26	0	blue wildebeest	Animals	100.0
+taxongroup	Afr3777_5_buffalos-2	Afr3777_5_animals-7	Afr3777_5_buffalos-2_1442	5	Afr3777_5_animals-7_44	5	0	African buffalo	Animals	100.0
+taxongroup	Mar2a6b_6_ox-19	Mar2a6b_6_animals-7	Mar2a6b_6_ox-19_5249	6	Mar2a6b_6_animals-7_44	6	0	musk ox	Animals	100.0
+taxongroup	Mam-3742_279_ox-26	Mam-3742_279_animal-8	Mam-3742_279_ox-26_5249	279	Mam-3742_279_animal-8_44	279	0	musk ox	Animals	100.0
+taxongroup	Cou-56f5_112_sheep-23	Cou-56f5_112_mammals-4	Cou-56f5_112_sheep-23_1184	112	Cou-56f5_112_mammals-4_3797	112	0	Sheep	mammals	100.0
+taxongroup	Hum-c1bb_341_sheep-14	Hum-c1bb_341_animals-8	Hum-c1bb_341_sheep-14_4413	341	Hum-c1bb_341_animals-8_44	341	0	sheep	Animals	100.0
+taxongroup	Gua-668b_90_sheep-15	Gua-668b_90_animal-2	Gua-668b_90_sheep-15_4413	90	Gua-668b_90_animal-2_44	90	0	sheep	Animals	100.0
+taxongroup	She-572b_371_sheep-6	She-572b_371_animal-22	She-572b_371_sheep-6_4413	371	She-572b_371_animal-22_44	371	0	sheep	Animals	100.0
+taxongroup	Ona-2309_143_sheep-11	Ona-2309_143_animals-7	Ona-2309_143_sheep-11_4413	143	Ona-2309_143_animals-7_44	143	0	sheep	Animals	100.0
+taxongroup	She-572b_21_sheep-9	She-572b_21_animals-14	She-572b_21_sheep-9_4413	21	She-572b_21_animals-14_44	21	0	sheep	Animals	100.0
+taxongroup	She-572b_438_sheep-20	She-572b_438_animals-27	She-572b_438_sheep-20_4413	438	She-572b_438_animals-27_44	438	0	sheep	Animals	100.0
+taxongroup	She-572b_334_sheep-8	She-572b_334_animal-4	She-572b_334_sheep-8_4413	334	She-572b_334_animal-4_44	334	0	sheep	Animals	100.0
+taxongroup	She-572b_355_sheep-12	She-572b_355_animals-19	She-572b_355_sheep-12_4413	355	She-572b_355_animals-19_44	355	0	sheep	Animals	100.0
+taxongroup	She-572b_363_sheep-18	She-572b_363_animal-27	She-572b_363_sheep-18_4413	363	She-572b_363_animal-27_44	363	0	sheep	Animals	100.0
+taxongroup	Flo-23b8_35_sheep-30	Flo-23b8_35_animals-19	Flo-23b8_35_sheep-30_4413	35	Flo-23b8_35_animals-19_44	35	0	sheep	Animals	100.0
+taxongroup	Gua-668b_90_sheep-15	Gua-668b_90_animals-18	Gua-668b_90_sheep-15_4413	90	Gua-668b_90_animals-18_44	90	0	sheep	Animals	100.0
+taxongroup	Wat-9861_159_sheep-36	Wat-9861_159_animals-19	Wat-9861_159_sheep-36_4413	159	Wat-9861_159_animals-19_44	159	0	sheep	Animals	100.0
+taxongroup	Cal-fa4d_4_sheep-26	Cal-fa4d_4_animals-23	Cal-fa4d_4_sheep-26_4413	4	Cal-fa4d_4_animals-23_44	4	0	sheep	Animals	100.0
+taxongroup	Cap-9b25_33_sheep-3	Cap-9b25_33_animals-11	Cap-9b25_33_sheep-3_4413	33	Cap-9b25_33_animals-11_44	33	0	sheep	Animals	100.0
+taxongroup	Cam-1690_241_sheep-28	Cam-1690_241_animals-13	Cam-1690_241_sheep-28_4413	241	Cam-1690_241_animals-13_44	241	0	sheep	Animals	100.0
+taxongroup	Fro-2392_621_sheep-11	Fro-2392_621_animals-29	Fro-2392_621_sheep-11_4413	621	Fro-2392_621_animals-29_44	621	0	sheep	Animals	100.0
+taxongroup	Coy-1bf1_280_sheep-25	Coy-1bf1_280_animals-37	Coy-1bf1_280_sheep-25_4413	280	Coy-1bf1_280_animals-37_44	280	0	sheep	Animals	100.0
+taxongroup	Sno-0a8f_591_sheep-8	Sno-0a8f_591_animals-2	Sno-0a8f_591_sheep-8_4413	591	Sno-0a8f_591_animals-2_44	591	0	sheep	Animals	100.0
+taxongroup	Fun-7367_500_sheep-22	Fun-7367_500_animals-16	Fun-7367_500_sheep-22_4413	500	Fun-7367_500_animals-16_44	500	0	sheep	Animals	100.0
+taxongroup	Coy-1bf1_280_sheep-51	Coy-1bf1_280_animals-37	Coy-1bf1_280_sheep-51_4413	280	Coy-1bf1_280_animals-37_44	280	0	sheep	Animals	100.0
+taxongroup	Hyp-f6cf_10_sheep-10	Hyp-f6cf_10_animals-7	Hyp-f6cf_10_sheep-10_4413	10	Hyp-f6cf_10_animals-7_44	10	0	sheep	Animals	100.0
+taxongroup	Hyp-f6cf_197_sheep-13	Hyp-f6cf_197_animals-8	Hyp-f6cf_197_sheep-13_4413	197	Hyp-f6cf_197_animals-8_44	197	0	sheep	Animals	100.0
+taxongroup	Kea-483e_84_sheep-21	Kea-483e_84_animal-7	Kea-483e_84_sheep-21_4413	84	Kea-483e_84_animal-7_44	84	0	sheep	Animals	100.0
+taxongroup	Mus-840b_2_ox-24	Mus-840b_2_mammal-59	Mus-840b_2_ox-24_5249	2	Mus-840b_2_mammal-59_3797	2	0	musk ox	mammals	100.0
+taxongroup	Mus-840b_2_ox-20	Mus-840b_2_mammal-59	Mus-840b_2_ox-20_5249	2	Mus-840b_2_mammal-59_3797	2	0	musk ox	mammals	100.0
+taxongroup	Mus-840b_2_ox-13	Mus-840b_2_mammal-59	Mus-840b_2_ox-13_5249	2	Mus-840b_2_mammal-59_3797	2	0	musk ox	mammals	100.0
+taxongroup	Mam-3742_279_ox-26	Mam-3742_279_mammals-15	Mam-3742_279_ox-26_5249	279	Mam-3742_279_mammals-15_3797	279	0	musk ox	mammals	100.0
+taxongroup	Woo-2b74_103_saiga-21	Woo-2b74_103_animals-29	Woo-2b74_103_saiga-21_5439	103	Woo-2b74_103_animals-29_44	103	0	saiga	Animals	100.0
+taxongroup	Mac-9f03_40_saiga-34	Mac-9f03_40_mammals-2	Mac-9f03_40_saiga-34_5439	40	Mac-9f03_40_mammals-2_3797	40	0	saiga	mammals	100.0
+taxongroup	Big-0af3_118_sheep-2	Big-0af3_118_animals-8	Big-0af3_118_sheep-2_4413	118	Big-0af3_118_animals-8_44	118	0	sheep	Animals	100.0
+taxongroup	Big-0af3_126_sheep-5	Big-0af3_126_animal-15	Big-0af3_126_sheep-5_4413	126	Big-0af3_126_animal-15_44	126	0	sheep	Animals	100.0
+taxongroup	She-572b_363_Sheep-1	She-572b_363_animal-27	She-572b_363_Sheep-1_4413	363	She-572b_363_animal-27_44	363	0	sheep	Animals	100.0
+taxongroup	She-572b_224_Sheep-1	She-572b_224_animals-10	She-572b_224_Sheep-1_4413	224	She-572b_224_animals-10_44	224	0	sheep	Animals	100.0
+taxongroup	She-572b_61_sheep-9	She-572b_61_animal-27	She-572b_61_sheep-9_4413	61	She-572b_61_animal-27_44	61	0	sheep	Animals	100.0
+taxongroup	Big-0af3_67_sheep-9	Big-0af3_67_animals-14	Big-0af3_67_sheep-9_4413	67	Big-0af3_67_animals-14_44	67	0	sheep	Animals	100.0
+taxongroup	Big-0af3_130_sheep-2	Big-0af3_130_animal-25	Big-0af3_130_sheep-2_4413	130	Big-0af3_130_animal-25_44	130	0	sheep	Animals	100.0
+taxongroup	Kea-483e_87_sheep-9	Kea-483e_87_animals-20	Kea-483e_87_sheep-9_4413	87	Kea-483e_87_animals-20_44	87	0	sheep	Animals	100.0
+taxongroup	Wol-279e_300_sheep-11	Wol-279e_300_animal-31	Wol-279e_300_sheep-11_4413	300	Wol-279e_300_animal-31_44	300	0	sheep	Animals	100.0
+taxongroup	Wol-279e_421_sheep-28	Wol-279e_421_animals-4	Wol-279e_421_sheep-28_4413	421	Wol-279e_421_animals-4_44	421	0	sheep	Animals	100.0
+taxongroup	Bla-3ee3_39_blackbuck-2	Bla-3ee3_39_Antilope-11	Bla-3ee3_39_blackbuck-2_4683	39	Bla-3ee3_39_Antilope-11_896	39	0	blackbuck	Antilope	100.0
+taxongroup	Bla-3ee3_12_blackbuck-2	Bla-3ee3_12_Antilope-11	Bla-3ee3_12_blackbuck-2_4683	12	Bla-3ee3_12_Antilope-11_896	12	0	blackbuck	Antilope	100.0
+taxongroup	Big-0af3_113_sheep-13	Big-0af3_113_sheep-13	Big-0af3_113_sheep-13_4675	113	Big-0af3_113_sheep-13_1184	113	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_126_sheep-5	Big-0af3_126_sheep-5	Big-0af3_126_sheep-5_4675	126	Big-0af3_126_sheep-5_1184	126	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_33_sheep-14	Big-0af3_33_sheep-4	Big-0af3_33_sheep-14_4675	33	Big-0af3_33_sheep-4_1184	33	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_40_sheep-13	Big-0af3_40_sheep-4	Big-0af3_40_sheep-13_4675	40	Big-0af3_40_sheep-4_1184	40	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_40_sheep-4	Big-0af3_40_sheep-13	Big-0af3_40_sheep-4_4675	40	Big-0af3_40_sheep-13_1184	40	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_119_sheep-20	Big-0af3_119_sheep-20	Big-0af3_119_sheep-20_4675	119	Big-0af3_119_sheep-20_1184	119	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_33_sheep-4	Big-0af3_33_sheep-14	Big-0af3_33_sheep-4_4675	33	Big-0af3_33_sheep-14_1184	33	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_6_sheep-28	Big-0af3_6_sheep-28	Big-0af3_6_sheep-28_4675	6	Big-0af3_6_sheep-28_1184	6	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_33_sheep-4	Big-0af3_33_sheep-4	Big-0af3_33_sheep-4_4675	33	Big-0af3_33_sheep-4_1184	33	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_125_sheep-17	Big-0af3_125_sheep-17	Big-0af3_125_sheep-17_4675	125	Big-0af3_125_sheep-17_1184	125	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_40_sheep-22	Big-0af3_40_sheep-22	Big-0af3_40_sheep-22_4675	40	Big-0af3_40_sheep-22_1184	40	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_18_sheep-4	Big-0af3_18_sheep-4	Big-0af3_18_sheep-4_4675	18	Big-0af3_18_sheep-4_1184	18	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_30_sheep-33	Big-0af3_30_sheep-33	Big-0af3_30_sheep-33_4675	30	Big-0af3_30_sheep-33_1184	30	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_40_sheep-4	Big-0af3_40_sheep-4	Big-0af3_40_sheep-4_4675	40	Big-0af3_40_sheep-4_1184	40	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_108_sheep-16	Big-0af3_108_sheep-16	Big-0af3_108_sheep-16_4675	108	Big-0af3_108_sheep-16_1184	108	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_33_sheep-14	Big-0af3_33_sheep-14	Big-0af3_33_sheep-14_4675	33	Big-0af3_33_sheep-14_1184	33	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_59_sheep-3	Big-0af3_59_sheep-3	Big-0af3_59_sheep-3_4675	59	Big-0af3_59_sheep-3_1184	59	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_47_sheep-3	Big-0af3_47_sheep-3	Big-0af3_47_sheep-3_4675	47	Big-0af3_47_sheep-3_1184	47	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_21_sheep-3	Big-0af3_21_sheep-3	Big-0af3_21_sheep-3_4675	21	Big-0af3_21_sheep-3_1184	21	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_19_sheep-4	Big-0af3_19_sheep-10	Big-0af3_19_sheep-4_4675	19	Big-0af3_19_sheep-10_1184	19	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_40_sheep-22	Big-0af3_40_sheep-13	Big-0af3_40_sheep-22_4675	40	Big-0af3_40_sheep-13_1184	40	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_40_sheep-22	Big-0af3_40_sheep-4	Big-0af3_40_sheep-22_4675	40	Big-0af3_40_sheep-4_1184	40	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_40_sheep-13	Big-0af3_40_sheep-22	Big-0af3_40_sheep-13_4675	40	Big-0af3_40_sheep-22_4413	40	0	bighorn sheep	sheep	100.0
+taxongroup	Dom-6f87_103_sheep-3	Dom-6f87_103_sheep-3	Dom-6f87_103_sheep-3_4675	103	Dom-6f87_103_sheep-3_1184	103	0	bighorn sheep	Sheep	100.0
+taxongroup	Tas-3df1_202_sheep-36	Tas-3df1_202_mammals-33	Tas-3df1_202_sheep-36_1184	202	Tas-3df1_202_mammals-33_3797	202	0	Sheep	mammals	100.0
+taxongroup	Wes-7030_218_sheep-8	Wes-7030_218_mammals-11	Wes-7030_218_sheep-8_1184	218	Wes-7030_218_mammals-11_3797	218	0	Sheep	mammals	100.0
+taxongroup	Ste-56e3_367_sheep-35	Ste-56e3_367_mammals-28	Ste-56e3_367_sheep-35_1184	367	Ste-56e3_367_mammals-28_3797	367	0	Sheep	mammals	100.0
+taxongroup	Mam-3742_560_sheep-5	Mam-3742_560_mammals-3	Mam-3742_560_sheep-5_1184	560	Mam-3742_560_mammals-3_3797	560	0	Sheep	mammals	100.0
+taxongroup	Bov-d455_23_sheep-21	Bov-d455_23_mammals-8	Bov-d455_23_sheep-21_1184	23	Bov-d455_23_mammals-8_3797	23	0	Sheep	mammals	100.0
+taxongroup	Bov-d455_2_sheep-32	Bov-d455_2_mammals-13	Bov-d455_2_sheep-32_1184	2	Bov-d455_2_mammals-13_3797	2	0	Sheep	mammals	100.0
+taxongroup	Mus-840b_2_sheep-11	Mus-840b_2_mammal-59	Mus-840b_2_sheep-11_1184	2	Mus-840b_2_mammal-59_3797	2	0	Sheep	mammals	100.0
+taxongroup	Sca-7ebf_3_sheep-24	Sca-7ebf_3_mammals-16	Sca-7ebf_3_sheep-24_1184	3	Sca-7ebf_3_mammals-16_3797	3	0	Sheep	mammals	100.0
+taxongroup	Spr-39f8_126_Springbok-1	Spr-39f8_126_animals-5	Spr-39f8_126_Springbok-1_3411	126	Spr-39f8_126_animals-5_44	126	0	Springbok	Animals	100.0
+taxongroup	Spr-39f8_140_Springbok-1	Spr-39f8_140_mammals-17	Spr-39f8_140_Springbok-1_3411	140	Spr-39f8_140_mammals-17_3797	140	0	Springbok	mammals	100.0
+taxongroup	Dam-2357_169_Topi-4	Dam-2357_169_Damaliscus-6	Dam-2357_169_Topi-4_3556	169	Dam-2357_169_Damaliscus-6_1006	169	0	Topi	Damaliscus	100.0
+taxongroup	Cap-9b25_23_ibex-2	Cap-9b25_23_Capra-16	Cap-9b25_23_ibex-2_3621	23	Cap-9b25_23_Capra-16_956	23	0	Walia ibex	Capra	100.0
+taxongroup	Cap-9b25_23_ibex-2	Cap-9b25_23_Capra-10	Cap-9b25_23_ibex-2_3621	23	Cap-9b25_23_Capra-10_956	23	0	Walia ibex	Capra	100.0
+taxongroup	Cap-9b25_23_ibex-8	Cap-9b25_23_Capra-22	Cap-9b25_23_ibex-8_3621	23	Cap-9b25_23_Capra-22_956	23	0	Walia ibex	Capra	100.0
+taxongroup	Cap-9b25_23_ibex-8	Cap-9b25_23_Capra-16	Cap-9b25_23_ibex-8_3621	23	Cap-9b25_23_Capra-16_956	23	0	Walia ibex	Capra	100.0
+taxongroup	Cap-9b25_23_ibex-8	Cap-9b25_23_Capra-10	Cap-9b25_23_ibex-8_3621	23	Cap-9b25_23_Capra-10_956	23	0	Walia ibex	Capra	100.0
+taxongroup	Cap-9b25_23_ibex-2	Cap-9b25_23_Capra-22	Cap-9b25_23_ibex-2_3621	23	Cap-9b25_23_Capra-22_956	23	0	Walia ibex	Capra	100.0
+taxongroup	Big-0af3_32_sheep-4	Big-0af3_32_sheep-4	Big-0af3_32_sheep-4_4675	32	Big-0af3_32_sheep-4_1184	32	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_19_sheep-4	Big-0af3_19_sheep-4	Big-0af3_19_sheep-4_4675	19	Big-0af3_19_sheep-4_1184	19	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_19_sheep-10	Big-0af3_19_sheep-4	Big-0af3_19_sheep-10_4675	19	Big-0af3_19_sheep-4_1184	19	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_19_sheep-10	Big-0af3_19_sheep-10	Big-0af3_19_sheep-10_4675	19	Big-0af3_19_sheep-10_1184	19	0	bighorn sheep	Sheep	100.0
+taxongroup	Big-0af3_40_sheep-4	Big-0af3_40_sheep-22	Big-0af3_40_sheep-4_4675	40	Big-0af3_40_sheep-22_4413	40	0	bighorn sheep	sheep	100.0
+taxongroup	Cou-56f5_112_sheep-23	Cou-56f5_112_sheep-23	Cou-56f5_112_sheep-23_4675	112	Cou-56f5_112_sheep-23_4413	112	0	bighorn sheep	sheep	100.0
+taxongroup	Big-0af3_56_sheep-8	Big-0af3_56_sheep-8	Big-0af3_56_sheep-8_4675	56	Big-0af3_56_sheep-8_4413	56	0	bighorn sheep	sheep	100.0
+taxongroup	Big-0af3_40_sheep-13	Big-0af3_40_sheep-13	Big-0af3_40_sheep-13_4675	40	Big-0af3_40_sheep-13_4413	40	0	bighorn sheep	sheep	100.0
+taxongroup	Big-0af3_34_sheep-9	Big-0af3_34_sheep-9	Big-0af3_34_sheep-9_4675	34	Big-0af3_34_sheep-9_4413	34	0	bighorn sheep	sheep	100.0
+taxongroup	Big-0af3_126_sheep-5	Big-0af3_126_mammal-9	Big-0af3_126_sheep-5_4675	126	Big-0af3_126_mammal-9_3797	126	0	bighorn sheep	mammals	100.0
+taxongroup	Lyn-0465_60_sheep-41	Lyn-0465_60_animals-8	Lyn-0465_60_sheep-41_4413	60	Lyn-0465_60_animals-8_44	60	0	sheep	Animals	100.0
+taxongroup	She-572b_8_sheep-13	She-572b_8_animals-5	She-572b_8_sheep-13_4413	8	She-572b_8_animals-5_44	8	0	sheep	Animals	100.0
+taxongroup	She-572b_153_Sheep-1	She-572b_153_animals-4	She-572b_153_Sheep-1_4413	153	She-572b_153_animals-4_44	153	0	sheep	Animals	100.0
+taxongroup	Spr-39f8_189_springbok-2	Spr-39f8_189_animal-6	Spr-39f8_189_springbok-2_5514	189	Spr-39f8_189_animal-6_3812	189	0	springbok	animals	100.0
+taxongroup	Wil-de29_26_topi-41	Wil-de29_26_Bovidae-7	Wil-de29_26_topi-41_5574	26	Wil-de29_26_Bovidae-7_497	26	0	topi	Bovidae	100.0
+taxongroup	Dam-2357_31_topi-49	Dam-2357_31_Damaliscus-39	Dam-2357_31_topi-49_5574	31	Dam-2357_31_Damaliscus-39_1006	31	0	topi	Damaliscus	100.0
+taxongroup	Kor-3a14_2_topi-20	Kor-3a14_2_Damaliscus-4	Kor-3a14_2_topi-20_5574	2	Kor-3a14_2_Damaliscus-4_1006	2	0	topi	Damaliscus	100.0
+taxongroup	Top-df25_5_topi-27	Top-df25_5_Damaliscus-43	Top-df25_5_topi-27_5574	5	Top-df25_5_Damaliscus-43_1006	5	0	topi	Damaliscus	100.0
+taxongroup	Top-df25_5_topi-45	Top-df25_5_Damaliscus-43	Top-df25_5_topi-45_5574	5	Top-df25_5_Damaliscus-43_1006	5	0	topi	Damaliscus	100.0
+taxongroup	Wil-de29_26_topi-41	Wil-de29_26_Damaliscus-36	Wil-de29_26_topi-41_5574	26	Wil-de29_26_Damaliscus-36_1006	26	0	topi	Damaliscus	100.0
+taxongroup	Dam-2357_28_topi-21	Dam-2357_28_Mammal-6	Dam-2357_28_topi-21_5574	28	Dam-2357_28_Mammal-6_20	28	0	topi	Mammals	100.0
+taxongroup	Wal-cefe_2_ibex-3	Wal-cefe_2_Capra-5	Wal-cefe_2_ibex-3_5601	2	Wal-cefe_2_Capra-5_956	2	0	walia ibex	Capra	100.0
+taxongroup	Wal-cefe_2_ibex-24	Wal-cefe_2_Capra-5	Wal-cefe_2_ibex-24_5601	2	Wal-cefe_2_Capra-5_956	2	0	walia ibex	Capra	100.0
+taxongroup	Wat-9861_274_buffalo-5	Wat-9861_274_animal-9	Wat-9861_274_buffalo-5_3920	274	Wat-9861_274_animal-9_44	274	0	water buffalo	Animals	100.0
+taxongroup	Wat-9861_114_buffalo-3	Wat-9861_114_animal-8	Wat-9861_114_buffalo-3_3920	114	Wat-9861_114_animal-8_44	114	0	water buffalo	Animals	100.0
+taxongroup	Wat-9861_312_buffalo-25	Wat-9861_312_animals-11	Wat-9861_312_buffalo-25_3920	312	Wat-9861_312_animals-11_44	312	0	water buffalo	Animals	100.0
+taxongroup	Wat-9861_259_buffalo-13	Wat-9861_259_animal-17	Wat-9861_259_buffalo-13_3920	259	Wat-9861_259_animal-17_44	259	0	water buffalo	Animals	100.0
+taxongroup	Art-6267_298_buffalo-6	Art-6267_298_animals-24	Art-6267_298_buffalo-6_3920	298	Art-6267_298_animals-24_44	298	0	water buffalo	Animals	100.0
+taxongroup	Wat-9861_112_buffalo-6	Wat-9861_112_animal-12	Wat-9861_112_buffalo-6_3920	112	Wat-9861_112_animal-12_44	112	0	water buffalo	Animals	100.0
+taxongroup	Wat-9861_259_buffalo-13	Wat-9861_259_animal-25	Wat-9861_259_buffalo-13_3920	259	Wat-9861_259_animal-25_44	259	0	water buffalo	Animals	100.0
+taxongroup	Wat-9861_259_buffalo-13	Wat-9861_259_animal-6	Wat-9861_259_buffalo-13_3920	259	Wat-9861_259_animal-6_44	259	0	water buffalo	Animals	100.0
+taxongroup	Wat-9861_20_buffalos-18	Wat-9861_20_Bubalus-44	Wat-9861_20_buffalos-18_3920	20	Wat-9861_20_Bubalus-44_942	20	0	water buffalo	Bubalus	100.0
+taxongroup	Wat-9861_20_buffalos-18	Wat-9861_20_Bubalus-27	Wat-9861_20_buffalos-18_3920	20	Wat-9861_20_Bubalus-27_942	20	0	water buffalo	Bubalus	100.0
+taxongroup	Spr-39f8_18_springbok-2	Spr-39f8_18_animal-6	Spr-39f8_18_springbok-2_5514	18	Spr-39f8_18_animal-6_3812	18	0	springbok	animals	100.0
+taxongroup	Tho-fdaf_7_springbok-22	Tho-fdaf_7_animal-8	Tho-fdaf_7_springbok-22_5514	7	Tho-fdaf_7_animal-8_3812	7	0	springbok	animals	100.0
+taxongroup	Bea-1194_91_sheep-6	Bea-1194_91_mammals-10	Bea-1194_91_sheep-6_4413	91	Bea-1194_91_mammals-10_3797	91	0	sheep	mammals	100.0
+taxongroup	She-572b_398_sheep-19	She-572b_398_mammal-28	She-572b_398_sheep-19_4413	398	She-572b_398_mammal-28_3797	398	0	sheep	mammals	100.0
+taxongroup	She-572b_398_sheep-8	She-572b_398_mammal-28	She-572b_398_sheep-8_4413	398	She-572b_398_mammal-28_3797	398	0	sheep	mammals	100.0
+taxongroup	She-572b_400_sheep-6	She-572b_400_mammals-45	She-572b_400_sheep-6_4413	400	She-572b_400_mammals-45_3797	400	0	sheep	mammals	100.0
+taxongroup	Tig-9404_89_sheep-21	Tig-9404_89_mammals-4	Tig-9404_89_sheep-21_4413	89	Tig-9404_89_mammals-4_3797	89	0	sheep	mammals	100.0
+taxongroup	Sno-0a8f_245_sheep-38	Sno-0a8f_245_mammals-33	Sno-0a8f_245_sheep-38_4413	245	Sno-0a8f_245_mammals-33_3797	245	0	sheep	mammals	100.0
+taxongroup	Kea-483e_68_sheep-34	Kea-483e_68_mammals-31	Kea-483e_68_sheep-34_4413	68	Kea-483e_68_mammals-31_3797	68	0	sheep	mammals	100.0
+taxongroup	Tas-3df1_202_sheep-36	Tas-3df1_202_mammals-23	Tas-3df1_202_sheep-36_4413	202	Tas-3df1_202_mammals-23_3797	202	0	sheep	mammals	100.0
+taxongroup	Bov-01d4_16_buffalo-9	Bov-01d4_16_Bubalus-25	Bov-01d4_16_buffalo-9_3920	16	Bov-01d4_16_Bubalus-25_942	16	0	water buffalo	Bubalus	100.0
+taxongroup	Bov-01d4_16_buffalo-9	Bov-01d4_16_Bubalus-21	Bov-01d4_16_buffalo-9_3920	16	Bov-01d4_16_Bubalus-21_942	16	0	water buffalo	Bubalus	100.0
+taxongroup	Wat-9861_91_buffalo-16	Wat-9861_91_Bubalus-10	Wat-9861_91_buffalo-16_3920	91	Wat-9861_91_Bubalus-10_942	91	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-39	Bub-df64_21_Bubalus-7	Bub-df64_21_buffalo-39_3920	21	Bub-df64_21_Bubalus-7_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-25	Bub-df64_21_Bubalus-1	Bub-df64_21_buffalo-25_3920	21	Bub-df64_21_Bubalus-1_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-14	Bub-df64_21_Bubalus-46	Bub-df64_21_buffalo-14_3920	21	Bub-df64_21_Bubalus-46_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-14	Bub-df64_21_Bubalus-31	Bub-df64_21_buffalo-14_3920	21	Bub-df64_21_Bubalus-31_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-14	Bub-df64_21_Bubalus-52	Bub-df64_21_buffalo-14_3920	21	Bub-df64_21_Bubalus-52_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-14	Bub-df64_21_Bubalus-58	Bub-df64_21_buffalo-14_3920	21	Bub-df64_21_Bubalus-58_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-14	Bub-df64_21_Bubalus-64	Bub-df64_21_buffalo-14_3920	21	Bub-df64_21_Bubalus-64_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-25	Bub-df64_21_Bubalus-7	Bub-df64_21_buffalo-25_3920	21	Bub-df64_21_Bubalus-7_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Wil-28c2_11_buffalo-7	Wil-28c2_11_Bubalus-12	Wil-28c2_11_buffalo-7_3920	11	Wil-28c2_11_Bubalus-12_942	11	0	water buffalo	Bubalus	100.0
+taxongroup	Chi-6eec_28_buffalo-25	Chi-6eec_28_mammals-31	Chi-6eec_28_buffalo-25_3920	28	Chi-6eec_28_mammals-31_3797	28	0	water buffalo	mammals	100.0
+taxongroup	Liz-2f75_9_buffalo-30	Liz-2f75_9_mammals-25	Liz-2f75_9_buffalo-30_3920	9	Liz-2f75_9_mammals-25_3797	9	0	water buffalo	mammals	100.0
+taxongroup	Ind-c6bf_44_buffalos-13	Ind-c6bf_44_mammals-2	Ind-c6bf_44_buffalos-13_3920	44	Ind-c6bf_44_mammals-2_3797	44	0	water buffalo	mammals	100.0
+taxongroup	Bub-df64_21_buffalo-25	Bub-df64_21_Bubalus-52	Bub-df64_21_buffalo-25_3920	21	Bub-df64_21_Bubalus-52_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-25	Bub-df64_21_Bubalus-20	Bub-df64_21_buffalo-25_3920	21	Bub-df64_21_Bubalus-20_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-25	Bub-df64_21_Bubalus-31	Bub-df64_21_buffalo-25_3920	21	Bub-df64_21_Bubalus-31_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-39	Bub-df64_21_Bubalus-20	Bub-df64_21_buffalo-39_3920	21	Bub-df64_21_Bubalus-20_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-25	Bub-df64_21_Bubalus-64	Bub-df64_21_buffalo-25_3920	21	Bub-df64_21_Bubalus-64_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-25	Bub-df64_21_Bubalus-46	Bub-df64_21_buffalo-25_3920	21	Bub-df64_21_Bubalus-46_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bov-01d4_16_buffalo-9	Bov-01d4_16_Bubalus-11	Bov-01d4_16_buffalo-9_3920	16	Bov-01d4_16_Bubalus-11_942	16	0	water buffalo	Bubalus	100.0
+taxongroup	Bov-01d4_16_buffalo-3	Bov-01d4_16_Bubalus-25	Bov-01d4_16_buffalo-3_3920	16	Bov-01d4_16_Bubalus-25_942	16	0	water buffalo	Bubalus	100.0
+taxongroup	Bov-01d4_16_buffalo-3	Bov-01d4_16_Bubalus-21	Bov-01d4_16_buffalo-3_3920	16	Bov-01d4_16_Bubalus-21_942	16	0	water buffalo	Bubalus	100.0
+taxongroup	Bov-01d4_16_buffalo-3	Bov-01d4_16_Bubalus-16	Bov-01d4_16_buffalo-3_3920	16	Bov-01d4_16_Bubalus-16_942	16	0	water buffalo	Bubalus	100.0
+taxongroup	Bov-01d4_16_buffalo-3	Bov-01d4_16_Bubalus-11	Bov-01d4_16_buffalo-3_3920	16	Bov-01d4_16_Bubalus-11_942	16	0	water buffalo	Bubalus	100.0
+taxongroup	Bov-01d4_16_buffalo-9	Bov-01d4_16_Bubalus-16	Bov-01d4_16_buffalo-9_3920	16	Bov-01d4_16_Bubalus-16_942	16	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-25	Bub-df64_21_Bubalus-58	Bub-df64_21_buffalo-25_3920	21	Bub-df64_21_Bubalus-58_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-39	Bub-df64_21_Bubalus-1	Bub-df64_21_buffalo-39_3920	21	Bub-df64_21_Bubalus-1_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-39	Bub-df64_21_Bubalus-64	Bub-df64_21_buffalo-39_3920	21	Bub-df64_21_Bubalus-64_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-39	Bub-df64_21_Bubalus-52	Bub-df64_21_buffalo-39_3920	21	Bub-df64_21_Bubalus-52_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-14	Bub-df64_21_Bubalus-7	Bub-df64_21_buffalo-14_3920	21	Bub-df64_21_Bubalus-7_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-39	Bub-df64_21_Bubalus-46	Bub-df64_21_buffalo-39_3920	21	Bub-df64_21_Bubalus-46_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-14	Bub-df64_21_Bubalus-1	Bub-df64_21_buffalo-14_3920	21	Bub-df64_21_Bubalus-1_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-14	Bub-df64_21_Bubalus-20	Bub-df64_21_buffalo-14_3920	21	Bub-df64_21_Bubalus-20_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-39	Bub-df64_21_Bubalus-58	Bub-df64_21_buffalo-39_3920	21	Bub-df64_21_Bubalus-58_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	Bub-df64_21_buffalo-39	Bub-df64_21_Bubalus-31	Bub-df64_21_buffalo-39_3920	21	Bub-df64_21_Bubalus-31_942	21	0	water buffalo	Bubalus	100.0
+taxongroup	She-572b_400_sheep-34	She-572b_400_mammals-45	She-572b_400_sheep-34_4413	400	She-572b_400_mammals-45_3797	400	0	sheep	mammals	100.0
+taxongroup	Big-0af3_127_sheep-4	Big-0af3_127_mammal-8	Big-0af3_127_sheep-4_4413	127	Big-0af3_127_mammal-8_3797	127	0	sheep	mammals	100.0
+taxongroup	Bov-d455_287_sheep-2	Bov-d455_287_animal-15	Bov-d455_287_sheep-2_4413	287	Bov-d455_287_animal-15_44	287	0	sheep	Animals	100.0
+taxongroup	She-572b_25_Sheep-1	She-572b_25_animals-6	She-572b_25_Sheep-1_4413	25	She-572b_25_animals-6_44	25	0	sheep	Animals	100.0
+taxongroup	She-572b_140_Sheep-1	She-572b_140_animals-9	She-572b_140_Sheep-1_4413	140	She-572b_140_animals-9_44	140	0	sheep	Animals	100.0
+taxongroup	She-572b_4_sheep-5	She-572b_4_Artiodactyla-11	She-572b_4_sheep-5_4413	4	She-572b_4_Artiodactyla-11_2266	4	0	sheep	Artiodactyla	100.0
+taxongroup	She-572b_4_sheep-5	She-572b_4_ungulates-17	She-572b_4_sheep-5_4413	4	She-572b_4_ungulates-17_2265	4	0	sheep	Even-toed ungulates	100.0
+taxongroup	She-572b_443_sheep-14	She-572b_443_animals-18	She-572b_443_sheep-14_4413	443	She-572b_443_animals-18_3812	443	0	sheep	animals	100.0
+taxongroup	Ovi-a47a_37_Sheep-1	Ovi-a47a_37_animals-4	Ovi-a47a_37_Sheep-1_4413	37	Ovi-a47a_37_animals-4_3812	37	0	sheep	animals	100.0
+taxongroup	She-572b_9_sheep-2	She-572b_9_animal-10	She-572b_9_sheep-2_4413	9	She-572b_9_animal-10_44	9	0	sheep	Animals	100.0
+taxongroup	She-572b_153_sheep-10	She-572b_153_animals-4	She-572b_153_sheep-10_4413	153	She-572b_153_animals-4_44	153	0	sheep	Animals	100.0
+taxongroup	She-572b_81_sheep-3	She-572b_81_animal-7	She-572b_81_sheep-3_4413	81	She-572b_81_animal-7_44	81	0	sheep	Animals	100.0
+taxongroup	Poa-a930_88_sheep-23	Poa-a930_88_animals-4	Poa-a930_88_sheep-23_4413	88	Poa-a930_88_animals-4_44	88	0	sheep	Animals	100.0
+taxongroup	She-572b_103_sheep-12	She-572b_103_animals-19	She-572b_103_sheep-12_4413	103	She-572b_103_animals-19_44	103	0	sheep	Animals	100.0
+taxongroup	She-572b_360_Sheep-1	She-572b_360_animals-15	She-572b_360_Sheep-1_4413	360	She-572b_360_animals-15_44	360	0	sheep	Animals	100.0
+taxongroup	She-572b_325_sheep-7	She-572b_325_animals-2	She-572b_325_sheep-7_4413	325	She-572b_325_animals-2_44	325	0	sheep	Animals	100.0
+taxongroup	She-572b_31_sheep-11	She-572b_31_animals-23	She-572b_31_sheep-11_4413	31	She-572b_31_animals-23_44	31	0	sheep	Animals	100.0
+taxongroup	And-dffe_106_sheep-45	And-dffe_106_animals-12	And-dffe_106_sheep-45_4413	106	And-dffe_106_animals-12_44	106	0	sheep	Animals	100.0
+taxongroup	She-572b_18_sheep-11	She-572b_18_animal-4	She-572b_18_sheep-11_4413	18	She-572b_18_animal-4_44	18	0	sheep	Animals	100.0
+taxongroup	She-572b_190_Sheep-1	She-572b_190_animals-7	She-572b_190_Sheep-1_4413	190	She-572b_190_animals-7_44	190	0	sheep	Animals	100.0
+taxongroup	Ovi-a47a_21_sheep-2	Ovi-a47a_21_animal-24	Ovi-a47a_21_sheep-2_4413	21	Ovi-a47a_21_animal-24_44	21	0	sheep	Animals	100.0
+taxongroup	Oce-3ad5_49_sheep-27	Oce-3ad5_49_animals-10	Oce-3ad5_49_sheep-27_4413	49	Oce-3ad5_49_animals-10_44	49	0	sheep	Animals	100.0
+taxongroup	Ama-9e7a_263_sheep-25	Ama-9e7a_263_animals-22	Ama-9e7a_263_sheep-25_4413	263	Ama-9e7a_263_animals-22_44	263	0	sheep	Animals	100.0
+taxongroup	Red-1eff_77_sheep-13	Red-1eff_77_animals-10	Red-1eff_77_sheep-13_4413	77	Red-1eff_77_animals-10_44	77	0	sheep	Animals	100.0
+taxongroup	Sag-0ea8_54_sheep-16	Sag-0ea8_54_animals-8	Sag-0ea8_54_sheep-16_4413	54	Sag-0ea8_54_animals-8_44	54	0	sheep	Animals	100.0
+taxongroup	Sag-0ea8_54_sheep-27	Sag-0ea8_54_animals-8	Sag-0ea8_54_sheep-27_4413	54	Sag-0ea8_54_animals-8_44	54	0	sheep	Animals	100.0
+taxongroup	Ani-161e_221_sheep-5	Ani-161e_221_animals-11	Ani-161e_221_sheep-5_4413	221	Ani-161e_221_animals-11_44	221	0	sheep	Animals	100.0
+taxongroup	She-572b_176_sheep-11	She-572b_176_animals-2	She-572b_176_sheep-11_4413	176	She-572b_176_animals-2_44	176	0	sheep	Animals	100.0
+taxongroup	She-572b_183_Sheep-1	She-572b_183_animals-8	She-572b_183_Sheep-1_4413	183	She-572b_183_animals-8_44	183	0	sheep	Animals	100.0
+taxongroup	Tem-2c3b_12_Saiga-26	Tem-2c3b_12_vertebrates-15	Tem-2c3b_12_Saiga-26_3260	12	Tem-2c3b_12_vertebrates-15_3935	12	0	Saiga	vertebrates	100.0
+taxongroup	Nub-af58_62_ibex-3	Nub-af58_62_mammals-21	Nub-af58_62_ibex-3_2935	62	Nub-af58_62_mammals-21_3797	62	0	Nubian ibex	mammals	100.0
+taxongroup	Nub-af58_142_ibex-18	Nub-af58_142_ibex-18	Nub-af58_142_ibex-18_2935	142	Nub-af58_142_ibex-18_4275	142	0	Nubian ibex	ibex and goats	100.0
+taxongroup	Nub-af58_2_ibex-3	Nub-af58_2_Capra-17	Nub-af58_2_ibex-3_2935	2	Nub-af58_2_Capra-17_956	2	0	Nubian ibex	Capra	100.0
+taxongroup	Nub-af58_135_ibex-10	Nub-af58_135_Capra-18	Nub-af58_135_ibex-10_2935	135	Nub-af58_135_Capra-18_956	135	0	Nubian ibex	Capra	100.0
+taxongroup	Nub-af58_2_ibex-3	Nub-af58_2_Capra-5	Nub-af58_2_ibex-3_2935	2	Nub-af58_2_Capra-5_956	2	0	Nubian ibex	Capra	100.0
+taxongroup	Cap-9b25_2_Capra-1	Cap-9b25_2_mammals-6	Cap-9b25_2_Capra-1_956	2	Cap-9b25_2_mammals-6_3797	2	0	Capra	mammals	100.0
+taxongroup	Bea-1194_99_Capra-16	Bea-1194_99_animals-2	Bea-1194_99_Capra-16_956	99	Bea-1194_99_animals-2_44	99	0	Capra	Animals	100.0
+taxongroup	Blu-3a31_23_Bovidae-21	Blu-3a31_23_animals-24	Blu-3a31_23_Bovidae-21_497	23	Blu-3a31_23_animals-24_3812	23	0	Bovidae	animals	100.0
+taxongroup	Pro-10af_13_Bovidae-30	Pro-10af_13_animal-2	Pro-10af_13_Bovidae-30_497	13	Pro-10af_13_animal-2_3812	13	0	Bovidae	animals	100.0
+taxongroup	Bov-d455_30_Bovidae-3	Bov-d455_30_Artiodactyla-9	Bov-d455_30_Bovidae-3_497	30	Bov-d455_30_Artiodactyla-9_2266	30	0	Bovidae	Artiodactyla	100.0
+taxongroup	Big-0af3_129_sheep-3	Big-0af3_129_sheep-3	Big-0af3_129_sheep-3_1671	129	Big-0af3_129_sheep-3_4413	129	0	Bighorn sheep	sheep	100.0
+taxongroup	Big-0af3_128_sheep-3	Big-0af3_128_sheep-3	Big-0af3_128_sheep-3_1671	128	Big-0af3_128_sheep-3_4413	128	0	Bighorn sheep	sheep	100.0
+taxongroup	Argaf7f_1_sheep-2	Argaf7f_1_sheep-2	Argaf7f_1_sheep-2_1563	1	Argaf7f_1_sheep-2_4413	1	0	Argali sheep	sheep	100.0
+taxongroup	Argaf7f_3_sheep-2	Argaf7f_3_sheep-2	Argaf7f_3_sheep-2_1563	3	Argaf7f_3_sheep-2_4413	3	0	Argali sheep	sheep	100.0
+taxongroup	Ame48f4_10_bison-2	Ame48f4_10_mammals-7	Ame48f4_10_bison-2_1484	10	Ame48f4_10_mammals-7_3797	10	0	American bison	mammals	100.0
+taxongroup	Ame-d5c4_353_bison-6	Ame-d5c4_353_mammal-10	Ame-d5c4_353_bison-6_1484	353	Ame-d5c4_353_mammal-10_3797	353	0	American bison	mammals	100.0
+taxongroup	Ame48f4_3_bison-2	Ame48f4_3_mammals-7	Ame48f4_3_bison-2_1484	3	Ame48f4_3_mammals-7_3797	3	0	American bison	mammals	100.0
+taxongroup	Ame-d5c4_285_bison-5	Ame-d5c4_285_animal-30	Ame-d5c4_285_bison-5_1484	285	Ame-d5c4_285_animal-30_3812	285	0	American bison	animals	100.0
+taxongroup	Bla-3ee3_105_bison-7	Bla-3ee3_105_animals-14	Bla-3ee3_105_bison-7_1484	105	Bla-3ee3_105_animals-14_3812	105	0	American bison	animals	100.0
+taxongroup	Ame-d5c4_7_bison-38	Ame-d5c4_7_animals-22	Ame-d5c4_7_bison-38_1484	7	Ame-d5c4_7_animals-22_3812	7	0	American bison	animals	100.0
+taxongroup	Tig-9404_89_Capra-16	Tig-9404_89_mammals-4	Tig-9404_89_Capra-16_956	89	Tig-9404_89_mammals-4_3797	89	0	Capra	mammals	100.0
+taxongroup	Dal-d353_2_sheep-19	Dal-d353_2_sheep-19	Dal-d353_2_sheep-19_2012	2	Dal-d353_2_sheep-19_1184	2	0	Dall sheep	Sheep	100.0
+taxongroup	Mon-b346_27_gazelle-3	Mon-b346_27_animals-12	Mon-b346_27_gazelle-3_2863	27	Mon-b346_27_animals-12_3812	27	0	Mongolian gazelle	animals	100.0
+taxongroup	Mar-3955_25_Markhor-1	Mar-3955_25_animals-9	Mar-3955_25_Markhor-1_2820	25	Mar-3955_25_animals-9_3812	25	0	Markhor	animals	100.0
+taxongroup	Cap-9b25_19_Markhor-1	Cap-9b25_19_Capra-3	Cap-9b25_19_Markhor-1_2820	19	Cap-9b25_19_Capra-3_956	19	0	Markhor	Capra	100.0
+taxongroup	Dal-d353_2_sheep-12	Dal-d353_2_sheep-19	Dal-d353_2_sheep-12_2012	2	Dal-d353_2_sheep-19_4413	2	0	Dall sheep	sheep	100.0
+taxongroup	Dal-d353_2_sheep-9	Dal-d353_2_sheep-9	Dal-d353_2_sheep-9_2012	2	Dal-d353_2_sheep-9_4413	2	0	Dall sheep	sheep	100.0
+taxongroup	Dal-d353_2_sheep-9	Dal-d353_2_sheep-19	Dal-d353_2_sheep-9_2012	2	Dal-d353_2_sheep-19_4413	2	0	Dall sheep	sheep	100.0
+taxongroup	Dal-d353_2_sheep-9	Dal-d353_2_sheep-12	Dal-d353_2_sheep-9_2012	2	Dal-d353_2_sheep-12_4413	2	0	Dall sheep	sheep	100.0
+taxongroup	Dal-d353_2_sheep-12	Dal-d353_2_sheep-9	Dal-d353_2_sheep-12_2012	2	Dal-d353_2_sheep-9_4413	2	0	Dall sheep	sheep	100.0
+taxongroup	Dal-d353_2_sheep-19	Dal-d353_2_sheep-12	Dal-d353_2_sheep-19_2012	2	Dal-d353_2_sheep-12_4413	2	0	Dall sheep	sheep	100.0
+taxongroup	Dal-d353_2_sheep-19	Dal-d353_2_sheep-9	Dal-d353_2_sheep-19_2012	2	Dal-d353_2_sheep-9_4413	2	0	Dall sheep	sheep	100.0
+taxongroup	Dal-d353_2_sheep-12	Dal-d353_2_sheep-12	Dal-d353_2_sheep-12_2012	2	Dal-d353_2_sheep-12_4413	2	0	Dall sheep	sheep	100.0
+taxongroup	Bos-be23_38_primigenius-2	Bos-be23_38_Bos-1	Bos-be23_38_primigenius-2_1605	38	Bos-be23_38_Bos-1_932	38	0	Bos primigenius	Bos	87.0
+taxongroup	Cap-9b25_23_walie-23	Cap-9b25_23_Capra-10	Cap-9b25_23_walie-23_3622	23	Cap-9b25_23_Capra-10_956	23	0	Capra walie	Capra	87.0
+taxongroup	Cap-9b25_29_falconeri-39	Cap-9b25_29_Capra-46	Cap-9b25_29_falconeri-39_2821	29	Cap-9b25_29_Capra-46_956	29	0	Capra falconeri	Capra	87.0
+taxongroup	Cap-9b25_29_falconeri-39	Cap-9b25_29_Capra-21	Cap-9b25_29_falconeri-39_2821	29	Cap-9b25_29_Capra-21_956	29	0	Capra falconeri	Capra	87.0
+taxongroup	Wat-9861_20_bubalis-45	Wat-9861_20_Bubalus-27	Wat-9861_20_bubalis-45_280	20	Wat-9861_20_Bubalus-27_942	20	0	Bubalus bubalis	Bubalus	87.0
+taxongroup	Wat-9861_20_bubalis-28	Wat-9861_20_Bubalus-44	Wat-9861_20_bubalis-28_280	20	Wat-9861_20_Bubalus-44_942	20	0	Bubalus bubalis	Bubalus	87.0
+taxongroup	Wat-9861_20_bubalis-28	Wat-9861_20_Bubalus-27	Wat-9861_20_bubalis-28_280	20	Wat-9861_20_Bubalus-27_942	20	0	Bubalus bubalis	Bubalus	87.0
+taxongroup	Wat-9861_20_bubalis-29	Wat-9861_20_Bubalus-44	Wat-9861_20_bubalis-29_280	20	Wat-9861_20_Bubalus-44_942	20	0	Bubalus bubalis	Bubalus	87.0
+taxongroup	Bla-3ee3_34_cervicapra-8	Bla-3ee3_34_animal-18	Bla-3ee3_34_cervicapra-8_1685	34	Bla-3ee3_34_animal-18_44	34	0	Antilope cervicapra	Animals	87.0
+taxongroup	Bla-3ee3_2_cervicapra-5	Bla-3ee3_2_Antilope-4	Bla-3ee3_2_cervicapra-5_1685	2	Bla-3ee3_2_Antilope-4_896	2	0	Antilope cervicapra	Antilope	87.0
+taxongroup	Bla-3ee3_34_cervicapra-8	Bla-3ee3_34_Antilope-7	Bla-3ee3_34_cervicapra-8_1685	34	Bla-3ee3_34_Antilope-7_896	34	0	Antilope cervicapra	Antilope	87.0
+taxongroup	Wat-9861_20_bubalis-45	Wat-9861_20_Bubalus-44	Wat-9861_20_bubalis-45_280	20	Wat-9861_20_Bubalus-44_942	20	0	Bubalus bubalis	Bubalus	87.0
+taxongroup	Cap-9b25_29_falconeri-39	Cap-9b25_29_Capra-30	Cap-9b25_29_falconeri-39_2821	29	Cap-9b25_29_Capra-30_956	29	0	Capra falconeri	Capra	87.0
+taxongroup	Cap-9b25_23_walie-23	Cap-9b25_23_Capra-22	Cap-9b25_23_walie-23_3622	23	Cap-9b25_23_Capra-22_956	23	0	Capra walie	Capra	87.0
+taxongroup	Cap-9b25_29_falconeri-39	Cap-9b25_29_Capra-38	Cap-9b25_29_falconeri-39_2821	29	Cap-9b25_29_Capra-38_956	29	0	Capra falconeri	Capra	87.0
+taxongroup	Blu-3a31_204_taurinus-8	Blu-3a31_204_Connochaetes-7	Blu-3a31_204_taurinus-8_1734	204	Blu-3a31_204_Connochaetes-7_1343	204	0	Connochaetes taurinus	Connochaetes	87.0
+taxongroup	Cap-9b25_23_walie-23	Cap-9b25_23_Capra-16	Cap-9b25_23_walie-23_3622	23	Cap-9b25_23_Capra-16_956	23	0	Capra walie	Capra	87.0
+taxongroup	Wat-9861_20_bubalis-29	Wat-9861_20_Bubalus-27	Wat-9861_20_bubalis-29_280	20	Wat-9861_20_Bubalus-27_942	20	0	Bubalus bubalis	Bubalus	87.0
+taxongroup	Sno-d342_91_falconeri-32	Sno-d342_91_Capra-31	Sno-d342_91_falconeri-32_2821	91	Sno-d342_91_Capra-31_956	91	0	Capra falconeri	Capra	87.0
+taxongroup	Dal-d353_97_dalli-18	Dal-d353_97_sheep-14	Dal-d353_97_dalli-18_2013	97	Dal-d353_97_sheep-14_4413	97	0	Ovis dalli	sheep	87.0
+taxongroup	Dal-d353_97_dalli-17	Dal-d353_97_sheep-14	Dal-d353_97_dalli-17_2013	97	Dal-d353_97_sheep-14_4413	97	0	Ovis dalli	sheep	87.0
+taxongroup	Dal-d353_97_dalli-17	Dal-d353_97_Ovis-16	Dal-d353_97_dalli-17_2013	97	Dal-d353_97_Ovis-16_1183	97	0	Ovis dalli	Ovis	87.0
+taxongroup	Dal-d353_97_dalli-18	Dal-d353_97_Ovis-16	Dal-d353_97_dalli-18_2013	97	Dal-d353_97_Ovis-16_1183	97	0	Ovis dalli	Ovis	87.0
+taxongroup	Coy-1bf1_280_cattle-54	Coy-1bf1_280_animals-37	Coy-1bf1_280_cattle-54_1607	280	Coy-1bf1_280_animals-37_3812	280	0	Domestic cattle	animals	83.0
+taxongroup	Blu-3a31_180_cattle-4	Blu-3a31_180_animals-14	Blu-3a31_180_cattle-4_1607	180	Blu-3a31_180_animals-14_44	180	0	Domestic cattle	Animals	83.0
+taxongroup	Wil-de29_182_cattle-22	Wil-de29_182_animals-18	Wil-de29_182_cattle-22_1607	182	Wil-de29_182_animals-18_3812	182	0	Domestic cattle	animals	83.0
+taxongroup	Art-6267_298_cattle-2	Art-6267_298_animals-24	Art-6267_298_cattle-2_1607	298	Art-6267_298_animals-24_44	298	0	Domestic cattle	Animals	83.0
+taxongroup	Ame-d5c4_315_cattle-21	Ame-d5c4_315_animals-16	Ame-d5c4_315_cattle-21_1607	315	Ame-d5c4_315_animals-16_44	315	0	Domestic cattle	Animals	83.0
+taxongroup	Big-0af3_12_sheep-6	Big-0af3_12_sheep-25	Big-0af3_12_sheep-6_2014	12	Big-0af3_12_sheep-25_4413	12	0	Dalls sheep	sheep	83.0
+taxongroup	Big-0af3_12_sheep-6	Big-0af3_12_sheep-6	Big-0af3_12_sheep-6_2014	12	Big-0af3_12_sheep-6_4413	12	0	Dalls sheep	sheep	83.0
+taxongroup	Big-0af3_12_sheep-25	Big-0af3_12_sheep-14	Big-0af3_12_sheep-25_2014	12	Big-0af3_12_sheep-14_4413	12	0	Dalls sheep	sheep	83.0
+taxongroup	Big-0af3_12_sheep-6	Big-0af3_12_sheep-14	Big-0af3_12_sheep-6_2014	12	Big-0af3_12_sheep-14_4413	12	0	Dalls sheep	sheep	83.0
+taxongroup	Bos-be23_36_cattle-10	Bos-be23_36_Bos-2	Bos-be23_36_cattle-10_1607	36	Bos-be23_36_Bos-2_932	36	0	Domestic cattle	Bos	83.0
+taxongroup	Aur-c4ea_25_cattle-25	Aur-c4ea_25_Bos-4	Aur-c4ea_25_cattle-25_1607	25	Aur-c4ea_25_Bos-4_932	25	0	Domestic cattle	Bos	83.0
+taxongroup	Bos-be23_36_cattle-18	Bos-be23_36_Bos-2	Bos-be23_36_cattle-18_1607	36	Bos-be23_36_Bos-2_932	36	0	Domestic cattle	Bos	83.0
+taxongroup	Bos-be23_2_cattle-28	Bos-be23_2_Bos-1	Bos-be23_2_cattle-28_1607	2	Bos-be23_2_Bos-1_932	2	0	Domestic cattle	Bos	83.0
+taxongroup	Bos-be23_36_cattle-25	Bos-be23_36_Bos-6	Bos-be23_36_cattle-25_1607	36	Bos-be23_36_Bos-6_932	36	0	Domestic cattle	Bos	83.0
+taxongroup	Bos-be23_11_cattle-7	Bos-be23_11_mammals-20	Bos-be23_11_cattle-7_1607	11	Bos-be23_11_mammals-20_3797	11	0	Domestic cattle	mammals	83.0
+taxongroup	Bos-be23_36_cattle-18	Bos-be23_36_Bos-6	Bos-be23_36_cattle-18_1607	36	Bos-be23_36_Bos-6_932	36	0	Domestic cattle	Bos	83.0
+taxongroup	Bos-be23_36_cattle-25	Bos-be23_36_Bos-2	Bos-be23_36_cattle-25_1607	36	Bos-be23_36_Bos-2_932	36	0	Domestic cattle	Bos	83.0
+taxongroup	Bov-01d4_22_cattle-14	Bov-01d4_22_Bos-4	Bov-01d4_22_cattle-14_1607	22	Bov-01d4_22_Bos-4_932	22	0	Domestic cattle	Bos	83.0
+taxongroup	Bov-01d4_22_cattle-21	Bov-01d4_22_Bos-4	Bov-01d4_22_cattle-21_1607	22	Bov-01d4_22_Bos-4_932	22	0	Domestic cattle	Bos	83.0
+taxongroup	Bov-01d4_22_cattle-2	Bov-01d4_22_Bos-4	Bov-01d4_22_cattle-2_1607	22	Bov-01d4_22_Bos-4_932	22	0	Domestic cattle	Bos	83.0
+taxongroup	Bov-01d4_22_cattle-7	Bov-01d4_22_Bos-4	Bov-01d4_22_cattle-7_1607	22	Bov-01d4_22_Bos-4_932	22	0	Domestic cattle	Bos	83.0
+taxongroup	Bos-be23_36_cattle-10	Bos-be23_36_Bos-6	Bos-be23_36_cattle-10_1607	36	Bos-be23_36_Bos-6_932	36	0	Domestic cattle	Bos	83.0
+taxongroup	Gia-57fd_69_cattle-16	Gia-57fd_69_mammals-12	Gia-57fd_69_cattle-16_1607	69	Gia-57fd_69_mammals-12_3797	69	0	Domestic cattle	mammals	83.0
+taxongroup	Afr-324e_10_buffalo-12	Afr-324e_10_animals-8	Afr-324e_10_buffalo-12_4576	10	Afr-324e_10_animals-8_44	10	0	buffalo	Animals	83.0
+taxongroup	Bla-3ee3_2_antelope-13	Bla-3ee3_2_Antilope-4	Bla-3ee3_2_antelope-13_1686	2	Bla-3ee3_2_Antilope-4_896	2	0	Indian antelope	Antilope	83.0
+taxongroup	Arg-817f_2_sheep-18	Arg-817f_2_sheep-13	Arg-817f_2_sheep-18_1674	2	Arg-817f_2_sheep-13_4413	2	0	Mountain sheep	sheep	83.0
+taxongroup	Big-0af3_9_sheep-24	Big-0af3_9_sheep-24	Big-0af3_9_sheep-24_1674	9	Big-0af3_9_sheep-24_1184	9	0	Mountain sheep	Sheep	83.0
+taxongroup	Big-0af3_9_sheep-10	Big-0af3_9_sheep-24	Big-0af3_9_sheep-10_1674	9	Big-0af3_9_sheep-24_1184	9	0	Mountain sheep	Sheep	83.0
+taxongroup	Big-0af3_9_sheep-24	Big-0af3_9_sheep-10	Big-0af3_9_sheep-24_1674	9	Big-0af3_9_sheep-10_1184	9	0	Mountain sheep	Sheep	83.0
+taxongroup	Arg-817f_2_sheep-13	Arg-817f_2_sheep-13	Arg-817f_2_sheep-13_1674	2	Arg-817f_2_sheep-13_4413	2	0	Mountain sheep	sheep	83.0
+taxongroup	Arg-817f_2_sheep-13	Arg-817f_2_sheep-18	Arg-817f_2_sheep-13_1674	2	Arg-817f_2_sheep-18_4413	2	0	Mountain sheep	sheep	83.0
+taxongroup	Arg-817f_2_sheep-18	Arg-817f_2_sheep-18	Arg-817f_2_sheep-18_1565	2	Arg-817f_2_sheep-18_4413	2	0	Mountain sheep	sheep	83.0
+taxongroup	Dal-d353_109_sheep-2	Dal-d353_109_sheep-2	Dal-d353_109_sheep-2_1674	109	Dal-d353_109_sheep-2_4413	109	0	Mountain sheep	sheep	83.0
+taxongroup	Arg-817f_2_sheep-13	Arg-817f_2_Ovis-4	Arg-817f_2_sheep-13_1674	2	Arg-817f_2_Ovis-4_1183	2	0	Mountain sheep	Ovis	83.0
+taxongroup	Big-0af3_9_sheep-10	Big-0af3_9_sheep-10	Big-0af3_9_sheep-10_1565	9	Big-0af3_9_sheep-10_4413	9	0	Mountain sheep	sheep	83.0
+taxongroup	Arg-817f_2_sheep-18	Arg-817f_2_Ovis-4	Arg-817f_2_sheep-18_1674	2	Arg-817f_2_Ovis-4_1183	2	0	Mountain sheep	Ovis	83.0
+taxongroup	Big-0af3_12_sheep-14	Big-0af3_12_sheep-25	Big-0af3_12_sheep-14_2014	12	Big-0af3_12_sheep-25_4413	12	0	Dalls sheep	sheep	83.0
+taxongroup	Big-0af3_12_sheep-25	Big-0af3_12_sheep-25	Big-0af3_12_sheep-25_2014	12	Big-0af3_12_sheep-25_4413	12	0	Dalls sheep	sheep	83.0
+taxongroup	Ovi-a47a_29_sheep-3	Ovi-a47a_29_sheep-3	Ovi-a47a_29_sheep-3_2014	29	Ovi-a47a_29_sheep-3_1184	29	0	Dalls sheep	Sheep	83.0
+taxongroup	Big-0af3_12_sheep-14	Big-0af3_12_sheep-6	Big-0af3_12_sheep-14_2014	12	Big-0af3_12_sheep-6_4413	12	0	Dalls sheep	sheep	83.0
+taxongroup	Afr-324e_2_buffalo-3	Afr-324e_2_bovine-13	Afr-324e_2_buffalo-3_1442	2	Afr-324e_2_bovine-13_4054	2	0	African buffalo	bovines	83.0
+taxongroup	Afr-324e_7_buffalo-3	Afr-324e_7_bovids-17	Afr-324e_7_buffalo-3_3920	7	Afr-324e_7_bovids-17_4053	7	0	water buffalo	bovids	83.0
+taxongroup	Afr-324e_7_buffalo-35	Afr-324e_7_bovids-17	Afr-324e_7_buffalo-35_3920	7	Afr-324e_7_bovids-17_4053	7	0	water buffalo	bovids	83.0
+taxongroup	Afr-324e_15_buffalo-23	Afr-324e_15_bovids-5	Afr-324e_15_buffalo-23_3920	15	Afr-324e_15_bovids-5_4053	15	0	water buffalo	bovids	83.0
+taxongroup	Afr-324e_7_buffalo-10	Afr-324e_7_bovids-17	Afr-324e_7_buffalo-10_3920	7	Afr-324e_7_bovids-17_4053	7	0	water buffalo	bovids	83.0
+taxongroup	Afr-324e_31_buffalo-7	Afr-324e_31_bovines-4	Afr-324e_31_buffalo-7_1442	31	Afr-324e_31_bovines-4_4054	31	0	African buffalo	bovines	83.0
+taxongroup	Tai-3286_123_sheep-13	Tai-3286_123_sheep-22	Tai-3286_123_sheep-13_1673	123	Tai-3286_123_sheep-22_1184	123	0	American bighorn sheep	Sheep	83.0
+taxongroup	Afr-324e_31_bison-16	Afr-324e_31_bovines-4	Afr-324e_31_bison-16_1484	31	Afr-324e_31_bovines-4_4054	31	0	American bison	bovines	83.0
+taxongroup	Tai-3286_123_sheep-13	Tai-3286_123_sheep-13	Tai-3286_123_sheep-13_1673	123	Tai-3286_123_sheep-13_1184	123	0	American bighorn sheep	Sheep	83.0
+taxongroup	Tai-3286_123_sheep-22	Tai-3286_123_sheep-13	Tai-3286_123_sheep-22_1673	123	Tai-3286_123_sheep-13_1184	123	0	American bighorn sheep	Sheep	83.0
+taxongroup	Tai-3286_123_sheep-22	Tai-3286_123_sheep-22	Tai-3286_123_sheep-22_1673	123	Tai-3286_123_sheep-22_1184	123	0	American bighorn sheep	Sheep	83.0
+taxongroup	Ant-dc13_2_blackbuck-18	Ant-dc13_2_bovid-9	Ant-dc13_2_blackbuck-18_4683	2	Ant-dc13_2_bovid-9_4053	2	0	blackbuck	bovids	83.0
+taxongroup	Bov-d455_264_buffalo-27	Bov-d455_264_bovids-3	Bov-d455_264_buffalo-27_3920	264	Bov-d455_264_bovids-3_4053	264	0	water buffalo	bovids	83.0
+taxongroup	Bov-d455_264_buffalo-21	Bov-d455_264_bovids-3	Bov-d455_264_buffalo-21_3920	264	Bov-d455_264_bovids-3_4053	264	0	water buffalo	bovids	83.0
+taxongroup	Wat-9861_2_buffalo-18	Wat-9861_2_bovid-23	Wat-9861_2_buffalo-18_3920	2	Wat-9861_2_bovid-23_4053	2	0	water buffalo	bovids	83.0
+taxongroup	Wat-9861_2_buffalo-14	Wat-9861_2_bovid-23	Wat-9861_2_buffalo-14_3920	2	Wat-9861_2_bovid-23_4053	2	0	water buffalo	bovids	83.0
+taxongroup	Aur263f_8_cattle-5	Aur263f_8_animals-18	Aur263f_8_cattle-5_4648	8	Aur263f_8_animals-18_3812	8	0	wild cattle	animals	83.0
+taxongroup	Bov-d455_230_buffalo-20	Bov-d455_230_bovids-5	Bov-d455_230_buffalo-20_1442	230	Bov-d455_230_bovids-5_4053	230	0	African buffalo	bovids	83.0
+taxongroup	Wil-28c2_2_buffalo-4	Wil-28c2_2_bovine-24	Wil-28c2_2_buffalo-4_3920	2	Wil-28c2_2_bovine-24_4054	2	0	water buffalo	bovines	83.0
+taxongroup	Wil-28c2_2_buffalo-19	Wil-28c2_2_bovine-24	Wil-28c2_2_buffalo-19_3920	2	Wil-28c2_2_bovine-24_4054	2	0	water buffalo	bovines	83.0
+taxongroup	Wil-28c2_2_buffalo-13	Wil-28c2_2_bovine-24	Wil-28c2_2_buffalo-13_3920	2	Wil-28c2_2_bovine-24_4054	2	0	water buffalo	bovines	83.0
+taxongroup	Wil-28c2_2_buffalo-16	Wil-28c2_2_bovine-24	Wil-28c2_2_buffalo-16_3920	2	Wil-28c2_2_bovine-24_4054	2	0	water buffalo	bovines	83.0
+taxongroup	Wat-9861_2_buffalo-3	Wat-9861_2_bovid-23	Wat-9861_2_buffalo-3_3920	2	Wat-9861_2_bovid-23_4053	2	0	water buffalo	bovids	83.0
+taxongroup	Afr-324e_7_bison-21	Afr-324e_7_bovids-17	Afr-324e_7_bison-21_1484	7	Afr-324e_7_bovids-17_4053	7	0	American bison	bovids	83.0
+taxongroup	Blu-3a31_160_wildebeest-8	Blu-3a31_160_bovids-5	Blu-3a31_160_wildebeest-8_4706	160	Blu-3a31_160_bovids-5_4053	160	0	blue wildebeest	bovids	83.0
+taxongroup	Big-0af3_12_sheep-14	Big-0af3_12_sheep-14	Big-0af3_12_sheep-14_2014	12	Big-0af3_12_sheep-14_4413	12	0	Dalls sheep	sheep	83.0
+taxongroup	Dal-d353_11_sheep-7	Dal-d353_11_sheep-10	Dal-d353_11_sheep-7_2014	11	Dal-d353_11_sheep-10_1184	11	0	Dalls sheep	Sheep	83.0
+taxongroup	Dal-d353_11_sheep-7	Dal-d353_11_sheep-7	Dal-d353_11_sheep-7_2014	11	Dal-d353_11_sheep-7_1184	11	0	Dalls sheep	Sheep	83.0
+taxongroup	Big-0af3_12_sheep-25	Big-0af3_12_sheep-6	Big-0af3_12_sheep-25_2014	12	Big-0af3_12_sheep-6_1184	12	0	Dalls sheep	Sheep	83.0
+taxongroup	Blu-3a31_89_wildebeest-8	Blu-3a31_89_bovine-11	Blu-3a31_89_wildebeest-8_4706	89	Blu-3a31_89_bovine-11_4054	89	0	blue wildebeest	bovines	83.0
+taxongroup	Dal-d353_11_sheep-10	Dal-d353_11_sheep-10	Dal-d353_11_sheep-10_2014	11	Dal-d353_11_sheep-10_4413	11	0	Dalls sheep	sheep	83.0
+taxongroup	Dal-d353_11_sheep-10	Dal-d353_11_sheep-7	Dal-d353_11_sheep-10_2014	11	Dal-d353_11_sheep-7_4413	11	0	Dalls sheep	sheep	83.0
+taxongroup	Bov-d455_225_topi-7	Bov-d455_225_bovids-10	Bov-d455_225_topi-7_5574	225	Bov-d455_225_bovids-10_4053	225	0	topi	bovids	83.0
+taxongroup	Wat-9861_333_Buffalo-3	Wat-9861_333_Animal-10	Wat-9861_333_Buffalo-3_1444	333	Wat-9861_333_Animal-10_44	333	0	Buffalo	Animals	83.0
+taxongroup	Afr-324e_136_buffalo-27	Afr-324e_136_animals-21	Afr-324e_136_buffalo-27_1445	136	Afr-324e_136_animals-21_44	136	0	Cape buffalo	Animals	83.0
+taxongroup	Com-4c8f_41_cow-67	Com-4c8f_41_animal-47	Com-4c8f_41_cow-67_4646	41	Com-4c8f_41_animal-47_44	41	0	cows	Animals	83.0
+taxongroup	Mac-251e_316_cow-29	Mac-251e_316_animal-24	Mac-251e_316_cow-29_4646	316	Mac-251e_316_animal-24_3812	316	0	cows	animals	83.0
+taxongroup	Hyp-f6cf_197_cows-11	Hyp-f6cf_197_animals-8	Hyp-f6cf_197_cows-11_4646	197	Hyp-f6cf_197_animals-8_3812	197	0	cows	animals	83.0
+taxongroup	Coy-1bf1_280_cow-19	Coy-1bf1_280_animals-37	Coy-1bf1_280_cow-19_4646	280	Coy-1bf1_280_animals-37_3812	280	0	cows	animals	83.0
+taxongroup	Com-4c8f_41_cow-67	Com-4c8f_41_animal-9	Com-4c8f_41_cow-67_4646	41	Com-4c8f_41_animal-9_3812	41	0	cows	animals	83.0
+taxongroup	Pèr-9953_24_cow-58	Pèr-9953_24_animal-116	Pèr-9953_24_cow-58_4646	24	Pèr-9953_24_animal-116_3812	24	0	cows	animals	83.0
+taxongroup	Pèr-9953_24_cow-6	Pèr-9953_24_animal-116	Pèr-9953_24_cow-6_4646	24	Pèr-9953_24_animal-116_3812	24	0	cows	animals	83.0
+taxongroup	Pèr-9953_24_cow-77	Pèr-9953_24_animal-116	Pèr-9953_24_cow-77_4646	24	Pèr-9953_24_animal-116_3812	24	0	cows	animals	83.0
+taxongroup	Cat-605b_196_cows-27	Cat-605b_196_animal-15	Cat-605b_196_cows-27_4646	196	Cat-605b_196_animal-15_3812	196	0	cows	animals	83.0
+taxongroup	Cat-605b_23_cow-3	Cat-605b_23_animal-27	Cat-605b_23_cow-3_4646	23	Cat-605b_23_animal-27_3812	23	0	cows	animals	83.0
+taxongroup	Pèr-9953_24_cow-108	Pèr-9953_24_animal-116	Pèr-9953_24_cow-108_4646	24	Pèr-9953_24_animal-116_3812	24	0	cows	animals	83.0
+taxongroup	Pèr-9953_24_cow-10	Pèr-9953_24_animal-116	Pèr-9953_24_cow-10_4646	24	Pèr-9953_24_animal-116_3812	24	0	cows	animals	83.0
+taxongroup	Ant-7402_137_cow-33	Ant-7402_137_animals-6	Ant-7402_137_cow-33_4646	137	Ant-7402_137_animals-6_3812	137	0	cows	animals	83.0
+taxongroup	Bla-b48c_24_cow-27	Bla-b48c_24_animals-6	Bla-b48c_24_cow-27_4646	24	Bla-b48c_24_animals-6_3812	24	0	cows	animals	83.0
+taxongroup	Ame-d5c4_209_cow-43	Ame-d5c4_209_animals-9	Ame-d5c4_209_cow-43_4646	209	Ame-d5c4_209_animals-9_3812	209	0	cows	animals	83.0
+taxongroup	Bos-be23_2_cow-7	Bos-be23_2_Bos-1	Bos-be23_2_cow-7_4646	2	Bos-be23_2_Bos-1_932	2	0	cows	Bos	83.0
+taxongroup	Tenba9e_6_cows-24	Tenba9e_6_mammals-7	Tenba9e_6_cows-24_4646	6	Tenba9e_6_mammals-7_3797	6	0	cows	mammals	83.0
+taxongroup	Art-6267_113_cows-33	Art-6267_113_mammals-26	Art-6267_113_cows-33_4646	113	Art-6267_113_mammals-26_3797	113	0	cows	mammals	83.0
+taxongroup	Afr-7494_7_cows-12	Afr-7494_7_mammal-5	Afr-7494_7_cows-12_4646	7	Afr-7494_7_mammal-5_3797	7	0	cows	mammals	83.0
+taxongroup	Rep-aa64_489_cows-23	Rep-aa64_489_vertebrates-21	Rep-aa64_489_cows-23_4646	489	Rep-aa64_489_vertebrates-21_3935	489	0	cows	vertebrates	83.0
+taxongroup	Man-5a67_2_cows-24	Man-5a67_2_mammals-19	Man-5a67_2_cows-24_4646	2	Man-5a67_2_mammals-19_3797	2	0	cows	mammals	83.0
+taxongroup	Dug-bf37_20_cows-16	Dug-bf37_20_mammals-10	Dug-bf37_20_cows-16_4646	20	Dug-bf37_20_mammals-10_3797	20	0	cows	mammals	83.0
+taxongroup	Com-4c8f_41_cow-67	Com-4c8f_41_mammals-61	Com-4c8f_41_cow-67_4646	41	Com-4c8f_41_mammals-61_3797	41	0	cows	mammals	83.0
+taxongroup	Orn-efbf_5_cow-34	Orn-efbf_5_mammals-29	Orn-efbf_5_cow-34_4646	5	Orn-efbf_5_mammals-29_3797	5	0	cows	mammals	83.0
+taxongroup	Sir-1b7d_2_cows-11	Sir-1b7d_2_mammals-23	Sir-1b7d_2_cows-11_4646	2	Sir-1b7d_2_mammals-23_3797	2	0	cows	mammals	83.0
+taxongroup	Wat91ee_3_buffalo-2	Wat91ee_3_animals-7	Wat91ee_3_buffalo-2_4576	3	Wat91ee_3_animals-7_3812	3	0	buffalo	animals	83.0
+taxongroup	Afr-354e_15_buffalo-7	Afr-354e_15_animals-19	Afr-354e_15_buffalo-7_4576	15	Afr-354e_15_animals-19_3812	15	0	buffalo	animals	83.0
+taxongroup	Art-6267_79_buffalo-6	Art-6267_79_Bovidae-2	Art-6267_79_buffalo-6_4576	79	Art-6267_79_Bovidae-2_497	79	0	buffalo	Bovidae	83.0
+taxongroup	Spo962a_13_buffalos-13	Spo962a_13_animals-11	Spo962a_13_buffalos-13_4576	13	Spo962a_13_animals-11_44	13	0	buffalo	Animals	83.0
+taxongroup	Ame-d5c4_22_buffalo-7	Ame-d5c4_22_mammal-15	Ame-d5c4_22_buffalo-7_4576	22	Ame-d5c4_22_mammal-15_3797	22	0	buffalo	mammals	83.0
+taxongroup	Spi-06e4_132_buffalo-6	Spi-06e4_132_mammals-67	Spi-06e4_132_buffalo-6_4576	132	Spi-06e4_132_mammals-67_3797	132	0	buffalo	mammals	83.0
+taxongroup	Bov-d455_2_buffalo-22	Bov-d455_2_mammals-13	Bov-d455_2_buffalo-22_4576	2	Bov-d455_2_mammals-13_3797	2	0	buffalo	mammals	83.0
+taxongroup	Cro-0859_132_buffalo-38	Cro-0859_132_mammals-34	Cro-0859_132_buffalo-38_4576	132	Cro-0859_132_mammals-34_3797	132	0	buffalo	mammals	83.0
+taxongroup	Art-6267_113_cows-33	Art-6267_113_mammals-18	Art-6267_113_cows-33_4646	113	Art-6267_113_mammals-18_3797	113	0	cows	mammals	83.0
+taxongroup	Bov-d455_139_bovids-5	Bov-d455_139_animals-31	Bov-d455_139_bovids-5_4053	139	Bov-d455_139_animals-31_44	139	0	bovids	Animals	83.0
+taxongroup	Bov-d455_52_bovids-3	Bov-d455_52_animals-28	Bov-d455_52_bovids-3_4053	52	Bov-d455_52_animals-28_44	52	0	bovids	Animals	83.0
+taxongroup	Dee-529a_81_bovids-11	Dee-529a_81_artiodactyla-9	Dee-529a_81_bovids-11_4053	81	Dee-529a_81_artiodactyla-9_4967	81	0	bovids	artiodactyla	83.0
+taxongroup	Gir-cc25_2_bovids-18	Gir-cc25_2_mammals-9	Gir-cc25_2_bovids-18_4053	2	Gir-cc25_2_mammals-9_3797	2	0	bovids	mammals	83.0
+taxongroup	Smi-7190_286_bovines-27	Smi-7190_286_animals-11	Smi-7190_286_bovines-27_4054	286	Smi-7190_286_animals-11_44	286	0	bovines	Animals	83.0
+taxongroup	Hom-cefb_11_bovines-20	Hom-cefb_11_animals-16	Hom-cefb_11_bovines-20_4054	11	Hom-cefb_11_animals-16_44	11	0	bovines	Animals	83.0
+taxongroup	Ele-f6cf_525_bovine-30	Ele-f6cf_525_animals-8	Ele-f6cf_525_bovine-30_4054	525	Ele-f6cf_525_animals-8_3812	525	0	bovines	animals	83.0
+taxongroup	Cap93c5_1_bovine-8	Cap93c5_1_animals-9	Cap93c5_1_bovine-8_4054	1	Cap93c5_1_animals-9_3812	1	0	bovines	animals	83.0
+taxongroup	Kor-3a14_2_korrigum-6	Kor-3a14_2_Damaliscus-4	Kor-3a14_2_korrigum-6_5575	2	Kor-3a14_2_Damaliscus-4_1006	2	0	korrigum	Damaliscus	83.0
+taxongroup	Kor-3a14_2_korrigum-2	Kor-3a14_2_Damaliscus-4	Kor-3a14_2_korrigum-2_5575	2	Kor-3a14_2_Damaliscus-4_1006	2	0	korrigum	Damaliscus	83.0
+taxongroup	Cat-605b_23_bovine-26	Cat-605b_23_animal-27	Cat-605b_23_bovine-26_4054	23	Cat-605b_23_animal-27_3812	23	0	bovines	animals	83.0
+taxongroup	Bov-d455_162_buffalo-12	Bov-d455_162_bovids-2	Bov-d455_162_buffalo-12_4576	162	Bov-d455_162_bovids-2_4053	162	0	buffalo	bovids	68.89
+taxongroup	Bov439b_2_cattle-11	Bov439b_2_bovines-3	Bov439b_2_cattle-11_4647	2	Bov439b_2_bovines-3_4054	2	0	domestic cattle	bovines	68.89
+taxongroup	Afr-324e_31_cattle-19	Afr-324e_31_bovines-4	Afr-324e_31_cattle-19_4647	31	Afr-324e_31_bovines-4_4054	31	0	domestic cattle	bovines	68.89
+taxongroup	Bos-be23_2_cattle-28	Bos-be23_2_bovines-17	Bos-be23_2_cattle-28_4647	2	Bos-be23_2_bovines-17_4054	2	0	domestic cattle	bovines	68.89
+taxongroup	Afr-324e_7_cattle-24	Afr-324e_7_bovids-17	Afr-324e_7_cattle-24_4647	7	Afr-324e_7_bovids-17_4053	7	0	domestic cattle	bovids	68.89
+taxongroup	Bos-be23_2_cow-7	Bos-be23_2_bovines-17	Bos-be23_2_cow-7_4646	2	Bos-be23_2_bovines-17_4054	2	0	cows	bovines	68.89
+taxongroup	Man-5a67_13_cow-4	Man-5a67_13_bovines-23	Man-5a67_13_cow-4_4646	13	Man-5a67_13_bovines-23_4054	13	0	cows	bovines	68.89
+taxongroup	Cat-605b_23_cow-3	Cat-605b_23_bovine-26	Cat-605b_23_cow-3_4646	23	Cat-605b_23_bovine-26_4054	23	0	cows	bovines	68.89
+taxongroup	Aur-c4ea_75_cows-4	Aur-c4ea_75_bovines-26	Aur-c4ea_75_cows-4_4646	75	Aur-c4ea_75_bovines-26_4054	75	0	cows	bovines	68.89
+taxongroup	Bea-1194_99_ibex-14	Bea-1194_99_animals-2	Bea-1194_99_ibex-14_4275	99	Bea-1194_99_animals-2_3812	99	0	ibex and goats	animals	66.0
+taxongroup	Cou-56f5_123_sheep-15	Cou-56f5_123_sheep-15	Cou-56f5_123_sheep-15_1673	123	Cou-56f5_123_sheep-15_1184	123	0	American bighorn sheep	Sheep	54.0
+taxongroup	Big-0af3_25_sheep-3	Big-0af3_25_sheep-21	Big-0af3_25_sheep-3_1673	25	Big-0af3_25_sheep-21_4413	25	0	American bighorn sheep	sheep	54.0
+taxongroup	Bha-2df5_29_sheep-4	Bha-2df5_29_Pseudois-30	Bha-2df5_29_sheep-4_1670	29	Bha-2df5_29_Pseudois-30_1227	29	0	Himalayan blue sheep	Pseudois	54.0

@@ -1,0 +1,17 @@
+feat,pearson,p_pvalue,spearman,s_pvalue,N,group,relrole
+obl<obj> ...,0.795,0.018,0.845,0.008,3.0,Hymenoptera__order,location_comment
+obl< ...,0.736,0.037,0.73,0.04,5.0,Hymenoptera__order,location_comment
+obl<nsubj> ...,0.711,0.048,0.873,0.005,4.0,Hymenoptera__order,location_comment
+amod> tropical,0.657,0.077,0.63,0.094,2.0,Hymenoptera__order,location_comment
+nmod< ...,0.616,0.104,0.577,0.134,3.0,Hymenoptera__order,location_comment
+case> in,0.568,0.142,0.665,0.072,7.0,Hymenoptera__order,location_comment
+case> ...,0.52,0.186,0.481,0.227,4.0,Hymenoptera__order,location_comment
+compound<case> ...,-0.494,0.214,-0.412,0.31,1.0,Hymenoptera__order,location_comment
+compound<case> in,0.447,0.267,0.577,0.134,2.0,Hymenoptera__order,location_comment
+compound< area,0.385,0.347,0.577,0.134,2.0,Hymenoptera__order,location_comment
+obl<advmod> ...,0.378,0.356,0.452,0.261,3.0,Hymenoptera__order,location_comment
+obl< live,-0.225,0.591,0.0,1.0,2.0,Hymenoptera__order,location_comment
+compound<nmod< ...,0.071,0.868,0.016,0.971,3.0,Hymenoptera__order,location_comment
+compound< ...,-0.041,0.924,-0.169,0.689,3.0,Hymenoptera__order,location_comment
+compound<nmod<amod> ...,-0.026,0.951,-0.031,0.942,3.0,Hymenoptera__order,location_comment
+amod> ...,-0.008,0.985,0.0,1.0,2.0,Hymenoptera__order,location_comment

@@ -1,0 +1,8 @@
+rel_role	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	1.0	0.0	0.0	0.0	0.0	0.003	0.0	Monocotyledon__class	47
+adaptation_topic	0.0	1.0	0.0	0.004	0.019	0.0	0.0	Monocotyledon__class	144
+free_topic	0.0	0.0	1.0	0.001	0.001	0.0	0.0	Monocotyledon__class	938
+location_comment	0.0	0.004	0.001	1.0	0.077	0.0	0.046	Monocotyledon__class	145
+location_topic	0.0	0.019	0.001	0.077	1.0	0.0	0.012	Monocotyledon__class	105
+taxongroup_comment	0.003	0.0	0.0	0.0	0.0	1.0	0.0	Monocotyledon__class	468
+taxongroup_topic	0.0	0.0	0.0	0.046	0.012	0.0	1.0	Monocotyledon__class	450

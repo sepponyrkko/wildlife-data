@@ -1,0 +1,8 @@
+source	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	64.21	0.01	9.25	0.0	0.13	17.87	8.53	Charadriiformes__order	77
+adaptation_topic	0.0	45.05	10.89	0.0	1.16	17.81	25.1	Charadriiformes__order	109
+free_topic	0.0	0.0	70.01	0.0	0.03	21.45	8.51	Charadriiformes__order	486
+location_comment	0.04	0.09	16.04	47.38	1.22	26.16	9.07	Charadriiformes__order	66
+location_topic	0.0	0.09	8.89	0.0	50.51	21.59	18.92	Charadriiformes__order	119
+taxongroup_comment	0.0	0.0	1.42	0.0	0.02	79.29	19.26	Charadriiformes__order	449
+taxongroup_topic	0.0	0.0	1.56	0.0	0.04	23.79	74.61	Charadriiformes__order	414

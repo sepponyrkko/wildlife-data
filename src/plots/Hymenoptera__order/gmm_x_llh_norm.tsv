@@ -1,0 +1,8 @@
+source	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	47.25	0.83	11.51	0.0	0.0	19.31	21.1	Hymenoptera__order	114
+adaptation_topic	0.0	45.64	0.05	0.0	0.0	16.26	38.05	Hymenoptera__order	169
+free_topic	0.0	0.08	48.52	0.0	0.0	15.17	36.23	Hymenoptera__order	900
+location_comment	0.26	2.24	24.38	24.38	0.0	24.38	24.38	Hymenoptera__order	19
+location_topic	0.01	2.44	15.76	0.0	37.82	15.78	28.18	Hymenoptera__order	36
+taxongroup_comment	0.0	0.09	2.71	0.0	0.0	67.09	30.11	Hymenoptera__order	367
+taxongroup_topic	0.0	0.08	1.56	0.0	0.0	8.56	89.8	Hymenoptera__order	383

@@ -1,0 +1,21 @@
+,token,token_form,concept_uri,arcpath,lemma,upos,widx,feat,elongation_x,elongation_y,group,relrole,comp_id,N_tokens
+0,Com07fd_2_bats-3,bats,Common_Blossom_Bat#species,amod>,common,ADJ,1,amod> common,0.19310409794234573,-0.4023362282358291,Bat__order,location_topic,0,3
+1,Com07fd_2_bats-3,bats,Common_Blossom_Bat#species,compound>,blossom,NOUN,2,compound> blossom,0.055751720048971665,0.0018163232069563356,Bat__order,location_topic,0,3
+0,Com-a11e_13_bat-3,bat,Common_Blossom_Bat#species,amod>,common,ADJ,1,amod> common,0.19310409794234573,-0.4023362282358291,Bat__order,location_topic,0,3
+1,Com-a11e_13_bat-3,bat,Common_Blossom_Bat#species,compound>,blossom,NOUN,2,compound> blossom,0.055751720048971665,0.0018163232069563356,Bat__order,location_topic,0,3
+2,Com-a11e_13_bat-3,bat,Common_Blossom_Bat#species,appos>,behaviour,PROPN,5,appos> ...,0.5416984312170441,-0.23895261374535587,Bat__order,location_topic,0,3
+0,Com-a11e_9_bat-3,bat,Common_Blossom_Bat#species,amod>,common,ADJ,1,amod> common,0.19310409794234573,-0.4023362282358291,Bat__order,location_topic,0,3
+1,Com-a11e_9_bat-3,bat,Common_Blossom_Bat#species,compound>,blossom,NOUN,2,compound> blossom,0.055751720048971665,0.0018163232069563356,Bat__order,location_topic,0,3
+2,Com-a11e_9_bat-3,bat,Common_Blossom_Bat#species,appos>,distribution,NOUN,5,appos> ...,0.5571301953906255,-0.26535846401218954,Bat__order,location_topic,0,3
+6,Com07fd_2_bat-9,bat,Common_Blossom_Bat#species,case>,of,ADP,7,case> ...,0.37859333141384843,-0.6404214102380118,Bat__order,location_topic,1,2
+4,Mam-3742_525_bat-19,bat,Common_Vampire_Bat#species,case>,such,ADJ,14,case> ...,0.35114327225674247,-0.6351552376134504,Bat__order,location_topic,1,2
+6,Mam-3742_525_bat-19,bat,Common_Vampire_Bat#species,det>,the,DET,16,det> the,-0.12302803643905395,0.07169493800667048,Bat__order,location_topic,1,2
+7,Mam-3742_525_bat-19,bat,Common_Vampire_Bat#species,amod>,common,ADJ,17,amod> common,-0.06297745052057299,-0.15113956553732155,Bat__order,location_topic,1,2
+10,Mam-3742_525_bat-19,bat,Common_Vampire_Bat#species,appos>,rotundus,NOUN,22,appos> ...,-0.5581422333008595,-0.48447597763637146,Bat__order,location_topic,1,2
+5,Mam-3742_525_rotundus-22,rotundus,Common_Vampire_Bat#species,appos<amod>,common,ADJ,17,appos<amod> ...,0.11675077929240037,0.12306360327165346,Bat__order,location_topic,3,2
+7,Mam-3742_525_rotundus-22,rotundus,Common_Vampire_Bat#species,appos<,bat,NOUN,19,appos< bat,-0.24034870882140758,-0.0758512042206211,Bat__order,location_topic,3,2
+8,Mam-3742_525_rotundus-22,rotundus,Common_Vampire_Bat#species,compound>,Desmodus,NOUN,21,compound> ...,0.05292793218840065,0.0692048441334163,Bat__order,location_topic,3,2
+3,Bat-2d5b_285_brasiliensis-11,brasiliensis,Mexican_Free-tailed_Bat#species,appos<amod>,mexican,ADJ,4,appos<amod> ...,0.10970141914152004,-0.045116670931519456,Bat__order,location_topic,3,2
+5,Bat-2d5b_285_brasiliensis-11,brasiliensis,Mexican_Free-tailed_Bat#species,appos<amod>,tailed,VERB,7,appos<amod> ...,0.08268029727722426,-0.006316630287259178,Bat__order,location_topic,3,2
+6,Bat-2d5b_285_brasiliensis-11,brasiliensis,Mexican_Free-tailed_Bat#species,appos<,bat,NOUN,8,appos< bat,-0.24034870882140758,-0.0758512042206211,Bat__order,location_topic,3,2
+7,Bat-2d5b_285_brasiliensis-11,brasiliensis,Mexican_Free-tailed_Bat#species,compound>,Tadarida,PROPN,10,compound> ...,0.11758156625643623,-0.05091903295402205,Bat__order,location_topic,3,2

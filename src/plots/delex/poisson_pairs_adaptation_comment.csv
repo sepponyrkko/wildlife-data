@@ -1,0 +1,15 @@
+feature a,feature b,occ (N1=3282),ref (N2=46324),E-test p-value
+nmod>case>,nmod>amod>,157,963,0.00000 ***
+amod<case>,amod<nmod<,157,351,0.00000 ***
+nsubj>,advmod>,114,256,0.00000 ***
+cop>,advmod>,128,278,0.00000 ***
+cop>,nsubj>amod>,118,491,0.00000 ***
+amod<case>,amod<nmod<det>,88,183,0.00000 ***
+amod<case>,amod<obl<,116,279,0.00000 ***
+obj<,amod>,140,994,0.00000 ***
+nmod>case>,nmod>det>,158,1422,0.00005 **
+nmod>det>,nmod>amod>,56,416,0.00228 **
+obl<mark>,amod>,39,260,0.00546 *
+obl<,amod>,148,1715,0.03583 *
+nmod:poss>,nsubj<conj>,11,26,0.08650 
+nmod>conj>,nsubj<obj>conj>,8,11,0.28414 

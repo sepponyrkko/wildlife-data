@@ -1,0 +1,956 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Pol-28e5_64_worm-7	Pol-28e5_64_vents-18	Pol-28e5_64_worm-7_3122	64	Pol-28e5_64_vents-18_4520	64	0	Pompeii worm	hydrothermal vents	100.0
+location	Cro-4b5e_324_starfish-7	Cro-4b5e_324_reef-28	Cro-4b5e_324_starfish-7_4849	324	Cro-4b5e_324_reef-28_4532	324	0	crown-of-thorns starfish	reefs	100.0
+location	Cro-4b5e_337_starfish-11	Cro-4b5e_337_Reefs-20	Cro-4b5e_337_starfish-11_4849	337	Cro-4b5e_337_Reefs-20_1371	337	0	crown-of-thorns starfish	Reefs	100.0
+location	Ech-1003_298_planci-22	Ech-1003_298_reef-40	Ech-1003_298_planci-22_2008	298	Ech-1003_298_reef-40_4532	298	0	Acanthaster planci	reefs	87.0
+location	Alv-7b43_83_pachyptila-6	Alv-7b43_83_vents-12	Alv-7b43_83_pachyptila-6_2361	83	Alv-7b43_83_vents-12_4520	83	0	Riftia pachyptila	hydrothermal vents	87.0
+location	Bra-cd5f_233_brachiopods-2	Bra-cd5f_233_seas-9	Bra-cd5f_233_brachiopods-2_4728	233	Bra-cd5f_233_seas-9_4528	233	0	brachiopods	shallow seas	83.0
+location	Cro-4b5e_115_starfish-32	Cro-4b5e_115_reef-16	Cro-4b5e_115_starfish-32_4849	115	Cro-4b5e_115_reef-16_4532	115	0	crown-of-thorns starfish	reefs	83.0
+location	Gia7637_6_worms-3	Gia7637_6_vents-17	Gia7637_6_worms-3_2360	6	Gia7637_6_vents-17_4520	6	0	Giant tube worm	hydrothermal vents	66.0
+location	Sym-a4bb_43_worms-14	Sym-a4bb_43_vents-22	Sym-a4bb_43_worms-14_5012	43	Sym-a4bb_43_vents-22_4520	43	0	giant tube worm	hydrothermal vents	66.0
+location	Hyd-d7b9_133_worms-3	Hyd-d7b9_133_vent-33	Hyd-d7b9_133_worms-3_5012	133	Hyd-d7b9_133_vent-33_4520	133	0	giant tube worm	hydrothermal vents	66.0
+location	Hyd-d7b9_9_worms-23	Hyd-d7b9_9_vents-8	Hyd-d7b9_9_worms-23_5012	9	Hyd-d7b9_9_vents-8_4520	9	0	giant tube worm	hydrothermal vents	66.0
+location	Sea-a026_10_urchins-2	Sea-a026_10_bed-27	Sea-a026_10_urchins-2_5528	10	Sea-a026_10_bed-27_4510	10	0	purple sea urchin	sea bed	66.0
+location	Gia7637_7_worms-9	Gia7637_6_vents-17	Gia7637_7_worms-9_5012	7	Gia7637_6_vents-17_4520	6	1	giant tube worm	hydrothermal vents	50.0
+location	Alv-7b43_2_worm-6	Alv-7b43_3_vents-9	Alv-7b43_2_worm-6_3122	2	Alv-7b43_3_vents-9_4520	3	1	Pompeii worm	hydrothermal vents	50.0
+location	Alv-7b43_5_worm-39	Alv-7b43_6_vents-16	Alv-7b43_5_worm-39_3122	5	Alv-7b43_6_vents-16_4520	6	1	Pompeii worm	hydrothermal vents	50.0
+location	Alv-7b43_2_worm-16	Alv-7b43_3_vents-9	Alv-7b43_2_worm-16_3122	2	Alv-7b43_3_vents-9_4520	3	1	Pompeii worm	hydrothermal vents	50.0
+location	Alv-7b43_97_worm-14	Alv-7b43_96_vents-28	Alv-7b43_97_worm-14_3122	97	Alv-7b43_96_vents-28_4520	96	1	Pompeii worm	hydrothermal vents	50.0
+location	Alv-7b43_2_worms-24	Alv-7b43_3_vents-9	Alv-7b43_2_worms-24_3122	2	Alv-7b43_3_vents-9_4520	3	1	Pompeii worm	hydrothermal vents	50.0
+location	Alv-7b43_83_pachyptila-6	Alv-7b43_84_vent-24	Alv-7b43_83_pachyptila-6_2361	83	Alv-7b43_84_vent-24_4520	84	1	Riftia pachyptila	hydrothermal vents	43.5
+location	Alv-7b43_83_pachyptila-6	Alv-7b43_84_vents-10	Alv-7b43_83_pachyptila-6_2361	83	Alv-7b43_84_vents-10_4520	84	1	Riftia pachyptila	hydrothermal vents	43.5
+location	Alv-7b43_85_pompejana-2	Alv-7b43_84_vent-24	Alv-7b43_85_pompejana-2_3123	85	Alv-7b43_84_vent-24_4520	84	1	Alvinella pompejana	hydrothermal vents	43.5
+location	Alv-7b43_85_pompejana-2	Alv-7b43_84_vents-10	Alv-7b43_85_pompejana-2_3123	85	Alv-7b43_84_vents-10_4520	84	1	Alvinella pompejana	hydrothermal vents	43.5
+location	Alv-7b43_4_pompejana-2	Alv-7b43_3_vents-9	Alv-7b43_4_pompejana-2_3123	4	Alv-7b43_3_vents-9_4520	3	1	Alvinella pompejana	hydrothermal vents	43.5
+location	Cro60a5_9_starfish-12	Cro60a5_8_Reef-6	Cro60a5_9_starfish-12_2007	9	Cro60a5_8_Reef-6_4532	8	1	Crown-of-thorns starfish	reefs	41.5
+location	Alv-7b43_86_worm-3	Alv-7b43_84_vents-10	Alv-7b43_86_worm-3_3122	86	Alv-7b43_84_vents-10_4520	84	2	Pompeii worm	hydrothermal vents	33.333
+location	Cro60a5_6_starfish-8	Cro60a5_8_Reef-6	Cro60a5_6_starfish-8_4849	6	Cro60a5_8_Reef-6_4532	8	2	crown-of-thorns starfish	reefs	33.333
+location	Alv-7b43_5_worm-39	Alv-7b43_3_vents-9	Alv-7b43_5_worm-39_3122	5	Alv-7b43_3_vents-9_4520	3	2	Pompeii worm	hydrothermal vents	33.333
+location	Alv-7b43_5_worm-39	Alv-7b43_7_vents-30	Alv-7b43_5_worm-39_3122	5	Alv-7b43_7_vents-30_4520	7	2	Pompeii worm	hydrothermal vents	33.333
+location	Alv-7b43_86_worm-3	Alv-7b43_84_vent-24	Alv-7b43_86_worm-3_3122	86	Alv-7b43_84_vent-24_4520	84	2	Pompeii worm	hydrothermal vents	33.333
+location	Cro-4b5e_149_starfish-27	Cro-4b5e_147_reef-20	Cro-4b5e_149_starfish-27_4849	149	Cro-4b5e_147_reef-20_4532	147	2	crown-of-thorns starfish	reefs	33.333
+location	Sea-a026_9_urchins-7	Sea-a026_10_bed-27	Sea-a026_9_urchins-7_5528	9	Sea-a026_10_bed-27_4510	10	1	purple sea urchin	sea bed	33.0
+location	Ech-1003_2_urchins-24	Ech-1003_3_zone-43	Ech-1003_2_urchins-24_5528	2	Ech-1003_3_zone-43_4521	3	1	purple sea urchin	intertidal zone	33.0
+location	Int-c24a_3_urchins-20	Int-c24a_2_zone-30	Int-c24a_3_urchins-20_3442	3	Int-c24a_2_zone-30_4521	2	1	Purple sea urchin	intertidal zone	33.0
+location	Int-c24a_3_urchins-20	Int-c24a_2_zone-3	Int-c24a_3_urchins-20_3442	3	Int-c24a_2_zone-3_4521	2	1	Purple sea urchin	intertidal zone	33.0
+location	Ech-1003_2_urchins-24	Ech-1003_3_zone-39	Ech-1003_2_urchins-24_3442	2	Ech-1003_3_zone-39_4521	3	1	Purple sea urchin	intertidal zone	33.0
+location	Alv-7b43_98_pompejana-2	Alv-7b43_96_vents-28	Alv-7b43_98_pompejana-2_3123	98	Alv-7b43_96_vents-28_4520	96	2	Alvinella pompejana	hydrothermal vents	29.0
+location	Alv-7b43_85_pompejana-2	Alv-7b43_83_vents-12	Alv-7b43_85_pompejana-2_3123	85	Alv-7b43_83_vents-12_4520	83	2	Alvinella pompejana	hydrothermal vents	29.0
+location	Ech-1003_298_planci-22	Ech-1003_296_reefs-9	Ech-1003_298_planci-22_2008	298	Ech-1003_296_reefs-9_4532	296	2	Acanthaster planci	reefs	29.0
+location	Aur-441a_10_aurita-2	Aur-441a_12_estuaries-14	Aur-441a_10_aurita-2_1599	10	Aur-441a_12_estuaries-14_4517	12	2	Aurelia aurita	estuaries	29.0
+location	Alv-7b43_4_pompejana-2	Alv-7b43_6_vents-16	Alv-7b43_4_pompejana-2_3123	4	Alv-7b43_6_vents-16_4520	6	2	Alvinella pompejana	hydrothermal vents	29.0
+location	Alv-7b43_1_pompejana-2	Alv-7b43_3_vents-9	Alv-7b43_1_pompejana-2_3123	1	Alv-7b43_3_vents-9_4520	3	2	Alvinella pompejana	hydrothermal vents	29.0
+location	Bra-cd5f_235_brachiopod-7	Bra-cd5f_233_seas-9	Bra-cd5f_235_brachiopod-7_4728	235	Bra-cd5f_233_seas-9_4528	233	2	brachiopods	shallow seas	27.667
+location	Sea-a026_8_urchins-5	Sea-a026_10_bed-27	Sea-a026_8_urchins-5_5528	8	Sea-a026_10_bed-27_4510	10	2	purple sea urchin	sea bed	22.0
+location	Hyd-d7b9_9_worms-23	Hyd-d7b9_11_vents-2	Hyd-d7b9_9_worms-23_5012	9	Hyd-d7b9_11_vents-2_1359	11	2	giant tube worm	Hydrothermal vents	22.0
+location	Alv-7b43_4_pompejana-2	Alv-7b43_7_vents-30	Alv-7b43_4_pompejana-2_3123	4	Alv-7b43_7_vents-30_4520	7	3	Alvinella pompejana	hydrothermal vents	21.75
+location	Ech-1003_298_planci-22	Ech-1003_295_reef-28	Ech-1003_298_planci-22_2008	298	Ech-1003_295_reef-28_4532	295	3	Acanthaster planci	reefs	21.75
+location	Alv-7b43_93_pompejana-2	Alv-7b43_96_vents-28	Alv-7b43_93_pompejana-2_3123	93	Alv-7b43_96_vents-28_4520	96	3	Alvinella pompejana	hydrothermal vents	21.75
+location	Bra-cd5f_236_brachiopods-30	Bra-cd5f_233_seas-9	Bra-cd5f_236_brachiopods-30_4728	236	Bra-cd5f_233_seas-9_4528	233	3	brachiopods	shallow seas	20.75
+location	Bra-cd5f_236_brachiopods-23	Bra-cd5f_233_seas-9	Bra-cd5f_236_brachiopods-23_4728	236	Bra-cd5f_233_seas-9_1367	233	3	brachiopods	Shallow seas	20.75
+location	Ant-85c0_116_starfish-11	Ant-85c0_112_reefs-8	Ant-85c0_116_starfish-11_4849	116	Ant-85c0_112_reefs-8_4532	112	4	crown-of-thorns starfish	reefs	20.0
+location	Ant-85c0_116_starfish-11	Ant-85c0_120_reefs-18	Ant-85c0_116_starfish-11_4849	116	Ant-85c0_120_reefs-18_4532	120	4	crown-of-thorns starfish	reefs	20.0
+location	Cro-4b5e_157_starfish-9	Cro-4b5e_161_reefs-3	Cro-4b5e_157_starfish-9_4849	157	Cro-4b5e_161_reefs-3_4532	161	4	crown-of-thorns starfish	reefs	20.0
+location	Cro-4b5e_157_starfish-17	Cro-4b5e_161_reefs-3	Cro-4b5e_157_starfish-17_4849	157	Cro-4b5e_161_reefs-3_4532	161	4	crown-of-thorns starfish	reefs	20.0
+location	Alv-7b43_79_pachyptila-29	Alv-7b43_83_vents-12	Alv-7b43_79_pachyptila-29_2361	79	Alv-7b43_83_vents-12_4520	83	4	Riftia pachyptila	hydrothermal vents	17.4
+location	Ant-85c0_116_planci-14	Ant-85c0_112_reefs-8	Ant-85c0_116_planci-14_2008	116	Ant-85c0_112_reefs-8_4532	112	4	Acanthaster planci	reefs	17.4
+location	Ant-85c0_116_planci-14	Ant-85c0_120_reefs-18	Ant-85c0_116_planci-14_2008	116	Ant-85c0_120_reefs-18_4532	120	4	Acanthaster planci	reefs	17.4
+location	Aca-e4eb_9_planci-8	Aca-e4eb_5_reef-11	Aca-e4eb_9_planci-8_2008	9	Aca-e4eb_5_reef-11_4532	5	4	Acanthaster planci	reefs	17.4
+location	Aur-441a_16_jellyfish-8	Aur-441a_12_estuaries-14	Aur-441a_16_jellyfish-8_4643	16	Aur-441a_12_estuaries-14_4517	12	4	moon jellyfish	estuaries	16.6
+location	Bra-cd5f_237_brachiopods-23	Bra-cd5f_233_seas-9	Bra-cd5f_237_brachiopods-23_4728	237	Bra-cd5f_233_seas-9_4528	233	4	brachiopods	shallow seas	16.6
+location	Hyd-d7b9_9_worms-23	Hyd-d7b9_6_vents-2	Hyd-d7b9_9_worms-23_5012	9	Hyd-d7b9_6_vents-2_1359	6	3	giant tube worm	Hydrothermal vents	16.5
+location	Sea-a026_7_urchins-9	Sea-a026_10_bed-27	Sea-a026_7_urchins-9_3442	7	Sea-a026_10_bed-27_4510	10	3	Purple sea urchin	sea bed	16.5
+location	Rif-1458_93_pachyptila-12	Rif-1458_88_vents-2	Rif-1458_93_pachyptila-12_2361	93	Rif-1458_88_vents-2_1359	88	5	Riftia pachyptila	Hydrothermal vents	14.5
+location	Alv-7b43_79_pachyptila-29	Alv-7b43_84_vents-10	Alv-7b43_79_pachyptila-29_2361	79	Alv-7b43_84_vents-10_4520	84	5	Riftia pachyptila	hydrothermal vents	14.5
+location	Alv-7b43_79_pachyptila-29	Alv-7b43_84_vent-24	Alv-7b43_79_pachyptila-29_2361	79	Alv-7b43_84_vent-24_4520	84	5	Riftia pachyptila	hydrothermal vents	14.5
+location	Aur-441a_17_jellyfish-17	Aur-441a_12_estuaries-14	Aur-441a_17_jellyfish-17_4643	17	Aur-441a_12_estuaries-14_4517	12	5	moon jellyfish	estuaries	13.833
+location	Bra-cd5f_228_brachiopods-7	Bra-cd5f_233_seas-9	Bra-cd5f_228_brachiopods-7_4728	228	Bra-cd5f_233_seas-9_1367	233	5	brachiopods	Shallow seas	13.833
+location	Bra-cd5f_238_brachiopods-2	Bra-cd5f_233_seas-9	Bra-cd5f_238_brachiopods-2_4728	238	Bra-cd5f_233_seas-9_1367	233	5	brachiopods	Shallow seas	13.833
+location	Sea-a026_6_urchins-2	Sea-a026_10_bed-27	Sea-a026_6_urchins-2_3442	6	Sea-a026_10_bed-27_4510	10	4	Purple sea urchin	sea bed	13.2
+location	Hyd-d7b9_131_worms-13	Hyd-d7b9_126_vent-2	Hyd-d7b9_131_worms-13_5012	131	Hyd-d7b9_126_vent-2_1359	126	5	giant tube worm	Hydrothermal vents	11.0
+location	Hyd-d7b9_131_worms-13	Hyd-d7b9_126_vents-7	Hyd-d7b9_131_worms-13_5012	131	Hyd-d7b9_126_vents-7_1359	126	5	giant tube worm	Hydrothermal vents	11.0
+location	Int-c24a_3_urchins-20	Int-c24a_8_zone-5	Int-c24a_3_urchins-20_3442	3	Int-c24a_8_zone-5_4521	8	5	Purple sea urchin	intertidal zone	11.0
+location	Sea-a026_5_urchin-26	Sea-a026_10_bed-27	Sea-a026_5_urchin-26_5528	5	Sea-a026_10_bed-27_4510	10	5	purple sea urchin	sea bed	11.0
+location	Cro-4b5e_329_planci-2	Cro-4b5e_337_Reefs-20	Cro-4b5e_329_planci-2_2008	329	Cro-4b5e_337_Reefs-20_1371	337	8	Acanthaster planci	Reefs	9.667
+location	Int-c24a_3_urchins-20	Int-c24a_9_zone-3	Int-c24a_3_urchins-20_3442	3	Int-c24a_9_zone-3_4521	9	6	Purple sea urchin	intertidal zone	9.429
+location	Hyd-d7b9_9_worms-23	Hyd-d7b9_15_vent-2	Hyd-d7b9_9_worms-23_2360	9	Hyd-d7b9_15_vent-2_1359	15	6	Giant tube worm	Hydrothermal vents	9.429
+location	Sea-a026_4_urchins-11	Sea-a026_10_bed-27	Sea-a026_4_urchins-11_5528	4	Sea-a026_10_bed-27_4510	10	6	purple sea urchin	sea bed	9.429
+location	Aur-441a_20_jellyfish-23	Aur-441a_12_estuaries-14	Aur-441a_20_jellyfish-23_4643	20	Aur-441a_12_estuaries-14_4517	12	8	moon jellyfish	estuaries	9.222
+location	Bra-cd5f_225_brachiopod-4	Bra-cd5f_233_seas-9	Bra-cd5f_225_brachiopod-4_4728	225	Bra-cd5f_233_seas-9_1367	233	8	brachiopods	Shallow seas	9.222
+location	Cro60a5_9_starfish-12	Cro60a5_1_reefs-17	Cro60a5_9_starfish-12_2007	9	Cro60a5_1_reefs-17_4532	1	8	Crown-of-thorns starfish	reefs	9.222
+location	Aur-441a_2_jellyfish-8	Aur-441a_12_estuaries-14	Aur-441a_2_jellyfish-8_4641	2	Aur-441a_12_estuaries-14_4517	12	10	common jellyfish	estuaries	9.091
+location	Aur-441a_2_jellyfish-11	Aur-441a_12_estuaries-14	Aur-441a_2_jellyfish-11_4641	2	Aur-441a_12_estuaries-14_4517	12	10	common jellyfish	estuaries	9.091
+location	Aur-441a_21_jellyfish-10	Aur-441a_12_estuaries-14	Aur-441a_21_jellyfish-10_4643	21	Aur-441a_12_estuaries-14_4517	12	9	moon jellyfish	estuaries	8.3
+location	Bra-cd5f_242_Brachiopod-1	Bra-cd5f_233_seas-9	Bra-cd5f_242_Brachiopod-1_1773	242	Bra-cd5f_233_seas-9_4528	233	9	Brachiopods	shallow seas	8.3
+location	Hyd-d7b9_133_worms-3	Hyd-d7b9_126_vents-7	Hyd-d7b9_133_worms-3_2360	133	Hyd-d7b9_126_vents-7_1359	126	7	Giant tube worm	Hydrothermal vents	8.25
+location	Hyd-d7b9_133_worms-3	Hyd-d7b9_126_vent-2	Hyd-d7b9_133_worms-3_2360	133	Hyd-d7b9_126_vent-2_1359	126	7	Giant tube worm	Hydrothermal vents	8.25
+location	Hyd-d7b9_9_worms-23	Hyd-d7b9_2_vents-2	Hyd-d7b9_9_worms-23_2360	9	Hyd-d7b9_2_vents-2_1359	2	7	Giant tube worm	Hydrothermal vents	8.25
+location	Hyd-d7b9_9_worms-23	Hyd-d7b9_16_vents-2	Hyd-d7b9_9_worms-23_5012	9	Hyd-d7b9_16_vents-2_1359	16	7	giant tube worm	Hydrothermal vents	8.25
+location	Bra-cd5f_243_Brachiopod-1	Bra-cd5f_233_seas-9	Bra-cd5f_243_Brachiopod-1_1773	243	Bra-cd5f_233_seas-9_1367	233	10	Brachiopods	Shallow seas	7.545
+location	Aur-441a_1_aurita-2	Aur-441a_12_estuaries-14	Aur-441a_1_aurita-2_1599	1	Aur-441a_12_estuaries-14_4517	12	11	Aurelia aurita	estuaries	7.25
+location	Cro-4b5e_324_starfish-7	Cro-4b5e_337_Reefs-20	Cro-4b5e_324_starfish-7_4849	324	Cro-4b5e_337_Reefs-20_1371	337	13	crown-of-thorns starfish	Reefs	7.143
+location	Tid-b2db_32_star-17	Tid-b2db_25_zone-7	Tid-b2db_32_star-17_3454	32	Tid-b2db_25_zone-7_4521	25	7	Sunflower sea star	intertidal zone	6.75
+location	Sta-6168_18_planci-11	Sta-6168_6_zone-7	Sta-6168_18_planci-11_2008	18	Sta-6168_6_zone-7_4521	6	12	Acanthaster planci	intertidal zone	6.692
+location	Tid-b2db_71_urchins-2	Tid-b2db_80_zone-3	Tid-b2db_71_urchins-2_5528	71	Tid-b2db_80_zone-3_4521	80	9	purple sea urchin	intertidal zone	6.6
+location	Int-c24a_34_urchins-48	Int-c24a_25_zone-11	Int-c24a_34_urchins-48_5528	34	Int-c24a_25_zone-11_4521	25	9	purple sea urchin	intertidal zone	6.6
+location	Int-c24a_34_urchins-48	Int-c24a_25_zone-28	Int-c24a_34_urchins-48_5528	34	Int-c24a_25_zone-28_4521	25	9	purple sea urchin	intertidal zone	6.6
+location	Int-c24a_3_urchins-20	Int-c24a_12_zone-4	Int-c24a_3_urchins-20_3442	3	Int-c24a_12_zone-4_4521	12	9	Purple sea urchin	intertidal zone	6.6
+location	Bra-cd5f_246_brachiopods-5	Bra-cd5f_233_seas-9	Bra-cd5f_246_brachiopods-5_4728	246	Bra-cd5f_233_seas-9_1367	233	13	brachiopods	Shallow seas	5.929
+location	Bra-cd5f_220_Brachiopod-1	Bra-cd5f_233_seas-9	Bra-cd5f_220_Brachiopod-1_1773	220	Bra-cd5f_233_seas-9_4528	233	13	Brachiopods	shallow seas	5.929
+location	Aur-441a_27_aurita-2	Aur-441a_12_estuaries-14	Aur-441a_27_aurita-2_1599	27	Aur-441a_12_estuaries-14_4517	12	15	Aurelia aurita	estuaries	5.438
+location	Sea-a026_19_stars-23	Sea-a026_10_bed-27	Sea-a026_19_stars-23_5529	19	Sea-a026_10_bed-27_4510	10	9	sunflower sea star	sea bed	5.4
+location	Sea-a026_19_stars-14	Sea-a026_10_bed-27	Sea-a026_19_stars-14_5529	19	Sea-a026_10_bed-27_4510	10	9	sunflower sea star	sea bed	5.4
+location	Sta-6168_18_starfish-8	Sta-6168_6_zone-7	Sta-6168_18_starfish-8_4849	18	Sta-6168_6_zone-7_4521	6	12	crown-of-thorns starfish	intertidal zone	5.077
+location	Eur-fdbd_235_brachiopods-15	Eur-fdbd_251_estuaries-28	Eur-fdbd_235_brachiopods-15_4728	235	Eur-fdbd_251_estuaries-28_4517	251	16	brachiopods	estuaries	4.882
+location	Sta-6168_17_star-17	Sta-6168_6_zone-7	Sta-6168_17_star-17_3454	17	Sta-6168_6_zone-7_4521	6	11	Sunflower sea star	intertidal zone	4.5
+location	Sta-6168_17_star-8	Sta-6168_6_zone-7	Sta-6168_17_star-8_5529	17	Sta-6168_6_zone-7_4521	6	11	sunflower sea star	intertidal zone	4.5
+location	Tid-b2db_32_star-17	Tid-b2db_20_zone-5	Tid-b2db_32_star-17_3454	32	Tid-b2db_20_zone-5_4521	20	12	Sunflower sea star	intertidal zone	4.154
+location	Tid-b2db_68_stars-5	Tid-b2db_80_zone-3	Tid-b2db_68_stars-5_3454	68	Tid-b2db_80_zone-3_4521	80	12	Sunflower sea star	intertidal zone	4.154
+location	Bra-cd5f_212_Brachiopoda-13	Bra-cd5f_233_seas-9	Bra-cd5f_212_Brachiopoda-13_1772	212	Bra-cd5f_233_seas-9_4528	233	21	Brachiopoda	shallow seas	3.955
+location	Tid-b2db_7_stars-23	Tid-b2db_20_zone-5	Tid-b2db_7_stars-23_3454	7	Tid-b2db_20_zone-5_4521	20	13	Sunflower sea star	intertidal zone	3.857
+location	Aur-441a_35_aurita-2	Aur-441a_12_estuaries-14	Aur-441a_35_aurita-2_1599	35	Aur-441a_12_estuaries-14_4517	12	23	Aurelia aurita	estuaries	3.625
+location	Sca-88f4_107_stars-25	Sca-88f4_90_bed-53	Sca-88f4_107_stars-25_5529	107	Sca-88f4_90_bed-53_4510	90	17	sunflower sea star	sea bed	3.0
+location	Sea-a026_27_stars-32	Sea-a026_10_bed-27	Sea-a026_27_stars-32_5529	27	Sea-a026_10_bed-27_4510	10	17	sunflower sea star	sea bed	3.0
+location	Sea-a026_27_stars-36	Sea-a026_10_bed-27	Sea-a026_27_stars-36_5529	27	Sea-a026_10_bed-27_4510	10	17	sunflower sea star	sea bed	3.0
+location	Tid-b2db_7_stars-23	Tid-b2db_25_zone-7	Tid-b2db_7_stars-23_5529	7	Tid-b2db_25_zone-7_4521	25	18	sunflower sea star	intertidal zone	2.842
+location	Biv-02de_217_brachiopods-18	Biv-02de_248_zone-8	Biv-02de_217_brachiopods-18_4728	217	Biv-02de_248_zone-8_4521	248	31	brachiopods	intertidal zone	2.594
+location	Biv-02de_214_brachiopods-17	Biv-02de_248_zone-8	Biv-02de_214_brachiopods-17_4728	214	Biv-02de_248_zone-8_4521	248	34	brachiopods	intertidal zone	2.371
+location	Biv-02de_210_brachiopods-5	Biv-02de_248_zone-8	Biv-02de_210_brachiopods-5_4728	210	Biv-02de_248_zone-8_4521	248	38	brachiopods	intertidal zone	2.128
+location	Aur-441a_54_aurita-2	Aur-441a_12_estuaries-14	Aur-441a_54_aurita-2_1599	54	Aur-441a_12_estuaries-14_4517	12	42	Aurelia aurita	estuaries	2.023
+location	Biv-02de_207_brachiopods-13	Biv-02de_248_zone-8	Biv-02de_207_brachiopods-13_4728	207	Biv-02de_248_zone-8_4521	248	41	brachiopods	intertidal zone	1.976
+location	Cro-4b5e_282_starfish-7	Cro-4b5e_337_Reefs-20	Cro-4b5e_282_starfish-7_4849	282	Cro-4b5e_337_Reefs-20_1371	337	55	crown-of-thorns starfish	Reefs	1.786
+location	Aur-441a_67_aurita-6	Aur-441a_12_estuaries-14	Aur-441a_67_aurita-6_1599	67	Aur-441a_12_estuaries-14_4517	12	55	Aurelia aurita	estuaries	1.554
+location	Aur-441a_68_aurita-2	Aur-441a_12_estuaries-14	Aur-441a_68_aurita-2_1599	68	Aur-441a_12_estuaries-14_4517	12	56	Aurelia aurita	estuaries	1.526
+location	Biv-02de_194_brachiopod-2	Biv-02de_248_zone-8	Biv-02de_194_brachiopod-2_4728	194	Biv-02de_248_zone-8_4521	248	54	brachiopods	intertidal zone	1.509
+location	Aur-441a_70_aurita-2	Aur-441a_12_estuaries-14	Aur-441a_70_aurita-2_1599	70	Aur-441a_12_estuaries-14_4517	12	58	Aurelia aurita	estuaries	1.475
+location	Biv-02de_192_brachiopods-2	Biv-02de_248_zone-8	Biv-02de_192_brachiopods-2_4728	192	Biv-02de_248_zone-8_4521	248	56	brachiopods	intertidal zone	1.456
+location	Biv-02de_190_brachiopods-5	Biv-02de_248_zone-8	Biv-02de_190_brachiopods-5_4728	190	Biv-02de_248_zone-8_4521	248	58	brachiopods	intertidal zone	1.407
+location	Aur-441a_77_aurita-2	Aur-441a_12_estuaries-14	Aur-441a_77_aurita-2_1599	77	Aur-441a_12_estuaries-14_4517	12	65	Aurelia aurita	estuaries	1.318
+location	Biv-02de_185_brachiopods-3	Biv-02de_248_zone-8	Biv-02de_185_brachiopods-3_4728	185	Biv-02de_248_zone-8_4521	248	63	brachiopods	intertidal zone	1.297
+location	Bra-cd5f_301_Brachiopoda-4	Bra-cd5f_233_seas-9	Bra-cd5f_301_Brachiopoda-4_1772	301	Bra-cd5f_233_seas-9_4528	233	68	Brachiopoda	shallow seas	1.261
+location	Aur-441a_83_aurita-2	Aur-441a_12_estuaries-14	Aur-441a_83_aurita-2_1599	83	Aur-441a_12_estuaries-14_4517	12	71	Aurelia aurita	estuaries	1.208
+location	Sca-88f4_138_stars-51	Sca-88f4_90_bed-53	Sca-88f4_138_stars-51_5529	138	Sca-88f4_90_bed-53_4510	90	48	sunflower sea star	sea bed	1.102
+location	Sca-88f4_138_star-30	Sca-88f4_90_bed-53	Sca-88f4_138_star-30_3454	138	Sca-88f4_90_bed-53_4510	90	48	Sunflower sea star	sea bed	1.102
+adaptation	Mur-6918_12_earthworms-23	Mur-6918_12_herbivorous-14	Mur-6918_12_earthworms-23_5197	12	Mur-6918_12_herbivorous-14_3784	12	0	earthworms	herbivorous	100.0
+adaptation	Cro60a5_6_starfish-8	Cro60a5_6_predators-11	Cro60a5_6_starfish-8_4849	6	Cro60a5_6_predators-11_359	6	0	crown-of-thorns starfish	Predator	100.0
+adaptation	Sta-6168_269_starfish-7	Sta-6168_269_predators-13	Sta-6168_269_starfish-7_4849	269	Sta-6168_269_predators-13_359	269	0	crown-of-thorns starfish	Predator	100.0
+adaptation	Sta-6168_18_planci-11	Sta-6168_18_predator-16	Sta-6168_18_planci-11_2008	18	Sta-6168_18_predator-16_359	18	0	Acanthaster planci	Predator	87.0
+adaptation	Alv-7b43_98_pompejana-2	Alv-7b43_98_Symbiotic-4	Alv-7b43_98_pompejana-2_3123	98	Alv-7b43_98_Symbiotic-4_368	98	0	Alvinella pompejana	Symbiotic	87.0
+adaptation	Aur-441a_23_jellyfish-29	Aur-441a_23_predators-4	Aur-441a_23_jellyfish-29_4643	23	Aur-441a_23_predators-4_359	23	0	moon jellyfish	Predator	83.0
+adaptation	Aur-441a_25_jellyfish-9	Aur-441a_25_predators-13	Aur-441a_25_jellyfish-9_4643	25	Aur-441a_25_predators-13_359	25	0	moon jellyfish	Predator	83.0
+adaptation	Aur-441a_73_jellyfish-8	Aur-441a_73_sessile-17	Aur-441a_73_jellyfish-8_4643	73	Aur-441a_73_sessile-17_3981	73	0	moon jellyfish	sessile	83.0
+adaptation	Sta-6168_18_starfish-8	Sta-6168_18_predator-16	Sta-6168_18_starfish-8_4849	18	Sta-6168_18_predator-16_3977	18	0	crown-of-thorns starfish	predator	66.0
+adaptation	Sun-27c8_39_stars-3	Sun-27c8_39_spawning-9	Sun-27c8_39_stars-3_5529	39	Sun-27c8_39_spawning-9_366	39	0	sunflower sea star	Spawning	54.0
+adaptation	Ann-6efb_142_earthworms-13	Ann-6efb_143_burrowers-8	Ann-6efb_142_earthworms-13_2756	142	Ann-6efb_143_burrowers-8_3956	143	1	Earthworms	burrower	50.0
+adaptation	Alv-7b43_99_worm-11	Alv-7b43_98_Symbiotic-4	Alv-7b43_99_worm-11_3122	99	Alv-7b43_98_Symbiotic-4_368	98	1	Pompeii worm	Symbiotic	50.0
+adaptation	Ann-6efb_199_Earthworms-1	Ann-6efb_198_burrowers-2	Ann-6efb_199_Earthworms-1_5197	199	Ann-6efb_198_burrowers-2_3956	198	1	earthworms	burrower	50.0
+adaptation	Ann-6efb_199_earthworms-30	Ann-6efb_198_burrowers-2	Ann-6efb_199_earthworms-30_5197	199	Ann-6efb_198_burrowers-2_3956	198	1	earthworms	burrower	50.0
+adaptation	Bur-d18a_116_Earthworms-1	Bur-d18a_117_herbivorous-13	Bur-d18a_116_Earthworms-1_5197	116	Bur-d18a_117_herbivorous-13_3784	117	1	earthworms	herbivorous	50.0
+adaptation	Rat-9c9a_129_earthworms-10	Rat-9c9a_130_herbivorous-18	Rat-9c9a_129_earthworms-10_5197	129	Rat-9c9a_130_herbivorous-18_3784	130	1	earthworms	herbivorous	50.0
+adaptation	Anna3e0_3_earthworms-2	Anna3e0_4_burrowers-13	Anna3e0_3_earthworms-2_2756	3	Anna3e0_4_burrowers-13_3956	4	1	Earthworms	burrower	50.0
+adaptation	Alv-7b43_97_worm-14	Alv-7b43_98_Symbiotic-4	Alv-7b43_97_worm-14_3122	97	Alv-7b43_98_Symbiotic-4_368	98	1	Pompeii worm	Symbiotic	50.0
+adaptation	Alv-7b43_99_worm-31	Alv-7b43_98_Symbiotic-4	Alv-7b43_99_worm-31_3122	99	Alv-7b43_98_Symbiotic-4_368	98	1	Pompeii worm	Symbiotic	50.0
+adaptation	Ech-1003_298_planci-22	Ech-1003_297_predators-7	Ech-1003_298_planci-22_2008	298	Ech-1003_297_predators-7_359	297	1	Acanthaster planci	Predator	43.5
+adaptation	Aur-441a_54_aurita-2	Aur-441a_55_Predators-1	Aur-441a_54_aurita-2_1599	54	Aur-441a_55_Predators-1_359	55	1	Aurelia aurita	Predator	43.5
+adaptation	Aur-441a_22_jellyfish-11	Aur-441a_23_predators-4	Aur-441a_22_jellyfish-11_1602	22	Aur-441a_23_predators-4_359	23	1	Moon jellyfish	Predator	41.5
+adaptation	Aur-441a_26_jellyfish-25	Aur-441a_25_predators-13	Aur-441a_26_jellyfish-25_1602	26	Aur-441a_25_predators-13_359	25	1	Moon jellyfish	Predator	41.5
+adaptation	Ann-6efb_141_earthworms-6	Ann-6efb_143_burrowers-8	Ann-6efb_141_earthworms-6_2756	141	Ann-6efb_143_burrowers-8_3956	143	2	Earthworms	burrower	33.333
+adaptation	Mil-11ed_184_earthworms-20	Mil-11ed_182_herbivorous-4	Mil-11ed_184_earthworms-20_2756	184	Mil-11ed_182_herbivorous-4_3784	182	2	Earthworms	herbivorous	33.333
+adaptation	Cro-4b5e_95_starfish-15	Cro-4b5e_97_predators-5	Cro-4b5e_95_starfish-15_4849	95	Cro-4b5e_97_predators-5_3977	97	2	crown-of-thorns starfish	predator	33.333
+adaptation	Ann-6efb_196_earthworms-20	Ann-6efb_198_burrowers-2	Ann-6efb_196_earthworms-20_5197	196	Ann-6efb_198_burrowers-2_3956	198	2	earthworms	burrower	33.333
+adaptation	Ann-6efb_36_earthworms-18	Ann-6efb_38_burrowers-3	Ann-6efb_36_earthworms-18_2756	36	Ann-6efb_38_burrowers-3_3956	38	2	Earthworms	burrower	33.333
+adaptation	Sta-6168_299_urchins-11	Sta-6168_300_metamorphosis-11	Sta-6168_299_urchins-11_5528	299	Sta-6168_300_metamorphosis-11_3962	300	1	purple sea urchin	metamorphosis	33.0
+adaptation	Aur-441a_27_aurita-2	Aur-441a_25_predators-13	Aur-441a_27_aurita-2_1599	27	Aur-441a_25_predators-13_359	25	2	Aurelia aurita	Predator	29.0
+adaptation	Aur-441a_54_aurita-2	Aur-441a_56_predators-20	Aur-441a_54_aurita-2_1599	54	Aur-441a_56_predators-20_3977	56	2	Aurelia aurita	predator	29.0
+adaptation	Aur-441a_23_jellyfish-29	Aur-441a_25_predators-13	Aur-441a_23_jellyfish-29_1602	23	Aur-441a_25_predators-13_359	25	2	Moon jellyfish	Predator	27.667
+adaptation	Aur-441a_21_jellyfish-10	Aur-441a_23_predators-4	Aur-441a_21_jellyfish-10_4643	21	Aur-441a_23_predators-4_3977	23	2	moon jellyfish	predator	27.667
+adaptation	Aur-441a_25_jellyfish-9	Aur-441a_23_predators-4	Aur-441a_25_jellyfish-9_1602	25	Aur-441a_23_predators-4_359	23	2	Moon jellyfish	Predator	27.667
+adaptation	Apo-f97b_61_starfish-11	Apo-f97b_63_predators-8	Apo-f97b_61_starfish-11_4849	61	Apo-f97b_63_predators-8_359	63	2	crown-of-thorns starfish	Predator	27.667
+adaptation	Sun-27c8_38_star-3	Sun-27c8_39_spawning-9	Sun-27c8_38_star-3_3454	38	Sun-27c8_39_spawning-9_3982	39	1	Sunflower sea star	spawning	27.0
+adaptation	Ann-6efb_201_earthworms-15	Ann-6efb_198_burrowers-2	Ann-6efb_201_earthworms-15_5197	201	Ann-6efb_198_burrowers-2_3956	198	3	earthworms	burrower	25.0
+adaptation	Cro-4b5e_149_starfish-27	Cro-4b5e_146_predators-4	Cro-4b5e_149_starfish-27_4849	149	Cro-4b5e_146_predators-4_359	146	3	crown-of-thorns starfish	Predator	25.0
+adaptation	Cro-4b5e_95_starfish-15	Cro-4b5e_92_predator-18	Cro-4b5e_95_starfish-15_4849	95	Cro-4b5e_92_predator-18_359	92	3	crown-of-thorns starfish	Predator	25.0
+adaptation	Fos-19c4_46_earthworms-15	Fos-19c4_49_herbivorous-30	Fos-19c4_46_earthworms-15_5197	46	Fos-19c4_49_herbivorous-30_3784	49	3	earthworms	herbivorous	25.0
+adaptation	Amp-436a_239_earthworms-7	Amp-436a_242_burrowers-16	Amp-436a_239_earthworms-7_2756	239	Amp-436a_242_burrowers-16_3956	242	3	Earthworms	burrower	25.0
+adaptation	Aur-441a_54_aurita-2	Aur-441a_57_predators-13	Aur-441a_54_aurita-2_1599	54	Aur-441a_57_predators-13_3977	57	3	Aurelia aurita	predator	21.75
+adaptation	Aur-441a_70_aurita-2	Aur-441a_73_sessile-17	Aur-441a_70_aurita-2_1599	70	Aur-441a_73_sessile-17_3981	73	3	Aurelia aurita	sessile	21.75
+adaptation	Aur-441a_26_jellyfish-25	Aur-441a_23_predators-4	Aur-441a_26_jellyfish-25_4643	26	Aur-441a_23_predators-4_359	23	3	moon jellyfish	Predator	20.75
+adaptation	Cro60a5_9_starfish-12	Cro60a5_6_predators-11	Cro60a5_9_starfish-12_2007	9	Cro60a5_6_predators-11_359	6	3	Crown-of-thorns starfish	Predator	20.75
+adaptation	Aur-441a_22_jellyfish-11	Aur-441a_25_predators-13	Aur-441a_22_jellyfish-11_1602	22	Aur-441a_25_predators-13_359	25	3	Moon jellyfish	Predator	20.75
+adaptation	Aur-441a_20_jellyfish-23	Aur-441a_23_predators-4	Aur-441a_20_jellyfish-23_4643	20	Aur-441a_23_predators-4_3977	23	3	moon jellyfish	predator	20.75
+adaptation	Eas-336c_67_earthworms-18	Eas-336c_71_herbivorous-9	Eas-336c_67_earthworms-18_5197	67	Eas-336c_71_herbivorous-9_3784	71	4	earthworms	herbivorous	20.0
+adaptation	Det-2adf_13_stars-21	Det-2adf_15_scavengers-44	Det-2adf_13_stars-21_5529	13	Det-2adf_15_scavengers-44_3979	15	2	sunflower sea star	scavenger	18.0
+adaptation	Sun-27c8_41_stars-3	Sun-27c8_39_spawning-9	Sun-27c8_41_stars-3_5529	41	Sun-27c8_39_spawning-9_3982	39	2	sunflower sea star	spawning	18.0
+adaptation	Ant-85c0_116_planci-14	Ant-85c0_112_predators-37	Ant-85c0_116_planci-14_2008	116	Ant-85c0_112_predators-37_359	112	4	Acanthaster planci	Predator	17.4
+adaptation	Aur-441a_27_aurita-2	Aur-441a_23_predators-4	Aur-441a_27_aurita-2_1599	27	Aur-441a_23_predators-4_3977	23	4	Aurelia aurita	predator	17.4
+adaptation	Aur-441a_27_aurita-2	Aur-441a_31_predators-19	Aur-441a_27_aurita-2_1599	27	Aur-441a_31_predators-19_3977	31	4	Aurelia aurita	predator	17.4
+adaptation	Aur-441a_35_aurita-2	Aur-441a_31_predators-19	Aur-441a_35_aurita-2_1599	35	Aur-441a_31_predators-19_359	31	4	Aurelia aurita	Predator	17.4
+adaptation	Aur-441a_77_aurita-2	Aur-441a_73_sessile-17	Aur-441a_77_aurita-2_1599	77	Aur-441a_73_sessile-17_3981	73	4	Aurelia aurita	sessile	17.4
+adaptation	Alv-7b43_103_worm-7	Alv-7b43_98_Symbiotic-4	Alv-7b43_103_worm-7_3122	103	Alv-7b43_98_Symbiotic-4_368	98	5	Pompeii worm	Symbiotic	16.667
+adaptation	Apo-f97b_61_starfish-11	Apo-f97b_57_nocturnal-32	Apo-f97b_61_starfish-11_4849	61	Apo-f97b_57_nocturnal-32_3967	57	4	crown-of-thorns starfish	nocturnal	16.6
+adaptation	Spa-e46a_7_urchins-16	Spa-e46a_10_spawning-29	Spa-e46a_7_urchins-16_3442	7	Spa-e46a_10_spawning-29_366	10	3	Purple sea urchin	Spawning	16.5
+adaptation	Sea-a026_137_urchin-2	Sea-a026_134_metamorphosis-17	Sea-a026_137_urchin-2_5528	137	Sea-a026_134_metamorphosis-17_3962	134	3	purple sea urchin	metamorphosis	16.5
+adaptation	Aur-441a_68_aurita-2	Aur-441a_73_sessile-17	Aur-441a_68_aurita-2_1599	68	Aur-441a_73_sessile-17_3981	73	5	Aurelia aurita	sessile	14.5
+adaptation	Alv-7b43_93_pompejana-2	Alv-7b43_98_Symbiotic-4	Alv-7b43_93_pompejana-2_3123	93	Alv-7b43_98_Symbiotic-4_368	98	5	Alvinella pompejana	Symbiotic	14.5
+adaptation	Rat-9c9a_129_earthworms-10	Rat-9c9a_123_herbivorous-17	Rat-9c9a_129_earthworms-10_5197	129	Rat-9c9a_123_herbivorous-17_3784	123	6	earthworms	herbivorous	14.286
+adaptation	Apo-f97b_61_starfish-11	Apo-f97b_56_nocturnal-44	Apo-f97b_61_starfish-11_4849	61	Apo-f97b_56_nocturnal-44_3967	56	5	crown-of-thorns starfish	nocturnal	13.833
+adaptation	Spa-e46a_7_stars-19	Spa-e46a_10_spawning-29	Spa-e46a_7_stars-19_5529	7	Spa-e46a_10_spawning-29_3982	10	3	sunflower sea star	spawning	13.5
+adaptation	Sun-27c8_36_stars-12	Sun-27c8_39_spawning-9	Sun-27c8_36_stars-12_3454	36	Sun-27c8_39_spawning-9_3982	39	3	Sunflower sea star	spawning	13.5
+adaptation	Sea-a026_130_urchins-21	Sea-a026_134_metamorphosis-17	Sea-a026_130_urchins-21_3442	130	Sea-a026_134_metamorphosis-17_3962	134	4	Purple sea urchin	metamorphosis	13.2
+adaptation	Sta-6168_18_planci-11	Sta-6168_12_predators-8	Sta-6168_18_planci-11_2008	18	Sta-6168_12_predators-8_3977	12	6	Acanthaster planci	predator	12.429
+adaptation	Aur-441a_67_aurita-6	Aur-441a_61_sessile-24	Aur-441a_67_aurita-6_1599	67	Aur-441a_61_sessile-24_3981	61	6	Aurelia aurita	sessile	12.429
+adaptation	Aur-441a_67_aurita-6	Aur-441a_73_sessile-17	Aur-441a_67_aurita-6_1599	67	Aur-441a_73_sessile-17_3981	73	6	Aurelia aurita	sessile	12.429
+adaptation	Sun-27c8_45_stars-4	Sun-27c8_39_spawning-9	Sun-27c8_45_stars-4_5529	45	Sun-27c8_39_spawning-9_366	39	6	sunflower sea star	Spawning	11.857
+adaptation	Aur-441a_54_aurita-2	Aur-441a_61_sessile-24	Aur-441a_54_aurita-2_1599	54	Aur-441a_61_sessile-24_3981	61	7	Aurelia aurita	sessile	10.875
+adaptation	Aur-441a_68_aurita-2	Aur-441a_61_sessile-24	Aur-441a_68_aurita-2_1599	68	Aur-441a_61_sessile-24_3981	61	7	Aurelia aurita	sessile	10.875
+adaptation	Sun-27c8_35_star-5	Sun-27c8_39_spawning-9	Sun-27c8_35_star-5_3454	35	Sun-27c8_39_spawning-9_366	39	4	Sunflower sea star	Spawning	10.8
+adaptation	Sun-27c8_46_stars-7	Sun-27c8_39_spawning-9	Sun-27c8_46_stars-7_5529	46	Sun-27c8_39_spawning-9_3982	39	7	sunflower sea star	spawning	10.375
+adaptation	Cro60a5_9_starfish-12	Cro60a5_2_predators-4	Cro60a5_9_starfish-12_2007	9	Cro60a5_2_predators-4_359	2	7	Crown-of-thorns starfish	Predator	10.375
+adaptation	Pre-0725_33_stars-26	Pre-0725_27_scavengers-13	Pre-0725_33_stars-26_5529	33	Pre-0725_27_scavengers-13_3979	27	6	sunflower sea star	scavenger	7.714
+adaptation	Pre-0725_33_stars-26	Pre-0725_39_carnivorous-2	Pre-0725_33_stars-26_5529	33	Pre-0725_39_carnivorous-2_3948	39	6	sunflower sea star	carnivorous	7.714
+adaptation	Sea-a026_126_urchin-2	Sea-a026_134_metamorphosis-17	Sea-a026_126_urchin-2_5528	126	Sea-a026_134_metamorphosis-17_3962	134	8	purple sea urchin	metamorphosis	7.333
+adaptation	Pre-0725_33_stars-26	Pre-0725_26_Scavengers-1	Pre-0725_33_stars-26_5529	33	Pre-0725_26_Scavengers-1_363	26	7	sunflower sea star	Scavenger	6.75
+adaptation	Ech-1003_298_planci-22	Ech-1003_286_predator-19	Ech-1003_298_planci-22_2008	298	Ech-1003_286_predator-19_359	286	12	Acanthaster planci	Predator	6.692
+adaptation	Aur-441a_73_jellyfish-8	Aur-441a_61_sessile-24	Aur-441a_73_jellyfish-8_4643	73	Aur-441a_61_sessile-24_3981	61	12	moon jellyfish	sessile	6.385
+adaptation	Rif-1458_6_worm-32	Rif-1458_17_sessile-25	Rif-1458_6_worm-32_5012	6	Rif-1458_17_sessile-25_3981	17	11	giant tube worm	sessile	5.5
+adaptation	Rif-1458_6_worm-8	Rif-1458_17_sessile-25	Rif-1458_6_worm-8_2360	6	Rif-1458_17_sessile-25_3981	17	11	Giant tube worm	sessile	5.5
+adaptation	Alv-7b43_83_pachyptila-6	Alv-7b43_98_Symbiotic-4	Alv-7b43_83_pachyptila-6_2361	83	Alv-7b43_98_Symbiotic-4_368	98	15	Riftia pachyptila	Symbiotic	5.438
+adaptation	Alv-7b43_79_pachyptila-29	Alv-7b43_62_spawning-8	Alv-7b43_79_pachyptila-29_2361	79	Alv-7b43_62_spawning-8_366	62	17	Riftia pachyptila	Spawning	4.833
+adaptation	Aur-441a_2_jellyfish-8	Aur-441a_23_predators-4	Aur-441a_2_jellyfish-8_4641	2	Aur-441a_23_predators-4_3977	23	21	common jellyfish	predator	4.545
+adaptation	Aur-441a_2_jellyfish-11	Aur-441a_23_predators-4	Aur-441a_2_jellyfish-11_4641	2	Aur-441a_23_predators-4_3977	23	21	common jellyfish	predator	4.545
+adaptation	Spa-e46a_7_urchins-16	Spa-e46a_21_spawning-13	Spa-e46a_7_urchins-16_5528	7	Spa-e46a_21_spawning-13_366	21	14	purple sea urchin	Spawning	4.4
+adaptation	Alv-7b43_79_pachyptila-29	Alv-7b43_98_Symbiotic-4	Alv-7b43_79_pachyptila-29_2361	79	Alv-7b43_98_Symbiotic-4_368	98	19	Riftia pachyptila	Symbiotic	4.35
+adaptation	Aur-441a_2_jellyfish-11	Aur-441a_25_predators-13	Aur-441a_2_jellyfish-11_1598	2	Aur-441a_25_predators-13_359	25	23	Common jellyfish	Predator	4.167
+adaptation	Aur-441a_2_jellyfish-8	Aur-441a_25_predators-13	Aur-441a_2_jellyfish-8_4641	2	Aur-441a_25_predators-13_3977	25	23	common jellyfish	predator	4.167
+adaptation	Rif-1458_2_worm-10	Rif-1458_17_sessile-25	Rif-1458_2_worm-10_5012	2	Rif-1458_17_sessile-25_3981	17	15	giant tube worm	sessile	4.125
+adaptation	Rif-1458_2_worms-40	Rif-1458_17_sessile-25	Rif-1458_2_worms-40_2360	2	Rif-1458_17_sessile-25_3981	17	15	Giant tube worm	sessile	4.125
+adaptation	Alv-7b43_83_pachyptila-6	Alv-7b43_62_spawning-8	Alv-7b43_83_pachyptila-6_2361	83	Alv-7b43_62_spawning-8_366	62	21	Riftia pachyptila	Spawning	3.955
+adaptation	Rif-1458_185_pachyptila-3	Rif-1458_161_spawning-14	Rif-1458_185_pachyptila-3_2361	185	Rif-1458_161_spawning-14_3982	161	24	Riftia pachyptila	spawning	3.48
+adaptation	Spa-e46a_44_urchins-15	Spa-e46a_26_spawning-7	Spa-e46a_44_urchins-15_3442	44	Spa-e46a_26_spawning-7_366	26	18	Purple sea urchin	Spawning	3.474
+adaptation	Aur-441a_2_jellyfish-8	Aur-441a_31_predators-19	Aur-441a_2_jellyfish-8_4641	2	Aur-441a_31_predators-19_359	31	29	common jellyfish	Predator	3.333
+adaptation	Aur-441a_2_jellyfish-11	Aur-441a_31_predators-19	Aur-441a_2_jellyfish-11_4641	2	Aur-441a_31_predators-19_359	31	29	common jellyfish	Predator	3.333
+adaptation	Eas-336c_100_earthworms-13	Eas-336c_71_herbivorous-9	Eas-336c_100_earthworms-13_5197	100	Eas-336c_71_herbivorous-9_3784	71	29	earthworms	herbivorous	3.333
+adaptation	Spa-e46a_7_urchins-16	Spa-e46a_26_spawning-7	Spa-e46a_7_urchins-16_5528	7	Spa-e46a_26_spawning-7_3982	26	19	purple sea urchin	spawning	3.3
+adaptation	Bra-cd5f_237_worms-20	Bra-cd5f_256_sessile-25	Bra-cd5f_237_worms-20_2360	237	Bra-cd5f_256_sessile-25_3981	256	19	Giant tube worm	sessile	3.3
+adaptation	Sun-27c8_59_urchins-8	Sun-27c8_39_spawning-9	Sun-27c8_59_urchins-8_5528	59	Sun-27c8_39_spawning-9_3982	39	20	purple sea urchin	spawning	3.143
+adaptation	Bra-cd5f_237_worms-20	Bra-cd5f_257_sessile-10	Bra-cd5f_237_worms-20_5012	237	Bra-cd5f_257_sessile-10_3981	257	20	giant tube worm	sessile	3.143
+adaptation	Sun-27c8_71_star-5	Sun-27c8_39_spawning-9	Sun-27c8_71_star-5_3452	71	Sun-27c8_39_spawning-9_3982	39	32	Sunflower star	spawning	3.03
+adaptation	Rif-1458_39_worm-34	Rif-1458_17_sessile-25	Rif-1458_39_worm-34_5012	39	Rif-1458_17_sessile-25_3981	17	22	giant tube worm	sessile	2.87
+adaptation	Jelfd0e_20_sea-2	Jelfd0e_38_predator-11	Jelfd0e_20_sea-2_1600	20	Jelfd0e_38_predator-11_3977	38	18	Common sea jelly	predator	2.842
+adaptation	Spa-e46a_44_urchins-15	Spa-e46a_21_spawning-13	Spa-e46a_44_urchins-15_5528	44	Spa-e46a_21_spawning-13_366	21	23	purple sea urchin	Spawning	2.75
+adaptation	Rif-1458_188_worms-3	Rif-1458_161_spawning-14	Rif-1458_188_worms-3_5012	188	Rif-1458_161_spawning-14_3982	161	27	giant tube worm	spawning	2.357
+adaptation	Rif-1458_45_worm-32	Rif-1458_17_sessile-25	Rif-1458_45_worm-32_5012	45	Rif-1458_17_sessile-25_3981	17	28	giant tube worm	sessile	2.276
+adaptation	Ant-85c0_116_planci-14	Ant-85c0_75_predators-5	Ant-85c0_116_planci-14_2008	116	Ant-85c0_75_predators-5_359	75	41	Acanthaster planci	Predator	2.071
+adaptation	Rat-9c9a_129_earthworms-10	Rat-9c9a_74_herbivorous-46	Rat-9c9a_129_earthworms-10_2756	129	Rat-9c9a_74_herbivorous-46_3784	74	55	Earthworms	herbivorous	1.786
+adaptation	Rif-1458_55_worm-8	Rif-1458_17_sessile-25	Rif-1458_55_worm-8_5012	55	Rif-1458_17_sessile-25_3981	17	38	giant tube worm	sessile	1.692
+adaptation	Rif-1458_93_pachyptila-12	Rif-1458_161_spawning-14	Rif-1458_93_pachyptila-12_2361	93	Rif-1458_161_spawning-14_3982	161	68	Riftia pachyptila	spawning	1.261
+adaptation	Bra-cd5f_237_worms-20	Bra-cd5f_180_sessile-16	Bra-cd5f_237_worms-20_5012	237	Bra-cd5f_180_sessile-16_3981	180	57	giant tube worm	sessile	1.138
+adaptation	Rif-1458_93_pachyptila-12	Rif-1458_17_sessile-25	Rif-1458_93_pachyptila-12_2361	93	Rif-1458_17_sessile-25_3981	17	76	Riftia pachyptila	sessile	1.13
+adaptation	Sca-88f4_138_star-30	Sca-88f4_185_polymorphisms-11	Sca-88f4_138_star-30_3454	138	Sca-88f4_185_polymorphisms-11_3976	185	47	Sunflower sea star	polymorphism	1.125
+adaptation	Sca-88f4_138_stars-51	Sca-88f4_185_polymorphisms-11	Sca-88f4_138_stars-51_3454	138	Sca-88f4_185_polymorphisms-11_3976	185	47	Sunflower sea star	polymorphism	1.125
+adaptation	Sta-6168_253_urchins-35	Sta-6168_191_Metamorphosis-1	Sta-6168_253_urchins-35_3442	253	Sta-6168_191_Metamorphosis-1_343	191	62	Purple sea urchin	Metamorphosis	1.048
+taxongroup	Jel-28f4_278_jellyfish-9	Jel-28f4_278_animals-6	Jel-28f4_278_jellyfish-9_4010	278	Jel-28f4_278_animals-6_44	278	0	jellyfish	Animals	100.0
+taxongroup	Alv-7b43_2_worms-24	Alv-7b43_2_worm-16	Alv-7b43_2_worms-24_3122	2	Alv-7b43_2_worm-16_4018	2	0	Pompeii worm	polychaete worms	100.0
+taxongroup	Alv-7b43_14_worm-45	Alv-7b43_14_animal-52	Alv-7b43_14_worm-45_3122	14	Alv-7b43_14_animal-52_3812	14	0	Pompeii worm	animals	100.0
+taxongroup	Alv-7b43_5_worm-39	Alv-7b43_5_animals-30	Alv-7b43_5_worm-39_3122	5	Alv-7b43_5_animals-30_3812	5	0	Pompeii worm	animals	100.0
+taxongroup	Alv-7b43_14_worms-8	Alv-7b43_14_animal-52	Alv-7b43_14_worms-8_3122	14	Alv-7b43_14_animal-52_44	14	0	Pompeii worm	Animals	100.0
+taxongroup	Ani-161e_210_echinoderms-12	Ani-161e_210_animals-4	Ani-161e_210_echinoderms-12_4887	210	Ani-161e_210_animals-4_3812	210	0	echinoderms	animals	100.0
+taxongroup	Ani-161e_207_echinoderms-54	Ani-161e_207_animals-41	Ani-161e_207_echinoderms-54_4887	207	Ani-161e_207_animals-41_3812	207	0	echinoderms	animals	100.0
+taxongroup	Ani-161e_210_echinoderms-12	Ani-161e_210_animal-33	Ani-161e_210_echinoderms-12_4887	210	Ani-161e_210_animal-33_3812	210	0	echinoderms	animals	100.0
+taxongroup	Ani-161e_210_echinoderms-12	Ani-161e_210_animals-27	Ani-161e_210_echinoderms-12_4887	210	Ani-161e_210_animals-27_3812	210	0	echinoderms	animals	100.0
+taxongroup	Cni-c1f9_240_jellyfish-7	Cni-c1f9_240_animals-13	Cni-c1f9_240_jellyfish-7_4010	240	Cni-c1f9_240_animals-13_44	240	0	jellyfish	Animals	100.0
+taxongroup	Jel-28f4_269_jellyfish-5	Jel-28f4_269_animals-21	Jel-28f4_269_jellyfish-5_4010	269	Jel-28f4_269_animals-21_44	269	0	jellyfish	Animals	100.0
+taxongroup	Cni-c1f9_2_jellyfish-32	Cni-c1f9_2_animals-16	Cni-c1f9_2_jellyfish-32_4010	2	Cni-c1f9_2_animals-16_44	2	0	jellyfish	Animals	100.0
+taxongroup	Cni33c8_2_jellyfish-10	Cni33c8_2_animals-7	Cni33c8_2_jellyfish-10_4010	2	Cni33c8_2_animals-7_44	2	0	jellyfish	Animals	100.0
+taxongroup	Jel-28f4_22_jellyfish-3	Jel-28f4_22_animals-19	Jel-28f4_22_jellyfish-3_4010	22	Jel-28f4_22_animals-19_44	22	0	jellyfish	Animals	100.0
+taxongroup	Jel-28f4_259_jellyfish-14	Jel-28f4_259_animal-22	Jel-28f4_259_jellyfish-14_4010	259	Jel-28f4_259_animal-22_44	259	0	jellyfish	Animals	100.0
+taxongroup	Alv-7b43_2_worm-6	Alv-7b43_2_worms-24	Alv-7b43_2_worm-6_3122	2	Alv-7b43_2_worms-24_4018	2	0	Pompeii worm	polychaete worms	100.0
+taxongroup	Ech-1003_42_echinoderms-9	Ech-1003_42_animal-18	Ech-1003_42_echinoderms-9_4887	42	Ech-1003_42_animal-18_3812	42	0	echinoderms	animals	100.0
+taxongroup	Alv-7b43_2_worm-16	Alv-7b43_2_worm-16	Alv-7b43_2_worm-16_3122	2	Alv-7b43_2_worm-16_4018	2	0	Pompeii worm	polychaete worms	100.0
+taxongroup	Ech-1003_46_echinoderms-3	Ech-1003_46_animals-10	Ech-1003_46_echinoderms-3_4887	46	Ech-1003_46_animals-10_3812	46	0	echinoderms	animals	100.0
+taxongroup	Scy-682d_46_Scyphozoa-3	Scy-682d_46_animals-10	Scy-682d_46_Scyphozoa-3_398	46	Scy-682d_46_animals-10_3812	46	0	Scyphozoa	animals	100.0
+taxongroup	Scy-682d_46_Scyphozoa-39	Scy-682d_46_animals-10	Scy-682d_46_Scyphozoa-39_398	46	Scy-682d_46_animals-10_3812	46	0	Scyphozoa	animals	100.0
+taxongroup	Scy-682d_2_Scyphozoa-2	Scy-682d_2_Cnidaria-11	Scy-682d_2_Scyphozoa-2_398	2	Scy-682d_2_Cnidaria-11_1889	2	0	Scyphozoa	Cnidaria	100.0
+taxongroup	Ech-1003_2_echinoderm-2	Ech-1003_2_animal-8	Ech-1003_2_echinoderm-2_4887	2	Ech-1003_2_animal-8_3812	2	0	echinoderms	animals	100.0
+taxongroup	Ech-1003_90_echinoderm-8	Ech-1003_90_animal-30	Ech-1003_90_echinoderm-8_4887	90	Ech-1003_90_animal-30_3812	90	0	echinoderms	animals	100.0
+taxongroup	Ani-161e_207_echinoderms-54	Ani-161e_207_animals-16	Ani-161e_207_echinoderms-54_4887	207	Ani-161e_207_animals-16_3812	207	0	echinoderms	animals	100.0
+taxongroup	Alv-7b43_2_worms-24	Alv-7b43_2_worm-6	Alv-7b43_2_worms-24_3122	2	Alv-7b43_2_worm-6_4018	2	0	Pompeii worm	polychaete worms	100.0
+taxongroup	Alv-7b43_2_worm-6	Alv-7b43_2_worm-16	Alv-7b43_2_worm-6_3122	2	Alv-7b43_2_worm-16_4018	2	0	Pompeii worm	polychaete worms	100.0
+taxongroup	Alv-7b43_2_worms-24	Alv-7b43_2_worms-24	Alv-7b43_2_worms-24_3122	2	Alv-7b43_2_worms-24_4018	2	0	Pompeii worm	polychaete worms	100.0
+taxongroup	Alv-7b43_2_worm-6	Alv-7b43_2_worm-6	Alv-7b43_2_worm-6_3122	2	Alv-7b43_2_worm-6_4018	2	0	Pompeii worm	polychaete worms	100.0
+taxongroup	Alv-7b43_2_worm-16	Alv-7b43_2_worms-24	Alv-7b43_2_worm-16_3122	2	Alv-7b43_2_worms-24_4018	2	0	Pompeii worm	polychaete worms	100.0
+taxongroup	Alv-7b43_2_worm-16	Alv-7b43_2_worm-6	Alv-7b43_2_worm-16_3122	2	Alv-7b43_2_worm-6_4018	2	0	Pompeii worm	polychaete worms	100.0
+taxongroup	Cni-c1f9_303_jellyfish-17	Cni-c1f9_303_animal-33	Cni-c1f9_303_jellyfish-17_4010	303	Cni-c1f9_303_animal-33_44	303	0	jellyfish	Animals	100.0
+taxongroup	Cho-ea02_103_jellyfish-8	Cho-ea02_103_animals-4	Cho-ea02_103_jellyfish-8_4010	103	Cho-ea02_103_animals-4_44	103	0	jellyfish	Animals	100.0
+taxongroup	Ani-ab87_49_jellyfish-24	Ani-ab87_49_animals-3	Ani-ab87_49_jellyfish-24_4010	49	Ani-ab87_49_animals-3_44	49	0	jellyfish	Animals	100.0
+taxongroup	Jel-28f4_347_jellyfish-12	Jel-28f4_347_Animals-7	Jel-28f4_347_jellyfish-12_4010	347	Jel-28f4_347_Animals-7_44	347	0	jellyfish	Animals	100.0
+taxongroup	Ani-161e_133_jellyfish-16	Ani-161e_133_Cnidaria-12	Ani-161e_133_jellyfish-16_4010	133	Ani-161e_133_Cnidaria-12_1889	133	0	jellyfish	Cnidaria	100.0
+taxongroup	Cam-4bd8_212_jellyfish-6	Cam-4bd8_212_animals-3	Cam-4bd8_212_jellyfish-6_4010	212	Cam-4bd8_212_animals-3_3812	212	0	jellyfish	animals	100.0
+taxongroup	Jel-28f4_321_jellyfish-2	Jel-28f4_321_animals-5	Jel-28f4_321_jellyfish-2_4010	321	Jel-28f4_321_animals-5_3812	321	0	jellyfish	animals	100.0
+taxongroup	Jel-28f4_254_jellyfish-11	Jel-28f4_254_animals-25	Jel-28f4_254_jellyfish-11_4010	254	Jel-28f4_254_animals-25_3812	254	0	jellyfish	animals	100.0
+taxongroup	Jel-28f4_39_jellyfish-5	Jel-28f4_39_animal-36	Jel-28f4_39_jellyfish-5_4010	39	Jel-28f4_39_animal-36_3812	39	0	jellyfish	animals	100.0
+taxongroup	Ant-85c0_7_jellyfish-13	Ant-85c0_7_Cnidaria-7	Ant-85c0_7_jellyfish-13_4010	7	Ant-85c0_7_Cnidaria-7_1889	7	0	jellyfish	Cnidaria	100.0
+taxongroup	Scy-682d_2_jellyfish-18	Scy-682d_2_Cnidaria-11	Scy-682d_2_jellyfish-18_4010	2	Scy-682d_2_Cnidaria-11_1889	2	0	jellyfish	Cnidaria	100.0
+taxongroup	Ven-071d_48_jellyfish-10	Ven-071d_48_Cnidaria-34	Ven-071d_48_jellyfish-10_4010	48	Ven-071d_48_Cnidaria-34_1889	48	0	jellyfish	Cnidaria	100.0
+taxongroup	Sir-1b7d_15_jellyfish-17	Sir-1b7d_15_animals-12	Sir-1b7d_15_jellyfish-17_4010	15	Sir-1b7d_15_animals-12_44	15	0	jellyfish	Animals	100.0
+taxongroup	Jel-28f4_207_jellyfish-5	Jel-28f4_207_animal-23	Jel-28f4_207_jellyfish-5_4010	207	Jel-28f4_207_animal-23_44	207	0	jellyfish	Animals	100.0
+taxongroup	Bra0616_3_shells-2	Bra0616_3_animals-4	Bra0616_3_shells-2_1771	3	Bra0616_3_animals-4_3812	3	0	Lamp shells	animals	100.0
+taxongroup	Jel-28f4_207_jellyfish-17	Jel-28f4_207_animal-23	Jel-28f4_207_jellyfish-17_4010	207	Jel-28f4_207_animal-23_44	207	0	jellyfish	Animals	100.0
+taxongroup	Ven-071d_48_jellyfish-16	Ven-071d_48_Cnidaria-34	Ven-071d_48_jellyfish-16_4010	48	Ven-071d_48_Cnidaria-34_1889	48	0	jellyfish	Cnidaria	100.0
+taxongroup	Jelfd0e_8_jellyfish-29	Jelfd0e_8_animals-15	Jelfd0e_8_jellyfish-29_4010	8	Jelfd0e_8_animals-15_44	8	0	jellyfish	Animals	100.0
+taxongroup	Jelfd0e_8_jellyfish-2	Jelfd0e_8_animals-15	Jelfd0e_8_jellyfish-2_4010	8	Jelfd0e_8_animals-15_44	8	0	jellyfish	Animals	100.0
+taxongroup	Cni33c8_2_jellyfish-10	Cni33c8_2_Cnidaria-1	Cni33c8_2_jellyfish-10_4010	2	Cni33c8_2_Cnidaria-1_1889	2	0	jellyfish	Cnidaria	100.0
+taxongroup	Cni-c1f9_2_jellyfish-32	Cni-c1f9_2_Cnidaria-1	Cni-c1f9_2_jellyfish-32_4010	2	Cni-c1f9_2_Cnidaria-1_1889	2	0	jellyfish	Cnidaria	100.0
+taxongroup	Jel-28f4_260_Jellyfish-1	Jel-28f4_260_animals-23	Jel-28f4_260_Jellyfish-1_399	260	Jel-28f4_260_animals-23_3812	260	0	Jellyfish	animals	100.0
+taxongroup	Str-dce3_25_echinoderms-54	Str-dce3_25_animal-7	Str-dce3_25_echinoderms-54_4887	25	Str-dce3_25_animal-7_3812	25	0	echinoderms	animals	100.0
+taxongroup	Ovi-8c33_11_echinoderms-9	Ovi-8c33_11_animal-16	Ovi-8c33_11_echinoderms-9_4887	11	Ovi-8c33_11_animal-16_3812	11	0	echinoderms	animals	100.0
+taxongroup	Ani-161e_207_cnidaria-56	Ani-161e_207_animals-41	Ani-161e_207_cnidaria-56_4781	207	Ani-161e_207_animals-41_44	207	0	cnidaria	Animals	100.0
+taxongroup	Cro-4b5e_2_starfish-7	Cro-4b5e_2_starfish-21	Cro-4b5e_2_starfish-7_4849	2	Cro-4b5e_2_starfish-21_4025	2	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_157_starfish-9	Cro-4b5e_157_starfish-17	Cro-4b5e_157_starfish-9_4849	157	Cro-4b5e_157_starfish-17_4025	157	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_157_starfish-17	Cro-4b5e_157_starfish-9	Cro-4b5e_157_starfish-17_4849	157	Cro-4b5e_157_starfish-9_4025	157	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_157_starfish-9	Cro-4b5e_157_starfish-9	Cro-4b5e_157_starfish-9_4849	157	Cro-4b5e_157_starfish-9_4025	157	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_282_starfish-7	Cro-4b5e_282_starfish-7	Cro-4b5e_282_starfish-7_4849	282	Cro-4b5e_282_starfish-7_4025	282	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_324_starfish-7	Cro-4b5e_324_starfish-7	Cro-4b5e_324_starfish-7_4849	324	Cro-4b5e_324_starfish-7_4025	324	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_337_starfish-11	Cro-4b5e_337_starfish-11	Cro-4b5e_337_starfish-11_4849	337	Cro-4b5e_337_starfish-11_4025	337	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro60a5_6_starfish-8	Cro60a5_6_starfish-8	Cro60a5_6_starfish-8_4849	6	Cro60a5_6_starfish-8_4025	6	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_44_starfish-12	Cro-4b5e_44_starfish-12	Cro-4b5e_44_starfish-12_4849	44	Cro-4b5e_44_starfish-12_4025	44	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_95_starfish-15	Cro-4b5e_95_starfish-15	Cro-4b5e_95_starfish-15_4849	95	Cro-4b5e_95_starfish-15_4025	95	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_9_starfish-11	Cro-4b5e_9_starfish-11	Cro-4b5e_9_starfish-11_4849	9	Cro-4b5e_9_starfish-11_4025	9	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_9_starfish-11	Cro-4b5e_9_starfish-21	Cro-4b5e_9_starfish-11_4849	9	Cro-4b5e_9_starfish-21_4025	9	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_9_starfish-21	Cro-4b5e_9_starfish-11	Cro-4b5e_9_starfish-21_4849	9	Cro-4b5e_9_starfish-11_4025	9	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_9_starfish-21	Cro-4b5e_9_starfish-21	Cro-4b5e_9_starfish-21_4849	9	Cro-4b5e_9_starfish-21_4025	9	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Ech-1003_282_starfish-16	Ech-1003_282_starfish-16	Ech-1003_282_starfish-16_4849	282	Ech-1003_282_starfish-16_4025	282	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Sta-6168_269_starfish-7	Sta-6168_269_starfish-7	Sta-6168_269_starfish-7_4849	269	Sta-6168_269_starfish-7_4025	269	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_149_starfish-27	Cro-4b5e_149_starfish-27	Cro-4b5e_149_starfish-27_4849	149	Cro-4b5e_149_starfish-27_4025	149	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Ant-85c0_116_starfish-11	Ant-85c0_116_starfish-11	Ant-85c0_116_starfish-11_4849	116	Ant-85c0_116_starfish-11_4025	116	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_2_starfish-7	Cro-4b5e_2_starfish-7	Cro-4b5e_2_starfish-7_4849	2	Cro-4b5e_2_starfish-7_4025	2	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Ani-161e_207_cnidaria-56	Ani-161e_207_animals-16	Ani-161e_207_cnidaria-56_4781	207	Ani-161e_207_animals-16_3812	207	0	cnidaria	animals	100.0
+taxongroup	Aur-441a_2_jellyfish-11	Aur-441a_2_Aurelia-1	Aur-441a_2_jellyfish-11_4641	2	Aur-441a_2_Aurelia-1_914	2	0	common jellyfish	Aurelia	100.0
+taxongroup	Aur-441a_2_jellyfish-8	Aur-441a_2_Aurelia-1	Aur-441a_2_jellyfish-8_4641	2	Aur-441a_2_Aurelia-1_914	2	0	common jellyfish	Aurelia	100.0
+taxongroup	Aure0eb_6_jellyfish-7	Aure0eb_6_jellyfish-7	Aure0eb_6_jellyfish-7_4641	6	Aure0eb_6_jellyfish-7_4010	6	0	common jellyfish	jellyfish	100.0
+taxongroup	Aur-441a_2_jellyfish-11	Aur-441a_2_jellyfish-11	Aur-441a_2_jellyfish-11_4641	2	Aur-441a_2_jellyfish-11_4010	2	0	common jellyfish	jellyfish	100.0
+taxongroup	Aur-441a_2_jellyfish-8	Aur-441a_2_jellyfish-8	Aur-441a_2_jellyfish-8_4641	2	Aur-441a_2_jellyfish-8_4010	2	0	common jellyfish	jellyfish	100.0
+taxongroup	Aur-441a_2_jellyfish-11	Aur-441a_2_jellyfish-8	Aur-441a_2_jellyfish-11_4641	2	Aur-441a_2_jellyfish-8_4010	2	0	common jellyfish	jellyfish	100.0
+taxongroup	Aur-441a_2_jellyfish-8	Aur-441a_2_jellyfish-11	Aur-441a_2_jellyfish-8_4641	2	Aur-441a_2_jellyfish-11_4010	2	0	common jellyfish	jellyfish	100.0
+taxongroup	Coa-44f0_179_corals-31	Coa-44f0_179_animals-28	Coa-44f0_179_corals-31_4609	179	Coa-44f0_179_animals-28_44	179	0	corals and sea anemones	Animals	100.0
+taxongroup	Ant-85c0_116_starfish-11	Ant-85c0_116_Acanthaster-13	Ant-85c0_116_starfish-11_4849	116	Ant-85c0_116_Acanthaster-13_871	116	0	crown-of-thorns starfish	Acanthaster	100.0
+taxongroup	Ech-1003_282_starfish-16	Ech-1003_282_echinoderm-3	Ech-1003_282_starfish-16_4849	282	Ech-1003_282_echinoderm-3_4887	282	0	crown-of-thorns starfish	echinoderms	100.0
+taxongroup	Cro-4b5e_2_starfish-21	Cro-4b5e_2_starfish-21	Cro-4b5e_2_starfish-21_4849	2	Cro-4b5e_2_starfish-21_4025	2	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_2_starfish-21	Cro-4b5e_2_starfish-7	Cro-4b5e_2_starfish-21_4849	2	Cro-4b5e_2_starfish-7_4025	2	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_3_starfish-7	Cro-4b5e_3_starfish-7	Cro-4b5e_3_starfish-7_4849	3	Cro-4b5e_3_starfish-7_4025	3	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Cro-4b5e_157_starfish-17	Cro-4b5e_157_starfish-17	Cro-4b5e_157_starfish-17_4849	157	Cro-4b5e_157_starfish-17_4025	157	0	crown-of-thorns starfish	starfish	100.0
+taxongroup	Ani-161e_194_earthworms-34	Ani-161e_194_animal-8	Ani-161e_194_earthworms-34_5197	194	Ani-161e_194_animal-8_44	194	0	earthworms	Animals	100.0
+taxongroup	Bio-20c0_143_earthworm-16	Bio-20c0_143_animal-34	Bio-20c0_143_earthworm-16_5197	143	Bio-20c0_143_animal-34_44	143	0	earthworms	Animals	100.0
+taxongroup	Wil-57af_352_earthworms-16	Wil-57af_352_animals-2	Wil-57af_352_earthworms-16_5197	352	Wil-57af_352_animals-2_3812	352	0	earthworms	animals	100.0
+taxongroup	Eur-3123_12_earthworms-26	Eur-3123_12_animal-22	Eur-3123_12_earthworms-26_5197	12	Eur-3123_12_animal-22_3812	12	0	earthworms	animals	100.0
+taxongroup	Roo-1bd1_60_earthworms-23	Roo-1bd1_60_animal-19	Roo-1bd1_60_earthworms-23_5197	60	Roo-1bd1_60_animal-19_3812	60	0	earthworms	animals	100.0
+taxongroup	Wat-4f58_179_earthworms-24	Wat-4f58_179_animal-17	Wat-4f58_179_earthworms-24_5197	179	Wat-4f58_179_animal-17_3812	179	0	earthworms	animals	100.0
+taxongroup	Ann-6efb_2_earthworms-36	Ann-6efb_2_worms-21	Ann-6efb_2_earthworms-36_5197	2	Ann-6efb_2_worms-21_4603	2	0	earthworms	segmented worms	100.0
+taxongroup	Com-0bc9_64_earthworms-14	Com-0bc9_64_animal-2	Com-0bc9_64_earthworms-14_5197	64	Com-0bc9_64_animal-2_3812	64	0	earthworms	animals	100.0
+taxongroup	Com-4c8f_41_earthworms-15	Com-4c8f_41_animal-9	Com-4c8f_41_earthworms-15_5197	41	Com-4c8f_41_animal-9_3812	41	0	earthworms	animals	100.0
+taxongroup	Com-4c8f_41_earthworms-15	Com-4c8f_41_animal-47	Com-4c8f_41_earthworms-15_5197	41	Com-4c8f_41_animal-47_3812	41	0	earthworms	animals	100.0
+taxongroup	Ani-161e_106_earthworms-40	Ani-161e_106_animals-26	Ani-161e_106_earthworms-40_5197	106	Ani-161e_106_animals-26_44	106	0	earthworms	Animals	100.0
+taxongroup	Ear-b650_36_earthworm-3	Ear-b650_36_animal-26	Ear-b650_36_earthworm-3_5197	36	Ear-b650_36_animal-26_44	36	0	earthworms	Animals	100.0
+taxongroup	Ann-6efb_2_earthworms-36	Ann-6efb_2_Annelida-4	Ann-6efb_2_earthworms-36_5197	2	Ann-6efb_2_Annelida-4_1513	2	0	earthworms	Annelida	100.0
+taxongroup	Ear-b650_2_earthworm-2	Ear-b650_2_Annelida-15	Ear-b650_2_earthworm-2_5197	2	Ear-b650_2_Annelida-15_1513	2	0	earthworms	Annelida	100.0
+taxongroup	Cni33c8_2_Cnidaria-1	Cni33c8_2_animals-7	Cni33c8_2_Cnidaria-1_1889	2	Cni33c8_2_animals-7_3812	2	0	Cnidaria	animals	100.0
+taxongroup	Ani-161e_123_Cnidaria-11	Ani-161e_123_animals-4	Ani-161e_123_Cnidaria-11_1889	123	Ani-161e_123_animals-4_44	123	0	Cnidaria	Animals	100.0
+taxongroup	Cni-c1f9_270_Cnidaria-38	Cni-c1f9_270_animals-54	Cni-c1f9_270_Cnidaria-38_1889	270	Cni-c1f9_270_animals-54_44	270	0	Cnidaria	Animals	100.0
+taxongroup	Cni-c1f9_270_Cnidaria-38	Cni-c1f9_270_animals-17	Cni-c1f9_270_Cnidaria-38_1889	270	Cni-c1f9_270_animals-17_44	270	0	Cnidaria	Animals	100.0
+taxongroup	Cni-c1f9_2_Cnidaria-1	Cni-c1f9_2_animals-16	Cni-c1f9_2_Cnidaria-1_1889	2	Cni-c1f9_2_animals-16_44	2	0	Cnidaria	Animals	100.0
+taxongroup	Cni-c1f9_64_Cnidaria-1	Cni-c1f9_64_animals-20	Cni-c1f9_64_Cnidaria-1_1889	64	Cni-c1f9_64_animals-20_44	64	0	Cnidaria	Animals	100.0
+taxongroup	Cni-c1f9_64_Cnidaria-1	Cni-c1f9_64_animals-4	Cni-c1f9_64_Cnidaria-1_1889	64	Cni-c1f9_64_animals-4_44	64	0	Cnidaria	Animals	100.0
+taxongroup	Cni-c1f9_272_Cnidaria-21	Cni-c1f9_272_animals-35	Cni-c1f9_272_Cnidaria-21_1889	272	Cni-c1f9_272_animals-35_44	272	0	Cnidaria	Animals	100.0
+taxongroup	Ani-161e_85_Cnidaria-13	Ani-161e_85_animals-2	Ani-161e_85_Cnidaria-13_1889	85	Ani-161e_85_animals-2_44	85	0	Cnidaria	Animals	100.0
+taxongroup	Ech86c4_7_urchins-6	Ech86c4_7_echinoderm-8	Ech86c4_7_urchins-6_4027	7	Ech86c4_7_echinoderm-8_4887	7	0	sea urchins	echinoderms	100.0
+taxongroup	Can9054_1_Canalipalpata-1	Can9054_1_worms-9	Can9054_1_Canalipalpata-1_1832	1	Can9054_1_worms-9_4018	1	0	Canalipalpata	polychaete worms	100.0
+taxongroup	Can-1080_2_Canalipalpata-1	Can-1080_2_worms-21	Can-1080_2_Canalipalpata-1_1832	2	Can-1080_2_worms-21_4018	2	0	Canalipalpata	polychaete worms	100.0
+taxongroup	Can-1080_2_Canalipalpata-1	Can-1080_2_worms-14	Can-1080_2_Canalipalpata-1_1832	2	Can-1080_2_worms-14_4018	2	0	Canalipalpata	polychaete worms	100.0
+taxongroup	Can-1080_2_Canalipalpata-1	Can-1080_2_worms-45	Can-1080_2_Canalipalpata-1_1832	2	Can-1080_2_worms-45_4018	2	0	Canalipalpata	polychaete worms	100.0
+taxongroup	Can-1080_2_Canalipalpata-1	Can-1080_2_worms-57	Can-1080_2_Canalipalpata-1_1832	2	Can-1080_2_worms-57_4018	2	0	Canalipalpata	polychaete worms	100.0
+taxongroup	Sea-a026_9_urchins-7	Sea-a026_9_echinoderms-3	Sea-a026_9_urchins-7_4027	9	Sea-a026_9_echinoderms-3_4887	9	0	sea urchins	echinoderms	100.0
+taxongroup	Ani8132_23_urchins-6	Ani8132_23_echinoderm-8	Ani8132_23_urchins-6_4027	23	Ani8132_23_echinoderm-8_4887	23	0	sea urchins	echinoderms	100.0
+taxongroup	Cho-ea02_107_urchins-18	Cho-ea02_107_echinoderms-9	Cho-ea02_107_urchins-18_4027	107	Cho-ea02_107_echinoderms-9_4887	107	0	sea urchins	echinoderms	100.0
+taxongroup	Cho-ea02_152_urchins-18	Cho-ea02_152_echinoderms-2	Cho-ea02_152_urchins-18_4027	152	Cho-ea02_152_echinoderms-2_4887	152	0	sea urchins	echinoderms	100.0
+taxongroup	Cri-7ee3_18_urchins-37	Cri-7ee3_18_echinoderm-31	Cri-7ee3_18_urchins-37_4027	18	Cri-7ee3_18_echinoderm-31_4887	18	0	sea urchins	echinoderms	100.0
+taxongroup	Cri-7ee3_4_urchins-19	Cri-7ee3_4_echinoderms-3	Cri-7ee3_4_urchins-19_4027	4	Cri-7ee3_4_echinoderms-3_4887	4	0	sea urchins	echinoderms	100.0
+taxongroup	Ech-1003_2_urchins-24	Ech-1003_2_echinoderm-2	Ech-1003_2_urchins-24_4027	2	Ech-1003_2_echinoderm-2_4887	2	0	sea urchins	echinoderms	100.0
+taxongroup	Gre-0f9b_69_urchins-23	Gre-0f9b_69_echinoderms-42	Gre-0f9b_69_urchins-23_4027	69	Gre-0f9b_69_echinoderms-42_4887	69	0	sea urchins	echinoderms	100.0
+taxongroup	Sea-a026_2_urchins-2	Sea-a026_2_echinoderms-9	Sea-a026_2_urchins-2_4027	2	Sea-a026_2_echinoderms-9_4887	2	0	sea urchins	echinoderms	100.0
+taxongroup	Spa-e46a_437_urchins-2	Spa-e46a_437_echinoderms-5	Spa-e46a_437_urchins-2_4027	437	Spa-e46a_437_echinoderms-5_4887	437	0	sea urchins	echinoderms	100.0
+taxongroup	Sta-6168_299_urchins-11	Sta-6168_299_echinoderms-8	Sta-6168_299_urchins-11_4027	299	Sta-6168_299_echinoderms-8_4887	299	0	sea urchins	echinoderms	100.0
+taxongroup	Pre-0725_33_urchins-29	Pre-0725_33_echinoderms-21	Pre-0725_33_urchins-29_4027	33	Pre-0725_33_echinoderms-21_4887	33	0	sea urchins	echinoderms	100.0
+taxongroup	Ant-85c0_114_starfish-25	Ant-85c0_114_animals-4	Ant-85c0_114_starfish-25_4025	114	Ant-85c0_114_animals-4_3812	114	0	starfish	animals	100.0
+taxongroup	Ant-85c0_114_starfish-25	Ant-85c0_114_animals-15	Ant-85c0_114_starfish-25_4025	114	Ant-85c0_114_animals-15_3812	114	0	starfish	animals	100.0
+taxongroup	Coa-44f0_9_starfish-23	Coa-44f0_9_animals-18	Coa-44f0_9_starfish-23_4025	9	Coa-44f0_9_animals-18_3812	9	0	starfish	animals	100.0
+taxongroup	Coa-44f0_179_starfish-35	Coa-44f0_179_animals-28	Coa-44f0_179_starfish-35_4025	179	Coa-44f0_179_animals-28_3812	179	0	starfish	animals	100.0
+taxongroup	Ech-1003_2_starfish-18	Ech-1003_2_animal-8	Ech-1003_2_starfish-18_4025	2	Ech-1003_2_animal-8_3812	2	0	starfish	animals	100.0
+taxongroup	Ech-1003_329_starfish-5	Ech-1003_329_animal-12	Ech-1003_329_starfish-5_4025	329	Ech-1003_329_animal-12_3812	329	0	starfish	animals	100.0
+taxongroup	Jel-28f4_23_starfish-45	Jel-28f4_23_animal-35	Jel-28f4_23_starfish-45_4025	23	Jel-28f4_23_animal-35_3812	23	0	starfish	animals	100.0
+taxongroup	Cho-ea02_107_starfish-15	Cho-ea02_107_echinoderms-9	Cho-ea02_107_starfish-15_4025	107	Cho-ea02_107_echinoderms-9_4887	107	0	starfish	echinoderms	100.0
+taxongroup	Cho-ea02_152_starfish-15	Cho-ea02_152_echinoderms-2	Cho-ea02_152_starfish-15_4025	152	Cho-ea02_152_echinoderms-2_4887	152	0	starfish	echinoderms	100.0
+taxongroup	Cri-7ee3_4_starfish-13	Cri-7ee3_4_echinoderms-3	Cri-7ee3_4_starfish-13_4025	4	Cri-7ee3_4_echinoderms-3_4887	4	0	starfish	echinoderms	100.0
+taxongroup	Ech-1003_2_starfish-18	Ech-1003_2_echinoderm-2	Ech-1003_2_starfish-18_4025	2	Ech-1003_2_echinoderm-2_4887	2	0	starfish	echinoderms	100.0
+taxongroup	Sta-6168_299_starfish-5	Sta-6168_299_echinoderms-8	Sta-6168_299_starfish-5_4025	299	Sta-6168_299_echinoderms-8_4887	299	0	starfish	echinoderms	100.0
+taxongroup	Gre-0f9b_69_starfish-32	Gre-0f9b_69_echinoderms-42	Gre-0f9b_69_starfish-32_4025	69	Gre-0f9b_69_echinoderms-42_4887	69	0	starfish	echinoderms	100.0
+taxongroup	Sea-a026_183_starfish-21	Sea-a026_183_echinoderms-10	Sea-a026_183_starfish-21_4025	183	Sea-a026_183_echinoderms-10_4887	183	0	starfish	echinoderms	100.0
+taxongroup	Cni-c1f9_20_starfish-9	Cni-c1f9_20_animals-7	Cni-c1f9_20_starfish-9_4025	20	Cni-c1f9_20_animals-7_3812	20	0	starfish	animals	100.0
+taxongroup	Ech86c4_4_starfish-9	Ech86c4_4_animals-6	Ech86c4_4_starfish-9_4025	4	Ech86c4_4_animals-6_3812	4	0	starfish	animals	100.0
+taxongroup	Amb-b5dc_8_starfish-20	Amb-b5dc_8_animal-8	Amb-b5dc_8_starfish-20_4025	8	Amb-b5dc_8_animal-8_3812	8	0	starfish	animals	100.0
+taxongroup	Sta-6168_229_starfish-4	Sta-6168_229_Echinoderms-1	Sta-6168_229_starfish-4_4025	229	Sta-6168_229_Echinoderms-1_2085	229	0	starfish	Echinoderms	100.0
+taxongroup	Cri-7ee3_4_starfish-13	Cri-7ee3_4_Echinodermata-7	Cri-7ee3_4_starfish-13_4025	4	Cri-7ee3_4_Echinodermata-7_2086	4	0	starfish	Echinodermata	100.0
+taxongroup	Ech-1003_2_starfish-18	Ech-1003_2_Echinodermata-12	Ech-1003_2_starfish-18_4025	2	Ech-1003_2_Echinodermata-12_2086	2	0	starfish	Echinodermata	100.0
+taxongroup	Ani-161e_169_starfish-7	Ani-161e_169_Echinoderms-1	Ani-161e_169_starfish-7_4025	169	Ani-161e_169_Echinoderms-1_2085	169	0	starfish	Echinoderms	100.0
+taxongroup	Ech86c4_4_starfish-9	Ech86c4_4_Echinoderms-1	Ech86c4_4_starfish-9_4025	4	Ech86c4_4_Echinoderms-1_2085	4	0	starfish	Echinoderms	100.0
+taxongroup	Sea-a026_44_urchins-17	Sea-a026_44_animal-41	Sea-a026_44_urchins-17_4027	44	Sea-a026_44_animal-41_3812	44	0	sea urchins	animals	100.0
+taxongroup	Sea-a026_19_urchins-2	Sea-a026_19_Echinodermata-8	Sea-a026_19_urchins-2_4027	19	Sea-a026_19_Echinodermata-8_2086	19	0	sea urchins	Echinodermata	100.0
+taxongroup	Ani-161e_169_urchins-10	Ani-161e_169_Echinoderms-1	Ani-161e_169_urchins-10_4027	169	Ani-161e_169_Echinoderms-1_2085	169	0	sea urchins	Echinoderms	100.0
+taxongroup	Ech-1003_222_urchins-14	Ech-1003_222_Echinoderms-1	Ech-1003_222_urchins-14_4027	222	Ech-1003_222_Echinoderms-1_2085	222	0	sea urchins	Echinoderms	100.0
+taxongroup	Ech86c4_4_urchins-12	Ech86c4_4_Echinoderms-1	Ech86c4_4_urchins-12_4027	4	Ech86c4_4_Echinoderms-1_2085	4	0	sea urchins	Echinoderms	100.0
+taxongroup	Sea-a026_2_Echinoidea-13	Sea-a026_2_echinoderms-9	Sea-a026_2_Echinoidea-13_425	2	Sea-a026_2_echinoderms-9_4887	2	0	Echinoidea	echinoderms	100.0
+taxongroup	Ech-1003_57_Echinoderms-1	Ech-1003_57_animals-4	Ech-1003_57_Echinoderms-1_2085	57	Ech-1003_57_animals-4_3812	57	0	Echinoderms	animals	100.0
+taxongroup	Ech-1003_104_Echinoderms-1	Ech-1003_104_animal-12	Ech-1003_104_Echinoderms-1_2085	104	Ech-1003_104_animal-12_3812	104	0	Echinoderms	animals	100.0
+taxongroup	Ech-1003_120_Echinoderms-1	Ech-1003_120_animals-27	Ech-1003_120_Echinoderms-1_2085	120	Ech-1003_120_animals-27_3812	120	0	Echinoderms	animals	100.0
+taxongroup	Ech86c4_4_Echinoderms-1	Ech86c4_4_animals-6	Ech86c4_4_Echinoderms-1_2085	4	Ech86c4_4_animals-6_3812	4	0	Echinoderms	animals	100.0
+taxongroup	Sea-4a1d_172_Echinoderms-26	Sea-4a1d_172_animal-11	Sea-4a1d_172_Echinoderms-26_2085	172	Sea-4a1d_172_animal-11_3812	172	0	Echinoderms	animals	100.0
+taxongroup	Spa-e46a_431_Echinoderms-1	Spa-e46a_431_animals-4	Spa-e46a_431_Echinoderms-1_2085	431	Spa-e46a_431_animals-4_3812	431	0	Echinoderms	animals	100.0
+taxongroup	Ven-071d_48_urchins-37	Ven-071d_48_Echinodermata-40	Ven-071d_48_urchins-37_4027	48	Ven-071d_48_Echinodermata-40_2086	48	0	sea urchins	Echinodermata	100.0
+taxongroup	Ech-1003_2_urchins-24	Ech-1003_2_Echinodermata-12	Ech-1003_2_urchins-24_4027	2	Ech-1003_2_Echinodermata-12_2086	2	0	sea urchins	Echinodermata	100.0
+taxongroup	Cri-7ee3_4_urchins-19	Cri-7ee3_4_Echinodermata-7	Cri-7ee3_4_urchins-19_4027	4	Cri-7ee3_4_Echinodermata-7_2086	4	0	sea urchins	Echinodermata	100.0
+taxongroup	Bio-20c0_102_jellyfish-48	Bio-20c0_102_cnidaria-46	Bio-20c0_102_jellyfish-48_4010	102	Bio-20c0_102_cnidaria-46_4781	102	0	jellyfish	cnidaria	100.0
+taxongroup	Cam-4bd8_224_worms-31	Cam-4bd8_224_animals-5	Cam-4bd8_224_worms-31_4018	224	Cam-4bd8_224_animals-5_44	224	0	polychaete worms	Animals	100.0
+taxongroup	Mac-cb88_124_urchins-11	Mac-cb88_124_urchins-11	Mac-cb88_124_urchins-11_5528	124	Mac-cb88_124_urchins-11_4027	124	0	purple sea urchin	sea urchins	100.0
+taxongroup	Mac-cb88_109_urchins-15	Mac-cb88_109_urchins-15	Mac-cb88_109_urchins-15_5528	109	Mac-cb88_109_urchins-15_4027	109	0	purple sea urchin	sea urchins	100.0
+taxongroup	Nea-dd93_350_urchin-33	Nea-dd93_350_urchin-33	Nea-dd93_350_urchin-33_5528	350	Nea-dd93_350_urchin-33_4027	350	0	purple sea urchin	sea urchins	100.0
+taxongroup	Ech-1003_2_urchins-24	Ech-1003_2_animal-8	Ech-1003_2_urchins-24_4027	2	Ech-1003_2_animal-8_44	2	0	sea urchins	Animals	100.0
+taxongroup	Ech86c4_4_urchins-12	Ech86c4_4_animals-6	Ech86c4_4_urchins-12_4027	4	Ech86c4_4_animals-6_44	4	0	sea urchins	Animals	100.0
+taxongroup	Sea-a026_164_urchins-28	Sea-a026_164_animals-3	Sea-a026_164_urchins-28_4027	164	Sea-a026_164_animals-3_44	164	0	sea urchins	Animals	100.0
+taxongroup	Seadc29_11_urchins-2	Seadc29_11_animals-8	Seadc29_11_urchins-2_4027	11	Seadc29_11_animals-8_44	11	0	sea urchins	Animals	100.0
+taxongroup	Sea-a026_7_urchins-9	Sea-a026_7_animals-18	Sea-a026_7_urchins-9_4027	7	Sea-a026_7_animals-18_44	7	0	sea urchins	Animals	100.0
+taxongroup	Ech-1003_2_Echinodermata-12	Ech-1003_2_animal-8	Ech-1003_2_Echinodermata-12_2086	2	Ech-1003_2_animal-8_3812	2	0	Echinodermata	animals	100.0
+taxongroup	Spa-e46a_7_urchins-16	Spa-e46a_7_Echinoderms-11	Spa-e46a_7_urchins-16_4027	7	Spa-e46a_7_Echinoderms-11_2085	7	0	sea urchins	Echinoderms	100.0
+taxongroup	Aca-e4eb_11_planci-2	Aca-e4eb_11_Acanthaster-1	Aca-e4eb_11_planci-2_2008	11	Aca-e4eb_11_Acanthaster-1_871	11	0	Acanthaster planci	Acanthaster	87.0
+taxongroup	Ech-1003_298_planci-22	Ech-1003_298_Acanthaster-21	Ech-1003_298_planci-22_2008	298	Ech-1003_298_Acanthaster-21_871	298	0	Acanthaster planci	Acanthaster	87.0
+taxongroup	Biv-02de_37_Brachiopoda-37	Biv-02de_37_animals-9	Biv-02de_37_Brachiopoda-37_1772	37	Biv-02de_37_animals-9_3812	37	0	Brachiopoda	animals	87.0
+taxongroup	Bra-cd5f_2_Brachiopoda-6	Bra-cd5f_2_animals-13	Bra-cd5f_2_Brachiopoda-6_1772	2	Bra-cd5f_2_animals-13_44	2	0	Brachiopoda	Animals	87.0
+taxongroup	Aur-441a_70_aurita-2	Aur-441a_70_Aurelia-1	Aur-441a_70_aurita-2_1599	70	Aur-441a_70_Aurelia-1_914	70	0	Aurelia aurita	Aurelia	87.0
+taxongroup	Aur-441a_77_aurita-2	Aur-441a_77_Aurelia-1	Aur-441a_77_aurita-2_1599	77	Aur-441a_77_Aurelia-1_914	77	0	Aurelia aurita	Aurelia	87.0
+taxongroup	Aur-441a_27_aurita-2	Aur-441a_27_Aurelia-1	Aur-441a_27_aurita-2_1599	27	Aur-441a_27_Aurelia-1_914	27	0	Aurelia aurita	Aurelia	87.0
+taxongroup	Aur-441a_83_aurita-2	Aur-441a_83_Aurelia-1	Aur-441a_83_aurita-2_1599	83	Aur-441a_83_Aurelia-1_914	83	0	Aurelia aurita	Aurelia	87.0
+taxongroup	Aur-441a_54_aurita-2	Aur-441a_54_Aurelia-1	Aur-441a_54_aurita-2_1599	54	Aur-441a_54_Aurelia-1_914	54	0	Aurelia aurita	Aurelia	87.0
+taxongroup	Aur-441a_67_aurita-6	Aur-441a_67_jellyfish-15	Aur-441a_67_aurita-6_1599	67	Aur-441a_67_jellyfish-15_4010	67	0	Aurelia aurita	jellyfish	87.0
+taxongroup	Aur-441a_67_aurita-6	Aur-441a_67_Aurelia-5	Aur-441a_67_aurita-6_1599	67	Aur-441a_67_Aurelia-5_914	67	0	Aurelia aurita	Aurelia	87.0
+taxongroup	Biv-02de_37_Brachiopoda-37	Biv-02de_37_animals-16	Biv-02de_37_Brachiopoda-37_1772	37	Biv-02de_37_animals-16_44	37	0	Brachiopoda	Animals	87.0
+taxongroup	Sun-27c8_2_helianthoides-2	Sun-27c8_2_Pycnopodia-1	Sun-27c8_2_helianthoides-2_3453	2	Sun-27c8_2_Pycnopodia-1_1234	2	0	Pycnopodia helianthoides	Pycnopodia	87.0
+taxongroup	Rif-1458_93_pachyptila-12	Rif-1458_93_animals-8	Rif-1458_93_pachyptila-12_2361	93	Rif-1458_93_animals-8_44	93	0	Riftia pachyptila	Animals	87.0
+taxongroup	Aur-441a_35_aurita-2	Aur-441a_35_Aurelia-1	Aur-441a_35_aurita-2_1599	35	Aur-441a_35_Aurelia-1_914	35	0	Aurelia aurita	Aurelia	87.0
+taxongroup	Aur-441a_68_aurita-2	Aur-441a_68_Aurelia-1	Aur-441a_68_aurita-2_1599	68	Aur-441a_68_Aurelia-1_914	68	0	Aurelia aurita	Aurelia	87.0
+taxongroup	Aur-441a_10_aurita-2	Aur-441a_10_Aurelia-1	Aur-441a_10_aurita-2_1599	10	Aur-441a_10_Aurelia-1_914	10	0	Aurelia aurita	Aurelia	87.0
+taxongroup	Ech-1003_298_planci-22	Ech-1003_298_starfish-19	Ech-1003_298_planci-22_2008	298	Ech-1003_298_starfish-19_4025	298	0	Acanthaster planci	starfish	87.0
+taxongroup	Aca-e4eb_9_planci-8	Aca-e4eb_9_Acanthaster-7	Aca-e4eb_9_planci-8_2008	9	Aca-e4eb_9_Acanthaster-7_871	9	0	Acanthaster planci	Acanthaster	87.0
+taxongroup	Ant-85c0_116_planci-14	Ant-85c0_116_Acanthaster-13	Ant-85c0_116_planci-14_2008	116	Ant-85c0_116_Acanthaster-13_871	116	0	Acanthaster planci	Acanthaster	87.0
+taxongroup	Cro-4b5e_329_planci-2	Cro-4b5e_329_Acanthaster-1	Cro-4b5e_329_planci-2_2008	329	Cro-4b5e_329_Acanthaster-1_871	329	0	Acanthaster planci	Acanthaster	87.0
+taxongroup	Aur-441a_1_aurita-2	Aur-441a_1_Aurelia-1	Aur-441a_1_aurita-2_1599	1	Aur-441a_1_Aurelia-1_914	1	0	Aurelia aurita	Aurelia	87.0
+taxongroup	Ant-85c0_116_planci-14	Ant-85c0_116_starfish-11	Ant-85c0_116_planci-14_2008	116	Ant-85c0_116_starfish-11_4025	116	0	Acanthaster planci	starfish	87.0
+taxongroup	Sta-6168_18_planci-11	Sta-6168_18_starfish-8	Sta-6168_18_planci-11_2008	18	Sta-6168_18_starfish-8_4025	18	0	Acanthaster planci	starfish	87.0
+taxongroup	Sta-6168_18_planci-11	Sta-6168_18_Acanthaster-10	Sta-6168_18_planci-11_2008	18	Sta-6168_18_Acanthaster-10_871	18	0	Acanthaster planci	Acanthaster	87.0
+taxongroup	Ant-85c0_21_Anthozoa-4	Ant-85c0_21_animals-25	Ant-85c0_21_Anthozoa-4_1525	21	Ant-85c0_21_animals-25_44	21	0	Anthozoa	Animals	87.0
+taxongroup	Ant-85c0_21_Anthozoa-4	Ant-85c0_21_animals-37	Ant-85c0_21_Anthozoa-4_1525	21	Ant-85c0_21_animals-37_44	21	0	Anthozoa	Animals	87.0
+taxongroup	Ant-85c0_7_Anthozoa-1	Ant-85c0_7_Cnidaria-7	Ant-85c0_7_Anthozoa-1_1525	7	Ant-85c0_7_Cnidaria-7_1889	7	0	Anthozoa	Cnidaria	87.0
+taxongroup	Jel-28f4_132_jellyfish-8	Jel-28f4_132_jellyfish-8	Jel-28f4_132_jellyfish-8_4010	132	Jel-28f4_132_jellyfish-8_4783	132	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_154_jellyfish-19	Jel-28f4_154_jellyfish-19	Jel-28f4_154_jellyfish-19_4010	154	Jel-28f4_154_jellyfish-19_4783	154	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_203_jellyfish-8	Jel-28f4_203_jellyfish-3	Jel-28f4_203_jellyfish-8_4010	203	Jel-28f4_203_jellyfish-3_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_194_jellyfish-19	Jel-28f4_194_jellyfish-19	Jel-28f4_194_jellyfish-19_4010	194	Jel-28f4_194_jellyfish-19_4783	194	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_154_jellyfish-19	Jel-28f4_154_jellyfish-43	Jel-28f4_154_jellyfish-19_4010	154	Jel-28f4_154_jellyfish-43_4783	154	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_134_jellyfish-26	Jel-28f4_134_jellyfish-8	Jel-28f4_134_jellyfish-26_4010	134	Jel-28f4_134_jellyfish-8_4783	134	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_112_jellyfish-26	Jel-28f4_112_jellyfish-26	Jel-28f4_112_jellyfish-26_4010	112	Jel-28f4_112_jellyfish-26_4783	112	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_205_jellyfish-4	Jel-28f4_205_jellyfish-4	Jel-28f4_205_jellyfish-4_4010	205	Jel-28f4_205_jellyfish-4_4783	205	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_170_jellyfishes-10	Jel-28f4_170_jellyfishes-10	Jel-28f4_170_jellyfishes-10_4010	170	Jel-28f4_170_jellyfishes-10_4783	170	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_113_jellyfish-14	Jel-28f4_113_jellyfish-14	Jel-28f4_113_jellyfish-14_4010	113	Jel-28f4_113_jellyfish-14_4783	113	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_113_jellyfish-14	Jel-28f4_113_jellyfish-39	Jel-28f4_113_jellyfish-14_4010	113	Jel-28f4_113_jellyfish-39_4783	113	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_150_jellyfish-26	Jel-28f4_150_jellyfish-26	Jel-28f4_150_jellyfish-26_4010	150	Jel-28f4_150_jellyfish-26_4783	150	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_166_jellyfish-2	Jel-28f4_166_jellyfish-2	Jel-28f4_166_jellyfish-2_4010	166	Jel-28f4_166_jellyfish-2_4783	166	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_168_jellyfish-6	Jel-28f4_168_jellyfish-6	Jel-28f4_168_jellyfish-6_4010	168	Jel-28f4_168_jellyfish-6_4783	168	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_151_jellyfish-2	Jel-28f4_151_jellyfish-2	Jel-28f4_151_jellyfish-2_4010	151	Jel-28f4_151_jellyfish-2_4783	151	0	jellyfish	jellyfish	83.0
+taxongroup	Mol-3928_43_brachiopods-17	Mol-3928_43_animal-13	Mol-3928_43_brachiopods-17_4728	43	Mol-3928_43_animal-13_3812	43	0	brachiopods	animals	83.0
+taxongroup	Jel-28f4_203_jellyfish-3	Jel-28f4_203_jellyfish-8	Jel-28f4_203_jellyfish-3_4010	203	Jel-28f4_203_jellyfish-8_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_149_jellyfish-13	Jel-28f4_149_jellyfish-13	Jel-28f4_149_jellyfish-13_4010	149	Jel-28f4_149_jellyfish-13_4783	149	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_211_jellyfish-16	Jel-28f4_211_jellyfish-16	Jel-28f4_211_jellyfish-16_4010	211	Jel-28f4_211_jellyfish-16_4783	211	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_210_jellyfish-10	Jel-28f4_210_jellyfish-10	Jel-28f4_210_jellyfish-10_4010	210	Jel-28f4_210_jellyfish-10_4783	210	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_20_jellyfish-6	Jel-28f4_20_jellyfish-6	Jel-28f4_20_jellyfish-6_4010	20	Jel-28f4_20_jellyfish-6_4783	20	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_209_jellyfish-7	Jel-28f4_209_jellyfish-7	Jel-28f4_209_jellyfish-7_4010	209	Jel-28f4_209_jellyfish-7_4783	209	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_209_jellyfish-7	Jel-28f4_209_jellyfish-54	Jel-28f4_209_jellyfish-7_4010	209	Jel-28f4_209_jellyfish-54_4783	209	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_203_jellyfish-8	Jel-28f4_203_jellyfish-66	Jel-28f4_203_jellyfish-8_4010	203	Jel-28f4_203_jellyfish-66_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_209_jellyfish-7	Jel-28f4_209_jellyfish-39	Jel-28f4_209_jellyfish-7_4010	209	Jel-28f4_209_jellyfish-39_4783	209	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_203_jellyfish-66	Jel-28f4_203_jellyfish-45	Jel-28f4_203_jellyfish-66_4010	203	Jel-28f4_203_jellyfish-45_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_161_jellyfish-24	Jel-28f4_161_jellyfish-24	Jel-28f4_161_jellyfish-24_4010	161	Jel-28f4_161_jellyfish-24_4783	161	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_203_jellyfish-66	Jel-28f4_203_jellyfish-66	Jel-28f4_203_jellyfish-66_4010	203	Jel-28f4_203_jellyfish-66_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_203_jellyfish-66	Jel-28f4_203_jellyfish-8	Jel-28f4_203_jellyfish-66_4010	203	Jel-28f4_203_jellyfish-8_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_163_jellyfish-2	Jel-28f4_163_jellyfish-2	Jel-28f4_163_jellyfish-2_4010	163	Jel-28f4_163_jellyfish-2_4783	163	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_279_jellyfish-2	Jel-28f4_279_jellyfish-2	Jel-28f4_279_jellyfish-2_4010	279	Jel-28f4_279_jellyfish-2_4783	279	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_203_jellyfish-45	Jel-28f4_203_jellyfish-66	Jel-28f4_203_jellyfish-45_4010	203	Jel-28f4_203_jellyfish-66_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_203_jellyfish-45	Jel-28f4_203_jellyfish-3	Jel-28f4_203_jellyfish-45_4010	203	Jel-28f4_203_jellyfish-3_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_203_jellyfish-8	Jel-28f4_203_jellyfish-45	Jel-28f4_203_jellyfish-8_4010	203	Jel-28f4_203_jellyfish-45_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_51_jellyfish-23	Jel-28f4_51_jellyfish-17	Jel-28f4_51_jellyfish-23_4010	51	Jel-28f4_51_jellyfish-17_4783	51	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_203_jellyfish-8	Jel-28f4_203_jellyfish-8	Jel-28f4_203_jellyfish-8_4010	203	Jel-28f4_203_jellyfish-8_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_51_jellyfish-23	Jel-28f4_51_jellyfish-11	Jel-28f4_51_jellyfish-23_4010	51	Jel-28f4_51_jellyfish-11_4783	51	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_51_jellyfish-17	Jel-28f4_51_jellyfish-23	Jel-28f4_51_jellyfish-17_4010	51	Jel-28f4_51_jellyfish-23_4783	51	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_41_jellyfish-4	Jel-28f4_41_jellyfish-4	Jel-28f4_41_jellyfish-4_4010	41	Jel-28f4_41_jellyfish-4_4783	41	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_325_jellyfish-11	Jel-28f4_325_jellyfish-11	Jel-28f4_325_jellyfish-11_4010	325	Jel-28f4_325_jellyfish-11_4783	325	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_408_jellyfish-10	Jel-28f4_408_jellyfish-10	Jel-28f4_408_jellyfish-10_4010	408	Jel-28f4_408_jellyfish-10_4783	408	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_51_jellyfish-11	Jel-28f4_51_jellyfish-23	Jel-28f4_51_jellyfish-11_4010	51	Jel-28f4_51_jellyfish-23_4783	51	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_51_jellyfish-17	Jel-28f4_51_jellyfish-11	Jel-28f4_51_jellyfish-17_4010	51	Jel-28f4_51_jellyfish-11_4783	51	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_51_jellyfish-17	Jel-28f4_51_jellyfish-17	Jel-28f4_51_jellyfish-17_4010	51	Jel-28f4_51_jellyfish-17_4783	51	0	jellyfish	jellyfish	83.0
+taxongroup	Pre-0725_33_jellyfish-10	Pre-0725_33_jellyfish-10	Pre-0725_33_jellyfish-10_4010	33	Pre-0725_33_jellyfish-10_4783	33	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_326_jellyfish-3	Jel-28f4_326_jellyfish-3	Jel-28f4_326_jellyfish-3_4010	326	Jel-28f4_326_jellyfish-3_4783	326	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_299_jellyfish-7	Jel-28f4_299_jellyfish-7	Jel-28f4_299_jellyfish-7_4010	299	Jel-28f4_299_jellyfish-7_4783	299	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_315_jellyfish-3	Jel-28f4_315_jellyfish-3	Jel-28f4_315_jellyfish-3_4010	315	Jel-28f4_315_jellyfish-3_4783	315	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_309_jellyfish-2	Jel-28f4_309_jellyfish-2	Jel-28f4_309_jellyfish-2_4010	309	Jel-28f4_309_jellyfish-2_4783	309	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_306_jellyfish-7	Jel-28f4_306_jellyfish-7	Jel-28f4_306_jellyfish-7_4010	306	Jel-28f4_306_jellyfish-7_4783	306	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_420_jellyfish-21	Jel-28f4_420_jellyfish-21	Jel-28f4_420_jellyfish-21_4010	420	Jel-28f4_420_jellyfish-21_4783	420	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_282_jellyfish-3	Jel-28f4_282_jellyfish-30	Jel-28f4_282_jellyfish-3_4010	282	Jel-28f4_282_jellyfish-30_4783	282	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_51_jellyfish-11	Jel-28f4_51_jellyfish-11	Jel-28f4_51_jellyfish-11_4010	51	Jel-28f4_51_jellyfish-11_4783	51	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_51_jellyfish-23	Jel-28f4_51_jellyfish-23	Jel-28f4_51_jellyfish-23_4010	51	Jel-28f4_51_jellyfish-23_4783	51	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_203_jellyfish-3	Jel-28f4_203_jellyfish-45	Jel-28f4_203_jellyfish-3_4010	203	Jel-28f4_203_jellyfish-45_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_281_jellyfish-42	Jel-28f4_281_jellyfish-42	Jel-28f4_281_jellyfish-42_4010	281	Jel-28f4_281_jellyfish-42_4783	281	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_203_jellyfish-3	Jel-28f4_203_jellyfish-3	Jel-28f4_203_jellyfish-3_4010	203	Jel-28f4_203_jellyfish-3_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_197_jellyfish-15	Jel-28f4_197_jellyfish-15	Jel-28f4_197_jellyfish-15_4010	197	Jel-28f4_197_jellyfish-15_4783	197	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_18_jellyfish-6	Jel-28f4_18_jellyfish-6	Jel-28f4_18_jellyfish-6_4010	18	Jel-28f4_18_jellyfish-6_4783	18	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_171_jellyfish-2	Jel-28f4_171_jellyfish-2	Jel-28f4_171_jellyfish-2_4010	171	Jel-28f4_171_jellyfish-2_4783	171	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_186_jellyfish-23	Jel-28f4_186_jellyfish-23	Jel-28f4_186_jellyfish-23_4010	186	Jel-28f4_186_jellyfish-23_4783	186	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_184_jellyfish-11	Jel-28f4_184_jellyfish-11	Jel-28f4_184_jellyfish-11_4010	184	Jel-28f4_184_jellyfish-11_4783	184	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_183_jellyfish-6	Jel-28f4_183_jellyfish-6	Jel-28f4_183_jellyfish-6_4010	183	Jel-28f4_183_jellyfish-6_4783	183	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_182_jellyfish-21	Jel-28f4_182_jellyfish-21	Jel-28f4_182_jellyfish-21_4010	182	Jel-28f4_182_jellyfish-21_4783	182	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_179_jellyfish-9	Jel-28f4_179_jellyfish-9	Jel-28f4_179_jellyfish-9_4010	179	Jel-28f4_179_jellyfish-9_4783	179	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_176_jellyfish-6	Jel-28f4_176_jellyfish-6	Jel-28f4_176_jellyfish-6_4010	176	Jel-28f4_176_jellyfish-6_4783	176	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_172_jellyfish-5	Jel-28f4_172_jellyfish-5	Jel-28f4_172_jellyfish-5_4010	172	Jel-28f4_172_jellyfish-5_4783	172	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_8_jellyfish-29	Jelfd0e_8_jellyfish-29	Jelfd0e_8_jellyfish-29_4010	8	Jelfd0e_8_jellyfish-29_4783	8	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_211_jellyfish-16	Jel-28f4_211_jellyfish-7	Jel-28f4_211_jellyfish-16_4010	211	Jel-28f4_211_jellyfish-7_4783	211	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_55_jellyfish-6	Jel-28f4_55_jellyfish-6	Jel-28f4_55_jellyfish-6_4010	55	Jel-28f4_55_jellyfish-6_4783	55	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_282_jellyfish-30	Jel-28f4_282_jellyfish-3	Jel-28f4_282_jellyfish-30_4010	282	Jel-28f4_282_jellyfish-3_4783	282	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_211_jellyfish-16	Jel-28f4_211_jellyfish-79	Jel-28f4_211_jellyfish-16_4010	211	Jel-28f4_211_jellyfish-79_4783	211	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_146_jellyfish-6	Jel-28f4_146_jellyfish-6	Jel-28f4_146_jellyfish-6_4010	146	Jel-28f4_146_jellyfish-6_4783	146	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_211_jellyfish-79	Jel-28f4_211_jellyfish-16	Jel-28f4_211_jellyfish-79_4010	211	Jel-28f4_211_jellyfish-16_4783	211	0	jellyfish	jellyfish	83.0
+taxongroup	Fro-21e4_112_jellyfish-13	Fro-21e4_112_jellyfish-13	Fro-21e4_112_jellyfish-13_4010	112	Fro-21e4_112_jellyfish-13_4783	112	0	jellyfish	jellyfish	83.0
+taxongroup	Dug-bf37_221_jellyfish-13	Dug-bf37_221_jellyfish-13	Dug-bf37_221_jellyfish-13_4010	221	Dug-bf37_221_jellyfish-13_4783	221	0	jellyfish	jellyfish	83.0
+taxongroup	Pte-5908_110_jellyfishes-28	Pte-5908_110_jellyfishes-28	Pte-5908_110_jellyfishes-28_4010	110	Pte-5908_110_jellyfishes-28_4783	110	0	jellyfish	jellyfish	83.0
+taxongroup	Scy-682d_21_jellyfish-8	Scy-682d_21_jellyfish-8	Scy-682d_21_jellyfish-8_4010	21	Scy-682d_21_jellyfish-8_4783	21	0	jellyfish	jellyfish	83.0
+taxongroup	Ven-071d_48_jellyfish-10	Ven-071d_48_jellyfish-10	Ven-071d_48_jellyfish-10_4010	48	Ven-071d_48_jellyfish-10_4783	48	0	jellyfish	jellyfish	83.0
+taxongroup	Ulm-cc96_2_jellyfish-7	Ulm-cc96_2_jellyfish-7	Ulm-cc96_2_jellyfish-7_4010	2	Ulm-cc96_2_jellyfish-7_4783	2	0	jellyfish	jellyfish	83.0
+taxongroup	Ulm-cc96_2_jellyfish-18	Ulm-cc96_2_jellyfish-7	Ulm-cc96_2_jellyfish-18_4010	2	Ulm-cc96_2_jellyfish-7_4783	2	0	jellyfish	jellyfish	83.0
+taxongroup	Ulm-cc96_2_jellyfish-18	Ulm-cc96_2_jellyfish-18	Ulm-cc96_2_jellyfish-18_4010	2	Ulm-cc96_2_jellyfish-18_4783	2	0	jellyfish	jellyfish	83.0
+taxongroup	Tur-06de_196_jellyfish-22	Tur-06de_196_jellyfish-22	Tur-06de_196_jellyfish-22_4010	196	Tur-06de_196_jellyfish-22_4783	196	0	jellyfish	jellyfish	83.0
+taxongroup	Swa-27b4_375_jellyfish-11	Swa-27b4_375_jellyfish-11	Swa-27b4_375_jellyfish-11_4010	375	Swa-27b4_375_jellyfish-11_4783	375	0	jellyfish	jellyfish	83.0
+taxongroup	Sea-4a1d_314_jellyfish-18	Sea-4a1d_314_jellyfish-18	Sea-4a1d_314_jellyfish-18_4010	314	Sea-4a1d_314_jellyfish-18_4783	314	0	jellyfish	jellyfish	83.0
+taxongroup	Sem-46f8_2_jellyfish-14	Sem-46f8_2_jellyfish-14	Sem-46f8_2_jellyfish-14_4010	2	Sem-46f8_2_jellyfish-14_4783	2	0	jellyfish	jellyfish	83.0
+taxongroup	Sea-4a1d_178_jellyfish-8	Sea-4a1d_178_jellyfish-8	Sea-4a1d_178_jellyfish-8_4010	178	Sea-4a1d_178_jellyfish-8_4783	178	0	jellyfish	jellyfish	83.0
+taxongroup	Sir-1b7d_15_jellyfish-17	Sir-1b7d_15_jellyfish-17	Sir-1b7d_15_jellyfish-17_4010	15	Sir-1b7d_15_jellyfish-17_4783	15	0	jellyfish	jellyfish	83.0
+taxongroup	Sir-1b7d_111_jellyfish-31	Sir-1b7d_111_jellyfish-31	Sir-1b7d_111_jellyfish-31_4010	111	Sir-1b7d_111_jellyfish-31_4783	111	0	jellyfish	jellyfish	83.0
+taxongroup	Sem-46f8_27_jellyfishes-5	Sem-46f8_27_jellyfishes-5	Sem-46f8_27_jellyfishes-5_4010	27	Sem-46f8_27_jellyfishes-5_4783	27	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_207_jellyfish-17	Jel-28f4_207_jellyfish-17	Jel-28f4_207_jellyfish-17_4010	207	Jel-28f4_207_jellyfish-17_4783	207	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_203_jellyfish-3	Jel-28f4_203_jellyfish-66	Jel-28f4_203_jellyfish-3_4010	203	Jel-28f4_203_jellyfish-66_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_211_jellyfish-79	Jel-28f4_211_jellyfish-79	Jel-28f4_211_jellyfish-79_4010	211	Jel-28f4_211_jellyfish-79_4783	211	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_203_jellyfish-66	Jel-28f4_203_jellyfish-3	Jel-28f4_203_jellyfish-66_4010	203	Jel-28f4_203_jellyfish-3_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_134_jellyfish-8	Jel-28f4_134_jellyfish-8	Jel-28f4_134_jellyfish-8_4010	134	Jel-28f4_134_jellyfish-8_4783	134	0	jellyfish	jellyfish	83.0
+taxongroup	Bra-cd5f_185_brachiopod-5	Bra-cd5f_185_animals-11	Bra-cd5f_185_brachiopod-5_4728	185	Bra-cd5f_185_animals-11_3812	185	0	brachiopods	animals	83.0
+taxongroup	Scy-682d_2_jellyfish-18	Scy-682d_2_jellyfish-18	Scy-682d_2_jellyfish-18_4010	2	Scy-682d_2_jellyfish-18_4783	2	0	jellyfish	jellyfish	83.0
+taxongroup	Scy-682d_43_jellyfish-2	Scy-682d_43_jellyfish-2	Scy-682d_43_jellyfish-2_4010	43	Scy-682d_43_jellyfish-2_4783	43	0	jellyfish	jellyfish	83.0
+taxongroup	Scy-682d_44_jellyfish-3	Scy-682d_44_jellyfish-3	Scy-682d_44_jellyfish-3_4010	44	Scy-682d_44_jellyfish-3_4783	44	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_114_jellyfish-6	Jel-28f4_114_jellyfish-6	Jel-28f4_114_jellyfish-6_4010	114	Jel-28f4_114_jellyfish-6_4783	114	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_132_jellyfish-8	Jel-28f4_132_jellyfish-19	Jel-28f4_132_jellyfish-8_4010	132	Jel-28f4_132_jellyfish-19_4783	132	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_119_jellyfish-9	Jel-28f4_119_jellyfish-9	Jel-28f4_119_jellyfish-9_4010	119	Jel-28f4_119_jellyfish-9_4783	119	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_11_jellyfish-6	Jel-28f4_11_jellyfish-6	Jel-28f4_11_jellyfish-6_4010	11	Jel-28f4_11_jellyfish-6_4783	11	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_124_jellyfish-21	Jel-28f4_124_jellyfish-21	Jel-28f4_124_jellyfish-21_4010	124	Jel-28f4_124_jellyfish-21_4783	124	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_132_jellyfish-19	Jel-28f4_132_jellyfish-19	Jel-28f4_132_jellyfish-19_4010	132	Jel-28f4_132_jellyfish-19_4783	132	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_132_jellyfish-19	Jel-28f4_132_jellyfish-8	Jel-28f4_132_jellyfish-19_4010	132	Jel-28f4_132_jellyfish-8_4783	132	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_154_jellyfish-43	Jel-28f4_154_jellyfish-19	Jel-28f4_154_jellyfish-43_4010	154	Jel-28f4_154_jellyfish-19_4783	154	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_154_jellyfish-43	Jel-28f4_154_jellyfish-43	Jel-28f4_154_jellyfish-43_4010	154	Jel-28f4_154_jellyfish-43_4783	154	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_160_jellyfish-2	Jel-28f4_160_jellyfish-2	Jel-28f4_160_jellyfish-2_4010	160	Jel-28f4_160_jellyfish-2_4783	160	0	jellyfish	jellyfish	83.0
+taxongroup	Ven-071d_48_jellyfish-10	Ven-071d_48_jellyfish-16	Ven-071d_48_jellyfish-10_4010	48	Ven-071d_48_jellyfish-16_4783	48	0	jellyfish	jellyfish	83.0
+taxongroup	Ven-071d_48_jellyfish-16	Ven-071d_48_jellyfish-16	Ven-071d_48_jellyfish-16_4010	48	Ven-071d_48_jellyfish-16_4783	48	0	jellyfish	jellyfish	83.0
+taxongroup	Ven-071d_48_jellyfish-16	Ven-071d_48_jellyfish-10	Ven-071d_48_jellyfish-16_4010	48	Ven-071d_48_jellyfish-10_4783	48	0	jellyfish	jellyfish	83.0
+taxongroup	Scy-682d_7_jellyfish-11	Scy-682d_7_jellyfish-11	Scy-682d_7_jellyfish-11_4010	7	Scy-682d_7_jellyfish-11_4783	7	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_25_jellyfish-10	Jel-28f4_25_jellyfish-10	Jel-28f4_25_jellyfish-10_4010	25	Jel-28f4_25_jellyfish-10_4783	25	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_145_jellyfish-36	Jel-28f4_145_jellyfish-36	Jel-28f4_145_jellyfish-36_4010	145	Jel-28f4_145_jellyfish-36_4783	145	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_44_jellyfish-4	Jel-28f4_44_jellyfish-4	Jel-28f4_44_jellyfish-4_4010	44	Jel-28f4_44_jellyfish-4_4783	44	0	jellyfish	jellyfish	83.0
+taxongroup	Eur-b4b7_131_jellyfish-17	Eur-b4b7_131_jellyfish-17	Eur-b4b7_131_jellyfish-17_4010	131	Eur-b4b7_131_jellyfish-17_4783	131	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_203_jellyfish-45	Jel-28f4_203_jellyfish-45	Jel-28f4_203_jellyfish-45_4010	203	Jel-28f4_203_jellyfish-45_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_203_jellyfish-45	Jel-28f4_203_jellyfish-8	Jel-28f4_203_jellyfish-45_4010	203	Jel-28f4_203_jellyfish-8_4783	203	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_209_jellyfish-54	Jel-28f4_209_jellyfish-54	Jel-28f4_209_jellyfish-54_4010	209	Jel-28f4_209_jellyfish-54_4783	209	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_113_jellyfish-39	Jel-28f4_113_jellyfish-14	Jel-28f4_113_jellyfish-39_4010	113	Jel-28f4_113_jellyfish-14_4783	113	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_275_jellyfish-5	Jel-28f4_275_jellyfish-5	Jel-28f4_275_jellyfish-5_4010	275	Jel-28f4_275_jellyfish-5_4783	275	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_140_jellyfish-9	Jel-28f4_140_jellyfish-9	Jel-28f4_140_jellyfish-9_4010	140	Jel-28f4_140_jellyfish-9_4783	140	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_142_jellyfish-2	Jel-28f4_142_jellyfish-2	Jel-28f4_142_jellyfish-2_4010	142	Jel-28f4_142_jellyfish-2_4783	142	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_143_jellyfish-2	Jel-28f4_143_jellyfish-2	Jel-28f4_143_jellyfish-2_4010	143	Jel-28f4_143_jellyfish-2_4783	143	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_264_jellyfish-32	Jel-28f4_264_jellyfish-32	Jel-28f4_264_jellyfish-32_4010	264	Jel-28f4_264_jellyfish-32_4783	264	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_259_jellyfish-14	Jel-28f4_259_jellyfish-14	Jel-28f4_259_jellyfish-14_4010	259	Jel-28f4_259_jellyfish-14_4783	259	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_209_jellyfish-54	Jel-28f4_209_jellyfish-7	Jel-28f4_209_jellyfish-54_4010	209	Jel-28f4_209_jellyfish-7_4783	209	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_211_jellyfish-7	Jel-28f4_211_jellyfish-79	Jel-28f4_211_jellyfish-7_4010	211	Jel-28f4_211_jellyfish-79_4783	211	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_211_jellyfish-7	Jel-28f4_211_jellyfish-7	Jel-28f4_211_jellyfish-7_4010	211	Jel-28f4_211_jellyfish-7_4783	211	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_211_jellyfish-79	Jel-28f4_211_jellyfish-7	Jel-28f4_211_jellyfish-79_4010	211	Jel-28f4_211_jellyfish-7_4783	211	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_136_jellyfish-2	Jel-28f4_136_jellyfish-2	Jel-28f4_136_jellyfish-2_4010	136	Jel-28f4_136_jellyfish-2_4783	136	0	jellyfish	jellyfish	83.0
+taxongroup	Ven-071d_24_jellyfish-17	Ven-071d_24_jellyfish-17	Ven-071d_24_jellyfish-17_4010	24	Ven-071d_24_jellyfish-17_4783	24	0	jellyfish	jellyfish	83.0
+taxongroup	Ulm-cc96_2_jellyfish-7	Ulm-cc96_2_jellyfish-18	Ulm-cc96_2_jellyfish-7_4010	2	Ulm-cc96_2_jellyfish-18_4783	2	0	jellyfish	jellyfish	83.0
+taxongroup	Tig-9404_72_jellyfish-18	Tig-9404_72_jellyfish-18	Tig-9404_72_jellyfish-18_4010	72	Tig-9404_72_jellyfish-18_4783	72	0	jellyfish	jellyfish	83.0
+taxongroup	Wha-290e_133_jellyfish-8	Wha-290e_133_jellyfish-8	Wha-290e_133_jellyfish-8_4010	133	Wha-290e_133_jellyfish-8_4783	133	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_115_jellyfish-28	Jel-28f4_115_jellyfish-28	Jel-28f4_115_jellyfish-28_4010	115	Jel-28f4_115_jellyfish-28_4783	115	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_113_jellyfish-39	Jel-28f4_113_jellyfish-39	Jel-28f4_113_jellyfish-39_4010	113	Jel-28f4_113_jellyfish-39_4783	113	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_211_jellyfish-7	Jel-28f4_211_jellyfish-16	Jel-28f4_211_jellyfish-7_4010	211	Jel-28f4_211_jellyfish-16_4783	211	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_278_jellyfish-9	Jel-28f4_278_jellyfish-9	Jel-28f4_278_jellyfish-9_4010	278	Jel-28f4_278_jellyfish-9_4783	278	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_209_jellyfish-54	Jel-28f4_209_jellyfish-39	Jel-28f4_209_jellyfish-54_4010	209	Jel-28f4_209_jellyfish-39_4783	209	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_209_jellyfish-39	Jel-28f4_209_jellyfish-7	Jel-28f4_209_jellyfish-39_4010	209	Jel-28f4_209_jellyfish-7_4783	209	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_209_jellyfish-39	Jel-28f4_209_jellyfish-54	Jel-28f4_209_jellyfish-39_4010	209	Jel-28f4_209_jellyfish-54_4783	209	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_209_jellyfish-39	Jel-28f4_209_jellyfish-39	Jel-28f4_209_jellyfish-39_4010	209	Jel-28f4_209_jellyfish-39_4783	209	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_207_jellyfish-5	Jel-28f4_207_jellyfish-5	Jel-28f4_207_jellyfish-5_4010	207	Jel-28f4_207_jellyfish-5_4783	207	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_207_jellyfish-5	Jel-28f4_207_jellyfish-17	Jel-28f4_207_jellyfish-5_4010	207	Jel-28f4_207_jellyfish-17_4783	207	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_282_jellyfish-3	Jel-28f4_282_jellyfish-3	Jel-28f4_282_jellyfish-3_4010	282	Jel-28f4_282_jellyfish-3_4783	282	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_59_jellyfish-2	Jel-28f4_59_jellyfish-10	Jel-28f4_59_jellyfish-2_4010	59	Jel-28f4_59_jellyfish-10_4783	59	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_44_jellyfish-4	Jel-28f4_44_jellyfish-37	Jel-28f4_44_jellyfish-4_4010	44	Jel-28f4_44_jellyfish-37_4783	44	0	jellyfish	jellyfish	83.0
+taxongroup	Ech-1003_2_lilies-38	Ech-1003_2_animal-8	Ech-1003_2_lilies-38_4888	2	Ech-1003_2_animal-8_44	2	0	sea lilies	Animals	83.0
+taxongroup	Aur-4fbd_13_jellyfish-6	Aur-4fbd_13_jellyfish-6	Aur-4fbd_13_jellyfish-6_4643	13	Aur-4fbd_13_jellyfish-6_4010	13	0	moon jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_73_jellyfish-8	Aur-441a_73_jellyfish-8	Aur-441a_73_jellyfish-8_4643	73	Aur-441a_73_jellyfish-8_4010	73	0	moon jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_16_jellyfish-8	Aur-441a_16_jellyfish-8	Aur-441a_16_jellyfish-8_4643	16	Aur-441a_16_jellyfish-8_4010	16	0	moon jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_22_jellyfish-11	Aur-441a_22_jellyfish-11	Aur-441a_22_jellyfish-11_4643	22	Aur-441a_22_jellyfish-11_4010	22	0	moon jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_23_jellyfish-29	Aur-441a_23_jellyfish-29	Aur-441a_23_jellyfish-29_4643	23	Aur-441a_23_jellyfish-29_4010	23	0	moon jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_25_jellyfish-9	Aur-441a_25_jellyfish-9	Aur-441a_25_jellyfish-9_4643	25	Aur-441a_25_jellyfish-9_4010	25	0	moon jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_26_jellyfish-25	Aur-441a_26_jellyfish-25	Aur-441a_26_jellyfish-25_4643	26	Aur-441a_26_jellyfish-25_4010	26	0	moon jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_302_Jellyfish-1	Cni-c1f9_302_Jellyfish-1	Cni-c1f9_302_Jellyfish-1_399	302	Cni-c1f9_302_Jellyfish-1_1892	302	0	Jellyfish	Jellyfish	83.0
+taxongroup	Can-1080_2_worms-57	Can-1080_2_worms-14	Can-1080_2_worms-57_1834	2	Can-1080_2_worms-14_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Can-1080_2_worms-57	Can-1080_2_worms-45	Can-1080_2_worms-57_1834	2	Can-1080_2_worms-45_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Can-1080_2_worms-57	Can-1080_2_worms-21	Can-1080_2_worms-57_1834	2	Can-1080_2_worms-21_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Aur-441a_21_jellyfish-10	Aur-441a_21_jellyfish-10	Aur-441a_21_jellyfish-10_4643	21	Aur-441a_21_jellyfish-10_4010	21	0	moon jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_20_jellyfish-23	Aur-441a_20_jellyfish-23	Aur-441a_20_jellyfish-23_4643	20	Aur-441a_20_jellyfish-23_4010	20	0	moon jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_321_jellyfish-2	Jel-28f4_321_jellyfish-2	Jel-28f4_321_jellyfish-2_4010	321	Jel-28f4_321_jellyfish-2_4783	321	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_37_jellyfish-3	Jel-28f4_37_jellyfish-3	Jel-28f4_37_jellyfish-3_4010	37	Jel-28f4_37_jellyfish-3_4783	37	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_343_jellyfish-8	Jel-28f4_343_jellyfish-8	Jel-28f4_343_jellyfish-8_4010	343	Jel-28f4_343_jellyfish-8_4783	343	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_348_jellyfish-13	Jel-28f4_348_jellyfish-13	Jel-28f4_348_jellyfish-13_4010	348	Jel-28f4_348_jellyfish-13_4783	348	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_351_jellyfish-22	Jel-28f4_351_jellyfish-22	Jel-28f4_351_jellyfish-22_4010	351	Jel-28f4_351_jellyfish-22_4783	351	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_356_jellyfish-5	Jel-28f4_356_jellyfish-5	Jel-28f4_356_jellyfish-5_4010	356	Jel-28f4_356_jellyfish-5_4783	356	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_338_jellyfish-12	Jel-28f4_338_jellyfish-12	Jel-28f4_338_jellyfish-12_4010	338	Jel-28f4_338_jellyfish-12_4783	338	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_349_jellyfish-2	Jel-28f4_349_jellyfish-2	Jel-28f4_349_jellyfish-2_4010	349	Jel-28f4_349_jellyfish-2_4783	349	0	jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_17_jellyfish-17	Aur-441a_17_jellyfish-17	Aur-441a_17_jellyfish-17_4643	17	Aur-441a_17_jellyfish-17_4010	17	0	moon jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_347_jellyfish-12	Jel-28f4_347_jellyfish-12	Jel-28f4_347_jellyfish-12_4010	347	Jel-28f4_347_jellyfish-12_4783	347	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_345_jellyfish-20	Jel-28f4_345_jellyfish-20	Jel-28f4_345_jellyfish-20_4010	345	Jel-28f4_345_jellyfish-20_4783	345	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_355_jellyfish-3	Jel-28f4_355_jellyfish-3	Jel-28f4_355_jellyfish-3_4010	355	Jel-28f4_355_jellyfish-3_4783	355	0	jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_73_jellyfish-8	Aur-441a_73_Aurelia-9	Aur-441a_73_jellyfish-8_4643	73	Aur-441a_73_Aurelia-9_914	73	0	moon jellyfish	Aurelia	83.0
+taxongroup	Ech-1003_2_lilies-42	Ech-1003_2_animal-8	Ech-1003_2_lilies-42_4888	2	Ech-1003_2_animal-8_44	2	0	sea lilies	Animals	83.0
+taxongroup	Jel-28f4_44_jellyfish-37	Jel-28f4_44_jellyfish-4	Jel-28f4_44_jellyfish-37_4010	44	Jel-28f4_44_jellyfish-4_4783	44	0	jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_2_jellyfish-11	Aur-441a_2_jelly-14	Aur-441a_2_jellyfish-11_1598	2	Aur-441a_2_jelly-14_4011	2	0	Common jellyfish	jellies	83.0
+taxongroup	Aur-441a_2_jellyfish-8	Aur-441a_2_jelly-14	Aur-441a_2_jellyfish-8_1598	2	Aur-441a_2_jelly-14_4011	2	0	Common jellyfish	jellies	83.0
+taxongroup	Cho-ea02_103_Cnidarians-11	Cho-ea02_103_animals-4	Cho-ea02_103_Cnidarians-11_1890	103	Cho-ea02_103_animals-4_3812	103	0	Cnidarians	animals	83.0
+taxongroup	Cni-c1f9_33_Cnidarians-1	Cni-c1f9_33_animals-6	Cni-c1f9_33_Cnidarians-1_1890	33	Cni-c1f9_33_animals-6_3812	33	0	Cnidarians	animals	83.0
+taxongroup	Cni-c1f9_33_Cnidarians-1	Cni-c1f9_33_animals-35	Cni-c1f9_33_Cnidarians-1_1890	33	Cni-c1f9_33_animals-35_3812	33	0	Cnidarians	animals	83.0
+taxongroup	Cni-c1f9_2_Cnidaria-1	Cni-c1f9_2_Animalia-9	Cni-c1f9_2_Cnidaria-1_1889	2	Cni-c1f9_2_Animalia-9_45	2	0	Cnidaria	Animalia	83.0
+taxongroup	Ech-1003_145_urchins-2	Ech-1003_145_lilies-15	Ech-1003_145_urchins-2_4027	145	Ech-1003_145_lilies-15_4888	145	0	sea urchins	sea lilies	83.0
+taxongroup	Ech-1003_2_urchins-24	Ech-1003_2_lilies-42	Ech-1003_2_urchins-24_4027	2	Ech-1003_2_lilies-42_4888	2	0	sea urchins	sea lilies	83.0
+taxongroup	Ech-1003_2_urchins-24	Ech-1003_2_lilies-38	Ech-1003_2_urchins-24_4027	2	Ech-1003_2_lilies-38_4888	2	0	sea urchins	sea lilies	83.0
+taxongroup	Ech-1003_2_starfish-18	Ech-1003_2_lilies-38	Ech-1003_2_starfish-18_4025	2	Ech-1003_2_lilies-38_4888	2	0	starfish	sea lilies	83.0
+taxongroup	Ech-1003_2_starfish-18	Ech-1003_2_lilies-42	Ech-1003_2_starfish-18_4025	2	Ech-1003_2_lilies-42_4888	2	0	starfish	sea lilies	83.0
+taxongroup	Can-1080_2_worms-21	Can-1080_2_worms-57	Can-1080_2_worms-21_1834	2	Can-1080_2_worms-57_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Can-1080_2_worms-57	Can-1080_2_worms-57	Can-1080_2_worms-57_1834	2	Can-1080_2_worms-57_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Can-1080_2_worms-14	Can-1080_2_worms-21	Can-1080_2_worms-14_1834	2	Can-1080_2_worms-21_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Can-1080_2_worms-14	Can-1080_2_worms-14	Can-1080_2_worms-14_1834	2	Can-1080_2_worms-14_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Can-1080_2_worms-14	Can-1080_2_worms-45	Can-1080_2_worms-14_1834	2	Can-1080_2_worms-45_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Can-1080_2_worms-14	Can-1080_2_worms-57	Can-1080_2_worms-14_1834	2	Can-1080_2_worms-57_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Can-1080_2_worms-45	Can-1080_2_worms-21	Can-1080_2_worms-45_1834	2	Can-1080_2_worms-21_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Can-1080_2_worms-21	Can-1080_2_worms-45	Can-1080_2_worms-21_1834	2	Can-1080_2_worms-45_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Can-1080_2_worms-21	Can-1080_2_worms-21	Can-1080_2_worms-21_1834	2	Can-1080_2_worms-21_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Can-1080_2_worms-45	Can-1080_2_worms-45	Can-1080_2_worms-45_1834	2	Can-1080_2_worms-45_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Can-1080_2_worms-21	Can-1080_2_worms-14	Can-1080_2_worms-21_1834	2	Can-1080_2_worms-14_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Can-1080_2_worms-45	Can-1080_2_worms-57	Can-1080_2_worms-45_1834	2	Can-1080_2_worms-57_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Can-1080_2_worms-45	Can-1080_2_worms-14	Can-1080_2_worms-45_1834	2	Can-1080_2_worms-14_4018	2	0	Fan-head worms	polychaete worms	83.0
+taxongroup	Cro60a5_9_starfish-12	Cro60a5_9_starfish-12	Cro60a5_9_starfish-12_2007	9	Cro60a5_9_starfish-12_4025	9	0	Crown-of-thorns starfish	starfish	83.0
+taxongroup	Jel-28f4_362_jellyfish-14	Jel-28f4_362_jellyfish-14	Jel-28f4_362_jellyfish-14_4010	362	Jel-28f4_362_jellyfish-14_4783	362	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_104_jellyfish-5	Jel-28f4_104_jellyfish-5	Jel-28f4_104_jellyfish-5_4010	104	Jel-28f4_104_jellyfish-5_4783	104	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_358_jellyfish-5	Jel-28f4_358_jellyfish-5	Jel-28f4_358_jellyfish-5_4010	358	Jel-28f4_358_jellyfish-5_4783	358	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_403_jellyfish-15	Jel-28f4_403_jellyfish-15	Jel-28f4_403_jellyfish-15_4010	403	Jel-28f4_403_jellyfish-15_4783	403	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_69_jellyfish-2	Jel-28f4_69_jellyfish-2	Jel-28f4_69_jellyfish-2_4010	69	Jel-28f4_69_jellyfish-2_4783	69	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_70_jellyfish-31	Jel-28f4_70_jellyfish-31	Jel-28f4_70_jellyfish-31_4010	70	Jel-28f4_70_jellyfish-31_4783	70	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_91_jellyfish-35	Jel-28f4_91_jellyfish-41	Jel-28f4_91_jellyfish-35_4010	91	Jel-28f4_91_jellyfish-41_4783	91	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_91_jellyfish-35	Jel-28f4_91_jellyfish-35	Jel-28f4_91_jellyfish-35_4010	91	Jel-28f4_91_jellyfish-35_4783	91	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_87_jellyfish-3	Jel-28f4_87_jellyfish-3	Jel-28f4_87_jellyfish-3_4010	87	Jel-28f4_87_jellyfish-3_4783	87	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_282_jellyfish-30	Jel-28f4_282_jellyfish-30	Jel-28f4_282_jellyfish-30_4010	282	Jel-28f4_282_jellyfish-30_4783	282	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_73_jellyfish-7	Jel-28f4_73_jellyfish-7	Jel-28f4_73_jellyfish-7_4010	73	Jel-28f4_73_jellyfish-7_4783	73	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_94_jellyfish-2	Jel-28f4_94_jellyfish-2	Jel-28f4_94_jellyfish-2_4010	94	Jel-28f4_94_jellyfish-2_4783	94	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_95_jellyfish-2	Jel-28f4_95_jellyfish-2	Jel-28f4_95_jellyfish-2_4010	95	Jel-28f4_95_jellyfish-2_4783	95	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_96_jellyfish-16	Jel-28f4_96_jellyfish-16	Jel-28f4_96_jellyfish-16_4010	96	Jel-28f4_96_jellyfish-16_4783	96	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_61_jellyfish-36	Jel-28f4_61_jellyfish-36	Jel-28f4_61_jellyfish-36_4010	61	Jel-28f4_61_jellyfish-36_4783	61	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_316_jellyfish-9	Jel-28f4_316_jellyfish-9	Jel-28f4_316_jellyfish-9_4010	316	Jel-28f4_316_jellyfish-9_4783	316	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_59_jellyfish-10	Jel-28f4_59_jellyfish-2	Jel-28f4_59_jellyfish-10_4010	59	Jel-28f4_59_jellyfish-2_4783	59	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_10_jellyfish-6	Jel-28f4_10_jellyfish-6	Jel-28f4_10_jellyfish-6_4010	10	Jel-28f4_10_jellyfish-6_4783	10	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_30_jellyfish-10	Jelfd0e_30_jellyfish-10	Jelfd0e_30_jellyfish-10_4010	30	Jelfd0e_30_jellyfish-10_4783	30	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_62_jellyfish-4	Jel-28f4_62_jellyfish-4	Jel-28f4_62_jellyfish-4_4010	62	Jel-28f4_62_jellyfish-4_4783	62	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_59_jellyfish-2	Jel-28f4_59_jellyfish-2	Jel-28f4_59_jellyfish-2_4010	59	Jel-28f4_59_jellyfish-2_4783	59	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_51_jellyfish-11	Jel-28f4_51_jellyfish-17	Jel-28f4_51_jellyfish-11_4010	51	Jel-28f4_51_jellyfish-17_4783	51	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_327_jellyfish-5	Jel-28f4_327_jellyfish-5	Jel-28f4_327_jellyfish-5_4010	327	Jel-28f4_327_jellyfish-5_4783	327	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_44_jellyfish-37	Jel-28f4_44_jellyfish-37	Jel-28f4_44_jellyfish-37_4010	44	Jel-28f4_44_jellyfish-37_4783	44	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_305_jellyfish-4	Jel-28f4_305_jellyfish-4	Jel-28f4_305_jellyfish-4_4010	305	Jel-28f4_305_jellyfish-4_4783	305	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_296_jellyfish-20	Jel-28f4_296_jellyfish-20	Jel-28f4_296_jellyfish-20_4010	296	Jel-28f4_296_jellyfish-20_4783	296	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_288_jellyfish-24	Jel-28f4_288_jellyfish-24	Jel-28f4_288_jellyfish-24_4010	288	Jel-28f4_288_jellyfish-24_4783	288	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_289_jellyfish-19	Jel-28f4_289_jellyfish-19	Jel-28f4_289_jellyfish-19_4010	289	Jel-28f4_289_jellyfish-19_4783	289	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_303_jellyfish-3	Jel-28f4_303_jellyfish-3	Jel-28f4_303_jellyfish-3_4010	303	Jel-28f4_303_jellyfish-3_4783	303	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_421_jellyfish-7	Jel-28f4_421_jellyfish-7	Jel-28f4_421_jellyfish-7_4010	421	Jel-28f4_421_jellyfish-7_4783	421	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_322_jellyfish-10	Jel-28f4_322_jellyfish-10	Jel-28f4_322_jellyfish-10_4010	322	Jel-28f4_322_jellyfish-10_4783	322	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_281_jellyfish-42	Jel-28f4_281_jellyfish-11	Jel-28f4_281_jellyfish-42_4010	281	Jel-28f4_281_jellyfish-11_4783	281	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_58_jellyfish-4	Jel-28f4_58_jellyfish-4	Jel-28f4_58_jellyfish-4_4010	58	Jel-28f4_58_jellyfish-4_4783	58	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_59_jellyfish-10	Jel-28f4_59_jellyfish-10	Jel-28f4_59_jellyfish-10_4010	59	Jel-28f4_59_jellyfish-10_4783	59	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_91_jellyfish-41	Jel-28f4_91_jellyfish-41	Jel-28f4_91_jellyfish-41_4010	91	Jel-28f4_91_jellyfish-41_4783	91	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_91_jellyfish-41	Jel-28f4_91_jellyfish-35	Jel-28f4_91_jellyfish-41_4010	91	Jel-28f4_91_jellyfish-35_4783	91	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_144_jellyfishes-12	Jel-28f4_144_jellyfishes-12	Jel-28f4_144_jellyfishes-12_4010	144	Jel-28f4_144_jellyfishes-12_4783	144	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_34_jellyfish-5	Jelfd0e_34_jellyfish-5	Jelfd0e_34_jellyfish-5_4010	34	Jelfd0e_34_jellyfish-5_4783	34	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_35_jellyfish-2	Jelfd0e_35_jellyfish-2	Jelfd0e_35_jellyfish-2_4010	35	Jelfd0e_35_jellyfish-2_4783	35	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_40_jellyfish-10	Jelfd0e_40_jellyfish-10	Jelfd0e_40_jellyfish-10_4010	40	Jelfd0e_40_jellyfish-10_4783	40	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_38_jellyfish-11	Jel-28f4_38_jellyfish-11	Jel-28f4_38_jellyfish-11_4010	38	Jel-28f4_38_jellyfish-11_4783	38	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_8_jellyfish-2	Jelfd0e_8_jellyfish-2	Jelfd0e_8_jellyfish-2_4010	8	Jelfd0e_8_jellyfish-2_4783	8	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_9_jellyfish-2	Jelfd0e_9_jellyfish-2	Jelfd0e_9_jellyfish-2_4010	9	Jelfd0e_9_jellyfish-2_4783	9	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_14_jellyfish-4	Jelfd0e_14_jellyfish-4	Jelfd0e_14_jellyfish-4_4010	14	Jelfd0e_14_jellyfish-4_4783	14	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_31_jellyfish-4	Jelfd0e_31_jellyfish-4	Jelfd0e_31_jellyfish-4_4010	31	Jelfd0e_31_jellyfish-4_4783	31	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_39_jellyfish-5	Jel-28f4_39_jellyfish-5	Jel-28f4_39_jellyfish-5_4010	39	Jel-28f4_39_jellyfish-5_4783	39	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_390_jellyfish-13	Jel-28f4_390_jellyfish-13	Jel-28f4_390_jellyfish-13_4010	390	Jel-28f4_390_jellyfish-13_4783	390	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_387_jellyfish-30	Jel-28f4_387_jellyfish-30	Jel-28f4_387_jellyfish-30_4010	387	Jel-28f4_387_jellyfish-30_4783	387	0	jellyfish	jellyfish	83.0
+taxongroup	Pol-28e5_106_jellyfish-9	Pol-28e5_106_jellyfish-9	Pol-28e5_106_jellyfish-9_4010	106	Pol-28e5_106_jellyfish-9_4783	106	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_386_jellyfish-4	Jel-28f4_386_jellyfish-4	Jel-28f4_386_jellyfish-4_4010	386	Jel-28f4_386_jellyfish-4_4783	386	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_394_jellyfish-13	Jel-28f4_394_jellyfish-13	Jel-28f4_394_jellyfish-13_4010	394	Jel-28f4_394_jellyfish-13_4783	394	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_399_jellyfish-8	Jel-28f4_399_jellyfish-8	Jel-28f4_399_jellyfish-8_4010	399	Jel-28f4_399_jellyfish-8_4783	399	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_400_jellyfish-19	Jel-28f4_400_jellyfish-19	Jel-28f4_400_jellyfish-19_4010	400	Jel-28f4_400_jellyfish-19_4783	400	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_350_jellyfish-7	Jel-28f4_350_jellyfish-7	Jel-28f4_350_jellyfish-7_4010	350	Jel-28f4_350_jellyfish-7_4783	350	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_382_jellyfish-5	Jel-28f4_382_jellyfish-5	Jel-28f4_382_jellyfish-5_4010	382	Jel-28f4_382_jellyfish-5_4783	382	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_9_jellyfish-11	Jelfd0e_9_jellyfish-11	Jelfd0e_9_jellyfish-11_4010	9	Jelfd0e_9_jellyfish-11_4783	9	0	jellyfish	jellyfish	83.0
+taxongroup	Pel-cab2_52_jellyfish-11	Pel-cab2_52_jellyfish-11	Pel-cab2_52_jellyfish-11_4010	52	Pel-cab2_52_jellyfish-11_4783	52	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_18_jellyfish-5	Jelfd0e_18_jellyfish-5	Jelfd0e_18_jellyfish-5_4010	18	Jelfd0e_18_jellyfish-5_4783	18	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_8_jellyfish-29	Jelfd0e_8_jellyfish-2	Jelfd0e_8_jellyfish-29_4010	8	Jelfd0e_8_jellyfish-2_4783	8	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_43_jellyfish-4	Jelfd0e_43_jellyfish-4	Jelfd0e_43_jellyfish-4_4010	43	Jelfd0e_43_jellyfish-4_4783	43	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_5_jellyfish-6	Jelfd0e_5_jellyfish-6	Jelfd0e_5_jellyfish-6_4010	5	Jelfd0e_5_jellyfish-6_4783	5	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_6_jellyfish-7	Jelfd0e_6_jellyfish-7	Jelfd0e_6_jellyfish-7_4010	6	Jelfd0e_6_jellyfish-7_4783	6	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_29_jellyfish-6	Jelfd0e_29_jellyfish-6	Jelfd0e_29_jellyfish-6_4010	29	Jelfd0e_29_jellyfish-6_4783	29	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_42_jellyfish-11	Jelfd0e_42_jellyfish-11	Jelfd0e_42_jellyfish-11_4010	42	Jelfd0e_42_jellyfish-11_4783	42	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_9_jellyfish-2	Jelfd0e_9_jellyfish-11	Jelfd0e_9_jellyfish-2_4010	9	Jelfd0e_9_jellyfish-11_4783	9	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_9_jellyfish-11	Jelfd0e_9_jellyfish-2	Jelfd0e_9_jellyfish-11_4010	9	Jelfd0e_9_jellyfish-2_4783	9	0	jellyfish	jellyfish	83.0
+taxongroup	Pel-cab2_25_jellyfish-26	Pel-cab2_25_jellyfish-26	Pel-cab2_25_jellyfish-26_4010	25	Pel-cab2_25_jellyfish-26_4783	25	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_24_jellyfish-4	Jelfd0e_24_jellyfish-4	Jelfd0e_24_jellyfish-4_4010	24	Jelfd0e_24_jellyfish-4_4783	24	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_13_jellyfish-7	Jelfd0e_13_jellyfish-7	Jelfd0e_13_jellyfish-7_4010	13	Jelfd0e_13_jellyfish-7_4783	13	0	jellyfish	jellyfish	83.0
+taxongroup	Jelfd0e_8_jellyfish-2	Jelfd0e_8_jellyfish-29	Jelfd0e_8_jellyfish-2_4010	8	Jelfd0e_8_jellyfish-29_4783	8	0	jellyfish	jellyfish	83.0
+taxongroup	Mag-50cb_70_jellyfish-10	Mag-50cb_70_jellyfish-10	Mag-50cb_70_jellyfish-10_4010	70	Mag-50cb_70_jellyfish-10_4783	70	0	jellyfish	jellyfish	83.0
+taxongroup	Nor-182d_43_jellyfish-14	Nor-182d_43_jellyfish-14	Nor-182d_43_jellyfish-14_4010	43	Nor-182d_43_jellyfish-14_4783	43	0	jellyfish	jellyfish	83.0
+taxongroup	Oli-4839_134_jellyfish-5	Oli-4839_134_jellyfish-5	Oli-4839_134_jellyfish-5_4010	134	Oli-4839_134_jellyfish-5_4783	134	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_134_jellyfish-26	Jel-28f4_134_jellyfish-26	Jel-28f4_134_jellyfish-26_4010	134	Jel-28f4_134_jellyfish-26_4783	134	0	jellyfish	jellyfish	83.0
+taxongroup	Scy-682d_18_jellyfish-4	Scy-682d_18_jellyfish-4	Scy-682d_18_jellyfish-4_4010	18	Scy-682d_18_jellyfish-4_4783	18	0	jellyfish	jellyfish	83.0
+taxongroup	Aur-4fbd_15_jellyfish-5	Aur-4fbd_15_jellyfish-5	Aur-4fbd_15_jellyfish-5_4010	15	Aur-4fbd_15_jellyfish-5_4783	15	0	jellyfish	jellyfish	83.0
+taxongroup	Art-1308_228_annelids-32	Art-1308_228_animals-14	Art-1308_228_annelids-32_1833	228	Art-1308_228_animals-14_3812	228	0	annelids	animals	83.0
+taxongroup	Ase-acb4_57_worms-10	Ase-acb4_57_Animals-1	Ase-acb4_57_worms-10_4605	57	Ase-acb4_57_Animals-1_44	57	0	annelid worms	Animals	83.0
+taxongroup	Kag-2289_76_worms-15	Kag-2289_76_animals-12	Kag-2289_76_worms-15_4605	76	Kag-2289_76_animals-12_44	76	0	annelid worms	Animals	83.0
+taxongroup	Jel-28f4_51_Scyphozoa-8	Jel-28f4_51_jellyfish-11	Jel-28f4_51_Scyphozoa-8_398	51	Jel-28f4_51_jellyfish-11_4783	51	0	Scyphozoa	jellyfish	83.0
+taxongroup	Jel-28f4_70_Scyphozoa-46	Jel-28f4_70_jellyfish-31	Jel-28f4_70_Scyphozoa-46_398	70	Jel-28f4_70_jellyfish-31_4783	70	0	Scyphozoa	jellyfish	83.0
+taxongroup	Jel-28f4_51_Scyphozoa-8	Jel-28f4_51_jellyfish-23	Jel-28f4_51_Scyphozoa-8_398	51	Jel-28f4_51_jellyfish-23_4783	51	0	Scyphozoa	jellyfish	83.0
+taxongroup	Jel-28f4_51_Scyphozoa-8	Jel-28f4_51_jellyfish-17	Jel-28f4_51_Scyphozoa-8_398	51	Jel-28f4_51_jellyfish-17_4783	51	0	Scyphozoa	jellyfish	83.0
+taxongroup	Jel-28f4_55_Scyphozoa-1	Jel-28f4_55_jellyfish-6	Jel-28f4_55_Scyphozoa-1_398	55	Jel-28f4_55_jellyfish-6_4783	55	0	Scyphozoa	jellyfish	83.0
+taxongroup	Sem-46f8_27_Scyphozoa-9	Sem-46f8_27_jellyfishes-5	Sem-46f8_27_Scyphozoa-9_398	27	Sem-46f8_27_jellyfishes-5_4783	27	0	Scyphozoa	jellyfish	83.0
+taxongroup	Scy-682d_7_Scyphozoa-20	Scy-682d_7_jellyfish-11	Scy-682d_7_Scyphozoa-20_398	7	Scy-682d_7_jellyfish-11_4783	7	0	Scyphozoa	jellyfish	83.0
+taxongroup	Scy-682d_2_Scyphozoa-2	Scy-682d_2_jellyfish-18	Scy-682d_2_Scyphozoa-2_398	2	Scy-682d_2_jellyfish-18_4783	2	0	Scyphozoa	jellyfish	83.0
+taxongroup	Aur-4fbd_2_Scyphozoa-19	Aur-4fbd_2_jellyfish-6	Aur-4fbd_2_Scyphozoa-19_398	2	Aur-4fbd_2_jellyfish-6_4783	2	0	Scyphozoa	jellyfish	83.0
+taxongroup	Cni-c1f9_231_Scyphozoa-81	Cni-c1f9_231_jellyfishes-89	Cni-c1f9_231_Scyphozoa-81_398	231	Cni-c1f9_231_jellyfishes-89_4783	231	0	Scyphozoa	jellyfish	83.0
+taxongroup	Cni-c1f9_231_Scyphozoa-81	Cni-c1f9_231_jellyfishes-99	Cni-c1f9_231_Scyphozoa-81_398	231	Cni-c1f9_231_jellyfishes-99_4783	231	0	Scyphozoa	jellyfish	83.0
+taxongroup	Cni-c1f9_231_Scyphozoa-81	Cni-c1f9_231_jellyfishes-57	Cni-c1f9_231_Scyphozoa-81_398	231	Cni-c1f9_231_jellyfishes-57_4783	231	0	Scyphozoa	jellyfish	83.0
+taxongroup	Cni-c1f9_225_Scyphozoa-21	Cni-c1f9_225_cnidarians-5	Cni-c1f9_225_Scyphozoa-21_398	225	Cni-c1f9_225_cnidarians-5_4782	225	0	Scyphozoa	cnidarians	83.0
+taxongroup	Cni-c1f9_224_Scyphozoa-19	Cni-c1f9_224_cnidarians-33	Cni-c1f9_224_Scyphozoa-19_398	224	Cni-c1f9_224_cnidarians-33_4782	224	0	Scyphozoa	cnidarians	83.0
+taxongroup	Ani-161e_207_annelids-45	Ani-161e_207_animals-16	Ani-161e_207_annelids-45_1833	207	Ani-161e_207_animals-16_44	207	0	annelids	Animals	83.0
+taxongroup	Ins-960c_94_annelids-37	Ins-960c_94_animals-12	Ins-960c_94_annelids-37_1833	94	Ins-960c_94_animals-12_44	94	0	annelids	Animals	83.0
+taxongroup	Ani-161e_194_annelids-26	Ani-161e_194_animal-8	Ani-161e_194_annelids-26_1833	194	Ani-161e_194_animal-8_3812	194	0	annelids	animals	83.0
+taxongroup	Ani-161e_207_annelids-45	Ani-161e_207_animals-41	Ani-161e_207_annelids-45_1833	207	Ani-161e_207_animals-41_3812	207	0	annelids	animals	83.0
+taxongroup	Anna3e0_2_annelids-5	Anna3e0_2_worms-2	Anna3e0_2_annelids-5_1833	2	Anna3e0_2_worms-2_1512	2	0	annelids	Segmented worms	83.0
+taxongroup	Anna3e0_2_annelids-5	Anna3e0_2_worm-13	Anna3e0_2_annelids-5_1833	2	Anna3e0_2_worm-13_1512	2	0	annelids	Segmented worms	83.0
+taxongroup	Cli-c809_43_annelids-20	Cli-c809_43_Polychaeta-23	Cli-c809_43_annelids-20_1833	43	Cli-c809_43_Polychaeta-23_414	43	0	annelids	Polychaeta	83.0
+taxongroup	Ann-6efb_2_annelids-2	Ann-6efb_2_Annelida-4	Ann-6efb_2_annelids-2_1833	2	Ann-6efb_2_Annelida-4_1513	2	0	annelids	Annelida	83.0
+taxongroup	Ins-960c_94_annelids-37	Ins-960c_94_animals-32	Ins-960c_94_annelids-37_1833	94	Ins-960c_94_animals-32_44	94	0	annelids	Animals	83.0
+taxongroup	Ann-6efb_275_annelids-5	Ann-6efb_275_animals-21	Ann-6efb_275_annelids-5_1833	275	Ann-6efb_275_animals-21_44	275	0	annelids	Animals	83.0
+taxongroup	Art-1308_227_annelids-41	Art-1308_227_animals-26	Art-1308_227_annelids-41_1833	227	Art-1308_227_animals-26_44	227	0	annelids	Animals	83.0
+taxongroup	Ann-6efb_43_annelids-19	Ann-6efb_43_animals-5	Ann-6efb_43_annelids-19_1833	43	Ann-6efb_43_animals-5_44	43	0	annelids	Animals	83.0
+taxongroup	Ann-6efb_205_annelids-2	Ann-6efb_205_animal-14	Ann-6efb_205_annelids-2_1833	205	Ann-6efb_205_animal-14_44	205	0	annelids	Animals	83.0
+taxongroup	Ann-6efb_174_annelids-5	Ann-6efb_174_animals-8	Ann-6efb_174_annelids-5_1833	174	Ann-6efb_174_animals-8_44	174	0	annelids	Animals	83.0
+taxongroup	Ani-161e_210_echinoderms-12	Ani-161e_210_Metazoa-1	Ani-161e_210_echinoderms-12_4887	210	Ani-161e_210_Metazoa-1_46	210	0	echinoderms	Metazoa	83.0
+taxongroup	Cni-c1f9_228_Scyphozoa-43	Cni-c1f9_228_cnidarians-34	Cni-c1f9_228_Scyphozoa-43_398	228	Cni-c1f9_228_cnidarians-34_4782	228	0	Scyphozoa	cnidarians	83.0
+taxongroup	Cni-c1f9_223_Scyphozoa-24	Cni-c1f9_223_cnidarians-2	Cni-c1f9_223_Scyphozoa-24_398	223	Cni-c1f9_223_cnidarians-2_4782	223	0	Scyphozoa	cnidarians	83.0
+taxongroup	Bio-20c0_106_jellies-19	Bio-20c0_106_animals-5	Bio-20c0_106_jellies-19_4011	106	Bio-20c0_106_animals-5_44	106	0	jellies	Animals	83.0
+taxongroup	Ani-161e_135_jellies-25	Ani-161e_135_animals-8	Ani-161e_135_jellies-25_4011	135	Ani-161e_135_animals-8_44	135	0	jellies	Animals	83.0
+taxongroup	Ani-161e_135_jellies-25	Ani-161e_135_animals-21	Ani-161e_135_jellies-25_4011	135	Ani-161e_135_animals-21_44	135	0	jellies	Animals	83.0
+taxongroup	Cni-c1f9_272_jellies-26	Cni-c1f9_272_animals-35	Cni-c1f9_272_jellies-26_4011	272	Cni-c1f9_272_animals-35_44	272	0	jellies	Animals	83.0
+taxongroup	Jel-28f4_23_jellies-6	Jel-28f4_23_animal-35	Jel-28f4_23_jellies-6_4011	23	Jel-28f4_23_animal-35_44	23	0	jellies	Animals	83.0
+taxongroup	Jel-28f4_23_jellies-3	Jel-28f4_23_animal-35	Jel-28f4_23_jellies-3_4011	23	Jel-28f4_23_animal-35_44	23	0	jellies	Animals	83.0
+taxongroup	Jel-28f4_22_jellies-23	Jel-28f4_22_animals-19	Jel-28f4_22_jellies-23_4011	22	Jel-28f4_22_animals-19_44	22	0	jellies	Animals	83.0
+taxongroup	Cni-c1f9_33_jellies-21	Cni-c1f9_33_animals-6	Cni-c1f9_33_jellies-21_4011	33	Cni-c1f9_33_animals-6_44	33	0	jellies	Animals	83.0
+taxongroup	Cni-c1f9_33_jellies-21	Cni-c1f9_33_animals-35	Cni-c1f9_33_jellies-21_4011	33	Cni-c1f9_33_animals-35_44	33	0	jellies	Animals	83.0
+taxongroup	Cni-c1f9_270_jellies-43	Cni-c1f9_270_animals-17	Cni-c1f9_270_jellies-43_4011	270	Cni-c1f9_270_animals-17_44	270	0	jellies	Animals	83.0
+taxongroup	Cni-c1f9_270_jellies-43	Cni-c1f9_270_animals-54	Cni-c1f9_270_jellies-43_4011	270	Cni-c1f9_270_animals-54_44	270	0	jellies	Animals	83.0
+taxongroup	Ani-161e_133_jellies-29	Ani-161e_133_Cnidaria-12	Ani-161e_133_jellies-29_4011	133	Ani-161e_133_Cnidaria-12_1889	133	0	jellies	Cnidaria	83.0
+taxongroup	Aur-4fbd_26_jellyfish-6	Aur-4fbd_26_jellyfish-6	Aur-4fbd_26_jellyfish-6_4010	26	Aur-4fbd_26_jellyfish-6_4783	26	0	jellyfish	jellyfish	83.0
+taxongroup	Ant-85c0_7_jellies-16	Ant-85c0_7_Cnidaria-7	Ant-85c0_7_jellies-16_4011	7	Ant-85c0_7_Cnidaria-7_1889	7	0	jellies	Cnidaria	83.0
+taxongroup	Cni-c1f9_272_jellies-26	Cni-c1f9_272_Cnidaria-21	Cni-c1f9_272_jellies-26_4011	272	Cni-c1f9_272_Cnidaria-21_1889	272	0	jellies	Cnidaria	83.0
+taxongroup	Cni-c1f9_223_Scyphozoa-24	Cni-c1f9_223_cnidarians-46	Cni-c1f9_223_Scyphozoa-24_398	223	Cni-c1f9_223_cnidarians-46_4782	223	0	Scyphozoa	cnidarians	83.0
+taxongroup	Cni-c1f9_17_Scyphozoa-17	Cni-c1f9_17_cnidarians-39	Cni-c1f9_17_Scyphozoa-17_398	17	Cni-c1f9_17_cnidarians-39_4782	17	0	Scyphozoa	cnidarians	83.0
+taxongroup	Pol-28e5_2_Polychaeta-1	Pol-28e5_2_worms-17	Pol-28e5_2_Polychaeta-1_414	2	Pol-28e5_2_worms-17_4605	2	0	Polychaeta	annelid worms	83.0
+taxongroup	Pol-28e5_2_Polychaeta-1	Pol-28e5_2_worms-12	Pol-28e5_2_Polychaeta-1_414	2	Pol-28e5_2_worms-12_4605	2	0	Polychaeta	annelid worms	83.0
+taxongroup	Scy-682d_2_jellies-23	Scy-682d_2_Cnidaria-11	Scy-682d_2_jellies-23_4011	2	Scy-682d_2_Cnidaria-11_1889	2	0	jellies	Cnidaria	83.0
+taxongroup	Cni-c1f9_281_cnidarians-12	Cni-c1f9_281_animals-20	Cni-c1f9_281_cnidarians-12_4782	281	Cni-c1f9_281_animals-20_44	281	0	cnidarians	Animals	83.0
+taxongroup	Cni-c1f9_38_cnidarians-6	Cni-c1f9_38_animals-34	Cni-c1f9_38_cnidarians-6_4782	38	Cni-c1f9_38_animals-34_44	38	0	cnidarians	Animals	83.0
+taxongroup	Cni-c1f9_285_cnidarians-7	Cni-c1f9_285_animals-13	Cni-c1f9_285_cnidarians-7_4782	285	Cni-c1f9_285_animals-13_3812	285	0	cnidarians	animals	83.0
+taxongroup	Cni-c1f9_40_cnidarians-4	Cni-c1f9_40_animals-17	Cni-c1f9_40_cnidarians-4_4782	40	Cni-c1f9_40_animals-17_3812	40	0	cnidarians	animals	83.0
+taxongroup	Cni-c1f9_227_cnidarians-35	Cni-c1f9_227_animals-38	Cni-c1f9_227_cnidarians-35_4782	227	Cni-c1f9_227_animals-38_3812	227	0	cnidarians	animals	83.0
+taxongroup	Cni-c1f9_242_cnidarians-3	Cni-c1f9_242_animals-8	Cni-c1f9_242_cnidarians-3_4782	242	Cni-c1f9_242_animals-8_3812	242	0	cnidarians	animals	83.0
+taxongroup	Cni-c1f9_38_cnidarians-30	Cni-c1f9_38_animals-34	Cni-c1f9_38_cnidarians-30_4782	38	Cni-c1f9_38_animals-34_3812	38	0	cnidarians	animals	83.0
+taxongroup	Cni-c1f9_263_cnidarians-4	Cni-c1f9_263_animals-23	Cni-c1f9_263_cnidarians-4_4782	263	Cni-c1f9_263_animals-23_3812	263	0	cnidarians	animals	83.0
+taxongroup	Cni-c1f9_201_cnidarians-4	Cni-c1f9_201_animal-18	Cni-c1f9_201_cnidarians-4_4782	201	Cni-c1f9_201_animal-18_3812	201	0	cnidarians	animals	83.0
+taxongroup	Cni-c1f9_258_cnidarians-12	Cni-c1f9_258_animal-5	Cni-c1f9_258_cnidarians-12_4782	258	Cni-c1f9_258_animal-5_3812	258	0	cnidarians	animals	83.0
+taxongroup	Cni-c1f9_20_cnidarians-21	Cni-c1f9_20_animals-7	Cni-c1f9_20_cnidarians-21_4782	20	Cni-c1f9_20_animals-7_3812	20	0	cnidarians	animals	83.0
+taxongroup	Cni-c1f9_281_cnidarians-30	Cni-c1f9_281_animals-20	Cni-c1f9_281_cnidarians-30_4782	281	Cni-c1f9_281_animals-20_3812	281	0	cnidarians	animals	83.0
+taxongroup	Pre-0725_274_cnidarians-21	Pre-0725_274_animals-11	Pre-0725_274_cnidarians-21_4782	274	Pre-0725_274_animals-11_3812	274	0	cnidarians	animals	83.0
+taxongroup	Ovi-8c33_11_cnidarians-5	Ovi-8c33_11_animal-16	Ovi-8c33_11_cnidarians-5_4782	11	Ovi-8c33_11_animal-16_3812	11	0	cnidarians	animals	83.0
+taxongroup	Cni-c1f9_19_cnidarians-2	Cni-c1f9_19_animals-12	Cni-c1f9_19_cnidarians-2_4782	19	Cni-c1f9_19_animals-12_3812	19	0	cnidarians	animals	83.0
+taxongroup	Bra-cd5f_252_brachiopods-9	Bra-cd5f_252_animal-22	Bra-cd5f_252_brachiopods-9_4728	252	Bra-cd5f_252_animal-22_3812	252	0	brachiopods	animals	83.0
+taxongroup	Bra-cd5f_168_brachiopods-2	Bra-cd5f_168_animals-11	Bra-cd5f_168_brachiopods-2_4728	168	Bra-cd5f_168_animals-11_3812	168	0	brachiopods	animals	83.0
+taxongroup	Bra-cd5f_297_brachiopods-8	Bra-cd5f_297_animals-32	Bra-cd5f_297_brachiopods-8_4728	297	Bra-cd5f_297_animals-32_3812	297	0	brachiopods	animals	83.0
+taxongroup	Bra-cd5f_20_brachiopods-7	Bra-cd5f_20_animal-22	Bra-cd5f_20_brachiopods-7_4728	20	Bra-cd5f_20_animal-22_3812	20	0	brachiopods	animals	83.0
+taxongroup	Bra-cd5f_20_brachiopod-47	Bra-cd5f_20_animal-22	Bra-cd5f_20_brachiopod-47_4728	20	Bra-cd5f_20_animal-22_3812	20	0	brachiopods	animals	83.0
+taxongroup	Bra-cd5f_297_brachiopods-21	Bra-cd5f_297_animals-32	Bra-cd5f_297_brachiopods-21_4728	297	Bra-cd5f_297_animals-32_3812	297	0	brachiopods	animals	83.0
+taxongroup	Sea-4a1d_172_cnidarians-24	Sea-4a1d_172_animal-11	Sea-4a1d_172_cnidarians-24_4782	172	Sea-4a1d_172_animal-11_44	172	0	cnidarians	Animals	83.0
+taxongroup	Bra-cd5f_257_brachiopods-28	Bra-cd5f_257_animals-11	Bra-cd5f_257_brachiopods-28_4728	257	Bra-cd5f_257_animals-11_3812	257	0	brachiopods	animals	83.0
+taxongroup	Bra-cd5f_258_brachiopod-24	Bra-cd5f_258_animal-31	Bra-cd5f_258_brachiopod-24_4728	258	Bra-cd5f_258_animal-31_3812	258	0	brachiopods	animals	83.0
+taxongroup	Ann-6efb_2_annelids-2	Ann-6efb_2_worms-21	Ann-6efb_2_annelids-2_1833	2	Ann-6efb_2_worms-21_4603	2	0	annelids	segmented worms	83.0
+taxongroup	Bra-cd5f_13_brachiopods-5	Bra-cd5f_13_animals-24	Bra-cd5f_13_brachiopods-5_4728	13	Bra-cd5f_13_animals-24_44	13	0	brachiopods	Animals	83.0
+taxongroup	Bra-cd5f_21_brachiopods-40	Bra-cd5f_21_animal-25	Bra-cd5f_21_brachiopods-40_4728	21	Bra-cd5f_21_animal-25_44	21	0	brachiopods	Animals	83.0
+taxongroup	Tri-09f5_108_brachiopods-31	Tri-09f5_108_animals-28	Tri-09f5_108_brachiopods-31_4728	108	Tri-09f5_108_animals-28_44	108	0	brachiopods	Animals	83.0
+taxongroup	Can-1080_2_annelids-9	Can-1080_2_worms-57	Can-1080_2_annelids-9_1833	2	Can-1080_2_worms-57_4018	2	0	annelids	polychaete worms	83.0
+taxongroup	Can-1080_2_annelids-9	Can-1080_2_worms-45	Can-1080_2_annelids-9_1833	2	Can-1080_2_worms-45_4018	2	0	annelids	polychaete worms	83.0
+taxongroup	Can-1080_2_annelids-9	Can-1080_2_worms-14	Can-1080_2_annelids-9_1833	2	Can-1080_2_worms-14_4018	2	0	annelids	polychaete worms	83.0
+taxongroup	Can-1080_2_annelids-9	Can-1080_2_worms-21	Can-1080_2_annelids-9_1833	2	Can-1080_2_worms-21_4018	2	0	annelids	polychaete worms	83.0
+taxongroup	Bra-cd5f_177_brachiopods-29	Bra-cd5f_177_animals-3	Bra-cd5f_177_brachiopods-29_4728	177	Bra-cd5f_177_animals-3_3812	177	0	brachiopods	animals	83.0
+taxongroup	Jel-28f4_51_corals-30	Jel-28f4_51_jellyfish-23	Jel-28f4_51_corals-30_4609	51	Jel-28f4_51_jellyfish-23_4783	51	0	corals and sea anemones	jellyfish	83.0
+taxongroup	Jel-28f4_51_corals-30	Jel-28f4_51_jellyfish-17	Jel-28f4_51_corals-30_4609	51	Jel-28f4_51_jellyfish-17_4783	51	0	corals and sea anemones	jellyfish	83.0
+taxongroup	Jel-28f4_51_corals-30	Jel-28f4_51_jellyfish-11	Jel-28f4_51_corals-30_4609	51	Jel-28f4_51_jellyfish-11_4783	51	0	corals and sea anemones	jellyfish	83.0
+taxongroup	Cni-c1f9_270_jellies-43	Cni-c1f9_270_Cnidaria-38	Cni-c1f9_270_jellies-43_4011	270	Cni-c1f9_270_Cnidaria-38_1889	270	0	jellies	Cnidaria	83.0
+taxongroup	Ani-161e_138_jellies-3	Ani-161e_138_Cnidaria-5	Ani-161e_138_jellies-3_4011	138	Ani-161e_138_Cnidaria-5_1889	138	0	jellies	Cnidaria	83.0
+taxongroup	Jel-28f4_2_jellies-7	Jel-28f4_2_Cnidaria-31	Jel-28f4_2_jellies-7_4011	2	Jel-28f4_2_Cnidaria-31_1889	2	0	jellies	Cnidaria	83.0
+taxongroup	Aqu50cf_32_jellyfish-11	Aqu50cf_32_jellyfish-11	Aqu50cf_32_jellyfish-11_4010	32	Aqu50cf_32_jellyfish-11_4783	32	0	jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_67_jellyfish-15	Aur-441a_67_jellyfish-15	Aur-441a_67_jellyfish-15_4010	67	Aur-441a_67_jellyfish-15_4783	67	0	jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_64_jellyfish-30	Aur-441a_64_jellyfish-30	Aur-441a_64_jellyfish-30_4010	64	Aur-441a_64_jellyfish-30_4783	64	0	jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_59_jellyfish-44	Aur-441a_59_jellyfish-44	Aur-441a_59_jellyfish-44_4010	59	Aur-441a_59_jellyfish-44_4783	59	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_248_jellyfish-10	Jel-28f4_248_jellyfish-10	Jel-28f4_248_jellyfish-10_4010	248	Jel-28f4_248_jellyfish-10_4783	248	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_241_jellyfish-24	Jel-28f4_241_jellyfish-24	Jel-28f4_241_jellyfish-24_4010	241	Jel-28f4_241_jellyfish-24_4783	241	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_22_jellyfish-3	Jel-28f4_22_jellyfish-3	Jel-28f4_22_jellyfish-3_4010	22	Jel-28f4_22_jellyfish-3_4783	22	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_269_jellyfish-5	Jel-28f4_269_jellyfish-5	Jel-28f4_269_jellyfish-5_4010	269	Jel-28f4_269_jellyfish-5_4783	269	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_26_jellyfish-4	Jel-28f4_26_jellyfish-4	Jel-28f4_26_jellyfish-4_4010	26	Jel-28f4_26_jellyfish-4_4783	26	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_274_jellyfish-4	Jel-28f4_274_jellyfish-4	Jel-28f4_274_jellyfish-4_4010	274	Jel-28f4_274_jellyfish-4_4783	274	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_108_jellyfish-2	Jel-28f4_108_jellyfish-2	Jel-28f4_108_jellyfish-2_4010	108	Jel-28f4_108_jellyfish-2_4783	108	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_207_jellyfish-17	Jel-28f4_207_jellyfish-5	Jel-28f4_207_jellyfish-17_4010	207	Jel-28f4_207_jellyfish-5_4783	207	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_102_jellyfish-2	Jel-28f4_102_jellyfish-2	Jel-28f4_102_jellyfish-2_4010	102	Jel-28f4_102_jellyfish-2_4783	102	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_281_jellyfish-11	Jel-28f4_281_jellyfish-11	Jel-28f4_281_jellyfish-11_4010	281	Jel-28f4_281_jellyfish-11_4783	281	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_24_jellyfish-10	Jel-28f4_24_jellyfish-10	Jel-28f4_24_jellyfish-10_4010	24	Jel-28f4_24_jellyfish-10_4783	24	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_254_jellyfish-11	Jel-28f4_254_jellyfish-11	Jel-28f4_254_jellyfish-11_4010	254	Jel-28f4_254_jellyfish-11_4783	254	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_268_jellyfish-14	Jel-28f4_268_jellyfish-14	Jel-28f4_268_jellyfish-14_4010	268	Jel-28f4_268_jellyfish-14_4783	268	0	jellyfish	jellyfish	83.0
+taxongroup	Ann-6efb_228_jellyfish-38	Ann-6efb_228_jellyfish-38	Ann-6efb_228_jellyfish-38_4010	228	Ann-6efb_228_jellyfish-38_4783	228	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_290_jellyfish-8	Cni-c1f9_290_jellyfish-8	Cni-c1f9_290_jellyfish-8_4010	290	Cni-c1f9_290_jellyfish-8_4783	290	0	jellyfish	jellyfish	83.0
+taxongroup	Ant-85c0_7_jellyfish-13	Ant-85c0_7_jellyfish-13	Ant-85c0_7_jellyfish-13_4010	7	Ant-85c0_7_jellyfish-13_4783	7	0	jellyfish	jellyfish	83.0
+taxongroup	Ant956d_47_jellyfish-4	Ant956d_47_jellyfish-4	Ant956d_47_jellyfish-4_4010	47	Ant956d_47_jellyfish-4_4783	47	0	jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_51_jellyfish-29	Aur-441a_51_jellyfish-29	Aur-441a_51_jellyfish-29_4010	51	Aur-441a_51_jellyfish-29_4783	51	0	jellyfish	jellyfish	83.0
+taxongroup	Aure0eb_3_jellyfish-8	Aure0eb_3_jellyfish-8	Aure0eb_3_jellyfish-8_4010	3	Aure0eb_3_jellyfish-8_4783	3	0	jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_7_jellyfish-7	Aur-441a_7_jellyfish-7	Aur-441a_7_jellyfish-7_4010	7	Aur-441a_7_jellyfish-7_4783	7	0	jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_18_jellyfish-2	Aur-441a_18_jellyfish-2	Aur-441a_18_jellyfish-2_4010	18	Aur-441a_18_jellyfish-2_4783	18	0	jellyfish	jellyfish	83.0
+taxongroup	Ani-161e_205_jellyfish-47	Ani-161e_205_jellyfish-47	Ani-161e_205_jellyfish-47_4010	205	Ani-161e_205_jellyfish-47_4783	205	0	jellyfish	jellyfish	83.0
+taxongroup	Aqu-83c9_56_jellyfish-2	Aqu-83c9_56_jellyfish-2	Aqu-83c9_56_jellyfish-2_4010	56	Aqu-83c9_56_jellyfish-2_4783	56	0	jellyfish	jellyfish	83.0
+taxongroup	Ant956d_46_jellyfish-7	Ant956d_46_jellyfish-7	Ant956d_46_jellyfish-7_4010	46	Ant956d_46_jellyfish-7_4783	46	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_231_jellyfishes-89	Cni-c1f9_231_jellyfishes-99	Cni-c1f9_231_jellyfishes-89_4010	231	Cni-c1f9_231_jellyfishes-99_4783	231	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_231_jellyfishes-89	Cni-c1f9_231_jellyfishes-57	Cni-c1f9_231_jellyfishes-89_4010	231	Cni-c1f9_231_jellyfishes-57_4783	231	0	jellyfish	jellyfish	83.0
+taxongroup	Aqu-83c9_96_jellyfish-7	Aqu-83c9_96_jellyfish-7	Aqu-83c9_96_jellyfish-7_4010	96	Aqu-83c9_96_jellyfish-7_4783	96	0	jellyfish	jellyfish	83.0
+taxongroup	Aqu-83c9_55_jellyfish-5	Aqu-83c9_55_jellyfish-5	Aqu-83c9_55_jellyfish-5_4010	55	Aqu-83c9_55_jellyfish-5_4783	55	0	jellyfish	jellyfish	83.0
+taxongroup	Ani-ab87_49_jellyfish-24	Ani-ab87_49_jellyfish-24	Ani-ab87_49_jellyfish-24_4010	49	Ani-ab87_49_jellyfish-24_4783	49	0	jellyfish	jellyfish	83.0
+taxongroup	Aqu-83c9_79_jellyfish-30	Aqu-83c9_79_jellyfish-30	Aqu-83c9_79_jellyfish-30_4010	79	Aqu-83c9_79_jellyfish-30_4783	79	0	jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_65_jellyfish-13	Aur-441a_65_jellyfish-13	Aur-441a_65_jellyfish-13_4010	65	Aur-441a_65_jellyfish-13_4783	65	0	jellyfish	jellyfish	83.0
+taxongroup	Aur-441a_4_jellyfish-2	Aur-441a_4_jellyfish-2	Aur-441a_4_jellyfish-2_4010	4	Aur-441a_4_jellyfish-2_4783	4	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_303_jellyfish-17	Cni-c1f9_303_jellyfish-17	Cni-c1f9_303_jellyfish-17_4010	303	Cni-c1f9_303_jellyfish-17_4783	303	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_2_jellyfish-32	Cni-c1f9_2_jellyfish-32	Cni-c1f9_2_jellyfish-32_4010	2	Cni-c1f9_2_jellyfish-32_4783	2	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_146_jellyfish-6	Cni-c1f9_146_jellyfish-6	Cni-c1f9_146_jellyfish-6_4010	146	Cni-c1f9_146_jellyfish-6_4783	146	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_240_jellyfish-7	Cni-c1f9_240_jellyfish-7	Cni-c1f9_240_jellyfish-7_4010	240	Cni-c1f9_240_jellyfish-7_4783	240	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_243_jellyfish-8	Cni-c1f9_243_jellyfish-8	Cni-c1f9_243_jellyfish-8_4010	243	Cni-c1f9_243_jellyfish-8_4783	243	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_231_jellyfishes-57	Cni-c1f9_231_jellyfishes-57	Cni-c1f9_231_jellyfishes-57_4010	231	Cni-c1f9_231_jellyfishes-57_4783	231	0	jellyfish	jellyfish	83.0
+taxongroup	Cni33c8_3_jellyfish-11	Cni33c8_3_jellyfish-11	Cni33c8_3_jellyfish-11_4010	3	Cni33c8_3_jellyfish-11_4783	3	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_134_jellyfish-8	Jel-28f4_134_jellyfish-26	Jel-28f4_134_jellyfish-8_4010	134	Jel-28f4_134_jellyfish-26_4783	134	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_241_jellyfish-32	Cni-c1f9_241_jellyfish-32	Cni-c1f9_241_jellyfish-32_4010	241	Cni-c1f9_241_jellyfish-32_4783	241	0	jellyfish	jellyfish	83.0
+taxongroup	Cam-4bd8_212_jellyfish-6	Cam-4bd8_212_jellyfish-6	Cam-4bd8_212_jellyfish-6_4010	212	Cam-4bd8_212_jellyfish-6_4783	212	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_246_jellyfish-5	Cni-c1f9_246_jellyfish-5	Cni-c1f9_246_jellyfish-5_4010	246	Cni-c1f9_246_jellyfish-5_4783	246	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_231_jellyfishes-99	Cni-c1f9_231_jellyfishes-89	Cni-c1f9_231_jellyfishes-99_4010	231	Cni-c1f9_231_jellyfishes-89_4783	231	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_231_jellyfishes-89	Cni-c1f9_231_jellyfishes-89	Cni-c1f9_231_jellyfishes-89_4010	231	Cni-c1f9_231_jellyfishes-89_4783	231	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_245_jellyfish-69	Cni-c1f9_245_jellyfish-69	Cni-c1f9_245_jellyfish-69_4010	245	Cni-c1f9_245_jellyfish-69_4783	245	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_231_jellyfishes-99	Cni-c1f9_231_jellyfishes-57	Cni-c1f9_231_jellyfishes-99_4010	231	Cni-c1f9_231_jellyfishes-57_4783	231	0	jellyfish	jellyfish	83.0
+taxongroup	Aur-4fbd_19_jellyfish-11	Aur-4fbd_19_jellyfish-11	Aur-4fbd_19_jellyfish-11_4010	19	Aur-4fbd_19_jellyfish-11_4783	19	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_261_jellyfish-12	Cni-c1f9_261_jellyfish-12	Cni-c1f9_261_jellyfish-12_4010	261	Cni-c1f9_261_jellyfish-12_4783	261	0	jellyfish	jellyfish	83.0
+taxongroup	Bio-20c0_102_jellyfish-48	Bio-20c0_102_jellyfish-48	Bio-20c0_102_jellyfish-48_4010	102	Bio-20c0_102_jellyfish-48_4783	102	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_281_jellyfish-11	Jel-28f4_281_jellyfish-42	Jel-28f4_281_jellyfish-11_4010	281	Jel-28f4_281_jellyfish-42_4783	281	0	jellyfish	jellyfish	83.0
+taxongroup	Aur-4fbd_2_jellyfish-6	Aur-4fbd_2_jellyfish-6	Aur-4fbd_2_jellyfish-6_4010	2	Aur-4fbd_2_jellyfish-6_4783	2	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_231_jellyfishes-57	Cni-c1f9_231_jellyfishes-99	Cni-c1f9_231_jellyfishes-57_4010	231	Cni-c1f9_231_jellyfishes-99_4783	231	0	jellyfish	jellyfish	83.0
+taxongroup	Cni33c8_2_jellyfish-10	Cni33c8_2_jellyfish-10	Cni33c8_2_jellyfish-10_4010	2	Cni33c8_2_jellyfish-10_4783	2	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_231_jellyfishes-57	Cni-c1f9_231_jellyfishes-89	Cni-c1f9_231_jellyfishes-57_4010	231	Cni-c1f9_231_jellyfishes-89_4783	231	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_299_jellyfish-3	Cni-c1f9_299_jellyfish-3	Cni-c1f9_299_jellyfish-3_4010	299	Cni-c1f9_299_jellyfish-3_4783	299	0	jellyfish	jellyfish	83.0
+taxongroup	Cho-ea02_103_jellyfish-8	Cho-ea02_103_jellyfish-8	Cho-ea02_103_jellyfish-8_4010	103	Cho-ea02_103_jellyfish-8_4783	103	0	jellyfish	jellyfish	83.0
+taxongroup	Cni-c1f9_231_jellyfishes-99	Cni-c1f9_231_jellyfishes-99	Cni-c1f9_231_jellyfishes-99_4010	231	Cni-c1f9_231_jellyfishes-99_4783	231	0	jellyfish	jellyfish	83.0
+taxongroup	Che-049d_27_jellyfish-9	Che-049d_27_jellyfish-9	Che-049d_27_jellyfish-9_4010	27	Che-049d_27_jellyfish-9_4783	27	0	jellyfish	jellyfish	83.0
+taxongroup	Aure0eb_11_jellyfish-13	Aure0eb_11_jellyfish-13	Aure0eb_11_jellyfish-13_4010	11	Aure0eb_11_jellyfish-13_4783	11	0	jellyfish	jellyfish	83.0
+taxongroup	Ani-161e_133_jellyfish-16	Ani-161e_133_jellyfish-16	Ani-161e_133_jellyfish-16_4010	133	Ani-161e_133_jellyfish-16_4783	133	0	jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_420_Jellyfish-11	Jel-28f4_420_jellyfish-21	Jel-28f4_420_Jellyfish-11_399	420	Jel-28f4_420_jellyfish-21_4783	420	0	Jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_421_Jellyfish-1	Jel-28f4_421_jellyfish-7	Jel-28f4_421_Jellyfish-1_399	421	Jel-28f4_421_jellyfish-7_4783	421	0	Jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_420_Jellyfish-4	Jel-28f4_420_jellyfish-21	Jel-28f4_420_Jellyfish-4_399	420	Jel-28f4_420_jellyfish-21_4783	420	0	Jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_420_Jellyfish-9	Jel-28f4_420_jellyfish-21	Jel-28f4_420_Jellyfish-9_399	420	Jel-28f4_420_jellyfish-21_4783	420	0	Jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_288_Jellyfish-1	Jel-28f4_288_jellyfish-24	Jel-28f4_288_Jellyfish-1_399	288	Jel-28f4_288_jellyfish-24_4783	288	0	Jellyfish	jellyfish	83.0
+taxongroup	Jel-28f4_325_Jellyfish-1	Jel-28f4_325_jellyfish-11	Jel-28f4_325_Jellyfish-1_399	325	Jel-28f4_325_jellyfish-11_4783	325	0	Jellyfish	jellyfish	83.0
+taxongroup	Pre-0725_33_jellyfish-10	Pre-0725_33_cnidarians-6	Pre-0725_33_jellyfish-10_4010	33	Pre-0725_33_cnidarians-6_4782	33	0	jellyfish	cnidarians	83.0
+taxongroup	Jel-28f4_354_Jellyfish-1	Jel-28f4_354_Jellyfish-1	Jel-28f4_354_Jellyfish-1_399	354	Jel-28f4_354_Jellyfish-1_1892	354	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jelfd0e_27_Jellyfish-7	Jelfd0e_27_Jellyfish-7	Jelfd0e_27_Jellyfish-7_399	27	Jelfd0e_27_Jellyfish-7_1892	27	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_288_Jellyfish-1	Jel-28f4_288_Jellyfish-1	Jel-28f4_288_Jellyfish-1_399	288	Jel-28f4_288_Jellyfish-1_1892	288	0	Jellyfish	Jellyfish	83.0
+taxongroup	Bio-20c0_102_jellies-44	Bio-20c0_102_cnidaria-46	Bio-20c0_102_jellies-44_4011	102	Bio-20c0_102_cnidaria-46_4781	102	0	jellies	cnidaria	83.0
+taxongroup	Cni-c1f9_2_jellyfish-32	Cni-c1f9_2_Animalia-9	Cni-c1f9_2_jellyfish-32_4010	2	Cni-c1f9_2_Animalia-9_45	2	0	jellyfish	Animalia	83.0
+taxongroup	Jel-28f4_423_Jellyfish-4	Jel-28f4_423_Jellyfish-4	Jel-28f4_423_Jellyfish-4_399	423	Jel-28f4_423_Jellyfish-4_1892	423	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_420_Jellyfish-4	Jel-28f4_420_Jellyfish-9	Jel-28f4_420_Jellyfish-4_399	420	Jel-28f4_420_Jellyfish-9_1892	420	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_419_Jellyfish-1	Jel-28f4_419_Jellyfish-1	Jel-28f4_419_Jellyfish-1_399	419	Jel-28f4_419_Jellyfish-1_1892	419	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_420_Jellyfish-11	Jel-28f4_420_Jellyfish-4	Jel-28f4_420_Jellyfish-11_399	420	Jel-28f4_420_Jellyfish-4_1892	420	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_324_Jellyfish-14	Jel-28f4_324_Jellyfish-14	Jel-28f4_324_Jellyfish-14_399	324	Jel-28f4_324_Jellyfish-14_1892	324	0	Jellyfish	Jellyfish	83.0
+taxongroup	Cho-ea02_103_jellyfish-8	Cho-ea02_103_Cnidarians-11	Cho-ea02_103_jellyfish-8_4010	103	Cho-ea02_103_Cnidarians-11_1890	103	0	jellyfish	Cnidarians	83.0
+taxongroup	Jel-28f4_262_Jellyfish-1	Jel-28f4_262_Jellyfish-1	Jel-28f4_262_Jellyfish-1_399	262	Jel-28f4_262_Jellyfish-1_1892	262	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_277_Jellyfish-1	Jel-28f4_277_Jellyfish-1	Jel-28f4_277_Jellyfish-1_399	277	Jel-28f4_277_Jellyfish-1_1892	277	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_260_Jellyfish-1	Jel-28f4_260_Jellyfish-1	Jel-28f4_260_Jellyfish-1_399	260	Jel-28f4_260_Jellyfish-1_1892	260	0	Jellyfish	Jellyfish	83.0
+taxongroup	Aur-4fbd_36_Jellyfish-32	Aur-4fbd_36_Jellyfish-32	Aur-4fbd_36_Jellyfish-32_399	36	Aur-4fbd_36_Jellyfish-32_1892	36	0	Jellyfish	Jellyfish	83.0
+taxongroup	Cni-c1f9_301_Jellyfish-20	Cni-c1f9_301_Jellyfish-20	Cni-c1f9_301_Jellyfish-20_399	301	Cni-c1f9_301_Jellyfish-20_1892	301	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_21_Jellyfish-1	Jel-28f4_21_Jellyfish-1	Jel-28f4_21_Jellyfish-1_399	21	Jel-28f4_21_Jellyfish-1_1892	21	0	Jellyfish	Jellyfish	83.0
+taxongroup	Ann-6efb_228_jellyfish-38	Ann-6efb_228_cnidarian-30	Ann-6efb_228_jellyfish-38_4010	228	Ann-6efb_228_cnidarian-30_4782	228	0	jellyfish	cnidarians	83.0
+taxongroup	Jel-28f4_264_jellyfish-32	Jel-28f4_264_cnidarians-6	Jel-28f4_264_jellyfish-32_4010	264	Jel-28f4_264_cnidarians-6_4782	264	0	jellyfish	cnidarians	83.0
+taxongroup	Cni-c1f9_245_jellyfish-69	Cni-c1f9_245_cnidarians-3	Cni-c1f9_245_jellyfish-69_4010	245	Cni-c1f9_245_cnidarians-3_4782	245	0	jellyfish	cnidarians	83.0
+taxongroup	Cni-c1f9_261_jellyfish-12	Cni-c1f9_261_cnidarians-27	Cni-c1f9_261_jellyfish-12_4010	261	Cni-c1f9_261_cnidarians-27_4782	261	0	jellyfish	cnidarians	83.0
+taxongroup	Cni-c1f9_243_jellyfish-8	Cni-c1f9_243_cnidarians-2	Cni-c1f9_243_jellyfish-8_4010	243	Cni-c1f9_243_cnidarians-2_4782	243	0	jellyfish	cnidarians	83.0
+taxongroup	Jel-28f4_124_jellyfish-21	Jel-28f4_124_cnidarians-17	Jel-28f4_124_jellyfish-21_4010	124	Jel-28f4_124_cnidarians-17_4782	124	0	jellyfish	cnidarians	83.0
+taxongroup	Jel-28f4_115_jellyfish-28	Jel-28f4_115_cnidarians-8	Jel-28f4_115_jellyfish-28_4010	115	Jel-28f4_115_cnidarians-8_4782	115	0	jellyfish	cnidarians	83.0
+taxongroup	Jelfd0e_6_jellyfish-7	Jelfd0e_6_cnidarians-13	Jelfd0e_6_jellyfish-7_4010	6	Jelfd0e_6_cnidarians-13_4782	6	0	jellyfish	cnidarians	83.0
+taxongroup	Jel-28f4_420_Jellyfish-11	Jel-28f4_420_Jellyfish-11	Jel-28f4_420_Jellyfish-11_399	420	Jel-28f4_420_Jellyfish-11_1892	420	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_325_Jellyfish-1	Jel-28f4_325_Jellyfish-1	Jel-28f4_325_Jellyfish-1_399	325	Jel-28f4_325_Jellyfish-1_1892	325	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_420_Jellyfish-4	Jel-28f4_420_Jellyfish-11	Jel-28f4_420_Jellyfish-4_399	420	Jel-28f4_420_Jellyfish-11_1892	420	0	Jellyfish	Jellyfish	83.0
+taxongroup	Cni-c1f9_241_jellyfish-32	Cni-c1f9_241_Cnidarians-1	Cni-c1f9_241_jellyfish-32_4010	241	Cni-c1f9_241_Cnidarians-1_1890	241	0	jellyfish	Cnidarians	83.0
+taxongroup	Jel-28f4_420_jellyfish-21	Jel-28f4_420_Jellyfish-9	Jel-28f4_420_jellyfish-21_4010	420	Jel-28f4_420_Jellyfish-9_1892	420	0	jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_288_jellyfish-24	Jel-28f4_288_Jellyfish-1	Jel-28f4_288_jellyfish-24_4010	288	Jel-28f4_288_Jellyfish-1_1892	288	0	jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_420_jellyfish-21	Jel-28f4_420_Jellyfish-4	Jel-28f4_420_jellyfish-21_4010	420	Jel-28f4_420_Jellyfish-4_1892	420	0	jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_421_jellyfish-7	Jel-28f4_421_Jellyfish-1	Jel-28f4_421_jellyfish-7_4010	421	Jel-28f4_421_Jellyfish-1_1892	421	0	jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_325_jellyfish-11	Jel-28f4_325_Jellyfish-1	Jel-28f4_325_jellyfish-11_4010	325	Jel-28f4_325_Jellyfish-1_1892	325	0	jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_420_jellyfish-21	Jel-28f4_420_Jellyfish-11	Jel-28f4_420_jellyfish-21_4010	420	Jel-28f4_420_Jellyfish-11_1892	420	0	jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_420_Jellyfish-9	Jel-28f4_420_Jellyfish-4	Jel-28f4_420_Jellyfish-9_399	420	Jel-28f4_420_Jellyfish-4_1892	420	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_420_Jellyfish-9	Jel-28f4_420_Jellyfish-11	Jel-28f4_420_Jellyfish-9_399	420	Jel-28f4_420_Jellyfish-11_1892	420	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_420_Jellyfish-9	Jel-28f4_420_Jellyfish-9	Jel-28f4_420_Jellyfish-9_399	420	Jel-28f4_420_Jellyfish-9_1892	420	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_420_Jellyfish-4	Jel-28f4_420_Jellyfish-4	Jel-28f4_420_Jellyfish-4_399	420	Jel-28f4_420_Jellyfish-4_1892	420	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_421_Jellyfish-1	Jel-28f4_421_Jellyfish-1	Jel-28f4_421_Jellyfish-1_399	421	Jel-28f4_421_Jellyfish-1_1892	421	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_420_Jellyfish-11	Jel-28f4_420_Jellyfish-9	Jel-28f4_420_Jellyfish-11_399	420	Jel-28f4_420_Jellyfish-9_1892	420	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_286_Jellyfish-1	Jel-28f4_286_Jellyfish-1	Jel-28f4_286_Jellyfish-1_399	286	Jel-28f4_286_Jellyfish-1_1892	286	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_409_Jellyfish-1	Jel-28f4_409_Jellyfish-1	Jel-28f4_409_Jellyfish-1_399	409	Jel-28f4_409_Jellyfish-1_1892	409	0	Jellyfish	Jellyfish	83.0
+taxongroup	Jel-28f4_414_Jellyfish-6	Jel-28f4_414_Jellyfish-6	Jel-28f4_414_Jellyfish-6_399	414	Jel-28f4_414_Jellyfish-6_1892	414	0	Jellyfish	Jellyfish	83.0
+taxongroup	Cni-c1f9_17_Anthozoa-5	Cni-c1f9_17_cnidarians-39	Cni-c1f9_17_Anthozoa-5_1525	17	Cni-c1f9_17_cnidarians-39_4782	17	0	Anthozoa	cnidarians	72.21
+taxongroup	Ant-85c0_23_Anthozoa-1	Ant-85c0_23_cnidarians-7	Ant-85c0_23_Anthozoa-1_1525	23	Ant-85c0_23_cnidarians-7_4782	23	0	Anthozoa	cnidarians	72.21
+taxongroup	Cni-c1f9_228_Anthozoa-46	Cni-c1f9_228_cnidarians-34	Cni-c1f9_228_Anthozoa-46_1525	228	Cni-c1f9_228_cnidarians-34_4782	228	0	Anthozoa	cnidarians	72.21
+taxongroup	Cni-c1f9_223_Anthozoa-12	Cni-c1f9_223_cnidarians-46	Cni-c1f9_223_Anthozoa-12_1525	223	Cni-c1f9_223_cnidarians-46_4782	223	0	Anthozoa	cnidarians	72.21
+taxongroup	Cni-c1f9_223_Anthozoa-12	Cni-c1f9_223_cnidarians-2	Cni-c1f9_223_Anthozoa-12_1525	223	Cni-c1f9_223_cnidarians-2_4782	223	0	Anthozoa	cnidarians	72.21
+taxongroup	Cni-c1f9_231_Anthozoa-2	Cni-c1f9_231_jellyfishes-57	Cni-c1f9_231_Anthozoa-2_1525	231	Cni-c1f9_231_jellyfishes-57_4783	231	0	Anthozoa	jellyfish	72.21
+taxongroup	Cni-c1f9_231_Anthozoa-2	Cni-c1f9_231_jellyfishes-89	Cni-c1f9_231_Anthozoa-2_1525	231	Cni-c1f9_231_jellyfishes-89_4783	231	0	Anthozoa	jellyfish	72.21
+taxongroup	Cni-c1f9_231_Anthozoa-2	Cni-c1f9_231_jellyfishes-99	Cni-c1f9_231_Anthozoa-2_1525	231	Cni-c1f9_231_jellyfishes-99_4783	231	0	Anthozoa	jellyfish	72.21
+taxongroup	Ant-85c0_7_Anthozoa-1	Ant-85c0_7_jellyfish-13	Ant-85c0_7_Anthozoa-1_1525	7	Ant-85c0_7_jellyfish-13_4783	7	0	Anthozoa	jellyfish	72.21

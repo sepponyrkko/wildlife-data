@@ -1,0 +1,24 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Pha4755_4_stinkhorns-3	Pha4755_4_rainforest-9	Pha4755_4_stinkhorns-3_3050	4	Pha4755_4_rainforest-9_3811	4	0	Bridal veil stinkhorn	rainforest	100.0
+taxongroup	Pha4755_4_stinkhorns-3	Pha4755_4_fungi-5	Pha4755_4_stinkhorns-3_3050	4	Pha4755_4_fungi-5_1399	4	0	Bridal veil stinkhorn	fungi	100.0
+taxongroup	Cor-ff2a_2_Cordyceps-1	Cor-ff2a_2_fungi-10	Cor-ff2a_2_Cordyceps-1_1972	2	Cor-ff2a_2_fungi-10_1399	2	0	Cordyceps	fungi	100.0
+taxongroup	Cor-ff2a_2_Cordyceps-1	Cor-ff2a_2_fungi-7	Cor-ff2a_2_Cordyceps-1_1972	2	Cor-ff2a_2_fungi-7_1399	2	0	Cordyceps	fungi	100.0
+taxongroup	Cor-ff2a_3_cordyceps-4	Cor-ff2a_4_fungi-28	Cor-ff2a_3_cordyceps-4_4828	3	Cor-ff2a_4_fungi-28_1399	4	1	cordyceps	fungi	50.0
+taxongroup	Cor-ff2a_3_cordyceps-4	Cor-ff2a_2_fungi-7	Cor-ff2a_3_cordyceps-4_4828	3	Cor-ff2a_2_fungi-7_1399	2	1	cordyceps	fungi	50.0
+taxongroup	Cor-ff2a_3_cordyceps-4	Cor-ff2a_2_fungi-10	Cor-ff2a_3_cordyceps-4_4828	3	Cor-ff2a_2_fungi-10_1399	2	1	cordyceps	fungi	50.0
+taxongroup	Cor-ff2a_3_cordyceps-4	Cor-ff2a_4_fungi-19	Cor-ff2a_3_cordyceps-4_4828	3	Cor-ff2a_4_fungi-19_1399	4	1	cordyceps	fungi	50.0
+taxongroup	Cor6b59_15_cordyceps-2	Cor6b59_13_fungi-12	Cor6b59_15_cordyceps-2_4828	15	Cor6b59_13_fungi-12_1399	13	2	cordyceps	fungi	33.333
+taxongroup	Cor6b59_10_Cordyceps-7	Cor6b59_12_fungi-7	Cor6b59_10_Cordyceps-7_1972	10	Cor6b59_12_fungi-7_1399	12	2	Cordyceps	fungi	33.333
+taxongroup	Cor-ff2a_2_Cordyceps-1	Cor-ff2a_4_fungi-28	Cor-ff2a_2_Cordyceps-1_1972	2	Cor-ff2a_4_fungi-28_1399	4	2	Cordyceps	fungi	33.333
+taxongroup	Cor-ff2a_2_Cordyceps-1	Cor-ff2a_4_fungi-19	Cor-ff2a_2_Cordyceps-1_1972	2	Cor-ff2a_4_fungi-19_1399	4	2	Cordyceps	fungi	33.333
+taxongroup	Cor6b59_15_cordyceps-2	Cor6b59_12_fungi-7	Cor6b59_15_cordyceps-2_4828	15	Cor6b59_12_fungi-7_1399	12	3	cordyceps	fungi	25.0
+taxongroup	Pilb432_9_fungus-4	Pilb432_7_fungi-2	Pilb432_9_fungus-4_3081	9	Pilb432_7_fungi-2_1399	7	2	Cap throwing fungus	fungi	18.0
+taxongroup	Cor6b59_15_cordyceps-2	Cor6b59_3_fungi-2	Cor6b59_15_cordyceps-2_4828	15	Cor6b59_3_fungi-2_1399	3	12	cordyceps	fungi	7.692
+taxongroup	Cor-ff2a_3_cordyceps-4	Cor-ff2a_64_fungi-2	Cor-ff2a_3_cordyceps-4_4828	3	Cor-ff2a_64_fungi-2_1399	64	61	cordyceps	fungi	1.613
+taxongroup	Pha-fa6a_30_stinkhorn-15	Pha-fa6a_84_fungi-38	Pha-fa6a_30_stinkhorn-15_5331	30	Pha-fa6a_84_fungi-38_1399	84	54	crinoline stinkhorn	fungi	1.509
+taxongroup	Pha-fa6a_30_stinkhorn-18	Pha-fa6a_84_fungi-38	Pha-fa6a_30_stinkhorn-18_5331	30	Pha-fa6a_84_fungi-38_1399	84	54	crinoline stinkhorn	fungi	1.509
+taxongroup	Pha-fa6a_30_stinkhorn-21	Pha-fa6a_84_fungi-38	Pha-fa6a_30_stinkhorn-21_5331	30	Pha-fa6a_84_fungi-38_1399	84	54	crinoline stinkhorn	fungi	1.509
+taxongroup	Pha-fa6a_2_stinkhorn-18	Pha-fa6a_84_fungi-38	Pha-fa6a_2_stinkhorn-18_5332	2	Pha-fa6a_84_fungi-38_1399	84	82	long net stinkhorn	fungi	1.0
+taxongroup	Pha-fa6a_2_stinkhorn-21	Pha-fa6a_84_fungi-38	Pha-fa6a_2_stinkhorn-21_5332	2	Pha-fa6a_84_fungi-38_1399	84	82	long net stinkhorn	fungi	1.0
+taxongroup	Pha-fa6a_2_stinkhorn-8	Pha-fa6a_84_fungi-38	Pha-fa6a_2_stinkhorn-8_5332	2	Pha-fa6a_84_fungi-38_1399	84	82	long net stinkhorn	fungi	1.0
+taxongroup	Pha-fa6a_2_stinkhorns-39	Pha-fa6a_84_fungi-38	Pha-fa6a_2_stinkhorns-39_5332	2	Pha-fa6a_84_fungi-38_1399	84	82	long net stinkhorn	fungi	1.0

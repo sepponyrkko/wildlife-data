@@ -1,0 +1,760 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+adaptation	Orn-f740_60_Ornithischia-30	Orn-f740_60_herbivorous-6	Orn-f740_60_Ornithischia-30_2959	60	Orn-f740_60_herbivorous-6_3784	60	0	Ornithischia	herbivorous	100.0
+adaptation	Her-8d89_33_ornithischia-5	Her-8d89_33_herbivorous-9	Her-8d89_33_ornithischia-5_5286	33	Her-8d89_33_herbivorous-9_3784	33	0	ornithischia	herbivorous	100.0
+adaptation	Tri-1ad8_196_Triceratops-1	Tri-1ad8_196_herbivorous-3	Tri-1ad8_196_Triceratops-1_3562	196	Tri-1ad8_196_herbivorous-3_3784	196	0	Triceratops	herbivorous	100.0
+adaptation	Din-756f_350_Argentinosaurus-21	Din-756f_350_herbivorous-5	Din-756f_350_Argentinosaurus-21_1566	350	Din-756f_350_herbivorous-5_3784	350	0	Argentinosaurus	herbivorous	100.0
+adaptation	Rha-19f8_2_dinosaurs-9	Rha-19f8_2_herbivorous-6	Rha-19f8_2_dinosaurs-9_4549	2	Rha-19f8_2_herbivorous-6_3784	2	0	ornithopod dinosaurs	herbivorous	100.0
+adaptation	Mut-8383_2_dinosaur-9	Mut-8383_2_herbivorous-6	Mut-8383_2_dinosaur-9_4549	2	Mut-8383_2_herbivorous-6_3784	2	0	ornithopod dinosaurs	herbivorous	100.0
+adaptation	Orn-f740_2_Ornithischia-1	Orn-f740_2_herbivorous-10	Orn-f740_2_Ornithischia-1_2959	2	Orn-f740_2_herbivorous-10_3784	2	0	Ornithischia	herbivorous	100.0
+adaptation	Ste-56e3_367_Stegosaurus-15	Ste-56e3_367_herbivorous-27	Ste-56e3_367_Stegosaurus-15_3420	367	Ste-56e3_367_herbivorous-27_3784	367	0	Stegosaurus	herbivorous	100.0
+adaptation	Cer-8d54_2_Ceratopsia-1	Cer-8d54_2_herbivorous-18	Cer-8d54_2_Ceratopsia-1_1383	2	Cer-8d54_2_herbivorous-18_3784	2	0	Ceratopsia	herbivorous	100.0
+adaptation	Sau-6bc5_2_Sauropodomorpha-1	Sau-6bc5_2_herbivorous-35	Sau-6bc5_2_Sauropodomorpha-1_3282	2	Sau-6bc5_2_herbivorous-35_3784	2	0	Sauropodomorpha	herbivorous	100.0
+adaptation	Din-756f_350_Diplodocus-67	Din-756f_350_herbivorous-5	Din-756f_350_Diplodocus-67_2042	350	Din-756f_350_herbivorous-5_3784	350	0	Diplodocus	herbivorous	100.0
+adaptation	Pre-0725_280_ankylosaurs-12	Pre-0725_280_herbivorous-4	Pre-0725_280_ankylosaurs-12_4601	280	Pre-0725_280_herbivorous-4_3784	280	0	ankylosaurs	herbivorous	100.0
+adaptation	Igu-76d2_288_Iguanodon-8	Igu-76d2_288_herbivorous-17	Igu-76d2_288_Iguanodon-8_2577	288	Igu-76d2_288_herbivorous-17_3784	288	0	Iguanodons	herbivorous	100.0
+adaptation	Lea-dca1_2_Leaellynasaura-1	Lea-dca1_2_herbivorous-15	Lea-dca1_2_Leaellynasaura-1_2677	2	Lea-dca1_2_herbivorous-15_3784	2	0	Leaellynasaura	herbivorous	100.0
+adaptation	Apa-3e1a_2_Apatosaurus-1	Apa-3e1a_2_herbivorous-14	Apa-3e1a_2_Apatosaurus-1_1526	2	Apa-3e1a_2_herbivorous-14_3784	2	0	Apatosaurus	herbivorous	100.0
+adaptation	Bro-f1dc_2_dinosaur-33	Bro-f1dc_2_herbivorous-31	Bro-f1dc_2_dinosaur-33_4551	2	Bro-f1dc_2_herbivorous-31_3784	2	0	sauropod dinosaurs	herbivorous	100.0
+adaptation	Apa-3e1a_2_dinosaur-16	Apa-3e1a_2_herbivorous-14	Apa-3e1a_2_dinosaur-16_4551	2	Apa-3e1a_2_herbivorous-14_3784	2	0	sauropod dinosaurs	herbivorous	100.0
+adaptation	Orn-f740_61_Ornithopoda-19	Orn-f740_61_herbivorous-16	Orn-f740_61_Ornithopoda-19_1390	61	Orn-f740_61_herbivorous-16_3784	61	0	Ornithopoda	herbivorous	100.0
+adaptation	Mut-8383_2_Muttaburrasaurus-1	Mut-8383_2_herbivorous-6	Mut-8383_2_Muttaburrasaurus-1_2879	2	Mut-8383_2_herbivorous-6_3784	2	0	Muttaburrasaurus	herbivorous	100.0
+adaptation	Ank-02ea_2_Ornithischia-11	Ank-02ea_2_herbivorous-6	Ank-02ea_2_Ornithischia-11_2959	2	Ank-02ea_2_herbivorous-6_3784	2	0	Ornithischia	herbivorous	100.0
+adaptation	Orn-f740_101_Ornithischia-6	Orn-f740_101_herbivorous-9	Orn-f740_101_Ornithischia-6_2959	101	Orn-f740_101_herbivorous-9_3784	101	0	Ornithischia	herbivorous	100.0
+adaptation	Ank-02ea_2_Ankylosauria-1	Ank-02ea_2_herbivorous-6	Ank-02ea_2_Ankylosauria-1_1510	2	Ank-02ea_2_herbivorous-6_3784	2	0	Ankylosauria	herbivorous	87.0
+adaptation	Rha-19f8_48_hadrosaurs-59	Rha-19f8_48_herbivorous-11	Rha-19f8_48_hadrosaurs-59_5073	48	Rha-19f8_48_herbivorous-11_3784	48	0	hadrosaurs	herbivorous	83.0
+adaptation	Pre-0725_280_hadrosaurs-8	Pre-0725_280_herbivorous-4	Pre-0725_280_hadrosaurs-8_5073	280	Pre-0725_280_herbivorous-4_3784	280	0	hadrosaurs	herbivorous	83.0
+adaptation	Apa-3e1a_2_lizard-7	Apa-3e1a_2_herbivorous-14	Apa-3e1a_2_lizard-7_1528	2	Apa-3e1a_2_herbivorous-14_3784	2	0	deceptive lizard	herbivorous	83.0
+adaptation	Bro-f1dc_212_Brontosaurus-6	Bro-f1dc_212_herbivorous-8	Bro-f1dc_212_Brontosaurus-6_1527	212	Bro-f1dc_212_herbivorous-8_3784	212	0	Brontosaurus	herbivorous	83.0
+adaptation	Bro-f1dc_2_Brontosaurus-1	Bro-f1dc_2_herbivorous-31	Bro-f1dc_2_Brontosaurus-1_1527	2	Bro-f1dc_2_herbivorous-31_3784	2	0	Brontosaurus	herbivorous	83.0
+adaptation	Ste-56e3_9_Stegosaurus-17	Ste-56e3_8_herbivorous-8	Ste-56e3_9_Stegosaurus-17_3420	9	Ste-56e3_8_herbivorous-8_3784	8	1	Stegosaurus	herbivorous	50.0
+adaptation	Sau-6bc5_1_Sauropodomorpha-1	Sau-6bc5_2_herbivorous-35	Sau-6bc5_1_Sauropodomorpha-1_3282	1	Sau-6bc5_2_herbivorous-35_3784	2	1	Sauropodomorpha	herbivorous	50.0
+adaptation	Ste-56e3_367_Stegosaurus-15	Ste-56e3_366_herbivorous-28	Ste-56e3_367_Stegosaurus-15_3420	367	Ste-56e3_366_herbivorous-28_3784	366	1	Stegosaurus	herbivorous	50.0
+adaptation	Ste-56e3_365_Stegosaurus-8	Ste-56e3_366_herbivorous-28	Ste-56e3_365_Stegosaurus-8_3420	365	Ste-56e3_366_herbivorous-28_3784	366	1	Stegosaurus	herbivorous	50.0
+adaptation	Ste-56e3_350_Stegosaurus-1	Ste-56e3_351_herbivorous-14	Ste-56e3_350_Stegosaurus-1_3420	350	Ste-56e3_351_herbivorous-14_3784	351	1	Stegosaurus	herbivorous	50.0
+adaptation	Igu-69c5_3_Iguanodon-8	Igu-69c5_2_herbivorous-11	Igu-69c5_3_Iguanodon-8_2577	3	Igu-69c5_2_herbivorous-11_3784	2	1	Iguanodons	herbivorous	50.0
+adaptation	Cer-8d54_1_Ceratopsia-1	Cer-8d54_2_herbivorous-18	Cer-8d54_1_Ceratopsia-1_1383	1	Cer-8d54_2_herbivorous-18_3784	2	1	Ceratopsia	herbivorous	50.0
+adaptation	Igu-76d2_23_Iguanodon-12	Igu-76d2_22_social-41	Igu-76d2_23_Iguanodon-12_2577	23	Igu-76d2_22_social-41_3788	22	1	Iguanodons	social	50.0
+adaptation	Bro-f1dc_213_Apatosaurus-7	Bro-f1dc_212_herbivorous-8	Bro-f1dc_213_Apatosaurus-7_1526	213	Bro-f1dc_212_herbivorous-8_3784	212	1	Apatosaurus	herbivorous	50.0
+adaptation	Sau-89d2_18_Sauropoda-1	Sau-89d2_19_herbivorous-3	Sau-89d2_18_Sauropoda-1_1393	18	Sau-89d2_19_herbivorous-3_3784	19	1	Sauropoda	herbivorous	50.0
+adaptation	Ste-56e3_7_Stegosaurus-1	Ste-56e3_8_herbivorous-8	Ste-56e3_7_Stegosaurus-1_3420	7	Ste-56e3_8_herbivorous-8_3784	8	1	Stegosaurus	herbivorous	50.0
+adaptation	Igu-76d2_21_Iguanodon-4	Igu-76d2_22_social-41	Igu-76d2_21_Iguanodon-4_2577	21	Igu-76d2_22_social-41_3788	22	1	Iguanodons	social	50.0
+adaptation	Sau-89d2_90_Sauropoda-1	Sau-89d2_89_herbivorous-14	Sau-89d2_90_Sauropoda-1_1393	90	Sau-89d2_89_herbivorous-14_3784	89	1	Sauropoda	herbivorous	50.0
+adaptation	Ste-56e3_7_Apatosaurus-9	Ste-56e3_8_herbivorous-8	Ste-56e3_7_Apatosaurus-9_1526	7	Ste-56e3_8_herbivorous-8_3784	8	1	Apatosaurus	herbivorous	50.0
+adaptation	Din-756f_52_Iguanodon-26	Din-756f_51_herbivorous-14	Din-756f_52_Iguanodon-26_2577	52	Din-756f_51_herbivorous-14_3784	51	1	Iguanodons	herbivorous	50.0
+adaptation	Spi-4527_175_Iguanodon-11	Spi-4527_176_herbivorous-45	Spi-4527_175_Iguanodon-11_2577	175	Spi-4527_176_herbivorous-45_3784	176	1	Iguanodons	herbivorous	50.0
+adaptation	Apa-3e1a_33_Apatosaurus-4	Apa-3e1a_32_herbivorous-16	Apa-3e1a_33_Apatosaurus-4_1526	33	Apa-3e1a_32_herbivorous-16_3784	32	1	Apatosaurus	herbivorous	50.0
+adaptation	Ste-56e3_368_Stegosaurus-9	Ste-56e3_367_herbivorous-27	Ste-56e3_368_Stegosaurus-9_3420	368	Ste-56e3_367_herbivorous-27_3784	367	1	Stegosaurus	herbivorous	50.0
+adaptation	Spi-4527_175_Iguanodon-11	Spi-4527_176_herbivorous-29	Spi-4527_175_Iguanodon-11_2577	175	Spi-4527_176_herbivorous-29_3784	176	1	Iguanodons	herbivorous	50.0
+adaptation	Lea-dca1_1_Leaellynasaura-1	Lea-dca1_2_herbivorous-15	Lea-dca1_1_Leaellynasaura-1_2677	1	Lea-dca1_2_herbivorous-15_3784	2	1	Leaellynasaura	herbivorous	50.0
+adaptation	Mut-8383_1_Muttaburrasaurus-1	Mut-8383_2_herbivorous-6	Mut-8383_1_Muttaburrasaurus-1_2879	1	Mut-8383_2_herbivorous-6_3784	2	1	Muttaburrasaurus	herbivorous	50.0
+adaptation	Lea-dca1_3_Leaellynasaura-6	Lea-dca1_2_herbivorous-15	Lea-dca1_3_Leaellynasaura-6_2677	3	Lea-dca1_2_herbivorous-15_3784	2	1	Leaellynasaura	herbivorous	50.0
+adaptation	Thy-db39_6_Thyreophora-1	Thy-db39_5_herbivorous-4	Thy-db39_6_Thyreophora-1_3531	6	Thy-db39_5_herbivorous-4_3784	5	1	Thyreophora	herbivorous	50.0
+adaptation	Apa-3e1a_1_Apatosaurus-1	Apa-3e1a_2_herbivorous-14	Apa-3e1a_1_Apatosaurus-1_1526	1	Apa-3e1a_2_herbivorous-14_3784	2	1	Apatosaurus	herbivorous	50.0
+adaptation	Sauf0a7_8_dinosaurs-6	Sauf0a7_7_herbivorous-6	Sauf0a7_8_dinosaurs-6_4551	8	Sauf0a7_7_herbivorous-6_3784	7	1	sauropod dinosaurs	herbivorous	50.0
+adaptation	Orn-f740_61_Ornithopoda-19	Orn-f740_60_herbivorous-6	Orn-f740_61_Ornithopoda-19_1390	61	Orn-f740_60_herbivorous-6_3784	60	1	Ornithopoda	herbivorous	50.0
+adaptation	Orn-efbf_2_Ornithopoda-1	Orn-efbf_3_herbivorous-10	Orn-efbf_2_Ornithopoda-1_1390	2	Orn-efbf_3_herbivorous-10_3784	3	1	Ornithopoda	herbivorous	50.0
+adaptation	Thy-db39_6_Ankylosauria-9	Thy-db39_5_herbivorous-4	Thy-db39_6_Ankylosauria-9_1510	6	Thy-db39_5_herbivorous-4_3784	5	1	Ankylosauria	herbivorous	43.5
+adaptation	Ank-02ea_1_Ankylosauria-1	Ank-02ea_2_herbivorous-6	Ank-02ea_1_Ankylosauria-1_1510	1	Ank-02ea_2_herbivorous-6_3784	2	1	Ankylosauria	herbivorous	43.5
+adaptation	Bro-f1dc_1_Brontosaurus-1	Bro-f1dc_2_herbivorous-31	Bro-f1dc_1_Brontosaurus-1_1527	1	Bro-f1dc_2_herbivorous-31_3784	2	1	Brontosaurus	herbivorous	41.5
+adaptation	Tri-1ad8_229_Stegosaurus-11	Tri-1ad8_231_social-13	Tri-1ad8_229_Stegosaurus-11_3420	229	Tri-1ad8_231_social-13_3788	231	2	Stegosaurus	social	33.333
+adaptation	Igu-69c5_7_Ornithopoda-11	Igu-69c5_5_herbivorous-19	Igu-69c5_7_Ornithopoda-11_1390	7	Igu-69c5_5_herbivorous-19_3784	5	2	Ornithopoda	herbivorous	33.333
+adaptation	Sauf0a7_5_dinosaurs-12	Sauf0a7_7_herbivorous-6	Sauf0a7_5_dinosaurs-12_4551	5	Sauf0a7_7_herbivorous-6_3784	7	2	sauropod dinosaurs	herbivorous	33.333
+adaptation	Din-756f_348_Argentinosaurus-14	Din-756f_350_herbivorous-5	Din-756f_348_Argentinosaurus-14_1566	348	Din-756f_350_herbivorous-5_3784	350	2	Argentinosaurus	herbivorous	33.333
+adaptation	Pro-b864_325_Protoceratops-20	Pro-b864_323_herbivorous-12	Pro-b864_325_Protoceratops-20_3134	325	Pro-b864_323_herbivorous-12_3784	323	2	Protoceratops	herbivorous	33.333
+adaptation	Orn-efbf_1_Ornithopoda-1	Orn-efbf_3_herbivorous-10	Orn-efbf_1_Ornithopoda-1_1390	1	Orn-efbf_3_herbivorous-10_3784	3	2	Ornithopoda	herbivorous	33.333
+adaptation	Igu-69c5_7_Ornithopoda-19	Igu-69c5_5_herbivorous-19	Igu-69c5_7_Ornithopoda-19_1390	7	Igu-69c5_5_herbivorous-19_3784	5	2	Ornithopoda	herbivorous	33.333
+adaptation	The-1978_17_Protoceratops-29	The-1978_19_herbivorous-18	The-1978_17_Protoceratops-29_3134	17	The-1978_19_herbivorous-18_3784	19	2	Protoceratops	herbivorous	33.333
+adaptation	Tri-1ad8_198_Triceratops-1	Tri-1ad8_196_herbivorous-3	Tri-1ad8_198_Triceratops-1_3562	198	Tri-1ad8_196_herbivorous-3_3784	196	2	Triceratops	herbivorous	33.333
+adaptation	Tri-1ad8_194_Triceratops-1	Tri-1ad8_196_herbivorous-3	Tri-1ad8_194_Triceratops-1_3562	194	Tri-1ad8_196_herbivorous-3_3784	196	2	Triceratops	herbivorous	33.333
+adaptation	Sauf0a7_9_Argentinosaurus-17	Sauf0a7_7_herbivorous-6	Sauf0a7_9_Argentinosaurus-17_1566	9	Sauf0a7_7_herbivorous-6_3784	7	2	Argentinosaurus	herbivorous	33.333
+adaptation	Bro-f1dc_214_Apatosaurus-4	Bro-f1dc_212_herbivorous-8	Bro-f1dc_214_Apatosaurus-4_1526	214	Bro-f1dc_212_herbivorous-8_3784	212	2	Apatosaurus	herbivorous	33.333
+adaptation	Igu-76d2_346_Iguanodon-40	Igu-76d2_344_social-2	Igu-76d2_346_Iguanodon-40_2577	346	Igu-76d2_344_social-2_3788	344	2	Iguanodons	social	33.333
+adaptation	Pro-cbba_6_Ceratopsia-14	Pro-cbba_4_herbivorous-6	Pro-cbba_6_Ceratopsia-14_1383	6	Pro-cbba_4_herbivorous-6_3784	4	2	Ceratopsia	herbivorous	33.333
+adaptation	Sauf0a7_9_Apatosaurus-6	Sauf0a7_7_herbivorous-6	Sauf0a7_9_Apatosaurus-6_1526	9	Sauf0a7_7_herbivorous-6_3784	7	2	Apatosaurus	herbivorous	33.333
+adaptation	Apa-3e1a_4_Apatosaurus-1	Apa-3e1a_2_herbivorous-14	Apa-3e1a_4_Apatosaurus-1_1526	4	Apa-3e1a_2_herbivorous-14_3784	2	2	Apatosaurus	herbivorous	33.333
+adaptation	Apa-3e1a_34_Apatosaurus-4	Apa-3e1a_32_herbivorous-16	Apa-3e1a_34_Apatosaurus-4_1526	34	Apa-3e1a_32_herbivorous-16_3784	32	2	Apatosaurus	herbivorous	33.333
+adaptation	Tyr-70f1_296_hadrosaurs-4	Tyr-70f1_294_social-6	Tyr-70f1_296_hadrosaurs-4_5073	296	Tyr-70f1_294_social-6_3788	294	2	hadrosaurs	social	27.667
+adaptation	Das-ed91_11_hadrosaur-27	Das-ed91_13_social-27	Das-ed91_11_hadrosaur-27_5073	11	Das-ed91_13_social-27_3788	13	2	hadrosaurs	social	27.667
+adaptation	Das-ed91_122_hadrosaurs-4	Das-ed91_120_social-6	Das-ed91_122_hadrosaurs-4_5073	122	Das-ed91_120_social-6_3788	120	2	hadrosaurs	social	27.667
+adaptation	Tar-5191_203_hadrosaurs-18	Tar-5191_205_herbivorous-12	Tar-5191_203_hadrosaurs-18_5073	203	Tar-5191_205_herbivorous-12_3784	205	2	hadrosaurs	herbivorous	27.667
+adaptation	Orn-f740_5_Thyreophora-36	Orn-f740_2_herbivorous-10	Orn-f740_5_Thyreophora-36_3531	5	Orn-f740_2_herbivorous-10_3784	2	3	Thyreophora	herbivorous	25.0
+adaptation	Tri-1ad8_209_Triceratops-1	Tri-1ad8_206_display-14	Tri-1ad8_209_Triceratops-1_3562	209	Tri-1ad8_206_display-14_3951	206	3	Triceratops	courtship display	25.0
+adaptation	The-2a4b_108_dinosaurs-22	The-2a4b_111_herbivorous-33	The-2a4b_108_dinosaurs-22_5451	108	The-2a4b_111_herbivorous-33_3784	111	3	sauropodomorph dinosaurs	herbivorous	25.0
+adaptation	Orn-f740_5_ankylosaurs-42	Orn-f740_2_herbivorous-10	Orn-f740_5_ankylosaurs-42_4601	5	Orn-f740_2_herbivorous-10_3784	2	3	ankylosaurs	herbivorous	25.0
+adaptation	Orn-f740_5_Triceratops-19	Orn-f740_2_herbivorous-10	Orn-f740_5_Triceratops-19_3562	5	Orn-f740_2_herbivorous-10_3784	2	3	Triceratops	herbivorous	25.0
+adaptation	Tri-1ad8_203_Triceratops-1	Tri-1ad8_206_display-14	Tri-1ad8_203_Triceratops-1_3562	203	Tri-1ad8_206_display-14_3951	206	3	Triceratops	courtship display	25.0
+adaptation	Sau-89d2_86_Diplodocus-11	Sau-89d2_89_herbivorous-14	Sau-89d2_86_Diplodocus-11_2042	86	Sau-89d2_89_herbivorous-14_3784	89	3	Diplodocus	herbivorous	25.0
+adaptation	Thy-db39_2_Thyreophora-1	Thy-db39_5_herbivorous-4	Thy-db39_2_Thyreophora-1_3531	2	Thy-db39_5_herbivorous-4_3784	5	3	Thyreophora	herbivorous	25.0
+adaptation	Thy-db39_8_Thyreophora-1	Thy-db39_5_herbivorous-4	Thy-db39_8_Thyreophora-1_3531	8	Thy-db39_5_herbivorous-4_3784	5	3	Thyreophora	herbivorous	25.0
+adaptation	Din-756f_372_Iguanodon-28	Din-756f_369_social-6	Din-756f_372_Iguanodon-28_2577	372	Din-756f_369_social-6_3788	369	3	Iguanodons	social	25.0
+adaptation	Igu-76d2_341_Iguanodon-35	Igu-76d2_344_social-2	Igu-76d2_341_Iguanodon-35_2577	341	Igu-76d2_344_social-2_3788	344	3	Iguanodons	social	25.0
+adaptation	Orn-f740_64_Ceratopsia-26	Orn-f740_61_herbivorous-16	Orn-f740_64_Ceratopsia-26_1383	64	Orn-f740_61_herbivorous-16_3784	61	3	Ceratopsia	herbivorous	25.0
+adaptation	Sau-6bc5_63_Sauropodomorpha-1	Sau-6bc5_60_herbivorous-20	Sau-6bc5_63_Sauropodomorpha-1_3282	63	Sau-6bc5_60_herbivorous-20_3784	60	3	Sauropodomorpha	herbivorous	25.0
+adaptation	Thy-db39_2_bearers-5	Thy-db39_5_herbivorous-4	Thy-db39_2_bearers-5_3532	2	Thy-db39_5_herbivorous-4_3784	5	3	shield bearers	herbivorous	20.75
+adaptation	Sau-cca0_17_Ornithopoda-5	Sau-cca0_13_herbivorous-35	Sau-cca0_17_Ornithopoda-5_1390	17	Sau-cca0_13_herbivorous-35_3784	13	4	Ornithopoda	herbivorous	20.0
+adaptation	Din-756f_17_dinosaurs-39	Din-756f_13_herbivorous-3	Din-756f_17_dinosaurs-39_4551	17	Din-756f_13_herbivorous-3_3784	13	4	sauropod dinosaurs	herbivorous	20.0
+adaptation	Thy-db39_1_Thyreophora-1	Thy-db39_5_herbivorous-4	Thy-db39_1_Thyreophora-1_3531	1	Thy-db39_5_herbivorous-4_3784	5	4	Thyreophora	herbivorous	20.0
+adaptation	Lea-dca1_6_Leaellynasaura-1	Lea-dca1_2_herbivorous-15	Lea-dca1_6_Leaellynasaura-1_2677	6	Lea-dca1_2_herbivorous-15_3784	2	4	Leaellynasaura	herbivorous	20.0
+adaptation	Pro-b864_305_Protoceratops-33	Pro-b864_301_herbivorous-5	Pro-b864_305_Protoceratops-33_3134	305	Pro-b864_301_herbivorous-5_3784	301	4	Protoceratops	herbivorous	20.0
+adaptation	Orn-f740_64_Ceratopsia-26	Orn-f740_60_herbivorous-6	Orn-f740_64_Ceratopsia-26_1383	64	Orn-f740_60_herbivorous-6_3784	60	4	Ceratopsia	herbivorous	20.0
+adaptation	Din-756f_17_dinosaurs-26	Din-756f_13_herbivorous-3	Din-756f_17_dinosaurs-26_4551	17	Din-756f_13_herbivorous-3_3784	13	4	sauropod dinosaurs	herbivorous	20.0
+adaptation	Din-756f_17_dinosaurs-3	Din-756f_13_herbivorous-3	Din-756f_17_dinosaurs-3_4551	17	Din-756f_13_herbivorous-3_3784	13	4	sauropod dinosaurs	herbivorous	20.0
+adaptation	Igu-69c5_9_dinosaurs-25	Igu-69c5_5_herbivorous-19	Igu-69c5_9_dinosaurs-25_5072	9	Igu-69c5_5_herbivorous-19_3784	5	4	duck-billed dinosaurs	herbivorous	20.0
+adaptation	Sauf0a7_3_dinosaurs-10	Sauf0a7_7_herbivorous-6	Sauf0a7_3_dinosaurs-10_4551	3	Sauf0a7_7_herbivorous-6_3784	7	4	sauropod dinosaurs	herbivorous	20.0
+adaptation	Igu-76d2_26_Iguanodon-4	Igu-76d2_22_social-41	Igu-76d2_26_Iguanodon-4_2577	26	Igu-76d2_22_social-41_3788	22	4	Iguanodons	social	20.0
+adaptation	Igu-76d2_18_Iguanodon-5	Igu-76d2_22_social-41	Igu-76d2_18_Iguanodon-5_2577	18	Igu-76d2_22_social-41_3788	22	4	Iguanodons	social	20.0
+adaptation	Thy-db39_9_Cerapoda-7	Thy-db39_5_herbivorous-4	Thy-db39_9_Cerapoda-7_1853	9	Thy-db39_5_herbivorous-4_3784	5	4	Cerapoda	herbivorous	20.0
+adaptation	Sau-cca0_10_dinosaurs-15	Sau-cca0_13_herbivorous-35	Sau-cca0_10_dinosaurs-15_5285	10	Sau-cca0_13_herbivorous-35_3784	13	3	bird-hipped dinosaurs	herbivorous	18.75
+adaptation	Din-756f_17_dinosaurs-26	Din-756f_12_social-24	Din-756f_17_dinosaurs-26_4551	17	Din-756f_12_social-24_3788	12	5	sauropod dinosaurs	social	16.667
+adaptation	Din-756f_17_dinosaurs-3	Din-756f_12_social-24	Din-756f_17_dinosaurs-3_4551	17	Din-756f_12_social-24_3788	12	5	sauropod dinosaurs	social	16.667
+adaptation	Din-756f_17_dinosaurs-39	Din-756f_12_social-24	Din-756f_17_dinosaurs-39_4551	17	Din-756f_12_social-24_3788	12	5	sauropod dinosaurs	social	16.667
+adaptation	Orn-f740_5_ankylosaurs-42	Orn-f740_10_herbivorous-4	Orn-f740_5_ankylosaurs-42_4601	5	Orn-f740_10_herbivorous-4_3784	10	5	ankylosaurs	herbivorous	16.667
+adaptation	Tri-1ad8_191_Triceratops-14	Tri-1ad8_196_herbivorous-3	Tri-1ad8_191_Triceratops-14_3562	191	Tri-1ad8_196_herbivorous-3_3784	196	5	Triceratops	herbivorous	16.667
+adaptation	Orn-f740_5_Triceratops-19	Orn-f740_10_herbivorous-4	Orn-f740_5_Triceratops-19_3562	5	Orn-f740_10_herbivorous-4_3784	10	5	Triceratops	herbivorous	16.667
+adaptation	Thy-db39_10_Thyreophora-1	Thy-db39_5_herbivorous-4	Thy-db39_10_Thyreophora-1_3531	10	Thy-db39_5_herbivorous-4_3784	5	5	Thyreophora	herbivorous	16.667
+adaptation	Orn-f740_5_Thyreophora-36	Orn-f740_10_herbivorous-4	Orn-f740_5_Thyreophora-36_3531	5	Orn-f740_10_herbivorous-4_3784	10	5	Thyreophora	herbivorous	16.667
+adaptation	Mut-8383_7_Muttaburrasaurus-1	Mut-8383_2_herbivorous-6	Mut-8383_7_Muttaburrasaurus-1_2879	7	Mut-8383_2_herbivorous-6_3784	2	5	Muttaburrasaurus	herbivorous	16.667
+adaptation	Igu-69c5_7_Ornithopoda-19	Igu-69c5_2_herbivorous-11	Igu-69c5_7_Ornithopoda-19_1390	7	Igu-69c5_2_herbivorous-11_3784	2	5	Ornithopoda	herbivorous	16.667
+adaptation	Igu-69c5_7_Ornithopoda-11	Igu-69c5_2_herbivorous-11	Igu-69c5_7_Ornithopoda-11_1390	7	Igu-69c5_2_herbivorous-11_3784	2	5	Ornithopoda	herbivorous	16.667
+adaptation	Orn-efbf_8_Ornithopoda-1	Orn-efbf_3_herbivorous-10	Orn-efbf_8_Ornithopoda-1_1390	8	Orn-efbf_3_herbivorous-10_3784	3	5	Ornithopoda	herbivorous	16.667
+adaptation	Ank-02ea_7_Ankylosauria-1	Ank-02ea_2_herbivorous-6	Ank-02ea_7_Ankylosauria-1_1510	7	Ank-02ea_2_herbivorous-6_3784	2	5	Ankylosauria	herbivorous	14.5
+adaptation	Orn-f740_16_Thyreophora-15	Orn-f740_10_herbivorous-4	Orn-f740_16_Thyreophora-15_3531	16	Orn-f740_10_herbivorous-4_3784	10	6	Thyreophora	herbivorous	14.286
+adaptation	Din-756f_394_bird-4	Din-756f_391_herbivorous-5	Din-756f_394_bird-4_2960	394	Din-756f_391_herbivorous-5_3784	391	3	Bird-hipped	herbivorous	13.5
+adaptation	Sau-cca0_10_dinosaurs-15	Sau-cca0_5_herbivorous-30	Sau-cca0_10_dinosaurs-15_2958	10	Sau-cca0_5_herbivorous-30_3784	5	5	Bird-hipped dinosaurs	herbivorous	12.5
+adaptation	Tri-1ad8_213_Triceratops-16	Tri-1ad8_206_display-14	Tri-1ad8_213_Triceratops-16_3562	213	Tri-1ad8_206_display-14_3951	206	7	Triceratops	courtship display	12.5
+adaptation	Tri-1ad8_203_Triceratops-1	Tri-1ad8_196_herbivorous-3	Tri-1ad8_203_Triceratops-1_3562	203	Tri-1ad8_196_herbivorous-3_3784	196	7	Triceratops	herbivorous	12.5
+adaptation	Igu-69c5_9_dinosaurs-25	Igu-69c5_2_herbivorous-11	Igu-69c5_9_dinosaurs-25_5072	9	Igu-69c5_2_herbivorous-11_3784	2	7	duck-billed dinosaurs	herbivorous	12.5
+adaptation	Ank-02ea_9_Thyreophora-7	Ank-02ea_2_herbivorous-6	Ank-02ea_9_Thyreophora-7_3531	9	Ank-02ea_2_herbivorous-6_3784	2	7	Thyreophora	herbivorous	12.5
+adaptation	Thy-db39_12_Thyreophora-1	Thy-db39_5_herbivorous-4	Thy-db39_12_Thyreophora-1_3531	12	Thy-db39_5_herbivorous-4_3784	5	7	Thyreophora	herbivorous	12.5
+adaptation	Sau-89d2_13_foot-23	Sau-89d2_19_herbivorous-3	Sau-89d2_13_foot-23_1396	13	Sau-89d2_19_herbivorous-3_3784	19	6	lizard foot	herbivorous	11.857
+adaptation	Tri-1ad8_198_Triceratops-1	Tri-1ad8_206_display-14	Tri-1ad8_198_Triceratops-1_3562	198	Tri-1ad8_206_display-14_3951	206	8	Triceratops	courtship display	11.111
+adaptation	Tri-1ad8_214_Triceratops-19	Tri-1ad8_206_display-14	Tri-1ad8_214_Triceratops-19_3562	214	Tri-1ad8_206_display-14_3951	206	8	Triceratops	courtship display	11.111
+adaptation	Pro-b864_315_Protoceratops-10	Pro-b864_323_herbivorous-12	Pro-b864_315_Protoceratops-10_3134	315	Pro-b864_323_herbivorous-12_3784	323	8	Protoceratops	herbivorous	11.111
+adaptation	Orn-f740_69_ankylosaurs-5	Orn-f740_61_herbivorous-16	Orn-f740_69_ankylosaurs-5_4601	69	Orn-f740_61_herbivorous-16_3784	61	8	ankylosaurs	herbivorous	11.111
+adaptation	Tri-1ad8_214_Triceratops-9	Tri-1ad8_206_display-14	Tri-1ad8_214_Triceratops-9_3562	214	Tri-1ad8_206_display-14_3951	206	8	Triceratops	courtship display	11.111
+adaptation	Sau-6bc5_52_sauropodomorpha-7	Sau-6bc5_60_herbivorous-20	Sau-6bc5_52_sauropodomorpha-7_5452	52	Sau-6bc5_60_herbivorous-20_3784	60	8	sauropodomorpha	herbivorous	11.111
+adaptation	Tri-1ad8_215_Triceratops-12	Tri-1ad8_206_display-14	Tri-1ad8_215_Triceratops-12_3562	215	Tri-1ad8_206_display-14_3951	206	9	Triceratops	courtship display	10.0
+adaptation	Orn-f740_70_ankylosaurs-16	Orn-f740_61_herbivorous-16	Orn-f740_70_ankylosaurs-16_4601	70	Orn-f740_61_herbivorous-16_3784	61	9	ankylosaurs	herbivorous	10.0
+adaptation	Orn-f740_69_ankylosaurs-5	Orn-f740_60_herbivorous-6	Orn-f740_69_ankylosaurs-5_4601	69	Orn-f740_60_herbivorous-6_3784	60	9	ankylosaurs	herbivorous	10.0
+adaptation	Tri-1ad8_196_Triceratops-1	Tri-1ad8_206_display-14	Tri-1ad8_196_Triceratops-1_3562	196	Tri-1ad8_206_display-14_3951	206	10	Triceratops	courtship display	9.091
+adaptation	Orn-f740_91_Cerapoda-45	Orn-f740_101_herbivorous-9	Orn-f740_91_Cerapoda-45_1853	91	Orn-f740_101_herbivorous-9_3784	101	10	Cerapoda	herbivorous	9.091
+adaptation	Bro-f1dc_13_Diplodocidae-8	Bro-f1dc_2_herbivorous-31	Bro-f1dc_13_Diplodocidae-8_564	13	Bro-f1dc_2_herbivorous-31_3784	2	11	Diplodocidae	herbivorous	8.333
+adaptation	Tri-1ad8_194_Triceratops-1	Tri-1ad8_206_display-14	Tri-1ad8_194_Triceratops-1_3562	194	Tri-1ad8_206_display-14_3951	206	12	Triceratops	courtship display	7.692
+adaptation	Orn-f740_73_Cerapoda-24	Orn-f740_61_herbivorous-16	Orn-f740_73_Cerapoda-24_1853	73	Orn-f740_61_herbivorous-16_3784	61	12	Cerapoda	herbivorous	7.692
+adaptation	Orn-f740_73_Cerapoda-24	Orn-f740_60_herbivorous-6	Orn-f740_73_Cerapoda-24_1853	73	Orn-f740_60_herbivorous-6_3784	60	13	Cerapoda	herbivorous	7.143
+adaptation	Pro-b864_315_Protoceratops-10	Pro-b864_301_herbivorous-5	Pro-b864_315_Protoceratops-10_3134	315	Pro-b864_301_herbivorous-5_3784	301	14	Protoceratops	herbivorous	6.667
+adaptation	Orn-f740_24_Ankylosaurs-1	Orn-f740_10_herbivorous-4	Orn-f740_24_Ankylosaurs-1_1509	24	Orn-f740_10_herbivorous-4_3784	10	14	Ankylosaurs	herbivorous	6.667
+adaptation	Apa-3e1a_17_Diplodocidae-8	Apa-3e1a_32_herbivorous-16	Apa-3e1a_17_Diplodocidae-8_564	17	Apa-3e1a_32_herbivorous-16_3784	32	15	Diplodocidae	herbivorous	6.25
+adaptation	Apa-3e1a_17_Diplodocidae-8	Apa-3e1a_2_herbivorous-14	Apa-3e1a_17_Diplodocidae-8_564	17	Apa-3e1a_2_herbivorous-14_3784	2	15	Diplodocidae	herbivorous	6.25
+adaptation	Din-756f_350_Diplodocus-67	Din-756f_367_herbivorous-3	Din-756f_350_Diplodocus-67_2042	350	Din-756f_367_herbivorous-3_3784	367	17	Diplodocus	herbivorous	5.556
+adaptation	Pro-b864_305_Protoceratops-33	Pro-b864_323_herbivorous-12	Pro-b864_305_Protoceratops-33_3134	305	Pro-b864_323_herbivorous-12_3784	323	18	Protoceratops	herbivorous	5.263
+adaptation	Din-756f_350_Argentinosaurus-21	Din-756f_369_social-6	Din-756f_350_Argentinosaurus-21_1566	350	Din-756f_369_social-6_3788	369	19	Argentinosaurus	social	5.0
+adaptation	Din-756f_350_Diplodocus-67	Din-756f_369_social-6	Din-756f_350_Diplodocus-67_2042	350	Din-756f_369_social-6_3788	369	19	Diplodocus	social	5.0
+adaptation	Sau-6bc5_52_sauropodomorpha-7	Sau-6bc5_32_herbivorous-19	Sau-6bc5_52_sauropodomorpha-7_5452	52	Sau-6bc5_32_herbivorous-19_3784	32	20	sauropodomorpha	herbivorous	4.762
+adaptation	Din-756f_276_dinosaurs-66	Din-756f_296_herbivorous-50	Din-756f_276_dinosaurs-66_5072	276	Din-756f_296_herbivorous-50_3784	296	20	duck-billed dinosaurs	herbivorous	4.762
+adaptation	Din-756f_348_Argentinosaurus-14	Din-756f_369_social-6	Din-756f_348_Argentinosaurus-14_1566	348	Din-756f_369_social-6_3788	369	21	Argentinosaurus	social	4.545
+adaptation	Sau-89d2_78_bird-2	Sau-89d2_89_herbivorous-14	Sau-89d2_78_bird-2_5287	78	Sau-89d2_89_herbivorous-14_3784	89	11	bird-hipped	herbivorous	4.5
+adaptation	Orn-f740_24_Ankylosaurs-1	Orn-f740_2_herbivorous-10	Orn-f740_24_Ankylosaurs-1_1509	24	Orn-f740_2_herbivorous-10_3784	2	22	Ankylosaurs	herbivorous	4.348
+adaptation	Sau-89d2_2_dinosaurs-38	Sau-89d2_19_herbivorous-3	Sau-89d2_2_dinosaurs-38_5285	2	Sau-89d2_19_herbivorous-3_3784	19	17	bird-hipped dinosaurs	herbivorous	4.167
+adaptation	Gig-7116_135_bird-16	Gig-7116_123_herbivorous-19	Gig-7116_135_bird-16_5287	135	Gig-7116_123_herbivorous-19_3784	123	12	bird-hipped	herbivorous	4.154
+adaptation	Pro-b864_325_Protoceratops-20	Pro-b864_301_herbivorous-5	Pro-b864_325_Protoceratops-20_3134	325	Pro-b864_301_herbivorous-5_3784	301	24	Protoceratops	herbivorous	4.0
+adaptation	Sau-cca0_10_dinosaurs-15	Sau-cca0_28_herbivorous-17	Sau-cca0_10_dinosaurs-15_5285	10	Sau-cca0_28_herbivorous-17_3784	28	18	bird-hipped dinosaurs	herbivorous	3.947
+adaptation	The-aba9_215_bird-12	The-aba9_202_herbivorous-10	The-aba9_215_bird-12_5287	215	The-aba9_202_herbivorous-10_3784	202	13	bird-hipped	herbivorous	3.857
+adaptation	Pro-cbba_29_Protoceratops-20	Pro-cbba_4_herbivorous-6	Pro-cbba_29_Protoceratops-20_3134	29	Pro-cbba_4_herbivorous-6_3784	4	25	Protoceratops	herbivorous	3.846
+adaptation	All-7078_43_Apatosaurus-12	All-7078_17_social-9	All-7078_43_Apatosaurus-12_1526	43	All-7078_17_social-9_3788	17	26	Apatosaurus	social	3.704
+adaptation	Din-756f_274_teeth-10	Din-756f_296_herbivorous-50	Din-756f_274_teeth-10_2579	274	Din-756f_296_herbivorous-50_3784	296	22	iguana tooth	herbivorous	3.609
+adaptation	The-1978_190_birds-10	The-1978_176_herbivorous-52	The-1978_190_birds-10_2960	190	The-1978_176_herbivorous-52_3784	176	14	Bird-hipped	herbivorous	3.6
+adaptation	The-1978_190_bird-17	The-1978_176_herbivorous-52	The-1978_190_bird-17_2960	190	The-1978_176_herbivorous-52_3784	176	14	Bird-hipped	herbivorous	3.6
+adaptation	Sau-cca0_10_dinosaurs-15	Sau-cca0_30_herbivorous-14	Sau-cca0_10_dinosaurs-15_5285	10	Sau-cca0_30_herbivorous-14_3784	30	20	bird-hipped dinosaurs	herbivorous	3.571
+adaptation	Igu-76d2_371_Stegosaurus-20	Igu-76d2_344_social-2	Igu-76d2_371_Stegosaurus-20_3420	371	Igu-76d2_344_social-2_3788	344	27	Stegosaurus	social	3.571
+adaptation	Orn-f740_73_Cerapoda-24	Orn-f740_101_herbivorous-9	Orn-f740_73_Cerapoda-24_1853	73	Orn-f740_101_herbivorous-9_3784	101	28	Cerapoda	herbivorous	3.448
+adaptation	Din-756f_350_Argentinosaurus-21	Din-756f_380_social-7	Din-756f_350_Argentinosaurus-21_1566	350	Din-756f_380_social-7_3788	380	30	Argentinosaurus	social	3.226
+adaptation	Her-8d89_33_ornithischia-5	Her-8d89_3_herbivorous-9	Her-8d89_33_ornithischia-5_5286	33	Her-8d89_3_herbivorous-9_3784	3	30	ornithischia	herbivorous	3.226
+adaptation	Orn-f740_91_Cerapoda-45	Orn-f740_61_herbivorous-16	Orn-f740_91_Cerapoda-45_1853	91	Orn-f740_61_herbivorous-16_3784	61	30	Cerapoda	herbivorous	3.226
+adaptation	Din-756f_350_Diplodocus-67	Din-756f_380_social-7	Din-756f_350_Diplodocus-67_2042	350	Din-756f_380_social-7_3788	380	30	Diplodocus	social	3.226
+adaptation	Orn-f740_91_Cerapoda-45	Orn-f740_60_herbivorous-6	Orn-f740_91_Cerapoda-45_1853	91	Orn-f740_60_herbivorous-6_3784	60	31	Cerapoda	herbivorous	3.125
+adaptation	Din-756f_348_Argentinosaurus-14	Din-756f_380_social-7	Din-756f_348_Argentinosaurus-14_1566	348	Din-756f_380_social-7_3788	380	32	Argentinosaurus	social	3.03
+adaptation	Din-756f_476_Stegosaurus-39	Din-756f_442_social-30	Din-756f_476_Stegosaurus-39_3420	476	Din-756f_442_social-30_3788	442	34	Stegosaurus	social	2.857
+adaptation	Orn-f740_91_Cerapoda-45	Orn-f740_125_herbivorous-4	Orn-f740_91_Cerapoda-45_1853	91	Orn-f740_125_herbivorous-4_3784	125	34	Cerapoda	herbivorous	2.857
+adaptation	Orn-efbf_38_Cerapoda-13	Orn-efbf_3_herbivorous-10	Orn-efbf_38_Cerapoda-13_1853	38	Orn-efbf_3_herbivorous-10_3784	3	35	Cerapoda	herbivorous	2.778
+adaptation	Pro-b864_265_Protoceratops-21	Pro-b864_301_herbivorous-5	Pro-b864_265_Protoceratops-21_3134	265	Pro-b864_301_herbivorous-5_3784	301	36	Protoceratops	herbivorous	2.703
+adaptation	Orn-f740_24_Ankylosaurs-1	Orn-f740_60_herbivorous-6	Orn-f740_24_Ankylosaurs-1_1509	24	Orn-f740_60_herbivorous-6_3784	60	36	Ankylosaurs	herbivorous	2.703
+adaptation	Apa-3e1a_2_lizard-7	Apa-3e1a_32_herbivorous-16	Apa-3e1a_2_lizard-7_1528	2	Apa-3e1a_32_herbivorous-16_3784	32	30	deceptive lizard	herbivorous	2.677
+adaptation	Orn-f740_24_Ankylosaurs-1	Orn-f740_61_herbivorous-16	Orn-f740_24_Ankylosaurs-1_1509	24	Orn-f740_61_herbivorous-16_3784	61	37	Ankylosaurs	herbivorous	2.632
+adaptation	Din-756f_350_Diplodocus-67	Din-756f_391_herbivorous-5	Din-756f_350_Diplodocus-67_2042	350	Din-756f_391_herbivorous-5_3784	391	41	Diplodocus	herbivorous	2.381
+adaptation	Orn-f740_91_Cerapoda-45	Orn-f740_132_herbivorous-8	Orn-f740_91_Cerapoda-45_1853	91	Orn-f740_132_herbivorous-8_3784	132	41	Cerapoda	herbivorous	2.381
+adaptation	The-1978_190_bird-17	The-1978_168_herbivorous-63	The-1978_190_bird-17_5287	190	The-1978_168_herbivorous-63_3784	168	22	bird-hipped	herbivorous	2.348
+adaptation	The-1978_190_birds-10	The-1978_168_herbivorous-63	The-1978_190_birds-10_2960	190	The-1978_168_herbivorous-63_3784	168	22	Bird-hipped	herbivorous	2.348
+adaptation	Orn-efbf_45_ornithopoda-9	Orn-efbf_3_herbivorous-10	Orn-efbf_45_ornithopoda-9_4548	45	Orn-efbf_3_herbivorous-10_3784	3	42	ornithopoda	herbivorous	2.326
+adaptation	Rha-19f8_2_dinosaurs-9	Rha-19f8_48_herbivorous-11	Rha-19f8_2_dinosaurs-9_4549	2	Rha-19f8_48_herbivorous-11_3784	48	46	ornithopod dinosaurs	herbivorous	2.128
+adaptation	Sca-9161_27_Apatosaurus-8	Sca-9161_74_social-26	Sca-9161_27_Apatosaurus-8_1526	27	Sca-9161_74_social-26_3788	74	47	Apatosaurus	social	2.083
+adaptation	All-7078_289_Stegosaurus-31	All-7078_336_Social-3	All-7078_289_Stegosaurus-31_3420	289	All-7078_336_Social-3_3788	336	47	Stegosaurus	social	2.083
+adaptation	All-7078_289_Stegosaurus-25	All-7078_336_Social-3	All-7078_289_Stegosaurus-25_3420	289	All-7078_336_Social-3_3788	336	47	Stegosaurus	social	2.083
+adaptation	All-7078_289_Stegosaurus-9	All-7078_336_Social-3	All-7078_289_Stegosaurus-9_3420	289	All-7078_336_Social-3_3788	336	47	Stegosaurus	social	2.083
+adaptation	The-1978_190_bird-17	The-1978_165_herbivorous-34	The-1978_190_bird-17_2960	190	The-1978_165_herbivorous-34_3784	165	25	Bird-hipped	herbivorous	2.077
+taxongroup	Ste-56e3_135_Stegosaurus-24	Ste-56e3_135_animals-14	Ste-56e3_135_Stegosaurus-24_3420	135	Ste-56e3_135_animals-14_3812	135	0	Stegosaurus	animals	100.0
+taxongroup	Ste-56e3_346_Stegosaurus-13	Ste-56e3_346_reptiles-34	Ste-56e3_346_Stegosaurus-13_3420	346	Ste-56e3_346_reptiles-34_419	346	0	Stegosaurus	Reptiles	100.0
+taxongroup	Bro-f1dc_296_Stegosaurus-35	Bro-f1dc_296_Dinosaurs-1	Bro-f1dc_296_Stegosaurus-35_3420	296	Bro-f1dc_296_Dinosaurs-1_2039	296	0	Stegosaurus	Dinosaurs	100.0
+taxongroup	Apa-3e1a_296_Stegosaurus-40	Apa-3e1a_296_Dinosaurs-1	Apa-3e1a_296_Stegosaurus-40_3420	296	Apa-3e1a_296_Dinosaurs-1_2039	296	0	Stegosaurus	Dinosaurs	100.0
+taxongroup	All-7078_390_Stegosaurus-53	All-7078_390_Dinosaurs-1	All-7078_390_Stegosaurus-53_3420	390	All-7078_390_Dinosaurs-1_2039	390	0	Stegosaurus	Dinosaurs	100.0
+taxongroup	Dip-c98d_257_Stegosaurus-42	Dip-c98d_257_Dinosaurs-1	Dip-c98d_257_Stegosaurus-42_3420	257	Dip-c98d_257_Dinosaurs-1_2039	257	0	Stegosaurus	Dinosaurs	100.0
+taxongroup	Ste-56e3_385_Stegosaurus-5	Ste-56e3_385_Dinosaurs-1	Ste-56e3_385_Stegosaurus-5_3420	385	Ste-56e3_385_Dinosaurs-1_2039	385	0	Stegosaurus	Dinosaurs	100.0
+taxongroup	Mam8003_40_dinosaur-18	Mam8003_40_animals-13	Mam8003_40_dinosaur-18_4860	40	Mam8003_40_animals-13_3812	40	0	dinosaurs	animals	100.0
+taxongroup	Ste-2738_116_Stegosaurus-8	Ste-2738_116_Ornithischia-3	Ste-2738_116_Stegosaurus-8_3420	116	Ste-2738_116_Ornithischia-3_2959	116	0	Stegosaurus	Ornithischia	100.0
+taxongroup	Orn-f740_18_Stegosaurus-27	Orn-f740_18_Stegosauria-8	Orn-f740_18_Stegosaurus-27_3420	18	Orn-f740_18_Stegosauria-8_1397	18	0	Stegosaurus	Stegosauria	100.0
+taxongroup	Mam8003_40_dinosaurs-23	Mam8003_40_animals-13	Mam8003_40_dinosaurs-23_4860	40	Mam8003_40_animals-13_3812	40	0	dinosaurs	animals	100.0
+taxongroup	Uta-b72d_81_dinosaur-2	Uta-b72d_81_animals-29	Uta-b72d_81_dinosaur-2_4860	81	Uta-b72d_81_animals-29_3812	81	0	dinosaurs	animals	100.0
+taxongroup	Ste-543e_7_Stegosaurus-9	Ste-543e_7_Stegosauridae-3	Ste-543e_7_Stegosaurus-9_3420	7	Ste-543e_7_Stegosauridae-3_804	7	0	Stegosaurus	Stegosauridae	100.0
+taxongroup	Thy-db39_64_Stegosaurus-11	Thy-db39_64_Thyreophora-1	Thy-db39_64_Stegosaurus-11_3420	64	Thy-db39_64_Thyreophora-1_3531	64	0	Stegosaurus	Thyreophora	100.0
+taxongroup	Thy-db39_8_Stegosaurus-18	Thy-db39_8_Thyreophora-1	Thy-db39_8_Stegosaurus-18_3420	8	Thy-db39_8_Thyreophora-1_3531	8	0	Stegosaurus	Thyreophora	100.0
+taxongroup	Pro-b864_569_dinosaur-20	Pro-b864_569_animals-32	Pro-b864_569_dinosaur-20_4860	569	Pro-b864_569_animals-32_3812	569	0	dinosaurs	animals	100.0
+taxongroup	Ste-56e3_364_Stegosaurus-1	Ste-56e3_364_animal-26	Ste-56e3_364_Stegosaurus-1_3420	364	Ste-56e3_364_animal-26_3812	364	0	Stegosaurus	animals	100.0
+taxongroup	Pro-b864_570_dinosaur-41	Pro-b864_570_animals-28	Pro-b864_570_dinosaur-41_4860	570	Pro-b864_570_animals-28_3812	570	0	dinosaurs	animals	100.0
+taxongroup	Mic-5fc5_122_dinosaurs-7	Mic-5fc5_122_animals-23	Mic-5fc5_122_dinosaurs-7_4860	122	Mic-5fc5_122_animals-23_3812	122	0	dinosaurs	animals	100.0
+taxongroup	Dip-c98d_187_dinosaur-37	Dip-c98d_187_animals-24	Dip-c98d_187_dinosaur-37_4860	187	Dip-c98d_187_animals-24_3812	187	0	dinosaurs	animals	100.0
+taxongroup	Sau-6bc5_37_Sauropodomorpha-1	Sau-6bc5_37_Saurischia-12	Sau-6bc5_37_Sauropodomorpha-1_3282	37	Sau-6bc5_37_Saurischia-12_3279	37	0	Sauropodomorpha	Saurischia	100.0
+taxongroup	Sau-6bc5_50_Sauropodomorpha-26	Sau-6bc5_50_dinosaurs-7	Sau-6bc5_50_Sauropodomorpha-26_3282	50	Sau-6bc5_50_dinosaurs-7_4860	50	0	Sauropodomorpha	dinosaurs	100.0
+taxongroup	The-1978_215_Sauropodomorpha-12	The-1978_215_Saurischia-16	The-1978_215_Sauropodomorpha-12_3282	215	The-1978_215_Saurischia-16_3279	215	0	Sauropodomorpha	Saurischia	100.0
+taxongroup	Orn-f740_109_Sauropodomorpha-39	Orn-f740_109_Saurischia-22	Orn-f740_109_Sauropodomorpha-39_3282	109	Orn-f740_109_Saurischia-22_3279	109	0	Sauropodomorpha	Saurischia	100.0
+taxongroup	Sau-6bc5_49_Sauropodomorpha-11	Sau-6bc5_49_Saurischia-32	Sau-6bc5_49_Sauropodomorpha-11_3282	49	Sau-6bc5_49_Saurischia-32_3279	49	0	Sauropodomorpha	Saurischia	100.0
+taxongroup	Sau-cca0_34_Sauropodomorpha-38	Sau-cca0_34_Saurischia-8	Sau-cca0_34_Sauropodomorpha-38_3282	34	Sau-cca0_34_Saurischia-8_3279	34	0	Sauropodomorpha	Saurischia	100.0
+taxongroup	Din-756f_17_dinosaurs-26	Din-756f_17_animals-67	Din-756f_17_dinosaurs-26_4860	17	Din-756f_17_animals-67_3812	17	0	dinosaurs	animals	100.0
+taxongroup	Sau-6bc5_2_Sauropodomorpha-1	Sau-6bc5_2_dinosaurs-38	Sau-6bc5_2_Sauropodomorpha-1_3282	2	Sau-6bc5_2_dinosaurs-38_4860	2	0	Sauropodomorpha	dinosaurs	100.0
+taxongroup	Sau-6bc5_50_Sauropodomorpha-37	Sau-6bc5_50_dinosaurs-7	Sau-6bc5_50_Sauropodomorpha-37_3282	50	Sau-6bc5_50_dinosaurs-7_4860	50	0	Sauropodomorpha	dinosaurs	100.0
+taxongroup	Orn-f740_109_Sauropodomorpha-39	Orn-f740_109_dinosaur-35	Orn-f740_109_Sauropodomorpha-39_3282	109	Orn-f740_109_dinosaur-35_4860	109	0	Sauropodomorpha	dinosaurs	100.0
+taxongroup	Ste-56e3_149_Stegosaurus-11	Ste-56e3_149_animal-3	Ste-56e3_149_Stegosaurus-11_3420	149	Ste-56e3_149_animal-3_44	149	0	Stegosaurus	Animals	100.0
+taxongroup	Orn-f740_109_Sauropodomorpha-39	Orn-f740_109_dinosaur-11	Orn-f740_109_Sauropodomorpha-39_3282	109	Orn-f740_109_dinosaur-11_4860	109	0	Sauropodomorpha	dinosaurs	100.0
+taxongroup	Din-756f_259_Sauropodomorpha-25	Din-756f_259_dinosaur-8	Din-756f_259_Sauropodomorpha-25_3282	259	Din-756f_259_dinosaur-8_4860	259	0	Sauropodomorpha	dinosaurs	100.0
+taxongroup	Din-756f_259_Sauropodomorpha-25	Din-756f_259_dinosaur-21	Din-756f_259_Sauropodomorpha-25_3282	259	Din-756f_259_dinosaur-21_4860	259	0	Sauropodomorpha	dinosaurs	100.0
+taxongroup	Ste-56e3_150_Stegosaurus-5	Ste-56e3_150_animal-28	Ste-56e3_150_Stegosaurus-5_3420	150	Ste-56e3_150_animal-28_44	150	0	Stegosaurus	Animals	100.0
+taxongroup	Ste-56e3_135_Stegosaurus-7	Ste-56e3_135_animals-14	Ste-56e3_135_Stegosaurus-7_3420	135	Ste-56e3_135_animals-14_44	135	0	Stegosaurus	Animals	100.0
+taxongroup	Ste-56e3_111_Stegosaurus-15	Ste-56e3_111_dinosaur-25	Ste-56e3_111_Stegosaurus-15_3420	111	Ste-56e3_111_dinosaur-25_4860	111	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste0437_6_Stegosaurus-11	Ste0437_6_dinosaurs-9	Ste0437_6_Stegosaurus-11_3420	6	Ste0437_6_dinosaurs-9_4860	6	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_389_Stegosaurus-1	Ste-56e3_389_dinosaurs-10	Ste-56e3_389_Stegosaurus-1_3420	389	Ste-56e3_389_dinosaurs-10_4860	389	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_24_Stegosaurus-1	Ste-56e3_24_dinosaurs-7	Ste-56e3_24_Stegosaurus-1_3420	24	Ste-56e3_24_dinosaurs-7_4860	24	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-543e_3_Stegosaurus-14	Ste-543e_3_dinosaurs-9	Ste-543e_3_Stegosaurus-14_3420	3	Ste-543e_3_dinosaurs-9_4860	3	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_397_Stegosaurus-9	Ste-56e3_397_dinosaur-27	Ste-56e3_397_Stegosaurus-9_3420	397	Ste-56e3_397_dinosaur-27_4860	397	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_153_Stegosaurus-5	Ste-56e3_153_dinosaur-19	Ste-56e3_153_Stegosaurus-5_3420	153	Ste-56e3_153_dinosaur-19_4860	153	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_397_Stegosaurus-17	Ste-56e3_397_dinosaur-27	Ste-56e3_397_Stegosaurus-17_3420	397	Ste-56e3_397_dinosaur-27_4860	397	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_346_Stegosaurus-13	Ste-56e3_346_dinosaur-10	Ste-56e3_346_Stegosaurus-13_3420	346	Ste-56e3_346_dinosaur-10_4860	346	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Pte-62aa_407_dinosaurs-25	Pte-62aa_407_animals-32	Pte-62aa_407_dinosaurs-25_4860	407	Pte-62aa_407_animals-32_3812	407	0	dinosaurs	animals	100.0
+taxongroup	Ste-56e3_344_Stegosaurus-5	Ste-56e3_344_dinosaur-27	Ste-56e3_344_Stegosaurus-5_3420	344	Ste-56e3_344_dinosaur-27_4860	344	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_354_Stegosaurus-56	Ste-56e3_354_dinosaurs-36	Ste-56e3_354_Stegosaurus-56_3420	354	Ste-56e3_354_dinosaurs-36_4860	354	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_9_Stegosaurus-17	Ste-56e3_9_dinosaurs-26	Ste-56e3_9_Stegosaurus-17_3420	9	Ste-56e3_9_dinosaurs-26_4860	9	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Din-756f_476_Stegosaurus-39	Din-756f_476_vertebrate-47	Din-756f_476_Stegosaurus-39_3420	476	Din-756f_476_vertebrate-47_3935	476	0	Stegosaurus	vertebrates	100.0
+taxongroup	Thy-db39_2_Thyreophora-1	Thy-db39_2_dinosaurs-23	Thy-db39_2_Thyreophora-1_3531	2	Thy-db39_2_dinosaurs-23_4860	2	0	Thyreophora	dinosaurs	100.0
+taxongroup	Orn-f740_5_Thyreophora-36	Orn-f740_5_dinosaurs-30	Orn-f740_5_Thyreophora-36_3531	5	Orn-f740_5_dinosaurs-30_4860	5	0	Thyreophora	dinosaurs	100.0
+taxongroup	Ste-56e3_18_Stegosaurus-1	Ste-56e3_18_dinosaurs-9	Ste-56e3_18_Stegosaurus-1_3420	18	Ste-56e3_18_dinosaurs-9_4860	18	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_345_Stegosaurus-25	Ste-56e3_345_dinosaurs-33	Ste-56e3_345_Stegosaurus-25_3420	345	Ste-56e3_345_dinosaurs-33_4860	345	0	Stegosaurus	dinosaurs	100.0
+taxongroup	All-7078_393_Stegosaurus-28	All-7078_393_dinosaurs-4	All-7078_393_Stegosaurus-28_3420	393	All-7078_393_dinosaurs-4_4860	393	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Apa-3e1a_23_Stegosaurus-27	Apa-3e1a_23_dinosaurs-17	Apa-3e1a_23_Stegosaurus-27_3420	23	Apa-3e1a_23_dinosaurs-17_4860	23	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Tyr-9f97_124_dinosaur-35	Tyr-9f97_124_animal-23	Tyr-9f97_124_dinosaur-35_4860	124	Tyr-9f97_124_animal-23_3812	124	0	dinosaurs	animals	100.0
+taxongroup	Ste-56e3_2_Stegosaurus-1	Ste-56e3_2_dinosaur-22	Ste-56e3_2_Stegosaurus-1_3420	2	Ste-56e3_2_dinosaur-22_4860	2	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_108_Stegosaurus-21	Ste-56e3_108_dinosaurs-12	Ste-56e3_108_Stegosaurus-21_3420	108	Ste-56e3_108_dinosaurs-12_4860	108	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_194_Stegosaurus-42	Ste-56e3_194_dinosaurs-6	Ste-56e3_194_Stegosaurus-42_3420	194	Ste-56e3_194_dinosaurs-6_4860	194	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_7_Stegosaurus-1	Ste-56e3_7_dinosaurs-6	Ste-56e3_7_Stegosaurus-1_3420	7	Ste-56e3_7_dinosaurs-6_4860	7	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_66_Stegosaurus-12	Ste-56e3_66_dinosaur-10	Ste-56e3_66_Stegosaurus-12_3420	66	Ste-56e3_66_dinosaur-10_4860	66	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_392_Stegosaurus-10	Ste-56e3_392_dinosaurs-8	Ste-56e3_392_Stegosaurus-10_3420	392	Ste-56e3_392_dinosaurs-8_4860	392	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_393_Stegosaurus-9	Ste-56e3_393_dinosaur-23	Ste-56e3_393_Stegosaurus-9_3420	393	Ste-56e3_393_dinosaur-23_4860	393	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-56e3_394_Stegosaurus-6	Ste-56e3_394_dinosaur-38	Ste-56e3_394_Stegosaurus-6_3420	394	Ste-56e3_394_dinosaur-38_4860	394	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Bro-f1dc_311_Stegosaurus-23	Bro-f1dc_311_dinosaur-17	Bro-f1dc_311_Stegosaurus-23_3420	311	Bro-f1dc_311_dinosaur-17_4860	311	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Igu-76d2_371_Stegosaurus-20	Igu-76d2_371_dinosaur-7	Igu-76d2_371_Stegosaurus-20_3420	371	Igu-76d2_371_dinosaur-7_4860	371	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Dip-c98d_260_Stegosaurus-32	Dip-c98d_260_dinosaurs-4	Dip-c98d_260_Stegosaurus-32_3420	260	Dip-c98d_260_dinosaurs-4_4860	260	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Din-756f_476_Stegosaurus-39	Din-756f_476_dinosaurs-24	Din-756f_476_Stegosaurus-39_3420	476	Din-756f_476_dinosaurs-24_4860	476	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Din-756f_476_Stegosaurus-39	Din-756f_476_dinosaurs-17	Din-756f_476_Stegosaurus-39_3420	476	Din-756f_476_dinosaurs-17_4860	476	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Ste-2738_112_Stegosaurus-42	Ste-2738_112_dinosaurs-6	Ste-2738_112_Stegosaurus-42_3420	112	Ste-2738_112_dinosaurs-6_4860	112	0	Stegosaurus	dinosaurs	100.0
+taxongroup	Sau-6bc5_50_Sauropodomorpha-37	Sau-6bc5_50_Saurischia-39	Sau-6bc5_50_Sauropodomorpha-37_3282	50	Sau-6bc5_50_Saurischia-39_3279	50	0	Sauropodomorpha	Saurischia	100.0
+taxongroup	Sau-6bc5_50_Sauropodomorpha-26	Sau-6bc5_50_Saurischia-28	Sau-6bc5_50_Sauropodomorpha-26_3282	50	Sau-6bc5_50_Saurischia-28_3279	50	0	Sauropodomorpha	Saurischia	100.0
+taxongroup	Din-756f_469_dinosaurs-5	Din-756f_469_reptiles-3	Din-756f_469_dinosaurs-5_4860	469	Din-756f_469_reptiles-3_419	469	0	dinosaurs	Reptiles	100.0
+taxongroup	Orn-efbf_10_Ornithopoda-3	Orn-efbf_10_Dinosauria-24	Orn-efbf_10_Ornithopoda-3_1390	10	Orn-efbf_10_Dinosauria-24_2040	10	0	Ornithopoda	Dinosauria	100.0
+taxongroup	Cer-4e1c_2_Ornithischia-18	Cer-4e1c_2_dinosaur-16	Cer-4e1c_2_Ornithischia-18_2959	2	Cer-4e1c_2_dinosaur-16_4860	2	0	Ornithischia	dinosaurs	100.0
+taxongroup	Tri-1ad8_170_Ornithischia-3	Tri-1ad8_170_dinosaurs-9	Tri-1ad8_170_Ornithischia-3_2959	170	Tri-1ad8_170_dinosaurs-9_4860	170	0	Ornithischia	dinosaurs	100.0
+taxongroup	The-1978_214_Ornithischia-36	The-1978_214_dinosaurs-6	The-1978_214_Ornithischia-36_2959	214	The-1978_214_dinosaurs-6_4860	214	0	Ornithischia	dinosaurs	100.0
+taxongroup	Ank-02ea_2_Ornithischia-11	Ank-02ea_2_dinosaurs-7	Ank-02ea_2_Ornithischia-11_2959	2	Ank-02ea_2_dinosaurs-7_4860	2	0	Ornithischia	dinosaurs	100.0
+taxongroup	Orn-f740_101_Ornithischia-6	Orn-f740_101_reptiles-65	Orn-f740_101_Ornithischia-6_2959	101	Orn-f740_101_reptiles-65_4021	101	0	Ornithischia	reptiles	100.0
+taxongroup	Sau-cca0_2_Ornithischia-51	Sau-cca0_2_reptile-13	Sau-cca0_2_Ornithischia-51_2959	2	Sau-cca0_2_reptile-13_4021	2	0	Ornithischia	reptiles	100.0
+taxongroup	Din-756f_387_dinosaur-18	Din-756f_387_animal-31	Din-756f_387_dinosaur-18_4860	387	Din-756f_387_animal-31_3812	387	0	dinosaurs	animals	100.0
+taxongroup	Hyp-5270_39_Ornithopoda-3	Hyp-5270_39_Ornithischia-1	Hyp-5270_39_Ornithopoda-3_1390	39	Hyp-5270_39_Ornithischia-1_2959	39	0	Ornithopoda	Ornithischia	100.0
+taxongroup	Din-756f_246_Ornithischia-16	Din-756f_246_dinosaurs-3	Din-756f_246_Ornithischia-16_2959	246	Din-756f_246_dinosaurs-3_4860	246	0	Ornithischia	dinosaurs	100.0
+taxongroup	Sau-cca0_17_Ornithopoda-5	Sau-cca0_17_Ornithischia-30	Sau-cca0_17_Ornithopoda-5_1390	17	Sau-cca0_17_Ornithischia-30_2959	17	0	Ornithopoda	Ornithischia	100.0
+taxongroup	Sau-cca0_20_Ornithopoda-6	Sau-cca0_20_Ornithischia-9	Sau-cca0_20_Ornithopoda-6_1390	20	Sau-cca0_20_Ornithischia-9_2959	20	0	Ornithopoda	Ornithischia	100.0
+taxongroup	Orn-efbf_36_Ornithopoda-1	Orn-efbf_36_Ornithischia-13	Orn-efbf_36_Ornithopoda-1_1390	36	Orn-efbf_36_Ornithischia-13_2959	36	0	Ornithopoda	Ornithischia	100.0
+taxongroup	Orn-f740_83_Ornithopoda-11	Orn-f740_83_Ornithischia-2	Orn-f740_83_Ornithopoda-11_1390	83	Orn-f740_83_Ornithischia-2_2959	83	0	Ornithopoda	Ornithischia	100.0
+taxongroup	Orn-efbf_2_Ornithopoda-1	Orn-efbf_2_dinosaurs-9	Orn-efbf_2_Ornithopoda-1_1390	2	Orn-efbf_2_dinosaurs-9_4860	2	0	Ornithopoda	dinosaurs	100.0
+taxongroup	Orn-f740_61_Ornithopoda-19	Orn-f740_61_dinosaurs-6	Orn-f740_61_Ornithopoda-19_1390	61	Orn-f740_61_dinosaurs-6_4860	61	0	Ornithopoda	dinosaurs	100.0
+taxongroup	Orn-f740_61_Ornithopoda-19	Orn-f740_61_dinosaurs-17	Orn-f740_61_Ornithopoda-19_1390	61	Orn-f740_61_dinosaurs-17_4860	61	0	Ornithopoda	dinosaurs	100.0
+taxongroup	Cer-8485_69_Ornithischia-16	Cer-8485_69_dinosaurs-14	Cer-8485_69_Ornithischia-16_2959	69	Cer-8485_69_dinosaurs-14_4860	69	0	Ornithischia	dinosaurs	100.0
+taxongroup	Orn-f740_109_Ornithischia-24	Orn-f740_109_dinosaur-11	Orn-f740_109_Ornithischia-24_2959	109	Orn-f740_109_dinosaur-11_4860	109	0	Ornithischia	dinosaurs	100.0
+taxongroup	Sau-6bc5_50_Sauropodomorpha-37	Sau-6bc5_50_Saurischia-28	Sau-6bc5_50_Sauropodomorpha-37_3282	50	Sau-6bc5_50_Saurischia-28_3279	50	0	Sauropodomorpha	Saurischia	100.0
+taxongroup	Orn-f740_113_Ornithischia-17	Orn-f740_113_dinosaurs-11	Orn-f740_113_Ornithischia-17_2959	113	Orn-f740_113_dinosaurs-11_4860	113	0	Ornithischia	dinosaurs	100.0
+taxongroup	Dip-c98d_22_dinosaurs-2	Dip-c98d_22_animals-14	Dip-c98d_22_dinosaurs-2_4860	22	Dip-c98d_22_animals-14_3812	22	0	dinosaurs	animals	100.0
+taxongroup	Orn-f740_109_Ornithischia-37	Orn-f740_109_dinosaur-11	Orn-f740_109_Ornithischia-37_2959	109	Orn-f740_109_dinosaur-11_4860	109	0	Ornithischia	dinosaurs	100.0
+taxongroup	Sau-cca0_2_Ornithischia-51	Sau-cca0_2_dinosaurs-46	Sau-cca0_2_Ornithischia-51_2959	2	Sau-cca0_2_dinosaurs-46_4860	2	0	Ornithischia	dinosaurs	100.0
+taxongroup	Orn-f740_109_Ornithischia-37	Orn-f740_109_dinosaur-35	Orn-f740_109_Ornithischia-37_2959	109	Orn-f740_109_dinosaur-35_4860	109	0	Ornithischia	dinosaurs	100.0
+taxongroup	Pte-62aa_25_Ornithischia-35	Pte-62aa_25_dinosaurs-16	Pte-62aa_25_Ornithischia-35_2959	25	Pte-62aa_25_dinosaurs-16_4860	25	0	Ornithischia	dinosaurs	100.0
+taxongroup	Orn-f740_9_Ornithischia-1	Orn-f740_9_dinosaurs-10	Orn-f740_9_Ornithischia-1_2959	9	Orn-f740_9_dinosaurs-10_4860	9	0	Ornithischia	dinosaurs	100.0
+taxongroup	Orn-f740_109_Ornithischia-24	Orn-f740_109_dinosaur-35	Orn-f740_109_Ornithischia-24_2959	109	Orn-f740_109_dinosaur-35_4860	109	0	Ornithischia	dinosaurs	100.0
+taxongroup	Orn-f740_113_Ornithischia-35	Orn-f740_113_dinosaurs-11	Orn-f740_113_Ornithischia-35_2959	113	Orn-f740_113_dinosaurs-11_4860	113	0	Ornithischia	dinosaurs	100.0
+taxongroup	Din-756f_259_Ornithischia-27	Din-756f_259_dinosaur-21	Din-756f_259_Ornithischia-27_2959	259	Din-756f_259_dinosaur-21_4860	259	0	Ornithischia	dinosaurs	100.0
+taxongroup	Orn-f740_118_Ornithischia-54	Orn-f740_118_dinosaur-49	Orn-f740_118_Ornithischia-54_2959	118	Orn-f740_118_dinosaur-49_4860	118	0	Ornithischia	dinosaurs	100.0
+taxongroup	Orn-f740_2_Ornithischia-1	Orn-f740_2_dinosaurs-11	Orn-f740_2_Ornithischia-1_2959	2	Orn-f740_2_dinosaurs-11_4860	2	0	Ornithischia	dinosaurs	100.0
+taxongroup	Orn-f740_60_Ornithischia-30	Orn-f740_60_dinosaurs-9	Orn-f740_60_Ornithischia-30_2959	60	Orn-f740_60_dinosaurs-9_4860	60	0	Ornithischia	dinosaurs	100.0
+taxongroup	Orn-f740_62_Ornithischia-60	Orn-f740_62_dinosaurs-39	Orn-f740_62_Ornithischia-60_2959	62	Orn-f740_62_dinosaurs-39_4860	62	0	Ornithischia	dinosaurs	100.0
+taxongroup	The-2a4b_13_Ornithischia-59	The-2a4b_13_dinosaurs-54	The-2a4b_13_Ornithischia-59_2959	13	The-2a4b_13_dinosaurs-54_4860	13	0	Ornithischia	dinosaurs	100.0
+taxongroup	Cer-4e1c_16_Ornithischia-11	Cer-4e1c_16_dinosaurs-8	Cer-4e1c_16_Ornithischia-11_2959	16	Cer-4e1c_16_dinosaurs-8_4860	16	0	Ornithischia	dinosaurs	100.0
+taxongroup	Din-756f_259_Ornithischia-27	Din-756f_259_dinosaur-8	Din-756f_259_Ornithischia-27_2959	259	Din-756f_259_dinosaur-8_4860	259	0	Ornithischia	dinosaurs	100.0
+taxongroup	Par-e271_171_dinosaurs-30	Par-e271_171_animal-10	Par-e271_171_dinosaurs-30_4860	171	Par-e271_171_animal-10_3812	171	0	dinosaurs	animals	100.0
+taxongroup	Vel-f1d8_155_Protoceratops-17	Vel-f1d8_155_Dinosaurs-4	Vel-f1d8_155_Protoceratops-17_3134	155	Vel-f1d8_155_Dinosaurs-4_2039	155	0	Protoceratops	Dinosaurs	100.0
+taxongroup	Pro-b864_110_Protoceratops-7	Pro-b864_110_Dinosaurs-3	Pro-b864_110_Protoceratops-7_3134	110	Pro-b864_110_Dinosaurs-3_2039	110	0	Protoceratops	Dinosaurs	100.0
+taxongroup	Sau-cca0_20_Sauropoda-15	Sau-cca0_20_Saurischia-18	Sau-cca0_20_Sauropoda-15_1393	20	Sau-cca0_20_Saurischia-18_3279	20	0	Sauropoda	Saurischia	100.0
+taxongroup	Orn-f740_109_Saurischia-22	Orn-f740_109_dinosaur-11	Orn-f740_109_Saurischia-22_3279	109	Orn-f740_109_dinosaur-11_4860	109	0	Saurischia	dinosaurs	100.0
+taxongroup	Pte-62aa_25_Saurischia-33	Pte-62aa_25_dinosaurs-16	Pte-62aa_25_Saurischia-33_3279	25	Pte-62aa_25_dinosaurs-16_4860	25	0	Saurischia	dinosaurs	100.0
+taxongroup	Din-756f_256_Saurischia-5	Din-756f_256_dinosaurs-13	Din-756f_256_Saurischia-5_3279	256	Din-756f_256_dinosaurs-13_4860	256	0	Saurischia	dinosaurs	100.0
+taxongroup	Sau-cca0_2_Saurischia-1	Sau-cca0_2_reptile-13	Sau-cca0_2_Saurischia-1_3279	2	Sau-cca0_2_reptile-13_4021	2	0	Saurischia	reptiles	100.0
+taxongroup	The-1978_180_Sauropoda-27	The-1978_180_animals-55	The-1978_180_Sauropoda-27_1393	180	The-1978_180_animals-55_44	180	0	Sauropoda	Animals	100.0
+taxongroup	Had8b5f_3_dinosaur-3	Had8b5f_3_animals-8	Had8b5f_3_dinosaur-3_4860	3	Had8b5f_3_animals-8_3812	3	0	dinosaurs	animals	100.0
+taxongroup	The-1978_183_Sauropoda-34	The-1978_183_Saurischia-27	The-1978_183_Sauropoda-34_1393	183	The-1978_183_Saurischia-27_3279	183	0	Sauropoda	Saurischia	100.0
+taxongroup	Sau-cca0_17_Sauropoda-1	Sau-cca0_17_Saurischia-28	Sau-cca0_17_Sauropoda-1_1393	17	Sau-cca0_17_Saurischia-28_3279	17	0	Sauropoda	Saurischia	100.0
+taxongroup	Gig-7116_103_dinosaurs-15	Gig-7116_103_animals-11	Gig-7116_103_dinosaurs-15_4860	103	Gig-7116_103_animals-11_3812	103	0	dinosaurs	animals	100.0
+taxongroup	The-1978_183_Sauropoda-34	The-1978_183_dinosaurs-17	The-1978_183_Sauropoda-34_1393	183	The-1978_183_dinosaurs-17_4860	183	0	Sauropoda	dinosaurs	100.0
+taxongroup	Orn-efbf_11_Sauropoda-18	Orn-efbf_11_dinosaurs-11	Orn-efbf_11_Sauropoda-18_1393	11	Orn-efbf_11_dinosaurs-11_4860	11	0	Sauropoda	dinosaurs	100.0
+taxongroup	Sau-89d2_2_Sauropoda-1	Sau-89d2_2_dinosaurs-38	Sau-89d2_2_Sauropoda-1_1393	2	Sau-89d2_2_dinosaurs-38_4860	2	0	Sauropoda	dinosaurs	100.0
+taxongroup	Gig-7116_10_dinosaur-8	Gig-7116_10_animals-16	Gig-7116_10_dinosaur-8_4860	10	Gig-7116_10_animals-16_3812	10	0	dinosaurs	animals	100.0
+taxongroup	Orn1510_1_dinosaurs-4	Orn1510_1_animal-30	Orn1510_1_dinosaurs-4_4860	1	Orn1510_1_animal-30_3812	1	0	dinosaurs	animals	100.0
+taxongroup	Sau-6bc5_50_Sauropodomorpha-26	Sau-6bc5_50_Saurischia-39	Sau-6bc5_50_Sauropodomorpha-26_3282	50	Sau-6bc5_50_Saurischia-39_3279	50	0	Sauropodomorpha	Saurischia	100.0
+taxongroup	Orn-f740_109_Saurischia-22	Orn-f740_109_dinosaur-35	Orn-f740_109_Saurischia-22_3279	109	Orn-f740_109_dinosaur-35_4860	109	0	Saurischia	dinosaurs	100.0
+taxongroup	Orn-f740_113_Saurischia-37	Orn-f740_113_dinosaurs-11	Orn-f740_113_Saurischia-37_3279	113	Orn-f740_113_dinosaurs-11_4860	113	0	Saurischia	dinosaurs	100.0
+taxongroup	Orn-f740_62_Saurischia-58	Orn-f740_62_dinosaurs-39	Orn-f740_62_Saurischia-58_3279	62	Orn-f740_62_dinosaurs-39_4860	62	0	Saurischia	dinosaurs	100.0
+taxongroup	Din-756f_246_Saurischia-14	Din-756f_246_dinosaurs-3	Din-756f_246_Saurischia-14_3279	246	Din-756f_246_dinosaurs-3_4860	246	0	Saurischia	dinosaurs	100.0
+taxongroup	The-1978_17_Protoceratops-29	The-1978_17_dinosaur-36	The-1978_17_Protoceratops-29_3134	17	The-1978_17_dinosaur-36_4860	17	0	Protoceratops	dinosaurs	100.0
+taxongroup	Pro-b864_439_Protoceratops-24	Pro-b864_439_dinosaurs-7	Pro-b864_439_Protoceratops-24_3134	439	Pro-b864_439_dinosaurs-7_4860	439	0	Protoceratops	dinosaurs	100.0
+taxongroup	Pro-b864_110_Protoceratops-7	Pro-b864_110_dinosaurs-38	Pro-b864_110_Protoceratops-7_3134	110	Pro-b864_110_dinosaurs-38_4860	110	0	Protoceratops	dinosaurs	100.0
+taxongroup	Mam-3742_12_dinosaurs-22	Mam-3742_12_animal-30	Mam-3742_12_dinosaurs-22_4860	12	Mam-3742_12_animal-30_3812	12	0	dinosaurs	animals	100.0
+taxongroup	Orn-f740_62_Saurischia-58	Orn-f740_62_Dinosauria-8	Orn-f740_62_Saurischia-58_3279	62	Orn-f740_62_Dinosauria-8_2040	62	0	Saurischia	Dinosauria	100.0
+taxongroup	Orn-f740_62_Saurischia-58	Orn-f740_62_Dinosauria-46	Orn-f740_62_Saurischia-58_3279	62	Orn-f740_62_Dinosauria-46_2040	62	0	Saurischia	Dinosauria	100.0
+taxongroup	Rep-aa64_94_Saurischia-42	Rep-aa64_94_Dinosauria-40	Rep-aa64_94_Saurischia-42_3279	94	Rep-aa64_94_Dinosauria-40_2040	94	0	Saurischia	Dinosauria	100.0
+taxongroup	Din-756f_28_Saurischia-13	Din-756f_28_Dinosauria-9	Din-756f_28_Saurischia-13_3279	28	Din-756f_28_Dinosauria-9_2040	28	0	Saurischia	Dinosauria	100.0
+taxongroup	The-1978_183_Saurischia-27	The-1978_183_dinosaurs-17	The-1978_183_Saurischia-27_3279	183	The-1978_183_dinosaurs-17_4860	183	0	Saurischia	dinosaurs	100.0
+taxongroup	The-2a4b_13_Saurischia-45	The-2a4b_13_dinosaurs-54	The-2a4b_13_Saurischia-45_3279	13	The-2a4b_13_dinosaurs-54_4860	13	0	Saurischia	dinosaurs	100.0
+taxongroup	Sau-6bc5_50_Saurischia-28	Sau-6bc5_50_dinosaurs-7	Sau-6bc5_50_Saurischia-28_3279	50	Sau-6bc5_50_dinosaurs-7_4860	50	0	Saurischia	dinosaurs	100.0
+taxongroup	Sau-cca0_2_Saurischia-1	Sau-cca0_2_dinosaurs-46	Sau-cca0_2_Saurischia-1_3279	2	Sau-cca0_2_dinosaurs-46_4860	2	0	Saurischia	dinosaurs	100.0
+taxongroup	Sau-6bc5_50_Saurischia-39	Sau-6bc5_50_dinosaurs-7	Sau-6bc5_50_Saurischia-39_3279	50	Sau-6bc5_50_dinosaurs-7_4860	50	0	Saurischia	dinosaurs	100.0
+taxongroup	Din-756f_256_Saurischia-5	Din-756f_256_dinosaurs-18	Din-756f_256_Saurischia-5_3279	256	Din-756f_256_dinosaurs-18_4860	256	0	Saurischia	dinosaurs	100.0
+taxongroup	Orn-f740_5_Thyreophora-36	Orn-f740_5_dinosaurs-16	Orn-f740_5_Thyreophora-36_3531	5	Orn-f740_5_dinosaurs-16_4860	5	0	Thyreophora	dinosaurs	100.0
+taxongroup	Thy-db39_2_Thyreophora-1	Thy-db39_2_dinosaurs-14	Thy-db39_2_Thyreophora-1_3531	2	Thy-db39_2_dinosaurs-14_4860	2	0	Thyreophora	dinosaurs	100.0
+taxongroup	Din-756f_263_Thyreophora-1	Din-756f_263_dinosaurs-4	Din-756f_263_Thyreophora-1_3531	263	Din-756f_263_dinosaurs-4_4860	263	0	Thyreophora	dinosaurs	100.0
+taxongroup	Bro-f1dc_314_dinosaur-25	Bro-f1dc_314_animals-35	Bro-f1dc_314_dinosaur-25_4860	314	Bro-f1dc_314_animals-35_44	314	0	dinosaurs	Animals	100.0
+taxongroup	Din-756f_17_dinosaurs-39	Din-756f_17_animals-67	Din-756f_17_dinosaurs-39_4860	17	Din-756f_17_animals-67_44	17	0	dinosaurs	Animals	100.0
+taxongroup	Din-756f_607_dinosaur-7	Din-756f_607_animals-15	Din-756f_607_dinosaur-7_4860	607	Din-756f_607_animals-15_44	607	0	dinosaurs	Animals	100.0
+taxongroup	Din-756f_607_dinosaur-24	Din-756f_607_animals-15	Din-756f_607_dinosaur-24_4860	607	Din-756f_607_animals-15_44	607	0	dinosaurs	Animals	100.0
+taxongroup	Bro-f1dc_314_dinosaur-66	Bro-f1dc_314_animals-43	Bro-f1dc_314_dinosaur-66_4860	314	Bro-f1dc_314_animals-43_44	314	0	dinosaurs	Animals	100.0
+taxongroup	Cro-0859_69_dinosaurs-9	Cro-0859_69_animals-13	Cro-0859_69_dinosaurs-9_4860	69	Cro-0859_69_animals-13_44	69	0	dinosaurs	Animals	100.0
+taxongroup	Bur-08d7_9_dinosaurs-29	Bur-08d7_9_animals-6	Bur-08d7_9_dinosaurs-29_4860	9	Bur-08d7_9_animals-6_44	9	0	dinosaurs	Animals	100.0
+taxongroup	Bro-f1dc_314_dinosaur-66	Bro-f1dc_314_animals-35	Bro-f1dc_314_dinosaur-66_4860	314	Bro-f1dc_314_animals-35_44	314	0	dinosaurs	Animals	100.0
+taxongroup	Bro-f1dc_314_dinosaur-25	Bro-f1dc_314_animals-43	Bro-f1dc_314_dinosaur-25_4860	314	Bro-f1dc_314_animals-43_44	314	0	dinosaurs	Animals	100.0
+taxongroup	Din-756f_542_dinosaurs-2	Din-756f_542_animals-8	Din-756f_542_dinosaurs-2_4860	542	Din-756f_542_animals-8_44	542	0	dinosaurs	Animals	100.0
+taxongroup	Bro-f1dc_308_dinosaur-24	Bro-f1dc_308_animal-9	Bro-f1dc_308_dinosaur-24_4860	308	Bro-f1dc_308_animal-9_44	308	0	dinosaurs	Animals	100.0
+taxongroup	Bro-f1dc_290_dinosaurs-30	Bro-f1dc_290_animal-25	Bro-f1dc_290_dinosaurs-30_4860	290	Bro-f1dc_290_animal-25_44	290	0	dinosaurs	Animals	100.0
+taxongroup	Bas-243b_28_dinosaurs-8	Bas-243b_28_animal-27	Bas-243b_28_dinosaurs-8_4860	28	Bas-243b_28_animal-27_44	28	0	dinosaurs	Animals	100.0
+taxongroup	Arg-b9cb_5_dinosaur-11	Arg-b9cb_5_animal-19	Arg-b9cb_5_dinosaur-11_4860	5	Arg-b9cb_5_animal-19_44	5	0	dinosaurs	Animals	100.0
+taxongroup	Din-756f_17_dinosaurs-3	Din-756f_17_animals-67	Din-756f_17_dinosaurs-3_4860	17	Din-756f_17_animals-67_44	17	0	dinosaurs	Animals	100.0
+taxongroup	Apaafee_2_dinosaurs-11	Apaafee_2_animals-19	Apaafee_2_dinosaurs-11_4860	2	Apaafee_2_animals-19_44	2	0	dinosaurs	Animals	100.0
+taxongroup	Ani-161e_84_dinosaurs-11	Ani-161e_84_animals-4	Ani-161e_84_dinosaurs-11_4860	84	Ani-161e_84_animals-4_44	84	0	dinosaurs	Animals	100.0
+taxongroup	Din-756f_610_dinosaur-5	Din-756f_610_animals-25	Din-756f_610_dinosaur-5_4860	610	Din-756f_610_animals-25_44	610	0	dinosaurs	Animals	100.0
+taxongroup	Din-756f_196_dinosaurs-2	Din-756f_196_animals-11	Din-756f_196_dinosaurs-2_4860	196	Din-756f_196_animals-11_44	196	0	dinosaurs	Animals	100.0
+taxongroup	Ank-02ea_17_Thyreophora-11	Ank-02ea_17_dinosaurs-17	Ank-02ea_17_Thyreophora-11_3531	17	Ank-02ea_17_dinosaurs-17_4860	17	0	Thyreophora	dinosaurs	100.0
+taxongroup	Fli-9841_25_dinosaurs-34	Fli-9841_25_animals-19	Fli-9841_25_dinosaurs-34_4860	25	Fli-9841_25_animals-19_44	25	0	dinosaurs	Animals	100.0
+taxongroup	Din-756f_23_dinosaur-13	Din-756f_23_animals-6	Din-756f_23_dinosaur-13_4860	23	Din-756f_23_animals-6_44	23	0	dinosaurs	Animals	100.0
+taxongroup	Arc-4c1c_18_dinosaurs-14	Arc-4c1c_18_animals-26	Arc-4c1c_18_dinosaurs-14_4860	18	Arc-4c1c_18_animals-26_44	18	0	dinosaurs	Animals	100.0
+taxongroup	Fli-9841_25_dinosaurs-27	Fli-9841_25_animals-19	Fli-9841_25_dinosaurs-27_4860	25	Fli-9841_25_animals-19_44	25	0	dinosaurs	Animals	100.0
+taxongroup	Din-756f_75_dinosaurs-11	Din-756f_75_animals-32	Din-756f_75_dinosaurs-11_4860	75	Din-756f_75_animals-32_44	75	0	dinosaurs	Animals	100.0
+taxongroup	Din-756f_42_dinosaurs-23	Din-756f_42_animals-3	Din-756f_42_dinosaurs-23_4860	42	Din-756f_42_animals-3_44	42	0	dinosaurs	Animals	100.0
+taxongroup	Dip-c98d_22_dinosaurs-27	Dip-c98d_22_animals-14	Dip-c98d_22_dinosaurs-27_4860	22	Dip-c98d_22_animals-14_44	22	0	dinosaurs	Animals	100.0
+taxongroup	Flo33d1_30_dinosaurs-9	Flo33d1_30_animals-16	Flo33d1_30_dinosaurs-9_4860	30	Flo33d1_30_animals-16_44	30	0	dinosaurs	Animals	100.0
+taxongroup	Fli-9841_25_dinosaurs-12	Fli-9841_25_animals-19	Fli-9841_25_dinosaurs-12_4860	25	Fli-9841_25_animals-19_44	25	0	dinosaurs	Animals	100.0
+taxongroup	Din-756f_616_dinosaurs-9	Din-756f_616_animals-22	Din-756f_616_dinosaurs-9_4860	616	Din-756f_616_animals-22_44	616	0	dinosaurs	Animals	100.0
+taxongroup	Din-756f_42_dinosaurs-30	Din-756f_42_animals-3	Din-756f_42_dinosaurs-30_4860	42	Din-756f_42_animals-3_44	42	0	dinosaurs	Animals	100.0
+taxongroup	The319b_4_dinosaur-31	The319b_4_reptile-25	The319b_4_dinosaur-31_4860	4	The319b_4_reptile-25_419	4	0	dinosaurs	Reptiles	100.0
+taxongroup	Ste-56e3_346_dinosaur-10	Ste-56e3_346_reptiles-34	Ste-56e3_346_dinosaur-10_4860	346	Ste-56e3_346_reptiles-34_419	346	0	dinosaurs	Reptiles	100.0
+taxongroup	Rep-aa64_151_dinosaurs-34	Rep-aa64_151_reptiles-14	Rep-aa64_151_dinosaurs-34_4860	151	Rep-aa64_151_reptiles-14_419	151	0	dinosaurs	Reptiles	100.0
+taxongroup	Din-756f_108_dinosaurs-50	Din-756f_108_reptiles-18	Din-756f_108_dinosaurs-50_4860	108	Din-756f_108_reptiles-18_419	108	0	dinosaurs	Reptiles	100.0
+taxongroup	Had-5500_143_dinosaurs-27	Had-5500_143_reptiles-23	Had-5500_143_dinosaurs-27_4860	143	Had-5500_143_reptiles-23_419	143	0	dinosaurs	Reptiles	100.0
+taxongroup	Orn32af_1_dinosaurs-24	Orn32af_1_reptile-13	Orn32af_1_dinosaurs-24_4860	1	Orn32af_1_reptile-13_419	1	0	dinosaurs	Reptiles	100.0
+taxongroup	Fli-9841_25_dinosaurs-27	Fli-9841_25_reptiles-8	Fli-9841_25_dinosaurs-27_4860	25	Fli-9841_25_reptiles-8_419	25	0	dinosaurs	Reptiles	100.0
+taxongroup	Din-756f_461_dinosaurs-31	Din-756f_461_reptiles-36	Din-756f_461_dinosaurs-31_4860	461	Din-756f_461_reptiles-36_419	461	0	dinosaurs	Reptiles	100.0
+taxongroup	Fli-9841_25_dinosaurs-12	Fli-9841_25_reptiles-8	Fli-9841_25_dinosaurs-12_4860	25	Fli-9841_25_reptiles-8_419	25	0	dinosaurs	Reptiles	100.0
+taxongroup	Fli-9841_25_dinosaurs-34	Fli-9841_25_reptiles-8	Fli-9841_25_dinosaurs-34_4860	25	Fli-9841_25_reptiles-8_419	25	0	dinosaurs	Reptiles	100.0
+taxongroup	Igu-76d2_93_dinosaur-4	Igu-76d2_93_reptiles-16	Igu-76d2_93_dinosaur-4_4860	93	Igu-76d2_93_reptiles-16_419	93	0	dinosaurs	Reptiles	100.0
+taxongroup	Din-756f_478_dinosaurs-24	Din-756f_478_reptiles-34	Din-756f_478_dinosaurs-24_4860	478	Din-756f_478_reptiles-34_419	478	0	dinosaurs	Reptiles	100.0
+taxongroup	Tri-1ad8_191_dinosaur-10	Tri-1ad8_191_reptiles-36	Tri-1ad8_191_dinosaur-10_4860	191	Tri-1ad8_191_reptiles-36_419	191	0	dinosaurs	Reptiles	100.0
+taxongroup	Din-756f_450_dinosaurs-13	Din-756f_450_reptiles-29	Din-756f_450_dinosaurs-13_4860	450	Din-756f_450_reptiles-29_419	450	0	dinosaurs	Reptiles	100.0
+taxongroup	Din-756f_108_dinosaur-45	Din-756f_108_reptiles-18	Din-756f_108_dinosaur-45_4860	108	Din-756f_108_reptiles-18_419	108	0	dinosaurs	Reptiles	100.0
+taxongroup	Din-756f_103_dinosaur-34	Din-756f_103_Reptiles-50	Din-756f_103_dinosaur-34_4860	103	Din-756f_103_Reptiles-50_419	103	0	dinosaurs	Reptiles	100.0
+taxongroup	Din-756f_44_dinosaurs-8	Din-756f_44_reptile-17	Din-756f_44_dinosaurs-8_4860	44	Din-756f_44_reptile-17_419	44	0	dinosaurs	Reptiles	100.0
+taxongroup	Din-756f_453_dinosaurs-9	Din-756f_453_reptiles-21	Din-756f_453_dinosaurs-9_4860	453	Din-756f_453_reptiles-21_419	453	0	dinosaurs	Reptiles	100.0
+taxongroup	Cro-0859_69_dinosaurs-9	Cro-0859_69_reptiles-16	Cro-0859_69_dinosaurs-9_4860	69	Cro-0859_69_reptiles-16_419	69	0	dinosaurs	Reptiles	100.0
+taxongroup	Bur-08d7_9_dinosaurs-29	Bur-08d7_9_reptiles-22	Bur-08d7_9_dinosaurs-29_4860	9	Bur-08d7_9_reptiles-22_419	9	0	dinosaurs	Reptiles	100.0
+taxongroup	Ich-89df_537_dinosaurs-17	Ich-89df_537_reptile-8	Ich-89df_537_dinosaurs-17_4860	537	Ich-89df_537_reptile-8_419	537	0	dinosaurs	Reptiles	100.0
+taxongroup	Orn32af_1_dinosaurs-16	Orn32af_1_reptile-13	Orn32af_1_dinosaurs-16_4860	1	Orn32af_1_reptile-13_419	1	0	dinosaurs	Reptiles	100.0
+taxongroup	Viv0253_7_dinosaurs-21	Viv0253_7_reptiles-12	Viv0253_7_dinosaurs-21_4860	7	Viv0253_7_reptiles-12_419	7	0	dinosaurs	Reptiles	100.0
+taxongroup	Ver-1720_12_dinosaurs-19	Ver-1720_12_reptiles-8	Ver-1720_12_dinosaurs-19_4860	12	Ver-1720_12_reptiles-8_419	12	0	dinosaurs	Reptiles	100.0
+taxongroup	Sau-cca0_2_dinosaurs-46	Sau-cca0_2_reptile-13	Sau-cca0_2_dinosaurs-46_4860	2	Sau-cca0_2_reptile-13_419	2	0	dinosaurs	Reptiles	100.0
+taxongroup	Sau-cca0_10_dinosaurs-15	Sau-cca0_10_reptiles-31	Sau-cca0_10_dinosaurs-15_4860	10	Sau-cca0_10_reptiles-31_419	10	0	dinosaurs	Reptiles	100.0
+taxongroup	Ver-1720_145_dinosaurs-15	Ver-1720_145_reptiles-11	Ver-1720_145_dinosaurs-15_4860	145	Ver-1720_145_reptiles-11_419	145	0	dinosaurs	Reptiles	100.0
+taxongroup	Ver-1720_145_dinosaurs-15	Ver-1720_145_reptile-3	Ver-1720_145_dinosaurs-15_4860	145	Ver-1720_145_reptile-3_419	145	0	dinosaurs	Reptiles	100.0
+taxongroup	Ver-1720_12_dinosaurs-19	Ver-1720_12_reptiles-25	Ver-1720_12_dinosaurs-19_4860	12	Ver-1720_12_reptiles-25_419	12	0	dinosaurs	Reptiles	100.0
+taxongroup	Rep-aa64_66_dinosaurs-5	Rep-aa64_66_reptiles-18	Rep-aa64_66_dinosaurs-5_4860	66	Rep-aa64_66_reptiles-18_419	66	0	dinosaurs	Reptiles	100.0
+taxongroup	Rep-aa64_196_dinosaurs-19	Rep-aa64_196_reptiles-26	Rep-aa64_196_dinosaurs-19_4860	196	Rep-aa64_196_reptiles-26_419	196	0	dinosaurs	Reptiles	100.0
+taxongroup	Rep-aa64_159_dinosaurs-8	Rep-aa64_159_reptiles-2	Rep-aa64_159_dinosaurs-8_4860	159	Rep-aa64_159_reptiles-2_419	159	0	dinosaurs	Reptiles	100.0
+taxongroup	Rep-aa64_151_dinosaurs-34	Rep-aa64_151_reptiles-8	Rep-aa64_151_dinosaurs-34_4860	151	Rep-aa64_151_reptiles-8_419	151	0	dinosaurs	Reptiles	100.0
+taxongroup	Pla89fa_3_dinosaur-9	Pla89fa_3_reptile-18	Pla89fa_3_dinosaur-9_4860	3	Pla89fa_3_reptile-18_419	3	0	dinosaurs	Reptiles	100.0
+taxongroup	Rep-aa64_312_dinosaurs-35	Rep-aa64_312_reptiles-3	Rep-aa64_312_dinosaurs-35_4860	312	Rep-aa64_312_reptiles-3_419	312	0	dinosaurs	Reptiles	100.0
+taxongroup	Rep-aa64_56_dinosaurs-16	Rep-aa64_56_reptiles-7	Rep-aa64_56_dinosaurs-16_4860	56	Rep-aa64_56_reptiles-7_419	56	0	dinosaurs	Reptiles	100.0
+taxongroup	Poa0cf5_14_dinosaur-5	Poa0cf5_14_reptiles-16	Poa0cf5_14_dinosaur-5_4860	14	Poa0cf5_14_reptiles-16_419	14	0	dinosaurs	Reptiles	100.0
+taxongroup	Ple-3991_8_dinosaurs-14	Ple-3991_8_reptiles-6	Ple-3991_8_dinosaurs-14_4860	8	Ple-3991_8_reptiles-6_419	8	0	dinosaurs	Reptiles	100.0
+taxongroup	Pte-62aa_26_dinosaurs-11	Pte-62aa_26_reptile-19	Pte-62aa_26_dinosaurs-11_4860	26	Pte-62aa_26_reptile-19_419	26	0	dinosaurs	Reptiles	100.0
+taxongroup	Fun-7367_246_dinosaurs-21	Fun-7367_246_animal-40	Fun-7367_246_dinosaurs-21_4860	246	Fun-7367_246_animal-40_44	246	0	dinosaurs	Animals	100.0
+taxongroup	Pro-b864_44_ankylosaurs-18	Pro-b864_44_dinosaur-7	Pro-b864_44_ankylosaurs-18_4601	44	Pro-b864_44_dinosaur-7_4860	44	0	ankylosaurs	dinosaurs	100.0
+taxongroup	Uta-b72d_12_ankylosaurs-21	Uta-b72d_12_animals-12	Uta-b72d_12_ankylosaurs-21_4601	12	Uta-b72d_12_animals-12_3812	12	0	ankylosaurs	animals	100.0
+taxongroup	Ank-02ea_28_ankylosaurs-16	Ank-02ea_28_dinosaurs-20	Ank-02ea_28_ankylosaurs-16_4601	28	Ank-02ea_28_dinosaurs-20_4860	28	0	ankylosaurs	dinosaurs	100.0
+taxongroup	Ank-02ea_28_ankylosaurs-4	Ank-02ea_28_dinosaurs-20	Ank-02ea_28_ankylosaurs-4_4601	28	Ank-02ea_28_dinosaurs-20_4860	28	0	ankylosaurs	dinosaurs	100.0
+taxongroup	Orn-f740_5_ankylosaurs-42	Orn-f740_5_dinosaurs-30	Orn-f740_5_ankylosaurs-42_4601	5	Orn-f740_5_dinosaurs-30_4860	5	0	ankylosaurs	dinosaurs	100.0
+taxongroup	Orn-f740_5_ankylosaurs-42	Orn-f740_5_dinosaurs-34	Orn-f740_5_ankylosaurs-42_4601	5	Orn-f740_5_dinosaurs-34_4860	5	0	ankylosaurs	dinosaurs	100.0
+taxongroup	Ovi-e32b_83_ankylosaurs-23	Ovi-e32b_83_dinosaurs-17	Ovi-e32b_83_ankylosaurs-23_4601	83	Ovi-e32b_83_dinosaurs-17_4860	83	0	ankylosaurs	dinosaurs	100.0
+taxongroup	Orn-f740_5_ankylosaurs-42	Orn-f740_5_dinosaurs-16	Orn-f740_5_ankylosaurs-42_4601	5	Orn-f740_5_dinosaurs-16_4860	5	0	ankylosaurs	dinosaurs	100.0
+taxongroup	Pre-0725_280_ankylosaurs-12	Pre-0725_280_dinosaurs-5	Pre-0725_280_ankylosaurs-12_4601	280	Pre-0725_280_dinosaurs-5_4860	280	0	ankylosaurs	dinosaurs	100.0
+taxongroup	Sau6c08_2_dinosaur-3	Sau6c08_2_animals-8	Sau6c08_2_dinosaur-3_4860	2	Sau6c08_2_animals-8_3812	2	0	dinosaurs	animals	100.0
+taxongroup	Pte-62aa_370_dinosaurs-12	Pte-62aa_370_animals-32	Pte-62aa_370_dinosaurs-12_4860	370	Pte-62aa_370_animals-32_3812	370	0	dinosaurs	animals	100.0
+taxongroup	Vel-f1d8_203_dinosaurs-11	Vel-f1d8_203_animals-28	Vel-f1d8_203_dinosaurs-11_4860	203	Vel-f1d8_203_animals-28_3812	203	0	dinosaurs	animals	100.0
+taxongroup	Pte-62aa_407_dinosaurs-21	Pte-62aa_407_animals-32	Pte-62aa_407_dinosaurs-21_4860	407	Pte-62aa_407_animals-32_3812	407	0	dinosaurs	animals	100.0
+taxongroup	Pro-b864_570_dinosaur-60	Pro-b864_570_animals-28	Pro-b864_570_dinosaur-60_4860	570	Pro-b864_570_animals-28_3812	570	0	dinosaurs	animals	100.0
+taxongroup	Spi-4527_167_dinosaurs-24	Spi-4527_167_animals-21	Spi-4527_167_dinosaurs-24_4860	167	Spi-4527_167_animals-21_3812	167	0	dinosaurs	animals	100.0
+taxongroup	Sau-89d2_270_dinosaur-21	Sau-89d2_270_animal-18	Sau-89d2_270_dinosaur-21_4860	270	Sau-89d2_270_animal-18_3812	270	0	dinosaurs	animals	100.0
+taxongroup	Spi-4527_87_dinosaurs-37	Spi-4527_87_animal-21	Spi-4527_87_dinosaurs-37_4860	87	Spi-4527_87_animal-21_3812	87	0	dinosaurs	animals	100.0
+taxongroup	Orn-f740_73_ankylosaurs-8	Orn-f740_73_Thyreophora-5	Orn-f740_73_ankylosaurs-8_4601	73	Orn-f740_73_Thyreophora-5_3531	73	0	ankylosaurs	Thyreophora	100.0
+taxongroup	Orn-f740_5_ankylosaurs-42	Orn-f740_5_Thyreophora-36	Orn-f740_5_ankylosaurs-42_4601	5	Orn-f740_5_Thyreophora-36_3531	5	0	ankylosaurs	Thyreophora	100.0
+taxongroup	Tri-1ad8_191_Triceratops-14	Tri-1ad8_191_reptiles-36	Tri-1ad8_191_Triceratops-14_3562	191	Tri-1ad8_191_reptiles-36_4021	191	0	Triceratops	reptiles	100.0
+taxongroup	Ank-02ea_9_Thyreophora-7	Ank-02ea_9_dinosaurs-16	Ank-02ea_9_Thyreophora-7_3531	9	Ank-02ea_9_dinosaurs-16_4860	9	0	Thyreophora	dinosaurs	100.0
+taxongroup	Orn-f740_5_Thyreophora-36	Orn-f740_5_dinosaurs-34	Orn-f740_5_Thyreophora-36_3531	5	Orn-f740_5_dinosaurs-34_4860	5	0	Thyreophora	dinosaurs	100.0
+taxongroup	Tri-1ad8_198_Triceratops-1	Tri-1ad8_198_animal-38	Tri-1ad8_198_Triceratops-1_3562	198	Tri-1ad8_198_animal-38_44	198	0	Triceratops	Animals	100.0
+taxongroup	Cer-4e1c_8_Triceratops-21	Cer-4e1c_8_Cerapoda-1	Cer-4e1c_8_Triceratops-21_3562	8	Cer-4e1c_8_Cerapoda-1_1853	8	0	Triceratops	Cerapoda	100.0
+taxongroup	Tri-1ad8_169_Triceratops-15	Tri-1ad8_169_Dinosaurs-1	Tri-1ad8_169_Triceratops-15_3562	169	Tri-1ad8_169_Dinosaurs-1_2039	169	0	Triceratops	Dinosaurs	100.0
+taxongroup	Orn-f740_5_Triceratops-19	Orn-f740_5_dinosaurs-34	Orn-f740_5_Triceratops-19_3562	5	Orn-f740_5_dinosaurs-34_4860	5	0	Triceratops	dinosaurs	100.0
+taxongroup	Cer-8d54_96_Triceratops-1	Cer-8d54_96_dinosaur-10	Cer-8d54_96_Triceratops-1_3562	96	Cer-8d54_96_dinosaur-10_4860	96	0	Triceratops	dinosaurs	100.0
+taxongroup	Cer-8d54_96_Triceratops-1	Cer-8d54_96_dinosaur-36	Cer-8d54_96_Triceratops-1_3562	96	Cer-8d54_96_dinosaur-36_4860	96	0	Triceratops	dinosaurs	100.0
+taxongroup	Tricbf4_8_Triceratops-11	Tricbf4_8_dinosaur-7	Tricbf4_8_Triceratops-11_3562	8	Tricbf4_8_dinosaur-7_4860	8	0	Triceratops	dinosaurs	100.0
+taxongroup	Orn-f740_5_Triceratops-19	Orn-f740_5_dinosaurs-30	Orn-f740_5_Triceratops-19_3562	5	Orn-f740_5_dinosaurs-30_4860	5	0	Triceratops	dinosaurs	100.0
+taxongroup	Tri-1ad8_191_Triceratops-14	Tri-1ad8_191_dinosaur-10	Tri-1ad8_191_Triceratops-14_3562	191	Tri-1ad8_191_dinosaur-10_4860	191	0	Triceratops	dinosaurs	100.0
+taxongroup	Orn-f740_5_Triceratops-19	Orn-f740_5_dinosaurs-16	Orn-f740_5_Triceratops-19_3562	5	Orn-f740_5_dinosaurs-16_4860	5	0	Triceratops	dinosaurs	100.0
+taxongroup	Tri-1ad8_2_Triceratops-1	Tri-1ad8_2_dinosaur-24	Tri-1ad8_2_Triceratops-1_3562	2	Tri-1ad8_2_dinosaur-24_4860	2	0	Triceratops	dinosaurs	100.0
+taxongroup	Sauf0a7_15_dinosaur-3	Sauf0a7_15_animals-8	Sauf0a7_15_dinosaur-3_4860	15	Sauf0a7_15_animals-8_3812	15	0	dinosaurs	animals	100.0
+taxongroup	Sca-502f_57_dinosaurs-37	Sca-502f_57_animals-15	Sca-502f_57_dinosaurs-37_4860	57	Sca-502f_57_animals-15_3812	57	0	dinosaurs	animals	100.0
+taxongroup	Ste-56e3_152_dinosaurs-38	Ste-56e3_152_animal-5	Ste-56e3_152_dinosaurs-38_4860	152	Ste-56e3_152_animal-5_3812	152	0	dinosaurs	animals	100.0
+taxongroup	The-2a4b_139_dinosaur-18	The-2a4b_139_animals-60	The-2a4b_139_dinosaur-18_4860	139	The-2a4b_139_animals-60_44	139	0	dinosaurs	Animals	100.0
+taxongroup	Syn-38d5_17_dinosaurs-4	Syn-38d5_17_animals-28	Syn-38d5_17_dinosaurs-4_4860	17	Syn-38d5_17_animals-28_3812	17	0	dinosaurs	animals	100.0
+taxongroup	The-aba9_293_dinosaurs-15	The-aba9_293_animals-25	The-aba9_293_dinosaurs-15_4860	293	The-aba9_293_animals-25_3812	293	0	dinosaurs	animals	100.0
+taxongroup	Ple07e5_6_dinosaurs-21	Ple07e5_6_reptiles-12	Ple07e5_6_dinosaurs-21_4860	6	Ple07e5_6_reptiles-12_419	6	0	dinosaurs	Reptiles	100.0
+taxongroup	Bro-f1dc_314_dinosaur-25	Bro-f1dc_314_reptile-59	Bro-f1dc_314_dinosaur-25_4860	314	Bro-f1dc_314_reptile-59_419	314	0	dinosaurs	Reptiles	100.0
+taxongroup	Cro-0859_69_dinosaurs-9	Cro-0859_69_reptiles-29	Cro-0859_69_dinosaurs-9_4860	69	Cro-0859_69_reptiles-29_419	69	0	dinosaurs	Reptiles	100.0
+taxongroup	Orn1510_5_dinosaurs-10	Orn1510_5_dinosaurs-10	Orn1510_5_dinosaurs-10_5285	5	Orn1510_5_dinosaurs-10_4860	5	0	bird-hipped dinosaurs	dinosaurs	100.0
+taxongroup	Orn1510_3_dinosaurs-9	Orn1510_3_dinosaurs-9	Orn1510_3_dinosaurs-9_5285	3	Orn1510_3_dinosaurs-9_4860	3	0	bird-hipped dinosaurs	dinosaurs	100.0
+taxongroup	Cer-4e1c_16_dinosaurs-8	Cer-4e1c_16_dinosaurs-8	Cer-4e1c_16_dinosaurs-8_5285	16	Cer-4e1c_16_dinosaurs-8_4860	16	0	bird-hipped dinosaurs	dinosaurs	100.0
+taxongroup	Igu-76d2_71_dinosaurs-10	Igu-76d2_71_reptiles-67	Igu-76d2_71_dinosaurs-10_4860	71	Igu-76d2_71_reptiles-67_419	71	0	dinosaurs	Reptiles	100.0
+taxongroup	Ichdf71_15_dinosaurs-13	Ichdf71_15_reptiles-5	Ichdf71_15_dinosaurs-13_4860	15	Ichdf71_15_reptiles-5_419	15	0	dinosaurs	Reptiles	100.0
+taxongroup	Din-756f_461_dinosaur-23	Din-756f_461_reptiles-36	Din-756f_461_dinosaur-23_4860	461	Din-756f_461_reptiles-36_419	461	0	dinosaurs	Reptiles	100.0
+taxongroup	Orn-f740_101_Ornithischia-6	Orn-f740_101_animal-47	Orn-f740_101_Ornithischia-6_2959	101	Orn-f740_101_animal-47_3812	101	0	Ornithischia	animals	100.0
+taxongroup	Dip1081_1_dinosaurs-8	Dip1081_1_dinosaurs-8	Dip1081_1_dinosaurs-8_4551	1	Dip1081_1_dinosaurs-8_4860	1	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Bro-f1dc_2_dinosaur-33	Bro-f1dc_2_dinosaur-33	Bro-f1dc_2_dinosaur-33_4551	2	Bro-f1dc_2_dinosaur-33_4860	2	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Ostc297_8_dinosaurs-9	Ostc297_8_dinosaurs-9	Ostc297_8_dinosaurs-9_4551	8	Ostc297_8_dinosaurs-9_4860	8	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Bro-f1dc_295_dinosaurs-13	Bro-f1dc_295_dinosaurs-13	Bro-f1dc_295_dinosaurs-13_4551	295	Bro-f1dc_295_dinosaurs-13_4860	295	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Bro-f1dc_162_dinosaurs-15	Bro-f1dc_162_dinosaurs-15	Bro-f1dc_162_dinosaurs-15_4551	162	Bro-f1dc_162_dinosaurs-15_4860	162	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Dip-c98d_256_dinosaurs-13	Dip-c98d_256_dinosaurs-13	Dip-c98d_256_dinosaurs-13_4551	256	Dip-c98d_256_dinosaurs-13_4860	256	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Din-756f_17_dinosaurs-3	Din-756f_17_dinosaurs-26	Din-756f_17_dinosaurs-3_4551	17	Din-756f_17_dinosaurs-26_4860	17	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Dip-c98d_267_dinosaur-24	Dip-c98d_267_dinosaur-24	Dip-c98d_267_dinosaur-24_4551	267	Dip-c98d_267_dinosaur-24_4860	267	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Dip-c98d_267_dinosaur-10	Dip-c98d_267_dinosaur-10	Dip-c98d_267_dinosaur-10_4551	267	Dip-c98d_267_dinosaur-10_4860	267	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Dip-c98d_267_dinosaur-10	Dip-c98d_267_dinosaur-24	Dip-c98d_267_dinosaur-10_4551	267	Dip-c98d_267_dinosaur-24_4860	267	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Dip-c98d_267_dinosaur-24	Dip-c98d_267_dinosaur-10	Dip-c98d_267_dinosaur-24_4551	267	Dip-c98d_267_dinosaur-10_4860	267	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Dip-c98d_2_dinosaurs-13	Dip-c98d_2_dinosaurs-13	Dip-c98d_2_dinosaurs-13_4551	2	Dip-c98d_2_dinosaurs-13_4860	2	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Din-756f_17_dinosaurs-39	Din-756f_17_dinosaurs-26	Din-756f_17_dinosaurs-39_4551	17	Din-756f_17_dinosaurs-26_4860	17	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Dipe6de_5_dinosaurs-3	Dipe6de_5_dinosaurs-3	Dipe6de_5_dinosaurs-3_4551	5	Dipe6de_5_dinosaurs-3_4860	5	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Bro-f1dc_27_dinosaurs-16	Bro-f1dc_27_dinosaurs-16	Bro-f1dc_27_dinosaurs-16_4551	27	Bro-f1dc_27_dinosaurs-16_4860	27	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Din-756f_17_dinosaurs-3	Din-756f_17_dinosaurs-39	Din-756f_17_dinosaurs-3_4551	17	Din-756f_17_dinosaurs-39_4860	17	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Orn-f740_64_Ceratopsia-26	Orn-f740_64_Dinosauria-28	Orn-f740_64_Ceratopsia-26_1383	64	Orn-f740_64_Dinosauria-28_2040	64	0	Ceratopsia	Dinosauria	100.0
+taxongroup	Par-e271_171_dinosaurs-30	Par-e271_171_dinosaurs-30	Par-e271_171_dinosaurs-30_4551	171	Par-e271_171_dinosaurs-30_4860	171	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Ani-161e_84_Argentinosaurus-14	Ani-161e_84_animals-4	Ani-161e_84_Argentinosaurus-14_1566	84	Ani-161e_84_animals-4_3812	84	0	Argentinosaurus	animals	100.0
+taxongroup	Sau-89d2_201_Argentinosaurus-9	Sau-89d2_201_animal-31	Sau-89d2_201_Argentinosaurus-9_1566	201	Sau-89d2_201_animal-31_3812	201	0	Argentinosaurus	animals	100.0
+taxongroup	Arg-b9cb_14_Argentinosaurus-4	Arg-b9cb_14_dinosaur-36	Arg-b9cb_14_Argentinosaurus-4_1566	14	Arg-b9cb_14_dinosaur-36_4860	14	0	Argentinosaurus	dinosaurs	100.0
+taxongroup	Ani-161e_84_Argentinosaurus-14	Ani-161e_84_dinosaurs-11	Ani-161e_84_Argentinosaurus-14_1566	84	Ani-161e_84_dinosaurs-11_4860	84	0	Argentinosaurus	dinosaurs	100.0
+taxongroup	Arg-b9cb_2_Argentinosaurus-1	Arg-b9cb_2_dinosaur-8	Arg-b9cb_2_Argentinosaurus-1_1566	2	Arg-b9cb_2_dinosaur-8_4860	2	0	Argentinosaurus	dinosaurs	100.0
+taxongroup	Sau-89d2_35_Argentinosaurus-11	Sau-89d2_35_dinosaur-3	Sau-89d2_35_Argentinosaurus-11_1566	35	Sau-89d2_35_dinosaur-3_4860	35	0	Argentinosaurus	dinosaurs	100.0
+taxongroup	Par-e271_170_dinosaurs-3	Par-e271_170_dinosaurs-3	Par-e271_170_dinosaurs-3_4551	170	Par-e271_170_dinosaurs-3_4860	170	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Din-756f_17_dinosaurs-39	Din-756f_17_dinosaurs-3	Din-756f_17_dinosaurs-39_4551	17	Din-756f_17_dinosaurs-3_4860	17	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Par-e271_193_dinosaurs-13	Par-e271_193_dinosaurs-13	Par-e271_193_dinosaurs-13_4551	193	Par-e271_193_dinosaurs-13_4860	193	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Pro-b074_32_dinosaurs-10	Pro-b074_32_dinosaurs-10	Pro-b074_32_dinosaurs-10_4551	32	Pro-b074_32_dinosaurs-10_4860	32	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Sau-89d2_6_dinosaurs-6	Sau-89d2_6_dinosaurs-6	Sau-89d2_6_dinosaurs-6_4551	6	Sau-89d2_6_dinosaurs-6_4860	6	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Din-756f_17_dinosaurs-26	Din-756f_17_dinosaurs-3	Din-756f_17_dinosaurs-26_4551	17	Din-756f_17_dinosaurs-3_4860	17	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Din-756f_17_dinosaurs-26	Din-756f_17_dinosaurs-26	Din-756f_17_dinosaurs-26_4551	17	Din-756f_17_dinosaurs-26_4860	17	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Din-756f_17_dinosaurs-26	Din-756f_17_dinosaurs-39	Din-756f_17_dinosaurs-26_4551	17	Din-756f_17_dinosaurs-39_4860	17	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Din-756f_17_dinosaurs-3	Din-756f_17_dinosaurs-3	Din-756f_17_dinosaurs-3_4551	17	Din-756f_17_dinosaurs-3_4860	17	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Din-756f_17_dinosaurs-39	Din-756f_17_dinosaurs-39	Din-756f_17_dinosaurs-39_4551	17	Din-756f_17_dinosaurs-39_4860	17	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Apaafee_2_dinosaurs-11	Apaafee_2_dinosaurs-11	Apaafee_2_dinosaurs-11_4551	2	Apaafee_2_dinosaurs-11_4860	2	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Arg-b9cb_2_dinosaur-8	Arg-b9cb_2_dinosaur-8	Arg-b9cb_2_dinosaur-8_4551	2	Arg-b9cb_2_dinosaur-8_4860	2	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Din-756f_276_dinosaurs-66	Din-756f_276_dinosaurs-66	Din-756f_276_dinosaurs-66_5072	276	Din-756f_276_dinosaurs-66_4860	276	0	duck-billed dinosaurs	dinosaurs	100.0
+taxongroup	Her-8d89_33_ornithischia-5	Her-8d89_33_dinosaur-3	Her-8d89_33_ornithischia-5_5286	33	Her-8d89_33_dinosaur-3_4860	33	0	ornithischia	dinosaurs	100.0
+taxongroup	Tricbf4_10_dinosaur-17	Tricbf4_10_dinosaur-17	Tricbf4_10_dinosaur-17_4544	10	Tricbf4_10_dinosaur-17_4860	10	0	horned dinosaurs	dinosaurs	100.0
+taxongroup	Tri-1ad8_23_dinosaurs-7	Tri-1ad8_23_dinosaurs-7	Tri-1ad8_23_dinosaurs-7_4544	23	Tri-1ad8_23_dinosaurs-7_4860	23	0	horned dinosaurs	dinosaurs	100.0
+taxongroup	Din2693_14_dinosaurs-13	Din2693_14_dinosaurs-13	Din2693_14_dinosaurs-13_4544	14	Din2693_14_dinosaurs-13_4860	14	0	horned dinosaurs	dinosaurs	100.0
+taxongroup	Cer710b_8_dinosaurs-4	Cer710b_8_dinosaurs-4	Cer710b_8_dinosaurs-4_4544	8	Cer710b_8_dinosaurs-4_4860	8	0	horned dinosaurs	dinosaurs	100.0
+taxongroup	Tri-1ad8_137_dinosaurs-9	Tri-1ad8_137_dinosaurs-9	Tri-1ad8_137_dinosaurs-9_4544	137	Tri-1ad8_137_dinosaurs-9_4860	137	0	horned dinosaurs	dinosaurs	100.0
+taxongroup	Cer710b_1_dinosaurs-13	Cer710b_1_dinosaurs-13	Cer710b_1_dinosaurs-13_4544	1	Cer710b_1_dinosaurs-13_4860	1	0	horned dinosaurs	dinosaurs	100.0
+taxongroup	Had-5500_3_dinosaurs-10	Had-5500_3_dinosaurs-10	Had-5500_3_dinosaurs-10_5072	3	Had-5500_3_dinosaurs-10_4860	3	0	duck-billed dinosaurs	dinosaurs	100.0
+taxongroup	Ausc02b_8_dinosaur-10	Ausc02b_8_dinosaur-10	Ausc02b_8_dinosaur-10_4551	8	Ausc02b_8_dinosaur-10_4860	8	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Had-5500_2_dinosaurs-30	Had-5500_2_dinosaurs-30	Had-5500_2_dinosaurs-30_5072	2	Had-5500_2_dinosaurs-30_4860	2	0	duck-billed dinosaurs	dinosaurs	100.0
+taxongroup	Igu-69c5_9_dinosaurs-25	Igu-69c5_9_dinosaurs-25	Igu-69c5_9_dinosaurs-25_5072	9	Igu-69c5_9_dinosaurs-25_4860	9	0	duck-billed dinosaurs	dinosaurs	100.0
+taxongroup	Had8b5f_11_dinosaur-8	Had8b5f_11_dinosaur-8	Had8b5f_11_dinosaur-8_5072	11	Had8b5f_11_dinosaur-8_4860	11	0	duck-billed dinosaurs	dinosaurs	100.0
+taxongroup	All-7078_343_dinosaurs-24	All-7078_343_vertebrates-29	All-7078_343_dinosaurs-24_4860	343	All-7078_343_vertebrates-29_3935	343	0	dinosaurs	vertebrates	100.0
+taxongroup	Arg-b9cb_151_dinosaurs-34	Arg-b9cb_151_vertebrate-9	Arg-b9cb_151_dinosaurs-34_4860	151	Arg-b9cb_151_vertebrate-9_3935	151	0	dinosaurs	vertebrates	100.0
+taxongroup	Cer-4e1c_2_Cerapoda-1	Cer-4e1c_2_Ornithischia-18	Cer-4e1c_2_Cerapoda-1_1853	2	Cer-4e1c_2_Ornithischia-18_2959	2	0	Cerapoda	Ornithischia	100.0
+taxongroup	Cer-4e1c_2_Cerapoda-1	Cer-4e1c_2_dinosaur-16	Cer-4e1c_2_Cerapoda-1_1853	2	Cer-4e1c_2_dinosaur-16_4860	2	0	Cerapoda	dinosaurs	100.0
+taxongroup	Her-8d89_33_ornithischia-5	Her-8d89_33_dinosaurs-10	Her-8d89_33_ornithischia-5_5286	33	Her-8d89_33_dinosaurs-10_4860	33	0	ornithischia	dinosaurs	100.0
+taxongroup	Hyp-5270_2_dinosaurs-13	Hyp-5270_2_dinosaurs-13	Hyp-5270_2_dinosaurs-13_4549	2	Hyp-5270_2_dinosaurs-13_4860	2	0	ornithopod dinosaurs	dinosaurs	100.0
+taxongroup	Mut-8383_2_dinosaur-9	Mut-8383_2_dinosaur-9	Mut-8383_2_dinosaur-9_4549	2	Mut-8383_2_dinosaur-9_4860	2	0	ornithopod dinosaurs	dinosaurs	100.0
+taxongroup	Rha-19f8_2_dinosaurs-9	Rha-19f8_2_dinosaurs-9	Rha-19f8_2_dinosaurs-9_4549	2	Rha-19f8_2_dinosaurs-9_4860	2	0	ornithopod dinosaurs	dinosaurs	100.0
+taxongroup	Dip-c98d_6_dinosaurs-13	Dip-c98d_6_dinosaurs-13	Dip-c98d_6_dinosaurs-13_4551	6	Dip-c98d_6_dinosaurs-13_4860	6	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Apa-3e1a_198_dinosaurs-15	Apa-3e1a_198_dinosaurs-15	Apa-3e1a_198_dinosaurs-15_4551	198	Apa-3e1a_198_dinosaurs-15_4860	198	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Apa-3e1a_295_dinosaurs-16	Apa-3e1a_295_dinosaurs-16	Apa-3e1a_295_dinosaurs-16_4551	295	Apa-3e1a_295_dinosaurs-16_4860	295	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Apa-3e1a_2_dinosaur-16	Apa-3e1a_2_dinosaur-16	Apa-3e1a_2_dinosaur-16_4551	2	Apa-3e1a_2_dinosaur-16_4860	2	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Orn-efbf_45_ornithopoda-9	Orn-efbf_45_dinosaurs-3	Orn-efbf_45_ornithopoda-9_4548	45	Orn-efbf_45_dinosaurs-3_4860	45	0	ornithopoda	dinosaurs	100.0
+taxongroup	Arg-b9cb_50_Argentinosaurus-54	Arg-b9cb_50_animals-21	Arg-b9cb_50_Argentinosaurus-54_1566	50	Arg-b9cb_50_animals-21_3812	50	0	Argentinosaurus	animals	100.0
+taxongroup	Arg-b9cb_56_Argentinosaurus-2	Arg-b9cb_56_animal-7	Arg-b9cb_56_Argentinosaurus-2_1566	56	Arg-b9cb_56_animal-7_3812	56	0	Argentinosaurus	animals	100.0
+taxongroup	Arg-b9cb_3_Argentinosaurus-10	Arg-b9cb_3_animals-18	Arg-b9cb_3_Argentinosaurus-10_1566	3	Arg-b9cb_3_animals-18_3812	3	0	Argentinosaurus	animals	100.0
+taxongroup	Bro-f1dc_169_Apatosaurus-23	Bro-f1dc_169_Sauropoda-11	Bro-f1dc_169_Apatosaurus-23_1526	169	Bro-f1dc_169_Sauropoda-11_1393	169	0	Apatosaurus	Sauropoda	100.0
+taxongroup	Apa-3e1a_133_Apatosaurus-20	Apa-3e1a_133_animals-15	Apa-3e1a_133_Apatosaurus-20_1526	133	Apa-3e1a_133_animals-15_44	133	0	Apatosaurus	Animals	100.0
+taxongroup	All-7078_390_Apatosaurus-30	All-7078_390_Dinosaurs-1	All-7078_390_Apatosaurus-30_1526	390	All-7078_390_Dinosaurs-1_2039	390	0	Apatosaurus	Dinosaurs	100.0
+taxongroup	Bro-f1dc_296_Apatosaurus-18	Bro-f1dc_296_Dinosaurs-1	Bro-f1dc_296_Apatosaurus-18_1526	296	Bro-f1dc_296_Dinosaurs-1_2039	296	0	Apatosaurus	Dinosaurs	100.0
+taxongroup	Dip-c98d_257_Apatosaurus-25	Dip-c98d_257_Dinosaurs-1	Dip-c98d_257_Apatosaurus-25_1526	257	Dip-c98d_257_Dinosaurs-1_2039	257	0	Apatosaurus	Dinosaurs	100.0
+taxongroup	The-f5b4_57_dinosaur-23	The-f5b4_57_dinosaur-23	The-f5b4_57_dinosaur-23_4551	57	The-f5b4_57_dinosaur-23_4860	57	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Apa-3e1a_17_Apatosaurus-1	Apa-3e1a_17_Diplodocidae-8	Apa-3e1a_17_Apatosaurus-1_1526	17	Apa-3e1a_17_Diplodocidae-8_564	17	0	Apatosaurus	Diplodocidae	100.0
+taxongroup	Bro-f1dc_314_Apatosaurus-83	Bro-f1dc_314_reptile-59	Bro-f1dc_314_Apatosaurus-83_1526	314	Bro-f1dc_314_reptile-59_419	314	0	Apatosaurus	Reptiles	100.0
+taxongroup	Bro-f1dc_170_Apatosaurus-29	Bro-f1dc_170_Sauropoda-5	Bro-f1dc_170_Apatosaurus-29_1526	170	Bro-f1dc_170_Sauropoda-5_1393	170	0	Apatosaurus	Sauropoda	100.0
+taxongroup	Apa-3e1a_7_Apatosaurus-5	Apa-3e1a_7_animal-43	Apa-3e1a_7_Apatosaurus-5_1526	7	Apa-3e1a_7_animal-43_3812	7	0	Apatosaurus	animals	100.0
+taxongroup	Apa-3e1a_61_Apatosaurus-4	Apa-3e1a_61_Sauropoda-20	Apa-3e1a_61_Apatosaurus-4_1526	61	Apa-3e1a_61_Sauropoda-20_1393	61	0	Apatosaurus	Sauropoda	100.0
+taxongroup	Apa-3e1a_204_Apatosaurus-22	Apa-3e1a_204_Sauropoda-10	Apa-3e1a_204_Apatosaurus-22_1526	204	Apa-3e1a_204_Sauropoda-10_1393	204	0	Apatosaurus	Sauropoda	100.0
+taxongroup	Bro-f1dc_314_Apatosaurus-83	Bro-f1dc_314_animals-35	Bro-f1dc_314_Apatosaurus-83_1526	314	Bro-f1dc_314_animals-35_3812	314	0	Apatosaurus	animals	100.0
+taxongroup	Apa-3e1a_7_Apatosaurus-21	Apa-3e1a_7_animal-43	Apa-3e1a_7_Apatosaurus-21_1526	7	Apa-3e1a_7_animal-43_3812	7	0	Apatosaurus	animals	100.0
+taxongroup	Bro-f1dc_90_Apatosaurus-19	Bro-f1dc_90_animals-15	Bro-f1dc_90_Apatosaurus-19_1526	90	Bro-f1dc_90_animals-15_3812	90	0	Apatosaurus	animals	100.0
+taxongroup	Bro-f1dc_6_Apatosaurus-18	Bro-f1dc_6_animal-5	Bro-f1dc_6_Apatosaurus-18_1526	6	Bro-f1dc_6_animal-5_3812	6	0	Apatosaurus	animals	100.0
+taxongroup	Bro-f1dc_248_Apatosaurus-6	Bro-f1dc_248_animals-12	Bro-f1dc_248_Apatosaurus-6_1526	248	Bro-f1dc_248_animals-12_3812	248	0	Apatosaurus	animals	100.0
+taxongroup	Apa-3e1a_256_Apatosaurus-6	Apa-3e1a_256_animals-12	Apa-3e1a_256_Apatosaurus-6_1526	256	Apa-3e1a_256_animals-12_44	256	0	Apatosaurus	Animals	100.0
+taxongroup	The-2a4b_108_dinosaurs-22	The-2a4b_108_dinosaurs-22	The-2a4b_108_dinosaurs-22_5451	108	The-2a4b_108_dinosaurs-22_4860	108	0	sauropodomorph dinosaurs	dinosaurs	100.0
+taxongroup	Ste-2738_42_dinosaurs-9	Ste-2738_42_dinosaurs-9	Ste-2738_42_dinosaurs-9_4551	42	Ste-2738_42_dinosaurs-9_4860	42	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Ste-2738_167_dinosaur-39	Ste-2738_167_dinosaur-39	Ste-2738_167_dinosaur-39_4551	167	Ste-2738_167_dinosaur-39_4860	167	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Sauf0a7_3_dinosaurs-10	Sauf0a7_3_dinosaurs-10	Sauf0a7_3_dinosaurs-10_4551	3	Sauf0a7_3_dinosaurs-10_4860	3	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Sauf0a7_5_dinosaurs-12	Sauf0a7_5_dinosaurs-12	Sauf0a7_5_dinosaurs-12_4551	5	Sauf0a7_5_dinosaurs-12_4860	5	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Sauf0a7_8_dinosaurs-6	Sauf0a7_8_dinosaurs-6	Sauf0a7_8_dinosaurs-6_4551	8	Sauf0a7_8_dinosaurs-6_4860	8	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Sau-89d2_72_dinosaur-7	Sau-89d2_72_dinosaur-7	Sau-89d2_72_dinosaur-7_4551	72	Sau-89d2_72_dinosaur-7_4860	72	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Apa-3e1a_7_Apatosaurus-38	Apa-3e1a_7_animal-43	Apa-3e1a_7_Apatosaurus-38_1526	7	Apa-3e1a_7_animal-43_44	7	0	Apatosaurus	Animals	100.0
+taxongroup	Bro-f1dc_314_Apatosaurus-83	Bro-f1dc_314_animals-43	Bro-f1dc_314_Apatosaurus-83_1526	314	Bro-f1dc_314_animals-43_44	314	0	Apatosaurus	Animals	100.0
+taxongroup	Apaafee_2_Apatosaurus-4	Apaafee_2_animals-19	Apaafee_2_Apatosaurus-4_1526	2	Apaafee_2_animals-19_44	2	0	Apatosaurus	Animals	100.0
+taxongroup	Apa-3e1a_25_Apatosaurus-1	Apa-3e1a_25_animal-11	Apa-3e1a_25_Apatosaurus-1_1526	25	Apa-3e1a_25_animal-11_44	25	0	Apatosaurus	Animals	100.0
+taxongroup	Apa-3e1a_238_Apatosaurus-12	Apa-3e1a_238_animals-21	Apa-3e1a_238_Apatosaurus-12_1526	238	Apa-3e1a_238_animals-21_44	238	0	Apatosaurus	Animals	100.0
+taxongroup	Arg-b9cb_35_Argentinosaurus-1	Arg-b9cb_35_animals-8	Arg-b9cb_35_Argentinosaurus-1_1566	35	Arg-b9cb_35_animals-8_3812	35	0	Argentinosaurus	animals	100.0
+taxongroup	Dip-c98d_6_Apatosaurus-17	Dip-c98d_6_dinosaurs-13	Dip-c98d_6_Apatosaurus-17_1526	6	Dip-c98d_6_dinosaurs-13_4551	6	0	Apatosaurus	sauropod dinosaurs	100.0
+taxongroup	Apa-3e1a_2_Apatosaurus-1	Apa-3e1a_2_dinosaur-16	Apa-3e1a_2_Apatosaurus-1_1526	2	Apa-3e1a_2_dinosaur-16_4551	2	0	Apatosaurus	sauropod dinosaurs	100.0
+taxongroup	Apa-3e1a_198_Apatosaurus-1	Apa-3e1a_198_dinosaurs-15	Apa-3e1a_198_Apatosaurus-1_1526	198	Apa-3e1a_198_dinosaurs-15_4551	198	0	Apatosaurus	sauropod dinosaurs	100.0
+taxongroup	Bro-f1dc_27_Apatosaurus-26	Bro-f1dc_27_dinosaurs-16	Bro-f1dc_27_Apatosaurus-26_1526	27	Bro-f1dc_27_dinosaurs-16_4551	27	0	Apatosaurus	sauropod dinosaurs	100.0
+taxongroup	Apaafee_2_Apatosaurus-4	Apaafee_2_dinosaurs-11	Apaafee_2_Apatosaurus-4_1526	2	Apaafee_2_dinosaurs-11_4551	2	0	Apatosaurus	sauropod dinosaurs	100.0
+taxongroup	The-f5b4_149_dinosaurs-25	The-f5b4_149_dinosaurs-25	The-f5b4_149_dinosaurs-25_4551	149	The-f5b4_149_dinosaurs-25_4860	149	0	sauropod dinosaurs	dinosaurs	100.0
+taxongroup	Arg-b9cb_52_Argentinosaurus-39	Arg-b9cb_52_animal-36	Arg-b9cb_52_Argentinosaurus-39_1566	52	Arg-b9cb_52_animal-36_44	52	0	Argentinosaurus	Animals	100.0
+taxongroup	Arg74df_6_Argentinosaurus-1	Arg74df_6_animal-12	Arg74df_6_Argentinosaurus-1_1566	6	Arg74df_6_animal-12_44	6	0	Argentinosaurus	Animals	100.0
+taxongroup	Ste-56e3_7_Apatosaurus-9	Ste-56e3_7_dinosaurs-6	Ste-56e3_7_Apatosaurus-9_1526	7	Ste-56e3_7_dinosaurs-6_4860	7	0	Apatosaurus	dinosaurs	100.0
+taxongroup	Bro-f1dc_314_Apatosaurus-83	Bro-f1dc_314_dinosaur-25	Bro-f1dc_314_Apatosaurus-83_1526	314	Bro-f1dc_314_dinosaur-25_4860	314	0	Apatosaurus	dinosaurs	100.0
+taxongroup	Bro-f1dc_314_Apatosaurus-83	Bro-f1dc_314_dinosaur-66	Bro-f1dc_314_Apatosaurus-83_1526	314	Bro-f1dc_314_dinosaur-66_4860	314	0	Apatosaurus	dinosaurs	100.0
+taxongroup	Apa-3e1a_75_Apatosaurus-27	Apa-3e1a_75_dinosaurs-19	Apa-3e1a_75_Apatosaurus-27_1526	75	Apa-3e1a_75_dinosaurs-19_4860	75	0	Apatosaurus	dinosaurs	100.0
+taxongroup	Apa-3e1a_23_Apatosaurus-12	Apa-3e1a_23_dinosaurs-17	Apa-3e1a_23_Apatosaurus-12_1526	23	Apa-3e1a_23_dinosaurs-17_4860	23	0	Apatosaurus	dinosaurs	100.0
+taxongroup	Bro-f1dc_303_Apatosaurus-14	Bro-f1dc_303_dinosaurs-48	Bro-f1dc_303_Apatosaurus-14_1526	303	Bro-f1dc_303_dinosaurs-48_4860	303	0	Apatosaurus	dinosaurs	100.0
+taxongroup	Apa-3e1a_105_Apatosaurus-19	Apa-3e1a_105_dinosaurs-35	Apa-3e1a_105_Apatosaurus-19_1526	105	Apa-3e1a_105_dinosaurs-35_4860	105	0	Apatosaurus	dinosaurs	100.0
+taxongroup	Apa-3e1a_290_Apatosaurus-1	Apa-3e1a_290_dinosaurs-11	Apa-3e1a_290_Apatosaurus-1_1526	290	Apa-3e1a_290_dinosaurs-11_4860	290	0	Apatosaurus	dinosaurs	100.0
+taxongroup	Apa-3e1a_252_Apatosaurus-9	Apa-3e1a_252_dinosaur-12	Apa-3e1a_252_Apatosaurus-9_1526	252	Apa-3e1a_252_dinosaur-12_4860	252	0	Apatosaurus	dinosaurs	100.0
+taxongroup	Tri-1ad8_143_Cerapoda-14	Tri-1ad8_143_dinosaurs-35	Tri-1ad8_143_Cerapoda-14_1853	143	Tri-1ad8_143_dinosaurs-35_4860	143	0	Cerapoda	dinosaurs	100.0
+taxongroup	Orn-f740_64_Ceratopsia-26	Orn-f740_64_Dinosauria-41	Orn-f740_64_Ceratopsia-26_1383	64	Orn-f740_64_Dinosauria-41_2040	64	0	Ceratopsia	Dinosauria	100.0
+taxongroup	Bas-243b_28_Iguanodon-13	Bas-243b_28_animal-27	Bas-243b_28_Iguanodon-13_2577	28	Bas-243b_28_animal-27_3812	28	0	Iguanodons	animals	100.0
+taxongroup	Igu-76d2_194_Iguanodon-1	Igu-76d2_194_animal-19	Igu-76d2_194_Iguanodon-1_2577	194	Igu-76d2_194_animal-19_3812	194	0	Iguanodons	animals	100.0
+taxongroup	Igu-76d2_346_Iguanodon-40	Igu-76d2_346_animals-43	Igu-76d2_346_Iguanodon-40_2577	346	Igu-76d2_346_animals-43_3812	346	0	Iguanodons	animals	100.0
+taxongroup	Igu-76d2_127_Iguanodon-5	Igu-76d2_127_animal-19	Igu-76d2_127_Iguanodon-5_2577	127	Igu-76d2_127_animal-19_3812	127	0	Iguanodons	animals	100.0
+taxongroup	Igu-76d2_122_Iguanodon-10	Igu-76d2_122_animals-32	Igu-76d2_122_Iguanodon-10_2577	122	Igu-76d2_122_animals-32_3812	122	0	Iguanodons	animals	100.0
+taxongroup	Igu-76d2_367_Iguanodon-9	Igu-76d2_367_animals-20	Igu-76d2_367_Iguanodon-9_2577	367	Igu-76d2_367_animals-20_3812	367	0	Iguanodons	animals	100.0
+taxongroup	Igu-76d2_349_Iguanodon-23	Igu-76d2_349_animals-36	Igu-76d2_349_Iguanodon-23_2577	349	Igu-76d2_349_animals-36_3812	349	0	Iguanodons	animals	100.0
+taxongroup	Igu-76d2_46_Iguanodon-22	Igu-76d2_46_animal-21	Igu-76d2_46_Iguanodon-22_2577	46	Igu-76d2_46_animal-21_3812	46	0	Iguanodons	animals	100.0
+taxongroup	Had-5500_134_Iguanodon-39	Had-5500_134_dinosaur-16	Had-5500_134_Iguanodon-39_2577	134	Had-5500_134_dinosaur-16_4860	134	0	Iguanodons	dinosaurs	100.0
+taxongroup	Din-756f_372_Iguanodon-28	Din-756f_372_dinosaur-16	Din-756f_372_Iguanodon-28_2577	372	Din-756f_372_dinosaur-16_4860	372	0	Iguanodons	dinosaurs	100.0
+taxongroup	Igu-76d2_376_Iguanodon-20	Igu-76d2_376_dinosaurs-36	Igu-76d2_376_Iguanodon-20_2577	376	Igu-76d2_376_dinosaurs-36_4860	376	0	Iguanodons	dinosaurs	100.0
+taxongroup	Igu-76d2_376_Iguanodon-20	Igu-76d2_376_dinosaurs-18	Igu-76d2_376_Iguanodon-20_2577	376	Igu-76d2_376_dinosaurs-18_4860	376	0	Iguanodons	dinosaurs	100.0
+taxongroup	Bas-243b_28_Iguanodon-13	Bas-243b_28_dinosaurs-8	Bas-243b_28_Iguanodon-13_2577	28	Bas-243b_28_dinosaurs-8_4860	28	0	Iguanodons	dinosaurs	100.0
+taxongroup	Din-756f_100_Iguanodon-10	Din-756f_100_dinosaur-4	Din-756f_100_Iguanodon-10_2577	100	Din-756f_100_dinosaur-4_4860	100	0	Iguanodons	dinosaurs	100.0
+taxongroup	Cer-8d54_56_Ceratopsia-4	Cer-8d54_56_Ornithischia-15	Cer-8d54_56_Ceratopsia-4_1383	56	Cer-8d54_56_Ornithischia-15_2959	56	0	Ceratopsia	Ornithischia	100.0
+taxongroup	Cer-4e1c_9_Iguanodon-19	Cer-4e1c_9_Cerapoda-4	Cer-4e1c_9_Iguanodon-19_2577	9	Cer-4e1c_9_Cerapoda-4_1853	9	0	Iguanodons	Cerapoda	100.0
+taxongroup	Din-756f_27_Iguanodon-18	Din-756f_27_Dinosauria-7	Din-756f_27_Iguanodon-18_2577	27	Din-756f_27_Dinosauria-7_2040	27	0	Iguanodons	Dinosauria	100.0
+taxongroup	Igu-76d2_369_Iguanodon-10	Igu-76d2_369_Dinosaur-7	Igu-76d2_369_Iguanodon-10_2577	369	Igu-76d2_369_Dinosaur-7_2039	369	0	Iguanodons	Dinosaurs	100.0
+taxongroup	Igu-76d2_373_Iguanodon-7	Igu-76d2_373_Dinosaurs-19	Igu-76d2_373_Iguanodon-7_2577	373	Igu-76d2_373_Dinosaurs-19_2039	373	0	Iguanodons	Dinosaurs	100.0
+taxongroup	Orn-f740_95_Iguanodon-10	Orn-f740_95_Ornithischia-1	Orn-f740_95_Iguanodon-10_2577	95	Orn-f740_95_Ornithischia-1_2959	95	0	Iguanodons	Ornithischia	100.0
+taxongroup	Orn-efbf_41_Iguanodon-19	Orn-efbf_41_Ornithopoda-4	Orn-efbf_41_Iguanodon-19_2577	41	Orn-efbf_41_Ornithopoda-4_1390	41	0	Iguanodons	Ornithopoda	100.0
+taxongroup	Igu-76d2_288_Iguanodon-8	Igu-76d2_288_reptile-18	Igu-76d2_288_Iguanodon-8_2577	288	Igu-76d2_288_reptile-18_419	288	0	Iguanodons	Reptiles	100.0
+taxongroup	Igu-76d2_332_Iguanodon-21	Igu-76d2_332_dinosaurs-33	Igu-76d2_332_Iguanodon-21_2577	332	Igu-76d2_332_dinosaurs-33_4860	332	0	Iguanodons	dinosaurs	100.0
+taxongroup	Igu-76d2_371_Iguanodon-1	Igu-76d2_371_dinosaur-7	Igu-76d2_371_Iguanodon-1_2577	371	Igu-76d2_371_dinosaur-7_4860	371	0	Iguanodons	dinosaurs	100.0
+taxongroup	Igu-76d2_133_Iguanodon-6	Igu-76d2_133_dinosaur-15	Igu-76d2_133_Iguanodon-6_2577	133	Igu-76d2_133_dinosaur-15_4860	133	0	Iguanodons	dinosaurs	100.0
+taxongroup	Igu-76d2_190_Muttaburrasaurus-16	Igu-76d2_190_animals-4	Igu-76d2_190_Muttaburrasaurus-16_2879	190	Igu-76d2_190_animals-4_3812	190	0	Muttaburrasaurus	animals	100.0
+taxongroup	Lea-dca1_2_Leaellynasaura-1	Lea-dca1_2_dinosaurs-17	Lea-dca1_2_Leaellynasaura-1_2677	2	Lea-dca1_2_dinosaurs-17_4860	2	0	Leaellynasaura	dinosaurs	100.0
+taxongroup	Lea-dca1_18_Leaellynasaura-1	Lea-dca1_18_dinosaur-6	Lea-dca1_18_Leaellynasaura-1_2677	18	Lea-dca1_18_dinosaur-6_4860	18	0	Leaellynasaura	dinosaurs	100.0
+taxongroup	Sauff81_5_dinosaurs-10	Sauff81_5_dinosaurs-10	Sauff81_5_dinosaurs-10_3278	5	Sauff81_5_dinosaurs-10_4860	5	0	Lizard-hipped dinosaurs	dinosaurs	100.0
+taxongroup	Mut-8383_38_Muttaburrasaurus-6	Mut-8383_38_Rhabdodontidae-21	Mut-8383_38_Muttaburrasaurus-6_2879	38	Mut-8383_38_Rhabdodontidae-21_773	38	0	Muttaburrasaurus	Rhabdodontidae	100.0
+taxongroup	Mut-8383_2_Muttaburrasaurus-1	Mut-8383_2_dinosaur-9	Mut-8383_2_Muttaburrasaurus-1_2879	2	Mut-8383_2_dinosaur-9_4860	2	0	Muttaburrasaurus	dinosaurs	100.0
+taxongroup	Igu-76d2_23_Iguanodon-12	Igu-76d2_23_dinosaurs-10	Igu-76d2_23_Iguanodon-12_2577	23	Igu-76d2_23_dinosaurs-10_4860	23	0	Iguanodons	dinosaurs	100.0
+taxongroup	Orn-f740_62_Ornithischia-60	Orn-f740_62_Dinosauria-8	Orn-f740_62_Ornithischia-60_2959	62	Orn-f740_62_Dinosauria-8_2040	62	0	Ornithischia	Dinosauria	100.0
+taxongroup	Orn-f740_62_Ornithischia-60	Orn-f740_62_Dinosauria-46	Orn-f740_62_Ornithischia-60_2959	62	Orn-f740_62_Dinosauria-46_2040	62	0	Ornithischia	Dinosauria	100.0
+taxongroup	Din-756f_28_Ornithischia-11	Din-756f_28_Dinosauria-9	Din-756f_28_Ornithischia-11_2959	28	Din-756f_28_Dinosauria-9_2040	28	0	Ornithischia	Dinosauria	100.0
+taxongroup	Lea-dca1_7_Leaellynasaura-1	Lea-dca1_7_dinosaur-6	Lea-dca1_7_Leaellynasaura-1_2677	7	Lea-dca1_7_dinosaur-6_4860	7	0	Leaellynasaura	dinosaurs	100.0
+taxongroup	Leadfa8_2_Leaellynasaura-10	Leadfa8_2_dinosaur-11	Leadfa8_2_Leaellynasaura-10_2677	2	Leadfa8_2_dinosaur-11_4860	2	0	Leaellynasaura	dinosaurs	100.0
+taxongroup	Igu-76d2_9_Iguanodon-1	Igu-76d2_9_dinosaur-7	Igu-76d2_9_Iguanodon-1_2577	9	Igu-76d2_9_dinosaur-7_4860	9	0	Iguanodons	dinosaurs	100.0
+taxongroup	Igu-76d2_119_Iguanodon-1	Igu-76d2_119_dinosaur-11	Igu-76d2_119_Iguanodon-1_2577	119	Igu-76d2_119_dinosaur-11_4860	119	0	Iguanodons	dinosaurs	100.0
+taxongroup	Igu-76d2_331_Iguanodon-14	Igu-76d2_331_dinosaurs-34	Igu-76d2_331_Iguanodon-14_2577	331	Igu-76d2_331_dinosaurs-34_4860	331	0	Iguanodons	dinosaurs	100.0
+taxongroup	Igu-76d2_23_Iguanodon-12	Igu-76d2_23_dinosaurs-26	Igu-76d2_23_Iguanodon-12_2577	23	Igu-76d2_23_dinosaurs-26_4860	23	0	Iguanodons	dinosaurs	100.0
+taxongroup	Spi-4527_185_Iguanodon-21	Spi-4527_185_dinosaurs-17	Spi-4527_185_Iguanodon-21_2577	185	Spi-4527_185_dinosaurs-17_4860	185	0	Iguanodons	dinosaurs	100.0
+taxongroup	Orn-efbf_9_Iguanodon-37	Orn-efbf_9_dinosaurs-24	Orn-efbf_9_Iguanodon-37_2577	9	Orn-efbf_9_dinosaurs-24_4860	9	0	Iguanodons	dinosaurs	100.0
+taxongroup	Igu-76d2_2_Iguanodon-1	Igu-76d2_2_dinosaur-28	Igu-76d2_2_Iguanodon-1_2577	2	Igu-76d2_2_dinosaur-28_4860	2	0	Iguanodons	dinosaurs	100.0
+taxongroup	Igu-76d2_376_Iguanodon-20	Igu-76d2_376_dinosaurs-9	Igu-76d2_376_Iguanodon-20_2577	376	Igu-76d2_376_dinosaurs-9_4860	376	0	Iguanodons	dinosaurs	100.0
+taxongroup	Igu-76d2_198_Iguanodon-2	Igu-76d2_198_dinosaur-8	Igu-76d2_198_Iguanodon-2_2577	198	Igu-76d2_198_dinosaur-8_4860	198	0	Iguanodons	dinosaurs	100.0
+taxongroup	Igu-76d2_199_Iguanodon-20	Igu-76d2_199_dinosaurs-12	Igu-76d2_199_Iguanodon-20_2577	199	Igu-76d2_199_dinosaurs-12_4860	199	0	Iguanodons	dinosaurs	100.0
+taxongroup	Igu-69c5_3_Iguanodon-8	Igu-69c5_3_dinosaurs-20	Igu-69c5_3_Iguanodon-8_2577	3	Igu-69c5_3_dinosaurs-20_4860	3	0	Iguanodons	dinosaurs	100.0
+taxongroup	Bro-f1dc_314_dinosaur-66	Bro-f1dc_314_reptile-59	Bro-f1dc_314_dinosaur-66_4860	314	Bro-f1dc_314_reptile-59_4021	314	0	dinosaurs	reptiles	100.0
+taxongroup	Syn-38d5_16_dinosaurs-32	Syn-38d5_16_vertebrates-17	Syn-38d5_16_dinosaurs-32_4860	16	Syn-38d5_16_vertebrates-17_3935	16	0	dinosaurs	vertebrates	100.0
+taxongroup	Pte-62aa_412_dinosaurs-51	Pte-62aa_412_vertebrates-47	Pte-62aa_412_dinosaurs-51_4860	412	Pte-62aa_412_vertebrates-47_3935	412	0	dinosaurs	vertebrates	100.0
+taxongroup	Cer-8d54_50_Ceratopsia-1	Cer-8d54_50_dinosaurs-12	Cer-8d54_50_Ceratopsia-1_1383	50	Cer-8d54_50_dinosaurs-12_4860	50	0	Ceratopsia	dinosaurs	100.0
+taxongroup	Cer-8d54_2_Ceratopsia-1	Cer-8d54_2_dinosaurs-21	Cer-8d54_2_Ceratopsia-1_1383	2	Cer-8d54_2_dinosaurs-21_4860	2	0	Ceratopsia	dinosaurs	100.0
+taxongroup	Rep-aa64_9_Dinosauria-27	Rep-aa64_9_reptiles-39	Rep-aa64_9_Dinosauria-27_2040	9	Rep-aa64_9_reptiles-39_419	9	0	Dinosauria	Reptiles	100.0
+taxongroup	Rep-aa64_9_Dinosauria-27	Rep-aa64_9_reptiles-46	Rep-aa64_9_Dinosauria-27_2040	9	Rep-aa64_9_reptiles-46_419	9	0	Dinosauria	Reptiles	100.0
+taxongroup	Igu-76d2_71_Dinosauria-5	Igu-76d2_71_reptiles-67	Igu-76d2_71_Dinosauria-5_2040	71	Igu-76d2_71_reptiles-67_419	71	0	Dinosauria	Reptiles	100.0
+taxongroup	Din-756f_76_Dinosaurs-1	Din-756f_76_reptiles-22	Din-756f_76_Dinosaurs-1_2039	76	Din-756f_76_reptiles-22_419	76	0	Dinosaurs	Reptiles	100.0
+taxongroup	Din-756f_183_Dinosaurs-1	Din-756f_183_vertebrate-42	Din-756f_183_Dinosaurs-1_2039	183	Din-756f_183_vertebrate-42_3935	183	0	Dinosaurs	vertebrates	100.0
+taxongroup	Bur-08d7_9_dinosaurs-29	Bur-08d7_9_vertebrate-4	Bur-08d7_9_dinosaurs-29_4860	9	Bur-08d7_9_vertebrate-4_3935	9	0	dinosaurs	vertebrates	100.0
+taxongroup	Din-756f_476_dinosaurs-17	Din-756f_476_vertebrate-47	Din-756f_476_dinosaurs-17_4860	476	Din-756f_476_vertebrate-47_3935	476	0	dinosaurs	vertebrates	100.0
+taxongroup	Din-756f_476_dinosaurs-24	Din-756f_476_vertebrate-47	Din-756f_476_dinosaurs-24_4860	476	Din-756f_476_vertebrate-47_3935	476	0	dinosaurs	vertebrates	100.0
+taxongroup	Map-fd86_51_dinosaurs-34	Map-fd86_51_vertebrate-9	Map-fd86_51_dinosaurs-34_4860	51	Map-fd86_51_vertebrate-9_3935	51	0	dinosaurs	vertebrates	100.0
+taxongroup	Ank-02ea_2_Ankylosauria-1	Ank-02ea_2_Ornithischia-11	Ank-02ea_2_Ankylosauria-1_1510	2	Ank-02ea_2_Ornithischia-11_2959	2	0	Ankylosauria	Ornithischia	87.0
+taxongroup	Thy-db39_56_Ankylosauria-28	Thy-db39_56_Thyreophora-18	Thy-db39_56_Ankylosauria-28_1510	56	Thy-db39_56_Thyreophora-18_3531	56	0	Ankylosauria	Thyreophora	87.0
+taxongroup	Ank-02ea_17_Ankylosauria-1	Ank-02ea_17_Thyreophora-11	Ank-02ea_17_Ankylosauria-1_1510	17	Ank-02ea_17_Thyreophora-11_3531	17	0	Ankylosauria	Thyreophora	87.0
+taxongroup	Thy-db39_56_Ankylosauria-15	Thy-db39_56_Thyreophora-18	Thy-db39_56_Ankylosauria-15_1510	56	Thy-db39_56_Thyreophora-18_3531	56	0	Ankylosauria	Thyreophora	87.0
+taxongroup	Thy-db39_6_Ankylosauria-9	Thy-db39_6_Thyreophora-1	Thy-db39_6_Ankylosauria-9_1510	6	Thy-db39_6_Thyreophora-1_3531	6	0	Ankylosauria	Thyreophora	87.0
+taxongroup	Thy-db39_56_Ankylosauria-15	Thy-db39_56_Thyreophora-4	Thy-db39_56_Ankylosauria-15_1510	56	Thy-db39_56_Thyreophora-4_3531	56	0	Ankylosauria	Thyreophora	87.0
+taxongroup	Thy-db39_56_Ankylosauria-28	Thy-db39_56_Thyreophora-4	Thy-db39_56_Ankylosauria-28_1510	56	Thy-db39_56_Thyreophora-4_3531	56	0	Ankylosauria	Thyreophora	87.0
+taxongroup	Ank-02ea_2_Ankylosauria-1	Ank-02ea_2_dinosaurs-7	Ank-02ea_2_Ankylosauria-1_1510	2	Ank-02ea_2_dinosaurs-7_4860	2	0	Ankylosauria	dinosaurs	87.0
+taxongroup	Ank-02ea_17_Ankylosauria-1	Ank-02ea_17_dinosaurs-17	Ank-02ea_17_Ankylosauria-1_1510	17	Ank-02ea_17_dinosaurs-17_4860	17	0	Ankylosauria	dinosaurs	87.0
+taxongroup	Igu-69c5_9_hadrosaurs-20	Igu-69c5_9_dinosaurs-25	Igu-69c5_9_hadrosaurs-20_5073	9	Igu-69c5_9_dinosaurs-25_4860	9	0	hadrosaurs	dinosaurs	83.0
+taxongroup	Bro-f1dc_314_Brontosaurus-81	Bro-f1dc_314_reptile-59	Bro-f1dc_314_Brontosaurus-81_1527	314	Bro-f1dc_314_reptile-59_4021	314	0	Brontosaurus	reptiles	83.0
+taxongroup	Dip-c98d_6_Brontosaurus-23	Dip-c98d_6_dinosaurs-13	Dip-c98d_6_Brontosaurus-23_1527	6	Dip-c98d_6_dinosaurs-13_4551	6	0	Brontosaurus	sauropod dinosaurs	83.0
+taxongroup	Tar-5191_187_hadrosaurs-22	Tar-5191_187_dinosaurs-13	Tar-5191_187_hadrosaurs-22_5073	187	Tar-5191_187_dinosaurs-13_4860	187	0	hadrosaurs	dinosaurs	83.0
+taxongroup	Bro-f1dc_27_Brontosaurus-4	Bro-f1dc_27_dinosaurs-16	Bro-f1dc_27_Brontosaurus-4_1527	27	Bro-f1dc_27_dinosaurs-16_4551	27	0	Brontosaurus	sauropod dinosaurs	83.0
+taxongroup	Bro-f1dc_196_Brontosaurus-2	Bro-f1dc_196_reptiles-22	Bro-f1dc_196_Brontosaurus-2_1527	196	Bro-f1dc_196_reptiles-22_4021	196	0	Brontosaurus	reptiles	83.0
+taxongroup	Din-756f_596_hadrosaur-14	Din-756f_596_dinosaurs-33	Din-756f_596_hadrosaur-14_5073	596	Din-756f_596_dinosaurs-33_4860	596	0	hadrosaurs	dinosaurs	83.0
+taxongroup	Bro-f1dc_303_Brontosaurus-30	Bro-f1dc_303_dinosaurs-48	Bro-f1dc_303_Brontosaurus-30_1527	303	Bro-f1dc_303_dinosaurs-48_4860	303	0	Brontosaurus	dinosaurs	83.0
+taxongroup	Had-5500_36_hadrosaurs-25	Had-5500_36_Ornithopoda-7	Had-5500_36_hadrosaurs-25_5073	36	Had-5500_36_Ornithopoda-7_1390	36	0	hadrosaurs	Ornithopoda	83.0
+taxongroup	Had-5500_139_hadrosaur-16	Had-5500_139_reptiles-38	Had-5500_139_hadrosaur-16_5073	139	Had-5500_139_reptiles-38_419	139	0	hadrosaurs	Reptiles	83.0
+taxongroup	Had-5500_149_hadrosaur-43	Had-5500_149_reptiles-25	Had-5500_149_hadrosaur-43_5073	149	Had-5500_149_reptiles-25_419	149	0	hadrosaurs	Reptiles	83.0
+taxongroup	Das-ed91_11_hadrosaur-27	Das-ed91_11_dinosaurs-20	Das-ed91_11_hadrosaur-27_5073	11	Das-ed91_11_dinosaurs-20_4860	11	0	hadrosaurs	dinosaurs	83.0
+taxongroup	Pre-0725_280_hadrosaurs-8	Pre-0725_280_dinosaurs-5	Pre-0725_280_hadrosaurs-8_5073	280	Pre-0725_280_dinosaurs-5_4860	280	0	hadrosaurs	dinosaurs	83.0
+taxongroup	Sca-9161_23_hadrosaurs-19	Sca-9161_23_dinosaur-34	Sca-9161_23_hadrosaurs-19_5073	23	Sca-9161_23_dinosaur-34_4860	23	0	hadrosaurs	dinosaurs	83.0
+taxongroup	Had-5500_102_hadrosaurs-6	Had-5500_102_dinosaurs-18	Had-5500_102_hadrosaurs-6_5073	102	Had-5500_102_dinosaurs-18_4860	102	0	hadrosaurs	dinosaurs	83.0
+taxongroup	Had-5500_146_hadrosaurs-9	Had-5500_146_dinosaurs-26	Had-5500_146_hadrosaurs-9_5073	146	Had-5500_146_dinosaurs-26_4860	146	0	hadrosaurs	dinosaurs	83.0
+taxongroup	Rha-19f8_48_hadrosaurs-59	Rha-19f8_48_dinosaur-12	Rha-19f8_48_hadrosaurs-59_5073	48	Rha-19f8_48_dinosaur-12_4860	48	0	hadrosaurs	dinosaurs	83.0
+taxongroup	Apa-3e1a_2_lizard-7	Apa-3e1a_2_dinosaur-16	Apa-3e1a_2_lizard-7_1528	2	Apa-3e1a_2_dinosaur-16_4551	2	0	deceptive lizard	sauropod dinosaurs	83.0
+taxongroup	Dip-c98d_28_beams-4	Dip-c98d_28_dinosaurs-12	Dip-c98d_28_beams-4_2043	28	Dip-c98d_28_dinosaurs-12_4860	28	0	double beam	dinosaurs	83.0
+taxongroup	Bro-f1dc_314_Brontosaurus-81	Bro-f1dc_314_animals-43	Bro-f1dc_314_Brontosaurus-81_1527	314	Bro-f1dc_314_animals-43_3812	314	0	Brontosaurus	animals	83.0
+taxongroup	Bro-f1dc_98_Brontosaurus-1	Bro-f1dc_98_animal-11	Bro-f1dc_98_Brontosaurus-1_1527	98	Bro-f1dc_98_animal-11_3812	98	0	Brontosaurus	animals	83.0
+taxongroup	Bro-f1dc_314_Brontosaurus-81	Bro-f1dc_314_animals-35	Bro-f1dc_314_Brontosaurus-81_1527	314	Bro-f1dc_314_animals-35_3812	314	0	Brontosaurus	animals	83.0
+taxongroup	Bro-f1dc_238_Brontosaurus-12	Bro-f1dc_238_animals-21	Bro-f1dc_238_Brontosaurus-12_1527	238	Bro-f1dc_238_animals-21_3812	238	0	Brontosaurus	animals	83.0
+taxongroup	Bro-f1dc_248_Brontosaurus-8	Bro-f1dc_248_animals-12	Bro-f1dc_248_Brontosaurus-8_1527	248	Bro-f1dc_248_animals-12_3812	248	0	Brontosaurus	animals	83.0
+taxongroup	Bro-f1dc_170_Brontosaurus-36	Bro-f1dc_170_Sauropoda-5	Bro-f1dc_170_Brontosaurus-36_1527	170	Bro-f1dc_170_Sauropoda-5_1393	170	0	Brontosaurus	Sauropoda	83.0
+taxongroup	Bro-f1dc_170_Brontosaurus-20	Bro-f1dc_170_Sauropoda-5	Bro-f1dc_170_Brontosaurus-20_1527	170	Bro-f1dc_170_Sauropoda-5_1393	170	0	Brontosaurus	Sauropoda	83.0
+taxongroup	Bro-f1dc_156_Brontosaurus-4	Bro-f1dc_156_Sauropoda-20	Bro-f1dc_156_Brontosaurus-4_1527	156	Bro-f1dc_156_Sauropoda-20_1393	156	0	Brontosaurus	Sauropoda	83.0
+taxongroup	Bro-f1dc_13_Brontosaurus-1	Bro-f1dc_13_Diplodocidae-8	Bro-f1dc_13_Brontosaurus-1_1527	13	Bro-f1dc_13_Diplodocidae-8_564	13	0	Brontosaurus	Diplodocidae	83.0
+taxongroup	All-7078_390_Brontosaurus-32	All-7078_390_Dinosaurs-1	All-7078_390_Brontosaurus-32_1527	390	All-7078_390_Dinosaurs-1_2039	390	0	Brontosaurus	Dinosaurs	83.0
+taxongroup	Apa-3e1a_296_Brontosaurus-23	Apa-3e1a_296_Dinosaurs-1	Apa-3e1a_296_Brontosaurus-23_1527	296	Apa-3e1a_296_Dinosaurs-1_2039	296	0	Brontosaurus	Dinosaurs	83.0
+taxongroup	Bro-f1dc_304_Brontosaurus-1	Bro-f1dc_304_Dinosaur-18	Bro-f1dc_304_Brontosaurus-1_1527	304	Bro-f1dc_304_Dinosaur-18_2039	304	0	Brontosaurus	Dinosaurs	83.0
+taxongroup	Dip-c98d_257_Brontosaurus-23	Dip-c98d_257_Dinosaurs-1	Dip-c98d_257_Brontosaurus-23_1527	257	Dip-c98d_257_Dinosaurs-1_2039	257	0	Brontosaurus	Dinosaurs	83.0
+taxongroup	Apa-3e1a_256_Brontosaurus-8	Apa-3e1a_256_animals-12	Apa-3e1a_256_Brontosaurus-8_1527	256	Apa-3e1a_256_animals-12_44	256	0	Brontosaurus	Animals	83.0
+taxongroup	Bro-f1dc_90_Brontosaurus-29	Bro-f1dc_90_animals-15	Bro-f1dc_90_Brontosaurus-29_1527	90	Bro-f1dc_90_animals-15_44	90	0	Brontosaurus	Animals	83.0
+taxongroup	Bro-f1dc_222_Brontosaurus-2	Bro-f1dc_222_animals-25	Bro-f1dc_222_Brontosaurus-2_1527	222	Bro-f1dc_222_animals-25_44	222	0	Brontosaurus	Animals	83.0
+taxongroup	Thy-db39_2_bearers-5	Thy-db39_2_dinosaurs-14	Thy-db39_2_bearers-5_3532	2	Thy-db39_2_dinosaurs-14_4860	2	0	shield bearers	dinosaurs	83.0
+taxongroup	The-2a4b_163_hadrosaurs-13	The-2a4b_163_dinosaurs-36	The-2a4b_163_hadrosaurs-13_5073	163	The-2a4b_163_dinosaurs-36_4860	163	0	hadrosaurs	dinosaurs	83.0
+taxongroup	Tyr-70f1_276_hadrosaurs-17	Tyr-70f1_276_dinosaurs-33	Tyr-70f1_276_hadrosaurs-17_5073	276	Tyr-70f1_276_dinosaurs-33_4860	276	0	hadrosaurs	dinosaurs	83.0
+taxongroup	Cer710b_4_face-7	Cer710b_4_dinosaur-9	Cer710b_4_face-7_1385	4	Cer710b_4_dinosaur-9_4860	4	0	horn face	dinosaurs	83.0
+taxongroup	Bro-f1dc_303_Brontosaurus-12	Bro-f1dc_303_dinosaurs-48	Bro-f1dc_303_Brontosaurus-12_1527	303	Bro-f1dc_303_dinosaurs-48_4860	303	0	Brontosaurus	dinosaurs	83.0
+taxongroup	Apa-3e1a_105_Brontosaurus-28	Apa-3e1a_105_dinosaurs-35	Apa-3e1a_105_Brontosaurus-28_1527	105	Apa-3e1a_105_dinosaurs-35_4860	105	0	Brontosaurus	dinosaurs	83.0
+taxongroup	Bro-f1dc_314_Brontosaurus-81	Bro-f1dc_314_dinosaur-66	Bro-f1dc_314_Brontosaurus-81_1527	314	Bro-f1dc_314_dinosaur-66_4860	314	0	Brontosaurus	dinosaurs	83.0
+taxongroup	Bro-f1dc_303_Brontosaurus-41	Bro-f1dc_303_dinosaurs-48	Bro-f1dc_303_Brontosaurus-41_1527	303	Bro-f1dc_303_dinosaurs-48_4860	303	0	Brontosaurus	dinosaurs	83.0
+taxongroup	Bro-f1dc_314_Brontosaurus-81	Bro-f1dc_314_dinosaur-25	Bro-f1dc_314_Brontosaurus-81_1527	314	Bro-f1dc_314_dinosaur-25_4860	314	0	Brontosaurus	dinosaurs	83.0
+taxongroup	Igu-76d2_46_tooth-43	Igu-76d2_46_animal-21	Igu-76d2_46_tooth-43_2579	46	Igu-76d2_46_animal-21_44	46	0	iguana tooth	Animals	83.0
+taxongroup	Igu-76d2_46_teeth-8	Igu-76d2_46_animal-21	Igu-76d2_46_teeth-8_2579	46	Igu-76d2_46_animal-21_44	46	0	iguana tooth	Animals	83.0
+taxongroup	Igu-76d2_46_tooth-27	Igu-76d2_46_animal-21	Igu-76d2_46_tooth-27_2579	46	Igu-76d2_46_animal-21_44	46	0	iguana tooth	Animals	83.0
+taxongroup	Igu-76d2_2_tooth-15	Igu-76d2_2_dinosaur-28	Igu-76d2_2_tooth-15_2579	2	Igu-76d2_2_dinosaur-28_4860	2	0	iguana tooth	dinosaurs	83.0
+taxongroup	Bro-f1dc_311_Brontosaurus-28	Bro-f1dc_311_dinosaur-17	Bro-f1dc_311_Brontosaurus-28_1527	311	Bro-f1dc_311_dinosaur-17_4860	311	0	Brontosaurus	dinosaurs	83.0
+taxongroup	Bro-f1dc_2_Brontosaurus-1	Bro-f1dc_2_dinosaur-33	Bro-f1dc_2_Brontosaurus-1_1527	2	Bro-f1dc_2_dinosaur-33_4860	2	0	Brontosaurus	dinosaurs	83.0
+taxongroup	Apa-3e1a_105_Brontosaurus-7	Apa-3e1a_105_dinosaurs-35	Apa-3e1a_105_Brontosaurus-7_1527	105	Apa-3e1a_105_dinosaurs-35_4860	105	0	Brontosaurus	dinosaurs	83.0
+taxongroup	Bro-f1dc_310_Brontosaurus-15	Bro-f1dc_310_dinosaurs-11	Bro-f1dc_310_Brontosaurus-15_1527	310	Bro-f1dc_310_dinosaurs-11_4860	310	0	Brontosaurus	dinosaurs	83.0
+taxongroup	Bro-f1dc_162_Brontosaurus-1	Bro-f1dc_162_dinosaurs-15	Bro-f1dc_162_Brontosaurus-1_1527	162	Bro-f1dc_162_dinosaurs-15_4860	162	0	Brontosaurus	dinosaurs	83.0
+taxongroup	Dip-900c_2_beams-12	Dip-900c_2_dinosaurs-21	Dip-900c_2_beams-12_2043	2	Dip-900c_2_dinosaurs-21_4860	2	0	double beam	dinosaurs	83.0
+taxongroup	Thy-db39_2_bearers-5	Thy-db39_2_dinosaurs-23	Thy-db39_2_bearers-5_3532	2	Thy-db39_2_dinosaurs-23_4860	2	0	shield bearers	dinosaurs	83.0
+taxongroup	Orn1510_4_dinosaurs-10	Orn1510_4_dinosaurs-10	Orn1510_4_dinosaurs-10_2487	4	Orn1510_4_dinosaurs-10_4860	4	0	Duck-billed dinosaurs	dinosaurs	75.0
+taxongroup	Orn1510_4_dinosaurs-7	Orn1510_4_dinosaurs-4	Orn1510_4_dinosaurs-7_2487	4	Orn1510_4_dinosaurs-4_4860	4	0	Duck-billed dinosaurs	dinosaurs	75.0
+taxongroup	Orn1510_4_dinosaurs-7	Orn1510_4_dinosaurs-10	Orn1510_4_dinosaurs-7_2487	4	Orn1510_4_dinosaurs-10_4860	4	0	Duck-billed dinosaurs	dinosaurs	75.0
+taxongroup	Orn1510_4_dinosaurs-4	Orn1510_4_dinosaurs-4	Orn1510_4_dinosaurs-4_2487	4	Orn1510_4_dinosaurs-4_4860	4	0	Duck-billed dinosaurs	dinosaurs	75.0
+taxongroup	Orn1510_4_dinosaurs-10	Orn1510_4_dinosaurs-4	Orn1510_4_dinosaurs-10_2487	4	Orn1510_4_dinosaurs-4_4860	4	0	Duck-billed dinosaurs	dinosaurs	75.0
+taxongroup	Orn1510_4_dinosaurs-10	Orn1510_4_dinosaurs-7	Orn1510_4_dinosaurs-10_2487	4	Orn1510_4_dinosaurs-7_4860	4	0	Duck-billed dinosaurs	dinosaurs	75.0
+taxongroup	Orn1510_4_dinosaurs-4	Orn1510_4_dinosaurs-7	Orn1510_4_dinosaurs-4_2487	4	Orn1510_4_dinosaurs-7_4860	4	0	Duck-billed dinosaurs	dinosaurs	75.0
+taxongroup	Orn1510_4_dinosaurs-7	Orn1510_4_dinosaurs-7	Orn1510_4_dinosaurs-7_2487	4	Orn1510_4_dinosaurs-7_4860	4	0	Duck-billed dinosaurs	dinosaurs	75.0
+taxongroup	Orn1510_4_dinosaurs-4	Orn1510_4_dinosaurs-10	Orn1510_4_dinosaurs-4_2487	4	Orn1510_4_dinosaurs-10_4860	4	0	Duck-billed dinosaurs	dinosaurs	75.0
+taxongroup	Blu-492f_30_bird-3	Blu-492f_30_animal-30	Blu-492f_30_bird-3_5287	30	Blu-492f_30_animal-30_3812	30	0	bird-hipped	animals	54.0
+taxongroup	The-1978_190_bird-17	The-1978_190_dinosaurs-8	The-1978_190_bird-17_2960	190	The-1978_190_dinosaurs-8_4860	190	0	Bird-hipped	dinosaurs	54.0
+taxongroup	The-1978_190_birds-10	The-1978_190_dinosaurs-8	The-1978_190_birds-10_2960	190	The-1978_190_dinosaurs-8_4860	190	0	Bird-hipped	dinosaurs	54.0
+taxongroup	Din-756f_394_bird-4	Din-756f_394_dinosaurs-25	Din-756f_394_bird-4_2960	394	Din-756f_394_dinosaurs-25_4860	394	0	Bird-hipped	dinosaurs	54.0
+taxongroup	Gig-7116_135_bird-16	Gig-7116_135_dinosaur-19	Gig-7116_135_bird-16_2960	135	Gig-7116_135_dinosaur-19_4860	135	0	Bird-hipped	dinosaurs	54.0
+taxongroup	Mee-4cdd_141_birds-41	Mee-4cdd_141_reptiles-38	Mee-4cdd_141_birds-41_2960	141	Mee-4cdd_141_reptiles-38_4021	141	0	Bird-hipped	reptiles	54.0
+taxongroup	Sau-89d2_78_bird-2	Sau-89d2_78_reptile-46	Sau-89d2_78_bird-2_2960	78	Sau-89d2_78_reptile-46_4021	78	0	Bird-hipped	reptiles	54.0
+taxongroup	Had-5500_149_bird-85	Had-5500_149_reptiles-25	Had-5500_149_bird-85_2960	149	Had-5500_149_reptiles-25_4021	149	0	Bird-hipped	reptiles	54.0
+taxongroup	Bir-154b_69_birds-5	Bir-154b_69_vertebrates-24	Bir-154b_69_birds-5_2960	69	Bir-154b_69_vertebrates-24_3935	69	0	Bird-hipped	vertebrates	54.0
+taxongroup	Blu-492f_30_bird-3	Blu-492f_30_vertebrates-48	Blu-492f_30_bird-3_2960	30	Blu-492f_30_vertebrates-48_3935	30	0	Bird-hipped	vertebrates	54.0
+taxongroup	Rep-aa64_168_lizard-40	Rep-aa64_168_reptiles-5	Rep-aa64_168_lizard-40_5450	168	Rep-aa64_168_reptiles-5_4021	168	0	lizard-hipped	reptiles	54.0
+taxongroup	Sau-89d2_78_bird-2	Sau-89d2_78_animals-17	Sau-89d2_78_bird-2_5287	78	Sau-89d2_78_animals-17_44	78	0	bird-hipped	Animals	54.0
+taxongroup	Rep-aa64_168_lizard-40	Rep-aa64_168_reptiles-18	Rep-aa64_168_lizard-40_5450	168	Rep-aa64_168_reptiles-18_4021	168	0	lizard-hipped	reptiles	54.0
+taxongroup	Ichdf71_17_lizards-7	Ichdf71_17_reptile-17	Ichdf71_17_lizards-7_5450	17	Ichdf71_17_reptile-17_4021	17	0	lizard-hipped	reptiles	54.0
+taxongroup	Sin-8696_2_lizard-17	Sin-8696_2_dinosaur-26	Sin-8696_2_lizard-17_5450	2	Sin-8696_2_dinosaur-26_4860	2	0	lizard-hipped	dinosaurs	54.0
+taxongroup	Sauf0a7_9_Apatosaurus-6	Sauf0a7_8_dinosaurs-6	Sauf0a7_9_Apatosaurus-6_1526	9	Sauf0a7_8_dinosaurs-6_4551	8	1	Apatosaurus	sauropod dinosaurs	50.0
+taxongroup	Ste-56e3_386_Apatosaurus-12	Ste-56e3_385_Dinosaurs-1	Ste-56e3_386_Apatosaurus-12_1526	386	Ste-56e3_385_Dinosaurs-1_2039	385	1	Apatosaurus	Dinosaurs	50.0
+taxongroup	Dip-900c_4_Diplodocidae-1	Dip-900c_5_animals-5	Dip-900c_4_Diplodocidae-1_564	4	Dip-900c_5_animals-5_3812	5	1	Diplodocidae	animals	50.0
+taxongroup	Sau-6bc5_52_sauropodomorpha-7	Sau-6bc5_51_Saurischia-10	Sau-6bc5_52_sauropodomorpha-7_5452	52	Sau-6bc5_51_Saurischia-10_3279	51	1	sauropodomorpha	Saurischia	50.0
+taxongroup	All-7078_289_Stegosaurus-31	All-7078_288_animals-11	All-7078_289_Stegosaurus-31_3420	289	All-7078_288_animals-11_44	288	1	Stegosaurus	Animals	50.0
+taxongroup	All-7078_289_Stegosaurus-9	All-7078_288_animals-11	All-7078_289_Stegosaurus-9_3420	289	All-7078_288_animals-11_3812	288	1	Stegosaurus	animals	50.0
+taxongroup	All-7078_289_Stegosaurus-25	All-7078_288_animals-11	All-7078_289_Stegosaurus-25_3420	289	All-7078_288_animals-11_3812	288	1	Stegosaurus	animals	50.0
+taxongroup	Igu-76d2_376_Iguanodon-20	Igu-76d2_377_reptile-15	Igu-76d2_376_Iguanodon-20_2577	376	Igu-76d2_377_reptile-15_4021	377	1	Iguanodons	reptiles	50.0
+taxongroup	Had-5500_150_Iguanodon-48	Had-5500_149_reptiles-25	Had-5500_150_Iguanodon-48_2577	150	Had-5500_149_reptiles-25_4021	149	1	Iguanodons	reptiles	50.0
+taxongroup	Igu-76d2_288_Iguanodon-8	Igu-76d2_289_reptile-15	Igu-76d2_288_Iguanodon-8_2577	288	Igu-76d2_289_reptile-15_419	289	1	Iguanodons	Reptiles	50.0
+taxongroup	Igu-76d2_290_Iguanodon-5	Igu-76d2_289_reptile-15	Igu-76d2_290_Iguanodon-5_2577	290	Igu-76d2_289_reptile-15_419	289	1	Iguanodons	Reptiles	50.0
+taxongroup	Igu-76d2_221_Iguanodon-8	Igu-76d2_222_reptile-23	Igu-76d2_221_Iguanodon-8_2577	221	Igu-76d2_222_reptile-23_419	222	1	Iguanodons	Reptiles	50.0
+taxongroup	Din-756f_107_Iguanodon-13	Din-756f_108_reptiles-18	Din-756f_107_Iguanodon-13_2577	107	Din-756f_108_reptiles-18_419	108	1	Iguanodons	Reptiles	50.0
+taxongroup	Din-756f_27_Iguanodon-18	Din-756f_28_Ornithischia-11	Din-756f_27_Iguanodon-18_2577	27	Din-756f_28_Ornithischia-11_2959	28	1	Iguanodons	Ornithischia	50.0
+taxongroup	Igu-76d2_372_Iguanodon-1	Igu-76d2_373_Dinosaurs-19	Igu-76d2_372_Iguanodon-1_2577	372	Igu-76d2_373_Dinosaurs-19_2039	373	1	Iguanodons	Dinosaurs	50.0
+taxongroup	Igu-76d2_370_Iguanodon-19	Igu-76d2_369_Dinosaur-7	Igu-76d2_370_Iguanodon-19_2577	370	Igu-76d2_369_Dinosaur-7_2039	369	1	Iguanodons	Dinosaurs	50.0
+taxongroup	Igu-76d2_11_Iguanodon-3	Igu-76d2_10_Dinosauria-18	Igu-76d2_11_Iguanodon-3_2577	11	Igu-76d2_10_Dinosauria-18_2040	10	1	Iguanodons	Dinosauria	50.0
+taxongroup	Igu-76d2_9_Iguanodon-1	Igu-76d2_10_Dinosauria-18	Igu-76d2_9_Iguanodon-1_2577	9	Igu-76d2_10_Dinosauria-18_2040	10	1	Iguanodons	Dinosauria	50.0
+taxongroup	Din-756f_27_Iguanodon-18	Din-756f_28_Dinosauria-9	Din-756f_27_Iguanodon-18_2577	27	Din-756f_28_Dinosauria-9_2040	28	1	Iguanodons	Dinosauria	50.0
+taxongroup	Cer-4e1c_9_Iguanodon-19	Cer-4e1c_8_Cerapoda-1	Cer-4e1c_9_Iguanodon-19_2577	9	Cer-4e1c_8_Cerapoda-1_1853	8	1	Iguanodons	Cerapoda	50.0
+taxongroup	Din-756f_36_Sauropodomorpha-12	Din-756f_37_Dinosauria-16	Din-756f_36_Sauropodomorpha-12_3282	36	Din-756f_37_Dinosauria-16_2040	37	1	Sauropodomorpha	Dinosauria	50.0
+taxongroup	Ank-02ea_18_Stegosaurus-30	Ank-02ea_17_Thyreophora-11	Ank-02ea_18_Stegosaurus-30_3420	18	Ank-02ea_17_Thyreophora-11_3531	17	1	Stegosaurus	Thyreophora	50.0
+taxongroup	Ank-02ea_18_Stegosaurus-30	Ank-02ea_17_Stegosauria-3	Ank-02ea_18_Stegosaurus-30_3420	18	Ank-02ea_17_Stegosauria-3_1397	17	1	Stegosaurus	Stegosauria	50.0
+taxongroup	All-7078_391_Stegosaurus-17	All-7078_390_Dinosaurs-1	All-7078_391_Stegosaurus-17_3420	391	All-7078_390_Dinosaurs-1_2039	390	1	Stegosaurus	Dinosaurs	50.0
+taxongroup	Sau-6bc5_2_Sauropodomorpha-1	Sau-6bc5_3_animals-22	Sau-6bc5_2_Sauropodomorpha-1_3282	2	Sau-6bc5_3_animals-22_3812	3	1	Sauropodomorpha	animals	50.0
+taxongroup	Orn-f740_102_Ornithischia-9	Orn-f740_101_animal-47	Orn-f740_102_Ornithischia-9_2959	102	Orn-f740_101_animal-47_44	101	1	Ornithischia	Animals	50.0
+taxongroup	Vel-f1d8_155_Protoceratops-17	Vel-f1d8_156_animals-11	Vel-f1d8_155_Protoceratops-17_3134	155	Vel-f1d8_156_animals-11_3812	156	1	Protoceratops	animals	50.0
+taxongroup	Orn-f740_102_Ornithischia-9	Orn-f740_101_reptiles-65	Orn-f740_102_Ornithischia-9_2959	102	Orn-f740_101_reptiles-65_4021	101	1	Ornithischia	reptiles	50.0
+taxongroup	Din-756f_38_Ornithischia-13	Din-756f_39_Dinosaur-1	Din-756f_38_Ornithischia-13_2959	38	Din-756f_39_Dinosaur-1_2039	39	1	Ornithischia	Dinosaurs	50.0
+taxongroup	Pro-cbba_29_Protoceratops-20	Pro-cbba_30_dinosaurs-14	Pro-cbba_29_Protoceratops-20_3134	29	Pro-cbba_30_dinosaurs-14_4860	30	1	Protoceratops	dinosaurs	50.0

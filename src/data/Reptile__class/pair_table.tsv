@@ -1,0 +1,992 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Sia-9432_15_crocodiles-2	Sia-9432_15_rivers-16	Sia-9432_15_crocodiles-2_3322	15	Sia-9432_15_rivers-16_4533	15	0	Siamese crocodile	rivers and streams	100.0
+location	Cro-9102_255_crocodile-19	Cro-9102_255_estuaries-35	Cro-9102_255_crocodile-19_53	255	Cro-9102_255_estuaries-35_4517	255	0	American crocodile	estuaries	100.0
+location	Amee210_1_crocodiles-2	Amee210_1_wetlands-20	Amee210_1_crocodiles-2_53	1	Amee210_1_wetlands-20_4542	1	0	American crocodile	wetlands	100.0
+location	Cro-9102_255_crocodile-15	Cro-9102_255_swamps-38	Cro-9102_255_crocodile-15_53	255	Cro-9102_255_swamps-38_3808	255	0	American crocodile	swamp	100.0
+location	Cro-9102_255_crocodile-19	Cro-9102_255_swamps-38	Cro-9102_255_crocodile-19_53	255	Cro-9102_255_swamps-38_3808	255	0	American crocodile	swamp	100.0
+location	Tur-06de_56_turtles-2	Tur-06de_56_ocean-17	Tur-06de_56_turtles-2_4188	56	Tur-06de_56_ocean-17_4530	56	0	sea turtles	open ocean	100.0
+location	Gre-8842_71_turtles-4	Gre-8842_71_ocean-17	Gre-8842_71_turtles-4_4188	71	Gre-8842_71_ocean-17_4530	71	0	sea turtles	open ocean	100.0
+location	Sia-9432_15_crocodiles-2	Sia-9432_15_swamps-28	Sia-9432_15_crocodiles-2_3322	15	Sia-9432_15_swamps-28_3808	15	0	Siamese crocodile	swamp	100.0
+location	Bra-fdd7_40_crocodile-19	Bra-fdd7_40_mangroves-8	Bra-fdd7_40_crocodile-19_53	40	Bra-fdd7_40_mangroves-8_4524	40	0	American crocodile	mangroves	100.0
+location	Cro-9102_255_crocodile-15	Cro-9102_255_mangrove-37	Cro-9102_255_crocodile-15_53	255	Cro-9102_255_mangrove-37_4524	255	0	American crocodile	mangroves	100.0
+location	Cro-9102_255_crocodile-19	Cro-9102_255_mangrove-37	Cro-9102_255_crocodile-19_53	255	Cro-9102_255_mangrove-37_4524	255	0	American crocodile	mangroves	100.0
+location	Spe-51aa_125_caiman-14	Spe-51aa_125_rainforest-10	Spe-51aa_125_caiman-14_4269	125	Spe-51aa_125_rainforest-10_3811	125	0	caiman	rainforest	100.0
+location	Spe-51aa_125_caiman-3	Spe-51aa_125_rainforest-10	Spe-51aa_125_caiman-3_4269	125	Spe-51aa_125_rainforest-10_3811	125	0	caiman	rainforest	100.0
+location	Bra-fdd7_40_crocodile-16	Bra-fdd7_40_mangroves-8	Bra-fdd7_40_crocodile-16_53	40	Bra-fdd7_40_mangroves-8_4524	40	0	American crocodile	mangroves	100.0
+location	Cro-9102_255_crocodile-15	Cro-9102_255_estuaries-35	Cro-9102_255_crocodile-15_53	255	Cro-9102_255_estuaries-35_4517	255	0	American crocodile	estuaries	100.0
+location	Cro-0859_362_crocodile-17	Cro-0859_362_estuary-10	Cro-0859_362_crocodile-17_4303	362	Cro-0859_362_estuary-10_4517	362	0	crocodiles	estuaries	100.0
+location	Yac-9d0f_5_caiman-5	Yac-9d0f_5_wetlands-12	Yac-9d0f_5_caiman-5_4269	5	Yac-9d0f_5_wetlands-12_4542	5	0	caiman	wetlands	100.0
+location	Ame-fe9c_87_crocodile-18	Ame-fe9c_87_waters-24	Ame-fe9c_87_crocodile-18_53	87	Ame-fe9c_87_waters-24_4512	87	0	American crocodile	brackish water	100.0
+location	Wet-a585_154_crocodile-3	Wet-a585_154_estuaries-5	Wet-a585_154_crocodile-3_4303	154	Wet-a585_154_estuaries-5_4517	154	0	crocodiles	estuaries	100.0
+location	Ame-fe9c_87_crocodiles-35	Ame-fe9c_87_waters-24	Ame-fe9c_87_crocodiles-35_53	87	Ame-fe9c_87_waters-24_4512	87	0	American crocodile	brackish water	100.0
+location	Nil-600c_155_crocodiles-2	Nil-600c_155_estuaries-34	Nil-600c_155_crocodiles-2_4303	155	Nil-600c_155_estuaries-34_4517	155	0	crocodiles	estuaries	100.0
+location	Gre-8842_292_turtles-10	Gre-8842_292_reef-4	Gre-8842_292_turtles-10_5061	292	Gre-8842_292_reef-4_4532	292	0	green turtle	reefs	83.0
+location	Gre-8842_292_turtles-10	Gre-8842_292_reef-16	Gre-8842_292_turtles-10_5061	292	Gre-8842_292_reef-16_4532	292	0	green turtle	reefs	83.0
+location	Gra-bd0d_34_crocodiles-10	Gra-bd0d_34_rivers-2	Gra-bd0d_34_crocodiles-10_4303	34	Gra-bd0d_34_rivers-2_4533	34	0	crocodiles	rivers and streams	66.0
+location	Gre-8842_425_turtles-7	Gre-8842_425_reef-35	Gre-8842_425_turtles-7_5060	425	Gre-8842_425_reef-35_4532	425	0	green sea turtle	reefs	66.0
+location	Cro-5646_352_crocodile-30	Cro-5646_351_rainforest-3	Cro-5646_352_crocodile-30_2912	352	Cro-5646_351_rainforest-3_3811	351	1	Nile crocodile	rainforest	50.0
+location	Sia-9432_14_crocodile-2	Sia-9432_15_swamps-28	Sia-9432_14_crocodile-2_3322	14	Sia-9432_15_swamps-28_3808	15	1	Siamese crocodile	swamp	50.0
+location	Spe-51aa_130_caimans-16	Spe-51aa_131_wetlands-9	Spe-51aa_130_caimans-16_4269	130	Spe-51aa_131_wetlands-9_4542	131	1	caiman	wetlands	50.0
+location	Amb-94f9_15_crocodiles-15	Amb-94f9_14_rainforests-9	Amb-94f9_15_crocodiles-15_4303	15	Amb-94f9_14_rainforests-9_3811	14	1	crocodiles	rainforest	50.0
+location	Cro-5646_352_crocodile-37	Cro-5646_351_rainforest-3	Cro-5646_352_crocodile-37_4303	352	Cro-5646_351_rainforest-3_3811	351	1	crocodiles	rainforest	50.0
+location	Spe-51aa_132_caiman-9	Spe-51aa_131_wetlands-9	Spe-51aa_132_caiman-9_4269	132	Spe-51aa_131_wetlands-9_4542	131	1	caiman	wetlands	50.0
+location	Spe-51aa_124_caiman-13	Spe-51aa_125_rainforest-10	Spe-51aa_124_caiman-13_4269	124	Spe-51aa_125_rainforest-10_3811	125	1	caiman	rainforest	50.0
+location	Sia-9432_16_crocodile-2	Sia-9432_15_swamps-28	Sia-9432_16_crocodile-2_3322	16	Sia-9432_15_swamps-28_3808	15	1	Siamese crocodile	swamp	50.0
+location	Sia-9432_16_crocodile-2	Sia-9432_15_rivers-16	Sia-9432_16_crocodile-2_4303	16	Sia-9432_15_rivers-16_4533	15	1	crocodiles	rivers and streams	50.0
+location	Sia-9432_14_crocodile-2	Sia-9432_15_rivers-16	Sia-9432_14_crocodile-2_3322	14	Sia-9432_15_rivers-16_4533	15	1	Siamese crocodile	rivers and streams	50.0
+location	Nil-600c_2_crocodile-3	Nil-600c_3_swamps-38	Nil-600c_2_crocodile-3_2912	2	Nil-600c_3_swamps-38_3808	3	1	Nile crocodile	swamp	50.0
+location	Nil-600c_158_crocodiles-9	Nil-600c_157_swamps-27	Nil-600c_158_crocodiles-9_2912	158	Nil-600c_157_swamps-27_3808	157	1	Nile crocodile	swamp	50.0
+location	Gre-8842_398_turtle-29	Gre-8842_399_Reefs-26	Gre-8842_398_turtle-29_5060	398	Gre-8842_399_Reefs-26_1371	399	1	green sea turtle	Reefs	50.0
+location	Yac-9d0f_40_caiman-3	Yac-9d0f_41_wetlands-14	Yac-9d0f_40_caiman-3_4269	40	Yac-9d0f_41_wetlands-14_4542	41	1	caiman	wetlands	50.0
+location	Ame-fe9c_86_crocodile-3	Ame-fe9c_87_waters-24	Ame-fe9c_86_crocodile-3_53	86	Ame-fe9c_87_waters-24_4512	87	1	American crocodile	brackish water	50.0
+location	Sea-4a1d_225_turtle-2	Sea-4a1d_226_beds-3	Sea-4a1d_225_turtle-2_4188	225	Sea-4a1d_226_beds-3_4510	226	1	sea turtles	sea bed	50.0
+location	Bra-fdd7_40_crocodile-16	Bra-fdd7_39_estuaries-2	Bra-fdd7_40_crocodile-16_53	40	Bra-fdd7_39_estuaries-2_4517	39	1	American crocodile	estuaries	50.0
+location	Cro-9102_287_alligator-11	Cro-9102_288_swamps-10	Cro-9102_287_alligator-11_1867	287	Cro-9102_288_swamps-10_3808	288	1	Chinese alligator	swamp	50.0
+location	Ame-fe9c_88_crocodile-8	Ame-fe9c_87_waters-24	Ame-fe9c_88_crocodile-8_53	88	Ame-fe9c_87_waters-24_4512	87	1	American crocodile	brackish water	50.0
+location	Bra-fdd7_40_crocodile-19	Bra-fdd7_39_estuaries-2	Bra-fdd7_40_crocodile-19_53	40	Bra-fdd7_39_estuaries-2_4517	39	1	American crocodile	estuaries	50.0
+location	Gre-8842_291_turtles-9	Gre-8842_292_reef-4	Gre-8842_291_turtles-9_2460	291	Gre-8842_292_reef-4_4532	292	1	Green turtle	reefs	41.5
+location	Gre-8842_291_turtles-9	Gre-8842_292_reef-16	Gre-8842_291_turtles-9_5061	291	Gre-8842_292_reef-16_4532	292	1	green turtle	reefs	41.5
+location	Gre-8842_426_turtles-28	Gre-8842_425_reef-35	Gre-8842_426_turtles-28_5061	426	Gre-8842_425_reef-35_4532	425	1	green turtle	reefs	41.5
+location	Gre-8842_349_turtle-9	Gre-8842_350_Reef-40	Gre-8842_349_turtle-9_2460	349	Gre-8842_350_Reef-40_4532	350	1	Green turtle	reefs	41.5
+location	Gre-8842_257_turtles-4	Gre-8842_258_ocean-4	Gre-8842_257_turtles-4_5061	257	Gre-8842_258_ocean-4_4530	258	1	green turtle	open ocean	41.5
+location	Gre-8842_72_turtles-36	Gre-8842_71_ocean-17	Gre-8842_72_turtles-36_2460	72	Gre-8842_71_ocean-17_4530	71	1	Green turtle	open ocean	41.5
+location	Pac-29db_8_crocodiles-14	Pac-29db_10_rainforests-18	Pac-29db_8_crocodiles-14_4303	8	Pac-29db_10_rainforests-18_3811	10	2	crocodiles	rainforest	33.333
+location	Nil-600c_53_crocodiles-3	Nil-600c_55_swamps-27	Nil-600c_53_crocodiles-3_2912	53	Nil-600c_55_swamps-27_3808	55	2	Nile crocodile	swamp	33.333
+location	Nil-600c_53_crocodile-38	Nil-600c_55_swamps-27	Nil-600c_53_crocodile-38_2912	53	Nil-600c_55_swamps-27_3808	55	2	Nile crocodile	swamp	33.333
+location	Nil-600c_1_crocodile-2	Nil-600c_3_swamps-38	Nil-600c_1_crocodile-2_2912	1	Nil-600c_3_swamps-38_3808	3	2	Nile crocodile	swamp	33.333
+location	Spe-51aa_123_caiman-10	Spe-51aa_125_rainforest-10	Spe-51aa_123_caiman-10_4269	123	Spe-51aa_125_rainforest-10_3811	125	2	caiman	rainforest	33.333
+location	Cro-5646_354_crocodile-2	Cro-5646_356_rainforest-11	Cro-5646_354_crocodile-2_4303	354	Cro-5646_356_rainforest-11_3811	356	2	crocodiles	rainforest	33.333
+location	Nil-600c_152_crocodiles-3	Nil-600c_150_desert-36	Nil-600c_152_crocodiles-3_2912	152	Nil-600c_150_desert-36_3805	150	2	Nile crocodile	desert	33.333
+location	Nil-600c_152_crocodile-31	Nil-600c_150_desert-36	Nil-600c_152_crocodile-31_2912	152	Nil-600c_150_desert-36_3805	150	2	Nile crocodile	desert	33.333
+location	Crob1e1_11_crocodiles-13	Crob1e1_9_swamps-16	Crob1e1_11_crocodiles-13_2912	11	Crob1e1_9_swamps-16_3808	9	2	Nile crocodile	swamp	33.333
+location	Gia-ae2f_20_caimans-29	Gia-ae2f_18_rivers-5	Gia-ae2f_20_caimans-29_4269	20	Gia-ae2f_18_rivers-5_4533	18	2	caiman	rivers and streams	33.333
+location	Gre-8842_156_turtles-3	Gre-8842_154_ocean-16	Gre-8842_156_turtles-3_5061	156	Gre-8842_154_ocean-16_4530	154	2	green turtle	open ocean	27.667
+location	Gre-8842_352_turtles-3	Gre-8842_350_Reef-40	Gre-8842_352_turtles-3_2460	352	Gre-8842_350_Reef-40_4532	350	2	Green turtle	reefs	27.667
+location	Gre-8842_348_turtles-2	Gre-8842_350_Reef-40	Gre-8842_348_turtles-2_2460	348	Gre-8842_350_Reef-40_4532	350	2	Green turtle	reefs	27.667
+location	Ame-fe9c_84_crocodile-2	Ame-fe9c_87_waters-24	Ame-fe9c_84_crocodile-2_53	84	Ame-fe9c_87_waters-24_4512	87	3	American crocodile	brackish water	25.0
+location	Yac-9d0f_2_caiman-15	Yac-9d0f_5_wetlands-12	Yac-9d0f_2_caiman-15_3909	2	Yac-9d0f_5_wetlands-12_4542	5	3	spectacled caiman	wetlands	25.0
+location	Yac-9d0f_2_caiman-3	Yac-9d0f_5_wetlands-12	Yac-9d0f_2_caiman-3_3909	2	Yac-9d0f_5_wetlands-12_4542	5	3	spectacled caiman	wetlands	25.0
+location	Yac-9d0f_2_caiman-35	Yac-9d0f_5_wetlands-12	Yac-9d0f_2_caiman-35_3909	2	Yac-9d0f_5_wetlands-12_4542	5	3	spectacled caiman	wetlands	25.0
+location	Yac-9d0f_2_caiman-29	Yac-9d0f_5_wetlands-12	Yac-9d0f_2_caiman-29_3909	2	Yac-9d0f_5_wetlands-12_4542	5	3	spectacled caiman	wetlands	25.0
+location	Sea-4a1d_223_turtles-11	Sea-4a1d_226_beds-3	Sea-4a1d_223_turtles-11_4188	223	Sea-4a1d_226_beds-3_4510	226	3	sea turtles	sea bed	25.0
+location	Yac-9d0f_2_caiman-24	Yac-9d0f_5_wetlands-12	Yac-9d0f_2_caiman-24_3909	2	Yac-9d0f_5_wetlands-12_4542	5	3	spectacled caiman	wetlands	25.0
+location	Yac-9d0f_2_caiman-21	Yac-9d0f_5_wetlands-12	Yac-9d0f_2_caiman-21_3909	2	Yac-9d0f_5_wetlands-12_4542	5	3	spectacled caiman	wetlands	25.0
+location	Siae4d7_1_crocodiles-3	Siae4d7_4_swamps-11	Siae4d7_1_crocodiles-3_3322	1	Siae4d7_4_swamps-11_3808	4	3	Siamese crocodile	swamp	25.0
+location	Yac-9d0f_2_caiman-18	Yac-9d0f_5_wetlands-12	Yac-9d0f_2_caiman-18_3909	2	Yac-9d0f_5_wetlands-12_4542	5	3	spectacled caiman	wetlands	25.0
+location	Sea-4a1d_223_turtles-6	Sea-4a1d_226_beds-3	Sea-4a1d_223_turtles-6_4188	223	Sea-4a1d_226_beds-3_4510	226	3	sea turtles	sea bed	25.0
+location	Cro-5646_354_crocodile-2	Cro-5646_351_rainforest-3	Cro-5646_354_crocodile-2_4303	354	Cro-5646_351_rainforest-3_3811	351	3	crocodiles	rainforest	25.0
+location	Nil-600c_152_crocodile-31	Nil-600c_155_estuaries-34	Nil-600c_152_crocodile-31_2912	152	Nil-600c_155_estuaries-34_4517	155	3	Nile crocodile	estuaries	25.0
+location	Sea-4a1d_229_turtles-2	Sea-4a1d_226_beds-3	Sea-4a1d_229_turtles-2_4188	229	Sea-4a1d_226_beds-3_4510	226	3	sea turtles	sea bed	25.0
+location	Nil-600c_158_crocodiles-9	Nil-600c_155_estuaries-34	Nil-600c_158_crocodiles-9_2912	158	Nil-600c_155_estuaries-34_4517	155	3	Nile crocodile	estuaries	25.0
+location	Spe-51aa_122_crocodile-17	Spe-51aa_125_rainforest-10	Spe-51aa_122_crocodile-17_4303	122	Spe-51aa_125_rainforest-10_3811	125	3	crocodiles	rainforest	25.0
+location	Nil-600c_152_crocodiles-3	Nil-600c_155_estuaries-34	Nil-600c_152_crocodiles-3_2912	152	Nil-600c_155_estuaries-34_4517	155	3	Nile crocodile	estuaries	25.0
+location	Nil-600c_52_crocodile-2	Nil-600c_55_swamps-27	Nil-600c_52_crocodile-2_2912	52	Nil-600c_55_swamps-27_3808	55	3	Nile crocodile	swamp	25.0
+location	Tor-f32e_74_tortoises-12	Tor-f32e_72_deserts-8	Tor-f32e_74_tortoises-12_2331	74	Tor-f32e_72_deserts-8_34	72	2	Galápagos giant tortoise	Desert	22.0
+location	Gre-8842_397_turtle-11	Gre-8842_399_Reefs-26	Gre-8842_397_turtle-11_5060	397	Gre-8842_399_Reefs-26_1371	399	2	green sea turtle	Reefs	22.0
+location	Sea-4a1d_222_turtles-2	Sea-4a1d_226_beds-3	Sea-4a1d_222_turtles-2_4188	222	Sea-4a1d_226_beds-3_4510	226	4	sea turtles	sea bed	20.0
+location	Ada-f37b_60_crocodiles-34	Ada-f37b_64_Rainforest-15	Ada-f37b_60_crocodiles-34_4303	60	Ada-f37b_64_Rainforest-15_42	64	4	crocodiles	Rainforest	20.0
+location	Bra-fdd7_40_crocodile-19	Bra-fdd7_44_water-2	Bra-fdd7_40_crocodile-19_53	40	Bra-fdd7_44_water-2_1350	44	4	American crocodile	Brackish water	20.0
+location	Nil-600c_160_crocodiles-29	Nil-600c_156_marshes-14	Nil-600c_160_crocodiles-29_53	160	Nil-600c_156_marshes-14_3807	156	4	American crocodile	marsh	20.0
+location	Cro-9102_287_alligator-11	Cro-9102_283_swamps-17	Cro-9102_287_alligator-11_1867	287	Cro-9102_283_swamps-17_3808	283	4	Chinese alligator	swamp	20.0
+location	Nil-600c_160_crocodile-18	Nil-600c_156_marshes-14	Nil-600c_160_crocodile-18_53	160	Nil-600c_156_marshes-14_3807	156	4	American crocodile	marsh	20.0
+location	Nil-600c_160_crocodile-12	Nil-600c_156_marshes-14	Nil-600c_160_crocodile-12_53	160	Nil-600c_156_marshes-14_3807	156	4	American crocodile	marsh	20.0
+location	Bra-fdd7_40_crocodile-16	Bra-fdd7_44_water-2	Bra-fdd7_40_crocodile-16_53	40	Bra-fdd7_44_water-2_1350	44	4	American crocodile	Brackish water	20.0
+location	Cro-5646_352_crocodile-30	Cro-5646_356_rainforest-11	Cro-5646_352_crocodile-30_2912	352	Cro-5646_356_rainforest-11_3811	356	4	Nile crocodile	rainforest	20.0
+location	Cro-5646_352_crocodile-37	Cro-5646_356_rainforest-11	Cro-5646_352_crocodile-37_2912	352	Cro-5646_356_rainforest-11_3811	356	4	Nile crocodile	rainforest	20.0
+location	Nil-600c_160_crocodile-22	Nil-600c_156_marshes-14	Nil-600c_160_crocodile-22_53	160	Nil-600c_156_marshes-14_3807	156	4	American crocodile	marsh	20.0
+location	Cro-9102_287_alligator-11	Cro-9102_282_swamps-9	Cro-9102_287_alligator-11_1867	287	Cro-9102_282_swamps-9_3808	282	5	Chinese alligator	swamp	16.667
+location	Ame-fe9c_82_crocodiles-7	Ame-fe9c_87_waters-24	Ame-fe9c_82_crocodiles-7_53	82	Ame-fe9c_87_waters-24_4512	87	5	American crocodile	brackish water	16.667
+location	Spe-51aa_120_caiman-3	Spe-51aa_125_rainforest-10	Spe-51aa_120_caiman-3_4269	120	Spe-51aa_125_rainforest-10_3811	125	5	caiman	rainforest	16.667
+location	Spe-51aa_130_caimans-16	Spe-51aa_125_rainforest-10	Spe-51aa_130_caimans-16_4269	130	Spe-51aa_125_rainforest-10_3811	125	5	caiman	rainforest	16.667
+location	Cro-0859_368_Crocodile-1	Cro-0859_362_estuary-10	Cro-0859_368_Crocodile-1_997	368	Cro-0859_362_estuary-10_4517	362	6	Crocodiles	estuaries	14.286
+location	Ame-fe9c_81_crocodile-30	Ame-fe9c_87_waters-24	Ame-fe9c_81_crocodile-30_53	81	Ame-fe9c_87_waters-24_4512	87	6	American crocodile	brackish water	14.286
+location	Ame-fe9c_81_crocodiles-2	Ame-fe9c_87_waters-24	Ame-fe9c_81_crocodiles-2_53	81	Ame-fe9c_87_waters-24_4512	87	6	American crocodile	brackish water	14.286
+location	Tor-f32e_128_tortoise-9	Tor-f32e_132_desert-2	Tor-f32e_128_tortoise-9_2331	128	Tor-f32e_132_desert-2_3805	132	4	Galápagos giant tortoise	desert	13.2
+location	Tor-f32e_128_tortoise-9	Tor-f32e_132_desert-32	Tor-f32e_128_tortoise-9_2331	128	Tor-f32e_132_desert-32_3805	132	4	Galápagos giant tortoise	desert	13.2
+location	Tor-f32e_128_tortoise-9	Tor-f32e_132_desert-7	Tor-f32e_128_tortoise-9_2331	128	Tor-f32e_132_desert-7_3805	132	4	Galápagos giant tortoise	desert	13.2
+location	Tor-f32e_128_tortoise-9	Tor-f32e_132_desert-27	Tor-f32e_128_tortoise-9_2331	128	Tor-f32e_132_desert-27_3805	132	4	Galápagos giant tortoise	desert	13.2
+location	Nil-600c_162_crocodile-2	Nil-600c_155_estuaries-34	Nil-600c_162_crocodile-2_2912	162	Nil-600c_155_estuaries-34_4517	155	7	Nile crocodile	estuaries	12.5
+location	Spe-51aa_132_caiman-9	Spe-51aa_125_rainforest-10	Spe-51aa_132_caiman-9_4269	132	Spe-51aa_125_rainforest-10_3811	125	7	caiman	rainforest	12.5
+location	Bra-fdd7_40_crocodile-19	Bra-fdd7_33_water-2	Bra-fdd7_40_crocodile-19_53	40	Bra-fdd7_33_water-2_1350	33	7	American crocodile	Brackish water	12.5
+location	Bra-fdd7_40_crocodile-16	Bra-fdd7_33_water-2	Bra-fdd7_40_crocodile-16_53	40	Bra-fdd7_33_water-2_1350	33	7	American crocodile	Brackish water	12.5
+location	Afr-354e_31_crocodile-3	Afr-354e_23_rainforest-18	Afr-354e_31_crocodile-3_2912	31	Afr-354e_23_rainforest-18_3811	23	8	Nile crocodile	rainforest	11.111
+location	Nil-600c_147_Crocodylus-7	Nil-600c_155_estuaries-34	Nil-600c_147_Crocodylus-7_996	147	Nil-600c_155_estuaries-34_4517	155	8	Crocodylus	estuaries	11.111
+location	Nil-600c_147_crocodiles-34	Nil-600c_155_estuaries-34	Nil-600c_147_crocodiles-34_2912	147	Nil-600c_155_estuaries-34_4517	155	8	Nile crocodile	estuaries	11.111
+location	Gia-ae2f_163_caiman-50	Gia-ae2f_172_rivers-5	Gia-ae2f_163_caiman-50_4269	163	Gia-ae2f_172_rivers-5_4533	172	9	caiman	rivers and streams	10.0
+location	Cro-9102_287_alligator-11	Cro-9102_278_swamps-29	Cro-9102_287_alligator-11_1867	287	Cro-9102_278_swamps-29_3808	278	9	Chinese alligator	swamp	10.0
+location	Ich-89df_480_plesiosaur-14	Ich-89df_470_seas-10	Ich-89df_480_plesiosaur-14_5361	480	Ich-89df_470_seas-10_1367	470	10	plesiosaurs	Shallow seas	9.091
+location	Cro-9102_287_alligator-11	Cro-9102_297_swamps-21	Cro-9102_287_alligator-11_1867	287	Cro-9102_297_swamps-21_3808	297	10	Chinese alligator	swamp	9.091
+location	Nil-600c_145_crocodile-3	Nil-600c_155_estuaries-34	Nil-600c_145_crocodile-3_2912	145	Nil-600c_155_estuaries-34_4517	155	10	Nile crocodile	estuaries	9.091
+location	Spe-51aa_135_caiman-3	Spe-51aa_125_rainforest-10	Spe-51aa_135_caiman-3_4269	135	Spe-51aa_125_rainforest-10_3811	125	10	caiman	rainforest	9.091
+location	Spe-51aa_142_Caiman-12	Spe-51aa_131_wetlands-9	Spe-51aa_142_Caiman-12_949	142	Spe-51aa_131_wetlands-9_4542	131	11	Caiman	wetlands	8.333
+location	Cro-0859_351_Crocodiles-1	Cro-0859_362_estuary-10	Cro-0859_351_Crocodiles-1_997	351	Cro-0859_362_estuary-10_4517	362	11	Crocodiles	estuaries	8.333
+location	Gia-ae2f_161_caimans-17	Gia-ae2f_172_rivers-5	Gia-ae2f_161_caimans-17_4269	161	Gia-ae2f_172_rivers-5_4533	172	11	caiman	rivers and streams	8.333
+location	Spe-51aa_142_Caiman-4	Spe-51aa_131_wetlands-9	Spe-51aa_142_Caiman-4_949	142	Spe-51aa_131_wetlands-9_4542	131	11	Caiman	wetlands	8.333
+location	Afr-354e_31_crocodile-3	Afr-354e_20_rainforest-6	Afr-354e_31_crocodile-3_2912	31	Afr-354e_20_rainforest-6_3811	20	11	Nile crocodile	rainforest	8.333
+location	Bra-fdd7_40_crocodile-16	Bra-fdd7_28_rivers-13	Bra-fdd7_40_crocodile-16_53	40	Bra-fdd7_28_rivers-13_4533	28	12	American crocodile	rivers and streams	7.692
+location	Bra-fdd7_40_crocodile-16	Bra-fdd7_28_rivers-23	Bra-fdd7_40_crocodile-16_53	40	Bra-fdd7_28_rivers-23_4533	28	12	American crocodile	rivers and streams	7.692
+location	Bra-fdd7_40_crocodile-19	Bra-fdd7_28_rivers-23	Bra-fdd7_40_crocodile-19_53	40	Bra-fdd7_28_rivers-23_4533	28	12	American crocodile	rivers and streams	7.692
+location	Bra-fdd7_40_crocodile-19	Bra-fdd7_28_rivers-13	Bra-fdd7_40_crocodile-19_53	40	Bra-fdd7_28_rivers-13_4533	28	12	American crocodile	rivers and streams	7.692
+location	Bra-fdd7_40_crocodile-19	Bra-fdd7_52_water-13	Bra-fdd7_40_crocodile-19_53	40	Bra-fdd7_52_water-13_4512	52	12	American crocodile	brackish water	7.692
+location	Bra-fdd7_40_crocodile-16	Bra-fdd7_52_water-13	Bra-fdd7_40_crocodile-16_53	40	Bra-fdd7_52_water-13_4512	52	12	American crocodile	brackish water	7.692
+location	Spe-51aa_142_crocodilus-5	Spe-51aa_131_wetlands-9	Spe-51aa_142_crocodilus-5_258	142	Spe-51aa_131_wetlands-9_4542	131	11	Caiman crocodilus	wetlands	7.25
+location	Spe-51aa_139_caiman-2	Spe-51aa_125_rainforest-10	Spe-51aa_139_caiman-2_4269	139	Spe-51aa_125_rainforest-10_3811	125	14	caiman	rainforest	6.667
+location	Spe-51aa_111_caiman-9	Spe-51aa_125_rainforest-10	Spe-51aa_111_caiman-9_4269	111	Spe-51aa_125_rainforest-10_3811	125	14	caiman	rainforest	6.667
+location	Yel-2b33_32_caimans-10	Yel-2b33_18_rivers-21	Yel-2b33_32_caimans-10_4269	32	Yel-2b33_18_rivers-21_4533	18	14	caiman	rivers and streams	6.667
+adaptation	Kud-baf3_43_crocodiles-16	Kud-baf3_43_Predators-1	Kud-baf3_43_crocodiles-16_4303	43	Kud-baf3_43_Predators-1_359	43	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_252_crocodile-15	Nil-600c_252_predators-23	Nil-600c_252_crocodile-15_4303	252	Nil-600c_252_predators-23_359	252	0	crocodiles	Predator	100.0
+adaptation	Oli-4839_141_crocodiles-16	Oli-4839_141_predators-6	Oli-4839_141_crocodiles-16_4303	141	Oli-4839_141_predators-6_359	141	0	crocodiles	Predator	100.0
+adaptation	Nil17d3_11_crocodiles-2	Nil17d3_11_predators-8	Nil17d3_11_crocodiles-2_4303	11	Nil17d3_11_predators-8_359	11	0	crocodiles	Predator	100.0
+adaptation	Dug-bf37_192_crocodiles-11	Dug-bf37_192_predators-5	Dug-bf37_192_crocodiles-11_4303	192	Dug-bf37_192_predators-5_359	192	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_327_crocodiles-18	Nil-600c_327_predators-14	Nil-600c_327_crocodiles-18_4303	327	Nil-600c_327_predators-14_359	327	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_341_crocodile-38	Nil-600c_341_predators-25	Nil-600c_341_crocodile-38_4303	341	Nil-600c_341_predators-25_359	341	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_341_crocodile-38	Nil-600c_341_predator-2	Nil-600c_341_crocodile-38_4303	341	Nil-600c_341_predator-2_359	341	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_12_crocodiles-2	Nil-600c_12_predators-6	Nil-600c_12_crocodiles-2_4303	12	Nil-600c_12_predators-6_359	12	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_361_crocodile-4	Nil-600c_361_predators-54	Nil-600c_361_crocodile-4_4303	361	Nil-600c_361_predators-54_359	361	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_351_crocodiles-11	Nil-600c_351_predators-4	Nil-600c_351_crocodiles-11_4303	351	Nil-600c_351_predators-4_359	351	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_352_crocodile-10	Nil-600c_352_predators-8	Nil-600c_352_crocodile-10_4303	352	Nil-600c_352_predators-8_359	352	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_9_crocodile-27	Nil-600c_9_predator-6	Nil-600c_9_crocodile-27_4303	9	Nil-600c_9_predator-6_359	9	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_332_crocodiles-38	Nil-600c_332_predators-35	Nil-600c_332_crocodiles-38_4303	332	Nil-600c_332_predators-35_359	332	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_347_crocodile-8	Nil-600c_347_predators-5	Nil-600c_347_crocodile-8_4303	347	Nil-600c_347_predators-5_359	347	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_332_crocodiles-12	Nil-600c_332_predators-35	Nil-600c_332_crocodiles-12_4303	332	Nil-600c_332_predators-35_359	332	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_133_crocodiles-70	Nil-600c_133_predator-16	Nil-600c_133_crocodiles-70_4303	133	Nil-600c_133_predator-16_359	133	0	crocodiles	Predator	100.0
+adaptation	Oli-4839_142_crocodiles-12	Oli-4839_142_predators-6	Oli-4839_142_crocodiles-12_4303	142	Oli-4839_142_predators-6_359	142	0	crocodiles	Predator	100.0
+adaptation	Ran-546a_16_crocodiles-7	Ran-546a_16_predators-3	Ran-546a_16_crocodiles-7_4303	16	Ran-546a_16_predators-3_359	16	0	crocodiles	Predator	100.0
+adaptation	Sea-4a1d_276_crocodiles-8	Sea-4a1d_276_predators-19	Sea-4a1d_276_crocodiles-8_4303	276	Sea-4a1d_276_predators-19_359	276	0	crocodiles	Predator	100.0
+adaptation	Spr-39f8_124_crocodiles-15	Spr-39f8_124_predators-20	Spr-39f8_124_crocodiles-15_4303	124	Spr-39f8_124_predators-20_359	124	0	crocodiles	Predator	100.0
+adaptation	Wat-9861_147_crocodiles-8	Wat-9861_147_predators-4	Wat-9861_147_crocodiles-8_4303	147	Wat-9861_147_predators-4_359	147	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_329_crocodiles-2	Nil-600c_329_predators-13	Nil-600c_329_crocodiles-2_4303	329	Nil-600c_329_predators-13_359	329	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_415_crocodile-17	Nil-600c_415_predator-24	Nil-600c_415_crocodile-17_4303	415	Nil-600c_415_predator-24_359	415	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_343_crocodile-34	Nil-600c_343_predators-2	Nil-600c_343_crocodile-34_4303	343	Nil-600c_343_predators-2_359	343	0	crocodiles	Predator	100.0
+adaptation	Din-756f_382_crocodiles-11	Din-756f_382_predators-55	Din-756f_382_crocodiles-11_4303	382	Din-756f_382_predators-55_3977	382	0	crocodiles	predator	100.0
+adaptation	Afr-324e_9_crocodiles-19	Afr-324e_9_predators-2	Afr-324e_9_crocodiles-19_4303	9	Afr-324e_9_predators-2_3977	9	0	crocodiles	predator	100.0
+adaptation	Afr-324e_52_crocodiles-6	Afr-324e_52_predators-10	Afr-324e_52_crocodiles-6_4303	52	Afr-324e_52_predators-10_3977	52	0	crocodiles	predator	100.0
+adaptation	Ame-fe9c_130_crocodiles-3	Ame-fe9c_130_predators-12	Ame-fe9c_130_crocodiles-3_4303	130	Ame-fe9c_130_predators-12_3977	130	0	crocodiles	predator	100.0
+adaptation	Art-6267_281_crocodiles-4	Art-6267_281_predators-2	Art-6267_281_crocodiles-4_4303	281	Art-6267_281_predators-2_3977	281	0	crocodiles	predator	100.0
+adaptation	Cro-0859_136_crocodiles-8	Cro-0859_136_predators-17	Cro-0859_136_crocodiles-8_4303	136	Cro-0859_136_predators-17_3977	136	0	crocodiles	predator	100.0
+adaptation	Cro-0859_136_crocodiles-8	Cro-0859_136_predators-32	Cro-0859_136_crocodiles-8_4303	136	Cro-0859_136_predators-32_3977	136	0	crocodiles	predator	100.0
+adaptation	Cro7176_19_crocodile-2	Cro7176_19_predators-13	Cro7176_19_crocodile-2_4303	19	Cro7176_19_predators-13_3977	19	0	crocodiles	predator	100.0
+adaptation	Nil-600c_255_crocodile-3	Nil-600c_255_predator-11	Nil-600c_255_crocodile-3_4303	255	Nil-600c_255_predator-11_359	255	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_361_crocodile-4	Nil-600c_361_predators-10	Nil-600c_361_crocodile-4_4303	361	Nil-600c_361_predators-10_359	361	0	crocodiles	Predator	100.0
+adaptation	Cro-9102_528_crocodile-9	Cro-9102_528_predator-14	Cro-9102_528_crocodile-9_4303	528	Cro-9102_528_predator-14_359	528	0	crocodiles	Predator	100.0
+adaptation	Asi-7d4f_109_crocodiles-19	Asi-7d4f_109_predators-7	Asi-7d4f_109_crocodiles-19_4303	109	Asi-7d4f_109_predators-7_359	109	0	crocodiles	Predator	100.0
+adaptation	Car-ed40_242_crocodiles-14	Car-ed40_242_predators-21	Car-ed40_242_crocodiles-14_4303	242	Car-ed40_242_predators-21_359	242	0	crocodiles	Predator	100.0
+adaptation	Cap-154f_110_crocodiles-16	Cap-154f_110_predators-2	Cap-154f_110_crocodiles-16_4303	110	Cap-154f_110_predators-2_359	110	0	crocodiles	Predator	100.0
+adaptation	Cai-b5be_19_crocodiles-5	Cai-b5be_19_predators-10	Cai-b5be_19_crocodiles-5_4303	19	Cai-b5be_19_predators-10_359	19	0	crocodiles	Predator	100.0
+adaptation	Cai-b5be_15_crocodiles-9	Cai-b5be_15_predators-3	Cai-b5be_15_crocodiles-9_4303	15	Cai-b5be_15_predators-3_359	15	0	crocodiles	Predator	100.0
+adaptation	Bab-06fc_14_crocodiles-6	Bab-06fc_14_predators-3	Bab-06fc_14_crocodiles-6_4303	14	Bab-06fc_14_predators-3_359	14	0	crocodiles	Predator	100.0
+adaptation	Cro-5646_366_crocodile-33	Cro-5646_366_predators-10	Cro-5646_366_crocodile-33_4303	366	Cro-5646_366_predators-10_359	366	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_332_crocodiles-5	Nil-600c_332_predators-35	Nil-600c_332_crocodiles-5_4303	332	Nil-600c_332_predators-35_359	332	0	crocodiles	Predator	100.0
+adaptation	Cro-5646_352_crocodile-37	Cro-5646_352_predators-3	Cro-5646_352_crocodile-37_4303	352	Cro-5646_352_predators-3_359	352	0	crocodiles	Predator	100.0
+adaptation	Cro-5646_352_crocodile-30	Cro-5646_352_predators-3	Cro-5646_352_crocodile-30_4303	352	Cro-5646_352_predators-3_359	352	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_133_crocodile-5	Nil-600c_133_predator-16	Nil-600c_133_crocodile-5_4303	133	Nil-600c_133_predator-16_359	133	0	crocodiles	Predator	100.0
+adaptation	Wil-de29_118_crocodile-23	Wil-de29_118_predators-2	Wil-de29_118_crocodile-23_4303	118	Wil-de29_118_predators-2_359	118	0	crocodiles	Predator	100.0
+adaptation	Gha-8cdf_93_gharial-2	Gha-8cdf_93_dimorphism-12	Gha-8cdf_93_gharial-2_5008	93	Gha-8cdf_93_dimorphism-12_14	93	0	gharial	Sexual dimorphism	100.0
+adaptation	Com-597e_40_crocodiles-16	Com-597e_40_predators-6	Com-597e_40_crocodiles-16_4303	40	Com-597e_40_predators-6_359	40	0	crocodiles	Predator	100.0
+adaptation	Ame-fe9c_130_crocodiles-3	Ame-fe9c_130_predators-6	Ame-fe9c_130_crocodiles-3_4303	130	Ame-fe9c_130_predators-6_359	130	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_341_crocodile-11	Nil-600c_341_predator-2	Nil-600c_341_crocodile-11_4303	341	Nil-600c_341_predator-2_359	341	0	crocodiles	Predator	100.0
+adaptation	Lem-f2d0_486_crocodiles-26	Lem-f2d0_486_predators-2	Lem-f2d0_486_crocodiles-26_4303	486	Lem-f2d0_486_predators-2_359	486	0	crocodiles	Predator	100.0
+adaptation	Meg-fd01_299_crocodile-15	Meg-fd01_299_predator-7	Meg-fd01_299_crocodile-15_4303	299	Meg-fd01_299_predator-7_359	299	0	crocodiles	Predator	100.0
+adaptation	Meg-fd01_299_crocodile-3	Meg-fd01_299_predator-7	Meg-fd01_299_crocodile-3_4303	299	Meg-fd01_299_predator-7_359	299	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_399_crocodile-3	Nil-600c_399_predator-7	Nil-600c_399_crocodile-3_4303	399	Nil-600c_399_predator-7_359	399	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_361_crocodiles-38	Nil-600c_361_predators-54	Nil-600c_361_crocodiles-38_4303	361	Nil-600c_361_predators-54_359	361	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_332_crocodiles-19	Nil-600c_332_predators-35	Nil-600c_332_crocodiles-19_4303	332	Nil-600c_332_predators-35_359	332	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_12_crocodile-11	Nil-600c_12_predators-6	Nil-600c_12_crocodile-11_4303	12	Nil-600c_12_predators-6_359	12	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_256_crocodiles-4	Nil-600c_256_predators-12	Nil-600c_256_crocodiles-4_4303	256	Nil-600c_256_predators-12_359	256	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_341_crocodile-11	Nil-600c_341_predators-25	Nil-600c_341_crocodile-11_4303	341	Nil-600c_341_predators-25_359	341	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_205_crocodiles-2	Nil-600c_205_predators-5	Nil-600c_205_crocodiles-2_4303	205	Nil-600c_205_predators-5_359	205	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_361_crocodiles-38	Nil-600c_361_predators-10	Nil-600c_361_crocodiles-38_4303	361	Nil-600c_361_predators-10_359	361	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_359_crocodiles-10	Nil-600c_359_predator-3	Nil-600c_359_crocodiles-10_4303	359	Nil-600c_359_predator-3_359	359	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_359_crocodiles-13	Nil-600c_359_predator-3	Nil-600c_359_crocodiles-13_4303	359	Nil-600c_359_predator-3_359	359	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_349_crocodiles-4	Nil-600c_349_predators-21	Nil-600c_349_crocodiles-4_4303	349	Nil-600c_349_predators-21_359	349	0	crocodiles	Predator	100.0
+adaptation	Nil-600c_349_crocodiles-4	Nil-600c_349_Predators-1	Nil-600c_349_crocodiles-4_4303	349	Nil-600c_349_Predators-1_359	349	0	crocodiles	Predator	100.0
+adaptation	Ame-fe9c_153_crocodile-9	Ame-fe9c_153_predator-22	Ame-fe9c_153_crocodile-9_4303	153	Ame-fe9c_153_predator-22_3977	153	0	crocodiles	predator	100.0
+adaptation	Ame-fe9c_123_crocodiles-21	Ame-fe9c_123_predators-41	Ame-fe9c_123_crocodiles-21_4303	123	Ame-fe9c_123_predators-41_3977	123	0	crocodiles	predator	100.0
+adaptation	Ame-fe9c_131_crocodiles-15	Ame-fe9c_131_predators-4	Ame-fe9c_131_crocodiles-15_4303	131	Ame-fe9c_131_predators-4_3977	131	0	crocodiles	predator	100.0
+adaptation	All-7078_343_crocodiles-41	All-7078_343_predator-16	All-7078_343_crocodiles-41_4303	343	All-7078_343_predator-16_3977	343	0	crocodiles	predator	100.0
+adaptation	Ama-5ad6_73_crocodiles-33	Ama-5ad6_73_predators-26	Ama-5ad6_73_crocodiles-33_4303	73	Ama-5ad6_73_predators-26_3977	73	0	crocodiles	predator	100.0
+adaptation	Ame-fe9c_123_crocodiles-33	Ame-fe9c_123_predators-41	Ame-fe9c_123_crocodiles-33_4303	123	Ame-fe9c_123_predators-41_3977	123	0	crocodiles	predator	100.0
+adaptation	Ame-fe9c_111_crocodiles-2	Ame-fe9c_111_predators-5	Ame-fe9c_111_crocodiles-2_4303	111	Ame-fe9c_111_predators-5_3977	111	0	crocodiles	predator	100.0
+adaptation	Afr-354e_31_crocodile-3	Afr-354e_31_predator-7	Afr-354e_31_crocodile-3_4303	31	Afr-354e_31_predator-7_3977	31	0	crocodiles	predator	100.0
+adaptation	Chi-6eec_125_crocodiles-24	Chi-6eec_125_Predators-1	Chi-6eec_125_crocodiles-24_4303	125	Chi-6eec_125_Predators-1_3977	125	0	crocodiles	predator	100.0
+adaptation	Cro-0859_34_crocodile-2	Cro-0859_34_predator-12	Cro-0859_34_crocodile-2_4303	34	Cro-0859_34_predator-12_3977	34	0	crocodiles	predator	100.0
+adaptation	Spi-06e4_260_plesiosaurs-58	Spi-06e4_260_predators-34	Spi-06e4_260_plesiosaurs-58_5361	260	Spi-06e4_260_predators-34_359	260	0	plesiosaurs	Predator	100.0
+adaptation	Ich-89df_226_plesiosaurs-22	Ich-89df_226_predators-19	Ich-89df_226_plesiosaurs-22_5361	226	Ich-89df_226_predators-19_359	226	0	plesiosaurs	Predator	100.0
+adaptation	Ichdf71_20_plesiosaurs-18	Ichdf71_20_predators-3	Ichdf71_20_plesiosaurs-18_5361	20	Ichdf71_20_predators-3_359	20	0	plesiosaurs	Predator	100.0
+adaptation	Viv-7a58_34_ichthyosaurs-19	Viv-7a58_34_viviparous-4	Viv-7a58_34_ichthyosaurs-19_5116	34	Viv-7a58_34_viviparous-4_3795	34	0	ichthyosaurs	viviparous	100.0
+adaptation	Cro-0859_129_Crocodiles-1	Cro-0859_129_predators-4	Cro-0859_129_Crocodiles-1_997	129	Cro-0859_129_predators-4_359	129	0	Crocodiles	Predator	100.0
+adaptation	Sea-4a1d_420_turtles-4	Sea-4a1d_420_migration-63	Sea-4a1d_420_turtles-4_4188	420	Sea-4a1d_420_migration-63_3781	420	0	sea turtles	migration	100.0
+adaptation	Sea-4a1d_420_turtle-62	Sea-4a1d_420_migration-63	Sea-4a1d_420_turtle-62_4188	420	Sea-4a1d_420_migration-63_3781	420	0	sea turtles	migration	100.0
+adaptation	Sea-4a1d_420_turtle-6	Sea-4a1d_420_migration-63	Sea-4a1d_420_turtle-6_4188	420	Sea-4a1d_420_migration-63_3781	420	0	sea turtles	migration	100.0
+adaptation	Sea-4a1d_420_turtles-74	Sea-4a1d_420_migration-63	Sea-4a1d_420_turtles-74_4188	420	Sea-4a1d_420_migration-63_3781	420	0	sea turtles	migration	100.0
+adaptation	Cro-0859_137_Crocodiles-1	Cro-0859_137_predators-17	Cro-0859_137_Crocodiles-1_997	137	Cro-0859_137_predators-17_359	137	0	Crocodiles	Predator	100.0
+adaptation	Cro-0859_208_Crocodiles-1	Cro-0859_208_predators-21	Cro-0859_208_Crocodiles-1_997	208	Cro-0859_208_predators-21_359	208	0	Crocodiles	Predator	100.0
+adaptation	Crob1e1_4_Crocodiles-1	Crob1e1_4_predators-9	Crob1e1_4_Crocodiles-1_997	4	Crob1e1_4_predators-9_359	4	0	Crocodiles	Predator	100.0
+adaptation	Ple-f864_394_plesiosaurs-39	Ple-f864_394_viviparous-42	Ple-f864_394_plesiosaurs-39_5361	394	Ple-f864_394_viviparous-42_3795	394	0	plesiosaurs	viviparous	100.0
+adaptation	Cro-0859_81_Crocodiles-1	Cro-0859_81_predators-13	Cro-0859_81_Crocodiles-1_997	81	Cro-0859_81_predators-13_359	81	0	Crocodiles	Predator	100.0
+adaptation	Nil17d3_1_Crocodiles-1	Nil17d3_1_predators-9	Nil17d3_1_Crocodiles-1_997	1	Nil17d3_1_predators-9_359	1	0	Crocodiles	Predator	100.0
+adaptation	Cro-0859_137_Crocodiles-1	Cro-0859_137_scavengers-8	Cro-0859_137_Crocodiles-1_997	137	Cro-0859_137_scavengers-8_3979	137	0	Crocodiles	scavenger	100.0
+adaptation	Viv-7a58_34_plesiosaurs-22	Viv-7a58_34_viviparous-4	Viv-7a58_34_plesiosaurs-22_5361	34	Viv-7a58_34_viviparous-4_3795	34	0	plesiosaurs	viviparous	100.0
+adaptation	Ple-f864_179_ichthyosaurs-21	Ple-f864_179_predators-11	Ple-f864_179_ichthyosaurs-21_5116	179	Ple-f864_179_predators-11_359	179	0	ichthyosaurs	Predator	100.0
+adaptation	Ich-89df_479_ichthyosaurs-13	Ich-89df_479_predators-6	Ich-89df_479_ichthyosaurs-13_5116	479	Ich-89df_479_predators-6_359	479	0	ichthyosaurs	Predator	100.0
+adaptation	Oph-fda2_41_Ophthalmosaurus-15	Oph-fda2_41_predator-22	Oph-fda2_41_Ophthalmosaurus-15_2954	41	Oph-fda2_41_predator-22_3977	41	0	Ophthalmosaurus	predator	100.0
+adaptation	Com-4c8f_51_turtle-12	Com-4c8f_51_hibernation-15	Com-4c8f_51_turtle-12_3492	51	Com-4c8f_51_hibernation-15_3959	51	0	Common box turtle	hibernation	83.0
+adaptation	Gre-8842_8_turtle-13	Gre-8842_8_herbivorous-19	Gre-8842_8_turtle-13_2458	8	Gre-8842_8_herbivorous-19_3784	8	0	Green sea turtle	herbivorous	66.0
+adaptation	Gre-8842_173_turtles-4	Gre-8842_173_herbivorous-7	Gre-8842_173_turtles-4_2458	173	Gre-8842_173_herbivorous-7_3784	173	0	Green sea turtle	herbivorous	66.0
+adaptation	Gre-8842_163_turtle-3	Gre-8842_162_herbivorous-17	Gre-8842_163_turtle-3_5060	163	Gre-8842_162_herbivorous-17_3784	162	1	green sea turtle	herbivorous	50.0
+adaptation	Viv-7a58_34_ichthyosaurs-19	Viv-7a58_33_viviparous-20	Viv-7a58_34_ichthyosaurs-19_5116	34	Viv-7a58_33_viviparous-20_3795	33	1	ichthyosaurs	viviparous	50.0
+adaptation	Ich-89df_574_plesiosaurs-6	Ich-89df_573_viviparous-74	Ich-89df_574_plesiosaurs-6_5361	574	Ich-89df_573_viviparous-74_3795	573	1	plesiosaurs	viviparous	50.0
+adaptation	Ich-89df_227_ichthyosaurs-4	Ich-89df_226_predators-19	Ich-89df_227_ichthyosaurs-4_5116	227	Ich-89df_226_predators-19_359	226	1	ichthyosaurs	Predator	50.0
+adaptation	Ich-89df_206_ichthyosaurs-7	Ich-89df_207_predator-31	Ich-89df_206_ichthyosaurs-7_5116	206	Ich-89df_207_predator-31_359	207	1	ichthyosaurs	Predator	50.0
+adaptation	Ich-89df_7_ichthyosaurs-7	Ich-89df_8_predators-22	Ich-89df_7_ichthyosaurs-7_5116	7	Ich-89df_8_predators-22_3977	8	1	ichthyosaurs	predator	50.0
+adaptation	Ich-89df_480_ichthyosaur-20	Ich-89df_479_predators-6	Ich-89df_480_ichthyosaur-20_5116	480	Ich-89df_479_predators-6_3977	479	1	ichthyosaurs	predator	50.0
+adaptation	Ich-89df_234_ichthyosaurs-5	Ich-89df_235_predator-40	Ich-89df_234_ichthyosaurs-5_5116	234	Ich-89df_235_predator-40_3977	235	1	ichthyosaurs	predator	50.0
+adaptation	Viv-7a58_34_ichthyosaurs-19	Viv-7a58_35_viviparous-31	Viv-7a58_34_ichthyosaurs-19_5116	34	Viv-7a58_35_viviparous-31_3795	35	1	ichthyosaurs	viviparous	50.0
+adaptation	Viv-7a58_34_ichthyosaurs-19	Viv-7a58_35_viviparous-13	Viv-7a58_34_ichthyosaurs-19_5116	34	Viv-7a58_35_viviparous-13_3795	35	1	ichthyosaurs	viviparous	50.0
+adaptation	Cro-9102_13_gharial-30	Cro-9102_14_territorial-6	Cro-9102_13_gharial-30_5008	13	Cro-9102_14_territorial-6_3985	14	1	gharial	territorial	50.0
+adaptation	Gha-8cdf_94_gharials-3	Gha-8cdf_93_dimorphism-12	Gha-8cdf_94_gharials-3_5008	94	Gha-8cdf_93_dimorphism-12_3791	93	1	gharial	sexual dimorphism	50.0
+adaptation	Ich-89df_225_ichthyosaur-3	Ich-89df_226_predators-19	Ich-89df_225_ichthyosaur-3_5116	225	Ich-89df_226_predators-19_3977	226	1	ichthyosaurs	predator	50.0
+adaptation	Ame-fe9c_112_gharials-19	Ame-fe9c_111_predators-5	Ame-fe9c_112_gharials-19_5008	112	Ame-fe9c_111_predators-5_3977	111	1	gharial	predator	50.0
+adaptation	Cro-9102_407_gharial-7	Cro-9102_408_communication-5	Cro-9102_407_gharial-7_5008	407	Cro-9102_408_communication-5_3783	408	1	gharial	acoustic communication	50.0
+adaptation	Ich-89df_566_ichthyosaurs-7	Ich-89df_567_viviparous-38	Ich-89df_566_ichthyosaurs-7_5116	566	Ich-89df_567_viviparous-38_3795	567	1	ichthyosaurs	viviparous	50.0
+adaptation	Viv-7a58_34_plesiosaurs-22	Viv-7a58_35_viviparous-31	Viv-7a58_34_plesiosaurs-22_5361	34	Viv-7a58_35_viviparous-31_3795	35	1	plesiosaurs	viviparous	50.0
+adaptation	Viv-7a58_34_plesiosaurs-22	Viv-7a58_35_viviparous-13	Viv-7a58_34_plesiosaurs-22_5361	34	Viv-7a58_35_viviparous-13_3795	35	1	plesiosaurs	viviparous	50.0
+adaptation	Viv-7a58_34_plesiosaurs-22	Viv-7a58_33_viviparous-20	Viv-7a58_34_plesiosaurs-22_5361	34	Viv-7a58_33_viviparous-20_3795	33	1	plesiosaurs	viviparous	50.0
+adaptation	Ich-89df_480_plesiosaur-14	Ich-89df_479_predators-6	Ich-89df_480_plesiosaur-14_5361	480	Ich-89df_479_predators-6_3977	479	1	plesiosaurs	predator	50.0
+adaptation	Ple-f864_110_plesiosaur-8	Ple-f864_111_predators-36	Ple-f864_110_plesiosaur-8_5361	110	Ple-f864_111_predators-36_3977	111	1	plesiosaurs	predator	50.0
+adaptation	Ple-f864_155_plesiosaur-16	Ple-f864_154_predators-10	Ple-f864_155_plesiosaur-16_5361	155	Ple-f864_154_predators-10_3977	154	1	plesiosaurs	predator	50.0
+adaptation	Ple-f864_153_plesiosaurs-16	Ple-f864_154_predators-10	Ple-f864_153_plesiosaurs-16_5361	153	Ple-f864_154_predators-10_3977	154	1	plesiosaurs	predator	50.0
+adaptation	Gre-8842_174_turtle-3	Gre-8842_173_herbivorous-7	Gre-8842_174_turtle-3_5060	174	Gre-8842_173_herbivorous-7_3784	173	1	green sea turtle	herbivorous	50.0
+adaptation	Ich-89df_568_ichthyosaurs-23	Ich-89df_567_viviparous-38	Ich-89df_568_ichthyosaurs-23_5116	568	Ich-89df_567_viviparous-38_3795	567	1	ichthyosaurs	viviparous	50.0
+adaptation	Ich-89df_568_ichthyosaurs-15	Ich-89df_567_viviparous-38	Ich-89df_568_ichthyosaurs-15_5116	568	Ich-89df_567_viviparous-38_3795	567	1	ichthyosaurs	viviparous	50.0
+adaptation	Ich-89df_572_ichthyosaurs-7	Ich-89df_573_viviparous-74	Ich-89df_572_ichthyosaurs-7_5116	572	Ich-89df_573_viviparous-74_3795	573	1	ichthyosaurs	viviparous	50.0
+adaptation	Ich-89df_176_ichthyosaurs-15	Ich-89df_175_viviparous-9	Ich-89df_176_ichthyosaurs-15_5116	176	Ich-89df_175_viviparous-9_3795	175	1	ichthyosaurs	viviparous	50.0
+adaptation	Spe-51aa_39_caiman-3	Spe-51aa_40_territorial-10	Spe-51aa_39_caiman-3_3909	39	Spe-51aa_40_territorial-10_3985	40	1	spectacled caiman	territorial	50.0
+adaptation	Bab-06fc_14_crocodiles-6	Bab-06fc_15_hierarchical-5	Bab-06fc_14_crocodiles-6_2912	14	Bab-06fc_15_hierarchical-5_3782	15	1	Nile crocodile	hierarchical	50.0
+adaptation	Ich-89df_176_Ichthyosauria-24	Ich-89df_175_viviparous-9	Ich-89df_176_Ichthyosauria-24_2575	176	Ich-89df_175_viviparous-9_3795	175	1	Ichthyosauria	viviparous	50.0
+adaptation	Afr-324e_51_crocodile-6	Afr-324e_50_territorial-15	Afr-324e_51_crocodile-6_2912	51	Afr-324e_50_territorial-15_3985	50	1	Nile crocodile	territorial	50.0
+adaptation	Pli9036_7_Pliosaur-1	Pli9036_6_predators-3	Pli9036_7_Pliosaur-1_3110	7	Pli9036_6_predators-3_359	6	1	Pliosaurs	Predator	50.0
+adaptation	Pli9036_5_Pliosaurs-6	Pli9036_6_predators-3	Pli9036_5_Pliosaurs-6_3110	5	Pli9036_6_predators-3_359	6	1	Pliosaurs	Predator	50.0
+adaptation	Ple-f864_155_Ichthyosauria-10	Ple-f864_154_predators-10	Ple-f864_155_Ichthyosauria-10_2575	155	Ple-f864_154_predators-10_3977	154	1	Ichthyosauria	predator	50.0
+adaptation	Ich-89df_551_Ichthyosauria-1	Ich-89df_552_viviparous-3	Ich-89df_551_Ichthyosauria-1_2575	551	Ich-89df_552_viviparous-3_3795	552	1	Ichthyosauria	viviparous	50.0
+adaptation	Cro-9102_505_alligator-3	Cro-9102_504_predators-35	Cro-9102_505_alligator-3_1867	505	Cro-9102_504_predators-35_359	504	1	Chinese alligator	Predator	50.0
+adaptation	Cro-0859_136_crocodiles-8	Cro-0859_137_scavengers-8	Cro-0859_136_crocodiles-8_4303	136	Cro-0859_137_scavengers-8_3979	137	1	crocodiles	scavenger	50.0
+adaptation	Chi9c09_2_alligators-2	Chi9c09_3_nocturnal-3	Chi9c09_2_alligators-2_1867	2	Chi9c09_3_nocturnal-3_3967	3	1	Chinese alligator	nocturnal	50.0
+adaptation	Chi-0fb6_4_alligator-15	Chi-0fb6_5_nocturnal-9	Chi-0fb6_4_alligator-15_1867	4	Chi-0fb6_5_nocturnal-9_3967	5	1	Chinese alligator	nocturnal	50.0
+adaptation	Chi9c09_2_alligators-8	Chi9c09_3_nocturnal-3	Chi9c09_2_alligators-8_1867	2	Chi9c09_3_nocturnal-3_3967	3	1	Chinese alligator	nocturnal	50.0
+adaptation	Ple-f864_18_Pliosauroidea-28	Ple-f864_17_predators-34	Ple-f864_18_Pliosauroidea-28_3111	18	Ple-f864_17_predators-34_359	17	1	Pliosauroidea	Predator	43.5
+adaptation	Spa-e46a_312_turtles-4	Spa-e46a_311_migration-7	Spa-e46a_312_turtles-4_2460	312	Spa-e46a_311_migration-7_3781	311	1	Green turtle	migration	41.5
+adaptation	Gre6acf_10_turtles-3	Gre6acf_9_herbivorous-13	Gre6acf_10_turtles-3_5061	10	Gre6acf_9_herbivorous-13_3784	9	1	green turtle	herbivorous	41.5
+adaptation	Sea-4a1d_174_turtles-6	Sea-4a1d_175_herbivorous-12	Sea-4a1d_174_turtles-6_5061	174	Sea-4a1d_175_herbivorous-12_3784	175	1	green turtle	herbivorous	41.5
+adaptation	Sea-4a1d_176_turtle-11	Sea-4a1d_175_herbivorous-12	Sea-4a1d_176_turtle-11_5061	176	Sea-4a1d_175_herbivorous-12_3784	175	1	green turtle	herbivorous	41.5
+adaptation	Pli9036_13_pliosaur-7	Pli9036_11_predator-4	Pli9036_13_pliosaur-7_5362	13	Pli9036_11_predator-4_3977	11	2	pliosaurs	predator	33.333
+adaptation	Nil-600c_53_crocodiles-3	Nil-600c_55_camouflage-31	Nil-600c_53_crocodiles-3_2912	53	Nil-600c_55_camouflage-31_3947	55	2	Nile crocodile	camouflage	33.333
+adaptation	Nil-600c_53_crocodile-38	Nil-600c_55_camouflage-31	Nil-600c_53_crocodile-38_2912	53	Nil-600c_55_camouflage-31_3947	55	2	Nile crocodile	camouflage	33.333
+adaptation	Nil-600c_179_crocodiles-6	Nil-600c_181_aestivation-35	Nil-600c_179_crocodiles-6_2912	179	Nil-600c_181_aestivation-35_3953	181	2	Nile crocodile	aestivation	33.333
+adaptation	Nil-600c_307_crocodile-7	Nil-600c_309_aestivation-35	Nil-600c_307_crocodile-7_2912	307	Nil-600c_309_aestivation-35_3953	309	2	Nile crocodile	aestivation	33.333
+adaptation	Ich-89df_481_Ichthyosauria-1	Ich-89df_479_predators-6	Ich-89df_481_Ichthyosauria-1_2575	481	Ich-89df_479_predators-6_3977	479	2	Ichthyosauria	predator	33.333
+adaptation	Cro-0859_139_Crocodiles-1	Cro-0859_137_scavengers-8	Cro-0859_139_Crocodiles-1_997	139	Cro-0859_137_scavengers-8_3979	137	2	Crocodiles	scavenger	33.333
+adaptation	Pli9036_4_plesiosaur-9	Pli9036_6_predators-3	Pli9036_4_plesiosaur-9_5361	4	Pli9036_6_predators-3_359	6	2	plesiosaurs	Predator	33.333
+adaptation	Cro-0859_199_crocodile-16	Cro-0859_197_territorial-20	Cro-0859_199_crocodile-16_2912	199	Cro-0859_197_territorial-20_3985	197	2	Nile crocodile	territorial	33.333
+adaptation	Cro-9102_362_crocodile-18	Cro-9102_364_displays-18	Cro-9102_362_crocodile-18_53	362	Cro-9102_364_displays-18_3951	364	2	American crocodile	courtship display	33.333
+adaptation	Gha-8cdf_95_gharials-2	Gha-8cdf_93_dimorphism-12	Gha-8cdf_95_gharials-2_5008	95	Gha-8cdf_93_dimorphism-12_14	93	2	gharial	Sexual dimorphism	33.333
+adaptation	Ple-f864_15_Plesiosaurs-1	Ple-f864_17_predators-34	Ple-f864_15_Plesiosaurs-1_3107	15	Ple-f864_17_predators-34_359	17	2	Plesiosaurs	Predator	33.333
+adaptation	Pli9036_8_Pliosaur-7	Pli9036_6_predators-3	Pli9036_8_Pliosaur-7_3110	8	Pli9036_6_predators-3_359	6	2	Pliosaurs	Predator	33.333
+adaptation	Ple-f864_177_Plesiosaur-1	Ple-f864_179_predators-11	Ple-f864_177_Plesiosaur-1_3107	177	Ple-f864_179_predators-11_3977	179	2	Plesiosaurs	predator	33.333
+adaptation	Cro-0859_199_crocodiles-8	Cro-0859_197_territorial-20	Cro-0859_199_crocodiles-8_2912	199	Cro-0859_197_territorial-20_3985	197	2	Nile crocodile	territorial	33.333
+adaptation	Asi-7d4f_93_crocodiles-14	Asi-7d4f_95_scavengers-4	Asi-7d4f_93_crocodiles-14_4303	93	Asi-7d4f_95_scavengers-4_3979	95	2	crocodiles	scavenger	33.333
+adaptation	Asi-7d4f_93_crocodile-16	Asi-7d4f_95_scavengers-4	Asi-7d4f_93_crocodile-16_4303	93	Asi-7d4f_95_scavengers-4_3979	95	2	crocodiles	scavenger	33.333
+adaptation	Oph-fda2_43_Ophthalmosaurus-30	Oph-fda2_41_predator-22	Oph-fda2_43_Ophthalmosaurus-30_2954	43	Oph-fda2_41_predator-22_3977	41	2	Ophthalmosaurus	predator	33.333
+adaptation	Cro-0859_199_crocodile-16	Cro-0859_197_territorial-6	Cro-0859_199_crocodile-16_2912	199	Cro-0859_197_territorial-6_3985	197	2	Nile crocodile	territorial	33.333
+adaptation	Cro-0859_199_crocodiles-8	Cro-0859_197_territorial-6	Cro-0859_199_crocodiles-8_2912	199	Cro-0859_197_territorial-6_3985	197	2	Nile crocodile	territorial	33.333
+adaptation	Com-4c8f_53_turtle-4	Com-4c8f_51_hibernation-15	Com-4c8f_53_turtle-4_3492	53	Com-4c8f_51_hibernation-15_338	51	2	Common box turtle	Hibernation	27.667
+adaptation	Che-049d_28_turtle-4	Che-049d_26_herbivorous-20	Che-049d_28_turtle-4_2460	28	Che-049d_26_herbivorous-20_3784	26	2	Green turtle	herbivorous	27.667
+adaptation	Sea-4a1d_177_turtles-3	Sea-4a1d_175_herbivorous-12	Sea-4a1d_177_turtles-3_2460	177	Sea-4a1d_175_herbivorous-12_3784	175	2	Green turtle	herbivorous	27.667
+adaptation	Che-049d_28_turtle-4	Che-049d_26_herbivorous-32	Che-049d_28_turtle-4_2460	28	Che-049d_26_herbivorous-32_3784	26	2	Green turtle	herbivorous	27.667
+adaptation	Ich-89df_238_ichthyosaur-25	Ich-89df_235_predator-40	Ich-89df_238_ichthyosaur-25_5116	238	Ich-89df_235_predator-40_359	235	3	ichthyosaurs	Predator	25.0
+adaptation	Cro-9102_340_alligator-44	Cro-9102_343_predators-11	Cro-9102_340_alligator-44_1867	340	Cro-9102_343_predators-11_359	343	3	Chinese alligator	Predator	25.0
+adaptation	Cro-0859_134_crocodiles-3	Cro-0859_137_scavengers-8	Cro-0859_134_crocodiles-3_4303	134	Cro-0859_137_scavengers-8_3979	137	3	crocodiles	scavenger	25.0
+adaptation	Amb-94f9_191_gharials-30	Amb-94f9_194_predator-11	Amb-94f9_191_gharials-30_5008	191	Amb-94f9_194_predator-11_3977	194	3	gharial	predator	25.0
+adaptation	Ich-89df_5_ichthyosaurs-18	Ich-89df_8_predators-22	Ich-89df_5_ichthyosaurs-18_5116	5	Ich-89df_8_predators-22_359	8	3	ichthyosaurs	Predator	25.0
+adaptation	Chi-0fb6_2_alligator-47	Chi-0fb6_5_nocturnal-9	Chi-0fb6_2_alligator-47_1867	2	Chi-0fb6_5_nocturnal-9_3967	5	3	Chinese alligator	nocturnal	25.0
+adaptation	Ich-89df_178_Ichthyosauria-1	Ich-89df_175_viviparous-9	Ich-89df_178_Ichthyosauria-1_2575	178	Ich-89df_175_viviparous-9_3795	175	3	Ichthyosauria	viviparous	25.0
+adaptation	Ich-89df_204_Ichthyosauria-1	Ich-89df_207_predator-31	Ich-89df_204_Ichthyosauria-1_2575	204	Ich-89df_207_predator-31_3977	207	3	Ichthyosauria	predator	25.0
+adaptation	Ich-89df_11_Ichthyosauria-6	Ich-89df_8_predators-22	Ich-89df_11_Ichthyosauria-6_2575	11	Ich-89df_8_predators-22_3977	8	3	Ichthyosauria	predator	25.0
+adaptation	Cro-9102_402_crocodiles-8	Cro-9102_399_predators-13	Cro-9102_402_crocodiles-8_3322	402	Cro-9102_399_predators-13_3977	399	3	Siamese crocodile	predator	25.0
+adaptation	Cro-9102_402_crocodiles-5	Cro-9102_399_predators-13	Cro-9102_402_crocodiles-5_3322	402	Cro-9102_399_predators-13_3977	399	3	Siamese crocodile	predator	25.0
+adaptation	Cro-9102_402_crocodiles-18	Cro-9102_399_predators-13	Cro-9102_402_crocodiles-18_3322	402	Cro-9102_399_predators-13_359	399	3	Siamese crocodile	Predator	25.0
+taxongroup	Ame-fe9c_111_crocodiles-2	Ame-fe9c_111_animal-12	Ame-fe9c_111_crocodiles-2_53	111	Ame-fe9c_111_animal-12_44	111	0	American crocodile	Animals	100.0
+taxongroup	Nil-600c_401_crocodile-3	Nil-600c_401_animals-7	Nil-600c_401_crocodile-3_4303	401	Nil-600c_401_animals-7_3812	401	0	crocodiles	animals	100.0
+taxongroup	Nil-600c_108_crocodile-18	Nil-600c_108_reptile-48	Nil-600c_108_crocodile-18_4303	108	Nil-600c_108_reptile-48_419	108	0	crocodiles	Reptiles	100.0
+taxongroup	Cro-9102_460_crocodile-3	Cro-9102_460_animals-13	Cro-9102_460_crocodile-3_4303	460	Cro-9102_460_animals-13_3812	460	0	crocodiles	animals	100.0
+taxongroup	Nil-600c_218_crocodile-3	Nil-600c_218_animals-17	Nil-600c_218_crocodile-3_4303	218	Nil-600c_218_animals-17_3812	218	0	crocodiles	animals	100.0
+taxongroup	Nil-600c_175_crocodiles-20	Nil-600c_175_animals-37	Nil-600c_175_crocodiles-20_4303	175	Nil-600c_175_animals-37_3812	175	0	crocodiles	animals	100.0
+taxongroup	Cro-0859_154_crocodile-10	Cro-0859_154_animal-24	Cro-0859_154_crocodile-10_4303	154	Cro-0859_154_animal-24_3812	154	0	crocodiles	animals	100.0
+taxongroup	Cro-9102_529_crocodile-2	Cro-9102_529_animals-7	Cro-9102_529_crocodile-2_4303	529	Cro-9102_529_animals-7_3812	529	0	crocodiles	animals	100.0
+taxongroup	Cro-9102_13_crocodile-40	Cro-9102_13_animals-11	Cro-9102_13_crocodile-40_4303	13	Cro-9102_13_animals-11_3812	13	0	crocodiles	animals	100.0
+taxongroup	Cro-9102_494_crocodiles-22	Cro-9102_494_animals-15	Cro-9102_494_crocodiles-22_4303	494	Cro-9102_494_animals-15_3812	494	0	crocodiles	animals	100.0
+taxongroup	Nil-600c_98_crocodile-6	Nil-600c_98_animal-42	Nil-600c_98_crocodile-6_4303	98	Nil-600c_98_animal-42_3812	98	0	crocodiles	animals	100.0
+taxongroup	Nil-600c_83_crocodiles-2	Nil-600c_83_animals-38	Nil-600c_83_crocodiles-2_4303	83	Nil-600c_83_animals-38_3812	83	0	crocodiles	animals	100.0
+taxongroup	Nil-600c_128_crocodiles-7	Nil-600c_128_animals-14	Nil-600c_128_crocodiles-7_4303	128	Nil-600c_128_animals-14_3812	128	0	crocodiles	animals	100.0
+taxongroup	Nil-600c_12_crocodile-11	Nil-600c_12_animal-20	Nil-600c_12_crocodile-11_4303	12	Nil-600c_12_animal-20_3812	12	0	crocodiles	animals	100.0
+taxongroup	Nil-600c_12_crocodiles-2	Nil-600c_12_animal-20	Nil-600c_12_crocodiles-2_4303	12	Nil-600c_12_animal-20_3812	12	0	crocodiles	animals	100.0
+taxongroup	Nil-600c_415_crocodile-17	Nil-600c_415_animals-29	Nil-600c_415_crocodile-17_4303	415	Nil-600c_415_animals-29_3812	415	0	crocodiles	animals	100.0
+taxongroup	Eas-336c_118_turtle-3	Eas-336c_118_reptiles-6	Eas-336c_118_turtle-3_5543	118	Eas-336c_118_reptiles-6_4021	118	0	eastern box turtle	reptiles	100.0
+taxongroup	Rep-aa64_151_crocodiles-31	Rep-aa64_151_reptiles-8	Rep-aa64_151_crocodiles-31_4303	151	Rep-aa64_151_reptiles-8_4021	151	0	crocodiles	reptiles	100.0
+taxongroup	Rep-aa64_311_crocodiles-14	Rep-aa64_311_reptiles-12	Rep-aa64_311_crocodiles-14_4303	311	Rep-aa64_311_reptiles-12_4021	311	0	crocodiles	reptiles	100.0
+taxongroup	Rep-aa64_168_crocodiles-23	Rep-aa64_168_reptiles-5	Rep-aa64_168_crocodiles-23_4303	168	Rep-aa64_168_reptiles-5_4021	168	0	crocodiles	reptiles	100.0
+taxongroup	Rep-aa64_168_crocodiles-23	Rep-aa64_168_reptiles-18	Rep-aa64_168_crocodiles-23_4303	168	Rep-aa64_168_reptiles-18_4021	168	0	crocodiles	reptiles	100.0
+taxongroup	Rep-aa64_23_crocodile-28	Rep-aa64_23_reptiles-2	Rep-aa64_23_crocodile-28_4303	23	Rep-aa64_23_reptiles-2_4021	23	0	crocodiles	reptiles	100.0
+taxongroup	Cro-9102_341_crocodile-17	Cro-9102_341_reptiles-36	Cro-9102_341_crocodile-17_4303	341	Cro-9102_341_reptiles-36_4021	341	0	crocodiles	reptiles	100.0
+taxongroup	Rep-aa64_151_crocodiles-31	Rep-aa64_151_reptiles-14	Rep-aa64_151_crocodiles-31_4303	151	Rep-aa64_151_reptiles-14_4021	151	0	crocodiles	reptiles	100.0
+taxongroup	Nil-600c_24_crocodiles-23	Nil-600c_24_reptile-27	Nil-600c_24_crocodiles-23_4303	24	Nil-600c_24_reptile-27_4021	24	0	crocodiles	reptiles	100.0
+taxongroup	Nil-600c_9_crocodile-27	Nil-600c_9_reptile-19	Nil-600c_9_crocodile-27_4303	9	Nil-600c_9_reptile-19_4021	9	0	crocodiles	reptiles	100.0
+taxongroup	Cro-0859_70_crocodiles-6	Cro-0859_70_reptiles-13	Cro-0859_70_crocodiles-6_4303	70	Cro-0859_70_reptiles-13_4021	70	0	crocodiles	reptiles	100.0
+taxongroup	Cro-9102_148_crocodiles-12	Cro-9102_148_vertebrates-5	Cro-9102_148_crocodiles-12_4303	148	Cro-9102_148_vertebrates-5_3935	148	0	crocodiles	vertebrates	100.0
+taxongroup	Nil-600c_70_crocodile-12	Nil-600c_70_vertebrates-16	Nil-600c_70_crocodile-12_4303	70	Nil-600c_70_vertebrates-16_3935	70	0	crocodiles	vertebrates	100.0
+taxongroup	Nil-600c_108_crocodile-28	Nil-600c_108_reptile-48	Nil-600c_108_crocodile-28_4303	108	Nil-600c_108_reptile-48_419	108	0	crocodiles	Reptiles	100.0
+taxongroup	Tor-f32e_40_Tortoises-1	Tor-f32e_40_animal-11	Tor-f32e_40_Tortoises-1_836	40	Tor-f32e_40_animal-11_44	40	0	Tortoises	Animals	100.0
+taxongroup	Tor-f32e_2_Tortoises-1	Tor-f32e_2_reptiles-5	Tor-f32e_2_Tortoises-1_836	2	Tor-f32e_2_reptiles-5_419	2	0	Tortoises	Reptiles	100.0
+taxongroup	Tor-f32e_9_Tortoises-1	Tor-f32e_9_animals-8	Tor-f32e_9_Tortoises-1_836	9	Tor-f32e_9_animals-8_3812	9	0	Tortoises	animals	100.0
+taxongroup	Nil-600c_243_crocodile-3	Nil-600c_243_animal-39	Nil-600c_243_crocodile-3_4303	243	Nil-600c_243_animal-39_44	243	0	crocodiles	Animals	100.0
+taxongroup	Nil-600c_369_crocodiles-37	Nil-600c_369_animal-10	Nil-600c_369_crocodiles-37_4303	369	Nil-600c_369_animal-10_44	369	0	crocodiles	Animals	100.0
+taxongroup	Cro-9102_31_crocodile-21	Cro-9102_31_Crocodilia-1	Cro-9102_31_crocodile-21_4303	31	Cro-9102_31_Crocodilia-1_1997	31	0	crocodiles	Crocodilia	100.0
+taxongroup	Cro-9102_5_crocodiles-7	Cro-9102_5_Crocodilia-3	Cro-9102_5_crocodiles-7_4303	5	Cro-9102_5_Crocodilia-3_1997	5	0	crocodiles	Crocodilia	100.0
+taxongroup	Cro-9102_5_crocodiles-7	Cro-9102_5_Crocodylidae-10	Cro-9102_5_crocodiles-7_4303	5	Cro-9102_5_Crocodylidae-10_555	5	0	crocodiles	Crocodylidae	100.0
+taxongroup	Gre-8842_398_turtle-29	Gre-8842_398_turtle-29	Gre-8842_398_turtle-29_5060	398	Gre-8842_398_turtle-29_4188	398	0	green sea turtle	sea turtles	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_Crocodylus-25	Cro-0859_276_crocodile-50_53	276	Cro-0859_276_Crocodylus-25_996	276	0	American crocodile	Crocodylus	100.0
+taxongroup	Che-049d_32_turtle-34	Che-049d_32_turtles-26	Che-049d_32_turtle-34_5060	32	Che-049d_32_turtles-26_4188	32	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-18	Che-049d_4_turtle-31	Che-049d_4_turtle-18_5060	4	Che-049d_4_turtle-31_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-18	Che-049d_4_turtle-38	Che-049d_4_turtle-18_5060	4	Che-049d_4_turtle-38_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_32_turtles-26	Che-049d_32_turtles-6	Che-049d_32_turtles-26_5060	32	Che-049d_32_turtles-6_4188	32	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-23	Che-049d_4_turtle-27	Che-049d_4_turtle-23_5060	4	Che-049d_4_turtle-27_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-23	Che-049d_4_turtle-14	Che-049d_4_turtle-23_5060	4	Che-049d_4_turtle-14_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-27	Che-049d_4_turtle-14	Che-049d_4_turtle-27_5060	4	Che-049d_4_turtle-14_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-23	Che-049d_4_turtle-18	Che-049d_4_turtle-23_5060	4	Che-049d_4_turtle-18_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-23	Che-049d_4_turtle-23	Che-049d_4_turtle-23_5060	4	Che-049d_4_turtle-23_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-18	Che-049d_4_turtle-14	Che-049d_4_turtle-18_5060	4	Che-049d_4_turtle-14_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-14	Che-049d_4_turtle-23	Che-049d_4_turtle-14_5060	4	Che-049d_4_turtle-23_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-14	Che-049d_4_turtle-18	Che-049d_4_turtle-14_5060	4	Che-049d_4_turtle-18_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-14	Che-049d_4_turtle-14	Che-049d_4_turtle-14_5060	4	Che-049d_4_turtle-14_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_32_turtle-34	Che-049d_32_turtle-34	Che-049d_32_turtle-34_5060	32	Che-049d_32_turtle-34_4188	32	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_32_turtle-34	Che-049d_32_turtles-6	Che-049d_32_turtle-34_5060	32	Che-049d_32_turtles-6_4188	32	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_41_turtle-3	Gre-8842_41_turtle-3	Gre-8842_41_turtle-3_5060	41	Gre-8842_41_turtle-3_4188	41	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_32_turtles-26	Che-049d_32_turtle-34	Che-049d_32_turtles-26_5060	32	Che-049d_32_turtle-34_4188	32	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_32_turtles-26	Che-049d_32_turtles-26	Che-049d_32_turtles-26_5060	32	Che-049d_32_turtles-26_4188	32	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-38	Che-049d_4_turtle-38	Che-049d_4_turtle-38_5060	4	Che-049d_4_turtle-38_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-38	Che-049d_4_turtle-31	Che-049d_4_turtle-38_5060	4	Che-049d_4_turtle-31_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-27	Che-049d_4_turtle-23	Che-049d_4_turtle-27_5060	4	Che-049d_4_turtle-23_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-38	Che-049d_4_turtle-23	Che-049d_4_turtle-38_5060	4	Che-049d_4_turtle-23_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-38	Che-049d_4_turtle-18	Che-049d_4_turtle-38_5060	4	Che-049d_4_turtle-18_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_1_turtle-3	Gre-8842_1_turtle-3	Gre-8842_1_turtle-3_5060	1	Gre-8842_1_turtle-3_4188	1	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-38	Che-049d_4_turtle-14	Che-049d_4_turtle-38_5060	4	Che-049d_4_turtle-14_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-31	Che-049d_4_turtle-27	Che-049d_4_turtle-31_5060	4	Che-049d_4_turtle-27_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-31	Che-049d_4_turtle-23	Che-049d_4_turtle-31_5060	4	Che-049d_4_turtle-23_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-31	Che-049d_4_turtle-18	Che-049d_4_turtle-31_5060	4	Che-049d_4_turtle-18_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-31	Che-049d_4_turtle-14	Che-049d_4_turtle-31_5060	4	Che-049d_4_turtle-14_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-18	Che-049d_4_turtle-27	Che-049d_4_turtle-18_5060	4	Che-049d_4_turtle-27_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-18	Che-049d_4_turtle-23	Che-049d_4_turtle-18_5060	4	Che-049d_4_turtle-23_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-18	Che-049d_4_turtle-18	Che-049d_4_turtle-18_5060	4	Che-049d_4_turtle-18_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-23	Che-049d_4_turtle-31	Che-049d_4_turtle-23_5060	4	Che-049d_4_turtle-31_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_434_turtle-3	Gre-8842_434_turtle-3	Gre-8842_434_turtle-3_5060	434	Gre-8842_434_turtle-3_4188	434	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_437_turtle-3	Gre-8842_437_turtle-3	Gre-8842_437_turtle-3_5060	437	Gre-8842_437_turtle-3_4188	437	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_355_turtle-3	Gre-8842_355_turtle-3	Gre-8842_355_turtle-3_5060	355	Gre-8842_355_turtle-3_4188	355	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_444_turtle-3	Gre-8842_444_turtle-3	Gre-8842_444_turtle-3_5060	444	Gre-8842_444_turtle-3_4188	444	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_457_turtles-4	Gre-8842_457_turtles-4	Gre-8842_457_turtles-4_5060	457	Gre-8842_457_turtles-4_4188	457	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_63_turtle-3	Gre-8842_63_turtle-3	Gre-8842_63_turtle-3_5060	63	Gre-8842_63_turtle-3_4188	63	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_65_turtle-7	Gre-8842_65_turtle-7	Gre-8842_65_turtle-7_5060	65	Gre-8842_65_turtle-7_4188	65	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_73_turtle-4	Gre-8842_73_turtle-4	Gre-8842_73_turtle-4_5060	73	Gre-8842_73_turtle-4_4188	73	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_78_turtle-3	Gre-8842_78_turtle-3	Gre-8842_78_turtle-3_5060	78	Gre-8842_78_turtle-3_4188	78	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_329_turtle-3	Gre-8842_329_turtle-3	Gre-8842_329_turtle-3_5060	329	Gre-8842_329_turtle-3_4188	329	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_325_turtle-3	Gre-8842_325_turtle-3	Gre-8842_325_turtle-3_5060	325	Gre-8842_325_turtle-3_4188	325	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_442_turtle-3	Gre-8842_442_turtle-3	Gre-8842_442_turtle-3_5060	442	Gre-8842_442_turtle-3_4188	442	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_389_turtle-3	Gre-8842_389_turtle-3	Gre-8842_389_turtle-3_5060	389	Gre-8842_389_turtle-3_4188	389	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_104_turtle-3	Gre-8842_104_turtle-3	Gre-8842_104_turtle-3_5060	104	Gre-8842_104_turtle-3_4188	104	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_97_turtle-3	Gre-8842_97_turtle-3	Gre-8842_97_turtle-3_5060	97	Gre-8842_97_turtle-3_4188	97	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_122_turtle-3	Gre-8842_122_turtle-3	Gre-8842_122_turtle-3_5060	122	Gre-8842_122_turtle-3_4188	122	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_140_turtle-3	Gre-8842_140_turtle-3	Gre-8842_140_turtle-3_5060	140	Gre-8842_140_turtle-3_4188	140	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-38	Che-049d_4_turtle-27	Che-049d_4_turtle-38_5060	4	Che-049d_4_turtle-27_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-27	Che-049d_4_turtle-18	Che-049d_4_turtle-27_5060	4	Che-049d_4_turtle-18_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-14	Che-049d_4_turtle-38	Che-049d_4_turtle-14_5060	4	Che-049d_4_turtle-38_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-14	Che-049d_4_turtle-31	Che-049d_4_turtle-14_5060	4	Che-049d_4_turtle-31_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Woo-aaf8_509_turtle-25	Woo-aaf8_509_turtle-25	Woo-aaf8_509_turtle-25_5060	509	Woo-aaf8_509_turtle-25_4188	509	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-14	Che-049d_4_turtle-27	Che-049d_4_turtle-14_5060	4	Che-049d_4_turtle-27_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_32_turtles-6	Che-049d_32_turtles-6	Che-049d_32_turtles-6_5060	32	Che-049d_32_turtles-6_4188	32	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_32_turtles-6	Che-049d_32_turtles-26	Che-049d_32_turtles-6_5060	32	Che-049d_32_turtles-26_4188	32	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_32_turtles-6	Che-049d_32_turtle-34	Che-049d_32_turtles-6_5060	32	Che-049d_32_turtle-34_4188	32	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-23	Che-049d_4_turtle-38	Che-049d_4_turtle-23_5060	4	Che-049d_4_turtle-38_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Tor-f32e_2_Testudinidae-9	Tor-f32e_2_reptiles-5	Tor-f32e_2_Testudinidae-9_835	2	Tor-f32e_2_reptiles-5_4021	2	0	Testudinidae	reptiles	100.0
+taxongroup	Cro-0859_69_reptiles-16	Cro-0859_69_animals-13	Cro-0859_69_reptiles-16_419	69	Cro-0859_69_animals-13_44	69	0	Reptiles	Animals	100.0
+taxongroup	Tur-06de_421_reptiles-13	Tur-06de_421_animal-9	Tur-06de_421_reptiles-13_419	421	Tur-06de_421_animal-9_44	421	0	Reptiles	Animals	100.0
+taxongroup	Pte-5908_46_reptile-25	Pte-5908_46_animal-22	Pte-5908_46_reptile-25_419	46	Pte-5908_46_animal-22_44	46	0	Reptiles	Animals	100.0
+taxongroup	Pte-5908_32_reptile-14	Pte-5908_32_animal-11	Pte-5908_32_reptile-14_419	32	Pte-5908_32_animal-11_44	32	0	Reptiles	Animals	100.0
+taxongroup	Mil-11ed_188_reptiles-14	Mil-11ed_188_animals-10	Mil-11ed_188_reptiles-14_419	188	Mil-11ed_188_animals-10_44	188	0	Reptiles	Animals	100.0
+taxongroup	Ple-f864_428_reptile-20	Ple-f864_428_animals-109	Ple-f864_428_reptile-20_419	428	Ple-f864_428_animals-109_44	428	0	Reptiles	Animals	100.0
+taxongroup	Rep-aa64_395_reptiles-4	Rep-aa64_395_animals-26	Rep-aa64_395_reptiles-4_419	395	Rep-aa64_395_animals-26_44	395	0	Reptiles	Animals	100.0
+taxongroup	Ani-2170_6_reptiles-43	Ani-2170_6_animal-4	Ani-2170_6_reptiles-43_419	6	Ani-2170_6_animal-4_44	6	0	Reptiles	Animals	100.0
+taxongroup	Ant-f3cd_99_reptiles-31	Ant-f3cd_99_animals-2	Ant-f3cd_99_reptiles-31_419	99	Ant-f3cd_99_animals-2_44	99	0	Reptiles	Animals	100.0
+taxongroup	Fli-9841_25_reptiles-8	Fli-9841_25_animals-19	Fli-9841_25_reptiles-8_419	25	Fli-9841_25_animals-19_44	25	0	Reptiles	Animals	100.0
+taxongroup	Gli-5224_56_reptiles-3	Gli-5224_56_animals-9	Gli-5224_56_reptiles-3_419	56	Gli-5224_56_animals-9_44	56	0	Reptiles	Animals	100.0
+taxongroup	Din-756f_382_reptiles-15	Din-756f_382_animals-46	Din-756f_382_reptiles-15_419	382	Din-756f_382_animals-46_44	382	0	Reptiles	Animals	100.0
+taxongroup	Bur-08d7_9_reptiles-22	Bur-08d7_9_animals-6	Bur-08d7_9_reptiles-22_419	9	Bur-08d7_9_animals-6_44	9	0	Reptiles	Animals	100.0
+taxongroup	Cro-0859_69_reptiles-29	Cro-0859_69_animals-13	Cro-0859_69_reptiles-29_419	69	Cro-0859_69_animals-13_44	69	0	Reptiles	Animals	100.0
+taxongroup	Cam-4bd8_101_reptiles-44	Cam-4bd8_101_animals-4	Cam-4bd8_101_reptiles-44_419	101	Cam-4bd8_101_animals-4_44	101	0	Reptiles	Animals	100.0
+taxongroup	Liz-2f75_207_Squamata-8	Liz-2f75_207_reptiles-11	Liz-2f75_207_Squamata-8_3415	207	Liz-2f75_207_reptiles-11_4021	207	0	Squamata	reptiles	100.0
+taxongroup	Bro-f1dc_314_reptile-59	Bro-f1dc_314_animals-43	Bro-f1dc_314_reptile-59_419	314	Bro-f1dc_314_animals-43_44	314	0	Reptiles	Animals	100.0
+taxongroup	Bro-f1dc_314_reptile-59	Bro-f1dc_314_animals-35	Bro-f1dc_314_reptile-59_419	314	Bro-f1dc_314_animals-35_44	314	0	Reptiles	Animals	100.0
+taxongroup	Bla-e03a_12_reptiles-19	Bla-e03a_12_animals-24	Bla-e03a_12_reptiles-19_419	12	Bla-e03a_12_animals-24_44	12	0	Reptiles	Animals	100.0
+taxongroup	Com-9826_103_reptiles-26	Com-9826_103_animal-33	Com-9826_103_reptiles-26_419	103	Com-9826_103_animal-33_44	103	0	Reptiles	Animals	100.0
+taxongroup	Bot-5a32_7_reptiles-11	Bot-5a32_7_animals-14	Bot-5a32_7_reptiles-11_419	7	Bot-5a32_7_animals-14_44	7	0	Reptiles	Animals	100.0
+taxongroup	Bot-5a32_7_reptiles-11	Bot-5a32_7_animals-27	Bot-5a32_7_reptiles-11_419	7	Bot-5a32_7_animals-27_44	7	0	Reptiles	Animals	100.0
+taxongroup	Ani-2170_89_reptiles-34	Ani-2170_89_animals-18	Ani-2170_89_reptiles-34_419	89	Ani-2170_89_animals-18_44	89	0	Reptiles	Animals	100.0
+taxongroup	Fir-3b5c_78_reptiles-3	Fir-3b5c_78_animals-18	Fir-3b5c_78_reptiles-3_419	78	Fir-3b5c_78_animals-18_44	78	0	Reptiles	Animals	100.0
+taxongroup	Igu-76d2_377_reptile-15	Igu-76d2_377_animal-27	Igu-76d2_377_reptile-15_419	377	Igu-76d2_377_animal-27_44	377	0	Reptiles	Animals	100.0
+taxongroup	Syn-38d5_6_reptiles-16	Syn-38d5_6_animals-2	Syn-38d5_6_reptiles-16_419	6	Syn-38d5_6_animals-2_3812	6	0	Reptiles	animals	100.0
+taxongroup	Sync59f_1_reptiles-16	Sync59f_1_animals-7	Sync59f_1_reptiles-16_419	1	Sync59f_1_animals-7_3812	1	0	Reptiles	animals	100.0
+taxongroup	Spa-e46a_10_reptiles-36	Spa-e46a_10_animals-23	Spa-e46a_10_reptiles-36_419	10	Spa-e46a_10_animals-23_3812	10	0	Reptiles	animals	100.0
+taxongroup	Sync59f_1_reptiles-28	Sync59f_1_animals-7	Sync59f_1_reptiles-28_419	1	Sync59f_1_animals-7_3812	1	0	Reptiles	animals	100.0
+taxongroup	Rep-aa64_205_reptiles-5	Rep-aa64_205_animals-20	Rep-aa64_205_reptiles-5_419	205	Rep-aa64_205_animals-20_44	205	0	Reptiles	Animals	100.0
+taxongroup	Rep-aa64_195_reptiles-3	Rep-aa64_195_animals-25	Rep-aa64_195_reptiles-3_419	195	Rep-aa64_195_animals-25_44	195	0	Reptiles	Animals	100.0
+taxongroup	Red-2707_35_reptiles-28	Red-2707_35_animal-2	Red-2707_35_reptiles-28_419	35	Red-2707_35_animal-2_44	35	0	Reptiles	Animals	100.0
+taxongroup	Ple-f864_428_reptile-20	Ple-f864_428_animals-72	Ple-f864_428_reptile-20_419	428	Ple-f864_428_animals-72_44	428	0	Reptiles	Animals	100.0
+taxongroup	Cro-0859_132_crocodile-25	Cro-0859_132_crocodile-29	Cro-0859_132_crocodile-25_2912	132	Cro-0859_132_crocodile-29_4303	132	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-16	Cro-0859_172_crocodiles-20	Cro-0859_172_crocodiles-16_2912	172	Cro-0859_172_crocodiles-20_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-16	Cro-0859_172_crocodiles-16	Cro-0859_172_crocodiles-16_2912	172	Cro-0859_172_crocodiles-16_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-16	Cro-0859_172_crocodiles-12	Cro-0859_172_crocodiles-16_2912	172	Cro-0859_172_crocodiles-12_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-16	Cro-0859_172_crocodiles-26	Cro-0859_172_crocodiles-16_2912	172	Cro-0859_172_crocodiles-26_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_crocodile-58_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-39_2912	276	Cro-0859_276_crocodile-44_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Oph46f3_3_Ophthalmosaurus-16	Oph46f3_3_animal-6	Oph46f3_3_Ophthalmosaurus-16_2954	3	Oph46f3_3_animal-6_44	3	0	Ophthalmosaurus	Animals	100.0
+taxongroup	Ich-89df_218_Ophthalmosaurus-4	Ich-89df_218_animals-10	Ich-89df_218_Ophthalmosaurus-4_2954	218	Ich-89df_218_animals-10_44	218	0	Ophthalmosaurus	Animals	100.0
+taxongroup	Ich-89df_251_Ophthalmosaurus-24	Ich-89df_251_Ichthyosauria-6	Ich-89df_251_Ophthalmosaurus-24_2954	251	Ich-89df_251_Ichthyosauria-6_2575	251	0	Ophthalmosaurus	Ichthyosauria	100.0
+taxongroup	Oph-fda2_10_Ophthalmosaurus-5	Oph-fda2_10_ichthyosaurs-4	Oph-fda2_10_Ophthalmosaurus-5_2954	10	Oph-fda2_10_ichthyosaurs-4_5116	10	0	Ophthalmosaurus	ichthyosaurs	100.0
+taxongroup	Pte-5908_207_Pterosauria-21	Pte-5908_207_animal-16	Pte-5908_207_Pterosauria-21_3140	207	Pte-5908_207_animal-16_44	207	0	Pterosauria	Animals	100.0
+taxongroup	Pte-62aa_2_Pterosauria-26	Pte-62aa_2_reptiles-22	Pte-62aa_2_Pterosauria-26_3140	2	Pte-62aa_2_reptiles-22_419	2	0	Pterosauria	Reptiles	100.0
+taxongroup	Pte-62aa_2_Pterosaurs-1	Pte-62aa_2_reptiles-22	Pte-62aa_2_Pterosaurs-1_3139	2	Pte-62aa_2_reptiles-22_419	2	0	Pterosaurs	Reptiles	100.0
+taxongroup	Syn-38d5_9_reptiles-12	Syn-38d5_9_animals-8	Syn-38d5_9_reptiles-12_419	9	Syn-38d5_9_animals-8_44	9	0	Reptiles	Animals	100.0
+taxongroup	Syn-38d5_2_reptiles-25	Syn-38d5_2_animals-11	Syn-38d5_2_reptiles-25_419	2	Syn-38d5_2_animals-11_44	2	0	Reptiles	Animals	100.0
+taxongroup	Syn-38d5_9_reptile-29	Syn-38d5_9_animals-8	Syn-38d5_9_reptile-29_419	9	Syn-38d5_9_animals-8_44	9	0	Reptiles	Animals	100.0
+taxongroup	Viv0253_18_reptiles-25	Viv0253_18_animal-15	Viv0253_18_reptiles-25_419	18	Viv0253_18_animal-15_44	18	0	Reptiles	Animals	100.0
+taxongroup	Rep-aa64_39_reptiles-19	Rep-aa64_39_vertebrates-7	Rep-aa64_39_reptiles-19_419	39	Rep-aa64_39_vertebrates-7_3935	39	0	Reptiles	vertebrates	100.0
+taxongroup	Ver-1720_136_reptiles-8	Ver-1720_136_vertebrates-36	Ver-1720_136_reptiles-8_419	136	Ver-1720_136_vertebrates-36_3935	136	0	Reptiles	vertebrates	100.0
+taxongroup	Ver-1720_136_reptiles-11	Ver-1720_136_vertebrates-25	Ver-1720_136_reptiles-11_419	136	Ver-1720_136_vertebrates-25_3935	136	0	Reptiles	vertebrates	100.0
+taxongroup	Ver-1720_136_reptiles-11	Ver-1720_136_vertebrates-36	Ver-1720_136_reptiles-11_419	136	Ver-1720_136_vertebrates-36_3935	136	0	Reptiles	vertebrates	100.0
+taxongroup	Ver-1720_136_reptiles-59	Ver-1720_136_vertebrates-36	Ver-1720_136_reptiles-59_419	136	Ver-1720_136_vertebrates-36_3935	136	0	Reptiles	vertebrates	100.0
+taxongroup	Ver-1720_136_reptiles-59	Ver-1720_136_vertebrates-25	Ver-1720_136_reptiles-59_419	136	Ver-1720_136_vertebrates-25_3935	136	0	Reptiles	vertebrates	100.0
+taxongroup	Ver-1720_136_reptiles-8	Ver-1720_136_vertebrates-25	Ver-1720_136_reptiles-8_419	136	Ver-1720_136_vertebrates-25_3935	136	0	Reptiles	vertebrates	100.0
+taxongroup	Ver-1720_136_reptiles-48	Ver-1720_136_vertebrates-25	Ver-1720_136_reptiles-48_419	136	Ver-1720_136_vertebrates-25_3935	136	0	Reptiles	vertebrates	100.0
+taxongroup	Ver-1720_136_reptiles-48	Ver-1720_136_vertebrates-36	Ver-1720_136_reptiles-48_419	136	Ver-1720_136_vertebrates-36_3935	136	0	Reptiles	vertebrates	100.0
+taxongroup	Apo-f97b_35_reptile-21	Apo-f97b_35_vertebrates-11	Apo-f97b_35_reptile-21_419	35	Apo-f97b_35_vertebrates-11_3935	35	0	Reptiles	vertebrates	100.0
+taxongroup	Cro-9102_320_reptiles-9	Cro-9102_320_vertebrates-21	Cro-9102_320_reptiles-9_419	320	Cro-9102_320_vertebrates-21_3935	320	0	Reptiles	vertebrates	100.0
+taxongroup	Mam-3742_349_reptiles-7	Mam-3742_349_vertebrates-2	Mam-3742_349_reptiles-7_419	349	Mam-3742_349_vertebrates-2_3935	349	0	Reptiles	vertebrates	100.0
+taxongroup	Bur-08d7_9_reptiles-22	Bur-08d7_9_vertebrate-4	Bur-08d7_9_reptiles-22_419	9	Bur-08d7_9_vertebrate-4_3935	9	0	Reptiles	vertebrates	100.0
+taxongroup	Com-f222_286_reptiles-26	Com-f222_286_vertebrates-10	Com-f222_286_reptiles-26_419	286	Com-f222_286_vertebrates-10_3935	286	0	Reptiles	vertebrates	100.0
+taxongroup	Cro-9102_402_crocodiles-8	Cro-9102_402_crocodiles-18	Cro-9102_402_crocodiles-8_3322	402	Cro-9102_402_crocodiles-18_4303	402	0	Siamese crocodile	crocodiles	100.0
+taxongroup	Cro-9102_402_crocodiles-8	Cro-9102_402_crocodiles-8	Cro-9102_402_crocodiles-8_3322	402	Cro-9102_402_crocodiles-8_4303	402	0	Siamese crocodile	crocodiles	100.0
+taxongroup	Siae4d7_1_crocodiles-3	Siae4d7_1_crocodiles-3	Siae4d7_1_crocodiles-3_3322	1	Siae4d7_1_crocodiles-3_4303	1	0	Siamese crocodile	crocodiles	100.0
+taxongroup	Cro-9102_402_crocodiles-5	Cro-9102_402_crocodiles-8	Cro-9102_402_crocodiles-5_3322	402	Cro-9102_402_crocodiles-8_4303	402	0	Siamese crocodile	crocodiles	100.0
+taxongroup	Cro-9102_402_crocodiles-18	Cro-9102_402_crocodiles-18	Cro-9102_402_crocodiles-18_3322	402	Cro-9102_402_crocodiles-18_4303	402	0	Siamese crocodile	crocodiles	100.0
+taxongroup	Cro-9102_402_crocodiles-18	Cro-9102_402_crocodiles-5	Cro-9102_402_crocodiles-18_3322	402	Cro-9102_402_crocodiles-5_4303	402	0	Siamese crocodile	crocodiles	100.0
+taxongroup	Cro-9102_402_crocodiles-18	Cro-9102_402_crocodiles-8	Cro-9102_402_crocodiles-18_3322	402	Cro-9102_402_crocodiles-8_4303	402	0	Siamese crocodile	crocodiles	100.0
+taxongroup	Cro-9102_402_crocodiles-5	Cro-9102_402_crocodiles-18	Cro-9102_402_crocodiles-5_3322	402	Cro-9102_402_crocodiles-18_4303	402	0	Siamese crocodile	crocodiles	100.0
+taxongroup	Cro-9102_402_crocodiles-5	Cro-9102_402_crocodiles-5	Cro-9102_402_crocodiles-5_3322	402	Cro-9102_402_crocodiles-5_4303	402	0	Siamese crocodile	crocodiles	100.0
+taxongroup	Cro-9102_402_crocodiles-8	Cro-9102_402_crocodiles-5	Cro-9102_402_crocodiles-8_3322	402	Cro-9102_402_crocodiles-5_4303	402	0	Siamese crocodile	crocodiles	100.0
+taxongroup	Squdd8e_6_Squamata-18	Squdd8e_6_reptiles-2	Squdd8e_6_Squamata-18_3415	6	Squdd8e_6_reptiles-2_419	6	0	Squamata	Reptiles	100.0
+taxongroup	Con-5acf_7_Squamata-21	Con-5acf_7_Reptilia-19	Con-5acf_7_Squamata-21_3415	7	Con-5acf_7_Reptilia-19_418	7	0	Squamata	Reptilia	100.0
+taxongroup	Ptee0a7_13_reptiles-10	Ptee0a7_13_vertebrates-14	Ptee0a7_13_reptiles-10_419	13	Ptee0a7_13_vertebrates-14_3935	13	0	Reptiles	vertebrates	100.0
+taxongroup	Amb-b5dc_48_reptiles-4	Amb-b5dc_48_vertebrates-20	Amb-b5dc_48_reptiles-4_419	48	Amb-b5dc_48_vertebrates-20_3935	48	0	Reptiles	vertebrates	100.0
+taxongroup	Syn-38d5_64_reptiles-10	Syn-38d5_64_vertebrates-7	Syn-38d5_64_reptiles-10_419	64	Syn-38d5_64_vertebrates-7_3935	64	0	Reptiles	vertebrates	100.0
+taxongroup	Che-049d_4_turtle-27	Che-049d_4_turtle-38	Che-049d_4_turtle-27_5060	4	Che-049d_4_turtle-38_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-27	Che-049d_4_turtle-31	Che-049d_4_turtle-27_5060	4	Che-049d_4_turtle-31_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Che-049d_4_turtle-27	Che-049d_4_turtle-27	Che-049d_4_turtle-27_5060	4	Che-049d_4_turtle-27_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Sea-4a1d_2_turtles-2	Sea-4a1d_2_reptiles-14	Sea-4a1d_2_turtles-2_4188	2	Sea-4a1d_2_reptiles-14_4021	2	0	sea turtles	reptiles	100.0
+taxongroup	Sea-f7d0_60_turtles-28	Sea-f7d0_60_reptile-18	Sea-f7d0_60_turtles-28_4188	60	Sea-f7d0_60_reptile-18_4021	60	0	sea turtles	reptiles	100.0
+taxongroup	Rep-aa64_168_turtles-9	Rep-aa64_168_reptiles-5	Rep-aa64_168_turtles-9_4188	168	Rep-aa64_168_reptiles-5_4021	168	0	sea turtles	reptiles	100.0
+taxongroup	Rep-aa64_168_turtles-9	Rep-aa64_168_reptiles-18	Rep-aa64_168_turtles-9_4188	168	Rep-aa64_168_reptiles-18_4021	168	0	sea turtles	reptiles	100.0
+taxongroup	Tur-06de_2_testudines-4	Tur-06de_2_reptiles-7	Tur-06de_2_testudines-4_5585	2	Tur-06de_2_reptiles-7_419	2	0	testudines	Reptiles	100.0
+taxongroup	Tor-f32e_42_tortoise-3	Tor-f32e_42_animals-13	Tor-f32e_42_tortoise-3_4205	42	Tor-f32e_42_animals-13_44	42	0	tortoises	Animals	100.0
+taxongroup	Tor-f32e_170_tortoises-6	Tor-f32e_170_animals-11	Tor-f32e_170_tortoises-6_4205	170	Tor-f32e_170_animals-11_44	170	0	tortoises	Animals	100.0
+taxongroup	Tor-f32e_23_tortoise-68	Tor-f32e_23_animals-20	Tor-f32e_23_tortoise-68_4205	23	Tor-f32e_23_animals-20_44	23	0	tortoises	Animals	100.0
+taxongroup	Tor-f32e_175_tortoises-8	Tor-f32e_175_animals-12	Tor-f32e_175_tortoises-8_4205	175	Tor-f32e_175_animals-12_44	175	0	tortoises	Animals	100.0
+taxongroup	Tur-06de_186_tortoises-6	Tur-06de_186_animal-14	Tur-06de_186_tortoises-6_4205	186	Tur-06de_186_animal-14_44	186	0	tortoises	Animals	100.0
+taxongroup	Tor-f32e_23_tortoises-12	Tor-f32e_23_animals-20	Tor-f32e_23_tortoises-12_4205	23	Tor-f32e_23_animals-20_44	23	0	tortoises	Animals	100.0
+taxongroup	Tor-f32e_9_tortoise-20	Tor-f32e_9_animals-8	Tor-f32e_9_tortoise-20_4205	9	Tor-f32e_9_animals-8_44	9	0	tortoises	Animals	100.0
+taxongroup	Tor-f32e_38_tortoise-47	Tor-f32e_38_animal-28	Tor-f32e_38_tortoise-47_4205	38	Tor-f32e_38_animal-28_44	38	0	tortoises	Animals	100.0
+taxongroup	Tur-06de_286_tortoise-15	Tur-06de_286_animal-7	Tur-06de_286_tortoise-15_4205	286	Tur-06de_286_animal-7_44	286	0	tortoises	Animals	100.0
+taxongroup	Tor-f32e_2_tortoise-18	Tor-f32e_2_reptiles-5	Tor-f32e_2_tortoise-18_4205	2	Tor-f32e_2_reptiles-5_419	2	0	tortoises	Reptiles	100.0
+taxongroup	Tor-f32e_93_tortoises-3	Tor-f32e_93_reptiles-9	Tor-f32e_93_tortoises-3_4205	93	Tor-f32e_93_reptiles-9_419	93	0	tortoises	Reptiles	100.0
+taxongroup	Turaa61_21_tortoises-5	Turaa61_21_Turtles-1	Turaa61_21_tortoises-5_4205	21	Turaa61_21_Turtles-1_3574	21	0	tortoises	Turtles, terrapins and tortoises	100.0
+taxongroup	Sea-4a1d_2_turtles-11	Sea-4a1d_2_reptiles-14	Sea-4a1d_2_turtles-11_4188	2	Sea-4a1d_2_reptiles-14_4021	2	0	sea turtles	reptiles	100.0
+taxongroup	Sea-4a1d_309_turtles-2	Sea-4a1d_309_reptiles-17	Sea-4a1d_309_turtles-2_4188	309	Sea-4a1d_309_reptiles-17_4021	309	0	sea turtles	reptiles	100.0
+taxongroup	Sea-4a1d_142_turtles-2	Sea-4a1d_142_reptile-7	Sea-4a1d_142_turtles-2_4188	142	Sea-4a1d_142_reptile-7_4021	142	0	sea turtles	reptiles	100.0
+taxongroup	Tur-06de_117_turtles-2	Tur-06de_117_animals-15	Tur-06de_117_turtles-2_4188	117	Tur-06de_117_animals-15_44	117	0	sea turtles	Animals	100.0
+taxongroup	Sea-4a1d_351_turtles-13	Sea-4a1d_351_animals-7	Sea-4a1d_351_turtles-13_4188	351	Sea-4a1d_351_animals-7_44	351	0	sea turtles	Animals	100.0
+taxongroup	Gre-8842_380_turtles-18	Gre-8842_380_animals-38	Gre-8842_380_turtles-18_4188	380	Gre-8842_380_animals-38_44	380	0	sea turtles	Animals	100.0
+taxongroup	Gre-8842_263_turtles-10	Gre-8842_263_animals-14	Gre-8842_263_turtles-10_4188	263	Gre-8842_263_animals-14_44	263	0	sea turtles	Animals	100.0
+taxongroup	Tur-06de_13_turtles-2	Tur-06de_13_reptiles-6	Tur-06de_13_turtles-2_4188	13	Tur-06de_13_reptiles-6_419	13	0	sea turtles	Reptiles	100.0
+taxongroup	Sea-4a1d_130_turtles-2	Sea-4a1d_130_reptiles-7	Sea-4a1d_130_turtles-2_4188	130	Sea-4a1d_130_reptiles-7_419	130	0	sea turtles	Reptiles	100.0
+taxongroup	Sea-4a1d_113_turtles-7	Sea-4a1d_113_reptiles-4	Sea-4a1d_113_turtles-7_4188	113	Sea-4a1d_113_reptiles-4_419	113	0	sea turtles	Reptiles	100.0
+taxongroup	Che-049d_4_turtle-31	Che-049d_4_turtle-31	Che-049d_4_turtle-31_5060	4	Che-049d_4_turtle-31_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Pte-62aa_313_pterosaurs-7	Pte-62aa_313_reptile-27	Pte-62aa_313_pterosaurs-7_5375	313	Pte-62aa_313_reptile-27_419	313	0	pterosaurs	Reptiles	100.0
+taxongroup	Sau-89d2_78_pterosaur-42	Sau-89d2_78_animals-17	Sau-89d2_78_pterosaur-42_5375	78	Sau-89d2_78_animals-17_44	78	0	pterosaurs	Animals	100.0
+taxongroup	Ptee0a7_13_pterosaurs-7	Ptee0a7_13_reptiles-10	Ptee0a7_13_pterosaurs-7_5375	13	Ptee0a7_13_reptiles-10_419	13	0	pterosaurs	Reptiles	100.0
+taxongroup	Rep-aa64_56_pterosaurs-18	Rep-aa64_56_reptiles-7	Rep-aa64_56_pterosaurs-18_5375	56	Rep-aa64_56_reptiles-7_419	56	0	pterosaurs	Reptiles	100.0
+taxongroup	Ich-89df_537_pterosaurs-19	Ich-89df_537_reptile-8	Ich-89df_537_pterosaurs-19_5375	537	Ich-89df_537_reptile-8_419	537	0	pterosaurs	Reptiles	100.0
+taxongroup	Din-756f_44_pterosaurs-10	Din-756f_44_reptile-17	Din-756f_44_pterosaurs-10_5375	44	Din-756f_44_reptile-17_419	44	0	pterosaurs	Reptiles	100.0
+taxongroup	Pte-5908_3_pterosaur-18	Pte-5908_3_reptile-27	Pte-5908_3_pterosaur-18_5375	3	Pte-5908_3_reptile-27_419	3	0	pterosaurs	Reptiles	100.0
+taxongroup	Pte-5908_51_pterosaurs-20	Pte-5908_51_reptiles-36	Pte-5908_51_pterosaurs-20_5375	51	Pte-5908_51_reptiles-36_419	51	0	pterosaurs	Reptiles	100.0
+taxongroup	Pte-5908_3_pterosaur-18	Pte-5908_3_reptiles-34	Pte-5908_3_pterosaur-18_5375	3	Pte-5908_3_reptiles-34_419	3	0	pterosaurs	Reptiles	100.0
+taxongroup	Fli-9841_25_pterosaurs-3	Fli-9841_25_reptiles-8	Fli-9841_25_pterosaurs-3_5375	25	Fli-9841_25_reptiles-8_419	25	0	pterosaurs	Reptiles	100.0
+taxongroup	Pte-62aa_332_pterosaur-10	Pte-62aa_332_reptiles-33	Pte-62aa_332_pterosaur-10_5375	332	Pte-62aa_332_reptiles-33_419	332	0	pterosaurs	Reptiles	100.0
+taxongroup	Pte-62aa_332_pterosaurs-22	Pte-62aa_332_reptiles-33	Pte-62aa_332_pterosaurs-22_5375	332	Pte-62aa_332_reptiles-33_419	332	0	pterosaurs	Reptiles	100.0
+taxongroup	Pte-62aa_474_pterosaurs-10	Pte-62aa_474_reptiles-47	Pte-62aa_474_pterosaurs-10_5375	474	Pte-62aa_474_reptiles-47_419	474	0	pterosaurs	Reptiles	100.0
+taxongroup	Pte-62aa_465_pterosaurs-31	Pte-62aa_465_reptiles-53	Pte-62aa_465_pterosaurs-31_5375	465	Pte-62aa_465_reptiles-53_419	465	0	pterosaurs	Reptiles	100.0
+taxongroup	Pte-62aa_323_pterosaurs-10	Pte-62aa_323_reptiles-18	Pte-62aa_323_pterosaurs-10_5375	323	Pte-62aa_323_reptiles-18_419	323	0	pterosaurs	Reptiles	100.0
+taxongroup	Pte-62aa_329_pterosaur-10	Pte-62aa_329_reptiles-16	Pte-62aa_329_pterosaur-10_5375	329	Pte-62aa_329_reptiles-16_419	329	0	pterosaurs	Reptiles	100.0
+taxongroup	Pte-62aa_542_pterosaur-10	Pte-62aa_542_reptiles-33	Pte-62aa_542_pterosaur-10_5375	542	Pte-62aa_542_reptiles-33_419	542	0	pterosaurs	Reptiles	100.0
+taxongroup	Pte-62aa_313_pterosaurs-22	Pte-62aa_313_reptile-27	Pte-62aa_313_pterosaurs-22_5375	313	Pte-62aa_313_reptile-27_419	313	0	pterosaurs	Reptiles	100.0
+taxongroup	Ver-1720_12_pterosaurs-21	Ver-1720_12_reptiles-8	Ver-1720_12_pterosaurs-21_5375	12	Ver-1720_12_reptiles-8_419	12	0	pterosaurs	Reptiles	100.0
+taxongroup	Ver-1720_12_pterosaurs-21	Ver-1720_12_reptiles-25	Ver-1720_12_pterosaurs-21_5375	12	Ver-1720_12_reptiles-25_419	12	0	pterosaurs	Reptiles	100.0
+taxongroup	Sau-89d2_78_pterosaur-42	Sau-89d2_78_reptile-46	Sau-89d2_78_pterosaur-42_5375	78	Sau-89d2_78_reptile-46_419	78	0	pterosaurs	Reptiles	100.0
+taxongroup	Din-756f_42_pterosaurs-6	Din-756f_42_animals-3	Din-756f_42_pterosaurs-6_5375	42	Din-756f_42_animals-3_3812	42	0	pterosaurs	animals	100.0
+taxongroup	Pte-5908_14_pterosaur-15	Pte-5908_14_animal-6	Pte-5908_14_pterosaur-15_5375	14	Pte-5908_14_animal-6_3812	14	0	pterosaurs	animals	100.0
+taxongroup	Pte-5908_163_pterosaur-11	Pte-5908_163_animal-17	Pte-5908_163_pterosaur-11_5375	163	Pte-5908_163_animal-17_3812	163	0	pterosaurs	animals	100.0
+taxongroup	Din-756f_542_pterosaurs-12	Din-756f_542_animals-8	Din-756f_542_pterosaurs-12_5375	542	Din-756f_542_animals-8_3812	542	0	pterosaurs	animals	100.0
+taxongroup	Fli-9841_25_pterosaurs-3	Fli-9841_25_animals-19	Fli-9841_25_pterosaurs-3_5375	25	Fli-9841_25_animals-19_3812	25	0	pterosaurs	animals	100.0
+taxongroup	Hat-172d_59_pterosaur-4	Hat-172d_59_animal-24	Hat-172d_59_pterosaur-4_5375	59	Hat-172d_59_animal-24_3812	59	0	pterosaurs	animals	100.0
+taxongroup	Pte-62aa_299_pterosaur-6	Pte-62aa_299_animal-20	Pte-62aa_299_pterosaur-6_5375	299	Pte-62aa_299_animal-20_3812	299	0	pterosaurs	animals	100.0
+taxongroup	Pte-62aa_458_pterosaur-7	Pte-62aa_458_animals-13	Pte-62aa_458_pterosaur-7_5375	458	Pte-62aa_458_animals-13_44	458	0	pterosaurs	Animals	100.0
+taxongroup	Pte-62aa_370_pterosaurs-26	Pte-62aa_370_animals-32	Pte-62aa_370_pterosaurs-26_5375	370	Pte-62aa_370_animals-32_44	370	0	pterosaurs	Animals	100.0
+taxongroup	Pte-62aa_602_pterosaurs-8	Pte-62aa_602_animals-4	Pte-62aa_602_pterosaurs-8_5375	602	Pte-62aa_602_animals-4_44	602	0	pterosaurs	Animals	100.0
+taxongroup	Pte-62aa_407_pterosaurs-40	Pte-62aa_407_animals-32	Pte-62aa_407_pterosaurs-40_5375	407	Pte-62aa_407_animals-32_44	407	0	pterosaurs	Animals	100.0
+taxongroup	Che-049d_4_turtle-31	Che-049d_4_turtle-38	Che-049d_4_turtle-31_5060	4	Che-049d_4_turtle-38_4188	4	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_187_turtle-3	Gre-8842_187_turtle-3	Gre-8842_187_turtle-3_5060	187	Gre-8842_187_turtle-3_4188	187	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_186_turtles-28	Gre-8842_186_turtles-28	Gre-8842_186_turtles-28_5060	186	Gre-8842_186_turtles-28_4188	186	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_24_turtle-3	Gre-8842_24_turtle-3	Gre-8842_24_turtle-3_5060	24	Gre-8842_24_turtle-3_4188	24	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_277_turtle-3	Gre-8842_277_turtle-3	Gre-8842_277_turtle-3_5060	277	Gre-8842_277_turtle-3_4188	277	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_296_turtle-3	Gre-8842_296_turtle-3	Gre-8842_296_turtle-3_5060	296	Gre-8842_296_turtle-3_4188	296	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_319_turtle-4	Gre-8842_319_turtle-4	Gre-8842_319_turtle-4_5060	319	Gre-8842_319_turtle-4_4188	319	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_245_turtle-3	Gre-8842_245_turtle-3	Gre-8842_245_turtle-3_5060	245	Gre-8842_245_turtle-3_4188	245	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_174_turtle-3	Gre-8842_174_turtle-3	Gre-8842_174_turtle-3_5060	174	Gre-8842_174_turtle-3_4188	174	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_150_turtles-8	Gre-8842_150_turtles-8	Gre-8842_150_turtles-8_5060	150	Gre-8842_150_turtles-8_4188	150	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_157_turtle-3	Gre-8842_157_turtle-3	Gre-8842_157_turtle-3_5060	157	Gre-8842_157_turtle-3_4188	157	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_163_turtle-3	Gre-8842_163_turtle-3	Gre-8842_163_turtle-3_5060	163	Gre-8842_163_turtle-3_4188	163	0	green sea turtle	sea turtles	100.0
+taxongroup	Gre-8842_233_turtle-3	Gre-8842_233_turtle-3	Gre-8842_233_turtle-3_5060	233	Gre-8842_233_turtle-3_4188	233	0	green sea turtle	sea turtles	100.0
+taxongroup	Pte-62aa_7_pterosaurs-10	Pte-62aa_7_animals-19	Pte-62aa_7_pterosaurs-10_5375	7	Pte-62aa_7_animals-19_44	7	0	pterosaurs	Animals	100.0
+taxongroup	Pte-62aa_482_pterosaurs-10	Pte-62aa_482_animals-16	Pte-62aa_482_pterosaurs-10_5375	482	Pte-62aa_482_animals-16_44	482	0	pterosaurs	Animals	100.0
+taxongroup	Pte-62aa_7_pterosaurs-2	Pte-62aa_7_animals-19	Pte-62aa_7_pterosaurs-2_5375	7	Pte-62aa_7_animals-19_44	7	0	pterosaurs	Animals	100.0
+taxongroup	Pte-62aa_460_pterosaurs-2	Pte-62aa_460_animals-10	Pte-62aa_460_pterosaurs-2_5375	460	Pte-62aa_460_animals-10_44	460	0	pterosaurs	Animals	100.0
+taxongroup	Pte-62aa_482_pterosaurs-27	Pte-62aa_482_animals-16	Pte-62aa_482_pterosaurs-27_5375	482	Pte-62aa_482_animals-16_44	482	0	pterosaurs	Animals	100.0
+taxongroup	Pte-62aa_30_pterosaurs-31	Pte-62aa_30_animals-20	Pte-62aa_30_pterosaurs-31_5375	30	Pte-62aa_30_animals-20_44	30	0	pterosaurs	Animals	100.0
+taxongroup	Pte-62aa_342_pterosaurs-15	Pte-62aa_342_animals-24	Pte-62aa_342_pterosaurs-15_5375	342	Pte-62aa_342_animals-24_44	342	0	pterosaurs	Animals	100.0
+taxongroup	Pte-62aa_460_pterosaurs-2	Pte-62aa_460_vertebrate-21	Pte-62aa_460_pterosaurs-2_5375	460	Pte-62aa_460_vertebrate-21_3935	460	0	pterosaurs	vertebrates	100.0
+taxongroup	Pte-62aa_412_pterosaurs-16	Pte-62aa_412_vertebrates-47	Pte-62aa_412_pterosaurs-16_5375	412	Pte-62aa_412_vertebrates-47_3935	412	0	pterosaurs	vertebrates	100.0
+taxongroup	Pte-62aa_10_pterosaurs-2	Pte-62aa_10_vertebrates-9	Pte-62aa_10_pterosaurs-2_5375	10	Pte-62aa_10_vertebrates-9_3935	10	0	pterosaurs	vertebrates	100.0
+taxongroup	Rad-f05d_48_tortoise-17	Rad-f05d_48_tortoise-17	Rad-f05d_48_tortoise-17_5381	48	Rad-f05d_48_tortoise-17_4205	48	0	radiated tortoise	tortoises	100.0
+taxongroup	Rad-f05d_53_tortoises-4	Rad-f05d_53_tortoises-18	Rad-f05d_53_tortoises-4_5381	53	Rad-f05d_53_tortoises-18_4205	53	0	radiated tortoise	tortoises	100.0
+taxongroup	Rad-f05d_53_tortoises-4	Rad-f05d_53_tortoises-4	Rad-f05d_53_tortoises-4_5381	53	Rad-f05d_53_tortoises-4_4205	53	0	radiated tortoise	tortoises	100.0
+taxongroup	Rad-f05d_53_tortoises-4	Rad-f05d_53_tortoises-9	Rad-f05d_53_tortoises-4_5381	53	Rad-f05d_53_tortoises-9_4205	53	0	radiated tortoise	tortoises	100.0
+taxongroup	Rad-f05d_53_tortoises-9	Rad-f05d_53_tortoises-9	Rad-f05d_53_tortoises-9_5381	53	Rad-f05d_53_tortoises-9_4205	53	0	radiated tortoise	tortoises	100.0
+taxongroup	Rad-f05d_53_tortoises-18	Rad-f05d_53_tortoises-4	Rad-f05d_53_tortoises-18_5381	53	Rad-f05d_53_tortoises-4_4205	53	0	radiated tortoise	tortoises	100.0
+taxongroup	Rad-f05d_53_tortoises-9	Rad-f05d_53_tortoises-4	Rad-f05d_53_tortoises-9_5381	53	Rad-f05d_53_tortoises-4_4205	53	0	radiated tortoise	tortoises	100.0
+taxongroup	Rad-f05d_53_tortoises-18	Rad-f05d_53_tortoises-9	Rad-f05d_53_tortoises-18_5381	53	Rad-f05d_53_tortoises-9_4205	53	0	radiated tortoise	tortoises	100.0
+taxongroup	Rad-f05d_11_tortoise-6	Rad-f05d_11_tortoise-6	Rad-f05d_11_tortoise-6_5381	11	Rad-f05d_11_tortoise-6_4205	11	0	radiated tortoise	tortoises	100.0
+taxongroup	Rad-f05d_53_tortoises-18	Rad-f05d_53_tortoises-18	Rad-f05d_53_tortoises-18_5381	53	Rad-f05d_53_tortoises-18_4205	53	0	radiated tortoise	tortoises	100.0
+taxongroup	Rad-f05d_13_tortoise-3	Rad-f05d_13_tortoise-3	Rad-f05d_13_tortoise-3_5381	13	Rad-f05d_13_tortoise-3_4205	13	0	radiated tortoise	tortoises	100.0
+taxongroup	Rad-f05d_53_tortoises-9	Rad-f05d_53_tortoises-18	Rad-f05d_53_tortoises-9_5381	53	Rad-f05d_53_tortoises-18_4205	53	0	radiated tortoise	tortoises	100.0
+taxongroup	Rep-aa64_42_reptile-29	Rep-aa64_42_animals-26	Rep-aa64_42_reptile-29_4021	42	Rep-aa64_42_animals-26_44	42	0	reptiles	Animals	100.0
+taxongroup	Rep-aa64_198_reptiles-21	Rep-aa64_198_animals-31	Rep-aa64_198_reptiles-21_4021	198	Rep-aa64_198_animals-31_44	198	0	reptiles	Animals	100.0
+taxongroup	Pte-62aa_58_pterosaur-14	Pte-62aa_58_vertebrate-5	Pte-62aa_58_pterosaur-14_5375	58	Pte-62aa_58_vertebrate-5_3935	58	0	pterosaurs	vertebrates	100.0
+taxongroup	Dip-c98d_261_pterosaur-38	Dip-c98d_261_vertebrates-2	Dip-c98d_261_pterosaur-38_5375	261	Dip-c98d_261_vertebrates-2_3935	261	0	pterosaurs	vertebrates	100.0
+taxongroup	Ptee0a7_13_pterosaurs-7	Ptee0a7_13_vertebrates-14	Ptee0a7_13_pterosaurs-7_5375	13	Ptee0a7_13_vertebrates-14_3935	13	0	pterosaurs	vertebrates	100.0
+taxongroup	Cro-0859_132_crocodile-29	Cro-0859_132_crocodile-25	Cro-0859_132_crocodile-29_2912	132	Cro-0859_132_crocodile-25_4303	132	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_132_crocodile-29	Cro-0859_132_crocodile-29	Cro-0859_132_crocodile-29_2912	132	Cro-0859_132_crocodile-29_4303	132	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_132_crocodile-29	Cro-0859_132_crocodiles-16	Cro-0859_132_crocodile-29_2912	132	Cro-0859_132_crocodiles-16_4303	132	0	Nile crocodile	crocodiles	100.0
+taxongroup	Gal-c120_23_tortoises-3	Gal-c120_23_tortoises-3	Gal-c120_23_tortoises-3_2331	23	Gal-c120_23_tortoises-3_4205	23	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Cro-9102_340_alligator-44	Cro-9102_340_alligator-44	Cro-9102_340_alligator-44_1867	340	Cro-9102_340_alligator-44_4034	340	0	Chinese alligator	alligators and caimans	100.0
+taxongroup	Chi-0fb6_114_alligator-3	Chi-0fb6_114_animals-19	Chi-0fb6_114_alligator-3_1867	114	Chi-0fb6_114_animals-19_3812	114	0	Chinese alligator	animals	100.0
+taxongroup	Nil-600c_183_Crocodiles-1	Nil-600c_183_animals-12	Nil-600c_183_Crocodiles-1_997	183	Nil-600c_183_animals-12_44	183	0	Crocodiles	Animals	100.0
+taxongroup	Cro-0859_195_Crocodiles-1	Cro-0859_195_reptiles-7	Cro-0859_195_Crocodiles-1_997	195	Cro-0859_195_reptiles-7_4021	195	0	Crocodiles	reptiles	100.0
+taxongroup	Cro-9102_5_Crocodylidae-10	Cro-9102_5_Crocodilia-3	Cro-9102_5_Crocodylidae-10_555	5	Cro-9102_5_Crocodilia-3_1997	5	0	Crocodylidae	Crocodilia	100.0
+taxongroup	Cro-0859_2_Crocodylidae-4	Cro-0859_2_reptiles-12	Cro-0859_2_Crocodylidae-4_555	2	Cro-0859_2_reptiles-12_419	2	0	Crocodylidae	Reptiles	100.0
+taxongroup	Rep-aa64_23_Crocodylus-30	Rep-aa64_23_reptiles-2	Rep-aa64_23_Crocodylus-30_996	23	Rep-aa64_23_reptiles-2_419	23	0	Crocodylus	Reptiles	100.0
+taxongroup	Gal-c120_2_tortoise-18	Gal-c120_2_tortoise-7	Gal-c120_2_tortoise-18_2331	2	Gal-c120_2_tortoise-7_4205	2	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Gre-8842_126_tortoises-19	Gre-8842_126_tortoises-19	Gre-8842_126_tortoises-19_2331	126	Gre-8842_126_tortoises-19_4205	126	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Gal-c120_2_tortoise-3	Gal-c120_2_tortoise-3	Gal-c120_2_tortoise-3_2331	2	Gal-c120_2_tortoise-3_4205	2	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-17_53	276	Cro-0859_276_crocodile-58_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Gal-c120_168_tortoise-19	Gal-c120_168_tortoise-19	Gal-c120_168_tortoise-19_2331	168	Gal-c120_168_tortoise-19_4205	168	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Gal-c120_2_tortoise-18	Gal-c120_2_tortoise-3	Gal-c120_2_tortoise-18_2331	2	Gal-c120_2_tortoise-3_4205	2	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Gal-c120_2_tortoise-18	Gal-c120_2_tortoise-18	Gal-c120_2_tortoise-18_2331	2	Gal-c120_2_tortoise-18_4205	2	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Gal-c120_23_tortoises-12	Gal-c120_23_tortoises-12	Gal-c120_23_tortoises-12_2331	23	Gal-c120_23_tortoises-12_4205	23	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Gal-c120_2_tortoise-3	Gal-c120_2_tortoise-7	Gal-c120_2_tortoise-3_2331	2	Gal-c120_2_tortoise-7_4205	2	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Gal-c120_23_tortoises-12	Gal-c120_23_tortoises-3	Gal-c120_23_tortoises-12_2331	23	Gal-c120_23_tortoises-3_4205	23	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Gal-c120_2_tortoise-7	Gal-c120_2_tortoise-18	Gal-c120_2_tortoise-7_2331	2	Gal-c120_2_tortoise-18_4205	2	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Gal-c120_2_tortoise-7	Gal-c120_2_tortoise-3	Gal-c120_2_tortoise-7_2331	2	Gal-c120_2_tortoise-3_4205	2	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Gal-c120_2_tortoise-3	Gal-c120_2_tortoise-18	Gal-c120_2_tortoise-3_2331	2	Gal-c120_2_tortoise-18_4205	2	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Gal-c120_168_tortoise-9	Gal-c120_168_tortoise-9	Gal-c120_168_tortoise-9_2331	168	Gal-c120_168_tortoise-9_4205	168	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Gal-c120_168_tortoise-9	Gal-c120_168_tortoise-19	Gal-c120_168_tortoise-9_2331	168	Gal-c120_168_tortoise-19_4205	168	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Gal-c120_23_tortoises-3	Gal-c120_23_tortoises-12	Gal-c120_23_tortoises-3_2331	23	Gal-c120_23_tortoises-12_4205	23	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Gal-c120_2_tortoise-7	Gal-c120_2_tortoise-7	Gal-c120_2_tortoise-7_2331	2	Gal-c120_2_tortoise-7_4205	2	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Nil-600c_160_crocodiles-29	Nil-600c_160_crocodile-22	Nil-600c_160_crocodiles-29_53	160	Nil-600c_160_crocodile-22_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Nil-600c_160_crocodiles-29	Nil-600c_160_crocodiles-29	Nil-600c_160_crocodiles-29_53	160	Nil-600c_160_crocodiles-29_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-50_53	276	Cro-0859_276_crocodile-53_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-50_53	276	Cro-0859_276_crocodile-44_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-50_53	276	Cro-0859_276_crocodile-39_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-50_53	276	Cro-0859_276_crocodile-17_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-50_53	276	Cro-0859_276_crocodile-29_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-50_53	276	Cro-0859_276_crocodile-34_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-24	Cro-9102_459_crocodile-16	Cro-9102_459_crocodile-24_53	459	Cro-9102_459_crocodile-16_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-16	Cro-9102_459_crocodile-24	Cro-9102_459_crocodile-16_53	459	Cro-9102_459_crocodile-24_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-20	Cro-9102_459_crocodile-24	Cro-9102_459_crocodile-20_53	459	Cro-9102_459_crocodile-24_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-20	Cro-9102_459_crocodile-20	Cro-9102_459_crocodile-20_53	459	Cro-9102_459_crocodile-20_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-32	Cro-9102_459_crocodile-32	Cro-9102_459_crocodile-32_53	459	Cro-9102_459_crocodile-32_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-32	Cro-9102_459_crocodile-24	Cro-9102_459_crocodile-32_53	459	Cro-9102_459_crocodile-24_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-17_53	276	Cro-0859_276_crocodile-29_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Nil-600c_160_crocodiles-29	Nil-600c_160_crocodile-12	Nil-600c_160_crocodiles-29_53	160	Nil-600c_160_crocodile-12_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Nil-600c_160_crocodile-12	Nil-600c_160_crocodiles-29	Nil-600c_160_crocodile-12_53	160	Nil-600c_160_crocodiles-29_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Nil-600c_160_crocodile-12	Nil-600c_160_crocodile-22	Nil-600c_160_crocodile-12_53	160	Nil-600c_160_crocodile-22_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Nil-600c_160_crocodile-12	Nil-600c_160_crocodile-18	Nil-600c_160_crocodile-12_53	160	Nil-600c_160_crocodile-18_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Nil-600c_160_crocodile-12	Nil-600c_160_crocodile-12	Nil-600c_160_crocodile-12_53	160	Nil-600c_160_crocodile-12_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Nil-600c_160_crocodile-18	Nil-600c_160_crocodile-12	Nil-600c_160_crocodile-18_53	160	Nil-600c_160_crocodile-12_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Nil-600c_160_crocodile-18	Nil-600c_160_crocodile-18	Nil-600c_160_crocodile-18_53	160	Nil-600c_160_crocodile-18_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Nil-600c_160_crocodile-18	Nil-600c_160_crocodile-22	Nil-600c_160_crocodile-18_53	160	Nil-600c_160_crocodile-22_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Nil-600c_160_crocodile-18	Nil-600c_160_crocodiles-29	Nil-600c_160_crocodile-18_53	160	Nil-600c_160_crocodiles-29_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Nil-600c_160_crocodile-22	Nil-600c_160_crocodile-12	Nil-600c_160_crocodile-22_53	160	Nil-600c_160_crocodile-12_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Nil-600c_160_crocodiles-29	Nil-600c_160_crocodile-18	Nil-600c_160_crocodiles-29_53	160	Nil-600c_160_crocodile-18_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Par-5c6e_232_crocodile-4	Par-5c6e_232_crocodile-4	Par-5c6e_232_crocodile-4_53	232	Par-5c6e_232_crocodile-4_4303	232	0	American crocodile	crocodiles	100.0
+taxongroup	Nil-600c_160_crocodile-22	Nil-600c_160_crocodile-18	Nil-600c_160_crocodile-22_53	160	Nil-600c_160_crocodile-18_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Nil-600c_160_crocodile-22	Nil-600c_160_crocodile-22	Nil-600c_160_crocodile-22_53	160	Nil-600c_160_crocodile-22_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Nil-600c_160_crocodile-22	Nil-600c_160_crocodiles-29	Nil-600c_160_crocodile-22_53	160	Nil-600c_160_crocodiles-29_4303	160	0	American crocodile	crocodiles	100.0
+taxongroup	Gal-c120_168_tortoise-19	Gal-c120_168_tortoise-9	Gal-c120_168_tortoise-19_2331	168	Gal-c120_168_tortoise-9_4205	168	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Galddd4_8_tortoise-25	Galddd4_8_tortoise-25	Galddd4_8_tortoise-25_2331	8	Galddd4_8_tortoise-25_4205	8	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Galddd4_10_tortoise-3	Galddd4_10_tortoise-3	Galddd4_10_tortoise-3_2331	10	Galddd4_10_tortoise-3_4205	10	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Galddd4_3_tortoise-3	Galddd4_3_tortoise-3	Galddd4_3_tortoise-3_2331	3	Galddd4_3_tortoise-3_4205	3	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Galddd4_7_tortoises-3	Galddd4_7_tortoises-3	Galddd4_7_tortoises-3_2331	7	Galddd4_7_tortoises-3_4205	7	0	Galápagos giant tortoise	tortoises	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-50_53	276	Cro-0859_276_crocodile-50_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-50_53	276	Cro-0859_276_crocodile-61_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_186_crocodile-37	Ame-fe9c_186_crocodiles-24	Ame-fe9c_186_crocodile-37_53	186	Ame-fe9c_186_crocodiles-24_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_106_crocodiles-3	Ame-fe9c_106_crocodiles-3	Ame-fe9c_106_crocodiles-3_53	106	Ame-fe9c_106_crocodiles-3_4303	106	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_186_crocodile-3	Ame-fe9c_186_crocodiles-24	Ame-fe9c_186_crocodile-3_53	186	Ame-fe9c_186_crocodiles-24_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_111_crocodiles-2	Ame-fe9c_111_crocodiles-2	Ame-fe9c_111_crocodiles-2_53	111	Ame-fe9c_111_crocodiles-2_4303	111	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_102_crocodiles-2	Ame-fe9c_102_crocodiles-2	Ame-fe9c_102_crocodiles-2_53	102	Ame-fe9c_102_crocodiles-2_4303	102	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_138_crocodile-25	Ame-fe9c_138_crocodile-25	Ame-fe9c_138_crocodile-25_53	138	Ame-fe9c_138_crocodile-25_4303	138	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_139_crocodile-26	Ame-fe9c_139_crocodile-7	Ame-fe9c_139_crocodile-26_53	139	Ame-fe9c_139_crocodile-7_4303	139	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_186_crocodile-18	Ame-fe9c_186_crocodile-18	Ame-fe9c_186_crocodile-18_53	186	Ame-fe9c_186_crocodile-18_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_186_crocodile-18	Ame-fe9c_186_crocodile-37	Ame-fe9c_186_crocodile-18_53	186	Ame-fe9c_186_crocodile-37_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_186_crocodile-18	Ame-fe9c_186_crocodile-3	Ame-fe9c_186_crocodile-18_53	186	Ame-fe9c_186_crocodile-3_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_186_crocodile-18	Ame-fe9c_186_crocodiles-24	Ame-fe9c_186_crocodile-18_53	186	Ame-fe9c_186_crocodiles-24_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_186_crocodile-37	Ame-fe9c_186_crocodile-18	Ame-fe9c_186_crocodile-37_53	186	Ame-fe9c_186_crocodile-18_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_186_crocodile-37	Ame-fe9c_186_crocodile-37	Ame-fe9c_186_crocodile-37_53	186	Ame-fe9c_186_crocodile-37_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_186_crocodile-37	Ame-fe9c_186_crocodile-3	Ame-fe9c_186_crocodile-37_53	186	Ame-fe9c_186_crocodile-3_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_154_crocodile-15	Ame-fe9c_154_crocodile-15	Ame-fe9c_154_crocodile-15_53	154	Ame-fe9c_154_crocodile-15_4303	154	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-50_53	276	Cro-0859_276_crocodile-9_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_14_crocodiles-2	Ame-fe9c_14_crocodiles-2	Ame-fe9c_14_crocodiles-2_53	14	Ame-fe9c_14_crocodiles-2_4303	14	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_142_crocodiles-2	Ame-fe9c_142_crocodiles-2	Ame-fe9c_142_crocodiles-2_53	142	Ame-fe9c_142_crocodiles-2_4303	142	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_140_crocodile-2	Ame-fe9c_140_crocodile-2	Ame-fe9c_140_crocodile-2_53	140	Ame-fe9c_140_crocodile-2_4303	140	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_159_crocodiles-10	Ame-fe9c_159_crocodiles-10	Ame-fe9c_159_crocodiles-10_53	159	Ame-fe9c_159_crocodiles-10_4303	159	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_164_crocodiles-10	Ame-fe9c_164_crocodiles-10	Ame-fe9c_164_crocodiles-10_53	164	Ame-fe9c_164_crocodiles-10_4303	164	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_167_crocodiles-6	Ame-fe9c_167_crocodiles-6	Ame-fe9c_167_crocodiles-6_53	167	Ame-fe9c_167_crocodiles-6_4303	167	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_168_crocodile-2	Ame-fe9c_168_crocodile-2	Ame-fe9c_168_crocodile-2_53	168	Ame-fe9c_168_crocodile-2_4303	168	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_16_crocodile-2	Ame-fe9c_16_crocodile-2	Ame-fe9c_16_crocodile-2_53	16	Ame-fe9c_16_crocodile-2_4303	16	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_170_crocodile-17	Ame-fe9c_170_crocodile-17	Ame-fe9c_170_crocodile-17_53	170	Ame-fe9c_170_crocodile-17_4303	170	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_154_crocodile-29	Ame-fe9c_154_crocodile-29	Ame-fe9c_154_crocodile-29_53	154	Ame-fe9c_154_crocodile-29_4303	154	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_100_crocodile-2	Ame-fe9c_100_crocodile-2	Ame-fe9c_100_crocodile-2_53	100	Ame-fe9c_100_crocodile-2_4303	100	0	American crocodile	crocodiles	100.0
+taxongroup	Amee210_1_crocodiles-2	Amee210_1_crocodiles-2	Amee210_1_crocodiles-2_53	1	Amee210_1_crocodiles-2_4303	1	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_158_crocodiles-12	Ame-fe9c_158_crocodiles-12	Ame-fe9c_158_crocodiles-12_53	158	Ame-fe9c_158_crocodiles-12_4303	158	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_106_crocodiles-3	Ame-fe9c_106_crocodile-7	Ame-fe9c_106_crocodiles-3_53	106	Ame-fe9c_106_crocodile-7_4303	106	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_106_crocodile-7	Ame-fe9c_106_crocodiles-3	Ame-fe9c_106_crocodile-7_53	106	Ame-fe9c_106_crocodiles-3_4303	106	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_106_crocodile-7	Ame-fe9c_106_crocodile-7	Ame-fe9c_106_crocodile-7_53	106	Ame-fe9c_106_crocodile-7_4303	106	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_105_crocodiles-2	Ame-fe9c_105_crocodiles-2	Ame-fe9c_105_crocodiles-2_53	105	Ame-fe9c_105_crocodiles-2_4303	105	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_Crocodylus-54	Cro-0859_276_crocodile-50_53	276	Cro-0859_276_Crocodylus-54_996	276	0	American crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_Crocodylus-4	Cro-0859_276_crocodile-50_53	276	Cro-0859_276_Crocodylus-4_996	276	0	American crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_Crocodylus-5	Cro-0859_276_crocodile-50_53	276	Cro-0859_276_Crocodylus-5_996	276	0	American crocodile	Crocodylus	100.0
+taxongroup	Ame-fe9c_186_crocodiles-24	Ame-fe9c_186_crocodile-3	Ame-fe9c_186_crocodiles-24_53	186	Ame-fe9c_186_crocodile-3_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_186_crocodiles-24	Ame-fe9c_186_crocodile-18	Ame-fe9c_186_crocodiles-24_53	186	Ame-fe9c_186_crocodile-18_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_109_crocodile-2	Ame-fe9c_109_crocodile-2	Ame-fe9c_109_crocodile-2_53	109	Ame-fe9c_109_crocodile-2_4303	109	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_186_crocodiles-24	Ame-fe9c_186_crocodile-37	Ame-fe9c_186_crocodiles-24_53	186	Ame-fe9c_186_crocodile-37_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_112_crocodiles-22	Ame-fe9c_112_crocodile-6	Ame-fe9c_112_crocodiles-22_53	112	Ame-fe9c_112_crocodile-6_4303	112	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_116_crocodiles-20	Ame-fe9c_116_crocodiles-20	Ame-fe9c_116_crocodiles-20_53	116	Ame-fe9c_116_crocodiles-20_4303	116	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_115_crocodiles-8	Ame-fe9c_115_crocodiles-8	Ame-fe9c_115_crocodiles-8_53	115	Ame-fe9c_115_crocodiles-8_4303	115	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_123_crocodiles-21	Ame-fe9c_123_crocodiles-21	Ame-fe9c_123_crocodiles-21_53	123	Ame-fe9c_123_crocodiles-21_4303	123	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_114_crocodiles-14	Ame-fe9c_114_crocodiles-14	Ame-fe9c_114_crocodiles-14_53	114	Ame-fe9c_114_crocodiles-14_4303	114	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_112_crocodile-6	Ame-fe9c_112_crocodile-6	Ame-fe9c_112_crocodile-6_53	112	Ame-fe9c_112_crocodile-6_4303	112	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_112_crocodile-6	Ame-fe9c_112_crocodiles-22	Ame-fe9c_112_crocodile-6_53	112	Ame-fe9c_112_crocodiles-22_4303	112	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_112_crocodiles-22	Ame-fe9c_112_crocodiles-22	Ame-fe9c_112_crocodiles-22_53	112	Ame-fe9c_112_crocodiles-22_4303	112	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_138_crocodile-17	Ame-fe9c_138_crocodile-17	Ame-fe9c_138_crocodile-17_53	138	Ame-fe9c_138_crocodile-17_4303	138	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_117_crocodiles-5	Ame-fe9c_117_crocodiles-5	Ame-fe9c_117_crocodiles-5_53	117	Ame-fe9c_117_crocodiles-5_4303	117	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_186_crocodile-3	Ame-fe9c_186_crocodile-3	Ame-fe9c_186_crocodile-3_53	186	Ame-fe9c_186_crocodile-3_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_186_crocodile-3	Ame-fe9c_186_crocodile-18	Ame-fe9c_186_crocodile-3_53	186	Ame-fe9c_186_crocodile-18_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_181_crocodiles-4	Ame-fe9c_181_crocodiles-4	Ame-fe9c_181_crocodiles-4_53	181	Ame-fe9c_181_crocodiles-4_4303	181	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_138_crocodile-17	Ame-fe9c_138_crocodile-25	Ame-fe9c_138_crocodile-17_53	138	Ame-fe9c_138_crocodile-25_4303	138	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_134_crocodile-11	Ame-fe9c_134_crocodile-11	Ame-fe9c_134_crocodile-11_53	134	Ame-fe9c_134_crocodile-11_4303	134	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_138_crocodile-25	Ame-fe9c_138_crocodile-17	Ame-fe9c_138_crocodile-25_53	138	Ame-fe9c_138_crocodile-17_4303	138	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_123_crocodiles-21	Ame-fe9c_123_crocodiles-33	Ame-fe9c_123_crocodiles-21_53	123	Ame-fe9c_123_crocodiles-33_4303	123	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_108_crocodile-8	Ame-fe9c_108_crocodile-8	Ame-fe9c_108_crocodile-8_53	108	Ame-fe9c_108_crocodile-8_4303	108	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_119_crocodiles-41	Ame-fe9c_119_crocodiles-41	Ame-fe9c_119_crocodiles-41_53	119	Ame-fe9c_119_crocodiles-41_4303	119	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_154_crocodile-29	Ame-fe9c_154_crocodile-15	Ame-fe9c_154_crocodile-29_53	154	Ame-fe9c_154_crocodile-15_4303	154	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_177_crocodiles-7	Ame-fe9c_177_crocodiles-7	Ame-fe9c_177_crocodiles-7_53	177	Ame-fe9c_177_crocodiles-7_4303	177	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_172_crocodile-18	Ame-fe9c_172_crocodile-18	Ame-fe9c_172_crocodile-18_53	172	Ame-fe9c_172_crocodile-18_4303	172	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_68_crocodiles-14	Ame-fe9c_68_crocodiles-14	Ame-fe9c_68_crocodiles-14_53	68	Ame-fe9c_68_crocodiles-14_4303	68	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_39_crocodile-8	Ame-fe9c_39_crocodile-8	Ame-fe9c_39_crocodile-8_53	39	Ame-fe9c_39_crocodile-8_4303	39	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_36_crocodile-3	Ame-fe9c_36_crocodile-3	Ame-fe9c_36_crocodile-3_53	36	Ame-fe9c_36_crocodile-3_4303	36	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-16	Cro-9102_459_crocodile-20	Cro-9102_459_crocodile-16_53	459	Cro-9102_459_crocodile-20_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-32	Cro-9102_459_crocodile-16	Cro-9102_459_crocodile-32_53	459	Cro-9102_459_crocodile-16_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-16	Cro-9102_459_crocodile-16	Cro-9102_459_crocodile-16_53	459	Cro-9102_459_crocodile-16_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-32	Cro-9102_459_crocodile-20	Cro-9102_459_crocodile-32_53	459	Cro-9102_459_crocodile-20_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-24	Cro-9102_459_crocodile-32	Cro-9102_459_crocodile-24_53	459	Cro-9102_459_crocodile-32_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-24	Cro-9102_459_crocodile-24	Cro-9102_459_crocodile-24_53	459	Cro-9102_459_crocodile-24_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_362_crocodile-18	Cro-9102_362_crocodile-18	Cro-9102_362_crocodile-18_53	362	Cro-9102_362_crocodile-18_4303	362	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-20	Cro-9102_459_crocodile-32	Cro-9102_459_crocodile-20_53	459	Cro-9102_459_crocodile-32_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-20	Cro-9102_459_crocodile-16	Cro-9102_459_crocodile-20_53	459	Cro-9102_459_crocodile-16_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_255_crocodile-15	Cro-9102_255_crocodile-15	Cro-9102_255_crocodile-15_53	255	Cro-9102_255_crocodile-15_4303	255	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_255_crocodile-15	Cro-9102_255_crocodile-19	Cro-9102_255_crocodile-15_53	255	Cro-9102_255_crocodile-19_4303	255	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_255_crocodile-19	Cro-9102_255_crocodile-15	Cro-9102_255_crocodile-19_53	255	Cro-9102_255_crocodile-15_4303	255	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_255_crocodile-19	Cro-9102_255_crocodile-19	Cro-9102_255_crocodile-19_53	255	Cro-9102_255_crocodile-19_4303	255	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-16	Cro-9102_459_crocodile-32	Cro-9102_459_crocodile-16_53	459	Cro-9102_459_crocodile-32_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-9102_459_crocodile-24	Cro-9102_459_crocodile-20	Cro-9102_459_crocodile-24_53	459	Cro-9102_459_crocodile-20_4303	459	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-44_53	276	Cro-0859_276_crocodile-73_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-50_53	276	Cro-0859_276_crocodile-58_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-17_53	276	Cro-0859_276_crocodile-61_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-17_53	276	Cro-0859_276_crocodile-9_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-50_53	276	Cro-0859_276_crocodile-73_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-17_53	276	Cro-0859_276_crocodile-34_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-17_53	276	Cro-0859_276_crocodile-39_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-17_53	276	Cro-0859_276_crocodile-44_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-17_53	276	Cro-0859_276_crocodile-50_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-17_53	276	Cro-0859_276_crocodile-53_4303	276	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_6_crocodile-19	Ame-fe9c_6_crocodile-19	Ame-fe9c_6_crocodile-19_53	6	Ame-fe9c_6_crocodile-19_4303	6	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_68_crocodiles-14	Ame-fe9c_68_crocodile-3	Ame-fe9c_68_crocodiles-14_53	68	Ame-fe9c_68_crocodile-3_4303	68	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_186_crocodiles-24	Ame-fe9c_186_crocodiles-24	Ame-fe9c_186_crocodiles-24_53	186	Ame-fe9c_186_crocodiles-24_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_68_crocodile-3	Ame-fe9c_68_crocodiles-14	Ame-fe9c_68_crocodile-3_53	68	Ame-fe9c_68_crocodiles-14_4303	68	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_188_crocodiles-19	Ame-fe9c_188_crocodiles-19	Ame-fe9c_188_crocodiles-19_53	188	Ame-fe9c_188_crocodiles-19_4303	188	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_189_crocodile-56	Ame-fe9c_189_crocodile-56	Ame-fe9c_189_crocodile-56_53	189	Ame-fe9c_189_crocodile-56_4303	189	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_186_crocodile-3	Ame-fe9c_186_crocodile-37	Ame-fe9c_186_crocodile-3_53	186	Ame-fe9c_186_crocodile-37_4303	186	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_139_crocodile-26	Ame-fe9c_139_crocodile-26	Ame-fe9c_139_crocodile-26_53	139	Ame-fe9c_139_crocodile-26_4303	139	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_180_crocodile-2	Ame-fe9c_180_crocodile-2	Ame-fe9c_180_crocodile-2_53	180	Ame-fe9c_180_crocodile-2_4303	180	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_139_crocodile-7	Ame-fe9c_139_crocodile-26	Ame-fe9c_139_crocodile-7_53	139	Ame-fe9c_139_crocodile-26_4303	139	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_154_crocodile-15	Ame-fe9c_154_crocodile-29	Ame-fe9c_154_crocodile-15_53	154	Ame-fe9c_154_crocodile-29_4303	154	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_139_crocodile-7	Ame-fe9c_139_crocodile-7	Ame-fe9c_139_crocodile-7_53	139	Ame-fe9c_139_crocodile-7_4303	139	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_13_crocodile-9	Ame-fe9c_13_crocodile-9	Ame-fe9c_13_crocodile-9_53	13	Ame-fe9c_13_crocodile-9_4303	13	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_15_crocodile-6	Ame-fe9c_15_crocodile-6	Ame-fe9c_15_crocodile-6_53	15	Ame-fe9c_15_crocodile-6_4303	15	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_101_crocodiles-2	Ame-fe9c_101_crocodiles-2	Ame-fe9c_101_crocodiles-2_53	101	Ame-fe9c_101_crocodiles-2_4303	101	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_9_crocodile-9	Ame-fe9c_9_crocodile-9	Ame-fe9c_9_crocodile-9_53	9	Ame-fe9c_9_crocodile-9_4303	9	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_57_crocodiles-4	Ame-fe9c_57_crocodiles-4	Ame-fe9c_57_crocodiles-4_53	57	Ame-fe9c_57_crocodiles-4_4303	57	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_67_crocodile-2	Ame-fe9c_67_crocodile-2	Ame-fe9c_67_crocodile-2_53	67	Ame-fe9c_67_crocodile-2_4303	67	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_68_crocodile-3	Ame-fe9c_68_crocodile-3	Ame-fe9c_68_crocodile-3_53	68	Ame-fe9c_68_crocodile-3_4303	68	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_104_crocodile-25	Ame-fe9c_104_crocodile-25	Ame-fe9c_104_crocodile-25_53	104	Ame-fe9c_104_crocodile-25_4303	104	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_46_crocodiles-2	Ame-fe9c_46_crocodiles-2	Ame-fe9c_46_crocodiles-2_53	46	Ame-fe9c_46_crocodiles-2_4303	46	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_4_crocodile-6	Ame-fe9c_4_crocodile-6	Ame-fe9c_4_crocodile-6_53	4	Ame-fe9c_4_crocodile-6_4303	4	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_137_crocodiles-23	Ame-fe9c_137_crocodiles-23	Ame-fe9c_137_crocodiles-23_53	137	Ame-fe9c_137_crocodiles-23_4303	137	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_62_crocodiles-16	Ame-fe9c_62_crocodiles-16	Ame-fe9c_62_crocodiles-16_53	62	Ame-fe9c_62_crocodiles-16_4303	62	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_51_crocodile-11	Ame-fe9c_51_crocodile-11	Ame-fe9c_51_crocodile-11_53	51	Ame-fe9c_51_crocodile-11_4303	51	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_51_crocodile-11	Ame-fe9c_51_crocodile-3	Ame-fe9c_51_crocodile-11_53	51	Ame-fe9c_51_crocodile-3_4303	51	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_51_crocodile-3	Ame-fe9c_51_crocodile-11	Ame-fe9c_51_crocodile-3_53	51	Ame-fe9c_51_crocodile-11_4303	51	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_51_crocodile-3	Ame-fe9c_51_crocodile-3	Ame-fe9c_51_crocodile-3_53	51	Ame-fe9c_51_crocodile-3_4303	51	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_52_crocodile-2	Ame-fe9c_52_crocodile-2	Ame-fe9c_52_crocodile-2_53	52	Ame-fe9c_52_crocodile-2_4303	52	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_55_crocodiles-6	Ame-fe9c_55_crocodiles-6	Ame-fe9c_55_crocodiles-6_53	55	Ame-fe9c_55_crocodiles-6_4303	55	0	American crocodile	crocodiles	100.0
+taxongroup	Ame-fe9c_56_crocodiles-19	Ame-fe9c_56_crocodiles-19	Ame-fe9c_56_crocodiles-19_53	56	Ame-fe9c_56_crocodiles-19_4303	56	0	American crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_crocodile-53_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_crocodile-73_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_144_crocodile-46	Cro-0859_144_crocodiles-5	Cro-0859_144_crocodile-46_2912	144	Cro-0859_144_crocodiles-5_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_132_crocodiles-16	Cro-0859_132_crocodiles-16	Cro-0859_132_crocodiles-16_2912	132	Cro-0859_132_crocodiles-16_4303	132	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-39_2912	276	Cro-0859_276_crocodile-9_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-8	Cro-0859_172_crocodiles-8	Cro-0859_172_crocodiles-8_2912	172	Cro-0859_172_crocodiles-8_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-8	Cro-0859_172_crocodiles-26	Cro-0859_172_crocodiles-8_2912	172	Cro-0859_172_crocodiles-26_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-8	Cro-0859_172_crocodiles-20	Cro-0859_172_crocodiles-8_2912	172	Cro-0859_172_crocodiles-20_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-39_2912	276	Cro-0859_276_crocodile-61_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-8	Cro-0859_172_crocodiles-16	Cro-0859_172_crocodiles-8_2912	172	Cro-0859_172_crocodiles-16_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_crocodile-9_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-39_2912	276	Cro-0859_276_crocodile-73_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_crocodile-53_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-73_2912	276	Cro-0859_276_crocodile-29_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_crocodile-29_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-20	Cro-0859_172_crocodiles-26	Cro-0859_172_crocodiles-20_2912	172	Cro-0859_172_crocodiles-26_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_144_crocodile-23	Cro-0859_144_crocodile-23	Cro-0859_144_crocodile-23_2912	144	Cro-0859_144_crocodile-23_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_144_crocodile-23	Cro-0859_144_crocodile-32	Cro-0859_144_crocodile-23_2912	144	Cro-0859_144_crocodile-32_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_144_crocodile-23	Cro-0859_144_crocodile-46	Cro-0859_144_crocodile-23_2912	144	Cro-0859_144_crocodile-46_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_144_crocodile-23	Cro-0859_144_crocodiles-5	Cro-0859_144_crocodile-23_2912	144	Cro-0859_144_crocodiles-5_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-20	Cro-0859_172_crocodiles-20	Cro-0859_172_crocodiles-20_2912	172	Cro-0859_172_crocodiles-20_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-20	Cro-0859_172_crocodiles-16	Cro-0859_172_crocodiles-20_2912	172	Cro-0859_172_crocodiles-16_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-20	Cro-0859_172_crocodiles-8	Cro-0859_172_crocodiles-20_2912	172	Cro-0859_172_crocodiles-8_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_199_crocodiles-8	Cro-0859_199_crocodiles-8	Cro-0859_199_crocodiles-8_2912	199	Cro-0859_199_crocodiles-8_4303	199	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_199_crocodiles-8	Cro-0859_199_crocodile-16	Cro-0859_199_crocodiles-8_2912	199	Cro-0859_199_crocodile-16_4303	199	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_crocodile-34_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_crocodile-17_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_144_crocodile-46	Cro-0859_144_crocodile-23	Cro-0859_144_crocodile-46_2912	144	Cro-0859_144_crocodile-23_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_crocodile-44_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Afr-324e_51_crocodile-6	Afr-324e_51_crocodile-6	Afr-324e_51_crocodile-6_2912	51	Afr-324e_51_crocodile-6_4303	51	0	Nile crocodile	crocodiles	100.0
+taxongroup	Afr-324e_142_crocodiles-38	Afr-324e_142_crocodiles-38	Afr-324e_142_crocodiles-38_2912	142	Afr-324e_142_crocodiles-38_4303	142	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_crocodile-50_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_crocodile-44_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_crocodile-39_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_271_crocodile-18	Cro-0859_271_crocodile-26	Cro-0859_271_crocodile-18_2912	271	Cro-0859_271_crocodile-26_4303	271	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-39_2912	276	Cro-0859_276_crocodile-58_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-39_2912	276	Cro-0859_276_crocodile-53_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-73_2912	276	Cro-0859_276_crocodile-17_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-39_2912	276	Cro-0859_276_crocodile-50_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Afr-324e_9_crocodiles-19	Afr-324e_9_crocodiles-19	Afr-324e_9_crocodiles-19_2912	9	Afr-324e_9_crocodiles-19_4303	9	0	Nile crocodile	crocodiles	100.0
+taxongroup	All-0a8b_4_crocodile-26	All-0a8b_4_crocodile-26	All-0a8b_4_crocodile-26_2912	4	All-0a8b_4_crocodile-26_4303	4	0	Nile crocodile	crocodiles	100.0
+taxongroup	Afr-354e_31_crocodile-3	Afr-354e_31_crocodile-3	Afr-354e_31_crocodile-3_2912	31	Afr-354e_31_crocodile-3_4303	31	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-73_2912	276	Cro-0859_276_crocodile-34_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_crocodile-53_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_crocodile-58_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_crocodile-61_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-44_2912	276	Cro-0859_276_crocodile-39_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-44_2912	276	Cro-0859_276_crocodile-44_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-44_2912	276	Cro-0859_276_crocodile-50_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-44_2912	276	Cro-0859_276_crocodile-53_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_144_crocodile-32	Cro-0859_144_crocodile-32	Cro-0859_144_crocodile-32_2912	144	Cro-0859_144_crocodile-32_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_144_crocodile-32	Cro-0859_144_crocodile-23	Cro-0859_144_crocodile-32_2912	144	Cro-0859_144_crocodile-23_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_crocodile-73_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_132_crocodiles-16	Cro-0859_132_crocodile-25	Cro-0859_132_crocodiles-16_2912	132	Cro-0859_132_crocodile-25_4303	132	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_132_crocodiles-16	Cro-0859_132_crocodile-29	Cro-0859_132_crocodiles-16_2912	132	Cro-0859_132_crocodile-29_4303	132	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_crocodile-17_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_crocodile-73_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_crocodile-9_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_crocodile-34_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_crocodile-39_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_crocodile-44_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-73_2912	276	Cro-0859_276_crocodile-73_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-73_2912	276	Cro-0859_276_crocodile-9_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-26	Cro-0859_172_crocodiles-8	Cro-0859_172_crocodiles-26_2912	172	Cro-0859_172_crocodiles-8_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-73_2912	276	Cro-0859_276_crocodile-44_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_crocodile-9_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_crocodile-29_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_144_crocodile-46	Cro-0859_144_crocodile-32	Cro-0859_144_crocodile-46_2912	144	Cro-0859_144_crocodile-32_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_crocodile-17_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_crocodile-50_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_199_crocodile-16	Cro-0859_199_crocodile-16	Cro-0859_199_crocodile-16_2912	199	Cro-0859_199_crocodile-16_4303	199	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_crocodile-73_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_crocodile-9_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-26	Cro-0859_172_crocodiles-12	Cro-0859_172_crocodiles-26_2912	172	Cro-0859_172_crocodiles-12_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-26	Cro-0859_172_crocodiles-16	Cro-0859_172_crocodiles-26_2912	172	Cro-0859_172_crocodiles-16_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-26	Cro-0859_172_crocodiles-20	Cro-0859_172_crocodiles-26_2912	172	Cro-0859_172_crocodiles-20_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-26	Cro-0859_172_crocodiles-26	Cro-0859_172_crocodiles-26_2912	172	Cro-0859_172_crocodiles-26_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_crocodile-9_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_crocodile-73_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_crocodile-61_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_crocodile-58_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_crocodile-53_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_crocodile-61_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_crocodile-58_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_crocodile-39_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_crocodile-29_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-44_2912	276	Cro-0859_276_crocodile-58_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_199_crocodile-16	Cro-0859_199_crocodiles-8	Cro-0859_199_crocodile-16_2912	199	Cro-0859_199_crocodiles-8_4303	199	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-44_2912	276	Cro-0859_276_crocodile-29_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-44_2912	276	Cro-0859_276_crocodile-34_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_crocodile-50_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_crocodile-44_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_crocodile-39_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_crocodile-34_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_crocodile-29_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-20	Cro-0859_172_crocodiles-12	Cro-0859_172_crocodiles-20_2912	172	Cro-0859_172_crocodiles-12_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-44_2912	276	Cro-0859_276_crocodile-17_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_271_crocodile-18	Cro-0859_271_crocodile-18	Cro-0859_271_crocodile-18_2912	271	Cro-0859_271_crocodile-18_4303	271	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-8	Cro-0859_172_crocodiles-12	Cro-0859_172_crocodiles-8_2912	172	Cro-0859_172_crocodiles-12_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro7176_24_crocodile-9	Cro7176_24_crocodile-3	Cro7176_24_crocodile-9_2912	24	Cro7176_24_crocodile-3_4303	24	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro7176_24_crocodile-9	Cro7176_24_crocodile-9	Cro7176_24_crocodile-9_2912	24	Cro7176_24_crocodile-9_4303	24	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro7176_24_crocodile-3	Cro7176_24_crocodile-9	Cro7176_24_crocodile-3_2912	24	Cro7176_24_crocodile-9_4303	24	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_crocodile-44_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_132_crocodile-25	Cro-0859_132_crocodile-25	Cro-0859_132_crocodile-25_2912	132	Cro-0859_132_crocodile-25_4303	132	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_132_crocodile-25	Cro-0859_132_crocodiles-16	Cro-0859_132_crocodile-25_2912	132	Cro-0859_132_crocodiles-16_4303	132	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_crocodile-50_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_crocodile-58_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-73_2912	276	Cro-0859_276_crocodile-61_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-73_2912	276	Cro-0859_276_crocodile-53_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-73_2912	276	Cro-0859_276_crocodile-50_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-73_2912	276	Cro-0859_276_crocodile-39_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_crocodile-50_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_144_crocodile-46	Cro-0859_144_crocodile-46	Cro-0859_144_crocodile-46_2912	144	Cro-0859_144_crocodile-46_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_crocodile-61_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_Crocodylus-5	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_Crocodylus-5_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_Crocodylus-10	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_Crocodylus-10_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_Crocodylus-25	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_Crocodylus-25_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_Crocodylus-4	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_Crocodylus-4_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_Crocodylus-25	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_Crocodylus-25_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_Crocodylus-10	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_Crocodylus-10_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_Crocodylus-4	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_Crocodylus-4_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_Crocodylus-54	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_Crocodylus-54_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-73	Cro-0859_276_Crocodylus-54	Cro-0859_276_crocodile-73_2912	276	Cro-0859_276_Crocodylus-54_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_Crocodylus-5	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_Crocodylus-5_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_Crocodylus-4	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_Crocodylus-4_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_Crocodylus-5	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_Crocodylus-5_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_Crocodylus-54	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_Crocodylus-54_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_Crocodylus-4	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_Crocodylus-4_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_Crocodylus-25	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_Crocodylus-25_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-9	Cro-0859_276_Crocodylus-10	Cro-0859_276_crocodile-9_2912	276	Cro-0859_276_Crocodylus-10_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-73	Cro-0859_276_Crocodylus-5	Cro-0859_276_crocodile-73_2912	276	Cro-0859_276_Crocodylus-5_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_Crocodylus-54	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_Crocodylus-54_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-50	Cro-0859_276_Crocodylus-10	Cro-0859_276_crocodile-50_2912	276	Cro-0859_276_Crocodylus-10_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_Crocodylus-25	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_Crocodylus-25_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_Crocodylus-10	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_Crocodylus-10_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-53	Cro-0859_276_Crocodylus-5	Cro-0859_276_crocodile-53_2912	276	Cro-0859_276_Crocodylus-5_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_Crocodylus-54	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_Crocodylus-54_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_Crocodylus-54	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_Crocodylus-54_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_Crocodylus-10	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_Crocodylus-10_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_Crocodylus-4	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_Crocodylus-4_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_Crocodylus-54	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_Crocodylus-54_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_Crocodylus-5	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_Crocodylus-5_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Afr-324e_51_crocodile-6	Afr-324e_51_animals-12	Afr-324e_51_crocodile-6_2912	51	Afr-324e_51_animals-12_44	51	0	Nile crocodile	Animals	100.0
+taxongroup	Cro7176_24_crocodile-3	Cro7176_24_Crocodile-6	Cro7176_24_crocodile-3_2912	24	Cro7176_24_Crocodile-6_997	24	0	Nile crocodile	Crocodiles	100.0
+taxongroup	Cro7176_24_crocodile-9	Cro7176_24_Crocodile-6	Cro7176_24_crocodile-9_2912	24	Cro7176_24_Crocodile-6_997	24	0	Nile crocodile	Crocodiles	100.0
+taxongroup	Cro-0859_271_crocodile-26	Cro-0859_271_Crocodylidae-1	Cro-0859_271_crocodile-26_2912	271	Cro-0859_271_Crocodylidae-1_555	271	0	Nile crocodile	Crocodylidae	100.0
+taxongroup	Cro-0859_271_crocodile-18	Cro-0859_271_Crocodylidae-1	Cro-0859_271_crocodile-18_2912	271	Cro-0859_271_Crocodylidae-1_555	271	0	Nile crocodile	Crocodylidae	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_Crocodylus-5	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_Crocodylus-5_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_Crocodylus-25	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_Crocodylus-25_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_Crocodylus-54	Cro-0859_276_crocodile-17_2912	276	Cro-0859_276_Crocodylus-54_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_Crocodylus-10	Cro-0859_276_crocodile-17_2912	276	Cro-0859_276_Crocodylus-10_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_Crocodylus-25	Cro-0859_276_crocodile-17_2912	276	Cro-0859_276_Crocodylus-25_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_Crocodylus-4	Cro-0859_276_crocodile-17_2912	276	Cro-0859_276_Crocodylus-4_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_Crocodylus-4	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_Crocodylus-4_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_Crocodylus-25	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_Crocodylus-25_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-61	Cro-0859_276_Crocodylus-10	Cro-0859_276_crocodile-61_2912	276	Cro-0859_276_Crocodylus-10_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_144_crocodile-32	Cro-0859_144_crocodiles-5	Cro-0859_144_crocodile-32_2912	144	Cro-0859_144_crocodiles-5_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_172_crocodiles-16	Cro-0859_172_crocodiles-8	Cro-0859_172_crocodiles-16_2912	172	Cro-0859_172_crocodiles-8_4303	172	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_144_crocodiles-5	Cro-0859_144_crocodile-23	Cro-0859_144_crocodiles-5_2912	144	Cro-0859_144_crocodile-23_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_190_crocodile-17	Cro-0859_190_crocodile-17	Cro-0859_190_crocodile-17_2912	190	Cro-0859_190_crocodile-17_4303	190	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_crocodile-17_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_crocodile-29_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_crocodile-34_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_crocodile-39_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_60_crocodiles-7	Cro-0859_60_crocodiles-7	Cro-0859_60_crocodiles-7_2912	60	Cro-0859_60_crocodiles-7_4303	60	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_60_crocodiles-7	Cro-0859_60_crocodile-22	Cro-0859_60_crocodiles-7_2912	60	Cro-0859_60_crocodile-22_4303	60	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cen-cfeb_32_crocodile-23	Cen-cfeb_32_crocodile-23	Cen-cfeb_32_crocodile-23_2912	32	Cen-cfeb_32_crocodile-23_4303	32	0	Nile crocodile	crocodiles	100.0
+taxongroup	Bab-06fc_14_crocodiles-6	Bab-06fc_14_crocodiles-6	Bab-06fc_14_crocodiles-6_2912	14	Bab-06fc_14_crocodiles-6_4303	14	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_144_crocodiles-5	Cro-0859_144_crocodiles-5	Cro-0859_144_crocodiles-5_2912	144	Cro-0859_144_crocodiles-5_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_crocodile-17_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-73_2912	276	Cro-0859_276_crocodile-58_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-34_2912	276	Cro-0859_276_crocodile-34_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_crocodile-58_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_crocodile-53_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_144_crocodiles-5	Cro-0859_144_crocodile-32	Cro-0859_144_crocodiles-5_2912	144	Cro-0859_144_crocodile-32_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_153_crocodile-2	Cro-0859_153_crocodile-2	Cro-0859_153_crocodile-2_2912	153	Cro-0859_153_crocodile-2_4303	153	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_144_crocodiles-5	Cro-0859_144_crocodile-46	Cro-0859_144_crocodiles-5_2912	144	Cro-0859_144_crocodile-46_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-17_2912	276	Cro-0859_276_crocodile-17_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-44_2912	276	Cro-0859_276_crocodile-9_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-44_2912	276	Cro-0859_276_crocodile-61_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_Crocodylus-10	Cro-0859_276_crocodile-44_2912	276	Cro-0859_276_Crocodylus-10_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_144_crocodile-32	Cro-0859_144_crocodile-46	Cro-0859_144_crocodile-32_2912	144	Cro-0859_144_crocodile-46_4303	144	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_Crocodylus-25	Cro-0859_276_crocodile-44_2912	276	Cro-0859_276_Crocodylus-25_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_Crocodylus-4	Cro-0859_276_crocodile-44_2912	276	Cro-0859_276_Crocodylus-4_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_Crocodylus-54	Cro-0859_276_crocodile-44_2912	276	Cro-0859_276_Crocodylus-54_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-44	Cro-0859_276_Crocodylus-5	Cro-0859_276_crocodile-44_2912	276	Cro-0859_276_Crocodylus-5_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_Crocodylus-5	Cro-0859_276_crocodile-17_2912	276	Cro-0859_276_Crocodylus-5_996	276	0	Nile crocodile	Crocodylus	100.0
+taxongroup	Nil-600c_36_crocodile-16	Nil-600c_36_crocodile-16	Nil-600c_36_crocodile-16_2912	36	Nil-600c_36_crocodile-16_4303	36	0	Nile crocodile	crocodiles	100.0
+taxongroup	Bla-4edd_107_crocodiles-13	Bla-4edd_107_crocodiles-13	Bla-4edd_107_crocodiles-13_2912	107	Bla-4edd_107_crocodiles-13_4303	107	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_60_crocodile-22	Cro-0859_60_crocodile-22	Cro-0859_60_crocodile-22_2912	60	Cro-0859_60_crocodile-22_4303	60	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_60_crocodile-22	Cro-0859_60_crocodiles-7	Cro-0859_60_crocodile-22_2912	60	Cro-0859_60_crocodiles-7_4303	60	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_271_crocodile-26	Cro-0859_271_crocodile-26	Cro-0859_271_crocodile-26_2912	271	Cro-0859_271_crocodile-26_4303	271	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_271_crocodile-26	Cro-0859_271_crocodile-18	Cro-0859_271_crocodile-26_2912	271	Cro-0859_271_crocodile-18_4303	271	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-17_2912	276	Cro-0859_276_crocodile-73_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-9	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_crocodile-9_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-73	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_crocodile-73_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_crocodile-61_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-53	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_crocodile-53_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-50	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_crocodile-50_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-44	Cro-0859_276_crocodile-29_2912	276	Cro-0859_276_crocodile-44_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-39	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_crocodile-39_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-34	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_crocodile-34_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-29	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_crocodile-29_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-17	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_crocodile-17_4303	276	0	Nile crocodile	crocodiles	100.0
+taxongroup	Cro-0859_276_crocodile-58	Cro-0859_276_crocodile-61	Cro-0859_276_crocodile-58_2912	276	Cro-0859_276_crocodile-61_4303	276	0	Nile crocodile	crocodiles	100.0

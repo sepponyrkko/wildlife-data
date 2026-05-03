@@ -1,0 +1,1073 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Gol-1dbf_254_eagles-4	Gol-1dbf_254_deserts-13	Gol-1dbf_254_eagles-4_3857	254	Gol-1dbf_254_deserts-13_3805	254	0	golden eagle	desert	100.0
+location	Wes-9ef7_47_harriers-5	Wes-9ef7_47_wetland-12	Wes-9ef7_47_harriers-5_4343	47	Wes-9ef7_47_wetland-12_4542	47	0	harriers	wetlands	100.0
+location	Hen-610d_98_harrier-3	Hen-610d_98_moorland-13	Hen-610d_98_harrier-3_3868	98	Hen-610d_98_moorland-13_4526	98	0	hen harrier	moorland	100.0
+location	Eur-bc75_400_harrier-83	Eur-bc75_400_marsh-52	Eur-bc75_400_harrier-83_3925	400	Eur-bc75_400_marsh-52_3807	400	0	marsh harrier	marsh	100.0
+location	Eur-bc75_400_harrier-54	Eur-bc75_400_marsh-52	Eur-bc75_400_harrier-54_3925	400	Eur-bc75_400_marsh-52_3807	400	0	marsh harrier	marsh	100.0
+location	Har-a313_9_harrier-11	Har-a313_9_marsh-10	Har-a313_9_harrier-11_3925	9	Har-a313_9_marsh-10_3807	9	0	marsh harrier	marsh	100.0
+location	Eur-bc75_400_harrier-69	Eur-bc75_400_marsh-52	Eur-bc75_400_harrier-69_3925	400	Eur-bc75_400_marsh-52_3807	400	0	marsh harrier	marsh	100.0
+location	Har-a313_23_harrier-3	Har-a313_23_marsh-2	Har-a313_23_harrier-3_3925	23	Har-a313_23_marsh-2_3807	23	0	marsh harrier	marsh	100.0
+location	Har-a313_24_harrier-17	Har-a313_24_marsh-6	Har-a313_24_harrier-17_3925	24	Har-a313_24_marsh-6_3807	24	0	marsh harrier	marsh	100.0
+location	Har-a313_24_harrier-7	Har-a313_24_marsh-6	Har-a313_24_harrier-7_3925	24	Har-a313_24_marsh-6_3807	24	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-14	Mar-80c6_8_marsh-13	Mar-80c6_8_harrier-14_3925	8	Mar-80c6_8_marsh-13_3807	8	0	marsh harrier	marsh	100.0
+location	Har-a313_21_harrier-12	Har-a313_21_marsh-11	Har-a313_21_harrier-12_3925	21	Har-a313_21_marsh-11_3807	21	0	marsh harrier	marsh	100.0
+location	Com-f222_150_harrier-30	Com-f222_150_marsh-29	Com-f222_150_harrier-30_3925	150	Com-f222_150_marsh-29_3807	150	0	marsh harrier	marsh	100.0
+location	Harcc28_5_harrier-9	Harcc28_5_marsh-8	Harcc28_5_harrier-9_3925	5	Harcc28_5_marsh-8_3807	5	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_54_harrier-3	Wes-9ef7_54_marsh-2	Wes-9ef7_54_harrier-3_3925	54	Wes-9ef7_54_marsh-2_3807	54	0	marsh harrier	marsh	100.0
+location	Har-a313_21_harrier-3	Har-a313_21_marsh-11	Har-a313_21_harrier-3_3925	21	Har-a313_21_marsh-11_3807	21	0	marsh harrier	marsh	100.0
+location	Gre-e890_127_harrier-24	Gre-e890_127_marsh-23	Gre-e890_127_harrier-24_3925	127	Gre-e890_127_marsh-23_3807	127	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-32	Mar-80c6_8_marsh-5	Mar-80c6_8_harrier-32_3925	8	Mar-80c6_8_marsh-5_3807	8	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-39	Mar-80c6_8_marsh-5	Mar-80c6_8_harrier-39_3925	8	Mar-80c6_8_marsh-5_3807	8	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-39	Mar-80c6_8_marsh-50	Mar-80c6_8_harrier-39_3925	8	Mar-80c6_8_marsh-50_3807	8	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-39	Mar-80c6_8_marsh-13	Mar-80c6_8_harrier-39_3925	8	Mar-80c6_8_marsh-13_3807	8	0	marsh harrier	marsh	100.0
+location	Mar-80c6_24_harrier-4	Mar-80c6_24_wetlands-14	Mar-80c6_24_harrier-4_4343	24	Mar-80c6_24_wetlands-14_4542	24	0	harriers	wetlands	100.0
+location	Acc-0d4b_40_harriers-26	Acc-0d4b_40_swamp-24	Acc-0d4b_40_harriers-26_4343	40	Acc-0d4b_40_swamp-24_3808	40	0	harriers	swamp	100.0
+location	Mar-80c6_33_harrier-4	Mar-80c6_33_marsh-3	Mar-80c6_33_harrier-4_3925	33	Mar-80c6_33_marsh-3_3807	33	0	marsh harrier	marsh	100.0
+location	Mar-80c6_27_harrier-3	Mar-80c6_27_swamp-2	Mar-80c6_27_harrier-3_4343	27	Mar-80c6_27_swamp-2_3808	27	0	harriers	swamp	100.0
+location	Whi-b4c3_527_harrier-27	Whi-b4c3_527_marsh-26	Whi-b4c3_527_harrier-27_4343	527	Whi-b4c3_527_marsh-26_3807	527	0	harriers	marsh	100.0
+location	Whi-b4c3_684_harriers-30	Whi-b4c3_684_marsh-29	Whi-b4c3_684_harriers-30_4343	684	Whi-b4c3_684_marsh-29_3807	684	0	harriers	marsh	100.0
+location	Mar-80c6_14_harrier-15	Mar-80c6_14_marsh-3	Mar-80c6_14_harrier-15_4343	14	Mar-80c6_14_marsh-3_3807	14	0	harriers	marsh	100.0
+location	Wes-9ef7_5_harrier-38	Wes-9ef7_5_swamp-37	Wes-9ef7_5_harrier-38_4343	5	Wes-9ef7_5_swamp-37_3808	5	0	harriers	swamp	100.0
+location	Wes-9ef7_5_harrier-49	Wes-9ef7_5_swamp-37	Wes-9ef7_5_harrier-49_4343	5	Wes-9ef7_5_swamp-37_3808	5	0	harriers	swamp	100.0
+location	Wes-9ef7_5_harrier-24	Wes-9ef7_5_swamp-37	Wes-9ef7_5_harrier-24_4343	5	Wes-9ef7_5_swamp-37_3808	5	0	harriers	swamp	100.0
+location	Wes-9ef7_5_harrier-16	Wes-9ef7_5_swamp-37	Wes-9ef7_5_harrier-16_4343	5	Wes-9ef7_5_swamp-37_3808	5	0	harriers	swamp	100.0
+location	Cro-5646_102_eagle-9	Cro-5646_102_rainforest-22	Cro-5646_102_eagle-9_4846	102	Cro-5646_102_rainforest-22_3811	102	0	crowned eagle	rainforest	100.0
+location	Cro-5646_39_eagles-31	Cro-5646_39_rainforest-52	Cro-5646_39_eagles-31_4846	39	Cro-5646_39_rainforest-52_3811	39	0	crowned eagle	rainforest	100.0
+location	Cro-5646_311_eagle-8	Cro-5646_311_rainforest-4	Cro-5646_311_eagle-8_4846	311	Cro-5646_311_rainforest-4_3811	311	0	crowned eagle	rainforest	100.0
+location	Cro-5646_318_eagle-9	Cro-5646_318_rainforest-36	Cro-5646_318_eagle-9_4846	318	Cro-5646_318_rainforest-36_3811	318	0	crowned eagle	rainforest	100.0
+location	Cro-5646_356_eagle-70	Cro-5646_356_rainforest-11	Cro-5646_356_eagle-70_4846	356	Cro-5646_356_rainforest-11_3811	356	0	crowned eagle	rainforest	100.0
+location	Cro-5646_318_eagle-44	Cro-5646_318_rainforest-36	Cro-5646_318_eagle-44_4846	318	Cro-5646_318_rainforest-36_3811	318	0	crowned eagle	rainforest	100.0
+location	Cro-5646_356_eagles-13	Cro-5646_356_rainforest-11	Cro-5646_356_eagles-13_4846	356	Cro-5646_356_rainforest-11_3811	356	0	crowned eagle	rainforest	100.0
+location	Cro-5646_356_eagles-44	Cro-5646_356_rainforest-11	Cro-5646_356_eagles-44_4846	356	Cro-5646_356_rainforest-11_3811	356	0	crowned eagle	rainforest	100.0
+location	Cro-5646_39_eagles-14	Cro-5646_39_rainforest-52	Cro-5646_39_eagles-14_4846	39	Cro-5646_39_rainforest-52_3811	39	0	crowned eagle	rainforest	100.0
+location	Mar-80c6_14_harrier-4	Mar-80c6_14_marsh-3	Mar-80c6_14_harrier-4_3925	14	Mar-80c6_14_marsh-3_3807	14	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-14	Mar-80c6_8_marsh-50	Mar-80c6_8_harrier-14_3925	8	Mar-80c6_8_marsh-50_3807	8	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_109_harrier-3	Wes-9ef7_109_marsh-2	Wes-9ef7_109_harrier-3_3925	109	Wes-9ef7_109_marsh-2_3807	109	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_1_harrier-3	Wes-9ef7_1_marsh-2	Wes-9ef7_1_harrier-3_3925	1	Wes-9ef7_1_marsh-2_3807	1	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_47_harriers-5	Wes-9ef7_47_marsh-4	Wes-9ef7_47_harriers-5_3925	47	Wes-9ef7_47_marsh-4_3807	47	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_5_harrier-49	Wes-9ef7_5_marsh-48	Wes-9ef7_5_harrier-49_3925	5	Wes-9ef7_5_marsh-48_3807	5	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_5_harrier-49	Wes-9ef7_5_marsh-15	Wes-9ef7_5_harrier-49_3925	5	Wes-9ef7_5_marsh-15_3807	5	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_51_harriers-16	Wes-9ef7_51_marsh-15	Wes-9ef7_51_harriers-16_3925	51	Wes-9ef7_51_marsh-15_3807	51	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_70_harrier-4	Wes-9ef7_70_marsh-3	Wes-9ef7_70_harrier-4_3925	70	Wes-9ef7_70_marsh-3_3807	70	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_52_harrier-3	Wes-9ef7_52_marsh-2	Wes-9ef7_52_harrier-3_3925	52	Wes-9ef7_52_marsh-2_3807	52	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_5_harrier-38	Wes-9ef7_5_marsh-15	Wes-9ef7_5_harrier-38_3925	5	Wes-9ef7_5_marsh-15_3807	5	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_5_harrier-38	Wes-9ef7_5_marsh-48	Wes-9ef7_5_harrier-38_3925	5	Wes-9ef7_5_marsh-48_3807	5	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_11_harrier-4	Wes-9ef7_11_marsh-3	Wes-9ef7_11_harrier-4_3925	11	Wes-9ef7_11_marsh-3_3807	11	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_18_harrier-3	Wes-9ef7_18_marsh-2	Wes-9ef7_18_harrier-3_3925	18	Wes-9ef7_18_marsh-2_3807	18	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_78_harrier-3	Wes-9ef7_78_marsh-2	Wes-9ef7_78_harrier-3_3925	78	Wes-9ef7_78_marsh-2_3807	78	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_3_harrier-9	Wes-9ef7_3_marsh-8	Wes-9ef7_3_harrier-9_3925	3	Wes-9ef7_3_marsh-8_3807	3	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_2_harrier-4	Wes-9ef7_2_marsh-3	Wes-9ef7_2_harrier-4_3925	2	Wes-9ef7_2_marsh-3_3807	2	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_2_harrier-12	Wes-9ef7_2_marsh-3	Wes-9ef7_2_harrier-12_3925	2	Wes-9ef7_2_marsh-3_3807	2	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_68_harrier-3	Wes-9ef7_68_marsh-2	Wes-9ef7_68_harrier-3_3925	68	Wes-9ef7_68_marsh-2_3807	68	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_13_harrier-4	Wes-9ef7_13_marsh-3	Wes-9ef7_13_harrier-4_3925	13	Wes-9ef7_13_marsh-3_3807	13	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_4_harrier-20	Wes-9ef7_4_marsh-19	Wes-9ef7_4_harrier-20_3925	4	Wes-9ef7_4_marsh-19_3807	4	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_123_harrier-3	Wes-9ef7_123_marsh-2	Wes-9ef7_123_harrier-3_3925	123	Wes-9ef7_123_marsh-2_3807	123	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-14	Mar-80c6_8_marsh-5	Mar-80c6_8_harrier-14_3925	8	Mar-80c6_8_marsh-5_3807	8	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_5_harrier-24	Wes-9ef7_5_marsh-15	Wes-9ef7_5_harrier-24_3925	5	Wes-9ef7_5_marsh-15_3807	5	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-32	Mar-80c6_8_marsh-50	Mar-80c6_8_harrier-32_3925	8	Mar-80c6_8_marsh-50_3807	8	0	marsh harrier	marsh	100.0
+location	Mar-80c6_7_harrier-3	Mar-80c6_7_marsh-2	Mar-80c6_7_harrier-3_3925	7	Mar-80c6_7_marsh-2_3807	7	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-32	Mar-80c6_8_marsh-13	Mar-80c6_8_harrier-32_3925	8	Mar-80c6_8_marsh-13_3807	8	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-21	Mar-80c6_8_marsh-13	Mar-80c6_8_harrier-21_3925	8	Mar-80c6_8_marsh-13_3807	8	0	marsh harrier	marsh	100.0
+location	Mar-80c6_6_harrier-11	Mar-80c6_6_marsh-19	Mar-80c6_6_harrier-11_3925	6	Mar-80c6_6_marsh-19_3807	6	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-21	Mar-80c6_8_marsh-5	Mar-80c6_8_harrier-21_3925	8	Mar-80c6_8_marsh-5_3807	8	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-51	Mar-80c6_8_marsh-13	Mar-80c6_8_harrier-51_3925	8	Mar-80c6_8_marsh-13_3807	8	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-6	Mar-80c6_8_marsh-5	Mar-80c6_8_harrier-6_3925	8	Mar-80c6_8_marsh-5_3807	8	0	marsh harrier	marsh	100.0
+location	Mar-80c6_18_harrier-4	Mar-80c6_18_marsh-3	Mar-80c6_18_harrier-4_3925	18	Mar-80c6_18_marsh-3_3807	18	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-21	Mar-80c6_8_marsh-50	Mar-80c6_8_harrier-21_3925	8	Mar-80c6_8_marsh-50_3807	8	0	marsh harrier	marsh	100.0
+location	Mar-80c6_6_harrier-20	Mar-80c6_6_marsh-19	Mar-80c6_6_harrier-20_3925	6	Mar-80c6_6_marsh-19_3807	6	0	marsh harrier	marsh	100.0
+location	Mar-80c6_30_harrier-7	Mar-80c6_30_marsh-3	Mar-80c6_30_harrier-7_3925	30	Mar-80c6_30_marsh-3_3807	30	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-51	Mar-80c6_8_marsh-5	Mar-80c6_8_harrier-51_3925	8	Mar-80c6_8_marsh-5_3807	8	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-51	Mar-80c6_8_marsh-50	Mar-80c6_8_harrier-51_3925	8	Mar-80c6_8_marsh-50_3807	8	0	marsh harrier	marsh	100.0
+location	Mar-80c6_8_harrier-6	Mar-80c6_8_marsh-50	Mar-80c6_8_harrier-6_3925	8	Mar-80c6_8_marsh-50_3807	8	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_5_harrier-16	Wes-9ef7_5_marsh-48	Wes-9ef7_5_harrier-16_3925	5	Wes-9ef7_5_marsh-48_3807	5	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_6_harrier-4	Wes-9ef7_6_marsh-3	Wes-9ef7_6_harrier-4_3925	6	Wes-9ef7_6_marsh-3_3807	6	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_5_harrier-24	Wes-9ef7_5_marsh-48	Wes-9ef7_5_harrier-24_3925	5	Wes-9ef7_5_marsh-48_3807	5	0	marsh harrier	marsh	100.0
+location	Wes-9ef7_129_harrier-3	Wes-9ef7_129_Marsh-16	Wes-9ef7_129_harrier-3_4343	129	Wes-9ef7_129_Marsh-16_36	129	0	harriers	Marsh	100.0
+location	Wes-9ef7_125_harrier-2	Wes-9ef7_125_Marsh-32	Wes-9ef7_125_harrier-2_4343	125	Wes-9ef7_125_Marsh-32_36	125	0	harriers	Marsh	100.0
+location	Wes-9ef7_125_harrier-2	Wes-9ef7_125_Marsh-20	Wes-9ef7_125_harrier-2_4343	125	Wes-9ef7_125_Marsh-20_36	125	0	harriers	Marsh	100.0
+location	Wes-9ef7_125_harrier-2	Wes-9ef7_125_Marsh-16	Wes-9ef7_125_harrier-2_4343	125	Wes-9ef7_125_Marsh-16_36	125	0	harriers	Marsh	100.0
+location	Wes-9ef7_125_harrier-2	Wes-9ef7_125_Marsh-13	Wes-9ef7_125_harrier-2_4343	125	Wes-9ef7_125_Marsh-13_36	125	0	harriers	Marsh	100.0
+location	Wes-9ef7_5_harrier-16	Wes-9ef7_5_marsh-15	Wes-9ef7_5_harrier-16_4343	5	Wes-9ef7_5_marsh-15_3807	5	0	harriers	marsh	100.0
+location	Wes-9ef7_9_harrier-3	Wes-9ef7_9_marsh-2	Wes-9ef7_9_harrier-3_4343	9	Wes-9ef7_9_marsh-2_3807	9	0	harriers	marsh	100.0
+location	Mar-80c6_8_harrier-6	Mar-80c6_8_marsh-13	Mar-80c6_8_harrier-6_4343	8	Mar-80c6_8_marsh-13_3807	8	0	harriers	marsh	100.0
+location	Gol-1dbf_217_eagles-9	Gol-1dbf_217_tundra-16	Gol-1dbf_217_eagles-9_3857	217	Gol-1dbf_217_tundra-16_4539	217	0	golden eagle	tundra	100.0
+location	Wes-9ef7_20_harrier-4	Wes-9ef7_20_marsh-3	Wes-9ef7_20_harrier-4_4343	20	Wes-9ef7_20_marsh-3_3807	20	0	harriers	marsh	100.0
+location	Wes-9ef7_35_harrier-3	Wes-9ef7_35_marsh-2	Wes-9ef7_35_harrier-3_4343	35	Wes-9ef7_35_marsh-2_3807	35	0	harriers	marsh	100.0
+location	Wes-9ef7_64_harrier-3	Wes-9ef7_64_marsh-2	Wes-9ef7_64_harrier-3_4343	64	Wes-9ef7_64_marsh-2_3807	64	0	harriers	marsh	100.0
+location	Wes-9ef7_80_harrier-3	Wes-9ef7_80_marsh-2	Wes-9ef7_80_harrier-3_4343	80	Wes-9ef7_80_marsh-2_3807	80	0	harriers	marsh	100.0
+location	Wes-9ef7_41_harrier-7	Wes-9ef7_41_marsh-6	Wes-9ef7_41_harrier-7_4343	41	Wes-9ef7_41_marsh-6_3807	41	0	harriers	marsh	100.0
+location	Gol-1dbf_217_eagles-9	Gol-1dbf_217_heathland-38	Gol-1dbf_217_eagles-9_3857	217	Gol-1dbf_217_heathland-38_4518	217	0	golden eagle	heathland	100.0
+location	Gol-1dbf_248_eagle-16	Gol-1dbf_248_Mountains-7	Gol-1dbf_248_eagle-16_3857	248	Gol-1dbf_248_Mountains-7_1366	248	0	golden eagle	Mountains	100.0
+location	Gol-1dbf_312_eagles-10	Gol-1dbf_312_Mountains-15	Gol-1dbf_312_eagles-10_3857	312	Gol-1dbf_312_Mountains-15_1366	312	0	golden eagle	Mountains	100.0
+location	Gol-1dbf_198_eagles-4	Gol-1dbf_198_Mountains-31	Gol-1dbf_198_eagles-4_3857	198	Gol-1dbf_198_Mountains-31_1366	198	0	golden eagle	Mountains	100.0
+location	Gol-1dbf_249_eagles-18	Gol-1dbf_249_Mountains-7	Gol-1dbf_249_eagles-18_3857	249	Gol-1dbf_249_Mountains-7_1366	249	0	golden eagle	Mountains	100.0
+location	Gol-1dbf_198_eagle-13	Gol-1dbf_198_Mountains-31	Gol-1dbf_198_eagle-13_3857	198	Gol-1dbf_198_Mountains-31_1366	198	0	golden eagle	Mountains	100.0
+location	Gol-1dbf_370_eagles-11	Gol-1dbf_370_Mountains-5	Gol-1dbf_370_eagles-11_3857	370	Gol-1dbf_370_Mountains-5_1366	370	0	golden eagle	Mountains	100.0
+location	Gol-1dbf_204_eagle-12	Gol-1dbf_204_Mountains-17	Gol-1dbf_204_eagle-12_3857	204	Gol-1dbf_204_Mountains-17_1366	204	0	golden eagle	Mountains	100.0
+location	Gol-1dbf_198_eagle-20	Gol-1dbf_198_Mountains-31	Gol-1dbf_198_eagle-20_3857	198	Gol-1dbf_198_Mountains-31_1366	198	0	golden eagle	Mountains	100.0
+location	Gol-1dbf_63_eagles-7	Gol-1dbf_63_Mountains-14	Gol-1dbf_63_eagles-7_3857	63	Gol-1dbf_63_Mountains-14_1366	63	0	golden eagle	Mountains	100.0
+location	Mar-80c6_18_harrier-8	Mar-80c6_18_marsh-3	Mar-80c6_18_harrier-8_4343	18	Mar-80c6_18_marsh-3_3807	18	0	harriers	marsh	100.0
+location	Gol-1dbf_222_eagles-27	Gol-1dbf_222_taiga-32	Gol-1dbf_222_eagles-27_3857	222	Gol-1dbf_222_taiga-32_4534	222	0	golden eagle	taiga	100.0
+location	Gol-1dbf_217_eagles-9	Gol-1dbf_217_taiga-19	Gol-1dbf_217_eagles-9_3857	217	Gol-1dbf_217_taiga-19_4534	217	0	golden eagle	taiga	100.0
+location	Mou-9e66_32_eagle-21	Mou-9e66_32_mountain-2	Mou-9e66_32_eagle-21_3857	32	Mou-9e66_32_mountain-2_4527	32	0	golden eagle	mountains	100.0
+location	Gol-1dbf_248_eagle-16	Gol-1dbf_248_mountains-10	Gol-1dbf_248_eagle-16_3857	248	Gol-1dbf_248_mountains-10_4527	248	0	golden eagle	mountains	100.0
+location	Gol-1dbf_226_eagles-6	Gol-1dbf_226_mountain-14	Gol-1dbf_226_eagles-6_3857	226	Gol-1dbf_226_mountain-14_4527	226	0	golden eagle	mountains	100.0
+location	Mou-9e66_32_eagle-12	Mou-9e66_32_mountain-2	Mou-9e66_32_eagle-12_3857	32	Mou-9e66_32_mountain-2_4527	32	0	golden eagle	mountains	100.0
+location	Mar-80c6_30_harrier-4	Mar-80c6_30_marsh-3	Mar-80c6_30_harrier-4_4343	30	Mar-80c6_30_marsh-3_3807	30	0	harriers	marsh	100.0
+location	Mar-80c6_24_harrier-4	Mar-80c6_24_marsh-3	Mar-80c6_24_harrier-4_4343	24	Mar-80c6_24_marsh-3_3807	24	0	harriers	marsh	100.0
+location	Gol-1dbf_262_eagles-18	Gol-1dbf_262_marsh-8	Gol-1dbf_262_eagles-18_3857	262	Gol-1dbf_262_marsh-8_3807	262	0	golden eagle	marsh	100.0
+location	Com-f222_150_eagle-18	Com-f222_150_marsh-29	Com-f222_150_eagle-18_3857	150	Com-f222_150_marsh-29_3807	150	0	golden eagle	marsh	100.0
+location	Gol-1dbf_225_eagle-2	Gol-1dbf_225_taiga-3	Gol-1dbf_225_eagle-2_144	225	Gol-1dbf_225_taiga-3_4534	225	0	Golden eagle	taiga	100.0
+location	Harcc28_1_Harriers-1	Harcc28_1_marshes-14	Harcc28_1_Harriers-1_1068	1	Harcc28_1_marshes-14_3807	1	0	Harriers	marsh	100.0
+location	Harcc28_1_Harriers-1	Harcc28_1_swamps-16	Harcc28_1_Harriers-1_1068	1	Harcc28_1_swamps-16_3808	1	0	Harriers	swamp	100.0
+location	Harcc28_1_Harriers-1	Harcc28_1_wetlands-12	Harcc28_1_Harriers-1_1068	1	Harcc28_1_wetlands-12_4542	1	0	Harriers	wetlands	100.0
+location	Wes-9ef7_96_Circus-2	Wes-9ef7_96_Marsh-4	Wes-9ef7_96_Circus-2_1067	96	Wes-9ef7_96_Marsh-4_36	96	0	Circus	Marsh	100.0
+location	Wes-9ef7_125_Circus-65	Wes-9ef7_125_Marsh-20	Wes-9ef7_125_Circus-65_1067	125	Wes-9ef7_125_Marsh-20_36	125	0	Circus	Marsh	100.0
+location	Wes-9ef7_125_Circus-62	Wes-9ef7_125_Marsh-13	Wes-9ef7_125_Circus-62_1067	125	Wes-9ef7_125_Marsh-13_36	125	0	Circus	Marsh	100.0
+location	Wes-9ef7_125_Circus-65	Wes-9ef7_125_Marsh-32	Wes-9ef7_125_Circus-65_1067	125	Wes-9ef7_125_Marsh-32_36	125	0	Circus	Marsh	100.0
+location	Wes-9ef7_125_Circus-62	Wes-9ef7_125_Marsh-16	Wes-9ef7_125_Circus-62_1067	125	Wes-9ef7_125_Marsh-16_36	125	0	Circus	Marsh	100.0
+location	Wes-9ef7_125_Circus-65	Wes-9ef7_125_Marsh-13	Wes-9ef7_125_Circus-65_1067	125	Wes-9ef7_125_Marsh-13_36	125	0	Circus	Marsh	100.0
+location	Wes-9ef7_125_Circus-62	Wes-9ef7_125_Marsh-20	Wes-9ef7_125_Circus-62_1067	125	Wes-9ef7_125_Marsh-20_36	125	0	Circus	Marsh	100.0
+location	Wes-9ef7_125_Circus-62	Wes-9ef7_125_Marsh-32	Wes-9ef7_125_Circus-62_1067	125	Wes-9ef7_125_Marsh-32_36	125	0	Circus	Marsh	100.0
+location	Wes-9ef7_125_Circus-65	Wes-9ef7_125_Marsh-16	Wes-9ef7_125_Circus-65_1067	125	Wes-9ef7_125_Marsh-16_36	125	0	Circus	Marsh	100.0
+location	Wes-9ef7_104_Circus-12	Wes-9ef7_104_Marsh-8	Wes-9ef7_104_Circus-12_1067	104	Wes-9ef7_104_Marsh-8_36	104	0	Circus	Marsh	100.0
+location	Wes-9ef7_107_Circus-9	Wes-9ef7_107_Marsh-7	Wes-9ef7_107_Circus-9_1067	107	Wes-9ef7_107_Marsh-7_36	107	0	Circus	Marsh	100.0
+location	Wes-9ef7_2_Circus-6	Wes-9ef7_2_marsh-3	Wes-9ef7_2_Circus-6_1067	2	Wes-9ef7_2_marsh-3_3807	2	0	Circus	marsh	100.0
+location	Mar-80c6_14_Circus-6	Mar-80c6_14_marsh-3	Mar-80c6_14_Circus-6_1067	14	Mar-80c6_14_marsh-3_3807	14	0	Circus	marsh	100.0
+location	Har-a313_21_Circus-14	Har-a313_21_marsh-11	Har-a313_21_Circus-14_1067	21	Har-a313_21_marsh-11_3807	21	0	Circus	marsh	100.0
+location	Har-a313_24_Circus-9	Har-a313_24_marsh-6	Har-a313_24_Circus-9_1067	24	Har-a313_24_marsh-6_3807	24	0	Circus	marsh	100.0
+location	Har-a313_23_Circus-5	Har-a313_23_marsh-2	Har-a313_23_Circus-5_1067	23	Har-a313_23_marsh-2_3807	23	0	Circus	marsh	100.0
+location	Har-a313_21_Circus-5	Har-a313_21_marsh-11	Har-a313_21_Circus-5_1067	21	Har-a313_21_marsh-11_3807	21	0	Circus	marsh	100.0
+location	Har-a313_24_Circus-19	Har-a313_24_marsh-6	Har-a313_24_Circus-19_1067	24	Har-a313_24_marsh-6_3807	24	0	Circus	marsh	100.0
+location	Whi-b4c3_527_Circus-29	Whi-b4c3_527_marsh-26	Whi-b4c3_527_Circus-29_1067	527	Whi-b4c3_527_marsh-26_3807	527	0	Circus	marsh	100.0
+location	Com-f222_150_Circus-32	Com-f222_150_marsh-29	Com-f222_150_Circus-32_1067	150	Com-f222_150_marsh-29_3807	150	0	Circus	marsh	100.0
+location	Acc-0d4b_40_Circus-22	Acc-0d4b_40_swamp-24	Acc-0d4b_40_Circus-22_1067	40	Acc-0d4b_40_swamp-24_3808	40	0	Circus	swamp	100.0
+location	Gol-1dbf_251_eagles-2	Gol-1dbf_251_desert-6	Gol-1dbf_251_eagles-2_144	251	Gol-1dbf_251_desert-6_34	251	0	Golden eagle	Desert	100.0
+location	Gol-1dbf_228_eagles-2	Gol-1dbf_228_Mountains-21	Gol-1dbf_228_eagles-2_144	228	Gol-1dbf_228_Mountains-21_1366	228	0	Golden eagle	Mountains	100.0
+location	Gol-1dbf_233_eagles-2	Gol-1dbf_233_Mountains-10	Gol-1dbf_233_eagles-2_144	233	Gol-1dbf_233_Mountains-10_1366	233	0	Golden eagle	Mountains	100.0
+location	Gol-1dbf_233_eagles-2	Gol-1dbf_233_Mountains-14	Gol-1dbf_233_eagles-2_144	233	Gol-1dbf_233_Mountains-14_1366	233	0	Golden eagle	Mountains	100.0
+location	Gol-1dbf_255_eagles-2	Gol-1dbf_255_mountains-5	Gol-1dbf_255_eagles-2_144	255	Gol-1dbf_255_mountains-5_4527	255	0	Golden eagle	mountains	100.0
+location	Wes-9ef7_125_aeruginosus-66	Wes-9ef7_125_Marsh-16	Wes-9ef7_125_aeruginosus-66_291	125	Wes-9ef7_125_Marsh-16_36	125	0	Circus aeruginosus	Marsh	87.0
+location	Wes-9ef7_125_aeruginosus-66	Wes-9ef7_125_Marsh-13	Wes-9ef7_125_aeruginosus-66_291	125	Wes-9ef7_125_Marsh-13_36	125	0	Circus aeruginosus	Marsh	87.0
+location	Wes-9ef7_125_aeruginosus-66	Wes-9ef7_125_Marsh-20	Wes-9ef7_125_aeruginosus-66_291	125	Wes-9ef7_125_Marsh-20_36	125	0	Circus aeruginosus	Marsh	87.0
+location	Wes-9ef7_125_aeruginosus-66	Wes-9ef7_125_Marsh-32	Wes-9ef7_125_aeruginosus-66_291	125	Wes-9ef7_125_Marsh-32_36	125	0	Circus aeruginosus	Marsh	87.0
+location	Har-a313_21_aeruginosus-15	Har-a313_21_marsh-11	Har-a313_21_aeruginosus-15_291	21	Har-a313_21_marsh-11_3807	21	0	Circus aeruginosus	marsh	87.0
+location	Com-f222_150_aeruginosus-33	Com-f222_150_marsh-29	Com-f222_150_aeruginosus-33_291	150	Com-f222_150_marsh-29_3807	150	0	Circus aeruginosus	marsh	87.0
+location	Whi-b4c3_497_eagles-26	Whi-b4c3_497_coastal-43	Whi-b4c3_497_eagles-26_5627	497	Whi-b4c3_497_coastal-43_1353	497	0	white-tailed eagle	Coastal	83.0
+location	Whi-b4c3_497_eagles-14	Whi-b4c3_497_coastal-43	Whi-b4c3_497_eagles-14_5627	497	Whi-b4c3_497_coastal-43_1353	497	0	white-tailed eagle	Coastal	83.0
+location	Whi-b4c3_497_eagles-55	Whi-b4c3_497_coastal-43	Whi-b4c3_497_eagles-55_5627	497	Whi-b4c3_497_coastal-43_1353	497	0	white-tailed eagle	Coastal	83.0
+location	Whi-b4c3_497_eagles-10	Whi-b4c3_497_coastal-43	Whi-b4c3_497_eagles-10_5627	497	Whi-b4c3_497_coastal-43_1353	497	0	white-tailed eagle	Coastal	83.0
+location	Stea135_2_eagles-4	Stea135_2_estuaries-15	Stea135_2_eagles-4_264	2	Stea135_2_estuaries-15_4517	2	0	Stellers sea eagle	estuaries	66.0
+location	Eur-bc75_400_hawk-159	Eur-bc75_400_marsh-52	Eur-bc75_400_hawk-159_3866	400	Eur-bc75_400_marsh-52_3807	400	0	bay-winged hawk	marsh	62.0
+location	Eur-bc75_400_hawk-129	Eur-bc75_400_marsh-52	Eur-bc75_400_hawk-129_3866	400	Eur-bc75_400_marsh-52_3807	400	0	bay-winged hawk	marsh	62.0
+location	Eur-bc75_400_hawk-144	Eur-bc75_400_marsh-52	Eur-bc75_400_hawk-144_3866	400	Eur-bc75_400_marsh-52_3807	400	0	bay-winged hawk	marsh	62.0
+location	Afr-2fe6_34_eagle-4	Afr-2fe6_33_swamps-38	Afr-2fe6_34_eagle-4_1448	34	Afr-2fe6_33_swamps-38_3808	33	1	African fish eagle	swamp	50.0
+location	Tun-4bf6_72_eagles-14	Tun-4bf6_71_tundra-7	Tun-4bf6_72_eagles-14_3857	72	Tun-4bf6_71_tundra-7_4539	71	1	golden eagle	tundra	50.0
+location	Afr-2fe6_34_eagle-4	Afr-2fe6_33_desert-49	Afr-2fe6_34_eagle-4_1448	34	Afr-2fe6_33_desert-49_34	33	1	African fish eagle	Desert	50.0
+location	Wes-9ef7_49_harriers-21	Wes-9ef7_48_farmland-17	Wes-9ef7_49_harriers-21_4343	49	Wes-9ef7_48_farmland-17_4509	48	1	harriers	farmland	50.0
+location	Gol-1dbf_226_eagles-6	Gol-1dbf_225_taiga-3	Gol-1dbf_226_eagles-6_3857	226	Gol-1dbf_225_taiga-3_4534	225	1	golden eagle	taiga	50.0
+location	Gol-1dbf_253_eagles-15	Gol-1dbf_254_deserts-13	Gol-1dbf_253_eagles-15_3857	253	Gol-1dbf_254_deserts-13_3805	254	1	golden eagle	desert	50.0
+location	Wat-4f58_109_harrier-33	Wat-4f58_110_wetland-17	Wat-4f58_109_harrier-33_161	109	Wat-4f58_110_wetland-17_4542	110	1	Hen harrier	wetlands	50.0
+location	Afr-2fe6_34_eagle-4	Afr-2fe6_33_rainforests-43	Afr-2fe6_34_eagle-4_1448	34	Afr-2fe6_33_rainforests-43_3811	33	1	African fish eagle	rainforest	50.0
+location	Gol-1dbf_217_eagles-9	Gol-1dbf_218_heathland-18	Gol-1dbf_217_eagles-9_3857	217	Gol-1dbf_218_heathland-18_4518	218	1	golden eagle	heathland	50.0
+location	Tai-3286_134_eagle-41	Tai-3286_133_taiga-11	Tai-3286_134_eagle-41_3857	134	Tai-3286_133_taiga-11_4534	133	1	golden eagle	taiga	50.0
+location	Gol-1dbf_236_eagle-3	Gol-1dbf_237_heathland-35	Gol-1dbf_236_eagle-3_3857	236	Gol-1dbf_237_heathland-35_4518	237	1	golden eagle	heathland	50.0
+location	Gol-1dbf_245_eagles-11	Gol-1dbf_244_heathland-48	Gol-1dbf_245_eagles-11_3857	245	Gol-1dbf_244_heathland-48_4518	244	1	golden eagle	heathland	50.0
+location	Gol-1dbf_243_eagles-6	Gol-1dbf_244_heathland-48	Gol-1dbf_243_eagles-6_3857	243	Gol-1dbf_244_heathland-48_4518	244	1	golden eagle	heathland	50.0
+location	Gol-1dbf_262_eagles-18	Gol-1dbf_263_marshes-24	Gol-1dbf_262_eagles-18_3857	262	Gol-1dbf_263_marshes-24_3807	263	1	golden eagle	marsh	50.0
+location	Gol-1dbf_256_eagles-3	Gol-1dbf_257_marshes-20	Gol-1dbf_256_eagles-3_3857	256	Gol-1dbf_257_marshes-20_3807	257	1	golden eagle	marsh	50.0
+location	Red-1eff_88_kite-2	Red-1eff_89_farmland-10	Red-1eff_88_kite-2_3191	88	Red-1eff_89_farmland-10_4509	89	1	Red kite	farmland	50.0
+location	Gol-1dbf_243_eagles-6	Gol-1dbf_244_tundra-36	Gol-1dbf_243_eagles-6_3857	243	Gol-1dbf_244_tundra-36_4539	244	1	golden eagle	tundra	50.0
+location	Gol-1dbf_243_eagles-6	Gol-1dbf_244_tundra-53	Gol-1dbf_243_eagles-6_3857	243	Gol-1dbf_244_tundra-53_4539	244	1	golden eagle	tundra	50.0
+location	Gol-1dbf_245_eagles-11	Gol-1dbf_244_tundra-36	Gol-1dbf_245_eagles-11_3857	245	Gol-1dbf_244_tundra-36_4539	244	1	golden eagle	tundra	50.0
+location	Gol-1dbf_245_eagles-11	Gol-1dbf_244_tundra-53	Gol-1dbf_245_eagles-11_3857	245	Gol-1dbf_244_tundra-53_4539	244	1	golden eagle	tundra	50.0
+location	Hen-610d_97_harriers-4	Hen-610d_98_moorland-13	Hen-610d_97_harriers-4_161	97	Hen-610d_98_moorland-13_4526	98	1	Hen harrier	moorland	50.0
+location	Red-1eff_88_kite-2	Red-1eff_89_wetland-14	Red-1eff_88_kite-2_3191	88	Red-1eff_89_wetland-14_4542	89	1	Red kite	wetlands	50.0
+location	Tai-3286_134_eagle-21	Tai-3286_133_taiga-11	Tai-3286_134_eagle-21_3857	134	Tai-3286_133_taiga-11_4534	133	1	golden eagle	taiga	50.0
+location	Wes-9ef7_47_harriers-5	Wes-9ef7_48_farmland-17	Wes-9ef7_47_harriers-5_3925	47	Wes-9ef7_48_farmland-17_4509	48	1	marsh harrier	farmland	50.0
+location	Gol-1dbf_255_eagles-2	Gol-1dbf_254_deserts-13	Gol-1dbf_255_eagles-2_144	255	Gol-1dbf_254_deserts-13_3805	254	1	Golden eagle	desert	50.0
+location	Wes-9ef7_6_harrier-4	Wes-9ef7_5_swamp-37	Wes-9ef7_6_harrier-4_3925	6	Wes-9ef7_5_swamp-37_3808	5	1	marsh harrier	swamp	50.0
+location	Wes-9ef7_4_harrier-20	Wes-9ef7_5_swamp-37	Wes-9ef7_4_harrier-20_3925	4	Wes-9ef7_5_swamp-37_3808	5	1	marsh harrier	swamp	50.0
+location	Gol-1dbf_242_eagle-2	Gol-1dbf_241_mountains-30	Gol-1dbf_242_eagle-2_144	242	Gol-1dbf_241_mountains-30_4527	241	1	Golden eagle	mountains	50.0
+location	Wes-9ef7_14_harrier-35	Wes-9ef7_13_marsh-3	Wes-9ef7_14_harrier-35_3868	14	Wes-9ef7_13_marsh-3_3807	13	1	hen harrier	marsh	50.0
+location	Gol-1dbf_233_eagles-2	Gol-1dbf_234_mountain-3	Gol-1dbf_233_eagles-2_144	233	Gol-1dbf_234_mountain-3_4527	234	1	Golden eagle	mountains	50.0
+location	Gol-1dbf_228_eagles-2	Gol-1dbf_229_mountains-7	Gol-1dbf_228_eagles-2_144	228	Gol-1dbf_229_mountains-7_4527	229	1	Golden eagle	mountains	50.0
+location	Gol-1dbf_225_eagle-2	Gol-1dbf_226_mountain-14	Gol-1dbf_225_eagle-2_144	225	Gol-1dbf_226_mountain-14_4527	226	1	Golden eagle	mountains	50.0
+location	Gol-1dbf_242_eagle-2	Gol-1dbf_241_Mountains-5	Gol-1dbf_242_eagle-2_144	242	Gol-1dbf_241_Mountains-5_1366	241	1	Golden eagle	Mountains	50.0
+location	Bir-959d_19_Harriers-1	Bir-959d_20_marshes-27	Bir-959d_19_Harriers-1_1068	19	Bir-959d_20_marshes-27_3807	20	1	Harriers	marsh	50.0
+location	Gol-1dbf_224_eagles-8	Gol-1dbf_225_taiga-3	Gol-1dbf_224_eagles-8_3857	224	Gol-1dbf_225_taiga-3_4534	225	1	golden eagle	taiga	50.0
+location	Har-a313_20_cyaneus-12	Har-a313_21_marsh-11	Har-a313_20_cyaneus-12_162	20	Har-a313_21_marsh-11_3807	21	1	Circus cyaneus	marsh	43.5
+location	Nor-d815_7_harrier-2	Nor-d815_6_marshes-10	Nor-d815_7_harrier-2_163	7	Nor-d815_6_marshes-10_3807	6	1	Northern harrier	marsh	41.5
+location	Afr-2fe6_32_eagle-4	Afr-2fe6_33_desert-49	Afr-2fe6_32_eagle-4_4579	32	Afr-2fe6_33_desert-49_34	33	1	fish eagle	Desert	41.5
+location	Afr-2fe6_32_eagle-4	Afr-2fe6_33_rainforests-43	Afr-2fe6_32_eagle-4_4579	32	Afr-2fe6_33_rainforests-43_3811	33	1	fish eagle	rainforest	41.5
+location	Afr-2fe6_32_eagle-4	Afr-2fe6_33_swamps-38	Afr-2fe6_32_eagle-4_4579	32	Afr-2fe6_33_swamps-38_3808	33	1	fish eagle	swamp	41.5
+location	Eur-bc75_254_goshawks-15	Eur-bc75_255_taiga-9	Eur-bc75_254_goshawks-15_5273	254	Eur-bc75_255_taiga-9_4534	255	1	goshawk	taiga	41.5
+location	Har-b746_3_eagle-26	Har-b746_5_rainforests-6	Har-b746_3_eagle-26_5084	3	Har-b746_5_rainforests-6_3811	5	2	harpy eagle	rainforest	33.333
+location	Har-b746_3_eagle-15	Har-b746_5_rainforests-6	Har-b746_3_eagle-15_5084	3	Har-b746_5_rainforests-6_3811	5	2	harpy eagle	rainforest	33.333
+location	Har-b746_136_eagle-15	Har-b746_134_rainforest-34	Har-b746_136_eagle-15_5084	136	Har-b746_134_rainforest-34_3811	134	2	harpy eagle	rainforest	33.333
+location	Gol-1dbf_233_eagles-2	Gol-1dbf_231_Mountains-15	Gol-1dbf_233_eagles-2_144	233	Gol-1dbf_231_Mountains-15_1366	231	2	Golden eagle	Mountains	33.333
+location	Har-b746_7_eagle-6	Har-b746_5_rainforests-6	Har-b746_7_eagle-6_5084	7	Har-b746_5_rainforests-6_3811	5	2	harpy eagle	rainforest	33.333
+location	Har-b746_3_eagle-30	Har-b746_5_rainforests-6	Har-b746_3_eagle-30_5084	3	Har-b746_5_rainforests-6_3811	5	2	harpy eagle	rainforest	33.333
+location	Gol-1dbf_233_eagles-2	Gol-1dbf_231_desert-26	Gol-1dbf_233_eagles-2_144	233	Gol-1dbf_231_desert-26_3805	231	2	Golden eagle	desert	33.333
+location	Har-b746_3_eagle-8	Har-b746_5_rainforests-6	Har-b746_3_eagle-8_5084	3	Har-b746_5_rainforests-6_3811	5	2	harpy eagle	rainforest	33.333
+location	Afr-2fe6_35_eagle-3	Afr-2fe6_33_swamps-38	Afr-2fe6_35_eagle-3_1448	35	Afr-2fe6_33_swamps-38_3808	33	2	African fish eagle	swamp	33.333
+location	Gol-1dbf_251_eagles-2	Gol-1dbf_249_Mountains-7	Gol-1dbf_251_eagles-2_144	251	Gol-1dbf_249_Mountains-7_1366	249	2	Golden eagle	Mountains	33.333
+location	Gol-1dbf_242_eagle-2	Gol-1dbf_240_desert-13	Gol-1dbf_242_eagle-2_144	242	Gol-1dbf_240_desert-13_34	240	2	Golden eagle	Desert	33.333
+location	Gol-1dbf_260_eagles-3	Gol-1dbf_262_marsh-8	Gol-1dbf_260_eagles-3_3857	260	Gol-1dbf_262_marsh-8_3807	262	2	golden eagle	marsh	33.333
+location	Roc-fab6_55_eagles-20	Roc-fab6_53_tundra-26	Roc-fab6_55_eagles-20_3857	55	Roc-fab6_53_tundra-26_4539	53	2	golden eagle	tundra	33.333
+location	Tun-4bf6_73_eagles-5	Tun-4bf6_71_tundra-7	Tun-4bf6_73_eagles-5_3857	73	Tun-4bf6_71_tundra-7_4539	71	2	golden eagle	tundra	33.333
+location	Afr-2fe6_35_eagle-3	Afr-2fe6_33_desert-49	Afr-2fe6_35_eagle-3_1448	35	Afr-2fe6_33_desert-49_34	33	2	African fish eagle	Desert	33.333
+location	Gol-1dbf_224_eagles-8	Gol-1dbf_222_taiga-32	Gol-1dbf_224_eagles-8_3857	224	Gol-1dbf_222_taiga-32_4534	222	2	golden eagle	taiga	33.333
+location	Afr-2fe6_35_eagle-3	Afr-2fe6_33_rainforests-43	Afr-2fe6_35_eagle-3_1448	35	Afr-2fe6_33_rainforests-43_3811	33	2	African fish eagle	rainforest	33.333
+location	Gol-1dbf_233_eagles-2	Gol-1dbf_231_mountain-29	Gol-1dbf_233_eagles-2_144	233	Gol-1dbf_231_mountain-29_4527	231	2	Golden eagle	mountains	33.333
+location	Gol-1dbf_242_eagle-2	Gol-1dbf_244_heathland-48	Gol-1dbf_242_eagle-2_144	242	Gol-1dbf_244_heathland-48_4518	244	2	Golden eagle	heathland	33.333
+location	Gol-1dbf_256_eagles-3	Gol-1dbf_254_deserts-13	Gol-1dbf_256_eagles-3_3857	256	Gol-1dbf_254_deserts-13_34	254	2	golden eagle	Desert	33.333
+location	Gol-1dbf_235_eagles-5	Gol-1dbf_237_heathland-35	Gol-1dbf_235_eagles-5_3857	235	Gol-1dbf_237_heathland-35_4518	237	2	golden eagle	heathland	33.333
+location	Gol-1dbf_253_eagles-15	Gol-1dbf_251_desert-6	Gol-1dbf_253_eagles-15_3857	253	Gol-1dbf_251_desert-6_3805	251	2	golden eagle	desert	33.333
+location	Gol-1dbf_236_eagle-3	Gol-1dbf_238_desert-20	Gol-1dbf_236_eagle-3_3857	236	Gol-1dbf_238_desert-20_3805	238	2	golden eagle	desert	33.333
+location	Gol-1dbf_249_eagles-18	Gol-1dbf_251_desert-6	Gol-1dbf_249_eagles-18_3857	249	Gol-1dbf_251_desert-6_3805	251	2	golden eagle	desert	33.333
+location	Tai-3286_134_eagle-21	Tai-3286_136_Taiga-1	Tai-3286_134_eagle-21_3857	134	Tai-3286_136_Taiga-1_1373	136	2	golden eagle	Taiga	33.333
+location	Tai-3286_134_eagle-41	Tai-3286_136_Taiga-1	Tai-3286_134_eagle-41_3857	134	Tai-3286_136_Taiga-1_1373	136	2	golden eagle	Taiga	33.333
+location	Gol-1dbf_215_eagle-2	Gol-1dbf_217_heathland-38	Gol-1dbf_215_eagle-2_144	215	Gol-1dbf_217_heathland-38_4518	217	2	Golden eagle	heathland	33.333
+location	Wes-9ef7_49_harriers-21	Wes-9ef7_47_wetland-12	Wes-9ef7_49_harriers-21_4343	49	Wes-9ef7_47_wetland-12_4542	47	2	harriers	wetlands	33.333
+location	Har-a313_11_harrier-34	Har-a313_9_marsh-10	Har-a313_11_harrier-34_3868	11	Har-a313_9_marsh-10_3807	9	2	hen harrier	marsh	33.333
+location	Wes-9ef7_123_harrier-3	Wes-9ef7_125_Marsh-16	Wes-9ef7_123_harrier-3_3925	123	Wes-9ef7_125_Marsh-16_36	125	2	marsh harrier	Marsh	33.333
+location	Wes-9ef7_123_harrier-3	Wes-9ef7_125_Marsh-20	Wes-9ef7_123_harrier-3_3925	123	Wes-9ef7_125_Marsh-20_36	125	2	marsh harrier	Marsh	33.333
+location	Wes-9ef7_123_harrier-3	Wes-9ef7_125_Marsh-32	Wes-9ef7_123_harrier-3_3925	123	Wes-9ef7_125_Marsh-32_36	125	2	marsh harrier	Marsh	33.333
+location	Wes-9ef7_123_harrier-3	Wes-9ef7_125_Marsh-13	Wes-9ef7_123_harrier-3_3925	123	Wes-9ef7_125_Marsh-13_36	125	2	marsh harrier	Marsh	33.333
+location	Wes-9ef7_109_harrier-3	Wes-9ef7_107_Marsh-7	Wes-9ef7_109_harrier-3_3925	109	Wes-9ef7_107_Marsh-7_36	107	2	marsh harrier	Marsh	33.333
+location	Gol-1dbf_259_eagles-8	Gol-1dbf_257_marshes-20	Gol-1dbf_259_eagles-8_3857	259	Gol-1dbf_257_marshes-20_3807	257	2	golden eagle	marsh	33.333
+location	Wes-9ef7_50_harriers-14	Wes-9ef7_48_farmland-17	Wes-9ef7_50_harriers-14_4343	50	Wes-9ef7_48_farmland-17_4509	48	2	harriers	farmland	33.333
+location	Hen-610d_100_harriers-2	Hen-610d_98_moorland-13	Hen-610d_100_harriers-2_161	100	Hen-610d_98_moorland-13_4526	98	2	Hen harrier	moorland	33.333
+location	Gol-1dbf_215_eagle-2	Gol-1dbf_217_tundra-16	Gol-1dbf_215_eagle-2_144	215	Gol-1dbf_217_tundra-16_4539	217	2	Golden eagle	tundra	33.333
+location	Har-8a11_67_hawk-8	Har-8a11_69_desert-17	Har-8a11_67_hawk-8_156	67	Har-8a11_69_desert-17_34	69	2	Harris hawk	Desert	33.333
+location	Nor-d815_30_harrier-2	Nor-d815_32_moorland-7	Nor-d815_30_harrier-2_161	30	Nor-d815_32_moorland-7_4526	32	2	Hen harrier	moorland	33.333
+location	Wesd1a0_10_harrier-10	Wesd1a0_8_moorland-5	Wesd1a0_10_harrier-10_161	10	Wesd1a0_8_moorland-5_4526	8	2	Hen harrier	moorland	33.333
+location	Gol-1dbf_242_eagle-2	Gol-1dbf_244_tundra-36	Gol-1dbf_242_eagle-2_144	242	Gol-1dbf_244_tundra-36_4539	244	2	Golden eagle	tundra	33.333
+location	Gre-e890_125_eagles-22	Gre-e890_127_marsh-23	Gre-e890_125_eagles-22_3857	125	Gre-e890_127_marsh-23_3807	127	2	golden eagle	marsh	33.333
+location	Gol-1dbf_242_eagle-2	Gol-1dbf_244_tundra-53	Gol-1dbf_242_eagle-2_144	242	Gol-1dbf_244_tundra-53_4539	244	2	Golden eagle	tundra	33.333
+location	Gol-1dbf_215_eagle-2	Gol-1dbf_217_taiga-19	Gol-1dbf_215_eagle-2_144	215	Gol-1dbf_217_taiga-19_4534	217	2	Golden eagle	taiga	33.333
+location	Gol-1dbf_228_eagles-2	Gol-1dbf_226_mountain-14	Gol-1dbf_228_eagles-2_144	228	Gol-1dbf_226_mountain-14_4527	226	2	Golden eagle	mountains	33.333
+location	Gre-e890_125_eagles-15	Gre-e890_127_marsh-23	Gre-e890_125_eagles-15_3857	125	Gre-e890_127_marsh-23_3807	127	2	golden eagle	marsh	33.333
+location	Gre-e890_125_eagles-33	Gre-e890_127_marsh-23	Gre-e890_125_eagles-33_3857	125	Gre-e890_127_marsh-23_3807	127	2	golden eagle	marsh	33.333
+location	Wes-9ef7_3_harrier-9	Wes-9ef7_5_swamp-37	Wes-9ef7_3_harrier-9_3925	3	Wes-9ef7_5_swamp-37_3808	5	2	marsh harrier	swamp	33.333
+location	Gol-1dbf_255_eagles-2	Gol-1dbf_257_marshes-20	Gol-1dbf_255_eagles-2_144	255	Gol-1dbf_257_marshes-20_3807	257	2	Golden eagle	marsh	33.333
+location	Stea135_1_eagle-4	Stea135_2_estuaries-15	Stea135_1_eagle-4_264	1	Stea135_2_estuaries-15_4517	2	1	Stellers sea eagle	estuaries	33.0
+location	Gre-e890_125_chrysaetos-25	Gre-e890_127_marsh-23	Gre-e890_125_chrysaetos-25_145	125	Gre-e890_127_marsh-23_3807	127	2	Aquila chrysaetos	marsh	29.0
+location	Har-a313_21_aeruginosus-15	Har-a313_23_marsh-2	Har-a313_21_aeruginosus-15_291	21	Har-a313_23_marsh-2_3807	23	2	Circus aeruginosus	marsh	29.0
+location	Wes-9ef7_125_aeruginosus-66	Wes-9ef7_123_marsh-2	Wes-9ef7_125_aeruginosus-66_291	125	Wes-9ef7_123_marsh-2_3807	123	2	Circus aeruginosus	marsh	29.0
+location	Eur-bc75_253_goshawk-3	Eur-bc75_255_taiga-9	Eur-bc75_253_goshawk-3_5273	253	Eur-bc75_255_taiga-9_4534	255	2	goshawk	taiga	27.667
+adaptation	Com-9711_107_eagles-23	Com-9711_107_predators-6	Com-9711_107_eagles-23_3857	107	Com-9711_107_predators-6_3977	107	0	golden eagle	predator	100.0
+adaptation	Mal-71cc_147_eagles-54	Mal-71cc_147_predators-67	Mal-71cc_147_eagles-54_3857	147	Mal-71cc_147_predators-67_359	147	0	golden eagle	Predator	100.0
+adaptation	Gre-e890_125_eagles-15	Gre-e890_125_predators-29	Gre-e890_125_eagles-15_3857	125	Gre-e890_125_predators-29_359	125	0	golden eagle	Predator	100.0
+adaptation	Gre-e890_125_eagles-22	Gre-e890_125_predators-29	Gre-e890_125_eagles-22_3857	125	Gre-e890_125_predators-29_359	125	0	golden eagle	Predator	100.0
+adaptation	Gol-cfeb_121_eagle-58	Gol-cfeb_121_predators-18	Gol-cfeb_121_eagle-58_3857	121	Gol-cfeb_121_predators-18_359	121	0	golden eagle	Predator	100.0
+adaptation	Cho-a88d_87_eagle-14	Cho-a88d_87_Predators-1	Cho-a88d_87_eagle-14_3857	87	Cho-a88d_87_Predators-1_359	87	0	golden eagle	Predator	100.0
+adaptation	Lon-b0af_538_eagles-20	Lon-b0af_538_predators-2	Lon-b0af_538_eagles-20_3857	538	Lon-b0af_538_predators-2_359	538	0	golden eagle	Predator	100.0
+adaptation	Lon-b0af_530_eagle-34	Lon-b0af_530_predators-11	Lon-b0af_530_eagle-34_3857	530	Lon-b0af_530_predators-11_359	530	0	golden eagle	Predator	100.0
+adaptation	Bla-1ce3_188_eagles-32	Bla-1ce3_188_predators-4	Bla-1ce3_188_eagles-32_3857	188	Bla-1ce3_188_predators-4_359	188	0	golden eagle	Predator	100.0
+adaptation	Gol-1dbf_388_eagle-12	Gol-1dbf_388_predators-30	Gol-1dbf_388_eagle-12_3857	388	Gol-1dbf_388_predators-30_359	388	0	golden eagle	Predator	100.0
+adaptation	Gol-1dbf_377_eagles-6	Gol-1dbf_377_predators-12	Gol-1dbf_377_eagles-6_3857	377	Gol-1dbf_377_predators-12_359	377	0	golden eagle	Predator	100.0
+adaptation	Gol-1dbf_380_eagles-49	Gol-1dbf_380_predators-16	Gol-1dbf_380_eagles-49_3857	380	Gol-1dbf_380_predators-16_359	380	0	golden eagle	Predator	100.0
+adaptation	Gol-1dbf_388_eagle-12	Gol-1dbf_388_predator-41	Gol-1dbf_388_eagle-12_3857	388	Gol-1dbf_388_predator-41_359	388	0	golden eagle	Predator	100.0
+adaptation	Gol-1dbf_377_eagle-35	Gol-1dbf_377_predators-12	Gol-1dbf_377_eagle-35_3857	377	Gol-1dbf_377_predators-12_359	377	0	golden eagle	Predator	100.0
+adaptation	Gol-1dbf_386_eagle-24	Gol-1dbf_386_predator-9	Gol-1dbf_386_eagle-24_3857	386	Gol-1dbf_386_predator-9_359	386	0	golden eagle	Predator	100.0
+adaptation	Eur-3d6d_69_eagles-24	Eur-3d6d_69_predators-3	Eur-3d6d_69_eagles-24_3857	69	Eur-3d6d_69_predators-3_359	69	0	golden eagle	Predator	100.0
+adaptation	Tun-4bf6_72_eagles-14	Tun-4bf6_72_predators-4	Tun-4bf6_72_eagles-14_3857	72	Tun-4bf6_72_predators-4_359	72	0	golden eagle	Predator	100.0
+adaptation	Taw-0bfd_102_eagles-21	Taw-0bfd_102_Predators-1	Taw-0bfd_102_eagles-21_3857	102	Taw-0bfd_102_Predators-1_359	102	0	golden eagle	Predator	100.0
+adaptation	Wil-3cbf_108_eagles-41	Wil-3cbf_108_Predators-1	Wil-3cbf_108_eagles-41_3857	108	Wil-3cbf_108_Predators-1_359	108	0	golden eagle	Predator	100.0
+adaptation	Red-4352_16_eagles-40	Red-4352_16_predators-9	Red-4352_16_eagles-40_3857	16	Red-4352_16_predators-9_359	16	0	golden eagle	Predator	100.0
+adaptation	Sno-3c77_87_eagles-23	Sno-3c77_87_predators-2	Sno-3c77_87_eagles-23_3857	87	Sno-3c77_87_predators-2_359	87	0	golden eagle	Predator	100.0
+adaptation	Gre-e890_125_eagles-33	Gre-e890_125_predators-29	Gre-e890_125_eagles-33_3857	125	Gre-e890_125_predators-29_359	125	0	golden eagle	Predator	100.0
+adaptation	Gun-5a73_99_eagles-19	Gun-5a73_99_Predators-1	Gun-5a73_99_eagles-19_3857	99	Gun-5a73_99_Predators-1_359	99	0	golden eagle	Predator	100.0
+adaptation	Dal-d353_46_eagles-20	Dal-d353_46_predators-22	Dal-d353_46_eagles-20_3857	46	Dal-d353_46_predators-22_359	46	0	golden eagle	Predator	100.0
+adaptation	Lon-b0af_530_eagle-58	Lon-b0af_530_predators-11	Lon-b0af_530_eagle-58_3857	530	Lon-b0af_530_predators-11_359	530	0	golden eagle	Predator	100.0
+adaptation	Nor-4d51_285_eagles-19	Nor-4d51_285_predators-6	Nor-4d51_285_eagles-19_3857	285	Nor-4d51_285_predators-6_359	285	0	golden eagle	Predator	100.0
+adaptation	Har-8a11_60_eagles-15	Har-8a11_60_predators-47	Har-8a11_60_eagles-15_3857	60	Har-8a11_60_predators-47_359	60	0	golden eagle	Predator	100.0
+adaptation	Lon-b0af_538_eagle-32	Lon-b0af_538_predators-2	Lon-b0af_538_eagle-32_3857	538	Lon-b0af_538_predators-2_359	538	0	golden eagle	Predator	100.0
+adaptation	Per-145f_245_eagles-14	Per-145f_245_predators-27	Per-145f_245_eagles-14_3857	245	Per-145f_245_predators-27_359	245	0	golden eagle	Predator	100.0
+adaptation	Red-56ec_100_eagle-14	Red-56ec_100_predators-7	Red-56ec_100_eagle-14_3857	100	Red-56ec_100_predators-7_359	100	0	golden eagle	Predator	100.0
+adaptation	Per-145f_245_eagles-17	Per-145f_245_predators-27	Per-145f_245_eagles-17_3857	245	Per-145f_245_predators-27_359	245	0	golden eagle	Predator	100.0
+adaptation	Lon-b0af_530_eagle-81	Lon-b0af_530_predators-11	Lon-b0af_530_eagle-81_3857	530	Lon-b0af_530_predators-11_359	530	0	golden eagle	Predator	100.0
+adaptation	Lon-b0af_530_eagle-50	Lon-b0af_530_predators-11	Lon-b0af_530_eagle-50_3857	530	Lon-b0af_530_predators-11_359	530	0	golden eagle	Predator	100.0
+adaptation	Lon-b0af_530_eagle-26	Lon-b0af_530_predators-11	Lon-b0af_530_eagle-26_3857	530	Lon-b0af_530_predators-11_359	530	0	golden eagle	Predator	100.0
+adaptation	Lon-b0af_530_eagle-42	Lon-b0af_530_predators-11	Lon-b0af_530_eagle-42_3857	530	Lon-b0af_530_predators-11_359	530	0	golden eagle	Predator	100.0
+adaptation	Nor-4d51_285_eagles-16	Nor-4d51_285_predators-6	Nor-4d51_285_eagles-16_3857	285	Nor-4d51_285_predators-6_359	285	0	golden eagle	Predator	100.0
+adaptation	Red-56ec_100_eagle-17	Red-56ec_100_predators-7	Red-56ec_100_eagle-17_3857	100	Red-56ec_100_predators-7_359	100	0	golden eagle	Predator	100.0
+adaptation	Red-4352_16_eagle-43	Red-4352_16_predators-23	Red-4352_16_eagle-43_3857	16	Red-4352_16_predators-23_359	16	0	golden eagle	Predator	100.0
+adaptation	Bar-78df_198_eagles-48	Bar-78df_198_predators-14	Bar-78df_198_eagles-48_3857	198	Bar-78df_198_predators-14_359	198	0	golden eagle	Predator	100.0
+adaptation	Com-9711_107_eagles-32	Com-9711_107_predators-6	Com-9711_107_eagles-32_3857	107	Com-9711_107_predators-6_359	107	0	golden eagle	Predator	100.0
+adaptation	Com-9711_107_eagles-13	Com-9711_107_predators-6	Com-9711_107_eagles-13_3857	107	Com-9711_107_predators-6_359	107	0	golden eagle	Predator	100.0
+adaptation	Com-9711_107_eagle-16	Com-9711_107_predators-6	Com-9711_107_eagle-16_3857	107	Com-9711_107_predators-6_359	107	0	golden eagle	Predator	100.0
+adaptation	Red-4352_16_eagle-43	Red-4352_16_predators-9	Red-4352_16_eagle-43_3857	16	Red-4352_16_predators-9_359	16	0	golden eagle	Predator	100.0
+adaptation	Taw-0bfd_102_eagle-14	Taw-0bfd_102_Predators-1	Taw-0bfd_102_eagle-14_3857	102	Taw-0bfd_102_Predators-1_359	102	0	golden eagle	Predator	100.0
+adaptation	Red-4352_16_eagles-40	Red-4352_16_predators-23	Red-4352_16_eagles-40_3857	16	Red-4352_16_predators-23_359	16	0	golden eagle	Predator	100.0
+adaptation	Wes-9ef7_51_harriers-16	Wes-9ef7_51_predators-80	Wes-9ef7_51_harriers-16_3925	51	Wes-9ef7_51_predators-80_359	51	0	marsh harrier	Predator	100.0
+adaptation	Com-f222_160_buzzards-13	Com-f222_160_migration-23	Com-f222_160_buzzards-13_5096	160	Com-f222_160_migration-23_1	160	0	honey buzzard	Migration	100.0
+adaptation	Com-f222_160_buzzard-3	Com-f222_160_migration-23	Com-f222_160_buzzard-3_5096	160	Com-f222_160_migration-23_1	160	0	honey buzzard	Migration	100.0
+adaptation	Was-5a21_151_buzzard-3	Was-5a21_151_predator-20	Was-5a21_151_buzzard-3_5096	151	Was-5a21_151_predator-20_359	151	0	honey buzzard	Predator	100.0
+adaptation	Asi-8957_275_buzzards-22	Asi-8957_275_predators-9	Asi-8957_275_buzzards-22_5096	275	Asi-8957_275_predators-9_359	275	0	honey buzzard	Predator	100.0
+adaptation	Cro-5646_306_eagle-3	Cro-5646_306_predator-8	Cro-5646_306_eagle-3_4846	306	Cro-5646_306_predator-8_3977	306	0	crowned eagle	predator	100.0
+adaptation	New-ec36_49_harriers-7	New-ec36_49_predators-3	New-ec36_49_harriers-7_4343	49	New-ec36_49_predators-3_3977	49	0	harriers	predator	100.0
+adaptation	Cro-5646_358_eagle-19	Cro-5646_358_predators-13	Cro-5646_358_eagle-19_4846	358	Cro-5646_358_predators-13_3977	358	0	crowned eagle	predator	100.0
+adaptation	Gol-cfeb_86_goshawk-12	Gol-cfeb_86_predator-7	Gol-cfeb_86_goshawk-12_5272	86	Gol-cfeb_86_predator-7_359	86	0	northern goshawk	Predator	100.0
+adaptation	Gol-cfeb_121_goshawk-65	Gol-cfeb_121_predators-18	Gol-cfeb_121_goshawk-65_5272	121	Gol-cfeb_121_predators-18_359	121	0	northern goshawk	Predator	100.0
+adaptation	Com-f222_468_buzzards-7	Com-f222_468_predator-4	Com-f222_468_buzzards-7_4798	468	Com-f222_468_predator-4_3977	468	0	common buzzard	predator	100.0
+adaptation	Com-f222_393_buzzard-3	Com-f222_393_predator-10	Com-f222_393_buzzard-3_4798	393	Com-f222_393_predator-10_3977	393	0	common buzzard	predator	100.0
+adaptation	Rin-8693_173_harrier-13	Rin-8693_173_predators-2	Rin-8693_173_harrier-13_4343	173	Rin-8693_173_predators-2_3977	173	0	harriers	predator	100.0
+adaptation	Gol-1dbf_295_eagles-10	Gol-1dbf_295_migration-20	Gol-1dbf_295_eagles-10_3857	295	Gol-1dbf_295_migration-20_1	295	0	golden eagle	Migration	100.0
+adaptation	Sno-3c77_87_eagles-16	Sno-3c77_87_predators-2	Sno-3c77_87_eagles-16_3857	87	Sno-3c77_87_predators-2_359	87	0	golden eagle	Predator	100.0
+adaptation	Eur-9431_150_eagle-26	Eur-9431_150_predators-2	Eur-9431_150_eagle-26_3857	150	Eur-9431_150_predators-2_359	150	0	golden eagle	Predator	100.0
+adaptation	Roc-fab6_55_eagles-20	Roc-fab6_55_predators-16	Roc-fab6_55_eagles-20_3857	55	Roc-fab6_55_predators-16_359	55	0	golden eagle	Predator	100.0
+adaptation	Gol-1dbf_380_eagle-7	Gol-1dbf_380_predators-16	Gol-1dbf_380_eagle-7_3857	380	Gol-1dbf_380_predators-16_359	380	0	golden eagle	Predator	100.0
+adaptation	Gol-1dbf_380_eagle-34	Gol-1dbf_380_predators-16	Gol-1dbf_380_eagle-34_3857	380	Gol-1dbf_380_predators-16_359	380	0	golden eagle	Predator	100.0
+adaptation	Eur-3d6d_69_eagle-19	Eur-3d6d_69_predators-3	Eur-3d6d_69_eagle-19_3857	69	Eur-3d6d_69_predators-3_359	69	0	golden eagle	Predator	100.0
+adaptation	Bar-2af9_138_eagles-14	Bar-2af9_138_predators-6	Bar-2af9_138_eagles-14_3857	138	Bar-2af9_138_predators-6_359	138	0	golden eagle	Predator	100.0
+adaptation	Eur-9931_239_eagle-18	Eur-9931_239_predators-7	Eur-9931_239_eagle-18_3857	239	Eur-9931_239_predators-7_359	239	0	golden eagle	Predator	100.0
+adaptation	Dal-d353_46_eagles-20	Dal-d353_46_predators-2	Dal-d353_46_eagles-20_3857	46	Dal-d353_46_predators-2_359	46	0	golden eagle	Predator	100.0
+adaptation	Eur-1ed4_58_eagles-11	Eur-1ed4_58_predators-21	Eur-1ed4_58_eagles-11_3857	58	Eur-1ed4_58_predators-21_359	58	0	golden eagle	Predator	100.0
+adaptation	Eur-9931_239_eagles-22	Eur-9931_239_predators-7	Eur-9931_239_eagles-22_3857	239	Eur-9931_239_predators-7_359	239	0	golden eagle	Predator	100.0
+adaptation	Gol-1dbf_295_eagles-23	Gol-1dbf_295_migration-20	Gol-1dbf_295_eagles-23_3857	295	Gol-1dbf_295_migration-20_1	295	0	golden eagle	Migration	100.0
+adaptation	Cho-a88d_87_eagle-11	Cho-a88d_87_Predators-1	Cho-a88d_87_eagle-11_3857	87	Cho-a88d_87_Predators-1_359	87	0	golden eagle	Predator	100.0
+adaptation	Eur-1ed4_58_eagle-2	Eur-1ed4_58_predators-21	Eur-1ed4_58_eagle-2_3857	58	Eur-1ed4_58_predators-21_359	58	0	golden eagle	Predator	100.0
+adaptation	Bar-2af9_138_eagle-18	Bar-2af9_138_predators-6	Bar-2af9_138_eagle-18_3857	138	Bar-2af9_138_predators-6_359	138	0	golden eagle	Predator	100.0
+adaptation	Arc-cf8f_11_eagles-9	Arc-cf8f_11_predators-2	Arc-cf8f_11_eagles-9_3857	11	Arc-cf8f_11_predators-2_359	11	0	golden eagle	Predator	100.0
+adaptation	Sno-0a8f_474_harriers-56	Sno-0a8f_474_predators-10	Sno-0a8f_474_harriers-56_4343	474	Sno-0a8f_474_predators-10_3977	474	0	harriers	predator	100.0
+adaptation	Nor-d815_81_harriers-8	Nor-d815_81_predators-24	Nor-d815_81_harriers-8_4343	81	Nor-d815_81_predators-24_3977	81	0	harriers	predator	100.0
+adaptation	Wat-4f58_195_harriers-4	Wat-4f58_195_predators-7	Wat-4f58_195_harriers-4_4343	195	Wat-4f58_195_predators-7_3977	195	0	harriers	predator	100.0
+adaptation	Him-3e6b_35_eagles-28	Him-3e6b_35_predators-2	Him-3e6b_35_eagles-28_3857	35	Him-3e6b_35_predators-2_359	35	0	golden eagle	Predator	100.0
+adaptation	Mal-71cc_147_eagles-54	Mal-71cc_147_predators-76	Mal-71cc_147_eagles-54_3857	147	Mal-71cc_147_predators-76_359	147	0	golden eagle	Predator	100.0
+adaptation	Com-f222_478_buzzards-18	Com-f222_478_predators-15	Com-f222_478_buzzards-18_4798	478	Com-f222_478_predators-15_3977	478	0	common buzzard	predator	100.0
+adaptation	Nor-4d51_285_eagles-11	Nor-4d51_285_predators-6	Nor-4d51_285_eagles-11_3857	285	Nor-4d51_285_predators-6_359	285	0	golden eagle	Predator	100.0
+adaptation	Mal-71cc_147_harriers-20	Mal-71cc_147_predators-76	Mal-71cc_147_harriers-20_4343	147	Mal-71cc_147_predators-76_3977	147	0	harriers	predator	100.0
+adaptation	Har-b746_68_eagles-4	Har-b746_68_predators-13	Har-b746_68_eagles-4_5084	68	Har-b746_68_predators-13_359	68	0	harpy eagle	Predator	100.0
+adaptation	Cap-154f_111_eagle-11	Cap-154f_111_predator-3	Cap-154f_111_eagle-11_5084	111	Cap-154f_111_predator-3_3977	111	0	harpy eagle	predator	100.0
+adaptation	Bro-cff6_47_eagles-4	Bro-cff6_47_predators-10	Bro-cff6_47_eagles-4_5084	47	Bro-cff6_47_predators-10_3977	47	0	harpy eagle	predator	100.0
+adaptation	Mal-71cc_147_harriers-20	Mal-71cc_147_predators-67	Mal-71cc_147_harriers-20_4343	147	Mal-71cc_147_predators-67_359	147	0	harriers	Predator	100.0
+adaptation	Lem-f2d0_489_harrier-40	Lem-f2d0_489_predator-3	Lem-f2d0_489_harrier-40_4343	489	Lem-f2d0_489_predator-3_359	489	0	harriers	Predator	100.0
+adaptation	Hen-610d_94_harriers-6	Hen-610d_94_predators-17	Hen-610d_94_harriers-6_4343	94	Hen-610d_94_predators-17_359	94	0	harriers	Predator	100.0
+adaptation	Sno-0a8f_474_harriers-49	Sno-0a8f_474_predators-10	Sno-0a8f_474_harriers-49_4343	474	Sno-0a8f_474_predators-10_359	474	0	harriers	Predator	100.0
+adaptation	Gol-1dbf_322_eagle-8	Gol-1dbf_322_territorial-2	Gol-1dbf_322_eagle-8_3857	322	Gol-1dbf_322_territorial-2_3985	322	0	golden eagle	territorial	100.0
+adaptation	Com-f222_285_buzzard-3	Com-f222_285_predator-7	Com-f222_285_buzzard-3_4798	285	Com-f222_285_predator-7_3977	285	0	common buzzard	predator	100.0
+adaptation	Bar-78df_197_buzzard-28	Bar-78df_197_predators-16	Bar-78df_197_buzzard-28_4798	197	Bar-78df_197_predators-16_3977	197	0	common buzzard	predator	100.0
+adaptation	Eur-3123_241_eagle-50	Eur-3123_241_predators-9	Eur-3123_241_eagle-50_144	241	Eur-3123_241_predators-9_3977	241	0	Golden eagle	predator	100.0
+adaptation	Com-f222_7_buzzard-3	Com-f222_7_predator-7	Com-f222_7_buzzard-3_1922	7	Com-f222_7_predator-7_3977	7	0	Common buzzard	predator	100.0
+adaptation	Lon-b0af_530_buzzard-93	Lon-b0af_530_predators-11	Lon-b0af_530_buzzard-93_1922	530	Lon-b0af_530_predators-11_3977	530	0	Common buzzard	predator	100.0
+adaptation	Lon-b0af_530_buzzard-88	Lon-b0af_530_predators-11	Lon-b0af_530_buzzard-88_1922	530	Lon-b0af_530_predators-11_3977	530	0	Common buzzard	predator	100.0
+adaptation	Taw-0bfd_102_buzzards-25	Taw-0bfd_102_Predators-1	Taw-0bfd_102_buzzards-25_1922	102	Taw-0bfd_102_Predators-1_3977	102	0	Common buzzard	predator	100.0
+adaptation	Eur-c955_92_buzzard-22	Eur-c955_92_predators-26	Eur-c955_92_buzzard-22_1922	92	Eur-c955_92_predators-26_3977	92	0	Common buzzard	predator	100.0
+adaptation	Eur-987c_60_buzzards-13	Eur-987c_60_predators-50	Eur-987c_60_buzzards-13_1922	60	Eur-987c_60_predators-50_3977	60	0	Common buzzard	predator	100.0
+adaptation	Com-f222_557_buzzards-20	Com-f222_557_predator-7	Com-f222_557_buzzards-20_1922	557	Com-f222_557_predator-7_359	557	0	Common buzzard	Predator	100.0
+adaptation	Eur-9431_106_sparrowhawk-3	Eur-9431_106_predator-7	Eur-9431_106_sparrowhawk-3_4924	106	Eur-9431_106_predator-7_359	106	0	sparrowhawk	Predator	100.0
+adaptation	Gol-1dbf_285_eagle-2	Gol-1dbf_285_Migration-8	Gol-1dbf_285_eagle-2_144	285	Gol-1dbf_285_Migration-8_3781	285	0	Golden eagle	migration	100.0
+adaptation	Swa-71c0_71_sparrowhawks-12	Swa-71c0_71_predators-8	Swa-71c0_71_sparrowhawks-12_4924	71	Swa-71c0_71_predators-8_359	71	0	sparrowhawk	Predator	100.0
+adaptation	Roc-2376_179_sparrowhawks-5	Roc-2376_179_predators-8	Roc-2376_179_sparrowhawks-5_4924	179	Roc-2376_179_predators-8_359	179	0	sparrowhawk	Predator	100.0
+adaptation	Par-e8bc_154_sparrowhawk-13	Par-e8bc_154_predator-9	Par-e8bc_154_sparrowhawk-13_4924	154	Par-e8bc_154_predator-9_359	154	0	sparrowhawk	Predator	100.0
+adaptation	Eur-9431_150_sparrowhawk-6	Eur-9431_150_predators-2	Eur-9431_150_sparrowhawk-6_4924	150	Eur-9431_150_predators-2_359	150	0	sparrowhawk	Predator	100.0
+adaptation	Eur-c955_92_sparrowhawk-14	Eur-c955_92_predators-26	Eur-c955_92_sparrowhawk-14_4924	92	Eur-c955_92_predators-26_359	92	0	sparrowhawk	Predator	100.0
+adaptation	Eur-c955_103_sparrowhawk-8	Eur-c955_103_predator-4	Eur-c955_103_sparrowhawk-8_4924	103	Eur-c955_103_predator-4_359	103	0	sparrowhawk	Predator	100.0
+adaptation	Eur-3123_241_eagles-2	Eur-3123_241_predators-9	Eur-3123_241_eagles-2_144	241	Eur-3123_241_predators-9_359	241	0	Golden eagle	Predator	100.0
+adaptation	Eur-9431_217_sparrowhawk-14	Eur-9431_217_predators-9	Eur-9431_217_sparrowhawk-14_4924	217	Eur-9431_217_predators-9_359	217	0	sparrowhawk	Predator	100.0
+adaptation	Eur-9431_142_sparrowhawk-66	Eur-9431_142_predator-50	Eur-9431_142_sparrowhawk-66_4924	142	Eur-9431_142_predator-50_359	142	0	sparrowhawk	Predator	100.0
+adaptation	Eur-9431_217_sparrowhawk-14	Eur-9431_217_predator-40	Eur-9431_217_sparrowhawk-14_4924	217	Eur-9431_217_predator-40_359	217	0	sparrowhawk	Predator	100.0
+adaptation	Eur-9431_5_sparrowhawk-15	Eur-9431_5_predator-5	Eur-9431_5_sparrowhawk-15_4924	5	Eur-9431_5_predator-5_359	5	0	sparrowhawk	Predator	100.0
+adaptation	Gre-bb1f_198_sparrowhawk-3	Gre-bb1f_198_predator-6	Gre-bb1f_198_sparrowhawk-3_4924	198	Gre-bb1f_198_predator-6_359	198	0	sparrowhawk	Predator	100.0
+adaptation	Gol-9020_232_sparrowhawk-17	Gol-9020_232_predator-9	Gol-9020_232_sparrowhawk-17_4924	232	Gol-9020_232_predator-9_359	232	0	sparrowhawk	Predator	100.0
+adaptation	Gar-8d9c_17_sparrowhawks-8	Gar-8d9c_17_predators-27	Gar-8d9c_17_sparrowhawks-8_4924	17	Gar-8d9c_17_predators-27_359	17	0	sparrowhawk	Predator	100.0
+adaptation	Eur-9431_142_sparrowhawk-66	Eur-9431_142_predator-30	Eur-9431_142_sparrowhawk-66_4924	142	Eur-9431_142_predator-30_359	142	0	sparrowhawk	Predator	100.0
+adaptation	Gar-8d9c_145_sparrowhawks-10	Gar-8d9c_145_predators-3	Gar-8d9c_145_sparrowhawks-10_4924	145	Gar-8d9c_145_predators-3_359	145	0	sparrowhawk	Predator	100.0
+adaptation	Eur-9431_187_sparrowhawk-22	Eur-9431_187_predators-18	Eur-9431_187_sparrowhawk-22_4924	187	Eur-9431_187_predators-18_3977	187	0	sparrowhawk	predator	100.0
+adaptation	Fer-bbf9_46_sparrowhawks-12	Fer-bbf9_46_predators-2	Fer-bbf9_46_sparrowhawks-12_4924	46	Fer-bbf9_46_predators-2_3977	46	0	sparrowhawk	predator	100.0
+adaptation	Com-2075_54_sparrowhawk-13	Com-2075_54_predator-16	Com-2075_54_sparrowhawk-13_4924	54	Com-2075_54_predator-16_3977	54	0	sparrowhawk	predator	100.0
+adaptation	Com-2075_6_sparrowhawk-14	Com-2075_6_predator-21	Com-2075_6_sparrowhawk-14_4924	6	Com-2075_6_predator-21_3977	6	0	sparrowhawk	predator	100.0
+adaptation	Eur-9431_208_sparrowhawk-35	Eur-9431_208_predators-31	Eur-9431_208_sparrowhawk-35_4924	208	Eur-9431_208_predators-31_3977	208	0	sparrowhawk	predator	100.0
+adaptation	Sex-811c_188_sparrowhawks-18	Sex-811c_188_dimorphism-5	Sex-811c_188_sparrowhawks-18_4924	188	Sex-811c_188_dimorphism-5_3791	188	0	sparrowhawk	sexual dimorphism	100.0
+adaptation	Eur-9431_217_sparrowhawk-14	Eur-9431_217_predators-62	Eur-9431_217_sparrowhawk-14_4924	217	Eur-9431_217_predators-62_3977	217	0	sparrowhawk	predator	100.0
+adaptation	Sno-0a8f_474_Circus-58	Sno-0a8f_474_predators-10	Sno-0a8f_474_Circus-58_1067	474	Sno-0a8f_474_predators-10_3977	474	0	Circus	predator	100.0
+adaptation	Sno-0a8f_474_Circus-51	Sno-0a8f_474_predators-10	Sno-0a8f_474_Circus-51_1067	474	Sno-0a8f_474_predators-10_3977	474	0	Circus	predator	100.0
+adaptation	Mal-71cc_147_Circus-23	Mal-71cc_147_predators-76	Mal-71cc_147_Circus-23_1067	147	Mal-71cc_147_predators-76_3977	147	0	Circus	predator	100.0
+adaptation	Mal-71cc_147_Circus-23	Mal-71cc_147_predators-67	Mal-71cc_147_Circus-23_1067	147	Mal-71cc_147_predators-67_3977	147	0	Circus	predator	100.0
+adaptation	Com-f222_480_sparrowhawks-15	Com-f222_480_predator-6	Com-f222_480_sparrowhawks-15_4924	480	Com-f222_480_predator-6_3977	480	0	sparrowhawk	predator	100.0
+adaptation	Lon-b0af_530_sparrowhawk-123	Lon-b0af_530_predators-11	Lon-b0af_530_sparrowhawk-123_4924	530	Lon-b0af_530_predators-11_3977	530	0	sparrowhawk	predator	100.0
+adaptation	Mer-5a4a_101_sparrowhawks-42	Mer-5a4a_101_predators-15	Mer-5a4a_101_sparrowhawks-42_4924	101	Mer-5a4a_101_predators-15_3977	101	0	sparrowhawk	predator	100.0
+adaptation	Bar-78df_197_goshawk-20	Bar-78df_197_predators-16	Bar-78df_197_goshawk-20_5272	197	Bar-78df_197_predators-16_359	197	0	northern goshawk	Predator	100.0
+adaptation	Lon-b0af_538_goshawks-23	Lon-b0af_538_predators-2	Lon-b0af_538_goshawks-23_5272	538	Lon-b0af_538_predators-2_359	538	0	northern goshawk	Predator	100.0
+adaptation	Lon-b0af_523_goshawk-19	Lon-b0af_523_predators-7	Lon-b0af_523_goshawk-19_5272	523	Lon-b0af_523_predators-7_359	523	0	northern goshawk	Predator	100.0
+adaptation	Eur-c955_92_goshawk-18	Eur-c955_92_predators-26	Eur-c955_92_goshawk-18_5272	92	Eur-c955_92_predators-26_359	92	0	northern goshawk	Predator	100.0
+adaptation	Eur-bc75_370_goshawks-11	Eur-bc75_370_predators-17	Eur-bc75_370_goshawks-11_5272	370	Eur-bc75_370_predators-17_359	370	0	northern goshawk	Predator	100.0
+adaptation	Eur-bc75_423_goshawk-31	Eur-bc75_423_predators-3	Eur-bc75_423_goshawk-31_5272	423	Eur-bc75_423_predators-3_359	423	0	northern goshawk	Predator	100.0
+adaptation	Eur-bc75_373_goshawks-43	Eur-bc75_373_predators-30	Eur-bc75_373_goshawks-43_5272	373	Eur-bc75_373_predators-30_359	373	0	northern goshawk	Predator	100.0
+adaptation	Eur-bc75_284_goshawks-5	Eur-bc75_284_predators-14	Eur-bc75_284_goshawks-5_5272	284	Eur-bc75_284_predators-14_359	284	0	northern goshawk	Predator	100.0
+adaptation	Eur-bc75_69_goshawks-4	Eur-bc75_69_predator-29	Eur-bc75_69_goshawks-4_5272	69	Eur-bc75_69_predator-29_359	69	0	northern goshawk	Predator	100.0
+adaptation	Eur-bc75_433_goshawks-12	Eur-bc75_433_predators-4	Eur-bc75_433_goshawks-12_5272	433	Eur-bc75_433_predators-4_359	433	0	northern goshawk	Predator	100.0
+adaptation	Eur-3d6d_69_goshawks-27	Eur-3d6d_69_predators-3	Eur-3d6d_69_goshawks-27_5272	69	Eur-3d6d_69_predators-3_3977	69	0	northern goshawk	predator	100.0
+adaptation	Eur-bc75_365_goshawks-2	Eur-bc75_365_predators-25	Eur-bc75_365_goshawks-2_2925	365	Eur-bc75_365_predators-25_3977	365	0	Northern goshawk	predator	100.0
+adaptation	Eur-bc75_418_goshawks-2	Eur-bc75_418_predators-12	Eur-bc75_418_goshawks-2_2925	418	Eur-bc75_418_predators-12_3977	418	0	Northern goshawk	predator	100.0
+adaptation	Eur-bc75_289_goshawks-2	Eur-bc75_289_predators-7	Eur-bc75_289_goshawks-2_2925	289	Eur-bc75_289_predators-7_3977	289	0	Northern goshawk	predator	100.0
+adaptation	Eur-bc75_213_goshawks-2	Eur-bc75_213_predators-6	Eur-bc75_213_goshawks-2_2925	213	Eur-bc75_213_predators-6_3977	213	0	Northern goshawk	predator	100.0
+adaptation	Eur-bc75_373_goshawk-13	Eur-bc75_373_predators-30	Eur-bc75_373_goshawk-13_5272	373	Eur-bc75_373_predators-30_359	373	0	northern goshawk	Predator	100.0
+adaptation	Eur-bc75_403_goshawk-13	Eur-bc75_403_predator-19	Eur-bc75_403_goshawk-13_5272	403	Eur-bc75_403_predator-19_359	403	0	northern goshawk	Predator	100.0
+adaptation	Eur-bc75_423_goshawk-31	Eur-bc75_423_predators-41	Eur-bc75_423_goshawk-31_5272	423	Eur-bc75_423_predators-41_359	423	0	northern goshawk	Predator	100.0
+adaptation	Lon-b0af_530_kite-72	Lon-b0af_530_predators-11	Lon-b0af_530_kite-72_5401	530	Lon-b0af_530_predators-11_359	530	0	red kite	Predator	100.0
+adaptation	Lon-b0af_530_kite-65	Lon-b0af_530_predators-11	Lon-b0af_530_kite-65_5401	530	Lon-b0af_530_predators-11_359	530	0	red kite	Predator	100.0
+adaptation	Eur-bc75_160_harrier-31	Eur-bc75_160_territorial-4	Eur-bc75_160_harrier-31_161	160	Eur-bc75_160_territorial-4_3985	160	0	Hen harrier	territorial	100.0
+adaptation	Wes-9ef7_49_harriers-21	Wes-9ef7_49_territorial-4	Wes-9ef7_49_harriers-21_161	49	Wes-9ef7_49_territorial-4_3985	49	0	Hen harrier	territorial	100.0
+adaptation	Bar-78df_197_gentilis-23	Bar-78df_197_predators-16	Bar-78df_197_gentilis-23_2926	197	Bar-78df_197_predators-16_359	197	0	Accipiter gentilis	Predator	87.0
+adaptation	Gre-e890_125_chrysaetos-25	Gre-e890_125_predators-29	Gre-e890_125_chrysaetos-25_145	125	Gre-e890_125_predators-29_3977	125	0	Aquila chrysaetos	predator	87.0
+adaptation	Lon-b0af_523_gentilis-22	Lon-b0af_523_predators-7	Lon-b0af_523_gentilis-22_2926	523	Lon-b0af_523_predators-7_3977	523	0	Accipiter gentilis	predator	87.0
+adaptation	Eur-3123_241_chrysaetos-5	Eur-3123_241_predators-9	Eur-3123_241_chrysaetos-5_145	241	Eur-3123_241_predators-9_3977	241	0	Aquila chrysaetos	predator	87.0
+adaptation	Eur-1ed4_58_chrysaetos-14	Eur-1ed4_58_predators-21	Eur-1ed4_58_chrysaetos-14_145	58	Eur-1ed4_58_predators-21_3977	58	0	Aquila chrysaetos	predator	87.0
+adaptation	Lon-b0af_530_nisus-126	Lon-b0af_530_predators-11	Lon-b0af_530_nisus-126_2172	530	Lon-b0af_530_predators-11_3977	530	0	Accipiter nisus	predator	87.0
+adaptation	Com-f222_480_nisus-18	Com-f222_480_predator-6	Com-f222_480_nisus-18_2172	480	Com-f222_480_predator-6_3977	480	0	Accipiter nisus	predator	87.0
+adaptation	Gol-cfeb_86_gentilis-15	Gol-cfeb_86_predator-7	Gol-cfeb_86_gentilis-15_2926	86	Gol-cfeb_86_predator-7_3977	86	0	Accipiter gentilis	predator	87.0
+adaptation	Gol-cfeb_121_gentilis-68	Gol-cfeb_121_predators-18	Gol-cfeb_121_gentilis-68_2926	121	Gol-cfeb_121_predators-18_3977	121	0	Accipiter gentilis	predator	87.0
+adaptation	Whi-b4c3_258_eagles-4	Whi-b4c3_258_predators-21	Whi-b4c3_258_eagles-4_3671	258	Whi-b4c3_258_predators-21_3977	258	0	White-tailed eagle	predator	83.0
+adaptation	Eur-bc75_412_goshawk-21	Eur-bc75_412_predators-42	Eur-bc75_412_goshawk-21_5273	412	Eur-bc75_412_predators-42_359	412	0	goshawk	Predator	83.0
+adaptation	Eur-bc75_432_goshawks-10	Eur-bc75_432_predators-3	Eur-bc75_432_goshawks-10_5273	432	Eur-bc75_432_predators-3_359	432	0	goshawk	Predator	83.0
+adaptation	Eur-bc75_438_goshawk-71	Eur-bc75_438_predators-58	Eur-bc75_438_goshawk-71_5273	438	Eur-bc75_438_predators-58_359	438	0	goshawk	Predator	83.0
+adaptation	Whi-b4c3_462_eagles-4	Whi-b4c3_462_predators-8	Whi-b4c3_462_eagles-4_3671	462	Whi-b4c3_462_predators-8_3977	462	0	White-tailed eagle	predator	83.0
+adaptation	Whi-b4c3_258_eagles-4	Whi-b4c3_258_predators-7	Whi-b4c3_258_eagles-4_3671	258	Whi-b4c3_258_predators-7_3977	258	0	White-tailed eagle	predator	83.0
+adaptation	Eur-bc75_261_goshawks-4	Eur-bc75_261_predators-28	Eur-bc75_261_goshawks-4_5273	261	Eur-bc75_261_predators-28_359	261	0	goshawk	Predator	83.0
+adaptation	Eur-bc75_262_goshawks-23	Eur-bc75_262_predator-37	Eur-bc75_262_goshawks-23_5273	262	Eur-bc75_262_predator-37_359	262	0	goshawk	Predator	83.0
+adaptation	Eur-bc75_371_goshawks-20	Eur-bc75_371_predators-7	Eur-bc75_371_goshawks-20_5273	371	Eur-bc75_371_predators-7_359	371	0	goshawk	Predator	83.0
+adaptation	Eur-bc75_438_goshawk-39	Eur-bc75_438_predators-58	Eur-bc75_438_goshawk-39_5273	438	Eur-bc75_438_predators-58_359	438	0	goshawk	Predator	83.0
+adaptation	Mee-4cdd_89_goshawks-15	Mee-4cdd_89_predators-19	Mee-4cdd_89_goshawks-15_5273	89	Mee-4cdd_89_predators-19_359	89	0	goshawk	Predator	83.0
+adaptation	Eur-bc75_161_goshawk-4	Eur-bc75_161_territorial-57	Eur-bc75_161_goshawk-4_5273	161	Eur-bc75_161_territorial-57_3985	161	0	goshawk	territorial	83.0
+adaptation	Eur-bc75_161_goshawk-13	Eur-bc75_161_territorial-57	Eur-bc75_161_goshawk-13_5273	161	Eur-bc75_161_territorial-57_3985	161	0	goshawk	territorial	83.0
+adaptation	Eur-bc75_44_goshawk-3	Eur-bc75_44_dimorphism-23	Eur-bc75_44_goshawk-3_5273	44	Eur-bc75_44_dimorphism-23_3791	44	0	goshawk	sexual dimorphism	83.0
+adaptation	Eur-bc75_44_goshawk-3	Eur-bc75_44_dimorphism-11	Eur-bc75_44_goshawk-3_5273	44	Eur-bc75_44_dimorphism-11_3791	44	0	goshawk	sexual dimorphism	83.0
+adaptation	Taw-0bfd_102_goshawks-18	Taw-0bfd_102_Predators-1	Taw-0bfd_102_goshawks-18_5273	102	Taw-0bfd_102_Predators-1_3977	102	0	goshawk	predator	83.0
+adaptation	Red-a286_67_goshawk-31	Red-a286_67_predators-2	Red-a286_67_goshawk-31_5273	67	Red-a286_67_predators-2_3977	67	0	goshawk	predator	83.0
+adaptation	Whi-b4c3_355_eagles-4	Whi-b4c3_355_predator-15	Whi-b4c3_355_eagles-4_3671	355	Whi-b4c3_355_predator-15_3977	355	0	White-tailed eagle	predator	83.0
+adaptation	Bai-1860_59_eagle-32	Bai-1860_59_predators-18	Bai-1860_59_eagle-32_5627	59	Bai-1860_59_predators-18_3977	59	0	white-tailed eagle	predator	83.0
+adaptation	Eur-bc75_530_goshawks-27	Eur-bc75_530_predators-24	Eur-bc75_530_goshawks-27_5273	530	Eur-bc75_530_predators-24_3977	530	0	goshawk	predator	83.0
+adaptation	Eur-9431_150_Goshawk-18	Eur-9431_150_predators-2	Eur-9431_150_Goshawk-18_2927	150	Eur-9431_150_predators-2_359	150	0	Goshawk	Predator	83.0
+adaptation	Eur-9431_208_Goshawk-26	Eur-9431_208_predators-31	Eur-9431_208_Goshawk-26_2927	208	Eur-9431_208_predators-31_359	208	0	Goshawk	Predator	83.0
+adaptation	Pre-0725_260_goshawks-20	Pre-0725_260_predators-15	Pre-0725_260_goshawks-20_5273	260	Pre-0725_260_predators-15_3977	260	0	goshawk	predator	83.0
+adaptation	Whi-b4c3_690_eagles-10	Whi-b4c3_690_territorial-44	Whi-b4c3_690_eagles-10_5627	690	Whi-b4c3_690_territorial-44_3985	690	0	white-tailed eagle	territorial	83.0
+adaptation	Eur-bc75_248_goshawks-7	Eur-bc75_248_predators-65	Eur-bc75_248_goshawks-7_5273	248	Eur-bc75_248_predators-65_359	248	0	goshawk	Predator	83.0
+adaptation	Eur-bc75_275_goshawks-16	Eur-bc75_275_predator-38	Eur-bc75_275_goshawks-16_5273	275	Eur-bc75_275_predator-38_359	275	0	goshawk	Predator	83.0
+adaptation	Eur-bc75_438_goshawk-71	Eur-bc75_438_predators-7	Eur-bc75_438_goshawk-71_5273	438	Eur-bc75_438_predators-7_359	438	0	goshawk	Predator	83.0
+adaptation	Lon-b0af_530_goshawks-2	Lon-b0af_530_predators-11	Lon-b0af_530_goshawks-2_5273	530	Lon-b0af_530_predators-11_359	530	0	goshawk	Predator	83.0
+adaptation	Eur-bc75_253_goshawk-3	Eur-bc75_253_predator-14	Eur-bc75_253_goshawk-3_5273	253	Eur-bc75_253_predator-14_359	253	0	goshawk	Predator	83.0
+adaptation	Eur-bc75_261_goshawks-4	Eur-bc75_261_predator-20	Eur-bc75_261_goshawks-4_5273	261	Eur-bc75_261_predator-20_359	261	0	goshawk	Predator	83.0
+adaptation	Eur-bc75_438_goshawks-47	Eur-bc75_438_predators-58	Eur-bc75_438_goshawks-47_5273	438	Eur-bc75_438_predators-58_359	438	0	goshawk	Predator	83.0
+adaptation	Eur-bc75_372_goshawk-7	Eur-bc75_372_predators-4	Eur-bc75_372_goshawk-7_5273	372	Eur-bc75_372_predators-4_359	372	0	goshawk	Predator	83.0
+adaptation	Eur-bc75_438_goshawks-47	Eur-bc75_438_predators-7	Eur-bc75_438_goshawks-47_5273	438	Eur-bc75_438_predators-7_359	438	0	goshawk	Predator	83.0
+adaptation	Eur-bc75_412_goshawks-32	Eur-bc75_412_predators-42	Eur-bc75_412_goshawks-32_5273	412	Eur-bc75_412_predators-42_359	412	0	goshawk	Predator	83.0
+adaptation	Eur-bc75_438_goshawk-39	Eur-bc75_438_predators-7	Eur-bc75_438_goshawk-39_5273	438	Eur-bc75_438_predators-7_359	438	0	goshawk	Predator	83.0
+adaptation	Fra-1cd0_80_eagle-14	Fra-1cd0_80_predators-2	Fra-1cd0_80_eagle-14_2004	80	Fra-1cd0_80_predators-2_359	80	0	Crowned hawk-eagle	Predator	62.0
+adaptation	Slo-4b9b_174_eagle-10	Slo-4b9b_174_predators-2	Slo-4b9b_174_eagle-10_2004	174	Slo-4b9b_174_predators-2_3977	174	0	Crowned hawk-eagle	predator	62.0
+adaptation	Slo-4b9b_18_eagles-14	Slo-4b9b_18_predators-4	Slo-4b9b_18_eagles-14_4847	18	Slo-4b9b_18_predators-4_3977	18	0	crowned hawk-eagle	predator	62.0
+adaptation	Fra-1cd0_80_eagle-8	Fra-1cd0_80_predators-2	Fra-1cd0_80_eagle-8_2004	80	Fra-1cd0_80_predators-2_359	80	0	Crowned hawk-eagle	Predator	62.0
+adaptation	Eur-3123_241_eagles-2	Eur-3123_242_predators-41	Eur-3123_241_eagles-2_144	241	Eur-3123_242_predators-41_359	242	1	Golden eagle	Predator	50.0
+adaptation	Whi-b4c3_503_eagles-2	Whi-b4c3_502_predators-35	Whi-b4c3_503_eagles-2_144	503	Whi-b4c3_502_predators-35_3977	502	1	Golden eagle	predator	50.0
+adaptation	Eur-3123_241_eagle-50	Eur-3123_242_predators-41	Eur-3123_241_eagle-50_144	241	Eur-3123_242_predators-41_359	242	1	Golden eagle	Predator	50.0
+adaptation	Pro-10af_82_eagles-2	Pro-10af_81_predators-34	Pro-10af_82_eagles-2_144	82	Pro-10af_81_predators-34_359	81	1	Golden eagle	Predator	50.0
+adaptation	Whi-b4c3_503_eagles-34	Whi-b4c3_502_predators-35	Whi-b4c3_503_eagles-34_144	503	Whi-b4c3_502_predators-35_359	502	1	Golden eagle	Predator	50.0
+adaptation	Afr9d9d_8_eagles-6	Afr9d9d_7_predators-3	Afr9d9d_8_eagles-6_1448	8	Afr9d9d_7_predators-3_3977	7	1	African fish eagle	predator	50.0
+adaptation	Whi-b4c3_503_eagles-27	Whi-b4c3_502_predators-35	Whi-b4c3_503_eagles-27_144	503	Whi-b4c3_502_predators-35_359	502	1	Golden eagle	Predator	50.0
+adaptation	Lon-b0af_530_sparrowhawk-123	Lon-b0af_531_territorial-35	Lon-b0af_530_sparrowhawk-123_4924	530	Lon-b0af_531_territorial-35_3985	531	1	sparrowhawk	territorial	50.0
+adaptation	Sex-811c_188_sparrowhawks-18	Sex-811c_189_dimorphism-5	Sex-811c_188_sparrowhawks-18_4924	188	Sex-811c_189_dimorphism-5_3791	189	1	sparrowhawk	sexual dimorphism	50.0
+adaptation	Sex-811c_188_sparrowhawks-18	Sex-811c_187_dimorphism-2	Sex-811c_188_sparrowhawks-18_4924	188	Sex-811c_187_dimorphism-2_3791	187	1	sparrowhawk	sexual dimorphism	50.0
+adaptation	Red1328_22_kite-19	Red1328_21_predator-17	Red1328_22_kite-19_5401	22	Red1328_21_predator-17_3977	21	1	red kite	predator	50.0
+adaptation	Mal-71cc_147_Circus-23	Mal-71cc_148_predators-10	Mal-71cc_147_Circus-23_1067	147	Mal-71cc_148_predators-10_359	148	1	Circus	Predator	50.0
+adaptation	Mal-71cc_147_Circus-23	Mal-71cc_146_predators-5	Mal-71cc_147_Circus-23_1067	147	Mal-71cc_146_predators-5_359	146	1	Circus	Predator	50.0
+adaptation	Sno-0a8f_474_Circus-58	Sno-0a8f_473_predators-23	Sno-0a8f_474_Circus-58_1067	474	Sno-0a8f_473_predators-23_359	473	1	Circus	Predator	50.0
+adaptation	Sno-0a8f_474_Circus-51	Sno-0a8f_473_predators-23	Sno-0a8f_474_Circus-51_1067	474	Sno-0a8f_473_predators-23_359	473	1	Circus	Predator	50.0
+adaptation	Eur-bc75_160_harrier-31	Eur-bc75_161_territorial-57	Eur-bc75_160_harrier-31_161	160	Eur-bc75_161_territorial-57_3985	161	1	Hen harrier	territorial	50.0
+adaptation	Gol-1dbf_284_eagles-7	Gol-1dbf_285_Migration-8	Gol-1dbf_284_eagles-7_3857	284	Gol-1dbf_285_Migration-8_3781	285	1	golden eagle	migration	50.0
+adaptation	Gol-1dbf_286_eagles-5	Gol-1dbf_285_Migration-8	Gol-1dbf_286_eagles-5_3857	286	Gol-1dbf_285_Migration-8_3781	285	1	golden eagle	migration	50.0
+adaptation	Whi-b4c3_524_eagle-40	Whi-b4c3_525_migration-29	Whi-b4c3_524_eagle-40_3857	524	Whi-b4c3_525_migration-29_3781	525	1	golden eagle	migration	50.0
+adaptation	Gol-1dbf_294_eagles-7	Gol-1dbf_295_migration-20	Gol-1dbf_294_eagles-7_3857	294	Gol-1dbf_295_migration-20_1	295	1	golden eagle	Migration	50.0
+adaptation	Mer-5a4a_96_harriers-14	Mer-5a4a_95_Migration-1	Mer-5a4a_96_harriers-14_3868	96	Mer-5a4a_95_Migration-1_1	95	1	hen harrier	Migration	50.0
+adaptation	Com-f222_161_buzzard-8	Com-f222_160_migration-23	Com-f222_161_buzzard-8_5096	161	Com-f222_160_migration-23_1	160	1	honey buzzard	Migration	50.0
+adaptation	Com-f222_159_buzzard-4	Com-f222_160_migration-23	Com-f222_159_buzzard-4_5096	159	Com-f222_160_migration-23_1	160	1	honey buzzard	Migration	50.0
+adaptation	Com-f222_161_buzzard-12	Com-f222_160_migration-23	Com-f222_161_buzzard-12_5096	161	Com-f222_160_migration-23_1	160	1	honey buzzard	Migration	50.0
+adaptation	Swa-27b4_297_buzzard-10	Swa-27b4_296_migration-21	Swa-27b4_297_buzzard-10_5096	297	Swa-27b4_296_migration-21_1	296	1	honey buzzard	Migration	50.0
+adaptation	Eur-5425_41_buzzard-12	Eur-5425_42_predator-4	Eur-5425_41_buzzard-12_5096	41	Eur-5425_42_predator-4_359	42	1	honey buzzard	Predator	50.0
+adaptation	Eur-5425_41_buzzard-9	Eur-5425_42_predator-4	Eur-5425_41_buzzard-9_5096	41	Eur-5425_42_predator-4_359	42	1	honey buzzard	Predator	50.0
+adaptation	Asi-8957_275_buzzards-22	Asi-8957_274_Predators-5	Asi-8957_275_buzzards-22_5096	275	Asi-8957_274_Predators-5_359	274	1	honey buzzard	Predator	50.0
+adaptation	Gol29ff_5_eagles-5	Gol29ff_6_scavengers-2	Gol29ff_5_eagles-5_3857	5	Gol29ff_6_scavengers-2_3979	6	1	golden eagle	scavenger	50.0
+adaptation	Was-5a21_151_buzzard-3	Was-5a21_150_predators-7	Was-5a21_151_buzzard-3_5096	151	Was-5a21_150_predators-7_359	150	1	honey buzzard	Predator	50.0
+adaptation	Acc-0f45_128_eagle-33	Acc-0f45_127_scavengers-18	Acc-0f45_128_eagle-33_3857	128	Acc-0f45_127_scavengers-18_3979	127	1	golden eagle	scavenger	50.0
+adaptation	Haa-eeec_38_eagle-17	Haa-eeec_39_predators-49	Haa-eeec_38_eagle-17_5084	38	Haa-eeec_39_predators-49_359	39	1	harpy eagle	Predator	50.0
+adaptation	Haa-eeec_38_eagle-7	Haa-eeec_39_predators-49	Haa-eeec_38_eagle-7_5084	38	Haa-eeec_39_predators-49_359	39	1	harpy eagle	Predator	50.0
+adaptation	Coa-e8c3_76_eagles-16	Coa-e8c3_75_predators-2	Coa-e8c3_76_eagles-16_5084	76	Coa-e8c3_75_predators-2_359	75	1	harpy eagle	Predator	50.0
+adaptation	Coa-e8c3_76_eagles-9	Coa-e8c3_75_predators-2	Coa-e8c3_76_eagles-9_5084	76	Coa-e8c3_75_predators-2_359	75	1	harpy eagle	Predator	50.0
+adaptation	Coa-e8c3_76_eagles-20	Coa-e8c3_75_predators-2	Coa-e8c3_76_eagles-20_5084	76	Coa-e8c3_75_predators-2_359	75	1	harpy eagle	Predator	50.0
+adaptation	Cap-154f_111_eagle-11	Cap-154f_110_predators-2	Cap-154f_111_eagle-11_5084	111	Cap-154f_110_predators-2_359	110	1	harpy eagle	Predator	50.0
+adaptation	Acc-0f45_128_eagle-10	Acc-0f45_127_scavengers-18	Acc-0f45_128_eagle-10_3857	128	Acc-0f45_127_scavengers-18_3979	127	1	golden eagle	scavenger	50.0
+adaptation	Acc-0f45_128_eagle-26	Acc-0f45_127_scavengers-18	Acc-0f45_128_eagle-26_3857	128	Acc-0f45_127_scavengers-18_3979	127	1	golden eagle	scavenger	50.0
+adaptation	Acc-0f45_128_eagle-19	Acc-0f45_127_scavengers-18	Acc-0f45_128_eagle-19_3857	128	Acc-0f45_127_scavengers-18_3979	127	1	golden eagle	scavenger	50.0
+adaptation	Ves-d414_203_buzzard-10	Ves-d414_202_Predators-1	Ves-d414_203_buzzard-10_5096	203	Ves-d414_202_Predators-1_359	202	1	honey buzzard	Predator	50.0
+adaptation	Was-5a21_151_buzzard-3	Was-5a21_152_predators-8	Was-5a21_151_buzzard-3_5096	151	Was-5a21_152_predators-8_359	152	1	honey buzzard	Predator	50.0
+adaptation	Wes-9ef7_52_harrier-3	Wes-9ef7_51_predators-80	Wes-9ef7_52_harrier-3_3925	52	Wes-9ef7_51_predators-80_3977	51	1	marsh harrier	predator	50.0
+adaptation	Gre-e890_127_harrier-24	Gre-e890_128_predators-18	Gre-e890_127_harrier-24_3925	127	Gre-e890_128_predators-18_3977	128	1	marsh harrier	predator	50.0
+adaptation	Gre-e890_127_harrier-24	Gre-e890_128_predators-40	Gre-e890_127_harrier-24_3925	127	Gre-e890_128_predators-40_3977	128	1	marsh harrier	predator	50.0
+adaptation	Cro-5646_353_eagle-12	Cro-5646_352_predators-3	Cro-5646_353_eagle-12_4846	353	Cro-5646_352_predators-3_359	352	1	crowned eagle	Predator	50.0
+adaptation	Cro-5646_357_eagles-27	Cro-5646_358_predators-13	Cro-5646_357_eagles-27_4846	357	Cro-5646_358_predators-13_359	358	1	crowned eagle	Predator	50.0
+adaptation	Wes-9ef7_50_harriers-14	Wes-9ef7_49_territorial-4	Wes-9ef7_50_harriers-14_161	50	Wes-9ef7_49_territorial-4_3985	49	1	Hen harrier	territorial	50.0
+adaptation	Nor-d815_82_Harriers-1	Nor-d815_81_predators-24	Nor-d815_82_Harriers-1_1068	82	Nor-d815_81_predators-24_3977	81	1	Harriers	predator	50.0
+adaptation	Hen-610d_95_Harriers-1	Hen-610d_94_predators-17	Hen-610d_95_Harriers-1_1068	95	Hen-610d_94_predators-17_3977	94	1	Harriers	predator	50.0
+adaptation	Gol-1dbf_292_eagles-2	Gol-1dbf_291_territorial-11	Gol-1dbf_292_eagles-2_144	292	Gol-1dbf_291_territorial-11_3985	291	1	Golden eagle	territorial	50.0
+adaptation	Eur-bc75_152_goshawk-3	Eur-bc75_153_territorial-5	Eur-bc75_152_goshawk-3_5272	152	Eur-bc75_153_territorial-5_3985	153	1	northern goshawk	territorial	50.0
+adaptation	Gol29ff_7_eagles-18	Gol29ff_6_scavengers-2	Gol29ff_7_eagles-18_144	7	Gol29ff_6_scavengers-2_3979	6	1	Golden eagle	scavenger	50.0
+adaptation	Whi-b4c3_684_harriers-30	Whi-b4c3_683_predators-3	Whi-b4c3_684_harriers-30_3925	684	Whi-b4c3_683_predators-3_3977	683	1	marsh harrier	predator	50.0
+adaptation	Cro-5646_365_eagles-5	Cro-5646_366_predators-10	Cro-5646_365_eagles-5_4846	365	Cro-5646_366_predators-10_359	366	1	crowned eagle	Predator	50.0
+adaptation	Bar-78df_197_gentilis-23	Bar-78df_196_predators-6	Bar-78df_197_gentilis-23_2926	197	Bar-78df_196_predators-6_3977	196	1	Accipiter gentilis	predator	43.5
+adaptation	Lon-b0af_523_gentilis-22	Lon-b0af_522_predators-38	Lon-b0af_523_gentilis-22_2926	523	Lon-b0af_522_predators-38_3977	522	1	Accipiter gentilis	predator	43.5
+adaptation	Wil-3cbf_107_gentilis-43	Wil-3cbf_108_Predators-1	Wil-3cbf_107_gentilis-43_2926	107	Wil-3cbf_108_Predators-1_359	108	1	Accipiter gentilis	Predator	43.5
+taxongroup	Red-4352_348_Accipiter-21	Red-4352_348_birds-6	Red-4352_348_Accipiter-21_873	348	Red-4352_348_birds-6_381	348	0	Accipiter	Birds	100.0
+taxongroup	Gre-0f9b_76_harriers-106	Gre-0f9b_76_birds-7	Gre-0f9b_76_harriers-106_4343	76	Gre-0f9b_76_birds-7_381	76	0	harriers	Birds	100.0
+taxongroup	Gol-1dbf_409_eagle-3	Gol-1dbf_409_bird-9	Gol-1dbf_409_eagle-3_3857	409	Gol-1dbf_409_bird-9_4968	409	0	golden eagle	birds of prey	100.0
+taxongroup	Bir-959d_58_harriers-9	Bir-959d_58_Accipitridae-1	Bir-959d_58_harriers-9_4343	58	Bir-959d_58_Accipitridae-1_436	58	0	harriers	Accipitridae	100.0
+taxongroup	Har-a313_2_harrier-2	Har-a313_2_Accipitridae-24	Har-a313_2_harrier-2_4343	2	Har-a313_2_Accipitridae-24_436	2	0	harriers	Accipitridae	100.0
+taxongroup	Hen-610d_55_harrier-5	Hen-610d_55_bird-24	Hen-610d_55_harrier-5_4343	55	Hen-610d_55_bird-24_381	55	0	harriers	Birds	100.0
+taxongroup	Acc-0f45_7_harriers-14	Acc-0f45_7_birds-5	Acc-0f45_7_harriers-14_4343	7	Acc-0f45_7_birds-5_381	7	0	harriers	Birds	100.0
+taxongroup	Wes-9ef7_125_harrier-2	Wes-9ef7_125_Birds-9	Wes-9ef7_125_harrier-2_4343	125	Wes-9ef7_125_Birds-9_381	125	0	harriers	Birds	100.0
+taxongroup	Wes-9ef7_125_harrier-2	Wes-9ef7_125_Birds-6	Wes-9ef7_125_harrier-2_4343	125	Wes-9ef7_125_Birds-6_381	125	0	harriers	Birds	100.0
+taxongroup	Wes-9ef7_2_harrier-12	Wes-9ef7_2_bird-15	Wes-9ef7_2_harrier-12_4343	2	Wes-9ef7_2_bird-15_381	2	0	harriers	Birds	100.0
+taxongroup	Wes-9ef7_14_harrier-35	Wes-9ef7_14_bird-16	Wes-9ef7_14_harrier-35_4343	14	Wes-9ef7_14_bird-16_381	14	0	harriers	Birds	100.0
+taxongroup	Wes-9ef7_125_harrier-2	Wes-9ef7_125_Birds-30	Wes-9ef7_125_harrier-2_4343	125	Wes-9ef7_125_Birds-30_381	125	0	harriers	Birds	100.0
+taxongroup	Wes-9ef7_2_harrier-4	Wes-9ef7_2_bird-15	Wes-9ef7_2_harrier-4_4343	2	Wes-9ef7_2_bird-15_381	2	0	harriers	Birds	100.0
+taxongroup	Wes-9ef7_51_harriers-16	Wes-9ef7_51_birds-97	Wes-9ef7_51_harriers-16_4343	51	Wes-9ef7_51_birds-97_381	51	0	harriers	Birds	100.0
+taxongroup	Wes-9ef7_49_harriers-21	Wes-9ef7_49_bird-5	Wes-9ef7_49_harriers-21_4343	49	Wes-9ef7_49_bird-5_381	49	0	harriers	Birds	100.0
+taxongroup	Gre-0f9b_76_harriers-106	Gre-0f9b_76_birds-102	Gre-0f9b_76_harriers-106_4343	76	Gre-0f9b_76_birds-102_381	76	0	harriers	Birds	100.0
+taxongroup	Hen-610d_66_harrier-2	Hen-610d_66_bird-9	Hen-610d_66_harrier-2_4343	66	Hen-610d_66_bird-9_381	66	0	harriers	Birds	100.0
+taxongroup	Nor-d815_2_harrier-3	Nor-d815_2_bird-23	Nor-d815_2_harrier-3_4343	2	Nor-d815_2_bird-23_381	2	0	harriers	Birds	100.0
+taxongroup	Eur-bc75_2_harriers-40	Eur-bc75_2_bird-16	Eur-bc75_2_harriers-40_4343	2	Eur-bc75_2_bird-16_381	2	0	harriers	Birds	100.0
+taxongroup	Henac9a_19_harriers-6	Henac9a_19_birds-12	Henac9a_19_harriers-6_4343	19	Henac9a_19_birds-12_381	19	0	harriers	Birds	100.0
+taxongroup	Har-a313_2_harrier-2	Har-a313_2_bird-20	Har-a313_2_harrier-2_4343	2	Har-a313_2_bird-20_381	2	0	harriers	Birds	100.0
+taxongroup	Har-a313_11_harrier-34	Har-a313_11_bird-15	Har-a313_11_harrier-34_4343	11	Har-a313_11_bird-15_381	11	0	harriers	Birds	100.0
+taxongroup	Hea-9af6_16_harrier-23	Hea-9af6_16_bird-8	Hea-9af6_16_harrier-23_4343	16	Hea-9af6_16_bird-8_381	16	0	harriers	Birds	100.0
+taxongroup	Eur-bc75_160_harrier-31	Eur-bc75_160_bird-19	Eur-bc75_160_harrier-31_4343	160	Eur-bc75_160_bird-19_381	160	0	harriers	Birds	100.0
+taxongroup	Henac9a_2_harriers-15	Henac9a_2_Bird-1	Henac9a_2_harriers-15_4343	2	Henac9a_2_Bird-1_381	2	0	harriers	Birds	100.0
+taxongroup	Nor-d815_48_harrier-5	Nor-d815_48_bird-24	Nor-d815_48_harrier-5_4343	48	Nor-d815_48_bird-24_381	48	0	harriers	Birds	100.0
+taxongroup	Eur-bc75_378_harriers-18	Eur-bc75_378_birds-15	Eur-bc75_378_harriers-18_4343	378	Eur-bc75_378_birds-15_381	378	0	harriers	Birds	100.0
+taxongroup	New-ec36_49_harriers-7	New-ec36_49_birds-5	New-ec36_49_harriers-7_4343	49	New-ec36_49_birds-5_381	49	0	harriers	Birds	100.0
+taxongroup	Hen-610d_50_harrier-6	Hen-610d_50_bird-9	Hen-610d_50_harrier-6_4343	50	Hen-610d_50_bird-9_381	50	0	harriers	Birds	100.0
+taxongroup	Hen-610d_50_harriers-25	Hen-610d_50_bird-9	Hen-610d_50_harriers-25_4343	50	Hen-610d_50_bird-9_381	50	0	harriers	Birds	100.0
+taxongroup	Gol-1dbf_201_eagles-2	Gol-1dbf_201_birds-32	Gol-1dbf_201_eagles-2_3857	201	Gol-1dbf_201_birds-32_3995	201	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_364_eagle-6	Gol-1dbf_364_bird-9	Gol-1dbf_364_eagle-6_3857	364	Gol-1dbf_364_bird-9_3995	364	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_201_eagles-7	Gol-1dbf_201_birds-32	Gol-1dbf_201_eagles-7_3857	201	Gol-1dbf_201_birds-32_3995	201	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_178_eagles-6	Gol-1dbf_178_birds-27	Gol-1dbf_178_eagles-6_3857	178	Gol-1dbf_178_birds-27_3995	178	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_380_eagles-49	Gol-1dbf_380_animals-28	Gol-1dbf_380_eagles-49_3857	380	Gol-1dbf_380_animals-28_3812	380	0	golden eagle	animals	100.0
+taxongroup	Acc-0f45_128_eagle-33	Acc-0f45_128_animals-52	Acc-0f45_128_eagle-33_3857	128	Acc-0f45_128_animals-52_3812	128	0	golden eagle	animals	100.0
+taxongroup	Acc-0f45_128_eagle-10	Acc-0f45_128_animals-52	Acc-0f45_128_eagle-10_3857	128	Acc-0f45_128_animals-52_3812	128	0	golden eagle	animals	100.0
+taxongroup	Acc-0f45_128_eagle-19	Acc-0f45_128_animals-52	Acc-0f45_128_eagle-19_3857	128	Acc-0f45_128_animals-52_3812	128	0	golden eagle	animals	100.0
+taxongroup	Acc-0f45_128_eagle-26	Acc-0f45_128_animals-52	Acc-0f45_128_eagle-26_3857	128	Acc-0f45_128_animals-52_3812	128	0	golden eagle	animals	100.0
+taxongroup	Gol29ff_27_eagle-3	Gol29ff_27_animal-19	Gol29ff_27_eagle-3_3857	27	Gol29ff_27_animal-19_3812	27	0	golden eagle	animals	100.0
+taxongroup	Gol-1dbf_380_eagle-7	Gol-1dbf_380_animals-28	Gol-1dbf_380_eagle-7_3857	380	Gol-1dbf_380_animals-28_3812	380	0	golden eagle	animals	100.0
+taxongroup	Gol-1dbf_380_eagle-34	Gol-1dbf_380_animals-28	Gol-1dbf_380_eagle-34_3857	380	Gol-1dbf_380_animals-28_3812	380	0	golden eagle	animals	100.0
+taxongroup	Gol-1dbf_177_eagle-5	Gol-1dbf_177_animals-12	Gol-1dbf_177_eagle-5_3857	177	Gol-1dbf_177_animals-12_3812	177	0	golden eagle	animals	100.0
+taxongroup	Gol-1dbf_387_eagle-12	Gol-1dbf_387_birds-19	Gol-1dbf_387_eagle-12_3857	387	Gol-1dbf_387_birds-19_3995	387	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_206_eagle-23	Gol-1dbf_206_bird-39	Gol-1dbf_206_eagle-23_3857	206	Gol-1dbf_206_bird-39_3995	206	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_206_eagle-12	Gol-1dbf_206_bird-39	Gol-1dbf_206_eagle-12_3857	206	Gol-1dbf_206_bird-39_3995	206	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_380_eagles-49	Gol-1dbf_380_birds-19	Gol-1dbf_380_eagles-49_3857	380	Gol-1dbf_380_birds-19_3995	380	0	golden eagle	birds	100.0
+taxongroup	Gol29ff_13_eagle-4	Gol29ff_13_bird-8	Gol29ff_13_eagle-4_3857	13	Gol29ff_13_bird-8_3995	13	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_112_eagle-6	Gol-1dbf_112_birds-24	Gol-1dbf_112_eagle-6_3857	112	Gol-1dbf_112_birds-24_3995	112	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_386_eagle-24	Gol-1dbf_386_birds-14	Gol-1dbf_386_eagle-24_3857	386	Gol-1dbf_386_birds-14_3995	386	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_321_eagle-11	Gol-1dbf_321_birds-4	Gol-1dbf_321_eagle-11_3857	321	Gol-1dbf_321_birds-4_3995	321	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_185_eagle-8	Gol-1dbf_185_birds-3	Gol-1dbf_185_eagle-8_3857	185	Gol-1dbf_185_birds-3_3995	185	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_2_eagle-3	Gol-1dbf_2_bird-10	Gol-1dbf_2_eagle-3_3857	2	Gol-1dbf_2_bird-10_3995	2	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_385_eagles-19	Gol-1dbf_385_bird-32	Gol-1dbf_385_eagles-19_3857	385	Gol-1dbf_385_bird-32_3995	385	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_303_eagles-10	Gol-1dbf_303_birds-57	Gol-1dbf_303_eagles-10_3857	303	Gol-1dbf_303_birds-57_3995	303	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_206_eagle-33	Gol-1dbf_206_bird-39	Gol-1dbf_206_eagle-33_3857	206	Gol-1dbf_206_bird-39_3995	206	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_380_eagle-34	Gol-1dbf_380_birds-19	Gol-1dbf_380_eagle-34_3857	380	Gol-1dbf_380_birds-19_3995	380	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_259_eagles-8	Gol-1dbf_259_bird-27	Gol-1dbf_259_eagles-8_3857	259	Gol-1dbf_259_bird-27_3995	259	0	golden eagle	birds	100.0
+taxongroup	Gol-1dbf_380_eagle-7	Gol-1dbf_380_birds-19	Gol-1dbf_380_eagle-7_3857	380	Gol-1dbf_380_birds-19_3995	380	0	golden eagle	birds	100.0
+taxongroup	Hen-610d_98_harrier-3	Hen-610d_98_bird-6	Hen-610d_98_harrier-3_4343	98	Hen-610d_98_bird-6_381	98	0	harriers	Birds	100.0
+taxongroup	Hen-610d_2_harrier-3	Hen-610d_2_bird-10	Hen-610d_2_harrier-3_4343	2	Hen-610d_2_bird-10_381	2	0	harriers	Birds	100.0
+taxongroup	Mer-5a4a_103_Accipiter-27	Mer-5a4a_103_birds-32	Mer-5a4a_103_Accipiter-27_873	103	Mer-5a4a_103_birds-32_381	103	0	Accipiter	Birds	100.0
+taxongroup	Mar-80c6_2_harriers-3	Mar-80c6_2_birds-5	Mar-80c6_2_harriers-3_4343	2	Mar-80c6_2_birds-5_3995	2	0	harriers	birds	100.0
+taxongroup	Henac9a_4_harriers-2	Henac9a_4_birds-18	Henac9a_4_harriers-2_4343	4	Henac9a_4_birds-18_3995	4	0	harriers	birds	100.0
+taxongroup	Kāk-e004_130_harrier-27	Kāk-e004_130_birds-13	Kāk-e004_130_harrier-27_4343	130	Kāk-e004_130_birds-13_381	130	0	harriers	Birds	100.0
+taxongroup	Nor-d815_8_harrier-17	Nor-d815_8_Birds-29	Nor-d815_8_harrier-17_4343	8	Nor-d815_8_Birds-29_3995	8	0	harriers	birds	100.0
+taxongroup	Henac9a_8_harriers-25	Henac9a_8_bird-10	Henac9a_8_harriers-25_4343	8	Henac9a_8_bird-10_3995	8	0	harriers	birds	100.0
+taxongroup	Com-f222_150_harrier-30	Com-f222_150_birds-26	Com-f222_150_harrier-30_4343	150	Com-f222_150_birds-26_3995	150	0	harriers	birds	100.0
+taxongroup	Com-f222_150_harrier-30	Com-f222_150_birds-9	Com-f222_150_harrier-30_4343	150	Com-f222_150_birds-9_3995	150	0	harriers	birds	100.0
+taxongroup	Eur-24a9_168_harriers-14	Eur-24a9_168_birds-6	Eur-24a9_168_harriers-14_4343	168	Eur-24a9_168_birds-6_3995	168	0	harriers	birds	100.0
+taxongroup	Lem-f2d0_489_harrier-40	Lem-f2d0_489_birds-32	Lem-f2d0_489_harrier-40_4343	489	Lem-f2d0_489_birds-32_3995	489	0	harriers	birds	100.0
+taxongroup	Mal-71cc_147_harriers-20	Mal-71cc_147_birds-14	Mal-71cc_147_harriers-20_4343	147	Mal-71cc_147_birds-14_381	147	0	harriers	Birds	100.0
+taxongroup	Nor-d815_4_harrier-3	Nor-d815_4_birds-11	Nor-d815_4_harrier-3_4343	4	Nor-d815_4_birds-11_381	4	0	harriers	Birds	100.0
+taxongroup	Nor-d815_60_harrier-2	Nor-d815_60_bird-9	Nor-d815_60_harrier-2_4343	60	Nor-d815_60_bird-9_381	60	0	harriers	Birds	100.0
+taxongroup	Red-2707_90_harriers-23	Red-2707_90_birds-16	Red-2707_90_harriers-23_4343	90	Red-2707_90_birds-16_381	90	0	harriers	Birds	100.0
+taxongroup	Red-1eff_2_harriers-35	Red-1eff_2_bird-13	Red-1eff_2_harriers-35_4343	2	Red-1eff_2_bird-13_381	2	0	harriers	Birds	100.0
+taxongroup	Com-f222_451_buzzard-23	Com-f222_451_birds-3	Com-f222_451_buzzard-23_4798	451	Com-f222_451_birds-3_3995	451	0	common buzzard	birds	100.0
+taxongroup	Com-f222_165_buzzard-35	Com-f222_165_Buteo-11	Com-f222_165_buzzard-35_4798	165	Com-f222_165_Buteo-11_947	165	0	common buzzard	Buteo	100.0
+taxongroup	But-d525_3_buzzards-13	But-d525_3_Buteo-29	But-d525_3_buzzards-13_4798	3	But-d525_3_Buteo-29_947	3	0	common buzzard	Buteo	100.0
+taxongroup	But-d525_63_buzzard-25	But-d525_63_Buteo-3	But-d525_63_buzzard-25_4798	63	But-d525_63_Buteo-3_947	63	0	common buzzard	Buteo	100.0
+taxongroup	Bar-78df_197_buzzard-28	Bar-78df_197_Buteo-30	Bar-78df_197_buzzard-28_4798	197	Bar-78df_197_Buteo-30_947	197	0	common buzzard	Buteo	100.0
+taxongroup	But-d525_3_buzzard-37	But-d525_3_Buteo-29	But-d525_3_buzzard-37_4798	3	But-d525_3_Buteo-29_947	3	0	common buzzard	Buteo	100.0
+taxongroup	Com-f222_92_buzzards-8	Com-f222_92_Buteo-21	Com-f222_92_buzzards-8_4798	92	Com-f222_92_Buteo-21_947	92	0	common buzzard	Buteo	100.0
+taxongroup	Com-f222_172_buzzards-12	Com-f222_172_Buteo-20	Com-f222_172_buzzards-12_4798	172	Com-f222_172_Buteo-20_947	172	0	common buzzard	Buteo	100.0
+taxongroup	Com-f222_22_buzzards-2	Com-f222_22_Buteo-22	Com-f222_22_buzzards-2_4798	22	Com-f222_22_Buteo-22_947	22	0	common buzzard	Buteo	100.0
+taxongroup	Com-f222_22_buzzards-2	Com-f222_22_Buteo-29	Com-f222_22_buzzards-2_4798	22	Com-f222_22_Buteo-29_947	22	0	common buzzard	Buteo	100.0
+taxongroup	Com-f222_370_buzzard-12	Com-f222_370_bird-5	Com-f222_370_buzzard-12_4798	370	Com-f222_370_bird-5_3995	370	0	common buzzard	birds	100.0
+taxongroup	Eur-c955_92_buzzard-22	Eur-c955_92_birds-7	Eur-c955_92_buzzard-22_4798	92	Eur-c955_92_birds-7_3995	92	0	common buzzard	birds	100.0
+taxongroup	Com-f222_454_buzzards-5	Com-f222_454_birds-24	Com-f222_454_buzzards-5_4798	454	Com-f222_454_birds-24_3995	454	0	common buzzard	birds	100.0
+taxongroup	Com-f222_458_buzzards-2	Com-f222_458_birds-11	Com-f222_458_buzzards-2_4798	458	Com-f222_458_birds-11_3995	458	0	common buzzard	birds	100.0
+taxongroup	Com-f222_87_buzzard-72	Com-f222_87_birds-59	Com-f222_87_buzzard-72_4798	87	Com-f222_87_birds-59_3995	87	0	common buzzard	birds	100.0
+taxongroup	Com-f222_615_buzzard-32	Com-f222_615_birds-26	Com-f222_615_buzzard-32_4798	615	Com-f222_615_birds-26_3995	615	0	common buzzard	birds	100.0
+taxongroup	Com-f222_479_buzzards-2	Com-f222_479_birds-11	Com-f222_479_buzzards-2_4798	479	Com-f222_479_birds-11_3995	479	0	common buzzard	birds	100.0
+taxongroup	Com-f222_293_buzzard-19	Com-f222_293_birds-6	Com-f222_293_buzzard-19_4798	293	Com-f222_293_birds-6_3995	293	0	common buzzard	birds	100.0
+taxongroup	Com-f222_375_buzzards-8	Com-f222_375_Birds-1	Com-f222_375_buzzards-8_4798	375	Com-f222_375_Birds-1_3995	375	0	common buzzard	birds	100.0
+taxongroup	Com-f222_180_buzzards-7	Com-f222_180_birds-20	Com-f222_180_buzzards-7_4798	180	Com-f222_180_birds-20_3995	180	0	common buzzard	birds	100.0
+taxongroup	Com-f222_364_buzzards-6	Com-f222_364_birds-3	Com-f222_364_buzzards-6_4798	364	Com-f222_364_birds-3_3995	364	0	common buzzard	birds	100.0
+taxongroup	Com-f222_364_buzzards-6	Com-f222_364_birds-17	Com-f222_364_buzzards-6_4798	364	Com-f222_364_birds-17_3995	364	0	common buzzard	birds	100.0
+taxongroup	Com-f222_365_buzzard-12	Com-f222_365_birds-5	Com-f222_365_buzzard-12_4798	365	Com-f222_365_birds-5_3995	365	0	common buzzard	birds	100.0
+taxongroup	Com-f222_365_buzzard-12	Com-f222_365_birds-25	Com-f222_365_buzzard-12_4798	365	Com-f222_365_birds-25_3995	365	0	common buzzard	birds	100.0
+taxongroup	Com-f222_87_buzzard-72	Com-f222_87_bird-21	Com-f222_87_buzzard-72_4798	87	Com-f222_87_bird-21_3995	87	0	common buzzard	birds	100.0
+taxongroup	Com-f222_615_buzzard-9	Com-f222_615_birds-26	Com-f222_615_buzzard-9_4798	615	Com-f222_615_birds-26_3995	615	0	common buzzard	birds	100.0
+taxongroup	Com-f222_454_buzzards-47	Com-f222_454_birds-24	Com-f222_454_buzzards-47_4798	454	Com-f222_454_birds-24_3995	454	0	common buzzard	birds	100.0
+taxongroup	Com-f222_478_buzzards-18	Com-f222_478_birds-4	Com-f222_478_buzzards-18_4798	478	Com-f222_478_birds-4_3995	478	0	common buzzard	birds	100.0
+taxongroup	Com-f222_165_buzzard-9	Com-f222_165_Buteo-11	Com-f222_165_buzzard-9_4798	165	Com-f222_165_Buteo-11_947	165	0	common buzzard	Buteo	100.0
+taxongroup	Com-f222_22_buzzards-2	Com-f222_22_Buteo-37	Com-f222_22_buzzards-2_4798	22	Com-f222_22_Buteo-37_947	22	0	common buzzard	Buteo	100.0
+taxongroup	Com-f222_17_buzzard-3	Com-f222_17_Buteo-10	Com-f222_17_buzzard-3_4798	17	Com-f222_17_Buteo-10_947	17	0	common buzzard	Buteo	100.0
+taxongroup	Com-f222_92_buzzard-19	Com-f222_92_Buteo-21	Com-f222_92_buzzard-19_4798	92	Com-f222_92_Buteo-21_947	92	0	common buzzard	Buteo	100.0
+taxongroup	Tig-454c_395_circus-10	Tig-454c_395_animals-11	Tig-454c_395_circus-10_4342	395	Tig-454c_395_animals-11_3812	395	0	circus	animals	100.0
+taxongroup	Bro-d72d_378_circus-15	Bro-d72d_378_animal-16	Bro-d72d_378_circus-15_4342	378	Bro-d72d_378_animal-16_3812	378	0	circus	animals	100.0
+taxongroup	Coc-c2b3_199_circus-41	Coc-c2b3_199_animals-48	Coc-c2b3_199_circus-41_4342	199	Coc-c2b3_199_animals-48_3812	199	0	circus	animals	100.0
+taxongroup	Coc-c2b3_199_circus-43	Coc-c2b3_199_animal-12	Coc-c2b3_199_circus-43_4342	199	Coc-c2b3_199_animal-12_3812	199	0	circus	animals	100.0
+taxongroup	Coc-c2b3_199_circus-41	Coc-c2b3_199_animal-12	Coc-c2b3_199_circus-41_4342	199	Coc-c2b3_199_animal-12_3812	199	0	circus	animals	100.0
+taxongroup	Coc-c2b3_199_circus-43	Coc-c2b3_199_animals-48	Coc-c2b3_199_circus-43_4342	199	Coc-c2b3_199_animals-48_3812	199	0	circus	animals	100.0
+taxongroup	Cir-aed8_167_circus-11	Cir-aed8_167_birds-47	Cir-aed8_167_circus-11_4342	167	Cir-aed8_167_birds-47_3995	167	0	circus	birds	100.0
+taxongroup	Com-f222_451_buzzards-15	Com-f222_451_birds-3	Com-f222_451_buzzards-15_4798	451	Com-f222_451_birds-3_381	451	0	common buzzard	Birds	100.0
+taxongroup	Com-f222_225_buzzard-3	Com-f222_225_Buteo-7	Com-f222_225_buzzard-3_4798	225	Com-f222_225_Buteo-7_947	225	0	common buzzard	Buteo	100.0
+taxongroup	Com-a9dd_181_buzzard-24	Com-a9dd_181_buteo-27	Com-a9dd_181_buzzard-24_4798	181	Com-a9dd_181_buteo-27_4268	181	0	common buzzard	buteo	100.0
+taxongroup	Com-f222_121_buzzard-16	Com-f222_121_buteo-8	Com-f222_121_buzzard-16_4798	121	Com-f222_121_buteo-8_4268	121	0	common buzzard	buteo	100.0
+taxongroup	Gol-1dbf_199_eagles-21	Gol-1dbf_199_Aquila-3	Gol-1dbf_199_eagles-21_3857	199	Gol-1dbf_199_Aquila-3_902	199	0	golden eagle	Aquila	100.0
+taxongroup	Gol-1dbf_90_eagle-17	Gol-1dbf_90_Aquila-1	Gol-1dbf_90_eagle-17_3857	90	Gol-1dbf_90_Aquila-1_902	90	0	golden eagle	Aquila	100.0
+taxongroup	Gol-1dbf_26_eagle-27	Gol-1dbf_26_Aquila-1	Gol-1dbf_26_eagle-27_3857	26	Gol-1dbf_26_Aquila-1_902	26	0	golden eagle	Aquila	100.0
+taxongroup	Gol-1dbf_26_eagle-38	Gol-1dbf_26_Aquila-1	Gol-1dbf_26_eagle-38_3857	26	Gol-1dbf_26_Aquila-1_902	26	0	golden eagle	Aquila	100.0
+taxongroup	Gol-1dbf_26_eagle-6	Gol-1dbf_26_Aquila-1	Gol-1dbf_26_eagle-6_3857	26	Gol-1dbf_26_Aquila-1_902	26	0	golden eagle	Aquila	100.0
+taxongroup	Gol-1dbf_70_eagle-18	Gol-1dbf_70_Aquila-1	Gol-1dbf_70_eagle-18_3857	70	Gol-1dbf_70_Aquila-1_902	70	0	golden eagle	Aquila	100.0
+taxongroup	Gol-1dbf_199_eagle-12	Gol-1dbf_199_Aquila-3	Gol-1dbf_199_eagle-12_3857	199	Gol-1dbf_199_Aquila-3_902	199	0	golden eagle	Aquila	100.0
+taxongroup	Gol-1dbf_82_eagle-14	Gol-1dbf_82_Aquila-1	Gol-1dbf_82_eagle-14_3857	82	Gol-1dbf_82_Aquila-1_902	82	0	golden eagle	Aquila	100.0
+taxongroup	Gol-1dbf_111_eagles-6	Gol-1dbf_111_Aquila-19	Gol-1dbf_111_eagles-6_3857	111	Gol-1dbf_111_Aquila-19_902	111	0	golden eagle	Aquila	100.0
+taxongroup	Gol-1dbf_388_eagle-12	Gol-1dbf_388_bird-25	Gol-1dbf_388_eagle-12_3857	388	Gol-1dbf_388_bird-25_381	388	0	golden eagle	Birds	100.0
+taxongroup	Eur-3d6d_69_eagles-24	Eur-3d6d_69_birds-5	Eur-3d6d_69_eagles-24_3857	69	Eur-3d6d_69_birds-5_381	69	0	golden eagle	Birds	100.0
+taxongroup	Gol-1dbf_198_eagles-4	Gol-1dbf_198_Aquila-3	Gol-1dbf_198_eagles-4_3857	198	Gol-1dbf_198_Aquila-3_902	198	0	golden eagle	Aquila	100.0
+taxongroup	Gol-1dbf_49_eagle-17	Gol-1dbf_49_Aquila-1	Gol-1dbf_49_eagle-17_3857	49	Gol-1dbf_49_Aquila-1_902	49	0	golden eagle	Aquila	100.0
+taxongroup	But-d525_63_buzzard-25	But-d525_63_buteo-27	But-d525_63_buzzard-25_4798	63	But-d525_63_buteo-27_4268	63	0	common buzzard	buteo	100.0
+taxongroup	Gol-1dbf_60_eagle-14	Gol-1dbf_60_Aquila-1	Gol-1dbf_60_eagle-14_3857	60	Gol-1dbf_60_Aquila-1_902	60	0	golden eagle	Aquila	100.0
+taxongroup	Bar-78df_197_buzzard-28	Bar-78df_197_buteo-31	Bar-78df_197_buzzard-28_4798	197	Bar-78df_197_buteo-31_4268	197	0	common buzzard	buteo	100.0
+taxongroup	Com-f222_2_buzzard-3	Com-f222_2_buteo-6	Com-f222_2_buzzard-3_4798	2	Com-f222_2_buteo-6_4268	2	0	common buzzard	buteo	100.0
+taxongroup	Com-f222_121_buzzard-33	Com-f222_121_buteo-8	Com-f222_121_buzzard-33_4798	121	Com-f222_121_buteo-8_4268	121	0	common buzzard	buteo	100.0
+taxongroup	Gol-1dbf_70_eagle-14	Gol-1dbf_70_Aquila-1	Gol-1dbf_70_eagle-14_3857	70	Gol-1dbf_70_Aquila-1_902	70	0	golden eagle	Aquila	100.0
+taxongroup	Acc-0f45_128_eagle-19	Acc-0f45_128_Aquila-12	Acc-0f45_128_eagle-19_3857	128	Acc-0f45_128_Aquila-12_902	128	0	golden eagle	Aquila	100.0
+taxongroup	Acc-0f45_128_eagle-33	Acc-0f45_128_Aquila-21	Acc-0f45_128_eagle-33_3857	128	Acc-0f45_128_Aquila-21_902	128	0	golden eagle	Aquila	100.0
+taxongroup	Acc-0f45_128_eagle-10	Acc-0f45_128_Aquila-21	Acc-0f45_128_eagle-10_3857	128	Acc-0f45_128_Aquila-21_902	128	0	golden eagle	Aquila	100.0
+taxongroup	Acc-0f45_128_eagle-10	Acc-0f45_128_Aquila-12	Acc-0f45_128_eagle-10_3857	128	Acc-0f45_128_Aquila-12_902	128	0	golden eagle	Aquila	100.0
+taxongroup	Acc-0f45_128_eagle-19	Acc-0f45_128_Aquila-21	Acc-0f45_128_eagle-19_3857	128	Acc-0f45_128_Aquila-21_902	128	0	golden eagle	Aquila	100.0
+taxongroup	Acc-0f45_128_eagle-26	Acc-0f45_128_Aquila-12	Acc-0f45_128_eagle-26_3857	128	Acc-0f45_128_Aquila-12_902	128	0	golden eagle	Aquila	100.0
+taxongroup	Acc-0f45_128_eagle-33	Acc-0f45_128_Aquila-12	Acc-0f45_128_eagle-33_3857	128	Acc-0f45_128_Aquila-12_902	128	0	golden eagle	Aquila	100.0
+taxongroup	Gol-1dbf_103_eagle-20	Gol-1dbf_103_Aquila-1	Gol-1dbf_103_eagle-20_3857	103	Gol-1dbf_103_Aquila-1_902	103	0	golden eagle	Aquila	100.0
+taxongroup	Aqu-c67c_7_eagle-18	Aqu-c67c_7_Aquila-3	Aqu-c67c_7_eagle-18_3857	7	Aqu-c67c_7_Aquila-3_902	7	0	golden eagle	Aquila	100.0
+taxongroup	Gol-1dbf_135_eagles-27	Gol-1dbf_135_Aquila-3	Gol-1dbf_135_eagles-27_3857	135	Gol-1dbf_135_Aquila-3_902	135	0	golden eagle	Aquila	100.0
+taxongroup	Gol-1dbf_194_eagles-8	Gol-1dbf_194_Aquila-7	Gol-1dbf_194_eagles-8_3857	194	Gol-1dbf_194_Aquila-7_902	194	0	golden eagle	Aquila	100.0
+taxongroup	Gol-1dbf_2_eagle-3	Gol-1dbf_2_Aquila-5	Gol-1dbf_2_eagle-3_3857	2	Gol-1dbf_2_Aquila-5_902	2	0	golden eagle	Aquila	100.0
+taxongroup	Gol-1dbf_103_eagle-15	Gol-1dbf_103_Aquila-1	Gol-1dbf_103_eagle-15_3857	103	Gol-1dbf_103_Aquila-1_902	103	0	golden eagle	Aquila	100.0
+taxongroup	Acc-0f45_128_eagle-26	Acc-0f45_128_Aquila-21	Acc-0f45_128_eagle-26_3857	128	Acc-0f45_128_Aquila-21_902	128	0	golden eagle	Aquila	100.0
+taxongroup	Eur-9431_2_sparrowhawk-14	Eur-9431_2_bird-23	Eur-9431_2_sparrowhawk-14_4924	2	Eur-9431_2_bird-23_2269	2	0	sparrowhawk	Birds of prey	100.0
+taxongroup	Eur-9431_146_sparrowhawk-16	Eur-9431_146_bird-11	Eur-9431_146_sparrowhawk-16_4924	146	Eur-9431_146_bird-11_381	146	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_85_sparrowhawk-17	Eur-9431_85_birds-43	Eur-9431_85_sparrowhawk-17_4924	85	Eur-9431_85_birds-43_381	85	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_50_sparrowhawk-3	Eur-9431_50_bird-7	Eur-9431_50_sparrowhawk-3_4924	50	Eur-9431_50_bird-7_381	50	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_263_sparrowhawk-23	Eur-9431_263_birds-13	Eur-9431_263_sparrowhawk-23_4924	263	Eur-9431_263_birds-13_381	263	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_187_sparrowhawk-22	Eur-9431_187_birds-45	Eur-9431_187_sparrowhawk-22_4924	187	Eur-9431_187_birds-45_381	187	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_246_sparrowhawk-4	Eur-9431_246_bird-26	Eur-9431_246_sparrowhawk-4_4924	246	Eur-9431_246_bird-26_381	246	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_2_sparrowhawk-3	Eur-9431_2_bird-23	Eur-9431_2_sparrowhawk-3_4924	2	Eur-9431_2_bird-23_381	2	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_2_sparrowhawk-18	Eur-9431_2_bird-23	Eur-9431_2_sparrowhawk-18_4924	2	Eur-9431_2_bird-23_381	2	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-24a9_168_sparrowhawks-17	Eur-24a9_168_birds-6	Eur-24a9_168_sparrowhawks-17_4924	168	Eur-24a9_168_birds-6_2269	168	0	sparrowhawk	Birds of prey	100.0
+taxongroup	Com-f222_611_sparrowhawk-38	Com-f222_611_birds-28	Com-f222_611_sparrowhawk-38_4924	611	Com-f222_611_birds-28_2269	611	0	sparrowhawk	Birds of prey	100.0
+taxongroup	Com-7fbd_125_sparrowhawk-38	Com-7fbd_125_birds-32	Com-7fbd_125_sparrowhawk-38_4924	125	Com-7fbd_125_birds-32_2269	125	0	sparrowhawk	Birds of prey	100.0
+taxongroup	Come5b8_1_sparrowhawks-3	Come5b8_1_birds-6	Come5b8_1_sparrowhawks-3_4924	1	Come5b8_1_birds-6_2269	1	0	sparrowhawk	Birds of prey	100.0
+taxongroup	Boh-900b_147_sparrowhawks-16	Boh-900b_147_birds-6	Boh-900b_147_sparrowhawks-16_4924	147	Boh-900b_147_birds-6_2269	147	0	sparrowhawk	Birds of prey	100.0
+taxongroup	Eur-9431_61_sparrowhawk-32	Eur-9431_61_birds-12	Eur-9431_61_sparrowhawk-32_4924	61	Eur-9431_61_birds-12_381	61	0	sparrowhawk	Birds	100.0
+taxongroup	Acc24bb_1_sparrowhawks-3	Acc24bb_1_Goshawks-1	Acc24bb_1_sparrowhawks-3_4924	1	Acc24bb_1_Goshawks-1_874	1	0	sparrowhawk	Goshawks and sparrowhawks	100.0
+taxongroup	Acc24bb_5_sparrowhawks-3	Acc24bb_5_Goshawks-1	Acc24bb_5_sparrowhawks-3_4924	5	Acc24bb_5_Goshawks-1_874	5	0	sparrowhawk	Goshawks and sparrowhawks	100.0
+taxongroup	Acc-0d4b_8_sparrowhawk-9	Acc-0d4b_8_accipiters-2	Acc-0d4b_8_sparrowhawk-9_4924	8	Acc-0d4b_8_accipiters-2_4222	8	0	sparrowhawk	accipiter	100.0
+taxongroup	Com-3b7c_134_sparrowhawk-9	Com-3b7c_134_accipiters-12	Com-3b7c_134_sparrowhawk-9_4924	134	Com-3b7c_134_accipiters-12_4222	134	0	sparrowhawk	accipiter	100.0
+taxongroup	Eur-9431_28_sparrowhawk-20	Eur-9431_28_accipiter-10	Eur-9431_28_sparrowhawk-20_4924	28	Eur-9431_28_accipiter-10_4222	28	0	sparrowhawk	accipiter	100.0
+taxongroup	Acc-0f45_78_sparrowhawks-19	Acc-0f45_78_bird-12	Acc-0f45_78_sparrowhawks-19_4924	78	Acc-0f45_78_bird-12_3995	78	0	sparrowhawk	birds	100.0
+taxongroup	Gol-9020_232_sparrowhawk-17	Gol-9020_232_birds-29	Gol-9020_232_sparrowhawk-17_4924	232	Gol-9020_232_birds-29_3995	232	0	sparrowhawk	birds	100.0
+taxongroup	Gol-9020_232_sparrowhawk-17	Gol-9020_232_birds-13	Gol-9020_232_sparrowhawk-17_4924	232	Gol-9020_232_birds-13_3995	232	0	sparrowhawk	birds	100.0
+taxongroup	Gre-04bd_154_sparrowhawk-9	Gre-04bd_154_birds-2	Gre-04bd_154_sparrowhawk-9_4924	154	Gre-04bd_154_birds-2_3995	154	0	sparrowhawk	birds	100.0
+taxongroup	Eur-9431_61_sparrowhawk-32	Eur-9431_61_bird-6	Eur-9431_61_sparrowhawk-32_4924	61	Eur-9431_61_bird-6_381	61	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_146_sparrowhawk-16	Eur-9431_146_birds-36	Eur-9431_146_sparrowhawk-16_4924	146	Eur-9431_146_birds-36_381	146	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_7_sparrowhawk-3	Eur-9431_7_birds-18	Eur-9431_7_sparrowhawk-3_4924	7	Eur-9431_7_birds-18_381	7	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_133_sparrowhawks-8	Eur-9431_133_birds-3	Eur-9431_133_sparrowhawks-8_4924	133	Eur-9431_133_birds-3_381	133	0	sparrowhawk	Birds	100.0
+taxongroup	Son-520b_85_sparrowhawks-12	Son-520b_85_birds-2	Son-520b_85_sparrowhawks-12_4924	85	Son-520b_85_birds-2_381	85	0	sparrowhawk	Birds	100.0
+taxongroup	Com-a9dd_104_sparrowhawks-24	Com-a9dd_104_birds-15	Com-a9dd_104_sparrowhawks-24_4924	104	Com-a9dd_104_birds-15_381	104	0	sparrowhawk	Birds	100.0
+taxongroup	Com-a9dd_104_sparrowhawks-24	Com-a9dd_104_birds-5	Com-a9dd_104_sparrowhawks-24_4924	104	Com-a9dd_104_birds-5_381	104	0	sparrowhawk	Birds	100.0
+taxongroup	Com-3b7c_134_sparrowhawk-9	Com-3b7c_134_birds-4	Com-3b7c_134_sparrowhawk-9_4924	134	Com-3b7c_134_birds-4_381	134	0	sparrowhawk	Birds	100.0
+taxongroup	Com-f222_97_sparrowhawks-25	Com-f222_97_birds-20	Com-f222_97_sparrowhawks-25_4924	97	Com-f222_97_birds-20_381	97	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-c955_92_sparrowhawk-14	Eur-c955_92_birds-7	Eur-c955_92_sparrowhawk-14_4924	92	Eur-c955_92_birds-7_381	92	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-bc75_622_sparrowhawk-59	Eur-bc75_622_birds-24	Eur-bc75_622_sparrowhawk-59_4924	622	Eur-bc75_622_birds-24_381	622	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_198_sparrowhawks-14	Eur-9431_198_birds-18	Eur-9431_198_sparrowhawks-14_4924	198	Eur-9431_198_birds-18_381	198	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_214_sparrowhawks-24	Eur-9431_214_birds-20	Eur-9431_214_sparrowhawks-24_4924	214	Eur-9431_214_birds-20_381	214	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_218_sparrowhawks-14	Eur-9431_218_birds-33	Eur-9431_218_sparrowhawks-14_4924	218	Eur-9431_218_birds-33_381	218	0	sparrowhawk	Birds	100.0
+taxongroup	Sex-811c_188_sparrowhawks-18	Sex-811c_188_bird-12	Sex-811c_188_sparrowhawks-18_4924	188	Sex-811c_188_bird-12_381	188	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_100_sparrowhawks-5	Eur-9431_100_birds-12	Eur-9431_100_sparrowhawks-5_4924	100	Eur-9431_100_birds-12_381	100	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_58_sparrowhawk-3	Eur-9431_58_bird-22	Eur-9431_58_sparrowhawk-3_4924	58	Eur-9431_58_bird-22_381	58	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_191_sparrowhawk-23	Eur-9431_191_Birds-8	Eur-9431_191_sparrowhawk-23_4924	191	Eur-9431_191_Birds-8_381	191	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_201_sparrowhawk-3	Eur-9431_201_birds-34	Eur-9431_201_sparrowhawk-3_4924	201	Eur-9431_201_birds-34_381	201	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_60_sparrowhawks-8	Eur-9431_60_birds-16	Eur-9431_60_sparrowhawks-8_4924	60	Eur-9431_60_birds-16_381	60	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_126_sparrowhawk-13	Eur-9431_126_birds-2	Eur-9431_126_sparrowhawk-13_4924	126	Eur-9431_126_birds-2_381	126	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_201_sparrowhawk-3	Eur-9431_201_birds-9	Eur-9431_201_sparrowhawk-3_4924	201	Eur-9431_201_birds-9_381	201	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_5_sparrowhawk-15	Eur-9431_5_birds-11	Eur-9431_5_sparrowhawk-15_4924	5	Eur-9431_5_birds-11_381	5	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_5_sparrowhawk-15	Eur-9431_5_birds-26	Eur-9431_5_sparrowhawk-15_4924	5	Eur-9431_5_birds-26_381	5	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_106_sparrowhawk-3	Eur-9431_106_birds-11	Eur-9431_106_sparrowhawk-3_4924	106	Eur-9431_106_birds-11_381	106	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_60_sparrowhawks-8	Eur-9431_60_bird-30	Eur-9431_60_sparrowhawks-8_4924	60	Eur-9431_60_bird-30_381	60	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_249_sparrowhawk-6	Eur-9431_249_bird-17	Eur-9431_249_sparrowhawk-6_4924	249	Eur-9431_249_bird-17_381	249	0	sparrowhawk	Birds	100.0
+taxongroup	Eur-9431_246_sparrowhawk-4	Eur-9431_246_birds-36	Eur-9431_246_sparrowhawk-4_4924	246	Eur-9431_246_birds-36_381	246	0	sparrowhawk	Birds	100.0
+taxongroup	Com-f222_615_sparrowhawks-47	Com-f222_615_birds-26	Com-f222_615_sparrowhawks-47_4924	615	Com-f222_615_birds-26_3995	615	0	sparrowhawk	birds	100.0
+taxongroup	Com-2075_56_sparrowhawks-23	Com-2075_56_birds-3	Com-2075_56_sparrowhawks-23_4924	56	Com-2075_56_birds-3_3995	56	0	sparrowhawk	birds	100.0
+taxongroup	Eur-9431_14_sparrowhawks-21	Eur-9431_14_bird-13	Eur-9431_14_sparrowhawks-21_4924	14	Eur-9431_14_bird-13_3995	14	0	sparrowhawk	birds	100.0
+taxongroup	Com-2075_54_sparrowhawk-13	Com-2075_54_birds-19	Com-2075_54_sparrowhawk-13_4924	54	Com-2075_54_birds-19_3995	54	0	sparrowhawk	birds	100.0
+taxongroup	Eur-9431_123_sparrowhawks-14	Eur-9431_123_bird-4	Eur-9431_123_sparrowhawks-14_4924	123	Eur-9431_123_bird-4_3995	123	0	sparrowhawk	birds	100.0
+taxongroup	Eur-9431_94_sparrowhawks-2	Eur-9431_94_birds-14	Eur-9431_94_sparrowhawks-2_4924	94	Eur-9431_94_birds-14_3995	94	0	sparrowhawk	birds	100.0
+taxongroup	Eur-9431_114_sparrowhawk-2	Eur-9431_114_bird-53	Eur-9431_114_sparrowhawk-2_4924	114	Eur-9431_114_bird-53_3995	114	0	sparrowhawk	birds	100.0
+taxongroup	Eur-9431_100_sparrowhawks-5	Eur-9431_100_birds-29	Eur-9431_100_sparrowhawks-5_4924	100	Eur-9431_100_birds-29_3995	100	0	sparrowhawk	birds	100.0
+taxongroup	Mer-5a4a_101_sparrowhawks-42	Mer-5a4a_101_birds-20	Mer-5a4a_101_sparrowhawks-42_4924	101	Mer-5a4a_101_birds-20_3995	101	0	sparrowhawk	birds	100.0
+taxongroup	Eur-9431_14_sparrowhawks-21	Eur-9431_14_birds-33	Eur-9431_14_sparrowhawks-21_4924	14	Eur-9431_14_birds-33_3995	14	0	sparrowhawk	birds	100.0
+taxongroup	Mer-5a4a_101_sparrowhawks-42	Mer-5a4a_101_birds-48	Mer-5a4a_101_sparrowhawks-42_4924	101	Mer-5a4a_101_birds-48_3995	101	0	sparrowhawk	birds	100.0
+taxongroup	Sup-d6e5_107_sparrowhawk-13	Sup-d6e5_107_birds-8	Sup-d6e5_107_sparrowhawk-13_4924	107	Sup-d6e5_107_birds-8_3995	107	0	sparrowhawk	birds	100.0
+taxongroup	Eur-9431_187_sparrowhawk-22	Eur-9431_187_birds-11	Eur-9431_187_sparrowhawk-22_4924	187	Eur-9431_187_birds-11_3995	187	0	sparrowhawk	birds	100.0
+taxongroup	Eur-5425_7_buzzard-4	Eur-5425_7_Pernis-15	Eur-5425_7_buzzard-4_5096	7	Eur-5425_7_Pernis-15_1203	7	0	honey buzzard	Pernis	100.0
+taxongroup	Har-a313_11_harrier-34	Har-a313_11_harrier-34	Har-a313_11_harrier-34_3868	11	Har-a313_11_harrier-34_4343	11	0	hen harrier	harriers	100.0
+taxongroup	Hen-610d_16_harrier-3	Hen-610d_16_harrier-3	Hen-610d_16_harrier-3_3868	16	Hen-610d_16_harrier-3_4343	16	0	hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_14_harrier-35	Wes-9ef7_14_harrier-35	Wes-9ef7_14_harrier-35_3868	14	Wes-9ef7_14_harrier-35_4343	14	0	hen harrier	harriers	100.0
+taxongroup	Hen-610d_4_harrier-5	Hen-610d_4_harrier-5	Hen-610d_4_harrier-5_3868	4	Hen-610d_4_harrier-5_4343	4	0	hen harrier	harriers	100.0
+taxongroup	Hen-610d_50_harrier-6	Hen-610d_50_harrier-6	Hen-610d_50_harrier-6_3868	50	Hen-610d_50_harrier-6_4343	50	0	hen harrier	harriers	100.0
+taxongroup	Hen-610d_11_harrier-17	Hen-610d_11_harrier-17	Hen-610d_11_harrier-17_3868	11	Hen-610d_11_harrier-17_4343	11	0	hen harrier	harriers	100.0
+taxongroup	Henac9a_8_harriers-25	Henac9a_8_harriers-25	Henac9a_8_harriers-25_3868	8	Henac9a_8_harriers-25_4343	8	0	hen harrier	harriers	100.0
+taxongroup	Hen-610d_2_harrier-3	Hen-610d_2_harrier-3	Hen-610d_2_harrier-3_3868	2	Hen-610d_2_harrier-3_4343	2	0	hen harrier	harriers	100.0
+taxongroup	Eur-5425_2_buzzard-4	Eur-5425_2_bird-21	Eur-5425_2_buzzard-4_5096	2	Eur-5425_2_bird-21_381	2	0	honey buzzard	Birds	100.0
+taxongroup	Eur-5425_2_buzzard-4	Eur-5425_2_Pernis-6	Eur-5425_2_buzzard-4_5096	2	Eur-5425_2_Pernis-6_1203	2	0	honey buzzard	Pernis	100.0
+taxongroup	Com-f222_162_buzzard-43	Com-f222_162_Pernis-33	Com-f222_162_buzzard-43_5096	162	Com-f222_162_Pernis-33_1203	162	0	honey buzzard	Pernis	100.0
+taxongroup	Com-f222_162_buzzard-47	Com-f222_162_Pernis-33	Com-f222_162_buzzard-47_5096	162	Com-f222_162_Pernis-33_1203	162	0	honey buzzard	Pernis	100.0
+taxongroup	Com-f222_154_buzzard-4	Com-f222_154_Pernis-6	Com-f222_154_buzzard-4_5096	154	Com-f222_154_Pernis-6_1203	154	0	honey buzzard	Pernis	100.0
+taxongroup	Com-f222_154_buzzard-33	Com-f222_154_Pernis-6	Com-f222_154_buzzard-33_5096	154	Com-f222_154_Pernis-6_1203	154	0	honey buzzard	Pernis	100.0
+taxongroup	Com-f222_162_buzzard-9	Com-f222_162_Pernis-33	Com-f222_162_buzzard-9_5096	162	Com-f222_162_Pernis-33_1203	162	0	honey buzzard	Pernis	100.0
+taxongroup	Com-f222_162_buzzard-31	Com-f222_162_Pernis-33	Com-f222_162_buzzard-31_5096	162	Com-f222_162_Pernis-33_1203	162	0	honey buzzard	Pernis	100.0
+taxongroup	Whi-b4c3_527_harrier-27	Whi-b4c3_527_Circus-29	Whi-b4c3_527_harrier-27_3925	527	Whi-b4c3_527_Circus-29_1067	527	0	marsh harrier	Circus	100.0
+taxongroup	Whi-b4c3_684_harriers-30	Whi-b4c3_684_harriers-30	Whi-b4c3_684_harriers-30_3925	684	Whi-b4c3_684_harriers-30_4343	684	0	marsh harrier	harriers	100.0
+taxongroup	Whi-b4c3_527_harrier-27	Whi-b4c3_527_harrier-27	Whi-b4c3_527_harrier-27_3925	527	Whi-b4c3_527_harrier-27_4343	527	0	marsh harrier	harriers	100.0
+taxongroup	Wil-3cbf_107_goshawk-40	Wil-3cbf_107_Accipiter-42	Wil-3cbf_107_goshawk-40_5272	107	Wil-3cbf_107_Accipiter-42_873	107	0	northern goshawk	Accipiter	100.0
+taxongroup	Whi-b4c3_362_goshawk-52	Whi-b4c3_362_Accipiter-54	Whi-b4c3_362_goshawk-52_5272	362	Whi-b4c3_362_Accipiter-54_873	362	0	northern goshawk	Accipiter	100.0
+taxongroup	Har-a313_11_harrier-34	Har-a313_11_Circus-3	Har-a313_11_harrier-34_3868	11	Har-a313_11_Circus-3_1067	11	0	hen harrier	Circus	100.0
+taxongroup	Wes-9ef7_14_harrier-35	Wes-9ef7_14_Circus-4	Wes-9ef7_14_harrier-35_3868	14	Wes-9ef7_14_Circus-4_1067	14	0	hen harrier	Circus	100.0
+taxongroup	Hen-610d_2_harrier-3	Hen-610d_2_Circus-5	Hen-610d_2_harrier-3_3868	2	Hen-610d_2_Circus-5_1067	2	0	hen harrier	Circus	100.0
+taxongroup	Whi-b4c3_362_goshawk-52	Whi-b4c3_362_birds-10	Whi-b4c3_362_goshawk-52_5272	362	Whi-b4c3_362_birds-10_3995	362	0	northern goshawk	birds	100.0
+taxongroup	Poia9f3_35_kite-3	Poia9f3_35_animals-12	Poia9f3_35_kite-3_5401	35	Poia9f3_35_animals-12_44	35	0	red kite	Animals	100.0
+taxongroup	Red1328_39_kite-3	Red1328_39_animals-12	Red1328_39_kite-3_5401	39	Red1328_39_animals-12_44	39	0	red kite	Animals	100.0
+taxongroup	Eur-bc75_35_sparrowhawk-12	Eur-bc75_35_Accipiter-14	Eur-bc75_35_sparrowhawk-12_4924	35	Eur-bc75_35_Accipiter-14_873	35	0	sparrowhawk	Accipiter	100.0
+taxongroup	Eur-bc75_398_sparrowhawk-2	Eur-bc75_398_Accipiter-4	Eur-bc75_398_sparrowhawk-2_4924	398	Eur-bc75_398_Accipiter-4_873	398	0	sparrowhawk	Accipiter	100.0
+taxongroup	Eur-bc75_397_sparrowhawk-40	Eur-bc75_397_Accipiter-42	Eur-bc75_397_sparrowhawk-40_4924	397	Eur-bc75_397_Accipiter-42_873	397	0	sparrowhawk	Accipiter	100.0
+taxongroup	Eur-bc75_397_sparrowhawk-30	Eur-bc75_397_Accipiters-12	Eur-bc75_397_sparrowhawk-30_4924	397	Eur-bc75_397_Accipiters-12_873	397	0	sparrowhawk	Accipiter	100.0
+taxongroup	Eur-bc75_397_sparrowhawk-40	Eur-bc75_397_Accipiters-12	Eur-bc75_397_sparrowhawk-40_4924	397	Eur-bc75_397_Accipiters-12_873	397	0	sparrowhawk	Accipiter	100.0
+taxongroup	Eur-bc75_85_sparrowhawk-28	Eur-bc75_85_Accipiter-30	Eur-bc75_85_sparrowhawk-28_4924	85	Eur-bc75_85_Accipiter-30_873	85	0	sparrowhawk	Accipiter	100.0
+taxongroup	Eur-9431_60_sparrowhawks-8	Eur-9431_60_Accipiters-44	Eur-9431_60_sparrowhawks-8_4924	60	Eur-9431_60_Accipiters-44_873	60	0	sparrowhawk	Accipiter	100.0
+taxongroup	Eur-9431_2_sparrowhawk-14	Eur-9431_2_Accipiter-5	Eur-9431_2_sparrowhawk-14_4924	2	Eur-9431_2_Accipiter-5_873	2	0	sparrowhawk	Accipiter	100.0
+taxongroup	Eur-9431_22_sparrowhawk-8	Eur-9431_22_Accipiter-16	Eur-9431_22_sparrowhawk-8_4924	22	Eur-9431_22_Accipiter-16_873	22	0	sparrowhawk	Accipiter	100.0
+taxongroup	Eur-9431_2_sparrowhawk-3	Eur-9431_2_Accipiter-5	Eur-9431_2_sparrowhawk-3_4924	2	Eur-9431_2_Accipiter-5_873	2	0	sparrowhawk	Accipiter	100.0
+taxongroup	Eur-9431_2_sparrowhawk-18	Eur-9431_2_Accipiter-5	Eur-9431_2_sparrowhawk-18_4924	2	Eur-9431_2_Accipiter-5_873	2	0	sparrowhawk	Accipiter	100.0
+taxongroup	Eur-bc75_397_sparrowhawk-30	Eur-bc75_397_Accipiter-42	Eur-bc75_397_sparrowhawk-30_4924	397	Eur-bc75_397_Accipiter-42_873	397	0	sparrowhawk	Accipiter	100.0
+taxongroup	Whi-b4c3_527_sparrowhawk-19	Whi-b4c3_527_Accipiter-21	Whi-b4c3_527_sparrowhawk-19_4924	527	Whi-b4c3_527_Accipiter-21_873	527	0	sparrowhawk	Accipiter	100.0
+taxongroup	Bir-ebe4_487_kite-39	Bir-ebe4_487_birds-13	Bir-ebe4_487_kite-39_5401	487	Bir-ebe4_487_birds-13_381	487	0	red kite	Birds	100.0
+taxongroup	Com-a9dd_180_sparrowhawk-19	Com-a9dd_180_Accipiter-21	Com-a9dd_180_sparrowhawk-19_4924	180	Com-a9dd_180_Accipiter-21_873	180	0	sparrowhawk	Accipiter	100.0
+taxongroup	Red1328_22_kite-19	Red1328_22_birds-30	Red1328_22_kite-19_5401	22	Red1328_22_birds-30_381	22	0	red kite	Birds	100.0
+taxongroup	Red1328_17_kite-3	Red1328_17_bird-7	Red1328_17_kite-3_5401	17	Red1328_17_bird-7_381	17	0	red kite	Birds	100.0
+taxongroup	Lon-b0af_530_kite-65	Lon-b0af_530_Milvus-74	Lon-b0af_530_kite-65_5401	530	Lon-b0af_530_Milvus-74_1142	530	0	red kite	Milvus	100.0
+taxongroup	Lon-b0af_530_kite-65	Lon-b0af_530_Milvus-67	Lon-b0af_530_kite-65_5401	530	Lon-b0af_530_Milvus-67_1142	530	0	red kite	Milvus	100.0
+taxongroup	Lon-b0af_530_kite-72	Lon-b0af_530_Milvus-74	Lon-b0af_530_kite-72_5401	530	Lon-b0af_530_Milvus-74_1142	530	0	red kite	Milvus	100.0
+taxongroup	Lon-b0af_530_kite-72	Lon-b0af_530_Milvus-67	Lon-b0af_530_kite-72_5401	530	Lon-b0af_530_Milvus-67_1142	530	0	red kite	Milvus	100.0
+taxongroup	Lon-b0af_530_kite-72	Lon-b0af_530_milvus-75	Lon-b0af_530_kite-72_5401	530	Lon-b0af_530_milvus-75_4386	530	0	red kite	milvus	100.0
+taxongroup	Lon-b0af_530_kite-65	Lon-b0af_530_milvus-75	Lon-b0af_530_kite-65_5401	530	Lon-b0af_530_milvus-75_4386	530	0	red kite	milvus	100.0
+taxongroup	Eur-bc75_400_kite-38	Eur-bc75_400_milvus-41	Eur-bc75_400_kite-38_5401	400	Eur-bc75_400_milvus-41_4386	400	0	red kite	milvus	100.0
+taxongroup	Eur-bc75_400_kite-24	Eur-bc75_400_milvus-41	Eur-bc75_400_kite-24_5401	400	Eur-bc75_400_milvus-41_4386	400	0	red kite	milvus	100.0
+taxongroup	Acc-0d4b_39_sparrowhawk-32	Acc-0d4b_39_Accipiter-13	Acc-0d4b_39_sparrowhawk-32_4924	39	Acc-0d4b_39_Accipiter-13_873	39	0	sparrowhawk	Accipiter	100.0
+taxongroup	Acc-0d4b_16_sparrowhawk-7	Acc-0d4b_16_Accipiter-9	Acc-0d4b_16_sparrowhawk-7_4924	16	Acc-0d4b_16_Accipiter-9_873	16	0	sparrowhawk	Accipiter	100.0
+taxongroup	Acc-0d4b_39_sparrowhawk-20	Acc-0d4b_39_Accipiter-13	Acc-0d4b_39_sparrowhawk-20_4924	39	Acc-0d4b_39_Accipiter-13_873	39	0	sparrowhawk	Accipiter	100.0
+taxongroup	Acc-0f45_66_sparrowhawk-16	Acc-0f45_66_Accipiter-18	Acc-0f45_66_sparrowhawk-16_4924	66	Acc-0f45_66_Accipiter-18_873	66	0	sparrowhawk	Accipiter	100.0
+taxongroup	Bir-959d_35_sparrowhawk-15	Bir-959d_35_Accipiter-25	Bir-959d_35_sparrowhawk-15_4924	35	Bir-959d_35_Accipiter-25_873	35	0	sparrowhawk	Accipiter	100.0
+taxongroup	Bir-959d_35_sparrowhawk-15	Bir-959d_35_Accipiter-19	Bir-959d_35_sparrowhawk-15_4924	35	Bir-959d_35_Accipiter-19_873	35	0	sparrowhawk	Accipiter	100.0
+taxongroup	Com-f222_480_sparrowhawks-15	Com-f222_480_Accipiter-17	Com-f222_480_sparrowhawks-15_4924	480	Com-f222_480_Accipiter-17_873	480	0	sparrowhawk	Accipiter	100.0
+taxongroup	Lon-b0af_530_sparrowhawk-123	Lon-b0af_530_Accipiter-125	Lon-b0af_530_sparrowhawk-123_4924	530	Lon-b0af_530_Accipiter-125_873	530	0	sparrowhawk	Accipiter	100.0
+taxongroup	Lon-b0af_598_sparrowhawks-36	Lon-b0af_598_Accipiters-33	Lon-b0af_598_sparrowhawks-36_4924	598	Lon-b0af_598_Accipiters-33_873	598	0	sparrowhawk	Accipiter	100.0
+taxongroup	Com-a9dd_180_sparrowhawk-19	Com-a9dd_180_Accipiter-14	Com-a9dd_180_sparrowhawk-19_4924	180	Com-a9dd_180_Accipiter-14_873	180	0	sparrowhawk	Accipiter	100.0
+taxongroup	Gre-c49e_95_circus-5	Gre-c49e_95_animals-6	Gre-c49e_95_circus-5_4342	95	Gre-c49e_95_animals-6_3812	95	0	circus	animals	100.0
+taxongroup	Cir-aed8_2_circus-2	Cir-aed8_2_animals-22	Cir-aed8_2_circus-2_4342	2	Cir-aed8_2_animals-22_3812	2	0	circus	animals	100.0
+taxongroup	Cir-aed8_17_circus-30	Cir-aed8_17_animals-40	Cir-aed8_17_circus-30_4342	17	Cir-aed8_17_animals-40_3812	17	0	circus	animals	100.0
+taxongroup	Com-f222_22_buzzard-12	Com-f222_22_Buteo-37	Com-f222_22_buzzard-12_1922	22	Com-f222_22_Buteo-37_947	22	0	Common buzzard	Buteo	100.0
+taxongroup	Com-f222_2_buzzard-3	Com-f222_2_Buteo-5	Com-f222_2_buzzard-3_1922	2	Com-f222_2_Buteo-5_947	2	0	Common buzzard	Buteo	100.0
+taxongroup	Com-f222_92_buzzard-28	Com-f222_92_Buteo-21	Com-f222_92_buzzard-28_1922	92	Com-f222_92_Buteo-21_947	92	0	Common buzzard	Buteo	100.0
+taxongroup	Wes-9ef7_14_Circus-4	Wes-9ef7_14_bird-16	Wes-9ef7_14_Circus-4_1067	14	Wes-9ef7_14_bird-16_4968	14	0	Circus	birds of prey	100.0
+taxongroup	Com-f222_87_buzzard-9	Com-f222_87_bird-21	Com-f222_87_buzzard-9_1922	87	Com-f222_87_bird-21_3995	87	0	Common buzzard	birds	100.0
+taxongroup	Com-f222_87_buzzard-9	Com-f222_87_birds-59	Com-f222_87_buzzard-9_1922	87	Com-f222_87_birds-59_3995	87	0	Common buzzard	birds	100.0
+taxongroup	Com-f222_2_buzzard-3	Com-f222_2_bird-15	Com-f222_2_buzzard-3_1922	2	Com-f222_2_bird-15_3995	2	0	Common buzzard	birds	100.0
+taxongroup	Com-f222_22_buzzard-12	Com-f222_22_Buteo-29	Com-f222_22_buzzard-12_1922	22	Com-f222_22_Buteo-29_947	22	0	Common buzzard	Buteo	100.0
+taxongroup	Har-a313_11_Circus-3	Har-a313_11_bird-15	Har-a313_11_Circus-3_1067	11	Har-a313_11_bird-15_4968	11	0	Circus	birds of prey	100.0
+taxongroup	Hen-610d_2_Circus-5	Hen-610d_2_bird-10	Hen-610d_2_Circus-5_1067	2	Hen-610d_2_bird-10_4968	2	0	Circus	birds of prey	100.0
+taxongroup	Hen-610d_17_Circus-4	Hen-610d_17_bird-16	Hen-610d_17_Circus-4_1067	17	Hen-610d_17_bird-16_4968	17	0	Circus	birds of prey	100.0
+taxongroup	Nor-d815_14_Circus-4	Nor-d815_14_bird-16	Nor-d815_14_Circus-4_1067	14	Nor-d815_14_bird-16_4968	14	0	Circus	birds of prey	100.0
+taxongroup	Mal-71cc_147_Circus-23	Mal-71cc_147_birds-14	Mal-71cc_147_Circus-23_1067	147	Mal-71cc_147_birds-14_4968	147	0	Circus	birds of prey	100.0
+taxongroup	Har-a313_19_harrier-3	Har-a313_19_Circus-5	Har-a313_19_harrier-3_161	19	Har-a313_19_Circus-5_1067	19	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_24_harrier-7	Har-a313_24_Circus-9	Har-a313_24_harrier-7_161	24	Har-a313_24_Circus-9_1067	24	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_24_harrier-7	Har-a313_24_Circus-19	Har-a313_24_harrier-7_161	24	Har-a313_24_Circus-19_1067	24	0	Hen harrier	Circus	100.0
+taxongroup	Gre-0f9b_76_harriers-106	Gre-0f9b_76_Circus-108	Gre-0f9b_76_harriers-106_161	76	Gre-0f9b_76_Circus-108_1067	76	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_20_harrier-9	Har-a313_20_Circus-11	Har-a313_20_harrier-9_161	20	Har-a313_20_Circus-11_1067	20	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_21_harrier-12	Har-a313_21_Circus-14	Har-a313_21_harrier-12_161	21	Har-a313_21_Circus-14_1067	21	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_21_harrier-12	Har-a313_21_Circus-5	Har-a313_21_harrier-12_161	21	Har-a313_21_Circus-5_1067	21	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_21_harrier-3	Har-a313_21_Circus-14	Har-a313_21_harrier-3_161	21	Har-a313_21_Circus-14_1067	21	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_21_harrier-3	Har-a313_21_Circus-5	Har-a313_21_harrier-3_161	21	Har-a313_21_Circus-5_1067	21	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_23_harrier-3	Har-a313_23_Circus-5	Har-a313_23_harrier-3_161	23	Har-a313_23_Circus-5_1067	23	0	Hen harrier	Circus	100.0
+taxongroup	Gol-1dbf_308_eagles-2	Gol-1dbf_308_bird-17	Gol-1dbf_308_eagles-2_144	308	Gol-1dbf_308_bird-17_381	308	0	Golden eagle	Birds	100.0
+taxongroup	Gol-1dbf_166_eagles-10	Gol-1dbf_166_birds-16	Gol-1dbf_166_eagles-10_144	166	Gol-1dbf_166_birds-16_381	166	0	Golden eagle	Birds	100.0
+taxongroup	Gol-1dbf_166_eagles-2	Gol-1dbf_166_birds-16	Gol-1dbf_166_eagles-2_144	166	Gol-1dbf_166_birds-16_381	166	0	Golden eagle	Birds	100.0
+taxongroup	Bir-959d_19_Harriers-1	Bir-959d_19_birds-9	Bir-959d_19_Harriers-1_1068	19	Bir-959d_19_birds-9_381	19	0	Harriers	Birds	100.0
+taxongroup	Harcc28_1_Harriers-1	Harcc28_1_birds-3	Harcc28_1_Harriers-1_1068	1	Harcc28_1_birds-3_381	1	0	Harriers	Birds	100.0
+taxongroup	Nor-d815_2_Circus-5	Nor-d815_2_bird-23	Nor-d815_2_Circus-5_1067	2	Nor-d815_2_bird-23_4968	2	0	Circus	birds of prey	100.0
+taxongroup	Wes-9ef7_2_Circus-6	Wes-9ef7_2_bird-15	Wes-9ef7_2_Circus-6_1067	2	Wes-9ef7_2_bird-15_4968	2	0	Circus	birds of prey	100.0
+taxongroup	Har-a313_24_harrier-17	Har-a313_24_Circus-9	Har-a313_24_harrier-17_161	24	Har-a313_24_Circus-9_1067	24	0	Hen harrier	Circus	100.0
+taxongroup	Acc-0f45_2_Accipitridae-2	Acc-0f45_2_birds-24	Acc-0f45_2_Accipitridae-2_436	2	Acc-0f45_2_birds-24_2269	2	0	Accipitridae	Birds of prey	100.0
+taxongroup	Eur-9431_2_Accipiter-5	Eur-9431_2_bird-23	Eur-9431_2_Accipiter-5_873	2	Eur-9431_2_bird-23_3995	2	0	Accipiter	birds	100.0
+taxongroup	Eur-9431_60_Accipiters-44	Eur-9431_60_bird-30	Eur-9431_60_Accipiters-44_873	60	Eur-9431_60_bird-30_3995	60	0	Accipiter	birds	100.0
+taxongroup	Eur-9431_60_Accipiters-44	Eur-9431_60_birds-16	Eur-9431_60_Accipiters-44_873	60	Eur-9431_60_birds-16_3995	60	0	Accipiter	birds	100.0
+taxongroup	Gos-ef0b_2_Accipiter-16	Gos-ef0b_2_birds-8	Gos-ef0b_2_Accipiter-16_873	2	Gos-ef0b_2_birds-8_4968	2	0	Accipiter	birds of prey	100.0
+taxongroup	Bir-959d_15_Accipiter-15	Bir-959d_15_birds-6	Bir-959d_15_Accipiter-15_873	15	Bir-959d_15_birds-6_4968	15	0	Accipiter	birds of prey	100.0
+taxongroup	Acc-0d4b_23_Accipiter-17	Acc-0d4b_23_birds-7	Acc-0d4b_23_Accipiter-17_873	23	Acc-0d4b_23_birds-7_4968	23	0	Accipiter	birds of prey	100.0
+taxongroup	Acc-0f45_70_Accipitridae-8	Acc-0f45_70_birds-15	Acc-0f45_70_Accipitridae-8_436	70	Acc-0f45_70_birds-15_381	70	0	Accipitridae	Birds	100.0
+taxongroup	Bir-959d_63_Accipitridae-13	Bir-959d_63_bird-20	Bir-959d_63_Accipitridae-13_436	63	Bir-959d_63_bird-20_381	63	0	Accipitridae	Birds	100.0
+taxongroup	Sea-a827_2_Accipitridae-41	Sea-a827_2_birds-28	Sea-a827_2_Accipitridae-41_436	2	Sea-a827_2_birds-28_381	2	0	Accipitridae	Birds	100.0
+taxongroup	Har-a313_2_Accipitridae-24	Har-a313_2_bird-20	Har-a313_2_Accipitridae-24_436	2	Har-a313_2_bird-20_381	2	0	Accipitridae	Birds	100.0
+taxongroup	Sea-a827_2_Accipitridae-41	Sea-a827_2_bird-37	Sea-a827_2_Accipitridae-41_436	2	Sea-a827_2_bird-37_381	2	0	Accipitridae	Birds	100.0
+taxongroup	Afr-2fe6_61_eagle-4	Afr-2fe6_61_bird-13	Afr-2fe6_61_eagle-4_1448	61	Afr-2fe6_61_bird-13_381	61	0	African fish eagle	Birds	100.0
+taxongroup	Gol-1dbf_417_eagle-12	Gol-1dbf_417_Haliaeetus-14	Gol-1dbf_417_eagle-12_1448	417	Gol-1dbf_417_Haliaeetus-14_1271	417	0	African fish eagle	Haliaeetus	100.0
+taxongroup	Gol-1dbf_417_eagle-6	Gol-1dbf_417_Haliaeetus-14	Gol-1dbf_417_eagle-6_1448	417	Gol-1dbf_417_Haliaeetus-14_1271	417	0	African fish eagle	Haliaeetus	100.0
+taxongroup	Acc-0f45_108_Accipiter-1	Acc-0f45_108_birds-5	Acc-0f45_108_Accipiter-1_873	108	Acc-0f45_108_birds-5_3995	108	0	Accipiter	birds	100.0
+taxongroup	Acc-0f45_72_Accipiter-19	Acc-0f45_72_birds-14	Acc-0f45_72_Accipiter-19_873	72	Acc-0f45_72_birds-14_3995	72	0	Accipiter	birds	100.0
+taxongroup	Acc-0f45_106_Accipiter-2	Acc-0f45_106_birds-23	Acc-0f45_106_Accipiter-2_873	106	Acc-0f45_106_birds-23_3995	106	0	Accipiter	birds	100.0
+taxongroup	Har-b746_70_Accipiter-31	Har-b746_70_birds-35	Har-b746_70_Accipiter-31_873	70	Har-b746_70_birds-35_381	70	0	Accipiter	Birds	100.0
+taxongroup	Gol-cfeb_121_Accipiter-67	Gol-cfeb_121_birds-54	Gol-cfeb_121_Accipiter-67_873	121	Gol-cfeb_121_birds-54_381	121	0	Accipiter	Birds	100.0
+taxongroup	Har-b746_70_Accipiter-31	Har-b746_70_bird-12	Har-b746_70_Accipiter-31_873	70	Har-b746_70_bird-12_381	70	0	Accipiter	Birds	100.0
+taxongroup	Whi-b4c3_362_Accipiter-54	Whi-b4c3_362_birds-41	Whi-b4c3_362_Accipiter-54_873	362	Whi-b4c3_362_birds-41_381	362	0	Accipiter	Birds	100.0
+taxongroup	Whi-b4c3_362_Accipiter-54	Whi-b4c3_362_birds-10	Whi-b4c3_362_Accipiter-54_873	362	Whi-b4c3_362_birds-10_381	362	0	Accipiter	Birds	100.0
+taxongroup	Afr-2fe6_51_eagle-9	Afr-2fe6_51_eagle-9	Afr-2fe6_51_eagle-9_1448	51	Afr-2fe6_51_eagle-9_4462	51	0	African fish eagle	sea eagles	100.0
+taxongroup	Afr-2fe6_2_eagle-13	Afr-2fe6_2_eagle-13	Afr-2fe6_2_eagle-13_1448	2	Afr-2fe6_2_eagle-13_4462	2	0	African fish eagle	sea eagles	100.0
+taxongroup	Com-f222_150_Circus-32	Com-f222_150_birds-26	Com-f222_150_Circus-32_1067	150	Com-f222_150_birds-26_381	150	0	Circus	Birds	100.0
+taxongroup	Cir-aed8_249_Circus-47	Cir-aed8_249_animal-6	Cir-aed8_249_Circus-47_1067	249	Cir-aed8_249_animal-6_3812	249	0	Circus	animals	100.0
+taxongroup	Cir-aed8_249_Circus-54	Cir-aed8_249_animal-6	Cir-aed8_249_Circus-54_1067	249	Cir-aed8_249_animal-6_3812	249	0	Circus	animals	100.0
+taxongroup	Cir-aed8_182_Circus-13	Cir-aed8_182_animal-20	Cir-aed8_182_Circus-13_1067	182	Cir-aed8_182_animal-20_3812	182	0	Circus	animals	100.0
+taxongroup	Wes-9ef7_125_Circus-65	Wes-9ef7_125_Birds-6	Wes-9ef7_125_Circus-65_1067	125	Wes-9ef7_125_Birds-6_3995	125	0	Circus	birds	100.0
+taxongroup	Wes-9ef7_125_Circus-65	Wes-9ef7_125_Birds-9	Wes-9ef7_125_Circus-65_1067	125	Wes-9ef7_125_Birds-9_3995	125	0	Circus	birds	100.0
+taxongroup	Wes-9ef7_125_Circus-65	Wes-9ef7_125_Birds-30	Wes-9ef7_125_Circus-65_1067	125	Wes-9ef7_125_Birds-30_3995	125	0	Circus	birds	100.0
+taxongroup	Wes-9ef7_125_Circus-62	Wes-9ef7_125_Birds-9	Wes-9ef7_125_Circus-62_1067	125	Wes-9ef7_125_Birds-9_3995	125	0	Circus	birds	100.0
+taxongroup	Wes-9ef7_125_Circus-62	Wes-9ef7_125_Birds-30	Wes-9ef7_125_Circus-62_1067	125	Wes-9ef7_125_Birds-30_3995	125	0	Circus	birds	100.0
+taxongroup	Wes-9ef7_125_Circus-62	Wes-9ef7_125_Birds-6	Wes-9ef7_125_Circus-62_1067	125	Wes-9ef7_125_Birds-6_3995	125	0	Circus	birds	100.0
+taxongroup	Gre-0f9b_76_Circus-108	Gre-0f9b_76_birds-7	Gre-0f9b_76_Circus-108_1067	76	Gre-0f9b_76_birds-7_3995	76	0	Circus	birds	100.0
+taxongroup	Gre-0f9b_76_Circus-108	Gre-0f9b_76_birds-102	Gre-0f9b_76_Circus-108_1067	76	Gre-0f9b_76_birds-102_3995	76	0	Circus	birds	100.0
+taxongroup	Com-f222_150_Circus-32	Com-f222_150_birds-9	Com-f222_150_Circus-32_1067	150	Com-f222_150_birds-9_3995	150	0	Circus	birds	100.0
+taxongroup	Afr-2fe6_51_eagle-9	Afr-2fe6_51_eagles-4	Afr-2fe6_51_eagle-9_1448	51	Afr-2fe6_51_eagles-4_4462	51	0	African fish eagle	sea eagles	100.0
+taxongroup	Afr-2fe6_2_eagle-13	Afr-2fe6_2_eagle-19	Afr-2fe6_2_eagle-13_1448	2	Afr-2fe6_2_eagle-19_4462	2	0	African fish eagle	sea eagles	100.0
+taxongroup	Afr-2fe6_2_eagle-13	Afr-2fe6_2_eagle-4	Afr-2fe6_2_eagle-13_1448	2	Afr-2fe6_2_eagle-4_4462	2	0	African fish eagle	sea eagles	100.0
+taxongroup	Afr-2fe6_51_eagles-4	Afr-2fe6_51_eagle-9	Afr-2fe6_51_eagles-4_1448	51	Afr-2fe6_51_eagle-9_4462	51	0	African fish eagle	sea eagles	100.0
+taxongroup	Afr-2fe6_51_eagles-4	Afr-2fe6_51_eagles-4	Afr-2fe6_51_eagles-4_1448	51	Afr-2fe6_51_eagles-4_4462	51	0	African fish eagle	sea eagles	100.0
+taxongroup	Afr-2fe6_2_eagle-19	Afr-2fe6_2_eagle-4	Afr-2fe6_2_eagle-19_1448	2	Afr-2fe6_2_eagle-4_4462	2	0	African fish eagle	sea eagles	100.0
+taxongroup	Afr-2fe6_2_eagle-19	Afr-2fe6_2_eagle-13	Afr-2fe6_2_eagle-19_1448	2	Afr-2fe6_2_eagle-13_4462	2	0	African fish eagle	sea eagles	100.0
+taxongroup	Afr-2fe6_2_eagle-19	Afr-2fe6_2_eagle-19	Afr-2fe6_2_eagle-19_1448	2	Afr-2fe6_2_eagle-19_4462	2	0	African fish eagle	sea eagles	100.0
+taxongroup	Afr-2fe6_2_eagle-4	Afr-2fe6_2_eagle-19	Afr-2fe6_2_eagle-4_1448	2	Afr-2fe6_2_eagle-19_4462	2	0	African fish eagle	sea eagles	100.0
+taxongroup	Afr-2fe6_2_eagle-4	Afr-2fe6_2_eagle-13	Afr-2fe6_2_eagle-4_1448	2	Afr-2fe6_2_eagle-13_4462	2	0	African fish eagle	sea eagles	100.0
+taxongroup	Afr-2fe6_2_eagle-4	Afr-2fe6_2_eagle-4	Afr-2fe6_2_eagle-4_1448	2	Afr-2fe6_2_eagle-4_4462	2	0	African fish eagle	sea eagles	100.0
+taxongroup	Cir-aed8_249_Circus-38	Cir-aed8_249_animal-6	Cir-aed8_249_Circus-38_1067	249	Cir-aed8_249_animal-6_44	249	0	Circus	Animals	100.0
+taxongroup	Har-a313_24_harrier-17	Har-a313_24_Circus-19	Har-a313_24_harrier-17_161	24	Har-a313_24_Circus-19_1067	24	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_27_harrier-2	Har-a313_27_Circus-4	Har-a313_27_harrier-2_161	27	Har-a313_27_Circus-4_1067	27	0	Hen harrier	Circus	100.0
+taxongroup	Cir-aed8_167_circus-11	Cir-aed8_167_animals-64	Cir-aed8_167_circus-11_4342	167	Cir-aed8_167_animals-64_3812	167	0	circus	animals	100.0
+taxongroup	Wes-9ef7_5_harrier-38	Wes-9ef7_5_harrier-16	Wes-9ef7_5_harrier-38_161	5	Wes-9ef7_5_harrier-16_4343	5	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_5_harrier-49	Wes-9ef7_5_harrier-49	Wes-9ef7_5_harrier-49_161	5	Wes-9ef7_5_harrier-49_4343	5	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_5_harrier-16	Wes-9ef7_5_harrier-24	Wes-9ef7_5_harrier-16_161	5	Wes-9ef7_5_harrier-24_4343	5	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_64_harrier-3	Wes-9ef7_64_harrier-3	Wes-9ef7_64_harrier-3_161	64	Wes-9ef7_64_harrier-3_4343	64	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_57_harrier-3	Wes-9ef7_57_harrier-3	Wes-9ef7_57_harrier-3_161	57	Wes-9ef7_57_harrier-3_4343	57	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_4_harrier-20	Wes-9ef7_4_harrier-20	Wes-9ef7_4_harrier-20_161	4	Wes-9ef7_4_harrier-20_4343	4	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_54_harrier-3	Wes-9ef7_54_harrier-3	Wes-9ef7_54_harrier-3_161	54	Wes-9ef7_54_harrier-3_4343	54	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_52_harrier-3	Wes-9ef7_52_harrier-3	Wes-9ef7_52_harrier-3_161	52	Wes-9ef7_52_harrier-3_4343	52	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_51_harriers-16	Wes-9ef7_51_harriers-16	Wes-9ef7_51_harriers-16_161	51	Wes-9ef7_51_harriers-16_4343	51	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_50_harriers-14	Wes-9ef7_50_harriers-14	Wes-9ef7_50_harriers-14_161	50	Wes-9ef7_50_harriers-14_4343	50	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_1_harrier-3	Wes-9ef7_1_harrier-3	Wes-9ef7_1_harrier-3_161	1	Wes-9ef7_1_harrier-3_4343	1	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_21_harrier-7	Wes-9ef7_21_harrier-7	Wes-9ef7_21_harrier-7_161	21	Wes-9ef7_21_harrier-7_4343	21	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_5_harrier-49	Wes-9ef7_5_harrier-38	Wes-9ef7_5_harrier-49_161	5	Wes-9ef7_5_harrier-38_4343	5	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_5_harrier-38	Wes-9ef7_5_harrier-24	Wes-9ef7_5_harrier-38_161	5	Wes-9ef7_5_harrier-24_4343	5	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_78_harrier-3	Wes-9ef7_78_harrier-3	Wes-9ef7_78_harrier-3_161	78	Wes-9ef7_78_harrier-3_4343	78	0	Hen harrier	harriers	100.0
+taxongroup	Eur-bc75_400_harrier-54	Eur-bc75_400_harrier-83	Eur-bc75_400_harrier-54_161	400	Eur-bc75_400_harrier-83_4343	400	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_5_harrier-49	Wes-9ef7_5_harrier-24	Wes-9ef7_5_harrier-49_161	5	Wes-9ef7_5_harrier-24_4343	5	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_68_harrier-3	Wes-9ef7_68_harrier-3	Wes-9ef7_68_harrier-3_161	68	Wes-9ef7_68_harrier-3_4343	68	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_70_harrier-4	Wes-9ef7_70_harrier-4	Wes-9ef7_70_harrier-4_161	70	Wes-9ef7_70_harrier-4_4343	70	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_109_harrier-3	Wes-9ef7_109_harrier-3	Wes-9ef7_109_harrier-3_161	109	Wes-9ef7_109_harrier-3_4343	109	0	Hen harrier	harriers	100.0
+taxongroup	Henac9a_17_harriers-7	Henac9a_17_harriers-7	Henac9a_17_harriers-7_161	17	Henac9a_17_harriers-7_4343	17	0	Hen harrier	harriers	100.0
+taxongroup	Hea-9af6_16_harrier-23	Hea-9af6_16_harrier-23	Hea-9af6_16_harrier-23_161	16	Hea-9af6_16_harrier-23_4343	16	0	Hen harrier	harriers	100.0
+taxongroup	Henac9a_10_harriers-15	Henac9a_10_harriers-15	Henac9a_10_harriers-15_161	10	Henac9a_10_harriers-15_4343	10	0	Hen harrier	harriers	100.0
+taxongroup	Henac9a_11_harriers-7	Henac9a_11_harriers-7	Henac9a_11_harriers-7_161	11	Henac9a_11_harriers-7_4343	11	0	Hen harrier	harriers	100.0
+taxongroup	Henac9a_16_harriers-2	Henac9a_16_harriers-2	Henac9a_16_harriers-2_161	16	Henac9a_16_harriers-2_4343	16	0	Hen harrier	harriers	100.0
+taxongroup	Henac9a_18_harriers-2	Henac9a_18_harriers-2	Henac9a_18_harriers-2_161	18	Henac9a_18_harriers-2_4343	18	0	Hen harrier	harriers	100.0
+taxongroup	Hen-610d_50_harrier-6	Hen-610d_50_harriers-25	Hen-610d_50_harrier-6_161	50	Hen-610d_50_harriers-25_4343	50	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_5_harrier-49	Wes-9ef7_5_harrier-16	Wes-9ef7_5_harrier-49_161	5	Wes-9ef7_5_harrier-16_4343	5	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_80_harrier-3	Wes-9ef7_80_harrier-3	Wes-9ef7_80_harrier-3_161	80	Wes-9ef7_80_harrier-3_4343	80	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_123_harrier-3	Wes-9ef7_123_harrier-3	Wes-9ef7_123_harrier-3_161	123	Wes-9ef7_123_harrier-3_4343	123	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_5_harrier-24	Wes-9ef7_5_harrier-49	Wes-9ef7_5_harrier-24_161	5	Wes-9ef7_5_harrier-49_4343	5	0	Hen harrier	harriers	100.0
+taxongroup	Eur-bc75_400_harrier-69	Eur-bc75_400_harrier-83	Eur-bc75_400_harrier-69_161	400	Eur-bc75_400_harrier-83_4343	400	0	Hen harrier	harriers	100.0
+taxongroup	Eur-35e8_109_harriers-13	Eur-35e8_109_harriers-13	Eur-35e8_109_harriers-13_161	109	Eur-35e8_109_harriers-13_4343	109	0	Hen harrier	harriers	100.0
+taxongroup	Eur-24a9_168_harriers-14	Eur-24a9_168_harriers-14	Eur-24a9_168_harriers-14_161	168	Eur-24a9_168_harriers-14_4343	168	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_9_harrier-11	Har-a313_9_harrier-11	Har-a313_9_harrier-11_161	9	Har-a313_9_harrier-11_4343	9	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_37_harrier-3	Har-a313_37_harrier-3	Har-a313_37_harrier-3_161	37	Har-a313_37_harrier-3_4343	37	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_38_harrier-2	Har-a313_38_harrier-2	Har-a313_38_harrier-2_161	38	Har-a313_38_harrier-2_4343	38	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_39_harrier-19	Har-a313_39_harrier-19	Har-a313_39_harrier-19_161	39	Har-a313_39_harrier-19_4343	39	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_39_harrier-19	Har-a313_39_harrier-30	Har-a313_39_harrier-19_161	39	Har-a313_39_harrier-30_4343	39	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_66_harrier-5	Wes-9ef7_66_harrier-5	Wes-9ef7_66_harrier-5_161	66	Wes-9ef7_66_harrier-5_4343	66	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_5_harrier-24	Wes-9ef7_5_harrier-16	Wes-9ef7_5_harrier-24_161	5	Wes-9ef7_5_harrier-16_4343	5	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_92_harriers-7	Wes-9ef7_92_harriers-7	Wes-9ef7_92_harriers-7_161	92	Wes-9ef7_92_harriers-7_4343	92	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_127_harrier-5	Wes-9ef7_127_harrier-5	Wes-9ef7_127_harrier-5_161	127	Wes-9ef7_127_harrier-5_4343	127	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_13_harrier-4	Wes-9ef7_13_harrier-4	Wes-9ef7_13_harrier-4_161	13	Wes-9ef7_13_harrier-4_4343	13	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_129_harrier-3	Wes-9ef7_129_harrier-3	Wes-9ef7_129_harrier-3_161	129	Wes-9ef7_129_harrier-3_4343	129	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_18_harrier-3	Wes-9ef7_18_harrier-3	Wes-9ef7_18_harrier-3_161	18	Wes-9ef7_18_harrier-3_4343	18	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_20_harrier-4	Wes-9ef7_20_harrier-4	Wes-9ef7_20_harrier-4_161	20	Wes-9ef7_20_harrier-4_4343	20	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_5_harrier-16	Wes-9ef7_5_harrier-38	Wes-9ef7_5_harrier-16_161	5	Wes-9ef7_5_harrier-38_4343	5	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_5_harrier-38	Wes-9ef7_5_harrier-49	Wes-9ef7_5_harrier-38_161	5	Wes-9ef7_5_harrier-49_4343	5	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_5_harrier-38	Wes-9ef7_5_harrier-38	Wes-9ef7_5_harrier-38_161	5	Wes-9ef7_5_harrier-38_4343	5	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_6_harrier-4	Wes-9ef7_6_harrier-4	Wes-9ef7_6_harrier-4_161	6	Wes-9ef7_6_harrier-4_4343	6	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_21_harrier-7	Wes-9ef7_21_harriers-13	Wes-9ef7_21_harrier-7_161	21	Wes-9ef7_21_harriers-13_4343	21	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_2_harrier-12	Wes-9ef7_2_harrier-4	Wes-9ef7_2_harrier-12_161	2	Wes-9ef7_2_harrier-4_4343	2	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_21_harriers-13	Wes-9ef7_21_harrier-7	Wes-9ef7_21_harriers-13_161	21	Wes-9ef7_21_harrier-7_4343	21	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_21_harriers-13	Wes-9ef7_21_harriers-13	Wes-9ef7_21_harriers-13_161	21	Wes-9ef7_21_harriers-13_4343	21	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_2_harrier-12	Wes-9ef7_2_harrier-12	Wes-9ef7_2_harrier-12_161	2	Wes-9ef7_2_harrier-12_4343	2	0	Hen harrier	harriers	100.0
+taxongroup	Wes-9ef7_125_harrier-2	Wes-9ef7_125_harrier-2	Wes-9ef7_125_harrier-2_161	125	Wes-9ef7_125_harrier-2_4343	125	0	Hen harrier	harriers	100.0
+taxongroup	Hen-610d_24_harriers-4	Hen-610d_24_harriers-4	Hen-610d_24_harriers-4_161	24	Hen-610d_24_harriers-4_4343	24	0	Hen harrier	harriers	100.0
+taxongroup	Hen-610d_103_harriers-10	Hen-610d_103_harriers-10	Hen-610d_103_harriers-10_161	103	Hen-610d_103_harriers-10_4343	103	0	Hen harrier	harriers	100.0
+taxongroup	Hen-610d_110_harrier-3	Hen-610d_110_harrier-3	Hen-610d_110_harrier-3_161	110	Hen-610d_110_harrier-3_4343	110	0	Hen harrier	harriers	100.0
+taxongroup	Hen-610d_20_harrier-13	Hen-610d_20_harrier-13	Hen-610d_20_harrier-13_161	20	Hen-610d_20_harrier-13_4343	20	0	Hen harrier	harriers	100.0
+taxongroup	Eur-5425_75_buzzard-46	Eur-5425_75_Birds-14	Eur-5425_75_buzzard-46_2538	75	Eur-5425_75_Birds-14_381	75	0	Honey buzzard	Birds	100.0
+taxongroup	Eur-5425_75_buzzard-5	Eur-5425_75_Birds-14	Eur-5425_75_buzzard-5_2538	75	Eur-5425_75_Birds-14_3995	75	0	Honey buzzard	birds	100.0
+taxongroup	Eure969_6_Sparrowhawks-1	Eure969_6_birds-15	Eure969_6_Sparrowhawks-1_2171	6	Eure969_6_birds-15_381	6	0	Sparrowhawk	Birds	100.0
+taxongroup	Gol-1dbf_363_accipiters-28	Gol-1dbf_363_birds-6	Gol-1dbf_363_accipiters-28_4222	363	Gol-1dbf_363_birds-6_381	363	0	accipiter	Birds	100.0
+taxongroup	Cir-aed8_168_circus-7	Cir-aed8_168_animals-5	Cir-aed8_168_circus-7_4342	168	Cir-aed8_168_animals-5_44	168	0	circus	Animals	100.0
+taxongroup	Cir-aed8_126_circus-13	Cir-aed8_126_animal-16	Cir-aed8_126_circus-13_4342	126	Cir-aed8_126_animal-16_44	126	0	circus	Animals	100.0
+taxongroup	Cir-aed8_63_circus-30	Cir-aed8_63_animals-42	Cir-aed8_63_circus-30_4342	63	Cir-aed8_63_animals-42_44	63	0	circus	Animals	100.0
+taxongroup	Cir-aed8_17_circus-13	Cir-aed8_17_animals-40	Cir-aed8_17_circus-13_4342	17	Cir-aed8_17_animals-40_44	17	0	circus	Animals	100.0
+taxongroup	Cir-aed8_167_circus-11	Cir-aed8_167_animals-5	Cir-aed8_167_circus-11_4342	167	Cir-aed8_167_animals-5_44	167	0	circus	Animals	100.0
+taxongroup	Hen-610d_100_harriers-2	Hen-610d_100_harriers-2	Hen-610d_100_harriers-2_161	100	Hen-610d_100_harriers-2_4343	100	0	Hen harrier	harriers	100.0
+taxongroup	Hen-610d_14_harrier-22	Hen-610d_14_harrier-22	Hen-610d_14_harrier-22_161	14	Hen-610d_14_harrier-22_4343	14	0	Hen harrier	harriers	100.0
+taxongroup	Hen-610d_102_harriers-15	Hen-610d_102_harriers-15	Hen-610d_102_harriers-15_161	102	Hen-610d_102_harriers-15_4343	102	0	Hen harrier	harriers	100.0
+taxongroup	Henac9a_13_harriers-2	Henac9a_13_harriers-2	Henac9a_13_harriers-2_161	13	Henac9a_13_harriers-2_4343	13	0	Hen harrier	harriers	100.0
+taxongroup	Henac9a_4_harriers-2	Henac9a_4_harriers-2	Henac9a_4_harriers-2_161	4	Henac9a_4_harriers-2_4343	4	0	Hen harrier	harriers	100.0
+taxongroup	Henac9a_5_harriers-5	Henac9a_5_harriers-5	Henac9a_5_harriers-5_161	5	Henac9a_5_harriers-5_4343	5	0	Hen harrier	harriers	100.0
+taxongroup	Henac9a_2_harriers-15	Henac9a_2_harriers-15	Henac9a_2_harriers-15_161	2	Henac9a_2_harriers-15_4343	2	0	Hen harrier	harriers	100.0
+taxongroup	Henac9a_19_harriers-6	Henac9a_19_harriers-6	Henac9a_19_harriers-6_161	19	Henac9a_19_harriers-6_4343	19	0	Hen harrier	harriers	100.0
+taxongroup	Henac9a_21_harriers-2	Henac9a_21_harriers-2	Henac9a_21_harriers-2_161	21	Henac9a_21_harriers-2_4343	21	0	Hen harrier	harriers	100.0
+taxongroup	Henac9a_22_harrier-4	Henac9a_22_harrier-4	Henac9a_22_harrier-4_161	22	Henac9a_22_harrier-4_4343	22	0	Hen harrier	harriers	100.0
+taxongroup	Henac9a_28_harriers-2	Henac9a_28_harriers-2	Henac9a_28_harriers-2_161	28	Henac9a_28_harriers-2_4343	28	0	Hen harrier	harriers	100.0
+taxongroup	Henac9a_3_harriers-6	Henac9a_3_harriers-6	Henac9a_3_harriers-6_161	3	Henac9a_3_harriers-6_4343	3	0	Hen harrier	harriers	100.0
+taxongroup	Bla-e03a_5_harriers-42	Bla-e03a_5_harriers-42	Bla-e03a_5_harriers-42_161	5	Bla-e03a_5_harriers-42_4343	5	0	Hen harrier	harriers	100.0
+taxongroup	Acc-0d4b_40_harriers-26	Acc-0d4b_40_harriers-26	Acc-0d4b_40_harriers-26_161	40	Acc-0d4b_40_harriers-26_4343	40	0	Hen harrier	harriers	100.0
+taxongroup	Acc-0f45_100_harriers-10	Acc-0f45_100_harriers-10	Acc-0f45_100_harriers-10_161	100	Acc-0f45_100_harriers-10_4343	100	0	Hen harrier	harriers	100.0
+taxongroup	Acc-0f45_146_harriers-2	Acc-0f45_146_harriers-2	Acc-0f45_146_harriers-2_161	146	Acc-0f45_146_harriers-2_4343	146	0	Hen harrier	harriers	100.0
+taxongroup	Acc-0f45_7_harriers-14	Acc-0f45_7_harriers-14	Acc-0f45_7_harriers-14_161	7	Acc-0f45_7_harriers-14_4343	7	0	Hen harrier	harriers	100.0
+taxongroup	Acc-0f45_99_harriers-16	Acc-0f45_99_harriers-16	Acc-0f45_99_harriers-16_161	99	Acc-0f45_99_harriers-16_4343	99	0	Hen harrier	harriers	100.0
+taxongroup	Acc-0d4b_36_harriers-13	Acc-0d4b_36_harriers-13	Acc-0d4b_36_harriers-13_161	36	Acc-0d4b_36_harriers-13_4343	36	0	Hen harrier	harriers	100.0
+taxongroup	Bir-959d_35_harrier-41	Bir-959d_35_harrier-41	Bir-959d_35_harrier-41_161	35	Bir-959d_35_harrier-41_4343	35	0	Hen harrier	harriers	100.0
+taxongroup	Bir-959d_35_harrier-48	Bir-959d_35_harrier-48	Bir-959d_35_harrier-48_161	35	Bir-959d_35_harrier-48_4343	35	0	Hen harrier	harriers	100.0
+taxongroup	Bir-959d_35_harrier-48	Bir-959d_35_harrier-41	Bir-959d_35_harrier-48_161	35	Bir-959d_35_harrier-41_4343	35	0	Hen harrier	harriers	100.0
+taxongroup	Bir-959d_58_harriers-9	Bir-959d_58_harriers-9	Bir-959d_58_harriers-9_161	58	Bir-959d_58_harriers-9_4343	58	0	Hen harrier	harriers	100.0
+taxongroup	Bir-959d_35_harrier-41	Bir-959d_35_harrier-48	Bir-959d_35_harrier-41_161	35	Bir-959d_35_harrier-48_4343	35	0	Hen harrier	harriers	100.0
+taxongroup	Acc9a4b_12_harriers-10	Acc9a4b_12_harriers-10	Acc9a4b_12_harriers-10_161	12	Acc9a4b_12_harriers-10_4343	12	0	Hen harrier	harriers	100.0
+taxongroup	Henac9a_9_harriers-2	Henac9a_9_harriers-2	Henac9a_9_harriers-2_161	9	Henac9a_9_harriers-2_4343	9	0	Hen harrier	harriers	100.0
+taxongroup	Eur-bc75_81_harriers-2	Eur-bc75_81_harriers-2	Eur-bc75_81_harriers-2_161	81	Eur-bc75_81_harriers-2_4343	81	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_16_harriers-4	Har-a313_16_harrier-13	Har-a313_16_harriers-4_161	16	Har-a313_16_harrier-13_4343	16	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_29_harrier-16	Har-a313_29_Circus-18	Har-a313_29_harrier-16_161	29	Har-a313_29_Circus-18_1067	29	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_24_harrier-7	Har-a313_24_harrier-17	Har-a313_24_harrier-7_161	24	Har-a313_24_harrier-17_4343	24	0	Hen harrier	harriers	100.0
+taxongroup	Harcc28_4_harrier-18	Harcc28_4_harrier-18	Harcc28_4_harrier-18_161	4	Harcc28_4_harrier-18_4343	4	0	Hen harrier	harriers	100.0
+taxongroup	Harcc28_4_harrier-18	Harcc28_4_harrier-14	Harcc28_4_harrier-18_161	4	Harcc28_4_harrier-14_4343	4	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_19_harrier-3	Har-a313_19_harrier-3	Har-a313_19_harrier-3_161	19	Har-a313_19_harrier-3_4343	19	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_16_harriers-4	Har-a313_16_harriers-4	Har-a313_16_harriers-4_161	16	Har-a313_16_harriers-4_4343	16	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_16_harriers-4	Har-a313_16_harrier-28	Har-a313_16_harriers-4_161	16	Har-a313_16_harrier-28_4343	16	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_29_harrier-16	Har-a313_29_Circus-4	Har-a313_29_harrier-16_161	29	Har-a313_29_Circus-4_1067	29	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_29_harrier-2	Har-a313_29_Circus-18	Har-a313_29_harrier-2_161	29	Har-a313_29_Circus-18_1067	29	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_29_harrier-2	Har-a313_29_Circus-4	Har-a313_29_harrier-2_161	29	Har-a313_29_Circus-4_1067	29	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_32_harrier-4	Har-a313_32_Circus-6	Har-a313_32_harrier-4_161	32	Har-a313_32_Circus-6_1067	32	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_25_harrier-9	Har-a313_25_Circus-11	Har-a313_25_harrier-9_161	25	Har-a313_25_Circus-11_1067	25	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_31_harrier-5	Har-a313_31_Circus-7	Har-a313_31_harrier-5_161	31	Har-a313_31_Circus-7_1067	31	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_31_harrier-13	Har-a313_31_Circus-7	Har-a313_31_harrier-13_161	31	Har-a313_31_Circus-7_1067	31	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_31_harrier-5	Har-a313_31_Circus-15	Har-a313_31_harrier-5_161	31	Har-a313_31_Circus-15_1067	31	0	Hen harrier	Circus	100.0
+taxongroup	Com-f222_150_harrier-30	Com-f222_150_Circus-32	Com-f222_150_harrier-30_161	150	Com-f222_150_Circus-32_1067	150	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_33_harrier-2	Har-a313_33_Circus-4	Har-a313_33_harrier-2_161	33	Har-a313_33_Circus-4_1067	33	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_37_harrier-3	Har-a313_37_Circus-5	Har-a313_37_harrier-3_161	37	Har-a313_37_Circus-5_1067	37	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_38_harrier-2	Har-a313_38_Circus-4	Har-a313_38_harrier-2_161	38	Har-a313_38_Circus-4_1067	38	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_30_harrier-4	Har-a313_30_Circus-6	Har-a313_30_harrier-4_161	30	Har-a313_30_Circus-6_1067	30	0	Hen harrier	Circus	100.0
+taxongroup	Har-a313_31_harrier-13	Har-a313_31_Circus-15	Har-a313_31_harrier-13_161	31	Har-a313_31_Circus-15_1067	31	0	Hen harrier	Circus	100.0
+taxongroup	Wes-9ef7_125_harrier-2	Wes-9ef7_125_Circus-62	Wes-9ef7_125_harrier-2_161	125	Wes-9ef7_125_Circus-62_1067	125	0	Hen harrier	Circus	100.0
+taxongroup	Wes-9ef7_2_harrier-12	Wes-9ef7_2_Circus-6	Wes-9ef7_2_harrier-12_161	2	Wes-9ef7_2_Circus-6_1067	2	0	Hen harrier	Circus	100.0
+taxongroup	Wes-9ef7_92_harriers-7	Wes-9ef7_92_Circus-8	Wes-9ef7_92_harriers-7_161	92	Wes-9ef7_92_Circus-8_1067	92	0	Hen harrier	Circus	100.0
+taxongroup	Wes-9ef7_125_harrier-2	Wes-9ef7_125_Circus-65	Wes-9ef7_125_harrier-2_161	125	Wes-9ef7_125_Circus-65_1067	125	0	Hen harrier	Circus	100.0
+taxongroup	Acc-0d4b_40_harriers-26	Acc-0d4b_40_Circus-22	Acc-0d4b_40_harriers-26_161	40	Acc-0d4b_40_Circus-22_1067	40	0	Hen harrier	Circus	100.0
+taxongroup	Bir-959d_35_harrier-48	Bir-959d_35_Circus-51	Bir-959d_35_harrier-48_161	35	Bir-959d_35_Circus-51_1067	35	0	Hen harrier	Circus	100.0
+taxongroup	Bir-959d_35_harrier-41	Bir-959d_35_Circus-51	Bir-959d_35_harrier-41_161	35	Bir-959d_35_Circus-51_1067	35	0	Hen harrier	Circus	100.0
+taxongroup	Acc-0d4b_36_harriers-13	Acc-0d4b_36_Circus-12	Acc-0d4b_36_harriers-13_161	36	Acc-0d4b_36_Circus-12_1067	36	0	Hen harrier	Circus	100.0
+taxongroup	Harcc28_4_harrier-14	Harcc28_4_harrier-14	Harcc28_4_harrier-14_161	4	Harcc28_4_harrier-14_4343	4	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_12_harrier-3	Har-a313_12_harrier-3	Har-a313_12_harrier-3_161	12	Har-a313_12_harrier-3_4343	12	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_21_harrier-12	Har-a313_21_harrier-12	Har-a313_21_harrier-12_161	21	Har-a313_21_harrier-12_4343	21	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_21_harrier-12	Har-a313_21_harrier-3	Har-a313_21_harrier-12_161	21	Har-a313_21_harrier-3_4343	21	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_21_harrier-3	Har-a313_21_harrier-3	Har-a313_21_harrier-3_161	21	Har-a313_21_harrier-3_4343	21	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_23_harrier-3	Har-a313_23_harrier-3	Har-a313_23_harrier-3_161	23	Har-a313_23_harrier-3_4343	23	0	Hen harrier	harriers	100.0
+taxongroup	Hen-610d_20_harrier-13	Hen-610d_20_harrier-3	Hen-610d_20_harrier-13_161	20	Hen-610d_20_harrier-3_4343	20	0	Hen harrier	harriers	100.0
+taxongroup	Eur-bc75_400_harrier-69	Eur-bc75_400_harrier-54	Eur-bc75_400_harrier-69_161	400	Eur-bc75_400_harrier-54_4343	400	0	Hen harrier	harriers	100.0
+taxongroup	Eur-d3a5_169_harriers-26	Eur-d3a5_169_harriers-26	Eur-d3a5_169_harriers-26_161	169	Eur-d3a5_169_harriers-26_4343	169	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_2_harrier-2	Har-a313_2_harrier-2	Har-a313_2_harrier-2_161	2	Har-a313_2_harrier-2_4343	2	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_27_harrier-2	Har-a313_27_harrier-2	Har-a313_27_harrier-2_161	27	Har-a313_27_harrier-2_4343	27	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_29_harrier-16	Har-a313_29_harrier-2	Har-a313_29_harrier-16_161	29	Har-a313_29_harrier-2_4343	29	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_4_harriers-14	Har-a313_4_harriers-14	Har-a313_4_harriers-14_161	4	Har-a313_4_harriers-14_4343	4	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_29_harrier-2	Har-a313_29_harrier-16	Har-a313_29_harrier-2_161	29	Har-a313_29_harrier-16_4343	29	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_29_harrier-2	Har-a313_29_harrier-2	Har-a313_29_harrier-2_161	29	Har-a313_29_harrier-2_4343	29	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_6_harriers-2	Har-a313_6_harriers-2	Har-a313_6_harriers-2_161	6	Har-a313_6_harriers-2_4343	6	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_39_harrier-30	Har-a313_39_harrier-30	Har-a313_39_harrier-30_161	39	Har-a313_39_harrier-30_4343	39	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_30_harrier-4	Har-a313_30_harrier-4	Har-a313_30_harrier-4_161	30	Har-a313_30_harrier-4_4343	30	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_31_harrier-13	Har-a313_31_harrier-5	Har-a313_31_harrier-13_161	31	Har-a313_31_harrier-5_4343	31	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_31_harrier-5	Har-a313_31_harrier-13	Har-a313_31_harrier-5_161	31	Har-a313_31_harrier-13_4343	31	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_31_harrier-5	Har-a313_31_harrier-5	Har-a313_31_harrier-5_161	31	Har-a313_31_harrier-5_4343	31	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_32_harrier-4	Har-a313_32_harrier-4	Har-a313_32_harrier-4_161	32	Har-a313_32_harrier-4_4343	32	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_39_harrier-30	Har-a313_39_harrier-19	Har-a313_39_harrier-30_161	39	Har-a313_39_harrier-19_4343	39	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_25_harrier-9	Har-a313_25_harrier-9	Har-a313_25_harrier-9_161	25	Har-a313_25_harrier-9_4343	25	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_31_harrier-13	Har-a313_31_harrier-13	Har-a313_31_harrier-13_161	31	Har-a313_31_harrier-13_4343	31	0	Hen harrier	harriers	100.0
+taxongroup	Com-f222_150_harrier-30	Com-f222_150_harrier-30	Com-f222_150_harrier-30_161	150	Com-f222_150_harrier-30_4343	150	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_29_harrier-16	Har-a313_29_harrier-16	Har-a313_29_harrier-16_161	29	Har-a313_29_harrier-16_4343	29	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_33_harrier-2	Har-a313_33_harrier-2	Har-a313_33_harrier-2_161	33	Har-a313_33_harrier-2_4343	33	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_24_harrier-7	Har-a313_24_harrier-7	Har-a313_24_harrier-7_161	24	Har-a313_24_harrier-7_4343	24	0	Hen harrier	harriers	100.0
+taxongroup	Whi-b4c3_28_harriers-33	Whi-b4c3_28_harriers-33	Whi-b4c3_28_harriers-33_161	28	Whi-b4c3_28_harriers-33_4343	28	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_20_harrier-9	Har-a313_20_harrier-9	Har-a313_20_harrier-9_161	20	Har-a313_20_harrier-9_4343	20	0	Hen harrier	harriers	100.0
+taxongroup	Whi-b4c3_3_harriers-29	Whi-b4c3_3_harriers-29	Whi-b4c3_3_harriers-29_161	3	Whi-b4c3_3_harriers-29_4343	3	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_15_harrier-18	Har-a313_15_harrier-18	Har-a313_15_harrier-18_161	15	Har-a313_15_harrier-18_4343	15	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_16_harrier-13	Har-a313_16_harrier-13	Har-a313_16_harrier-13_161	16	Har-a313_16_harrier-13_4343	16	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_16_harrier-13	Har-a313_16_harrier-28	Har-a313_16_harrier-13_161	16	Har-a313_16_harrier-28_4343	16	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_16_harrier-13	Har-a313_16_harriers-4	Har-a313_16_harrier-13_161	16	Har-a313_16_harriers-4_4343	16	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_16_harrier-28	Har-a313_16_harrier-13	Har-a313_16_harrier-28_161	16	Har-a313_16_harrier-13_4343	16	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_16_harrier-28	Har-a313_16_harrier-28	Har-a313_16_harrier-28_161	16	Har-a313_16_harrier-28_4343	16	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_24_harrier-17	Har-a313_24_harrier-7	Har-a313_24_harrier-17_161	24	Har-a313_24_harrier-7_4343	24	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_24_harrier-17	Har-a313_24_harrier-17	Har-a313_24_harrier-17_161	24	Har-a313_24_harrier-17_4343	24	0	Hen harrier	harriers	100.0
+taxongroup	Harcc28_4_harrier-14	Harcc28_4_harrier-18	Harcc28_4_harrier-14_161	4	Harcc28_4_harrier-18_4343	4	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_10_harriers-2	Har-a313_10_harriers-2	Har-a313_10_harriers-2_161	10	Har-a313_10_harriers-2_4343	10	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_21_harrier-3	Har-a313_21_harrier-12	Har-a313_21_harrier-3_161	21	Har-a313_21_harrier-12_4343	21	0	Hen harrier	harriers	100.0
+taxongroup	Harcc28_5_harrier-9	Harcc28_5_harrier-9	Harcc28_5_harrier-9_161	5	Harcc28_5_harrier-9_4343	5	0	Hen harrier	harriers	100.0
+taxongroup	Eur-bc75_160_harrier-31	Eur-bc75_160_harrier-31	Eur-bc75_160_harrier-31_161	160	Eur-bc75_160_harrier-31_4343	160	0	Hen harrier	harriers	100.0
+taxongroup	Eur-bc75_400_harrier-54	Eur-bc75_400_harrier-69	Eur-bc75_400_harrier-54_161	400	Eur-bc75_400_harrier-69_4343	400	0	Hen harrier	harriers	100.0
+taxongroup	Eur-bc75_400_harrier-54	Eur-bc75_400_harrier-54	Eur-bc75_400_harrier-54_161	400	Eur-bc75_400_harrier-54_4343	400	0	Hen harrier	harriers	100.0
+taxongroup	For-7d57_159_harrier-35	For-7d57_159_harrier-35	For-7d57_159_harrier-35_161	159	For-7d57_159_harrier-35_4343	159	0	Hen harrier	harriers	100.0
+taxongroup	Gre-0f9b_76_harriers-106	Gre-0f9b_76_harriers-106	Gre-0f9b_76_harriers-106_161	76	Gre-0f9b_76_harriers-106_4343	76	0	Hen harrier	harriers	100.0
+taxongroup	Gre-e890_127_harrier-24	Gre-e890_127_harrier-24	Gre-e890_127_harrier-24_161	127	Gre-e890_127_harrier-24_4343	127	0	Hen harrier	harriers	100.0
+taxongroup	Eur-bc75_400_harrier-69	Eur-bc75_400_harrier-69	Eur-bc75_400_harrier-69_161	400	Eur-bc75_400_harrier-69_4343	400	0	Hen harrier	harriers	100.0
+taxongroup	Har-a313_16_harrier-28	Har-a313_16_harriers-4	Har-a313_16_harrier-28_161	16	Har-a313_16_harriers-4_4343	16	0	Hen harrier	harriers	100.0
+taxongroup	Eur-bc75_2_harriers-40	Eur-bc75_2_harriers-40	Eur-bc75_2_harriers-40_161	2	Eur-bc75_2_harriers-40_4343	2	0	Hen harrier	harriers	100.0
+taxongroup	Com-a9dd_181_harrier-31	Com-a9dd_181_harrier-31	Com-a9dd_181_harrier-31_161	181	Com-a9dd_181_harrier-31_4343	181	0	Hen harrier	harriers	100.0
+taxongroup	Eas-e016_158_harrier-16	Eas-e016_158_harrier-16	Eas-e016_158_harrier-16_161	158	Eas-e016_158_harrier-16_4343	158	0	Hen harrier	harriers	100.0
+taxongroup	Eur-bc75_400_harrier-83	Eur-bc75_400_harrier-83	Eur-bc75_400_harrier-83_161	400	Eur-bc75_400_harrier-83_4343	400	0	Hen harrier	harriers	100.0
+taxongroup	Eur-bc75_400_harrier-83	Eur-bc75_400_harrier-69	Eur-bc75_400_harrier-83_161	400	Eur-bc75_400_harrier-69_4343	400	0	Hen harrier	harriers	100.0
+taxongroup	Eur-bc75_400_harrier-83	Eur-bc75_400_harrier-54	Eur-bc75_400_harrier-83_161	400	Eur-bc75_400_harrier-54_4343	400	0	Hen harrier	harriers	100.0
+taxongroup	Eur-bc75_378_harriers-18	Eur-bc75_378_harriers-18	Eur-bc75_378_harriers-18_161	378	Eur-bc75_378_harriers-18_4343	378	0	Hen harrier	harriers	100.0

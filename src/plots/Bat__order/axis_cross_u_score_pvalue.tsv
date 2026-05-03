@@ -1,0 +1,8 @@
+rel_role	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	1.0	0.0	0.012	0.221	0.001	0.0	0.0	Bat__order	53
+adaptation_topic	0.0	1.0	0.0	0.133	0.203	0.132	0.22	Bat__order	110
+free_topic	0.012	0.0	1.0	0.165	0.003	0.0	0.0	Bat__order	458
+location_comment	0.221	0.133	0.165	1.0	0.056	0.201	0.136	Bat__order	6
+location_topic	0.001	0.203	0.003	0.056	1.0	0.171	0.241	Bat__order	10
+taxongroup_comment	0.0	0.132	0.0	0.201	0.171	1.0	0.071	Bat__order	423
+taxongroup_topic	0.0	0.22	0.0	0.136	0.241	0.071	1.0	Bat__order	399

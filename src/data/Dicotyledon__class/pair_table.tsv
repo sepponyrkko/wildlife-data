@@ -1,0 +1,945 @@
+relation	btoken	rtoken	btag	bloc	rtag	rloc	rdist	bterm	rterm	tagscore
+location	Par5cb2_23_oak-4	Par5cb2_23_parklands-22	Par5cb2_23_oak-4_4407	23	Par5cb2_23_parklands-22_4529	23	0	oaks	parkland	100.0
+location	Sag-0ea8_114_saguaros-6	Sag-0ea8_114_deserts-27	Sag-0ea8_114_saguaros-6_5438	114	Sag-0ea8_114_deserts-27_34	114	0	saguaros	Desert	100.0
+location	Que-fbc5_28_oak-20	Que-fbc5_28_wood-18	Que-fbc5_28_oak-20_4407	28	Que-fbc5_28_wood-18_4508	28	0	oaks	oak wood	100.0
+location	Que-fbc5_28_oak-17	Que-fbc5_28_wood-18	Que-fbc5_28_oak-17_4407	28	Que-fbc5_28_wood-18_4508	28	0	oaks	oak wood	100.0
+location	Dir-7dc2_149_oak-8	Dir-7dc2_149_parklands-19	Dir-7dc2_149_oak-8_4407	149	Dir-7dc2_149_parklands-19_4529	149	0	oaks	parkland	100.0
+location	Ulm-8a7b_59_hawthorn-31	Ulm-8a7b_59_hedgerows-32	Ulm-8a7b_59_hawthorn-31_4834	59	Ulm-8a7b_59_hedgerows-32_4519	59	0	hawthorn	hedgerows	100.0
+location	Oakb84d_6_Oak-1	Oakb84d_6_wood-2	Oakb84d_6_Oak-1_4407	6	Oakb84d_6_wood-2_4508	6	0	oaks	oak wood	100.0
+location	Ven-77c9_61_flytrap-3	Ven-77c9_61_bogs-17	Ven-77c9_61_flytrap-3_3603	61	Ven-77c9_61_bogs-17_4511	61	0	Venus flytrap	bog	100.0
+location	Sag-0ea8_153_saguaros-5	Sag-0ea8_153_deserts-11	Sag-0ea8_153_saguaros-5_5438	153	Sag-0ea8_153_deserts-11_34	153	0	saguaros	Desert	100.0
+location	Oak-f2b6_168_oak-19	Oak-f2b6_168_wood-20	Oak-f2b6_168_oak-19_4407	168	Oak-f2b6_168_wood-20_4508	168	0	oaks	oak wood	100.0
+location	Bla0b20_4_blackberries-2	Bla0b20_4_hedgerows-9	Bla0b20_4_blackberries-2_4679	4	Bla0b20_4_hedgerows-9_4519	4	0	blackberry	hedgerows	100.0
+location	Que-fbc5_28_oak-10	Que-fbc5_28_wood-18	Que-fbc5_28_oak-10_4407	28	Que-fbc5_28_wood-18_4508	28	0	oaks	oak wood	100.0
+location	Bee-f189_10_beech-4	Bee-f189_10_wood-5	Bee-f189_10_beech-4_4930	10	Bee-f189_10_wood-5_4516	10	0	beech	beech wood	83.0
+location	Engedc7_7_beech-9	Engedc7_7_wood-10	Engedc7_7_beech-9_4930	7	Engedc7_7_wood-10_4516	7	0	beech	beech wood	83.0
+location	Tax-9735_43_beech-22	Tax-9735_43_woods-23	Tax-9735_43_beech-22_4930	43	Tax-9735_43_woods-23_4516	43	0	beech	beech wood	83.0
+location	Ban-5f22_33_brambles-14	Ban-5f22_33_hedgerows-6	Ban-5f22_33_brambles-14_4680	33	Ban-5f22_33_hedgerows-6_4519	33	0	bramble	hedgerows	83.0
+location	hed51b8_7_brambles-3	hed51b8_7_hedgerow-19	hed51b8_7_brambles-3_4680	7	hed51b8_7_hedgerow-19_4519	7	0	bramble	hedgerows	83.0
+location	Par5cb2_23_beech-8	Par5cb2_23_parklands-22	Par5cb2_23_beech-8_4930	23	Par5cb2_23_parklands-22_4529	23	0	beech	parkland	83.0
+location	Bee-f189_114_beech-17	Bee-f189_114_wood-18	Bee-f189_114_beech-17_4930	114	Bee-f189_114_wood-18_4516	114	0	beech	beech wood	83.0
+location	Roe-b5ac_107_bramble-12	Roe-b5ac_107_hedgerow-26	Roe-b5ac_107_bramble-12_4680	107	Roe-b5ac_107_hedgerow-26_4519	107	0	bramble	hedgerows	83.0
+location	Ace-0af3_134_Sycamore-1	Ace-0af3_135_coastal-14	Ace-0af3_134_Sycamore-1_1417	134	Ace-0af3_135_coastal-14_4514	135	1	Sycamore	coastal	50.0
+location	Sag-0ea8_150_Saguaros-1	Sag-0ea8_151_desert-3	Sag-0ea8_150_Saguaros-1_3256	150	Sag-0ea8_151_desert-3_3805	151	1	Saguaros	desert	50.0
+location	Elm-3ea7_100_elm-8	Elm-3ea7_101_hedgerows-5	Elm-3ea7_100_elm-8_3586	100	Elm-3ea7_101_hedgerows-5_4519	101	1	English elm	hedgerows	50.0
+location	Que-fbc5_29_Quercus-17	Que-fbc5_28_wood-18	Que-fbc5_29_Quercus-17_1175	29	Que-fbc5_28_wood-18_4508	28	1	Quercus	oak wood	50.0
+location	Que-fbc5_29_Quercus-19	Que-fbc5_28_wood-18	Que-fbc5_29_Quercus-19_1175	29	Que-fbc5_28_wood-18_4508	28	1	Quercus	oak wood	50.0
+location	Ace-0af3_87_sycamore-7	Ace-0af3_88_farmland-12	Ace-0af3_87_sycamore-7_4562	87	Ace-0af3_88_farmland-12_4509	88	1	sycamore	farmland	50.0
+location	Nea-9375_26_oak-27	Nea-9375_27_forest-10	Nea-9375_26_oak-27_4407	26	Nea-9375_27_forest-10_4535	27	1	oaks	broadleaf forest	50.0
+location	Lon-83cf_36_oak-24	Lon-83cf_35_farmland-19	Lon-83cf_36_oak-24_4407	36	Lon-83cf_35_farmland-19_4509	35	1	oaks	farmland	50.0
+location	Dir-7dc2_150_oak-21	Dir-7dc2_149_parklands-19	Dir-7dc2_150_oak-21_4407	150	Dir-7dc2_149_parklands-19_4529	149	1	oaks	parkland	50.0
+location	Ace-0af3_87_sycamore-7	Ace-0af3_88_hedgerows-23	Ace-0af3_87_sycamore-7_4562	87	Ace-0af3_88_hedgerows-23_4519	88	1	sycamore	hedgerows	50.0
+location	Dir-7dc2_152_sycamore-35	Dir-7dc2_153_coastal-13	Dir-7dc2_152_sycamore-35_4562	152	Dir-7dc2_153_coastal-13_1353	153	1	sycamore	Coastal	50.0
+location	Nea-9375_26_oak-27	Nea-9375_27_forest-22	Nea-9375_26_oak-27_4407	26	Nea-9375_27_forest-22_4535	27	1	oaks	broadleaf forest	50.0
+location	Ace-0af3_87_sycamore-7	Ace-0af3_88_land-15	Ace-0af3_87_sycamore-7_4562	87	Ace-0af3_88_land-15_4513	88	1	sycamore	brownfield land	50.0
+location	Bla0b20_3_brambles-6	Bla0b20_4_hedgerows-9	Bla0b20_3_brambles-6_4680	3	Bla0b20_4_hedgerows-9_4519	4	1	bramble	hedgerows	41.5
+location	hed51b8_7_brambles-3	hed51b8_8_hedgerow-17	hed51b8_7_brambles-3_4680	7	hed51b8_8_hedgerow-17_4519	8	1	bramble	hedgerows	41.5
+location	Eur-07b4_54_brambles-9	Eur-07b4_53_hedgerows-26	Eur-07b4_54_brambles-9_4680	54	Eur-07b4_53_hedgerows-26_4519	53	1	bramble	hedgerows	41.5
+location	Engedc7_6_Beech-1	Engedc7_7_wood-10	Engedc7_6_Beech-1_2183	6	Engedc7_7_wood-10_4516	7	1	Beech	beech wood	41.5
+location	Par5cb2_23_oak-4	Par5cb2_21_parklands-23	Par5cb2_23_oak-4_4407	23	Par5cb2_21_parklands-23_4529	21	2	oaks	parkland	33.333
+location	Ulm-8a7b_59_hawthorn-31	Ulm-8a7b_61_hedgerows-10	Ulm-8a7b_59_hawthorn-31_4834	59	Ulm-8a7b_61_hedgerows-10_4519	61	2	hawthorn	hedgerows	33.333
+location	Hed-8dc6_31_hawthorn-10	Hed-8dc6_29_hedgerow-16	Hed-8dc6_31_hawthorn-10_4834	31	Hed-8dc6_29_hedgerow-16_4519	29	2	hawthorn	hedgerows	33.333
+location	Hed-8dc6_31_hawthorn-10	Hed-8dc6_33_hedgerows-2	Hed-8dc6_31_hawthorn-10_4834	31	Hed-8dc6_33_hedgerows-2_4519	33	2	hawthorn	hedgerows	33.333
+location	Bla0b20_6_Blackberry-7	Bla0b20_4_hedgerows-9	Bla0b20_6_Blackberry-7_1678	6	Bla0b20_4_hedgerows-9_4519	4	2	Blackberry	hedgerows	33.333
+location	Cra60c2_6_hawthorns-11	Cra60c2_4_hedgerow-8	Cra60c2_6_hawthorns-11_4834	6	Cra60c2_4_hedgerow-8_4519	4	2	hawthorn	hedgerows	33.333
+location	Hed-8dc6_31_hawthorn-10	Hed-8dc6_29_hedgerows-3	Hed-8dc6_31_hawthorn-10_4834	31	Hed-8dc6_29_hedgerows-3_4519	29	2	hawthorn	hedgerows	33.333
+location	Ade-b6ba_4_star-8	Ade-b6ba_2_desert-9	Ade-b6ba_4_star-8_1436	4	Ade-b6ba_2_desert-9_3805	2	2	Sabi star	desert	27.667
+location	Ulm-8a7b_53_elm-6	Ulm-8a7b_51_hedgerows-63	Ulm-8a7b_53_elm-6_3588	53	Ulm-8a7b_51_hedgerows-63_4519	51	2	Atinian elm	hedgerows	27.667
+location	Bee-f189_112_Beech-1	Bee-f189_114_wood-18	Bee-f189_112_Beech-1_2183	112	Bee-f189_114_wood-18_4516	114	2	Beech	beech wood	27.667
+location	Par5cb2_23_beech-8	Par5cb2_21_parklands-23	Par5cb2_23_beech-8_4930	23	Par5cb2_21_parklands-23_4529	21	2	beech	parkland	27.667
+location	Bee-f189_12_Beech-1	Bee-f189_10_wood-5	Bee-f189_12_Beech-1_2183	12	Bee-f189_10_wood-5_4516	10	2	Beech	beech wood	27.667
+location	Ade-b6ba_4_azalea-13	Ade-b6ba_2_desert-9	Ade-b6ba_4_azalea-13_4573	4	Ade-b6ba_2_desert-9_3805	2	2	mock azalea	desert	27.667
+location	Hed-8dc6_31_brambles-12	Hed-8dc6_29_hedgerows-3	Hed-8dc6_31_brambles-12_4680	31	Hed-8dc6_29_hedgerows-3_4519	29	2	bramble	hedgerows	27.667
+location	Hed-8dc6_31_brambles-12	Hed-8dc6_33_hedgerows-2	Hed-8dc6_31_brambles-12_4680	31	Hed-8dc6_33_hedgerows-2_4519	33	2	bramble	hedgerows	27.667
+location	Hed-8dc6_31_brambles-12	Hed-8dc6_29_hedgerow-16	Hed-8dc6_31_brambles-12_4680	31	Hed-8dc6_29_hedgerow-16_4519	29	2	bramble	hedgerows	27.667
+location	Cra60c2_6_trees-9	Cra60c2_4_hedgerow-8	Cra60c2_6_trees-9_1989	6	Cra60c2_4_hedgerow-8_4519	4	2	May-tree	hedgerows	27.667
+location	Ade-b6ba_4_kudu-10	Ade-b6ba_2_desert-9	Ade-b6ba_4_kudu-10_4572	4	Ade-b6ba_2_desert-9_34	2	2	kudu	Desert	27.667
+location	Com-3b7c_155_blackberry-10	Com-3b7c_152_hedgerows-36	Com-3b7c_155_blackberry-10_4679	155	Com-3b7c_152_hedgerows-36_4519	152	3	blackberry	hedgerows	25.0
+location	Sag-0ea8_150_Saguaros-1	Sag-0ea8_153_deserts-11	Sag-0ea8_150_Saguaros-1_3256	150	Sag-0ea8_153_deserts-11_3805	153	3	Saguaros	desert	25.0
+location	Dir-7dc2_152_sycamore-35	Dir-7dc2_149_parklands-19	Dir-7dc2_152_sycamore-35_4562	152	Dir-7dc2_149_parklands-19_4529	149	3	sycamore	parkland	25.0
+location	Par5cb2_23_oak-4	Par5cb2_20_Parklands-1	Par5cb2_23_oak-4_4407	23	Par5cb2_20_Parklands-1_1368	20	3	oaks	Parkland	25.0
+location	Ace-0af3_132_pseudoplatanus-2	Ace-0af3_135_coastal-14	Ace-0af3_132_pseudoplatanus-2_1418	132	Ace-0af3_135_coastal-14_1353	135	3	Acer pseudoplatanus	Coastal	21.75
+location	Sag-0ea8_201_gigantea-4	Sag-0ea8_204_desert-4	Sag-0ea8_201_gigantea-4_3257	201	Sag-0ea8_204_desert-4_3805	204	3	Carnegiea gigantea	desert	21.75
+location	Ace-0af3_85_pseudoplatanus-2	Ace-0af3_88_land-15	Ace-0af3_85_pseudoplatanus-2_1418	85	Ace-0af3_88_land-15_4513	88	3	Acer pseudoplatanus	brownfield land	21.75
+location	Ace-0af3_85_pseudoplatanus-2	Ace-0af3_88_farmland-12	Ace-0af3_85_pseudoplatanus-2_1418	85	Ace-0af3_88_farmland-12_4509	88	3	Acer pseudoplatanus	farmland	21.75
+location	Ace-0af3_85_pseudoplatanus-2	Ace-0af3_88_hedgerows-23	Ace-0af3_85_pseudoplatanus-2_1418	85	Ace-0af3_88_hedgerows-23_4519	88	3	Acer pseudoplatanus	hedgerows	21.75
+location	Ulm-8a7b_56_elm-14	Ulm-8a7b_59_hedgerows-32	Ulm-8a7b_56_elm-14_3588	56	Ulm-8a7b_59_hedgerows-32_4519	59	3	Atinian elm	hedgerows	20.75
+location	Bee-f189_7_beech-3	Bee-f189_10_wood-5	Bee-f189_7_beech-3_2184	7	Bee-f189_10_wood-5_4516	10	3	European beech	beech wood	20.75
+location	Cra60c2_7_haws-15	Cra60c2_4_hedgerow-8	Cra60c2_7_haws-15_4836	7	Cra60c2_4_hedgerow-8_4519	4	3	haw	hedgerows	20.75
+location	Par5cb2_23_beech-8	Par5cb2_20_Parklands-1	Par5cb2_23_beech-8_4930	23	Par5cb2_20_Parklands-1_1368	20	3	beech	Parkland	20.75
+location	Ven-77c9_61_flytrap-3	Ven-77c9_65_bogs-23	Ven-77c9_61_flytrap-3_3603	61	Ven-77c9_65_bogs-23_4511	65	4	Venus flytrap	bog	20.0
+location	Eur-3ec7_317_oaks-28	Eur-3ec7_322_farmland-6	Eur-3ec7_317_oaks-28_4407	317	Eur-3ec7_322_farmland-6_4509	322	5	oaks	farmland	16.667
+location	Eur-3ec7_317_oak-40	Eur-3ec7_322_farmland-6	Eur-3ec7_317_oak-40_4407	317	Eur-3ec7_322_farmland-6_4509	322	5	oaks	farmland	16.667
+location	Com-5e05_32_hawthorn-44	Com-5e05_27_heathland-12	Com-5e05_32_hawthorn-44_4834	32	Com-5e05_27_heathland-12_4518	27	5	hawthorn	heathland	16.667
+location	Ind-c6bf_37_plants-3	Ind-c6bf_32_rainforest-2	Ind-c6bf_37_plants-3_2901	37	Ind-c6bf_32_rainforest-2_3811	32	5	Tropical pitcher plants	rainforest	16.667
+location	Com-5e05_32_dandelions-30	Com-5e05_27_heathland-12	Com-5e05_32_dandelions-30_3467	32	Com-5e05_27_heathland-12_4518	27	5	Dandelions	heathland	16.667
+location	Sag-0ea8_20_Saguaros-1	Sag-0ea8_15_deserts-13	Sag-0ea8_20_Saguaros-1_3256	20	Sag-0ea8_15_deserts-13_3805	15	5	Saguaros	desert	16.667
+location	Ulm04b4_4_oak-15	Ulm04b4_9_parklands-10	Ulm04b4_4_oak-15_4407	4	Ulm04b4_9_parklands-10_4529	9	5	oaks	parkland	16.667
+location	Cra60c2_8_haws-2	Cra60c2_4_hedgerow-8	Cra60c2_8_haws-2_4836	8	Cra60c2_4_hedgerow-8_4519	4	4	haw	hedgerows	16.6
+location	Ven-77c9_71_flytraps-8	Ven-77c9_65_bogs-23	Ven-77c9_71_flytraps-8_3603	71	Ven-77c9_65_bogs-23_4511	65	6	Venus flytrap	bog	14.286
+location	Bee-f189_119_Beech-1	Bee-f189_114_wood-18	Bee-f189_119_Beech-1_2183	119	Bee-f189_114_wood-18_4516	114	5	Beech	beech wood	13.833
+location	Ulm-8a7b_56_elm-14	Ulm-8a7b_51_hedgerows-63	Ulm-8a7b_56_elm-14_3588	56	Ulm-8a7b_51_hedgerows-63_4519	51	5	Atinian elm	hedgerows	13.833
+location	Ulm-8a7b_56_elm-14	Ulm-8a7b_61_hedgerows-10	Ulm-8a7b_56_elm-14_3588	56	Ulm-8a7b_61_hedgerows-10_4519	61	5	Atinian elm	hedgerows	13.833
+location	Ace-0af3_81_sycamore-6	Ace-0af3_88_farmland-12	Ace-0af3_81_sycamore-6_4562	81	Ace-0af3_88_farmland-12_4509	88	7	sycamore	farmland	12.5
+location	Eur-3ec7_317_oaks-28	Eur-3ec7_324_farmland-14	Eur-3ec7_317_oaks-28_4407	317	Eur-3ec7_324_farmland-14_4509	324	7	oaks	farmland	12.5
+location	Ace-0af3_81_sycamore-6	Ace-0af3_88_hedgerows-23	Ace-0af3_81_sycamore-6_4562	81	Ace-0af3_88_hedgerows-23_4519	88	7	sycamore	hedgerows	12.5
+location	Eur-3ec7_317_oak-40	Eur-3ec7_324_farmland-14	Eur-3ec7_317_oak-40_4407	317	Eur-3ec7_324_farmland-14_4509	324	7	oaks	farmland	12.5
+location	Bur-9073_53_oak-27	Bur-9073_46_farmland-5	Bur-9073_53_oak-27_4407	53	Bur-9073_46_farmland-5_4509	46	7	oaks	farmland	12.5
+location	Sag4cf3_9_Saguaros-7	Sag4cf3_2_deserts-12	Sag4cf3_9_Saguaros-7_3256	9	Sag4cf3_2_deserts-12_3805	2	7	Saguaros	desert	12.5
+location	Ace-0af3_81_sycamore-6	Ace-0af3_88_land-15	Ace-0af3_81_sycamore-6_4562	81	Ace-0af3_88_land-15_4513	88	7	sycamore	brownfield land	12.5
+location	Ulm-8a7b_44_elm-6	Ulm-8a7b_51_hedgerows-63	Ulm-8a7b_44_elm-6_3586	44	Ulm-8a7b_51_hedgerows-63_4519	51	7	English elm	hedgerows	12.5
+location	Fie-7e8b_96_Hawthorn-1	Fie-7e8b_103_hedgerow-12	Fie-7e8b_96_Hawthorn-1_1983	96	Fie-7e8b_103_hedgerow-12_4519	103	7	Hawthorn	hedgerows	12.5
+location	Hed-8dc6_39_monogyna-2	Hed-8dc6_33_hedgerows-2	Hed-8dc6_39_monogyna-2_1984	39	Hed-8dc6_33_hedgerows-2_4519	33	6	Crataegus monogyna	hedgerows	12.429
+location	Hed-8dc6_39_monogyna-2	Hed-8dc6_45_hedgerows-8	Hed-8dc6_39_monogyna-2_1984	39	Hed-8dc6_45_hedgerows-8_4519	45	6	Crataegus monogyna	hedgerows	12.429
+location	Ulm-8a7b_53_elm-6	Ulm-8a7b_59_hedgerows-32	Ulm-8a7b_53_elm-6_3588	53	Ulm-8a7b_59_hedgerows-32_4519	59	6	Atinian elm	hedgerows	11.857
+location	Com-5e05_32_dandelions-30	Com-5e05_40_hedgerows-47	Com-5e05_32_dandelions-30_5533	32	Com-5e05_40_hedgerows-47_4519	40	8	dandelions	hedgerows	11.111
+location	Ace-0af3_96_chestnut-4	Ace-0af3_88_farmland-12	Ace-0af3_96_chestnut-4_4574	96	Ace-0af3_88_farmland-12_4509	88	8	horse chestnut	farmland	11.111
+location	Ven-77c9_53_flytrap-3	Ven-77c9_61_bogs-17	Ven-77c9_53_flytrap-3_3603	53	Ven-77c9_61_bogs-17_4511	61	8	Venus flytrap	bog	11.111
+location	Ace-0af3_96_sycamore-17	Ace-0af3_88_land-15	Ace-0af3_96_sycamore-17_4562	96	Ace-0af3_88_land-15_4513	88	8	sycamore	brownfield land	11.111
+location	Anc-6a43_55_hawthorn-10	Anc-6a43_47_heathland-22	Anc-6a43_55_hawthorn-10_4834	55	Anc-6a43_47_heathland-22_4518	47	8	hawthorn	heathland	11.111
+location	Anc-6a43_55_hawthorn-10	Anc-6a43_47_parkland-19	Anc-6a43_55_hawthorn-10_4834	55	Anc-6a43_47_parkland-19_4529	47	8	hawthorn	parkland	11.111
+location	Ace-0af3_96_chestnut-4	Ace-0af3_88_land-15	Ace-0af3_96_chestnut-4_4574	96	Ace-0af3_88_land-15_4513	88	8	horse chestnut	brownfield land	11.111
+location	Ace-0af3_96_sycamore-17	Ace-0af3_88_hedgerows-23	Ace-0af3_96_sycamore-17_4562	96	Ace-0af3_88_hedgerows-23_4519	88	8	sycamore	hedgerows	11.111
+location	Ace-0af3_96_chestnut-4	Ace-0af3_88_hedgerows-23	Ace-0af3_96_chestnut-4_4574	96	Ace-0af3_88_hedgerows-23_4519	88	8	horse chestnut	hedgerows	11.111
+location	Ace-0af3_96_sycamore-17	Ace-0af3_88_farmland-12	Ace-0af3_96_sycamore-17_4562	96	Ace-0af3_88_farmland-12_4509	88	8	sycamore	farmland	11.111
+location	Cra60c2_12_Hawthorn-7	Cra60c2_4_hedgerow-8	Cra60c2_12_Hawthorn-7_1983	12	Cra60c2_4_hedgerow-8_4519	4	8	Hawthorn	hedgerows	11.111
+location	Sag-0ea8_7_Saguaros-1	Sag-0ea8_15_deserts-13	Sag-0ea8_7_Saguaros-1_3256	7	Sag-0ea8_15_deserts-13_3805	15	8	Saguaros	desert	11.111
+location	Lon-b0af_215_oaks-20	Lon-b0af_207_farmland-12	Lon-b0af_215_oaks-20_4407	215	Lon-b0af_207_farmland-12_4509	207	8	oaks	farmland	11.111
+location	Ace-0af3_143_sycamore-8	Ace-0af3_135_coastal-14	Ace-0af3_143_sycamore-8_4562	143	Ace-0af3_135_coastal-14_4514	135	8	sycamore	coastal	11.111
+location	Hed-8dc6_39_monogyna-2	Hed-8dc6_46_hedgerow-9	Hed-8dc6_39_monogyna-2_1984	39	Hed-8dc6_46_hedgerow-9_4519	46	7	Crataegus monogyna	hedgerows	10.875
+location	Ace-0af3_79_sycamore-2	Ace-0af3_88_hedgerows-23	Ace-0af3_79_sycamore-2_4562	79	Ace-0af3_88_hedgerows-23_4519	88	9	sycamore	hedgerows	10.0
+location	Ace-0af3_79_sycamore-2	Ace-0af3_88_land-15	Ace-0af3_79_sycamore-2_4562	79	Ace-0af3_88_land-15_4513	88	9	sycamore	brownfield land	10.0
+location	Ace-0af3_79_sycamore-2	Ace-0af3_88_farmland-12	Ace-0af3_79_sycamore-2_4562	79	Ace-0af3_88_farmland-12_4509	88	9	sycamore	farmland	10.0
+location	Sag-0ea8_24_Saguaros-1	Sag-0ea8_15_deserts-13	Sag-0ea8_24_Saguaros-1_3256	24	Sag-0ea8_15_deserts-13_34	15	9	Saguaros	Desert	10.0
+location	Ulm-8a7b_53_elm-6	Ulm-8a7b_61_hedgerows-10	Ulm-8a7b_53_elm-6_3588	53	Ulm-8a7b_61_hedgerows-10_4519	61	8	Atinian elm	hedgerows	9.222
+location	Com-5e05_32_hawthorn-44	Com-5e05_40_hedgerows-47	Com-5e05_32_hawthorn-44_4835	32	Com-5e05_40_hedgerows-47_4519	40	8	common hawthorn	hedgerows	9.222
+location	Bee-f189_2_Beech-1	Bee-f189_10_wood-5	Bee-f189_2_Beech-1_2183	2	Bee-f189_10_wood-5_4516	10	8	Beech	beech wood	9.222
+location	Bee-f189_106_Beech-1	Bee-f189_114_wood-18	Bee-f189_106_Beech-1_2183	106	Bee-f189_114_wood-18_4516	114	8	Beech	beech wood	9.222
+location	Ace-0af3_125_sycamore-2	Ace-0af3_135_coastal-14	Ace-0af3_125_sycamore-2_4562	125	Ace-0af3_135_coastal-14_4514	135	10	sycamore	coastal	9.091
+location	Gat-a3f4_48_blackberry-14	Gat-a3f4_38_hedgerows-19	Gat-a3f4_48_blackberry-14_4679	48	Gat-a3f4_38_hedgerows-19_4519	38	10	blackberry	hedgerows	9.091
+location	Hed-8dc6_39_monogyna-2	Hed-8dc6_48_hedgerow-2	Hed-8dc6_39_monogyna-2_1984	39	Hed-8dc6_48_hedgerow-2_4519	48	9	Crataegus monogyna	hedgerows	8.7
+location	Ace-0af3_99_sycamore-9	Ace-0af3_88_land-15	Ace-0af3_99_sycamore-9_4562	99	Ace-0af3_88_land-15_4513	88	11	sycamore	brownfield land	8.333
+location	Ace-0af3_99_sycamore-9	Ace-0af3_88_hedgerows-23	Ace-0af3_99_sycamore-9_4562	99	Ace-0af3_88_hedgerows-23_4519	88	11	sycamore	hedgerows	8.333
+location	Sag-0ea8_31_Saguaros-1	Sag-0ea8_42_desert-47	Sag-0ea8_31_Saguaros-1_3256	31	Sag-0ea8_42_desert-47_34	42	11	Saguaros	Desert	8.333
+location	Ace-0af3_146_sycamores-4	Ace-0af3_135_coastal-14	Ace-0af3_146_sycamores-4_4562	146	Ace-0af3_135_coastal-14_4514	135	11	sycamore	coastal	8.333
+location	Ace-0af3_99_sycamore-9	Ace-0af3_88_farmland-12	Ace-0af3_99_sycamore-9_4562	99	Ace-0af3_88_farmland-12_4509	88	11	sycamore	farmland	8.333
+location	Bee-f189_19_beech-3	Bee-f189_10_wood-5	Bee-f189_19_beech-3_2184	19	Bee-f189_10_wood-5_4516	10	9	European beech	beech wood	8.3
+location	Bee-f189_1_Beech-1	Bee-f189_10_wood-5	Bee-f189_1_Beech-1_2183	1	Bee-f189_10_wood-5_4516	10	9	Beech	beech wood	8.3
+location	Hed-8dc6_39_monogyna-2	Hed-8dc6_29_hedgerow-16	Hed-8dc6_39_monogyna-2_1984	39	Hed-8dc6_29_hedgerow-16_4519	29	10	Crataegus monogyna	hedgerows	7.909
+location	Hed-8dc6_39_monogyna-2	Hed-8dc6_29_hedgerows-3	Hed-8dc6_39_monogyna-2_1984	39	Hed-8dc6_29_hedgerows-3_4519	29	10	Crataegus monogyna	hedgerows	7.909
+location	Eur-ee4d_42_hawthorn-3	Eur-ee4d_30_parkland-12	Eur-ee4d_42_hawthorn-3_4834	42	Eur-ee4d_30_parkland-12_4529	30	12	hawthorn	parkland	7.692
+location	Ace-0af3_100_chestnut-10	Ace-0af3_88_farmland-12	Ace-0af3_100_chestnut-10_4574	100	Ace-0af3_88_farmland-12_4509	88	12	horse chestnut	farmland	7.692
+location	Ace-0af3_100_chestnut-10	Ace-0af3_88_land-15	Ace-0af3_100_chestnut-10_4574	100	Ace-0af3_88_land-15_4513	88	12	horse chestnut	brownfield land	7.692
+location	Ace-0af3_100_chestnut-10	Ace-0af3_88_hedgerows-23	Ace-0af3_100_chestnut-10_4574	100	Ace-0af3_88_hedgerows-23_4519	88	12	horse chestnut	hedgerows	7.692
+location	Sag-0ea8_30_Saguaros-1	Sag-0ea8_42_desert-47	Sag-0ea8_30_Saguaros-1_3256	30	Sag-0ea8_42_desert-47_3805	42	12	Saguaros	desert	7.692
+location	For-ac12_139_beech-53	For-ac12_129_parkland-30	For-ac12_139_beech-53_4930	139	For-ac12_129_parkland-30_4529	129	10	beech	parkland	7.545
+location	Ace-0af3_75_sycamore-3	Ace-0af3_88_land-15	Ace-0af3_75_sycamore-3_4562	75	Ace-0af3_88_land-15_4513	88	13	sycamore	brownfield land	7.143
+location	Eas-e016_132_oaks-12	Eas-e016_145_farmlands-24	Eas-e016_132_oaks-12_4407	132	Eas-e016_145_farmlands-24_4509	145	13	oaks	farmland	7.143
+location	Ace-0af3_75_sycamore-3	Ace-0af3_88_farmland-12	Ace-0af3_75_sycamore-3_4562	75	Ace-0af3_88_farmland-12_4509	88	13	sycamore	farmland	7.143
+location	Ace-0af3_75_sycamore-3	Ace-0af3_88_hedgerows-23	Ace-0af3_75_sycamore-3_4562	75	Ace-0af3_88_hedgerows-23_4519	88	13	sycamore	hedgerows	7.143
+location	Dro-82dc_30_muscipula-2	Dro-82dc_18_bogs-20	Dro-82dc_30_muscipula-2_3604	30	Dro-82dc_18_bogs-20_4511	18	12	Dionaea muscipula	bog	6.692
+location	Ace-0af3_74_sycamore-4	Ace-0af3_88_farmland-12	Ace-0af3_74_sycamore-4_4562	74	Ace-0af3_88_farmland-12_4509	88	14	sycamore	farmland	6.667
+location	Ace-0af3_102_sycamore-26	Ace-0af3_88_land-15	Ace-0af3_102_sycamore-26_4562	102	Ace-0af3_88_land-15_4513	88	14	sycamore	brownfield land	6.667
+location	Ace-0af3_74_sycamore-4	Ace-0af3_88_land-15	Ace-0af3_74_sycamore-4_4562	74	Ace-0af3_88_land-15_4513	88	14	sycamore	brownfield land	6.667
+location	Ace-0af3_102_sycamore-26	Ace-0af3_88_farmland-12	Ace-0af3_102_sycamore-26_4562	102	Ace-0af3_88_farmland-12_4509	88	14	sycamore	farmland	6.667
+location	Ace-0af3_74_sycamore-4	Ace-0af3_88_hedgerows-23	Ace-0af3_74_sycamore-4_4562	74	Ace-0af3_88_hedgerows-23_4519	88	14	sycamore	hedgerows	6.667
+location	Ace-0af3_102_sycamore-26	Ace-0af3_88_hedgerows-23	Ace-0af3_102_sycamore-26_4562	102	Ace-0af3_88_hedgerows-23_4519	88	14	sycamore	hedgerows	6.667
+location	Bee-f189_126_Beech-1	Bee-f189_114_wood-18	Bee-f189_126_Beech-1_2183	126	Bee-f189_114_wood-18_4516	114	12	Beech	beech wood	6.385
+location	Bee-f189_102_beech-13	Bee-f189_114_wood-18	Bee-f189_102_beech-13_2184	102	Bee-f189_114_wood-18_4516	114	12	European beech	beech wood	6.385
+location	Bee-f189_102_beech-2	Bee-f189_114_wood-18	Bee-f189_102_beech-2_2184	102	Bee-f189_114_wood-18_4516	114	12	European beech	beech wood	6.385
+location	Oak-f2b6_183_Quercus-4	Oak-f2b6_168_wood-20	Oak-f2b6_183_Quercus-4_1175	183	Oak-f2b6_168_wood-20_4508	168	15	Quercus	oak wood	6.25
+location	Ulm-8a7b_44_elm-6	Ulm-8a7b_59_hedgerows-32	Ulm-8a7b_44_elm-6_3586	44	Ulm-8a7b_59_hedgerows-32_4519	59	15	English elm	hedgerows	6.25
+location	Sag-0ea8_30_Saguaros-1	Sag-0ea8_15_deserts-13	Sag-0ea8_30_Saguaros-1_3256	30	Sag-0ea8_15_deserts-13_34	15	15	Saguaros	Desert	6.25
+location	Sag-0ea8_2_gigantea-18	Sag-0ea8_15_deserts-13	Sag-0ea8_2_gigantea-18_3257	2	Sag-0ea8_15_deserts-13_34	15	13	Carnegiea gigantea	Desert	6.214
+location	Haz-b2c1_62_tree-2	Haz-b2c1_70_hedgerow-5	Haz-b2c1_62_tree-2_1989	62	Haz-b2c1_70_hedgerow-5_4519	70	8	May-tree	hedgerows	6.0
+location	Ace-0af3_104_sycamore-2	Ace-0af3_88_land-15	Ace-0af3_104_sycamore-2_4562	104	Ace-0af3_88_land-15_4513	88	16	sycamore	brownfield land	5.882
+location	Ace-0af3_104_sycamore-2	Ace-0af3_88_hedgerows-23	Ace-0af3_104_sycamore-2_4562	104	Ace-0af3_88_hedgerows-23_4519	88	16	sycamore	hedgerows	5.882
+location	Ace-0af3_104_sycamore-2	Ace-0af3_88_farmland-12	Ace-0af3_104_sycamore-2_4562	104	Ace-0af3_88_farmland-12_4509	88	16	sycamore	farmland	5.882
+location	Ulm-8a7b_44_elm-6	Ulm-8a7b_61_hedgerows-10	Ulm-8a7b_44_elm-6_3586	44	Ulm-8a7b_61_hedgerows-10_4519	61	17	English elm	hedgerows	5.556
+location	Spr-39f8_177_kudu-14	Spr-39f8_163_desert-26	Spr-39f8_177_kudu-14_4572	177	Spr-39f8_163_desert-26_3805	163	14	kudu	desert	5.533
+location	Fie-7e8b_96_Hawthorn-1	Fie-7e8b_78_moorland-25	Fie-7e8b_96_Hawthorn-1_1983	96	Fie-7e8b_78_moorland-25_4526	78	18	Hawthorn	moorland	5.263
+location	Ace-0af3_103_maple-24	Ace-0af3_88_farmland-12	Ace-0af3_103_maple-24_4564	103	Ace-0af3_88_farmland-12_4509	88	15	sycamore maple	farmland	5.188
+location	Ace-0af3_103_maple-24	Ace-0af3_88_land-15	Ace-0af3_103_maple-24_4564	103	Ace-0af3_88_land-15_4513	88	15	sycamore maple	brownfield land	5.188
+location	Ace-0af3_103_maple-24	Ace-0af3_88_hedgerows-23	Ace-0af3_103_maple-24_4564	103	Ace-0af3_88_hedgerows-23_4519	88	15	sycamore maple	hedgerows	5.188
+location	See-1516_124_plants-19	See-1516_112_rainforests-7	See-1516_124_plants-19_5260	124	See-1516_112_rainforests-7_3811	112	12	tropical pitcher plants	rainforest	5.077
+location	Haz-b2c1_51_blackberries-4	Haz-b2c1_70_hedgerow-5	Haz-b2c1_51_blackberries-4_4679	51	Haz-b2c1_70_hedgerow-5_4519	70	19	blackberry	hedgerows	5.0
+location	Ace-0af3_152_pseudoplatanus-2	Ace-0af3_135_coastal-14	Ace-0af3_152_pseudoplatanus-2_1418	152	Ace-0af3_135_coastal-14_1353	135	17	Acer pseudoplatanus	Coastal	4.833
+location	See-1516_124_plants-19	See-1516_111_rainforests-24	See-1516_124_plants-19_5260	124	See-1516_111_rainforests-24_3811	111	13	tropical pitcher plants	rainforest	4.714
+location	Hed-8dc6_131_hawthorn-16	Hed-8dc6_114_hedgerow-3	Hed-8dc6_131_hawthorn-16_4835	131	Hed-8dc6_114_hedgerow-3_4519	114	17	common hawthorn	hedgerows	4.611
+location	Spr-39f8_177_kudu-14	Spr-39f8_160_desert-10	Spr-39f8_177_kudu-14_4572	177	Spr-39f8_160_desert-10_3805	160	17	kudu	desert	4.611
+location	Ace-0af3_117_pseudoplatanus-2	Ace-0af3_135_coastal-14	Ace-0af3_117_pseudoplatanus-2_1418	117	Ace-0af3_135_coastal-14_1353	135	18	Acer pseudoplatanus	Coastal	4.579
+location	Gol-9020_141_hawthorn-18	Gol-9020_120_heathland-17	Gol-9020_141_hawthorn-18_4834	141	Gol-9020_120_heathland-17_4518	120	21	hawthorn	heathland	4.545
+location	Ace-0af3_154_pseudoplatanus-2	Ace-0af3_135_coastal-14	Ace-0af3_154_pseudoplatanus-2_1418	154	Ace-0af3_135_coastal-14_4514	135	19	Acer pseudoplatanus	coastal	4.35
+location	Par5cb2_23_oak-4	Par5cb2_1_parklands-2	Par5cb2_23_oak-4_4407	23	Par5cb2_1_parklands-2_4529	1	22	oaks	parkland	4.348
+location	Spr-39f8_177_kudu-14	Spr-39f8_158_desert-11	Spr-39f8_177_kudu-14_4572	177	Spr-39f8_158_desert-11_3805	158	19	kudu	desert	4.15
+location	Hed-8dc6_183_Haw-15	Hed-8dc6_202_hedgerows-2	Hed-8dc6_183_Haw-15_1986	183	Hed-8dc6_202_hedgerows-2_4519	202	19	Haw	hedgerows	4.15
+location	Dro-82dc_38_muscipula-11	Dro-82dc_18_bogs-20	Dro-82dc_38_muscipula-11_3604	38	Dro-82dc_18_bogs-20_4511	18	20	Dionaea muscipula	bog	4.143
+location	Ace-0af3_115_pseudoplatanus-2	Ace-0af3_135_coastal-14	Ace-0af3_115_pseudoplatanus-2_1418	115	Ace-0af3_135_coastal-14_1353	135	20	Acer pseudoplatanus	Coastal	4.143
+location	Hed-8dc6_183_Haw-15	Hed-8dc6_203_hedgerows-2	Hed-8dc6_183_Haw-15_1986	183	Hed-8dc6_203_hedgerows-2_4519	203	20	Haw	hedgerows	3.952
+location	Que-fbc5_53_Quercus-12	Que-fbc5_28_wood-18	Que-fbc5_53_Quercus-12_1175	53	Que-fbc5_28_wood-18_4508	28	25	Quercus	oak wood	3.846
+location	Bee-f189_35_oaks-18	Bee-f189_10_wood-5	Bee-f189_35_oaks-18_4407	35	Bee-f189_10_wood-5_4516	10	25	oaks	beech wood	3.846
+location	Hed-8dc6_131_hawthorn-16	Hed-8dc6_110_hedgerow-26	Hed-8dc6_131_hawthorn-16_1985	131	Hed-8dc6_110_hedgerow-26_4519	110	21	Common hawthorn	hedgerows	3.773
+location	Que-fbc5_2_Quercus-1	Que-fbc5_28_wood-18	Que-fbc5_2_Quercus-1_1175	2	Que-fbc5_28_wood-18_4508	28	26	Quercus	oak wood	3.704
+location	Bee-f189_32_beech-6	Bee-f189_10_wood-5	Bee-f189_32_beech-6_2184	32	Bee-f189_10_wood-5_4516	10	22	European beech	beech wood	3.609
+location	Par5cb2_23_beech-8	Par5cb2_1_parklands-2	Par5cb2_23_beech-8_4930	23	Par5cb2_1_parklands-2_4529	1	22	beech	parkland	3.609
+location	Ace-0af3_163_Sycamore-2	Ace-0af3_135_coastal-14	Ace-0af3_163_Sycamore-2_1417	163	Ace-0af3_135_coastal-14_4514	135	28	Sycamore	coastal	3.448
+location	Col-6d94_174_oak-18	Col-6d94_204_parkland-32	Col-6d94_174_oak-18_4407	174	Col-6d94_204_parkland-32_4529	204	30	oaks	parkland	3.226
+location	Ace-0af3_114_pseudoplatanus-13	Ace-0af3_88_land-15	Ace-0af3_114_pseudoplatanus-13_1418	114	Ace-0af3_88_land-15_4513	88	26	Acer pseudoplatanus	brownfield land	3.222
+location	Ace-0af3_62_pseudoplatanus-2	Ace-0af3_88_hedgerows-23	Ace-0af3_62_pseudoplatanus-2_1418	62	Ace-0af3_88_hedgerows-23_4519	88	26	Acer pseudoplatanus	hedgerows	3.222
+location	Ace-0af3_114_pseudoplatanus-13	Ace-0af3_88_hedgerows-23	Ace-0af3_114_pseudoplatanus-13_1418	114	Ace-0af3_88_hedgerows-23_4519	88	26	Acer pseudoplatanus	hedgerows	3.222
+location	Ace-0af3_62_pseudoplatanus-2	Ace-0af3_88_land-15	Ace-0af3_62_pseudoplatanus-2_1418	62	Ace-0af3_88_land-15_4513	88	26	Acer pseudoplatanus	brownfield land	3.222
+location	Ace-0af3_114_pseudoplatanus-13	Ace-0af3_88_farmland-12	Ace-0af3_114_pseudoplatanus-13_1418	114	Ace-0af3_88_farmland-12_4509	88	26	Acer pseudoplatanus	farmland	3.222
+location	Ace-0af3_62_pseudoplatanus-2	Ace-0af3_88_farmland-12	Ace-0af3_62_pseudoplatanus-2_1418	62	Ace-0af3_88_farmland-12_4509	88	26	Acer pseudoplatanus	farmland	3.222
+location	Fro8fc3_63_plant-17	Fro8fc3_43_rainforest-18	Fro8fc3_63_plant-17_2901	63	Fro8fc3_43_rainforest-18_3811	43	20	Tropical pitcher plants	rainforest	3.143
+location	Ace-0af3_115_pseudoplatanus-2	Ace-0af3_88_farmland-12	Ace-0af3_115_pseudoplatanus-2_1418	115	Ace-0af3_88_farmland-12_4509	88	27	Acer pseudoplatanus	farmland	3.107
+location	Ace-0af3_115_pseudoplatanus-2	Ace-0af3_88_hedgerows-23	Ace-0af3_115_pseudoplatanus-2_1418	115	Ace-0af3_88_hedgerows-23_4519	88	27	Acer pseudoplatanus	hedgerows	3.107
+location	Ace-0af3_115_pseudoplatanus-2	Ace-0af3_88_land-15	Ace-0af3_115_pseudoplatanus-2_1418	115	Ace-0af3_88_land-15_4513	88	27	Acer pseudoplatanus	brownfield land	3.107
+location	Ven-77c9_33_muscipula-47	Ven-77c9_61_bogs-17	Ven-77c9_33_muscipula-47_3604	33	Ven-77c9_61_bogs-17_4511	61	28	Dionaea muscipula	bog	3.0
+location	Ulm-8a7b_23_procera-2	Ulm-8a7b_51_hedgerows-63	Ulm-8a7b_23_procera-2_3587	23	Ulm-8a7b_51_hedgerows-63_4519	51	28	Ulmus procera	hedgerows	3.0
+location	Ade-b6ba_4_star-8	Ade-b6ba_31_desert-19	Ade-b6ba_4_star-8_1436	4	Ade-b6ba_31_desert-19_34	31	27	Sabi star	Desert	2.964
+location	Ade-b6ba_4_kudu-10	Ade-b6ba_31_desert-19	Ade-b6ba_4_kudu-10_4572	4	Ade-b6ba_31_desert-19_3805	31	27	kudu	desert	2.964
+location	Ade-b6ba_4_azalea-13	Ade-b6ba_31_desert-19	Ade-b6ba_4_azalea-13_4573	4	Ade-b6ba_31_desert-19_3805	31	27	mock azalea	desert	2.964
+location	Sed-c6ce_84_blackberries-6	Sed-c6ce_51_hedgerows-25	Sed-c6ce_84_blackberries-6_4679	84	Sed-c6ce_51_hedgerows-25_4519	51	33	blackberry	hedgerows	2.941
+location	Que-fbc5_58_oak-2	Que-fbc5_28_wood-18	Que-fbc5_58_oak-2_3155	58	Que-fbc5_28_wood-18_4508	28	30	Pedunculate oak	oak wood	2.677
+location	Ulm-8a7b_93_procera-23	Ulm-8a7b_61_hedgerows-10	Ulm-8a7b_93_procera-23_3587	93	Ulm-8a7b_61_hedgerows-10_4519	61	32	Ulmus procera	hedgerows	2.636
+location	Ven-77c9_33_muscipula-47	Ven-77c9_65_bogs-23	Ven-77c9_33_muscipula-47_3604	33	Ven-77c9_65_bogs-23_4511	65	32	Dionaea muscipula	bog	2.636
+location	Bee-f189_47_oak-19	Bee-f189_10_wood-5	Bee-f189_47_oak-19_4407	47	Bee-f189_10_wood-5_4516	10	37	oaks	beech wood	2.632
+location	Ace-0af3_103_maple-24	Ace-0af3_135_coastal-14	Ace-0af3_103_maple-24_4564	103	Ace-0af3_135_coastal-14_1353	135	32	sycamore maple	Coastal	2.515
+location	Com-5e05_32_dandelions-30	Com-5e05_71_Farmland-8	Com-5e05_32_dandelions-30_3467	32	Com-5e05_71_Farmland-8_1347	71	39	Dandelions	Farmland	2.5
+location	Haz-b2c1_51_blackberries-4	Haz-b2c1_12_hedgerows-23	Haz-b2c1_51_blackberries-4_4679	51	Haz-b2c1_12_hedgerows-23_4519	12	39	blackberry	hedgerows	2.5
+location	Com-5e05_32_hawthorn-44	Com-5e05_71_Farmland-8	Com-5e05_32_hawthorn-44_4834	32	Com-5e05_71_Farmland-8_1347	71	39	hawthorn	Farmland	2.5
+location	Ulm-8a7b_93_procera-23	Ulm-8a7b_59_hedgerows-32	Ulm-8a7b_93_procera-23_3587	93	Ulm-8a7b_59_hedgerows-32_4519	59	34	Ulmus procera	hedgerows	2.486
+location	Ulm-8a7b_23_procera-2	Ulm-8a7b_59_hedgerows-32	Ulm-8a7b_23_procera-2_3587	23	Ulm-8a7b_59_hedgerows-32_4519	59	36	Ulmus procera	hedgerows	2.351
+location	Ulm-8a7b_23_procera-2	Ulm-8a7b_61_hedgerows-10	Ulm-8a7b_23_procera-2_3587	23	Ulm-8a7b_61_hedgerows-10_4519	61	38	Ulmus procera	hedgerows	2.231
+location	Haz-b2c1_51_blackberries-4	Haz-b2c1_7_hedgerows-31	Haz-b2c1_51_blackberries-4_4679	51	Haz-b2c1_7_hedgerows-31_4519	7	44	blackberry	hedgerows	2.222
+location	Hed-8dc6_31_brambles-12	Hed-8dc6_69_Hedgerows-12	Hed-8dc6_31_brambles-12_4680	31	Hed-8dc6_69_Hedgerows-12_1358	69	38	bramble	Hedgerows	2.128
+location	Ace-0af3_134_Sycamore-1	Ace-0af3_88_farmland-12	Ace-0af3_134_Sycamore-1_1417	134	Ace-0af3_88_farmland-12_4509	88	46	Sycamore	farmland	2.128
+location	Ace-0af3_134_Sycamore-1	Ace-0af3_88_hedgerows-23	Ace-0af3_134_Sycamore-1_1417	134	Ace-0af3_88_hedgerows-23_4519	88	46	Sycamore	hedgerows	2.128
+location	Ace-0af3_134_Sycamore-1	Ace-0af3_88_land-15	Ace-0af3_134_Sycamore-1_1417	134	Ace-0af3_88_land-15_4513	88	46	Sycamore	brownfield land	2.128
+location	Ulm-8a7b_4_elm-29	Ulm-8a7b_51_hedgerows-63	Ulm-8a7b_4_elm-29_3586	4	Ulm-8a7b_51_hedgerows-63_4519	51	47	English elm	hedgerows	2.083
+location	Ace-0af3_183_Sycamore-4	Ace-0af3_135_coastal-14	Ace-0af3_183_Sycamore-4_1417	183	Ace-0af3_135_coastal-14_4514	135	48	Sycamore	coastal	2.041
+location	Ulm-8a7b_93_procera-23	Ulm-8a7b_51_hedgerows-63	Ulm-8a7b_93_procera-23_3587	93	Ulm-8a7b_51_hedgerows-63_4519	51	42	Ulmus procera	hedgerows	2.023
+location	Ace-0af3_184_Sycamore-2	Ace-0af3_135_coastal-14	Ace-0af3_184_Sycamore-2_1417	184	Ace-0af3_135_coastal-14_4514	135	49	Sycamore	coastal	2.0
+location	Com-3b7c_102_hawthorn-27	Com-3b7c_152_farmland-22	Com-3b7c_102_hawthorn-27_4834	102	Com-3b7c_152_farmland-22_4509	152	50	hawthorn	farmland	1.961
+location	Ulm-8a7b_115_elm-24	Ulm-8a7b_61_hedgerows-10	Ulm-8a7b_115_elm-24_3586	115	Ulm-8a7b_61_hedgerows-10_4519	61	54	English elm	hedgerows	1.818
+location	Ulm-8a7b_4_elm-29	Ulm-8a7b_59_hedgerows-32	Ulm-8a7b_4_elm-29_3586	4	Ulm-8a7b_59_hedgerows-32_4519	59	55	English elm	hedgerows	1.786
+location	Ulm-8a7b_115_elm-24	Ulm-8a7b_59_hedgerows-32	Ulm-8a7b_115_elm-24_3586	115	Ulm-8a7b_59_hedgerows-32_4519	59	56	English elm	hedgerows	1.754
+location	Ulm-8a7b_4_elm-29	Ulm-8a7b_61_hedgerows-10	Ulm-8a7b_4_elm-29_3586	4	Ulm-8a7b_61_hedgerows-10_4519	61	57	English elm	hedgerows	1.724
+location	Amo-76d8_2_plants-42	Amo-76d8_40_rainforest-5	Amo-76d8_2_plants-42_5260	2	Amo-76d8_40_rainforest-5_3811	40	38	tropical pitcher plants	rainforest	1.692
+location	Hed-8dc6_31_brambles-12	Hed-8dc6_80_Hedgerows-25	Hed-8dc6_31_brambles-12_4680	31	Hed-8dc6_80_Hedgerows-25_1358	80	49	bramble	Hedgerows	1.66
+location	Ulm-8a7b_115_elm-24	Ulm-8a7b_51_hedgerows-63	Ulm-8a7b_115_elm-24_3586	115	Ulm-8a7b_51_hedgerows-63_4519	51	64	English elm	hedgerows	1.538
+location	Hyp-feb0_24_perforatum-7	Hyp-feb0_81_farmland-11	Hyp-feb0_24_perforatum-7_3429	24	Hyp-feb0_81_farmland-11_4509	81	57	Hypericum perforatum	farmland	1.5
+location	Bee-f189_47_oak-19	Bee-f189_114_wood-18	Bee-f189_47_oak-19_4407	47	Bee-f189_114_wood-18_4516	114	67	oaks	beech wood	1.471
+location	Ven-77c9_2_muscipula-6	Ven-77c9_61_bogs-17	Ven-77c9_2_muscipula-6_3604	2	Ven-77c9_61_bogs-17_4511	61	59	Dionaea muscipula	bog	1.45
+location	Ace-0af3_29_tree-6	Ace-0af3_88_land-15	Ace-0af3_29_tree-6_4563	29	Ace-0af3_88_land-15_4513	88	59	plane tree	brownfield land	1.383
+location	Ace-0af3_29_tree-11	Ace-0af3_88_land-15	Ace-0af3_29_tree-11_4563	29	Ace-0af3_88_land-15_4513	88	59	plane tree	brownfield land	1.383
+location	Ace-0af3_29_tree-6	Ace-0af3_88_farmland-12	Ace-0af3_29_tree-6_4563	29	Ace-0af3_88_farmland-12_4509	88	59	plane tree	farmland	1.383
+location	Ace-0af3_29_tree-11	Ace-0af3_88_farmland-12	Ace-0af3_29_tree-11_4563	29	Ace-0af3_88_farmland-12_4509	88	59	plane tree	farmland	1.383
+location	Ace-0af3_29_tree-6	Ace-0af3_88_hedgerows-23	Ace-0af3_29_tree-6_4563	29	Ace-0af3_88_hedgerows-23_4519	88	59	plane tree	hedgerows	1.383
+location	Ace-0af3_29_tree-11	Ace-0af3_88_hedgerows-23	Ace-0af3_29_tree-11_4563	29	Ace-0af3_88_hedgerows-23_4519	88	59	plane tree	hedgerows	1.383
+location	Ven-77c9_2_muscipula-6	Ven-77c9_65_bogs-23	Ven-77c9_2_muscipula-6_3604	2	Ven-77c9_65_bogs-23_4511	65	63	Dionaea muscipula	bog	1.359
+location	Hed-8dc6_31_brambles-12	Hed-8dc6_93_Hedgerows-12	Hed-8dc6_31_brambles-12_4680	31	Hed-8dc6_93_Hedgerows-12_1358	93	62	bramble	Hedgerows	1.317
+location	Ace-0af3_163_Sycamore-2	Ace-0af3_88_land-15	Ace-0af3_163_Sycamore-2_1417	163	Ace-0af3_88_land-15_4513	88	75	Sycamore	brownfield land	1.316
+location	Ace-0af3_163_Sycamore-2	Ace-0af3_88_farmland-12	Ace-0af3_163_Sycamore-2_1417	163	Ace-0af3_88_farmland-12_4509	88	75	Sycamore	farmland	1.316
+location	Ace-0af3_163_Sycamore-2	Ace-0af3_88_hedgerows-23	Ace-0af3_163_Sycamore-2_1417	163	Ace-0af3_88_hedgerows-23_4519	88	75	Sycamore	hedgerows	1.316
+location	Com-3b7c_155_blackberry-10	Com-3b7c_79_hedgerows-11	Com-3b7c_155_blackberry-10_4679	155	Com-3b7c_79_hedgerows-11_4519	79	76	blackberry	hedgerows	1.299
+location	Ace-0af3_25_trees-22	Ace-0af3_88_hedgerows-23	Ace-0af3_25_trees-22_4563	25	Ace-0af3_88_hedgerows-23_4519	88	63	plane tree	hedgerows	1.297
+location	Ace-0af3_25_trees-22	Ace-0af3_88_farmland-12	Ace-0af3_25_trees-22_4563	25	Ace-0af3_88_farmland-12_4509	88	63	plane tree	farmland	1.297
+location	Ace-0af3_25_trees-22	Ace-0af3_88_land-15	Ace-0af3_25_trees-22_4563	25	Ace-0af3_88_land-15_4513	88	63	plane tree	brownfield land	1.297
+location	Oak-f2b6_101_robur-6	Oak-f2b6_168_wood-20	Oak-f2b6_101_robur-6_3154	101	Oak-f2b6_168_wood-20_4508	168	67	Quercus robur	oak wood	1.279
+location	Bee-f189_35_oaks-18	Bee-f189_114_wood-18	Bee-f189_35_oaks-18_4407	35	Bee-f189_114_wood-18_4516	114	79	oaks	beech wood	1.25
+location	Col-6d94_174_oak-18	Col-6d94_255_parkland-25	Col-6d94_174_oak-18_4407	174	Col-6d94_255_parkland-25_4529	255	81	oaks	parkland	1.22
+location	Haz-b2c1_62_tree-2	Haz-b2c1_12_hedgerows-23	Haz-b2c1_62_tree-2_1989	62	Haz-b2c1_12_hedgerows-23_4519	12	50	May-tree	hedgerows	1.059
+location	Ace-0af3_183_Sycamore-4	Ace-0af3_88_hedgerows-23	Ace-0af3_183_Sycamore-4_1417	183	Ace-0af3_88_hedgerows-23_4519	88	95	Sycamore	hedgerows	1.042
+location	Ace-0af3_183_Sycamore-4	Ace-0af3_88_farmland-12	Ace-0af3_183_Sycamore-4_1417	183	Ace-0af3_88_farmland-12_4509	88	95	Sycamore	farmland	1.042
+location	Ace-0af3_183_Sycamore-4	Ace-0af3_88_land-15	Ace-0af3_183_Sycamore-4_1417	183	Ace-0af3_88_land-15_4513	88	95	Sycamore	brownfield land	1.042
+location	Ace-0af3_184_Sycamore-2	Ace-0af3_88_hedgerows-23	Ace-0af3_184_Sycamore-2_1417	184	Ace-0af3_88_hedgerows-23_4519	88	96	Sycamore	hedgerows	1.031
+location	Ace-0af3_184_Sycamore-2	Ace-0af3_88_land-15	Ace-0af3_184_Sycamore-2_1417	184	Ace-0af3_88_land-15_4513	88	96	Sycamore	brownfield land	1.031
+location	Ace-0af3_184_Sycamore-2	Ace-0af3_88_farmland-12	Ace-0af3_184_Sycamore-2_1417	184	Ace-0af3_88_farmland-12_4509	88	96	Sycamore	farmland	1.031
+location	Bov-d455_172_kudu-6	Bov-d455_252_deserts-24	Bov-d455_172_kudu-6_4572	172	Bov-d455_252_deserts-24_3805	252	80	kudu	desert	1.025
+location	Wil-3cbf_41_Quercus-20	Wil-3cbf_139_farmland-11	Wil-3cbf_41_Quercus-20_1175	41	Wil-3cbf_139_farmland-11_4509	139	98	Quercus	farmland	1.01
+location	Bee-f189_32_beech-6	Bee-f189_114_wood-18	Bee-f189_32_beech-6_2184	32	Bee-f189_114_wood-18_4516	114	82	European beech	beech wood	1.0
+location	Gre-e890_102_dandelion-15	Gre-e890_3_farmland-7	Gre-e890_102_dandelion-15_5533	102	Gre-e890_3_farmland-7_4509	3	99	dandelions	farmland	1.0
+adaptation	Pas-a544_2_flowers-8	Pas-a544_2_flowering-21	Pas-a544_2_flowers-8_3011	2	Pas-a544_2_flowering-21_3955	2	0	Passion flowers	flowering	100.0
+adaptation	Ven-77c9_232_flytrap-7	Ven-77c9_232_Carnivorous-22	Ven-77c9_232_flytrap-7_3603	232	Ven-77c9_232_Carnivorous-22_320	232	0	Venus flytrap	Carnivorous	100.0
+adaptation	Ven-77c9_232_flytrap-28	Ven-77c9_232_Carnivorous-22	Ven-77c9_232_flytrap-28_3603	232	Ven-77c9_232_Carnivorous-22_320	232	0	Venus flytrap	Carnivorous	100.0
+adaptation	Sag-0ea8_95_saguaro-9	Sag-0ea8_95_flowering-18	Sag-0ea8_95_saguaro-9_5438	95	Sag-0ea8_95_flowering-18_3955	95	0	saguaros	flowering	100.0
+adaptation	Nep-5975_248_Nepenthes-12	Nep-5975_248_Carnivorous-6	Nep-5975_248_Nepenthes-12_2902	248	Nep-5975_248_Carnivorous-6_320	248	0	Nepenthes	Carnivorous	87.0
+adaptation	Nep-5975_246_Nepenthes-9	Nep-5975_246_Carnivorous-29	Nep-5975_246_Nepenthes-9_2902	246	Nep-5975_246_Carnivorous-29_320	246	0	Nepenthes	Carnivorous	87.0
+adaptation	Nep-5975_248_Nepenthes-1	Nep-5975_248_Carnivorous-6	Nep-5975_248_Nepenthes-1_2902	248	Nep-5975_248_Carnivorous-6_320	248	0	Nepenthes	Carnivorous	87.0
+adaptation	Ven-77c9_232_muscipula-10	Ven-77c9_232_Carnivorous-22	Ven-77c9_232_muscipula-10_3604	232	Ven-77c9_232_Carnivorous-22_320	232	0	Dionaea muscipula	Carnivorous	87.0
+adaptation	Nep-5975_246_Nepenthes-4	Nep-5975_246_Carnivorous-29	Nep-5975_246_Nepenthes-4_2902	246	Nep-5975_246_Carnivorous-29_320	246	0	Nepenthes	Carnivorous	87.0
+adaptation	Nep-5975_246_Nepenthes-20	Nep-5975_246_Carnivorous-13	Nep-5975_246_Nepenthes-20_2902	246	Nep-5975_246_Carnivorous-13_320	246	0	Nepenthes	Carnivorous	87.0
+adaptation	Nep-5975_246_Nepenthes-4	Nep-5975_246_Carnivorous-13	Nep-5975_246_Nepenthes-4_2902	246	Nep-5975_246_Carnivorous-13_320	246	0	Nepenthes	Carnivorous	87.0
+adaptation	Nep-5975_246_Nepenthes-20	Nep-5975_246_Carnivorous-29	Nep-5975_246_Nepenthes-20_2902	246	Nep-5975_246_Carnivorous-29_320	246	0	Nepenthes	Carnivorous	87.0
+adaptation	Nep-5975_246_Nepenthes-9	Nep-5975_246_Carnivorous-13	Nep-5975_246_Nepenthes-9_2902	246	Nep-5975_246_Carnivorous-13_320	246	0	Nepenthes	Carnivorous	87.0
+adaptation	Pas-a544_2_vines-11	Pas-a544_2_flowering-21	Pas-a544_2_vines-11_5317	2	Pas-a544_2_flowering-21_3955	2	0	passion vines	flowering	83.0
+adaptation	Sag-0ea8_96_saguaro-42	Sag-0ea8_95_flowering-18	Sag-0ea8_96_saguaro-42_5438	96	Sag-0ea8_95_flowering-18_3955	95	1	saguaros	flowering	50.0
+adaptation	Sag-0ea8_96_saguaro-19	Sag-0ea8_95_flowering-18	Sag-0ea8_96_saguaro-19_5438	96	Sag-0ea8_95_flowering-18_3955	95	1	saguaros	flowering	50.0
+adaptation	Sag-0ea8_94_saguaro-2	Sag-0ea8_95_flowering-18	Sag-0ea8_94_saguaro-2_5438	94	Sag-0ea8_95_flowering-18_3955	95	1	saguaros	flowering	50.0
+adaptation	Pas-a544_3_Passiflora-1	Pas-a544_2_flowering-21	Pas-a544_3_Passiflora-1_3012	3	Pas-a544_2_flowering-21_3955	2	1	Passiflora	flowering	43.5
+adaptation	Hed-8dc6_165_beech-28	Hed-8dc6_166_flowering-19	Hed-8dc6_165_beech-28_4930	165	Hed-8dc6_166_flowering-19_3955	166	1	beech	flowering	41.5
+adaptation	Hed-8dc6_165_beech-25	Hed-8dc6_166_flowering-19	Hed-8dc6_165_beech-25_4930	165	Hed-8dc6_166_flowering-19_3955	166	1	beech	flowering	41.5
+adaptation	Sag-0ea8_97_saguaro-2	Sag-0ea8_95_flowering-18	Sag-0ea8_97_saguaro-2_5438	97	Sag-0ea8_95_flowering-18_3955	95	2	saguaros	flowering	33.333
+adaptation	Aes-55d6_45_chestnut-4	Aes-55d6_43_poisonous-14	Aes-55d6_45_chestnut-4_4574	45	Aes-55d6_43_poisonous-14_3973	43	2	horse chestnut	poisonous	33.333
+adaptation	Hed-8dc6_164_hawthorn-10	Hed-8dc6_166_flowering-19	Hed-8dc6_164_hawthorn-10_4834	164	Hed-8dc6_166_flowering-19_3955	166	2	hawthorn	flowering	33.333
+adaptation	Cra-0896_111_hawthorn-2	Cra-0896_109_flowering-6	Cra-0896_111_hawthorn-2_4834	111	Cra-0896_109_flowering-6_3955	109	2	hawthorn	flowering	33.333
+adaptation	Pas-a544_4_Passiflora-1	Pas-a544_2_flowering-21	Pas-a544_4_Passiflora-1_3012	4	Pas-a544_2_flowering-21_3955	2	2	Passiflora	flowering	29.0
+adaptation	Lor-032a_15_Loranthaceae-1	Lor-032a_13_parasitic-22	Lor-032a_15_Loranthaceae-1_2755	15	Lor-032a_13_parasitic-22_3970	13	2	Loranthaceae	parasitic	29.0
+adaptation	Lor-032a_15_Loranthaceae-1	Lor-032a_13_parasitic-3	Lor-032a_15_Loranthaceae-1_2755	15	Lor-032a_13_parasitic-3_3970	13	2	Loranthaceae	parasitic	29.0
+adaptation	Ade-b6ba_4_azalea-13	Ade-b6ba_2_poisonous-14	Ade-b6ba_4_azalea-13_4573	4	Ade-b6ba_2_poisonous-14_3973	2	2	mock azalea	poisonous	27.667
+adaptation	Ade-b6ba_4_kudu-10	Ade-b6ba_2_poisonous-14	Ade-b6ba_4_kudu-10_4572	4	Ade-b6ba_2_poisonous-14_3973	2	2	kudu	poisonous	27.667
+adaptation	Hed-8dc6_164_beech-12	Hed-8dc6_166_flowering-19	Hed-8dc6_164_beech-12_4930	164	Hed-8dc6_166_flowering-19_3955	166	2	beech	flowering	27.667
+adaptation	Ade-b6ba_4_star-8	Ade-b6ba_2_poisonous-14	Ade-b6ba_4_star-8_1436	4	Ade-b6ba_2_poisonous-14_3973	2	2	Sabi star	poisonous	27.667
+adaptation	See-1516_77_dandelion-10	See-1516_80_dispersal-21	See-1516_77_dandelion-10_3467	77	See-1516_80_dispersal-21_12	80	3	Dandelions	Seed dispersal	25.0
+adaptation	Cra-0896_112_hawthorns-62	Cra-0896_109_flowering-6	Cra-0896_112_hawthorns-62_4834	112	Cra-0896_109_flowering-6_3955	109	3	hawthorn	flowering	25.0
+adaptation	Sag-0ea8_92_saguaro-15	Sag-0ea8_95_flowering-18	Sag-0ea8_92_saguaro-15_5438	92	Sag-0ea8_95_flowering-18_3955	95	3	saguaros	flowering	25.0
+adaptation	See-1516_77_dandelion-10	See-1516_80_dispersal-26	See-1516_77_dandelion-10_3467	77	See-1516_80_dispersal-26_12	80	3	Dandelions	Seed dispersal	25.0
+adaptation	Amo-76d8_2_plants-42	Amo-76d8_4_flowering-44	Amo-76d8_2_plants-42_2901	2	Amo-76d8_4_flowering-44_3955	4	2	Tropical pitcher plants	flowering	22.0
+adaptation	Pre-0725_37_plants-2	Pre-0725_39_carnivorous-2	Pre-0725_37_plants-2_2901	37	Pre-0725_39_carnivorous-2_3948	39	2	Tropical pitcher plants	carnivorous	22.0
+adaptation	Pre-0725_37_plant-7	Pre-0725_39_carnivorous-2	Pre-0725_37_plant-7_2901	37	Pre-0725_39_carnivorous-2_3948	39	2	Tropical pitcher plants	carnivorous	22.0
+adaptation	Hed-8dc6_165_beech-28	Hed-8dc6_168_flowering-7	Hed-8dc6_165_beech-28_4930	165	Hed-8dc6_168_flowering-7_3955	168	3	beech	flowering	20.75
+adaptation	Hed-8dc6_165_beech-25	Hed-8dc6_168_flowering-7	Hed-8dc6_165_beech-25_4930	165	Hed-8dc6_168_flowering-7_3955	168	3	beech	flowering	20.75
+adaptation	Hed-8dc6_164_hawthorn-10	Hed-8dc6_168_flowering-7	Hed-8dc6_164_hawthorn-10_4834	164	Hed-8dc6_168_flowering-7_3955	168	4	hawthorn	flowering	20.0
+adaptation	Sag-0ea8_99_saguaro-3	Sag-0ea8_95_flowering-18	Sag-0ea8_99_saguaro-3_5438	99	Sag-0ea8_95_flowering-18_3955	95	4	saguaros	flowering	20.0
+adaptation	Sag-0ea8_91_saguaros-36	Sag-0ea8_95_flowering-18	Sag-0ea8_91_saguaros-36_5438	91	Sag-0ea8_95_flowering-18_3955	95	4	saguaros	flowering	20.0
+adaptation	See-1516_75_dandelions-16	See-1516_80_dispersal-26	See-1516_75_dandelions-16_3467	75	See-1516_80_dispersal-26_3789	80	5	Dandelions	seed dispersal	16.667
+adaptation	See-1516_75_dandelions-16	See-1516_80_dispersal-21	See-1516_75_dandelions-16_3467	75	See-1516_80_dispersal-21_12	80	5	Dandelions	Seed dispersal	16.667
+adaptation	Aes-55d6_48_chestnut-19	Aes-55d6_43_poisonous-14	Aes-55d6_48_chestnut-19_4574	48	Aes-55d6_43_poisonous-14_3973	43	5	horse chestnut	poisonous	16.667
+adaptation	Hed-8dc6_164_beech-12	Hed-8dc6_168_flowering-7	Hed-8dc6_164_beech-12_4930	164	Hed-8dc6_168_flowering-7_3955	168	4	beech	flowering	16.6
+adaptation	Pas-a544_7_Passiflora-1	Pas-a544_2_flowering-21	Pas-a544_7_Passiflora-1_3012	7	Pas-a544_2_flowering-21_3955	2	5	Passiflora	flowering	14.5
+adaptation	See-1516_75_dandelions-16	See-1516_69_dispersal-2	See-1516_75_dandelions-16_3467	75	See-1516_69_dispersal-2_3789	69	6	Dandelions	seed dispersal	14.286
+adaptation	Pas-a544_8_flowers-8	Pas-a544_2_flowering-21	Pas-a544_8_flowers-8_5315	8	Pas-a544_2_flowering-21_3955	2	6	passion flowers	flowering	14.286
+adaptation	Pas-a544_8_flowers-2	Pas-a544_2_flowering-21	Pas-a544_8_flowers-2_5315	8	Pas-a544_2_flowering-21_3955	2	6	passion flowers	flowering	14.286
+adaptation	Cra-0896_115_hawthorn-18	Cra-0896_109_flowering-6	Cra-0896_115_hawthorn-18_4834	115	Cra-0896_109_flowering-6_3955	109	6	hawthorn	flowering	14.286
+adaptation	Aes-55d6_19_chestnut-5	Aes-55d6_13_poisonous-6	Aes-55d6_19_chestnut-5_4574	19	Aes-55d6_13_poisonous-6_3973	13	6	horse chestnut	poisonous	14.286
+adaptation	Aes-55d6_19_chestnuts-17	Aes-55d6_13_poisonous-6	Aes-55d6_19_chestnuts-17_4574	19	Aes-55d6_13_poisonous-6_3973	13	6	horse chestnut	poisonous	14.286
+adaptation	See-1516_77_dandelion-10	See-1516_84_dispersal-2	See-1516_77_dandelion-10_3467	77	See-1516_84_dispersal-2_3789	84	7	Dandelions	seed dispersal	12.5
+adaptation	Cra-0896_115_tree-26	Cra-0896_109_flowering-6	Cra-0896_115_tree-26_1989	115	Cra-0896_109_flowering-6_3955	109	6	May-tree	flowering	11.857
+adaptation	See-1516_77_dandelion-10	See-1516_69_dispersal-2	See-1516_77_dandelion-10_5533	77	See-1516_69_dispersal-2_12	69	8	dandelions	Seed dispersal	11.111
+adaptation	See-1516_75_dandelions-16	See-1516_84_dispersal-2	See-1516_75_dandelions-16_5533	75	See-1516_84_dispersal-2_3789	84	9	dandelions	seed dispersal	10.0
+adaptation	See-1516_75_dandelions-16	See-1516_65_dispersal-2	See-1516_75_dandelions-16_3467	75	See-1516_65_dispersal-2_12	65	10	Dandelions	Seed dispersal	9.091
+adaptation	Cra-0896_119_hawthorn-5	Cra-0896_109_flowering-6	Cra-0896_119_hawthorn-5_4834	119	Cra-0896_109_flowering-6_3955	109	10	hawthorn	flowering	9.091
+adaptation	Cra-0896_99_hawthorn-4	Cra-0896_109_flowering-6	Cra-0896_99_hawthorn-4_4834	99	Cra-0896_109_flowering-6_3955	109	10	hawthorn	flowering	9.091
+adaptation	Ven-77c9_221_flytrap-6	Ven-77c9_232_Carnivorous-22	Ven-77c9_221_flytrap-6_3603	221	Ven-77c9_232_Carnivorous-22_320	232	11	Venus flytrap	Carnivorous	8.333
+adaptation	Sag-0ea8_106_saguaro-12	Sag-0ea8_95_flowering-18	Sag-0ea8_106_saguaro-12_5438	106	Sag-0ea8_95_flowering-18_3955	95	11	saguaros	flowering	8.333
+adaptation	Aes-55d6_4_tree-16	Aes-55d6_13_poisonous-6	Aes-55d6_4_tree-16_4575	4	Aes-55d6_13_poisonous-6_3973	13	9	conker tree	poisonous	8.3
+adaptation	Aes-55d6_23_hippocastanum-6	Aes-55d6_13_poisonous-6	Aes-55d6_23_hippocastanum-6_1440	23	Aes-55d6_13_poisonous-6_3973	13	10	Aesculus hippocastanum	poisonous	7.909
+adaptation	See-1516_77_dandelion-10	See-1516_65_dispersal-2	See-1516_77_dandelion-10_5533	77	See-1516_65_dispersal-2_3789	65	12	dandelions	seed dispersal	7.692
+adaptation	Sag-0ea8_83_saguaro-48	Sag-0ea8_95_flowering-18	Sag-0ea8_83_saguaro-48_5438	83	Sag-0ea8_95_flowering-18_3955	95	12	saguaros	flowering	7.692
+adaptation	Cra-0896_122_hawthorn-6	Cra-0896_109_flowering-6	Cra-0896_122_hawthorn-6_4834	122	Cra-0896_109_flowering-6_3955	109	13	hawthorn	flowering	7.143
+adaptation	Eur-bc75_197_brambles-37	Eur-bc75_205_parts-25	Eur-bc75_197_brambles-37_4680	197	Eur-bc75_205_parts-25_3936	205	8	bramble	shedding body parts	6.087
+adaptation	Ven-77c9_215_flytrap-11	Ven-77c9_232_Carnivorous-22	Ven-77c9_215_flytrap-11_3603	215	Ven-77c9_232_Carnivorous-22_320	232	17	Venus flytrap	Carnivorous	5.556
+adaptation	Cra-0896_92_Hawthorn-1	Cra-0896_109_flowering-6	Cra-0896_92_Hawthorn-1_1983	92	Cra-0896_109_flowering-6_3955	109	17	Hawthorn	flowering	5.556
+adaptation	Hed-8dc6_131_hawthorn-16	Hed-8dc6_146_flowering-5	Hed-8dc6_131_hawthorn-16_4835	131	Hed-8dc6_146_flowering-5_3955	146	15	common hawthorn	flowering	5.188
+adaptation	Cra-0896_124_haws-8	Cra-0896_109_flowering-6	Cra-0896_124_haws-8_4836	124	Cra-0896_109_flowering-6_3955	109	15	haw	flowering	5.188
+adaptation	Hed-8dc6_183_Haw-15	Hed-8dc6_168_flowering-7	Hed-8dc6_183_Haw-15_1986	183	Hed-8dc6_168_flowering-7_3955	168	15	Haw	flowering	5.188
+adaptation	Hed-8dc6_183_Haw-15	Hed-8dc6_166_flowering-19	Hed-8dc6_183_Haw-15_1986	183	Hed-8dc6_166_flowering-19_3955	166	17	Haw	flowering	4.611
+adaptation	Aes-55d6_23_hippocastanum-6	Aes-55d6_43_poisonous-14	Aes-55d6_23_hippocastanum-6_1440	23	Aes-55d6_43_poisonous-14_3973	43	20	Aesculus hippocastanum	poisonous	4.143
+adaptation	Cra-0896_86_hawthorn-3	Cra-0896_109_flowering-6	Cra-0896_86_hawthorn-3_4835	86	Cra-0896_109_flowering-6_3955	109	23	common hawthorn	flowering	3.458
+adaptation	Fri-ce34_231_Roses-26	Fri-ce34_208_flowering-8	Fri-ce34_231_Roses-26_784	231	Fri-ce34_208_flowering-8_3955	208	23	Roses	flowering	3.458
+adaptation	Ven-77c9_204_flytrap-9	Ven-77c9_232_Carnivorous-22	Ven-77c9_204_flytrap-9_3603	204	Ven-77c9_232_Carnivorous-22_320	232	28	Venus flytrap	Carnivorous	3.448
+adaptation	Dro-82dc_30_flytrap-9	Dro-82dc_2_flowering-7	Dro-82dc_30_flytrap-9_3603	30	Dro-82dc_2_flowering-7_3955	2	28	Venus flytrap	flowering	3.448
+adaptation	Flo0d28_59_dandelions-16	Flo0d28_30_Flowering-1	Flo0d28_59_dandelions-16_3467	59	Flo0d28_30_Flowering-1_331	30	29	Dandelions	Flowering	3.333
+adaptation	Lep-f8ec_514_beech-14	Lep-f8ec_530_parts-16	Lep-f8ec_514_beech-14_4930	514	Lep-f8ec_530_parts-16_3936	530	16	beech	shedding body parts	3.222
+adaptation	Pas-a544_28_passiflora-6	Pas-a544_2_flowering-21	Pas-a544_28_passiflora-6_5316	28	Pas-a544_2_flowering-21_3955	2	26	passiflora	flowering	3.222
+adaptation	Pas-a544_29_passiflora-6	Pas-a544_2_flowering-21	Pas-a544_29_passiflora-6_5316	29	Pas-a544_2_flowering-21_3955	2	27	passiflora	flowering	3.107
+adaptation	Dro-82dc_30_muscipula-2	Dro-82dc_2_flowering-7	Dro-82dc_30_muscipula-2_3604	30	Dro-82dc_2_flowering-7_3955	2	28	Dionaea muscipula	flowering	3.0
+adaptation	Pla-2751_152_flytrap-13	Pla-2751_118_flowering-38	Pla-2751_152_flytrap-13_3603	152	Pla-2751_118_flowering-38_3955	118	34	Venus flytrap	flowering	2.857
+adaptation	Ven-77c9_197_flytrap-3	Ven-77c9_232_Carnivorous-22	Ven-77c9_197_flytrap-3_3603	197	Ven-77c9_232_Carnivorous-22_320	232	35	Venus flytrap	Carnivorous	2.778
+adaptation	Dro-4d9f_181_flytraps-29	Dro-4d9f_219_Carnivorous-13	Dro-4d9f_181_flytraps-29_3603	181	Dro-4d9f_219_Carnivorous-13_320	219	38	Venus flytrap	Carnivorous	2.564
+adaptation	Hed-8dc6_200_Beech-3	Hed-8dc6_168_flowering-7	Hed-8dc6_200_Beech-3_2183	200	Hed-8dc6_168_flowering-7_3955	168	32	Beech	flowering	2.515
+adaptation	Pla-2751_152_muscipula-16	Pla-2751_118_flowering-38	Pla-2751_152_muscipula-16_3604	152	Pla-2751_118_flowering-38_3955	118	34	Dionaea muscipula	flowering	2.486
+adaptation	Aes-55d6_84_chestnut-23	Aes-55d6_43_poisonous-14	Aes-55d6_84_chestnut-23_1439	84	Aes-55d6_43_poisonous-14_3973	43	41	Horse chestnut	poisonous	2.381
+adaptation	Dro-4d9f_181_flytraps-29	Dro-4d9f_222_Carnivorous-28	Dro-4d9f_181_flytraps-29_3603	181	Dro-4d9f_222_Carnivorous-28_320	222	41	Venus flytrap	Carnivorous	2.381
+adaptation	Aes-55d6_84_chestnut-12	Aes-55d6_43_poisonous-14	Aes-55d6_84_chestnut-12_1439	84	Aes-55d6_43_poisonous-14_3973	43	41	Horse chestnut	poisonous	2.381
+adaptation	Dro-4d9f_181_flytraps-29	Dro-4d9f_222_Carnivorous-25	Dro-4d9f_181_flytraps-29_3603	181	Dro-4d9f_222_Carnivorous-25_320	222	41	Venus flytrap	Carnivorous	2.381
+adaptation	Hed-8dc6_200_Beech-3	Hed-8dc6_166_flowering-19	Hed-8dc6_200_Beech-3_2183	200	Hed-8dc6_166_flowering-19_3955	166	34	Beech	flowering	2.371
+adaptation	Dro-82dc_38_muscipula-11	Dro-82dc_2_flowering-7	Dro-82dc_38_muscipula-11_3604	38	Dro-82dc_2_flowering-7_3955	2	36	Dionaea muscipula	flowering	2.351
+adaptation	Hed-8dc6_131_hawthorn-16	Hed-8dc6_166_flowering-19	Hed-8dc6_131_hawthorn-16_4835	131	Hed-8dc6_166_flowering-19_3955	166	35	common hawthorn	flowering	2.306
+adaptation	Lep-f8ec_553_beech-36	Lep-f8ec_530_parts-16	Lep-f8ec_553_beech-36_4930	553	Lep-f8ec_530_parts-16_307	530	23	beech	Shedding body parts	2.282
+adaptation	Hed-8dc6_131_hawthorn-16	Hed-8dc6_168_flowering-7	Hed-8dc6_131_hawthorn-16_1985	131	Hed-8dc6_168_flowering-7_3955	168	37	Common hawthorn	flowering	2.184
+adaptation	Hed-8dc6_183_Haw-15	Hed-8dc6_146_flowering-5	Hed-8dc6_183_Haw-15_1986	183	Hed-8dc6_146_flowering-5_3955	146	37	Haw	flowering	2.184
+adaptation	Nar-f40f_40_Haw-4	Nar-f40f_2_flowering-22	Nar-f40f_40_Haw-4_1986	40	Nar-f40f_2_flowering-22_3955	2	38	Haw	flowering	2.128
+adaptation	Ven-77c9_192_muscipula-19	Ven-77c9_232_Carnivorous-22	Ven-77c9_192_muscipula-19_3604	192	Ven-77c9_232_Carnivorous-22_320	232	40	Dionaea muscipula	Carnivorous	2.122
+adaptation	Aes-55d6_4_tree-16	Aes-55d6_43_poisonous-14	Aes-55d6_4_tree-16_4575	4	Aes-55d6_43_poisonous-14_3973	43	39	conker tree	poisonous	2.075
+adaptation	Pla-2751_152_flytrap-13	Pla-2751_104_flowering-19	Pla-2751_152_flytrap-13_3603	152	Pla-2751_104_flowering-19_3955	104	48	Venus flytrap	flowering	2.041
+adaptation	Pas-a544_48_passiflorae-33	Pas-a544_2_flowering-21	Pas-a544_48_passiflorae-33_5316	48	Pas-a544_2_flowering-21_3955	2	46	passiflora	flowering	1.851
+adaptation	Pas-a544_48_passiflorae-20	Pas-a544_2_flowering-21	Pas-a544_48_passiflorae-20_5316	48	Pas-a544_2_flowering-21_3955	2	46	passiflora	flowering	1.851
+adaptation	Sag-0ea8_150_Saguaros-1	Sag-0ea8_95_flowering-18	Sag-0ea8_150_Saguaros-1_3256	150	Sag-0ea8_95_flowering-18_3955	95	55	Saguaros	flowering	1.786
+adaptation	Hyp-f6cf_50_perforatum-8	Hyp-f6cf_2_flowering-14	Hyp-f6cf_50_perforatum-8_3429	50	Hyp-f6cf_2_flowering-14_3955	2	48	Hypericum perforatum	flowering	1.776
+adaptation	Pla-2751_152_muscipula-16	Pla-2751_104_flowering-19	Pla-2751_152_muscipula-16_3604	152	Pla-2751_104_flowering-19_3955	104	48	Dionaea muscipula	flowering	1.776
+adaptation	Ade-b6ba_4_azalea-13	Ade-b6ba_52_poisonous-3	Ade-b6ba_4_azalea-13_4573	4	Ade-b6ba_52_poisonous-3_3973	52	48	mock azalea	poisonous	1.694
+adaptation	Ade-b6ba_4_star-8	Ade-b6ba_52_poisonous-3	Ade-b6ba_4_star-8_1436	4	Ade-b6ba_52_poisonous-3_3973	52	48	Sabi star	poisonous	1.694
+adaptation	Ade-b6ba_4_kudu-10	Ade-b6ba_52_poisonous-3	Ade-b6ba_4_kudu-10_4572	4	Ade-b6ba_52_poisonous-3_3973	52	48	kudu	poisonous	1.694
+adaptation	Nar-e858_506_roses-13	Nar-e858_457_flowering-65	Nar-e858_506_roses-13_4184	506	Nar-e858_457_flowering-65_3955	457	49	roses	flowering	1.66
+adaptation	Cra-0896_59_haw-24	Cra-0896_109_flowering-6	Cra-0896_59_haw-24_4836	59	Cra-0896_109_flowering-6_3955	109	50	haw	flowering	1.627
+adaptation	Nep-5975_182_plants-7	Nep-5975_246_Carnivorous-13	Nep-5975_182_plants-7_5260	182	Nep-5975_246_Carnivorous-13_320	246	64	tropical pitcher plants	Carnivorous	1.538
+adaptation	Nep-5975_182_plants-7	Nep-5975_246_Carnivorous-29	Nep-5975_182_plants-7_5260	182	Nep-5975_246_Carnivorous-29_320	246	64	tropical pitcher plants	Carnivorous	1.538
+adaptation	Sag-0ea8_31_Saguaros-1	Sag-0ea8_95_flowering-18	Sag-0ea8_31_Saguaros-1_3256	31	Sag-0ea8_95_flowering-18_3955	95	64	Saguaros	flowering	1.538
+adaptation	Sag-0ea8_30_Saguaros-1	Sag-0ea8_95_flowering-18	Sag-0ea8_30_Saguaros-1_3256	30	Sag-0ea8_95_flowering-18_3955	95	65	Saguaros	flowering	1.515
+adaptation	Hed-8dc6_200_Beech-3	Hed-8dc6_146_flowering-5	Hed-8dc6_200_Beech-3_2183	200	Hed-8dc6_146_flowering-5_3955	146	54	Beech	flowering	1.509
+adaptation	Nep-5975_182_plants-7	Nep-5975_248_Carnivorous-6	Nep-5975_182_plants-7_2901	182	Nep-5975_248_Carnivorous-6_320	248	66	Tropical pitcher plants	Carnivorous	1.493
+adaptation	Flo-338d_365_roses-2	Flo-338d_307_flowering-54	Flo-338d_365_roses-2_4184	365	Flo-338d_307_flowering-54_3955	307	58	roses	flowering	1.407
+adaptation	Flo-338d_365_roses-2	Flo-338d_307_flowering-35	Flo-338d_365_roses-2_4184	365	Flo-338d_307_flowering-35_3955	307	58	roses	flowering	1.407
+adaptation	Hyp-f6cf_63_perforatum-8	Hyp-f6cf_2_flowering-14	Hyp-f6cf_63_perforatum-8_3429	63	Hyp-f6cf_2_flowering-14_3955	2	61	Hypericum perforatum	flowering	1.403
+adaptation	Aes-55d6_84_chestnut-12	Aes-55d6_13_poisonous-6	Aes-55d6_84_chestnut-12_1439	84	Aes-55d6_13_poisonous-6_3973	13	71	Horse chestnut	poisonous	1.389
+adaptation	Sag-0ea8_24_Saguaros-1	Sag-0ea8_95_flowering-18	Sag-0ea8_24_Saguaros-1_3256	24	Sag-0ea8_95_flowering-18_3955	95	71	Saguaros	flowering	1.389
+adaptation	Aes-55d6_84_chestnut-23	Aes-55d6_13_poisonous-6	Aes-55d6_84_chestnut-23_1439	84	Aes-55d6_13_poisonous-6_3973	13	71	Horse chestnut	poisonous	1.389
+adaptation	Ven-77c9_170_muscipula-16	Ven-77c9_232_Carnivorous-22	Ven-77c9_170_muscipula-16_3604	170	Ven-77c9_232_Carnivorous-22_320	232	62	Dionaea muscipula	Carnivorous	1.381
+adaptation	Pas-a544_76_blackberries-28	Pas-a544_2_flowering-21	Pas-a544_76_blackberries-28_4679	76	Pas-a544_2_flowering-21_3955	2	74	blackberry	flowering	1.333
+adaptation	Sag-0ea8_20_Saguaros-1	Sag-0ea8_95_flowering-18	Sag-0ea8_20_Saguaros-1_3256	20	Sag-0ea8_95_flowering-18_3955	95	75	Saguaros	flowering	1.316
+adaptation	Cra-0896_45_hawthorn-10	Cra-0896_109_flowering-6	Cra-0896_45_hawthorn-10_4835	45	Cra-0896_109_flowering-6_3955	109	64	common hawthorn	flowering	1.277
+adaptation	Cra-0896_45_haws-3	Cra-0896_109_flowering-6	Cra-0896_45_haws-3_4836	45	Cra-0896_109_flowering-6_3955	109	64	haw	flowering	1.277
+adaptation	Dro-82dc_71_Nepenthes-16	Dro-82dc_2_flowering-7	Dro-82dc_71_Nepenthes-16_2902	71	Dro-82dc_2_flowering-7_3955	2	69	Nepenthes	flowering	1.243
+adaptation	Flo-338d_227_oak-24	Flo-338d_307_flowering-35	Flo-338d_227_oak-24_4407	227	Flo-338d_307_flowering-35_3955	307	80	oaks	flowering	1.235
+adaptation	Flo-338d_227_oak-24	Flo-338d_307_flowering-54	Flo-338d_227_oak-24_4407	227	Flo-338d_307_flowering-54_3955	307	80	oaks	flowering	1.235
+adaptation	Ven-77c9_151_flytrap-4	Ven-77c9_232_Carnivorous-22	Ven-77c9_151_flytrap-4_3603	151	Ven-77c9_232_Carnivorous-22_320	232	81	Venus flytrap	Carnivorous	1.22
+adaptation	Cra-0896_40_haws-19	Cra-0896_109_flowering-6	Cra-0896_40_haws-19_4836	40	Cra-0896_109_flowering-6_3955	109	69	haw	flowering	1.186
+adaptation	Sag-0ea8_7_Saguaros-1	Sag-0ea8_95_flowering-18	Sag-0ea8_7_Saguaros-1_3256	7	Sag-0ea8_95_flowering-18_3955	95	88	Saguaros	flowering	1.124
+adaptation	Flo-338d_215_dandelions-35	Flo-338d_126_flowering-2	Flo-338d_215_dandelions-35_3467	215	Flo-338d_126_flowering-2_3955	126	89	Dandelions	flowering	1.111
+adaptation	Flo-e790_146_Rosaceae-53	Flo-e790_55_flowering-24	Flo-e790_146_Rosaceae-53_782	146	Flo-e790_55_flowering-24_3955	55	91	Rosaceae	flowering	1.087
+adaptation	Flo-338d_215_dandelions-35	Flo-338d_307_flowering-35	Flo-338d_215_dandelions-35_3467	215	Flo-338d_307_flowering-35_3955	307	92	Dandelions	flowering	1.075
+adaptation	Flo-338d_215_dandelions-35	Flo-338d_307_flowering-54	Flo-338d_215_dandelions-35_5533	215	Flo-338d_307_flowering-54_3955	307	92	dandelions	flowering	1.075
+adaptation	Euc-4c3e_184_oaks-5	Euc-4c3e_92_flowering-52	Euc-4c3e_184_oaks-5_4407	184	Euc-4c3e_92_flowering-52_3955	92	92	oaks	flowering	1.075
+adaptation	Hed-8dc6_51_beech-10	Hed-8dc6_146_flowering-5	Hed-8dc6_51_beech-10_2181	51	Hed-8dc6_146_flowering-5_3955	146	95	Common beech	flowering	1.042
+adaptation	Hed-8dc6_49_oak-7	Hed-8dc6_146_flowering-5	Hed-8dc6_49_oak-7_4407	49	Hed-8dc6_146_flowering-5_3955	146	97	oaks	flowering	1.02
+adaptation	Euc-4c3e_189_oak-33	Euc-4c3e_92_flowering-52	Euc-4c3e_189_oak-33_4407	189	Euc-4c3e_92_flowering-52_3955	92	97	oaks	flowering	1.02
+taxongroup	Man-d37a_36_mangrove-39	Man-d37a_36_plant-10	Man-d37a_36_mangrove-39_5415	36	Man-d37a_36_plant-10_4553	36	0	mangroves	plants	100.0
+taxongroup	Cra-0896_86_hawthorn-3	Cra-0896_86_plant-12	Cra-0896_86_hawthorn-3_4834	86	Cra-0896_86_plant-12_4553	86	0	hawthorn	plants	100.0
+taxongroup	Cra-2aca_2_Rosaceae-30	Cra-2aca_2_plant-25	Cra-2aca_2_Rosaceae-30_782	2	Cra-2aca_2_plant-25_4553	2	0	Rosaceae	plants	100.0
+taxongroup	Flo-e790_146_Rosaceae-53	Flo-e790_146_plant-21	Flo-e790_146_Rosaceae-53_782	146	Flo-e790_146_plant-21_4553	146	0	Rosaceae	plants	100.0
+taxongroup	Ros-ae30_49_Rosaceae-5	Ros-ae30_49_Rosales-1	Ros-ae30_49_Rosaceae-5_782	49	Ros-ae30_49_Rosales-1_3766	49	0	Rosaceae	Rosales	100.0
+taxongroup	Ros-ae30_49_Rosaceae-5	Ros-ae30_49_plants-28	Ros-ae30_49_Rosaceae-5_782	49	Ros-ae30_49_plants-28_1402	49	0	Rosaceae	Plants	100.0
+taxongroup	Ros-0df4_146_Rosaceae-13	Ros-0df4_146_plants-6	Ros-0df4_146_Rosaceae-13_782	146	Ros-0df4_146_plants-6_1402	146	0	Rosaceae	Plants	100.0
+taxongroup	Rub-3ec2_2_Rosaceae-16	Rub-3ec2_2_plants-10	Rub-3ec2_2_Rosaceae-16_782	2	Rub-3ec2_2_plants-10_1402	2	0	Rosaceae	Plants	100.0
+taxongroup	Ros-0df4_2_Rosaceae-20	Ros-0df4_2_plant-9	Ros-0df4_2_Rosaceae-20_782	2	Ros-0df4_2_plant-9_1402	2	0	Rosaceae	Plants	100.0
+taxongroup	Ros-4632_2_Rosaceae-1	Ros-4632_2_plants-16	Ros-4632_2_Rosaceae-1_782	2	Ros-4632_2_plants-16_1402	2	0	Rosaceae	Plants	100.0
+taxongroup	Ros-4632_13_Rosaceae-1	Ros-4632_13_plants-12	Ros-4632_13_Rosaceae-1_782	13	Ros-4632_13_plants-12_1402	13	0	Rosaceae	Plants	100.0
+taxongroup	Ros-4632_118_Rosaceae-3	Ros-4632_118_plants-13	Ros-4632_118_Rosaceae-3_782	118	Ros-4632_118_plants-13_1402	118	0	Rosaceae	Plants	100.0
+taxongroup	Pik-2f87_143_Rosaceae-47	Pik-2f87_143_plants-19	Pik-2f87_143_Rosaceae-47_782	143	Pik-2f87_143_plants-19_1402	143	0	Rosaceae	Plants	100.0
+taxongroup	Pik-2f87_143_Rosaceae-47	Pik-2f87_143_plants-43	Pik-2f87_143_Rosaceae-47_782	143	Pik-2f87_143_plants-43_1402	143	0	Rosaceae	Plants	100.0
+taxongroup	Rho90f5_2_Rhododendrons-1	Rho90f5_2_plants-7	Rho90f5_2_Rhododendrons-1_3220	2	Rho90f5_2_plants-7_4553	2	0	Rhododendrons	plants	100.0
+taxongroup	Cra-2aca_2_hawthorn-12	Cra-2aca_2_plant-25	Cra-2aca_2_hawthorn-12_4834	2	Cra-2aca_2_plant-25_1402	2	0	hawthorn	Plants	100.0
+taxongroup	Cra-2aca_57_hawthorn-2	Cra-2aca_57_plant-9	Cra-2aca_57_hawthorn-2_4834	57	Cra-2aca_57_plant-9_1402	57	0	hawthorn	Plants	100.0
+taxongroup	Cra-2aca_2_hawthorn-12	Cra-2aca_2_Rosaceae-30	Cra-2aca_2_hawthorn-12_4834	2	Cra-2aca_2_Rosaceae-30_782	2	0	hawthorn	Rosaceae	100.0
+taxongroup	Cra-0896_2_hawthorn-7	Cra-0896_2_Rosaceae-37	Cra-0896_2_hawthorn-7_4834	2	Cra-0896_2_Rosaceae-37_782	2	0	hawthorn	Rosaceae	100.0
+taxongroup	Cra-2aca_2_hawthorn-18	Cra-2aca_2_Rosaceae-30	Cra-2aca_2_hawthorn-18_4834	2	Cra-2aca_2_Rosaceae-30_782	2	0	hawthorn	Rosaceae	100.0
+taxongroup	Cra-2aca_2_hawthorn-7	Cra-2aca_2_Rosaceae-30	Cra-2aca_2_hawthorn-7_4834	2	Cra-2aca_2_Rosaceae-30_782	2	0	hawthorn	Rosaceae	100.0
+taxongroup	Ros-ae30_12_hawthorn-31	Ros-ae30_12_Rosales-6	Ros-ae30_12_hawthorn-31_4834	12	Ros-ae30_12_Rosales-6_3766	12	0	hawthorn	Rosales	100.0
+taxongroup	Hed-8dc6_164_hawthorn-10	Hed-8dc6_164_plants-3	Hed-8dc6_164_hawthorn-10_4834	164	Hed-8dc6_164_plants-3_4553	164	0	hawthorn	plants	100.0
+taxongroup	Cra-2aca_2_hawthorn-18	Cra-2aca_2_plant-25	Cra-2aca_2_hawthorn-18_4834	2	Cra-2aca_2_plant-25_4553	2	0	hawthorn	plants	100.0
+taxongroup	Cra-0896_33_hawthorn-2	Cra-0896_33_Crataegus-7	Cra-0896_33_hawthorn-2_4834	33	Cra-0896_33_Crataegus-7_993	33	0	hawthorn	Crataegus	100.0
+taxongroup	Nep-5975_2_plants-16	Nep-5975_2_plants-9	Nep-5975_2_plants-16_2901	2	Nep-5975_2_plants-9_1402	2	0	Tropical pitcher plants	Plants	100.0
+taxongroup	Nep-5975_2_plants-16	Nep-5975_2_plants-16	Nep-5975_2_plants-16_2901	2	Nep-5975_2_plants-16_1402	2	0	Tropical pitcher plants	Plants	100.0
+taxongroup	Nep-5975_161_plant-12	Nep-5975_161_plant-12	Nep-5975_161_plant-12_2901	161	Nep-5975_161_plant-12_1402	161	0	Tropical pitcher plants	Plants	100.0
+taxongroup	Nep-5975_161_plant-12	Nep-5975_161_plant-25	Nep-5975_161_plant-12_2901	161	Nep-5975_161_plant-25_1402	161	0	Tropical pitcher plants	Plants	100.0
+taxongroup	Nep-5975_182_plants-7	Nep-5975_182_plants-7	Nep-5975_182_plants-7_2901	182	Nep-5975_182_plants-7_1402	182	0	Tropical pitcher plants	Plants	100.0
+taxongroup	Nepc012_8_plants-27	Nepc012_8_plants-27	Nepc012_8_plants-27_2901	8	Nepc012_8_plants-27_1402	8	0	Tropical pitcher plants	Plants	100.0
+taxongroup	Ind-c6bf_37_plants-3	Ind-c6bf_37_plants-3	Ind-c6bf_37_plants-3_2901	37	Ind-c6bf_37_plants-3_1402	37	0	Tropical pitcher plants	Plants	100.0
+taxongroup	Cra-0896_35_hawthorn-23	Cra-0896_35_Crataegus-17	Cra-0896_35_hawthorn-23_4834	35	Cra-0896_35_Crataegus-17_993	35	0	hawthorn	Crataegus	100.0
+taxongroup	Cra-0896_67_hawthorn-9	Cra-0896_67_Crataegus-7	Cra-0896_67_hawthorn-9_4834	67	Cra-0896_67_Crataegus-7_993	67	0	hawthorn	Crataegus	100.0
+taxongroup	Cra-0896_35_hawthorn-2	Cra-0896_35_Crataegus-17	Cra-0896_35_hawthorn-2_4834	35	Cra-0896_35_Crataegus-17_993	35	0	hawthorn	Crataegus	100.0
+taxongroup	Cra-0896_34_hawthorn-2	Cra-0896_34_Crataegus-24	Cra-0896_34_hawthorn-2_4834	34	Cra-0896_34_Crataegus-24_993	34	0	hawthorn	Crataegus	100.0
+taxongroup	Cra-0896_35_hawthorn-2	Cra-0896_35_Crataegus-12	Cra-0896_35_hawthorn-2_4834	35	Cra-0896_35_Crataegus-12_993	35	0	hawthorn	Crataegus	100.0
+taxongroup	Cra-0896_35_hawthorn-2	Cra-0896_35_Crataegus-28	Cra-0896_35_hawthorn-2_4834	35	Cra-0896_35_Crataegus-28_993	35	0	hawthorn	Crataegus	100.0
+taxongroup	Cra-2aca_2_hawthorn-7	Cra-2aca_2_plant-25	Cra-2aca_2_hawthorn-7_4834	2	Cra-2aca_2_plant-25_1402	2	0	hawthorn	Plants	100.0
+taxongroup	Dro1c12_5_Sundew-7	Dro1c12_5_family-8	Dro1c12_5_Sundew-7_2064	5	Dro1c12_5_family-8_573	5	0	Sundews	Sundew family	100.0
+taxongroup	Dro1c12_5_Sundew-7	Dro1c12_5_family-9	Dro1c12_5_Sundew-7_2064	5	Dro1c12_5_family-9_573	5	0	Sundews	Sundew family	100.0
+taxongroup	Sap-fdff_2_Sapindales-1	Sap-fdff_2_plants-7	Sap-fdff_2_Sapindales-1_3277	2	Sap-fdff_2_plants-7_4553	2	0	Sapindales	plants	100.0
+taxongroup	Man-d37a_36_mangrove-19	Man-d37a_36_plant-10	Man-d37a_36_mangrove-19_5415	36	Man-d37a_36_plant-10_4553	36	0	mangroves	plants	100.0
+taxongroup	Cra-2aca_2_hawthorn-12	Cra-2aca_2_family-29	Cra-2aca_2_hawthorn-12_4834	2	Cra-2aca_2_family-29_4183	2	0	hawthorn	rose family	100.0
+taxongroup	Man-d37a_36_mangrove-23	Man-d37a_36_plant-10	Man-d37a_36_mangrove-23_5415	36	Man-d37a_36_plant-10_1402	36	0	mangroves	Plants	100.0
+taxongroup	Wet-a585_310_mangrove-21	Wet-a585_310_plants-4	Wet-a585_310_mangrove-21_5415	310	Wet-a585_310_plants-4_1402	310	0	mangroves	Plants	100.0
+taxongroup	Man-d37a_58_mangrove-9	Man-d37a_58_plant-27	Man-d37a_58_mangrove-9_5415	58	Man-d37a_58_plant-27_1402	58	0	mangroves	Plants	100.0
+taxongroup	Rhi-d0e0_5_mangrove-8	Rhi-d0e0_5_Rhizophoraceae-3	Rhi-d0e0_5_mangrove-8_5415	5	Rhi-d0e0_5_Rhizophoraceae-3_777	5	0	mangroves	Rhizophoraceae	100.0
+taxongroup	Rhi-d0e0_55_mangrove-15	Rhi-d0e0_55_Rhizophoraceae-18	Rhi-d0e0_55_mangrove-15_5415	55	Rhi-d0e0_55_Rhizophoraceae-18_777	55	0	mangroves	Rhizophoraceae	100.0
+taxongroup	Rhi-d0e0_5_mangrove-19	Rhi-d0e0_5_Rhizophoraceae-3	Rhi-d0e0_5_mangrove-19_5415	5	Rhi-d0e0_5_Rhizophoraceae-3_777	5	0	mangroves	Rhizophoraceae	100.0
+taxongroup	Man-d37a_175_mangroves-12	Man-d37a_175_plant-41	Man-d37a_175_mangroves-12_5415	175	Man-d37a_175_plant-41_4553	175	0	mangroves	plants	100.0
+taxongroup	Man-d37a_133_mangrove-42	Man-d37a_133_plant-5	Man-d37a_133_mangrove-42_5415	133	Man-d37a_133_plant-5_4553	133	0	mangroves	plants	100.0
+taxongroup	Man-d37a_91_mangrove-16	Man-d37a_91_plants-3	Man-d37a_91_mangrove-16_5415	91	Man-d37a_91_plants-3_4553	91	0	mangroves	plants	100.0
+taxongroup	Man-d37a_91_mangroves-12	Man-d37a_91_plants-3	Man-d37a_91_mangroves-12_5415	91	Man-d37a_91_plants-3_4553	91	0	mangroves	plants	100.0
+taxongroup	Man-d37a_134_mangrove-29	Man-d37a_134_plant-30	Man-d37a_134_mangrove-29_5415	134	Man-d37a_134_plant-30_4553	134	0	mangroves	plants	100.0
+taxongroup	Oce-3ad5_32_mangroves-8	Oce-3ad5_32_plants-2	Oce-3ad5_32_mangroves-8_5415	32	Oce-3ad5_32_plants-2_4553	32	0	mangroves	plants	100.0
+taxongroup	Rhic7ca_8_mangroves-5	Rhic7ca_8_plants-29	Rhic7ca_8_mangroves-5_5415	8	Rhic7ca_8_plants-29_4553	8	0	mangroves	plants	100.0
+taxongroup	Rhic7ca_8_mangroves-5	Rhic7ca_8_plant-11	Rhic7ca_8_mangroves-5_5415	8	Rhic7ca_8_plant-11_4553	8	0	mangroves	plants	100.0
+taxongroup	Int-c24a_13_mangroves-17	Int-c24a_13_plants-14	Int-c24a_13_mangroves-17_5415	13	Int-c24a_13_plants-14_4553	13	0	mangroves	plants	100.0
+taxongroup	Man-5a67_68_mangrove-33	Man-5a67_68_plants-38	Man-5a67_68_mangrove-33_5415	68	Man-5a67_68_plants-38_4553	68	0	mangroves	plants	100.0
+taxongroup	Man-d37a_368_Mangrove-17	Man-d37a_368_Rhizophoraceae-14	Man-d37a_368_Mangrove-17_3218	368	Man-d37a_368_Rhizophoraceae-14_777	368	0	Mangroves	Rhizophoraceae	100.0
+taxongroup	Mag-8f64_16_Magnoliopsida-14	Mag-8f64_16_plants-18	Mag-8f64_16_Magnoliopsida-14_390	16	Mag-8f64_16_plants-18_4553	16	0	Magnoliopsida	plants	100.0
+taxongroup	Mag-8f64_2_Magnoliopsida-1	Mag-8f64_2_plants-12	Mag-8f64_2_Magnoliopsida-1_390	2	Mag-8f64_2_plants-12_4553	2	0	Magnoliopsida	plants	100.0
+taxongroup	Mag-8f64_13_Magnoliopsida-11	Mag-8f64_13_plants-23	Mag-8f64_13_Magnoliopsida-11_390	13	Mag-8f64_13_plants-23_4553	13	0	Magnoliopsida	plants	100.0
+taxongroup	Mag-8f64_19_Magnoliopsida-7	Mag-8f64_19_plants-22	Mag-8f64_19_Magnoliopsida-7_390	19	Mag-8f64_19_plants-22_4553	19	0	Magnoliopsida	plants	100.0
+taxongroup	Man-d37a_134_mangroves-6	Man-d37a_134_plant-30	Man-d37a_134_mangroves-6_5415	134	Man-d37a_134_plant-30_4553	134	0	mangroves	plants	100.0
+taxongroup	Ada-8b4f_130_baobab-2	Ada-8b4f_130_plant-7	Ada-8b4f_130_baobab-2_4565	130	Ada-8b4f_130_plant-7_4553	130	0	baobabs	plants	100.0
+taxongroup	Man-d37a_100_mangrove-13	Man-d37a_100_plant-18	Man-d37a_100_mangrove-13_5415	100	Man-d37a_100_plant-18_1402	100	0	mangroves	Plants	100.0
+taxongroup	Cra-2aca_2_hawthorn-7	Cra-2aca_2_family-29	Cra-2aca_2_hawthorn-7_4834	2	Cra-2aca_2_family-29_4183	2	0	hawthorn	rose family	100.0
+taxongroup	Cra-2aca_2_hawthorn-18	Cra-2aca_2_family-29	Cra-2aca_2_hawthorn-18_4834	2	Cra-2aca_2_family-29_4183	2	0	hawthorn	rose family	100.0
+taxongroup	Hip-6d72_6_chestnuts-16	Hip-6d72_6_Aesculus-12	Hip-6d72_6_chestnuts-16_4574	6	Hip-6d72_6_Aesculus-12_879	6	0	horse chestnut	Aesculus	100.0
+taxongroup	Aes-55d6_2_chestnut-6	Aes-55d6_2_plant-13	Aes-55d6_2_chestnut-6_4574	2	Aes-55d6_2_plant-13_1402	2	0	horse chestnut	Plants	100.0
+taxongroup	Que-fbc5_2_Quercus-1	Que-fbc5_2_plant-13	Que-fbc5_2_Quercus-1_1175	2	Que-fbc5_2_plant-13_4553	2	0	Quercus	plants	100.0
+taxongroup	Sap-fdff_3_chestnuts-14	Sap-fdff_3_Sapindales-6	Sap-fdff_3_chestnuts-14_4574	3	Sap-fdff_3_Sapindales-6_3277	3	0	horse chestnut	Sapindales	100.0
+taxongroup	Fag-261e_42_Quercus-26	Fag-261e_42_Fagaceae-4	Fag-261e_42_Quercus-26_1175	42	Fag-261e_42_Fagaceae-4_597	42	0	Quercus	Fagaceae	100.0
+taxongroup	Oak-f2b6_135_Quercus-33	Oak-f2b6_135_Fagaceae-2	Oak-f2b6_135_Quercus-33_1175	135	Oak-f2b6_135_Fagaceae-2_597	135	0	Quercus	Fagaceae	100.0
+taxongroup	Fag-261e_42_Quercus-14	Fag-261e_42_Fagaceae-4	Fag-261e_42_Quercus-14_1175	42	Fag-261e_42_Fagaceae-4_597	42	0	Quercus	Fagaceae	100.0
+taxongroup	Pas-a544_40_flower-13	Pas-a544_40_plant-19	Pas-a544_40_flower-13_3011	40	Pas-a544_40_plant-19_4553	40	0	Passion flowers	plants	100.0
+taxongroup	Pas-a544_2_flowers-8	Pas-a544_2_plants-22	Pas-a544_2_flowers-8_3011	2	Pas-a544_2_plants-22_4553	2	0	Passion flowers	plants	100.0
+taxongroup	Vio8505_1_flowers-10	Vio8505_1_Violets-7	Vio8505_1_flowers-10_3011	1	Vio8505_1_Violets-7_3610	1	0	Passion flowers	Violets and passion flowers	100.0
+taxongroup	Pas-a544_2_flowers-8	Pas-a544_2_Passifloraceae-30	Pas-a544_2_flowers-8_3011	2	Pas-a544_2_Passifloraceae-30_737	2	0	Passion flowers	Passifloraceae	100.0
+taxongroup	Nep-5975_159_plants-13	Nep-5975_159_plants-13	Nep-5975_159_plants-13_2901	159	Nep-5975_159_plants-13_1402	159	0	Tropical pitcher plants	Plants	100.0
+taxongroup	Nep-5975_161_plant-25	Nep-5975_161_plant-25	Nep-5975_161_plant-25_2901	161	Nep-5975_161_plant-25_1402	161	0	Tropical pitcher plants	Plants	100.0
+taxongroup	Nepfa56_10_plants-9	Nepfa56_10_plants-9	Nepfa56_10_plants-9_2901	10	Nepfa56_10_plants-9_1402	10	0	Tropical pitcher plants	Plants	100.0
+taxongroup	Nepfa56_6_plant-10	Nepfa56_6_plant-10	Nepfa56_6_plant-10_2901	6	Nepfa56_6_plant-10_1402	6	0	Tropical pitcher plants	Plants	100.0
+taxongroup	Tar-a465_39_dandelions-16	Tar-a465_39_plants-3	Tar-a465_39_dandelions-16_5533	39	Tar-a465_39_plants-3_1402	39	0	dandelions	Plants	100.0
+taxongroup	Broe6e5_5_dandelions-18	Broe6e5_5_Plants-1	Broe6e5_5_dandelions-18_5533	5	Broe6e5_5_Plants-1_1402	5	0	dandelions	Plants	100.0
+taxongroup	See-1516_77_dandelion-10	See-1516_77_plants-5	See-1516_77_dandelion-10_5533	77	See-1516_77_plants-5_1402	77	0	dandelions	Plants	100.0
+taxongroup	Gre-e890_102_dandelion-15	Gre-e890_102_plant-3	Gre-e890_102_dandelion-15_5533	102	Gre-e890_102_plant-3_1402	102	0	dandelions	Plants	100.0
+taxongroup	Flo-338d_215_dandelions-35	Flo-338d_215_plant-21	Flo-338d_215_dandelions-35_5533	215	Flo-338d_215_plant-21_1402	215	0	dandelions	Plants	100.0
+taxongroup	Eur-d570_83_dandelions-26	Eur-d570_83_plants-34	Eur-d570_83_dandelions-26_5533	83	Eur-d570_83_plants-34_1402	83	0	dandelions	Plants	100.0
+taxongroup	Ase-acb4_112_dandelion-12	Ase-acb4_112_plant-6	Ase-acb4_112_dandelion-12_5533	112	Ase-acb4_112_plant-6_1402	112	0	dandelions	Plants	100.0
+taxongroup	Agl-fec0_26_dandelions-19	Agl-fec0_26_plants-12	Agl-fec0_26_dandelions-19_5533	26	Agl-fec0_26_plants-12_1402	26	0	dandelions	Plants	100.0
+taxongroup	Tar-a465_135_Dandelions-1	Tar-a465_135_plant-22	Tar-a465_135_Dandelions-1_5533	135	Tar-a465_135_plant-22_4553	135	0	dandelions	plants	100.0
+taxongroup	Tar-a465_147_Dandelions-1	Tar-a465_147_plants-5	Tar-a465_147_Dandelions-1_5533	147	Tar-a465_147_plants-5_4553	147	0	dandelions	plants	100.0
+taxongroup	Tar-a465_2_dandelions-23	Tar-a465_2_plants-10	Tar-a465_2_dandelions-23_5533	2	Tar-a465_2_plants-10_4553	2	0	dandelions	plants	100.0
+taxongroup	Tar-a465_152_Dandelions-1	Tar-a465_152_plants-6	Tar-a465_152_Dandelions-1_5533	152	Tar-a465_152_plants-6_4553	152	0	dandelions	plants	100.0
+taxongroup	Ven-77c9_105_flytrap-3	Ven-77c9_105_plant-25	Ven-77c9_105_flytrap-3_3603	105	Ven-77c9_105_plant-25_4553	105	0	Venus flytrap	plants	100.0
+taxongroup	Ven-77c9_221_flytrap-6	Ven-77c9_221_plant-13	Ven-77c9_221_flytrap-6_3603	221	Ven-77c9_221_plant-13_4553	221	0	Venus flytrap	plants	100.0
+taxongroup	Dro-82dc_30_flytrap-9	Dro-82dc_30_plant-16	Dro-82dc_30_flytrap-9_3603	30	Dro-82dc_30_plant-16_4553	30	0	Venus flytrap	plants	100.0
+taxongroup	Ven-77c9_151_flytrap-4	Ven-77c9_151_plant-20	Ven-77c9_151_flytrap-4_3603	151	Ven-77c9_151_plant-20_4553	151	0	Venus flytrap	plants	100.0
+taxongroup	Dro1c12_3_flytrap-25	Dro1c12_3_plant-29	Dro1c12_3_flytrap-25_3603	3	Dro1c12_3_plant-29_4553	3	0	Venus flytrap	plants	100.0
+taxongroup	Dro1c12_3_flytrap-25	Dro1c12_3_plants-9	Dro1c12_3_flytrap-25_3603	3	Dro1c12_3_plants-9_4553	3	0	Venus flytrap	plants	100.0
+taxongroup	Ven-77c9_35_flytrap-3	Ven-77c9_35_plant-7	Ven-77c9_35_flytrap-3_3603	35	Ven-77c9_35_plant-7_4553	35	0	Venus flytrap	plants	100.0
+taxongroup	Pla-2751_152_flytrap-13	Pla-2751_152_plants-5	Pla-2751_152_flytrap-13_3603	152	Pla-2751_152_plants-5_4553	152	0	Venus flytrap	plants	100.0
+taxongroup	Vio6842_3_Violets-1	Vio6842_3_plants-12	Vio6842_3_Violets-1_3612	3	Vio6842_3_plants-12_4553	3	0	Violets and pansies	plants	100.0
+taxongroup	Ada-8b4f_167_baobabs-5	Ada-8b4f_167_plants-10	Ada-8b4f_167_baobabs-5_4565	167	Ada-8b4f_167_plants-10_1402	167	0	baobabs	Plants	100.0
+taxongroup	Ada-8b4f_167_baobabs-5	Ada-8b4f_167_plants-19	Ada-8b4f_167_baobabs-5_4565	167	Ada-8b4f_167_plants-19_1402	167	0	baobabs	Plants	100.0
+taxongroup	Bla-30a4_131_blackberry-7	Bla-30a4_131_plants-29	Bla-30a4_131_blackberry-7_4679	131	Bla-30a4_131_plants-29_1402	131	0	blackberry	Plants	100.0
+taxongroup	Bla-30a4_96_blackberries-11	Bla-30a4_96_plants-27	Bla-30a4_96_blackberries-11_4679	96	Bla-30a4_96_plants-27_1402	96	0	blackberry	Plants	100.0
+taxongroup	Bla-30a4_131_blackberry-7	Bla-30a4_131_plant-44	Bla-30a4_131_blackberry-7_4679	131	Bla-30a4_131_plant-44_1402	131	0	blackberry	Plants	100.0
+taxongroup	Bla-30a4_89_blackberries-4	Bla-30a4_89_plants-33	Bla-30a4_89_blackberries-4_4679	89	Bla-30a4_89_plants-33_1402	89	0	blackberry	Plants	100.0
+taxongroup	Rub-3ec2_46_blackberries-36	Rub-3ec2_46_plants-22	Rub-3ec2_46_blackberries-36_4679	46	Rub-3ec2_46_plants-22_1402	46	0	blackberry	Plants	100.0
+taxongroup	Ros-4632_109_blackberries-41	Ros-4632_109_plant-14	Ros-4632_109_blackberries-41_4679	109	Ros-4632_109_plant-14_1402	109	0	blackberry	Plants	100.0
+taxongroup	Ros-ae30_12_blackberries-13	Ros-ae30_12_Rosales-6	Ros-ae30_12_blackberries-13_4679	12	Ros-ae30_12_Rosales-6_3766	12	0	blackberry	Rosales	100.0
+taxongroup	Vio8505_2_Violales-1	Vio8505_2_plants-14	Vio8505_2_Violales-1_3611	2	Vio8505_2_plants-14_4553	2	0	Violales	plants	100.0
+taxongroup	Vio-3f57_2_Violales-1	Vio-3f57_2_plants-11	Vio-3f57_2_Violales-1_3611	2	Vio-3f57_2_plants-11_4553	2	0	Violales	plants	100.0
+taxongroup	Ros-4632_109_blackberries-41	Ros-4632_109_family-3	Ros-4632_109_blackberries-41_4679	109	Ros-4632_109_family-3_4183	109	0	blackberry	rose family	100.0
+taxongroup	Ros-4632_109_blackberries-41	Ros-4632_109_families-15	Ros-4632_109_blackberries-41_4679	109	Ros-4632_109_families-15_4183	109	0	blackberry	rose family	100.0
+taxongroup	Hed-8dc6_51_beech-10	Hed-8dc6_51_Fagus-12	Hed-8dc6_51_beech-10_4929	51	Hed-8dc6_51_Fagus-12_929	51	0	common beech	Fagus	100.0
+taxongroup	Nep-5975_67_flytrap-26	Nep-5975_67_plant-33	Nep-5975_67_flytrap-26_3603	67	Nep-5975_67_plant-33_4553	67	0	Venus flytrap	plants	100.0
+taxongroup	Ven-77c9_2_flytrap-3	Ven-77c9_2_plant-11	Ven-77c9_2_flytrap-3_3603	2	Ven-77c9_2_plant-11_4553	2	0	Venus flytrap	plants	100.0
+taxongroup	Ven-77c9_105_flytrap-3	Ven-77c9_105_plants-12	Ven-77c9_105_flytrap-3_3603	105	Ven-77c9_105_plants-12_4553	105	0	Venus flytrap	plants	100.0
+taxongroup	Nep-5975_2_plants-9	Nep-5975_2_plants-16	Nep-5975_2_plants-9_2901	2	Nep-5975_2_plants-16_4553	2	0	Tropical pitcher plants	plants	100.0
+taxongroup	Whi-100a_49_hawthorn-23	Whi-100a_49_Crataegus-25	Whi-100a_49_hawthorn-23_4834	49	Whi-100a_49_Crataegus-25_993	49	0	hawthorn	Crataegus	100.0
+taxongroup	Cra-0896_2_hawthorn-7	Cra-0896_2_Crataegus-1	Cra-0896_2_hawthorn-7_4834	2	Cra-0896_2_Crataegus-1_993	2	0	hawthorn	Crataegus	100.0
+taxongroup	Cra-0896_35_hawthorn-23	Cra-0896_35_Crataegus-12	Cra-0896_35_hawthorn-23_4834	35	Cra-0896_35_Crataegus-12_993	35	0	hawthorn	Crataegus	100.0
+taxongroup	Cra-0896_34_hawthorn-2	Cra-0896_34_Crataegus-5	Cra-0896_34_hawthorn-2_4834	34	Cra-0896_34_Crataegus-5_993	34	0	hawthorn	Crataegus	100.0
+taxongroup	Cra-0896_73_hawthorn-23	Cra-0896_73_Crataegus-16	Cra-0896_73_hawthorn-23_4834	73	Cra-0896_73_Crataegus-16_993	73	0	hawthorn	Crataegus	100.0
+taxongroup	Cra-0896_34_hawthorn-2	Cra-0896_34_Crataegus-11	Cra-0896_34_hawthorn-2_4834	34	Cra-0896_34_Crataegus-11_993	34	0	hawthorn	Crataegus	100.0
+taxongroup	Cra-0896_34_hawthorn-2	Cra-0896_34_Crataegus-8	Cra-0896_34_hawthorn-2_4834	34	Cra-0896_34_Crataegus-8_993	34	0	hawthorn	Crataegus	100.0
+taxongroup	Cra-0896_94_hawthorn-21	Cra-0896_94_Crataegus-3	Cra-0896_94_hawthorn-21_4834	94	Cra-0896_94_Crataegus-3_993	94	0	hawthorn	Crataegus	100.0
+taxongroup	Cra-0896_35_hawthorn-23	Cra-0896_35_Crataegus-28	Cra-0896_35_hawthorn-23_4834	35	Cra-0896_35_Crataegus-28_993	35	0	hawthorn	Crataegus	100.0
+taxongroup	Nep-5975_2_plants-9	Nep-5975_2_plants-9	Nep-5975_2_plants-9_2901	2	Nep-5975_2_plants-9_4553	2	0	Tropical pitcher plants	plants	100.0
+taxongroup	Hed-8dc6_39_hawthorn-4	Hed-8dc6_39_Crataegus-1	Hed-8dc6_39_hawthorn-4_4834	39	Hed-8dc6_39_Crataegus-1_993	39	0	hawthorn	Crataegus	100.0
+taxongroup	Nep-5975_161_plant-25	Nep-5975_161_plant-12	Nep-5975_161_plant-25_2901	161	Nep-5975_161_plant-12_4553	161	0	Tropical pitcher plants	plants	100.0
+taxongroup	Ros-4632_64_hawthorn-34	Ros-4632_64_Crataegus-32	Ros-4632_64_hawthorn-34_4834	64	Ros-4632_64_Crataegus-32_993	64	0	hawthorn	Crataegus	100.0
+taxongroup	Dic-c8bf_2_dicotyledons-2	Dic-c8bf_2_plants-28	Dic-c8bf_2_dicotyledons-2_4003	2	Dic-c8bf_2_plants-28_4553	2	0	dicotyledons	plants	100.0
+taxongroup	Urt-078d_2_Urticales-1	Urt-078d_2_plants-7	Urt-078d_2_Urticales-1_3593	2	Urt-078d_2_plants-7_4553	2	0	Urticales	plants	100.0
+taxongroup	Mon548e_2_dicotyledons-21	Mon548e_2_plants-15	Mon548e_2_dicotyledons-21_4003	2	Mon548e_2_plants-15_1402	2	0	dicotyledons	Plants	100.0
+taxongroup	Flo-338d_243_dicotyledons-20	Flo-338d_243_Plants-1	Flo-338d_243_dicotyledons-20_4003	243	Flo-338d_243_Plants-1_4553	243	0	dicotyledons	plants	100.0
+taxongroup	Asp-d39c_106_dicotyledons-21	Asp-d39c_106_plants-12	Asp-d39c_106_dicotyledons-21_4003	106	Asp-d39c_106_plants-12_1402	106	0	dicotyledons	Plants	100.0
+taxongroup	Mon-1726_3_dicotyledons-31	Mon-1726_3_plants-12	Mon-1726_3_dicotyledons-31_4003	3	Mon-1726_3_plants-12_1402	3	0	dicotyledons	Plants	100.0
+taxongroup	Mon-1726_3_dicotyledons-31	Mon-1726_3_plants-23	Mon-1726_3_dicotyledons-31_4003	3	Mon-1726_3_plants-23_1402	3	0	dicotyledons	Plants	100.0
+taxongroup	Mag-8f64_19_dicotyledons-14	Mag-8f64_19_plants-22	Mag-8f64_19_dicotyledons-14_4003	19	Mag-8f64_19_plants-22_1402	19	0	dicotyledons	Plants	100.0
+taxongroup	Rho-d4a0_242_rhododendron-29	Rho-d4a0_242_plant-21	Rho-d4a0_242_rhododendron-29_5416	242	Rho-d4a0_242_plant-21_4553	242	0	rhododendrons	plants	100.0
+taxongroup	Nep-5975_67_sundews-20	Nep-5975_67_plant-33	Nep-5975_67_sundews-20_4871	67	Nep-5975_67_plant-33_1402	67	0	sundews	Plants	100.0
+taxongroup	Nep-db4d_7_sundews-10	Nep-db4d_7_plant-39	Nep-db4d_7_sundews-10_4871	7	Nep-db4d_7_plant-39_1402	7	0	sundews	Plants	100.0
+taxongroup	Pre-0725_37_sundew-15	Pre-0725_37_plants-2	Pre-0725_37_sundew-15_4871	37	Pre-0725_37_plants-2_1402	37	0	sundews	Plants	100.0
+taxongroup	Dro-4d9f_2_sundews-9	Dro-4d9f_2_plants-19	Dro-4d9f_2_sundews-9_4871	2	Dro-4d9f_2_plants-19_1402	2	0	sundews	Plants	100.0
+taxongroup	Dro-4d9f_97_sundews-5	Dro-4d9f_97_plant-26	Dro-4d9f_97_sundews-5_4871	97	Dro-4d9f_97_plant-26_1402	97	0	sundews	Plants	100.0
+taxongroup	Dro-4d9f_179_sundews-14	Dro-4d9f_179_plants-19	Dro-4d9f_179_sundews-14_4871	179	Dro-4d9f_179_plants-19_1402	179	0	sundews	Plants	100.0
+taxongroup	Dro-4d9f_79_sundews-4	Dro-4d9f_79_plants-11	Dro-4d9f_79_sundews-4_4871	79	Dro-4d9f_79_plants-11_1402	79	0	sundews	Plants	100.0
+taxongroup	Dro-4d9f_206_sundews-11	Dro-4d9f_206_plant-52	Dro-4d9f_206_sundews-11_4871	206	Dro-4d9f_206_plant-52_1402	206	0	sundews	Plants	100.0
+taxongroup	Flo-e790_35_sundews-2	Flo-e790_35_plants-17	Flo-e790_35_sundews-2_4871	35	Flo-e790_35_plants-17_1402	35	0	sundews	Plants	100.0
+taxongroup	Nepc012_2_sundews-3	Nepc012_2_plants-6	Nepc012_2_sundews-3_4871	2	Nepc012_2_plants-6_1402	2	0	sundews	Plants	100.0
+taxongroup	Dro1c12_3_sundews-20	Dro1c12_3_plant-29	Dro1c12_3_sundews-20_4871	3	Dro1c12_3_plant-29_1402	3	0	sundews	Plants	100.0
+taxongroup	Dro1c12_3_sundews-20	Dro1c12_3_plants-9	Dro1c12_3_sundews-20_4871	3	Dro1c12_3_plants-9_1402	3	0	sundews	Plants	100.0
+taxongroup	Bog-cdf9_45_sundews-5	Bog-cdf9_45_plants-2	Bog-cdf9_45_sundews-5_4871	45	Bog-cdf9_45_plants-2_1402	45	0	sundews	Plants	100.0
+taxongroup	Bog-cdf9_45_sundews-5	Bog-cdf9_45_plants-11	Bog-cdf9_45_sundews-5_4871	45	Bog-cdf9_45_plants-11_1402	45	0	sundews	Plants	100.0
+taxongroup	Dro-4d9f_23_sundew-18	Dro-4d9f_23_plants-31	Dro-4d9f_23_sundew-18_4871	23	Dro-4d9f_23_plants-31_1402	23	0	sundews	Plants	100.0
+taxongroup	Ven-77c9_45_sundews-30	Ven-77c9_45_plant-24	Ven-77c9_45_sundews-30_4871	45	Ven-77c9_45_plant-24_4553	45	0	sundews	plants	100.0
+taxongroup	Ven-77c9_105_sundews-29	Ven-77c9_105_plant-25	Ven-77c9_105_sundews-29_4871	105	Ven-77c9_105_plant-25_4553	105	0	sundews	plants	100.0
+taxongroup	Ven-77c9_105_sundews-29	Ven-77c9_105_plants-12	Ven-77c9_105_sundews-29_4871	105	Ven-77c9_105_plants-12_4553	105	0	sundews	plants	100.0
+taxongroup	Ven-77c9_4_sundews-16	Ven-77c9_4_plant-8	Ven-77c9_4_sundews-16_4871	4	Ven-77c9_4_plant-8_4553	4	0	sundews	plants	100.0
+taxongroup	Pre-0725_37_sundew-15	Pre-0725_37_plant-7	Pre-0725_37_sundew-15_4871	37	Pre-0725_37_plant-7_4553	37	0	sundews	plants	100.0
+taxongroup	Pla-2751_152_sundew-19	Pla-2751_152_plants-5	Pla-2751_152_sundew-19_4871	152	Pla-2751_152_plants-5_4553	152	0	sundews	plants	100.0
+taxongroup	Sag-0ea8_95_saguaro-9	Sag-0ea8_95_plants-19	Sag-0ea8_95_saguaro-9_5438	95	Sag-0ea8_95_plants-19_4971	95	0	saguaros	flowering plants	100.0
+taxongroup	Ros-4632_109_families-15	Ros-4632_109_plant-14	Ros-4632_109_families-15_4183	109	Ros-4632_109_plant-14_1402	109	0	rose family	Plants	100.0
+taxongroup	Cra-2aca_2_family-29	Cra-2aca_2_plant-25	Cra-2aca_2_family-29_4183	2	Cra-2aca_2_plant-25_4553	2	0	rose family	plants	100.0
+taxongroup	Ros-4632_109_family-3	Ros-4632_109_plant-14	Ros-4632_109_family-3_4183	109	Ros-4632_109_plant-14_4553	109	0	rose family	plants	100.0
+taxongroup	Sag-0ea8_91_saguaros-36	Sag-0ea8_91_plants-3	Sag-0ea8_91_saguaros-36_5438	91	Sag-0ea8_91_plants-3_1402	91	0	saguaros	Plants	100.0
+taxongroup	Sag-0ea8_77_saguaros-17	Sag-0ea8_77_plant-10	Sag-0ea8_77_saguaros-17_5438	77	Sag-0ea8_77_plant-10_1402	77	0	saguaros	Plants	100.0
+taxongroup	Sag-0ea8_96_saguaro-19	Sag-0ea8_96_plant-6	Sag-0ea8_96_saguaro-19_5438	96	Sag-0ea8_96_plant-6_1402	96	0	saguaros	Plants	100.0
+taxongroup	Des-000c_286_saguaro-3	Des-000c_286_plants-18	Des-000c_286_saguaro-3_5438	286	Des-000c_286_plants-18_1402	286	0	saguaros	Plants	100.0
+taxongroup	Sag-0ea8_96_saguaro-42	Sag-0ea8_96_plant-6	Sag-0ea8_96_saguaro-42_5438	96	Sag-0ea8_96_plant-6_1402	96	0	saguaros	Plants	100.0
+taxongroup	Sag-0ea8_158_saguaro-5	Sag-0ea8_158_plant-32	Sag-0ea8_158_saguaro-5_5438	158	Sag-0ea8_158_plant-32_1402	158	0	saguaros	Plants	100.0
+taxongroup	Urt-a4f1_190_nettle-3	Urt-a4f1_190_plant-12	Urt-a4f1_190_nettle-3_3913	190	Urt-a4f1_190_plant-12_1402	190	0	stinging nettle	Plants	100.0
+taxongroup	Ven-77c9_4_sundews-16	Ven-77c9_4_Droseraceae-28	Ven-77c9_4_sundews-16_4871	4	Ven-77c9_4_Droseraceae-28_572	4	0	sundews	Droseraceae	100.0
+taxongroup	Dro-4d9f_69_sundew-8	Dro-4d9f_69_plant-27	Dro-4d9f_69_sundew-8_4871	69	Dro-4d9f_69_plant-27_1402	69	0	sundews	Plants	100.0
+taxongroup	Ace-0af3_99_sycamore-9	Ace-0af3_99_plant-4	Ace-0af3_99_sycamore-9_4562	99	Ace-0af3_99_plant-4_4553	99	0	sycamore	plants	100.0
+taxongroup	Ace-0af3_60_sycamore-2	Ace-0af3_60_Acer-9	Ace-0af3_60_sycamore-2_4562	60	Ace-0af3_60_Acer-9_1131	60	0	sycamore	Acer 	100.0
+taxongroup	Ace-0af3_102_sycamore-26	Ace-0af3_102_Acer-31	Ace-0af3_102_sycamore-26_4562	102	Ace-0af3_102_Acer-31_1131	102	0	sycamore	Acer 	100.0
+taxongroup	Pap271d_4_poppies-2	Pap271d_4_plants-10	Pap271d_4_poppies-2_2985	4	Pap271d_4_plants-10_4553	4	0	Arctic poppy	plants	100.0
+taxongroup	Arc-b760_2_poppy-2	Arc-b760_2_Papaver-13	Arc-b760_2_poppy-2_2985	2	Arc-b760_2_Papaver-13_1190	2	0	Arctic poppy	Papaver	100.0
+taxongroup	Ace-0af3_2_sycamore-7	Ace-0af3_2_Acer-1	Ace-0af3_2_sycamore-7_4562	2	Ace-0af3_2_Acer-1_1131	2	0	sycamore	Acer 	100.0
+taxongroup	Ace-0af3_60_sycamore-2	Ace-0af3_60_Acer-11	Ace-0af3_60_sycamore-2_4562	60	Ace-0af3_60_Acer-11_1131	60	0	sycamore	Acer 	100.0
+taxongroup	Syc-34df_5_sycamore-146	Syc-34df_5_Acer-1	Syc-34df_5_sycamore-146_4562	5	Syc-34df_5_Acer-1_1131	5	0	sycamore	Acer 	100.0
+taxongroup	Syc-34df_5_sycamore-90	Syc-34df_5_Acer-1	Syc-34df_5_sycamore-90_4562	5	Syc-34df_5_Acer-1_1131	5	0	sycamore	Acer 	100.0
+taxongroup	Syc-34df_5_sycamore-110	Syc-34df_5_Acer-1	Syc-34df_5_sycamore-110_4562	5	Syc-34df_5_Acer-1_1131	5	0	sycamore	Acer 	100.0
+taxongroup	Syc-34df_5_sycamore-126	Syc-34df_5_Acer-1	Syc-34df_5_sycamore-126_4562	5	Syc-34df_5_Acer-1_1131	5	0	sycamore	Acer 	100.0
+taxongroup	Syc-34df_5_sycamore-132	Syc-34df_5_Acer-1	Syc-34df_5_sycamore-132_4562	5	Syc-34df_5_Acer-1_1131	5	0	sycamore	Acer 	100.0
+taxongroup	Syc-34df_5_sycamore-138	Syc-34df_5_Acer-1	Syc-34df_5_sycamore-138_4562	5	Syc-34df_5_Acer-1_1131	5	0	sycamore	Acer 	100.0
+taxongroup	Syc-34df_5_sycamore-96	Syc-34df_5_Acer-1	Syc-34df_5_sycamore-96_4562	5	Syc-34df_5_Acer-1_1131	5	0	sycamore	Acer 	100.0
+taxongroup	Syc-34df_5_sycamore-19	Syc-34df_5_Acer-1	Syc-34df_5_sycamore-19_4562	5	Syc-34df_5_Acer-1_1131	5	0	sycamore	Acer 	100.0
+taxongroup	Syc-34df_5_sycamore-58	Syc-34df_5_Acer-1	Syc-34df_5_sycamore-58_4562	5	Syc-34df_5_Acer-1_1131	5	0	sycamore	Acer 	100.0
+taxongroup	Syc-34df_5_sycamore-75	Syc-34df_5_Acer-1	Syc-34df_5_sycamore-75_4562	5	Syc-34df_5_Acer-1_1131	5	0	sycamore	Acer 	100.0
+taxongroup	Syc-34df_5_sycamore-84	Syc-34df_5_Acer-1	Syc-34df_5_sycamore-84_4562	5	Syc-34df_5_Acer-1_1131	5	0	sycamore	Acer 	100.0
+taxongroup	Syc-34df_5_sycamore-120	Syc-34df_5_Acer-1	Syc-34df_5_sycamore-120_4562	5	Syc-34df_5_Acer-1_1131	5	0	sycamore	Acer 	100.0
+taxongroup	Rho-d4a0_271_rhododendron-25	Rho-d4a0_271_plants-4	Rho-d4a0_271_rhododendron-25_5416	271	Rho-d4a0_271_plants-4_4553	271	0	rhododendrons	plants	100.0
+taxongroup	Red-e311_152_oak-11	Red-e311_152_plant-6	Red-e311_152_oak-11_4407	152	Red-e311_152_plant-6_4553	152	0	oaks	plants	100.0
+taxongroup	Fag-261e_10_oaks-18	Fag-261e_10_plant-10	Fag-261e_10_oaks-18_4407	10	Fag-261e_10_plant-10_1402	10	0	oaks	Plants	100.0
+taxongroup	Fag-261e_2_oaks-25	Fag-261e_2_plants-18	Fag-261e_2_oaks-25_4407	2	Fag-261e_2_plants-18_1402	2	0	oaks	Plants	100.0
+taxongroup	Nea-dd93_552_oak-39	Nea-dd93_552_plant-8	Nea-dd93_552_oak-39_4407	552	Nea-dd93_552_plant-8_1402	552	0	oaks	Plants	100.0
+taxongroup	Que-fbc5_2_oak-18	Que-fbc5_2_plant-13	Que-fbc5_2_oak-18_4407	2	Que-fbc5_2_plant-13_1402	2	0	oaks	Plants	100.0
+taxongroup	Que-fbc5_2_oak-6	Que-fbc5_2_plant-13	Que-fbc5_2_oak-6_4407	2	Que-fbc5_2_plant-13_1402	2	0	oaks	Plants	100.0
+taxongroup	She-572b_139_oaks-26	She-572b_139_plants-2	She-572b_139_oaks-26_4407	139	She-572b_139_plants-2_1402	139	0	oaks	Plants	100.0
+taxongroup	Fag0008_5_oaks-3	Fag0008_5_plants-13	Fag0008_5_oaks-3_4407	5	Fag0008_5_plants-13_1402	5	0	oaks	Plants	100.0
+taxongroup	Rho-d4a0_276_rhododendron-15	Rho-d4a0_276_plant-16	Rho-d4a0_276_rhododendron-15_5416	276	Rho-d4a0_276_plant-16_4553	276	0	rhododendrons	plants	100.0
+taxongroup	Bea-4f7a_142_oak-27	Bea-4f7a_142_plants-15	Bea-4f7a_142_oak-27_4407	142	Bea-4f7a_142_plants-15_1402	142	0	oaks	Plants	100.0
+taxongroup	Bur-9073_53_oak-27	Bur-9073_53_plants-17	Bur-9073_53_oak-27_4407	53	Bur-9073_53_plants-17_1402	53	0	oaks	Plants	100.0
+taxongroup	Dir-7dc2_150_oak-21	Dir-7dc2_150_plant-17	Dir-7dc2_150_oak-21_4407	150	Dir-7dc2_150_plant-17_1402	150	0	oaks	Plants	100.0
+taxongroup	Fag-261e_2_oaks-25	Fag-261e_2_Fagaceae-2	Fag-261e_2_oaks-25_4407	2	Fag-261e_2_Fagaceae-2_597	2	0	oaks	Fagaceae	100.0
+taxongroup	Oak-f2b6_135_oaks-11	Oak-f2b6_135_Fagaceae-2	Oak-f2b6_135_oaks-11_4407	135	Oak-f2b6_135_Fagaceae-2_597	135	0	oaks	Fagaceae	100.0
+taxongroup	Fag0008_2_oaks-3	Fag0008_2_Beeches-1	Fag0008_2_oaks-3_4407	2	Fag0008_2_Beeches-1_598	2	0	oaks	Beeches and oaks	100.0
+taxongroup	Rho-d4a0_234_rhododendron-38	Rho-d4a0_234_plant-35	Rho-d4a0_234_rhododendron-38_5416	234	Rho-d4a0_234_plant-35_1402	234	0	rhododendrons	Plants	100.0
+taxongroup	She-572b_139_rhododendron-39	She-572b_139_plants-2	She-572b_139_rhododendron-39_5416	139	She-572b_139_plants-2_1402	139	0	rhododendrons	Plants	100.0
+taxongroup	Rho-d4a0_327_rhododendrons-20	Rho-d4a0_327_plant-33	Rho-d4a0_327_rhododendrons-20_5416	327	Rho-d4a0_327_plant-33_1402	327	0	rhododendrons	Plants	100.0
+taxongroup	Rho-d4a0_230_rhododendrons-27	Rho-d4a0_230_plants-7	Rho-d4a0_230_rhododendrons-27_5416	230	Rho-d4a0_230_plants-7_1402	230	0	rhododendrons	Plants	100.0
+taxongroup	Rho-d4a0_238_rhododendrons-5	Rho-d4a0_238_plants-15	Rho-d4a0_238_rhododendrons-5_5416	238	Rho-d4a0_238_plants-15_1402	238	0	rhododendrons	Plants	100.0
+taxongroup	Fag-261e_2_Fagaceae-2	Fag-261e_2_plants-18	Fag-261e_2_Fagaceae-2_597	2	Fag-261e_2_plants-18_4553	2	0	Fagaceae	plants	100.0
+taxongroup	Ven-77c9_4_Droseraceae-28	Ven-77c9_4_plant-8	Ven-77c9_4_Droseraceae-28_572	4	Ven-77c9_4_plant-8_4553	4	0	Droseraceae	plants	100.0
+taxongroup	Dro-82dc_6_Droseraceae-1	Dro-82dc_6_plants-5	Dro-82dc_6_Droseraceae-1_572	6	Dro-82dc_6_plants-5_4553	6	0	Droseraceae	plants	100.0
+taxongroup	Dro-82dc_17_Droseraceae-9	Dro-82dc_17_plants-3	Dro-82dc_17_Droseraceae-9_572	17	Dro-82dc_17_plants-3_4553	17	0	Droseraceae	plants	100.0
+taxongroup	Rho-d4a0_536_rhododendron-4	Rho-d4a0_536_plants-32	Rho-d4a0_536_rhododendron-4_5416	536	Rho-d4a0_536_plants-32_1402	536	0	rhododendrons	Plants	100.0
+taxongroup	Rho-d4a0_276_rhododendrons-4	Rho-d4a0_276_plant-16	Rho-d4a0_276_rhododendrons-4_5416	276	Rho-d4a0_276_plant-16_1402	276	0	rhododendrons	Plants	100.0
+taxongroup	Rho-d4a0_244_rhododendrons-17	Rho-d4a0_244_plants-32	Rho-d4a0_244_rhododendrons-17_5416	244	Rho-d4a0_244_plants-32_4553	244	0	rhododendrons	plants	100.0
+taxongroup	Rho-d4a0_271_rhododendrons-7	Rho-d4a0_271_plants-4	Rho-d4a0_271_rhododendrons-7_5416	271	Rho-d4a0_271_plants-4_1402	271	0	rhododendrons	Plants	100.0
+taxongroup	Dicc45b_4_Dicotyledons-1	Dicc45b_4_plants-3	Dicc45b_4_Dicotyledons-1_391	4	Dicc45b_4_plants-3_4553	4	0	Dicotyledons	plants	100.0
+taxongroup	Dicc45b_1_Dicotyledons-1	Dicc45b_1_plants-11	Dicc45b_1_Dicotyledons-1_391	1	Dicc45b_1_plants-11_4553	1	0	Dicotyledons	plants	100.0
+taxongroup	Vio-0709_57_viola-7	Vio-0709_57_plant-8	Vio-0709_57_viola-7_5596	57	Vio-0709_57_plant-8_1402	57	0	viola	Plants	87.0
+taxongroup	Aca-0b77_63_Acacia-1	Aca-0b77_63_plant-9	Aca-0b77_63_Acacia-1_1411	63	Aca-0b77_63_plant-9_1402	63	0	Acacia	Plants	87.0
+taxongroup	Ter-605f_540_eucalyptus-9	Ter-605f_540_plants-6	Ter-605f_540_eucalyptus-9_4908	540	Ter-605f_540_plants-6_4553	540	0	eucalyptus	plants	87.0
+taxongroup	Koae12e_6_eucalyptus-8	Koae12e_6_plant-16	Koae12e_6_eucalyptus-8_4908	6	Koae12e_6_plant-16_4553	6	0	eucalyptus	plants	87.0
+taxongroup	Aca-0b77_61_Acacia-1	Aca-0b77_61_plants-11	Aca-0b77_61_Acacia-1_1411	61	Aca-0b77_61_plants-11_1402	61	0	Acacia	Plants	87.0
+taxongroup	Nep-5975_67_Nepenthes-2	Nep-5975_67_plant-33	Nep-5975_67_Nepenthes-2_2902	67	Nep-5975_67_plant-33_4553	67	0	Nepenthes	plants	87.0
+taxongroup	Man-d37a_71_Rhizophora-15	Man-d37a_71_plant-19	Man-d37a_71_Rhizophora-15_3219	71	Man-d37a_71_plant-19_1402	71	0	Rhizophora	Plants	87.0
+taxongroup	Man-d37a_134_Rhizophora-33	Man-d37a_134_plant-30	Man-d37a_134_Rhizophora-33_3219	134	Man-d37a_134_plant-30_4553	134	0	Rhizophora	plants	87.0
+taxongroup	Man-d37a_36_Rhizophora-53	Man-d37a_36_plant-10	Man-d37a_36_Rhizophora-53_3219	36	Man-d37a_36_plant-10_4553	36	0	Rhizophora	plants	87.0
+taxongroup	Rho-d4a0_302_Rhododendron-1	Rho-d4a0_302_plant-19	Rho-d4a0_302_Rhododendron-1_3221	302	Rho-d4a0_302_plant-19_1402	302	0	Rhododendron	Plants	87.0
+taxongroup	Rho-d4a0_2_Rhododendron-1	Rho-d4a0_2_plants-19	Rho-d4a0_2_Rhododendron-1_3221	2	Rho-d4a0_2_plants-19_1402	2	0	Rhododendron	Plants	87.0
+taxongroup	Rho-ff03_2_Rhododendron-1	Rho-ff03_2_plant-15	Rho-ff03_2_Rhododendron-1_3221	2	Rho-ff03_2_plant-15_1402	2	0	Rhododendron	Plants	87.0
+taxongroup	Rho-d4a0_234_Rhododendron-1	Rho-d4a0_234_plant-35	Rho-d4a0_234_Rhododendron-1_3221	234	Rho-d4a0_234_plant-35_1402	234	0	Rhododendron	Plants	87.0
+taxongroup	Rho-d4a0_230_Rhododendron-1	Rho-d4a0_230_plants-7	Rho-d4a0_230_Rhododendron-1_3221	230	Rho-d4a0_230_plants-7_1402	230	0	Rhododendron	Plants	87.0
+taxongroup	Tun-c63e_39_Rhododendron-39	Tun-c63e_39_plants-2	Tun-c63e_39_Rhododendron-39_3221	39	Tun-c63e_39_plants-2_1402	39	0	Rhododendron	Plants	87.0
+taxongroup	Tar-a465_157_Taraxacum-12	Tar-a465_157_plant-39	Tar-a465_157_Taraxacum-12_3468	157	Tar-a465_157_plant-39_1402	157	0	Taraxacum	Plants	87.0
+taxongroup	Tar-a465_11_Taraxacum-2	Tar-a465_11_plant-28	Tar-a465_11_Taraxacum-2_3468	11	Tar-a465_11_plant-28_1402	11	0	Taraxacum	Plants	87.0
+taxongroup	Cra-2aca_37_monogyna-2	Cra-2aca_37_Crataegus-1	Cra-2aca_37_monogyna-2_1984	37	Cra-2aca_37_Crataegus-1_993	37	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Urt-a4f1_170_dioica-2	Urt-a4f1_170_Urtica-1	Urt-a4f1_170_dioica-2_267	170	Urt-a4f1_170_Urtica-1_1171	170	0	Urtica dioica	Urtica	87.0
+taxongroup	Cra-2aca_35_monogyna-2	Cra-2aca_35_Crataegus-1	Cra-2aca_35_monogyna-2_1984	35	Cra-2aca_35_Crataegus-1_993	35	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Pas68f1_5_Passiflora-22	Pas68f1_5_plant-20	Pas68f1_5_Passiflora-22_3012	5	Pas68f1_5_plant-20_1402	5	0	Passiflora	Plants	87.0
+taxongroup	Hum-85c3_111_Passiflora-33	Hum-85c3_111_plant-30	Hum-85c3_111_Passiflora-33_3012	111	Hum-85c3_111_plant-30_1402	111	0	Passiflora	Plants	87.0
+taxongroup	Pas-0433_4_Passiflora-37	Pas-0433_4_plants-57	Pas-0433_4_Passiflora-37_3012	4	Pas-0433_4_plants-57_4553	4	0	Passiflora	plants	87.0
+taxongroup	Pas-0433_4_Passiflora-21	Pas-0433_4_plants-29	Pas-0433_4_Passiflora-21_3012	4	Pas-0433_4_plants-29_4553	4	0	Passiflora	plants	87.0
+taxongroup	Pas-0433_4_Passiflora-37	Pas-0433_4_plants-29	Pas-0433_4_Passiflora-37_3012	4	Pas-0433_4_plants-29_4553	4	0	Passiflora	plants	87.0
+taxongroup	Pas-0433_4_Passiflora-21	Pas-0433_4_plants-57	Pas-0433_4_Passiflora-21_3012	4	Pas-0433_4_plants-57_4553	4	0	Passiflora	plants	87.0
+taxongroup	Ven-77c9_2_muscipula-6	Ven-77c9_2_plant-11	Ven-77c9_2_muscipula-6_3604	2	Ven-77c9_2_plant-11_1402	2	0	Dionaea muscipula	Plants	87.0
+taxongroup	Pla-2751_152_muscipula-16	Pla-2751_152_plants-5	Pla-2751_152_muscipula-16_3604	152	Pla-2751_152_plants-5_1402	152	0	Dionaea muscipula	Plants	87.0
+taxongroup	Nep-5975_67_muscipula-29	Nep-5975_67_plant-33	Nep-5975_67_muscipula-29_3604	67	Nep-5975_67_plant-33_1402	67	0	Dionaea muscipula	Plants	87.0
+taxongroup	Ven-77c9_33_muscipula-47	Ven-77c9_33_plant-34	Ven-77c9_33_muscipula-47_3604	33	Ven-77c9_33_plant-34_1402	33	0	Dionaea muscipula	Plants	87.0
+taxongroup	Dro-82dc_30_muscipula-2	Dro-82dc_30_plant-16	Dro-82dc_30_muscipula-2_3604	30	Dro-82dc_30_plant-16_1402	30	0	Dionaea muscipula	Plants	87.0
+taxongroup	Hed-8dc6_39_monogyna-2	Hed-8dc6_39_Crataegus-1	Hed-8dc6_39_monogyna-2_1984	39	Hed-8dc6_39_Crataegus-1_993	39	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Whi-100a_49_monogyna-26	Whi-100a_49_Crataegus-25	Whi-100a_49_monogyna-26_1984	49	Whi-100a_49_Crataegus-25_993	49	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Oak-f2b6_101_robur-6	Oak-f2b6_101_Quercus-5	Oak-f2b6_101_robur-6_3154	101	Oak-f2b6_101_Quercus-5_1175	101	0	Quercus robur	Quercus	87.0
+taxongroup	Tar-a465_2_Taraxacum-1	Tar-a465_2_plants-10	Tar-a465_2_Taraxacum-1_3468	2	Tar-a465_2_plants-10_1402	2	0	Taraxacum	Plants	87.0
+taxongroup	Him-3e6b_27_Taraxacum-46	Him-3e6b_27_plant-18	Him-3e6b_27_Taraxacum-46_3468	27	Him-3e6b_27_plant-18_1402	27	0	Taraxacum	Plants	87.0
+taxongroup	Him-3e6b_27_Taraxacum-46	Him-3e6b_27_plants-4	Him-3e6b_27_Taraxacum-46_3468	27	Him-3e6b_27_plants-4_1402	27	0	Taraxacum	Plants	87.0
+taxongroup	Urt-a4f1_217_dioica-2	Urt-a4f1_217_Urtica-1	Urt-a4f1_217_dioica-2_267	217	Urt-a4f1_217_Urtica-1_1171	217	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_47_dioica-2	Urt-a4f1_47_Urtica-1	Urt-a4f1_47_dioica-2_267	47	Urt-a4f1_47_Urtica-1_1171	47	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_106_dioica-2	Urt-a4f1_106_Urtica-1	Urt-a4f1_106_dioica-2_267	106	Urt-a4f1_106_Urtica-1_1171	106	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_13_dioica-2	Urt-a4f1_13_Urtica-1	Urt-a4f1_13_dioica-2_267	13	Urt-a4f1_13_Urtica-1_1171	13	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_155_dioica-2	Urt-a4f1_155_Urtica-1	Urt-a4f1_155_dioica-2_267	155	Urt-a4f1_155_Urtica-1_1171	155	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_137_dioica-2	Urt-a4f1_137_Urtica-1	Urt-a4f1_137_dioica-2_267	137	Urt-a4f1_137_Urtica-1_1171	137	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_130_dioica-2	Urt-a4f1_130_Urtica-1	Urt-a4f1_130_dioica-2_267	130	Urt-a4f1_130_Urtica-1_1171	130	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_141_dioica-2	Urt-a4f1_141_Urtica-1	Urt-a4f1_141_dioica-2_267	141	Urt-a4f1_141_Urtica-1_1171	141	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_212_dioica-2	Urt-a4f1_212_Urtica-1	Urt-a4f1_212_dioica-2_267	212	Urt-a4f1_212_Urtica-1_1171	212	0	Urtica dioica	Urtica	87.0
+taxongroup	Cra-2aca_4_monogyna-2	Cra-2aca_4_Crataegus-1	Cra-2aca_4_monogyna-2_1984	4	Cra-2aca_4_Crataegus-1_993	4	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Cra-2aca_64_monogyna-2	Cra-2aca_64_Crataegus-1	Cra-2aca_64_monogyna-2_1984	64	Cra-2aca_64_Crataegus-1_993	64	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Cra-2aca_94_monogyna-2	Cra-2aca_94_Crataegus-1	Cra-2aca_94_monogyna-2_1984	94	Cra-2aca_94_Crataegus-1_993	94	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Cra-2aca_92_monogyna-2	Cra-2aca_92_Crataegus-1	Cra-2aca_92_monogyna-2_1984	92	Cra-2aca_92_Crataegus-1_993	92	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Urt-a4f1_1_dioica-2	Urt-a4f1_1_Urtica-1	Urt-a4f1_1_dioica-2_267	1	Urt-a4f1_1_Urtica-1_1171	1	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_179_dioica-2	Urt-a4f1_179_Urtica-1	Urt-a4f1_179_dioica-2_267	179	Urt-a4f1_179_Urtica-1_1171	179	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_193_dioica-2	Urt-a4f1_193_Urtica-1	Urt-a4f1_193_dioica-2_267	193	Urt-a4f1_193_Urtica-1_1171	193	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_176_dioica-2	Urt-a4f1_176_Urtica-1	Urt-a4f1_176_dioica-2_267	176	Urt-a4f1_176_Urtica-1_1171	176	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_6_dioica-2	Urt-a4f1_6_Urtica-1	Urt-a4f1_6_dioica-2_267	6	Urt-a4f1_6_Urtica-1_1171	6	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_68_dioica-2	Urt-a4f1_68_Urtica-1	Urt-a4f1_68_dioica-2_267	68	Urt-a4f1_68_Urtica-1_1171	68	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_229_dioica-2	Urt-a4f1_229_Urtica-1	Urt-a4f1_229_dioica-2_267	229	Urt-a4f1_229_Urtica-1_1171	229	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_97_dioica-2	Urt-a4f1_97_Urtica-1	Urt-a4f1_97_dioica-2_267	97	Urt-a4f1_97_Urtica-1_1171	97	0	Urtica dioica	Urtica	87.0
+taxongroup	Ulm-8a7b_93_procera-23	Ulm-8a7b_93_Ulmus-22	Ulm-8a7b_93_procera-23_3587	93	Ulm-8a7b_93_Ulmus-22_1015	93	0	Ulmus procera	Ulmus	87.0
+taxongroup	Ulm-8a7b_23_procera-2	Ulm-8a7b_23_Ulmus-1	Ulm-8a7b_23_procera-2_3587	23	Ulm-8a7b_23_Ulmus-1_1015	23	0	Ulmus procera	Ulmus	87.0
+taxongroup	Urt-a4f1_94_dioica-2	Urt-a4f1_94_Urtica-1	Urt-a4f1_94_dioica-2_267	94	Urt-a4f1_94_Urtica-1_1171	94	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_70_dioica-2	Urt-a4f1_70_Urtica-1	Urt-a4f1_70_dioica-2_267	70	Urt-a4f1_70_Urtica-1_1171	70	0	Urtica dioica	Urtica	87.0
+taxongroup	Cra-2aca_101_monogyna-2	Cra-2aca_101_Crataegus-1	Cra-2aca_101_monogyna-2_1984	101	Cra-2aca_101_Crataegus-1_993	101	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Urt-a4f1_215_dioica-2	Urt-a4f1_215_Urtica-1	Urt-a4f1_215_dioica-2_267	215	Urt-a4f1_215_Urtica-1_1171	215	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_72_dioica-2	Urt-a4f1_72_Urtica-1	Urt-a4f1_72_dioica-2_267	72	Urt-a4f1_72_Urtica-1_1171	72	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_59_dioica-2	Urt-a4f1_59_Urtica-1	Urt-a4f1_59_dioica-2_267	59	Urt-a4f1_59_Urtica-1_1171	59	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_43_dioica-2	Urt-a4f1_43_Urtica-1	Urt-a4f1_43_dioica-2_267	43	Urt-a4f1_43_Urtica-1_1171	43	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_124_dioica-2	Urt-a4f1_124_Urtica-1	Urt-a4f1_124_dioica-2_267	124	Urt-a4f1_124_Urtica-1_1171	124	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_234_dioica-2	Urt-a4f1_234_Urtica-1	Urt-a4f1_234_dioica-2_267	234	Urt-a4f1_234_Urtica-1_1171	234	0	Urtica dioica	Urtica	87.0
+taxongroup	Cra-2aca_45_monogyna-2	Cra-2aca_45_Crataegus-1	Cra-2aca_45_monogyna-2_1984	45	Cra-2aca_45_Crataegus-1_993	45	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Eng-0a3a_20_sylvatica-25	Eng-0a3a_20_Fagus-24	Eng-0a3a_20_sylvatica-25_2182	20	Eng-0a3a_20_Fagus-24_929	20	0	Fagus sylvatica	Fagus	87.0
+taxongroup	Ven-77c9_4_Drosera-18	Ven-77c9_4_plant-8	Ven-77c9_4_Drosera-18_2065	4	Ven-77c9_4_plant-8_4553	4	0	Drosera	plants	87.0
+taxongroup	Dro-82dc_20_Drosera-1	Dro-82dc_20_plants-10	Dro-82dc_20_Drosera-1_2065	20	Dro-82dc_20_plants-10_1402	20	0	Drosera	Plants	87.0
+taxongroup	Ven-77c9_162_Drosera-10	Ven-77c9_162_plant-4	Ven-77c9_162_Drosera-10_2065	162	Ven-77c9_162_plant-4_1402	162	0	Drosera	Plants	87.0
+taxongroup	Coc-29aa_177_Eucalyptus-34	Coc-29aa_177_plant-30	Coc-29aa_177_Eucalyptus-34_2131	177	Coc-29aa_177_plant-30_1402	177	0	Eucalyptus	Plants	87.0
+taxongroup	Nep-db4d_7_Drosera-8	Nep-db4d_7_plant-39	Nep-db4d_7_Drosera-8_2065	7	Nep-db4d_7_plant-39_1402	7	0	Drosera	Plants	87.0
+taxongroup	Hem-78f3_191_Eucalyptus-31	Hem-78f3_191_plant-29	Hem-78f3_191_Eucalyptus-31_2131	191	Hem-78f3_191_plant-29_4553	191	0	Eucalyptus	plants	87.0
+taxongroup	Euc-4c3e_243_Eucalyptus-4	Euc-4c3e_243_plant-29	Euc-4c3e_243_Eucalyptus-4_2131	243	Euc-4c3e_243_plant-29_4553	243	0	Eucalyptus	plants	87.0
+taxongroup	Euc-4c3e_284_Eucalyptus-11	Euc-4c3e_284_plants-12	Euc-4c3e_284_Eucalyptus-11_2131	284	Euc-4c3e_284_plants-12_4553	284	0	Eucalyptus	plants	87.0
+taxongroup	Euc-4c3e_68_Eucalyptus-11	Euc-4c3e_68_plant-12	Euc-4c3e_68_Eucalyptus-11_2131	68	Euc-4c3e_68_plant-12_4553	68	0	Eucalyptus	plants	87.0
+taxongroup	Euc-4c3e_2_Eucalyptus-1	Euc-4c3e_2_plants-14	Euc-4c3e_2_Eucalyptus-1_2131	2	Euc-4c3e_2_plants-14_4553	2	0	Eucalyptus	plants	87.0
+taxongroup	Euc-4c3e_5_Eucalyptus-5	Euc-4c3e_5_Plants-1	Euc-4c3e_5_Eucalyptus-5_2131	5	Euc-4c3e_5_Plants-1_4553	5	0	Eucalyptus	plants	87.0
+taxongroup	Ven-77c9_168_Drosera-27	Ven-77c9_168_plant-5	Ven-77c9_168_Drosera-27_2065	168	Ven-77c9_168_plant-5_1402	168	0	Drosera	Plants	87.0
+taxongroup	Eng-0a3a_21_sylvatica-17	Eng-0a3a_21_Fagus-16	Eng-0a3a_21_sylvatica-17_2182	21	Eng-0a3a_21_Fagus-16_929	21	0	Fagus sylvatica	Fagus	87.0
+taxongroup	Nep-5975_67_Drosera-22	Nep-5975_67_plant-33	Nep-5975_67_Drosera-22_2065	67	Nep-5975_67_plant-33_1402	67	0	Drosera	Plants	87.0
+taxongroup	Ven-77c9_164_Drosera-20	Ven-77c9_164_plants-6	Ven-77c9_164_Drosera-20_2065	164	Ven-77c9_164_plants-6_1402	164	0	Drosera	Plants	87.0
+taxongroup	Ven-77c9_169_Drosera-32	Ven-77c9_169_plant-6	Ven-77c9_169_Drosera-32_2065	169	Ven-77c9_169_plant-6_1402	169	0	Drosera	Plants	87.0
+taxongroup	Ven-77c9_99_Drosera-10	Ven-77c9_99_plants-13	Ven-77c9_99_Drosera-10_2065	99	Ven-77c9_99_plants-13_4553	99	0	Drosera	plants	87.0
+taxongroup	Dro-4d9f_6_Drosera-10	Dro-4d9f_6_plants-30	Dro-4d9f_6_Drosera-10_2065	6	Dro-4d9f_6_plants-30_4553	6	0	Drosera	plants	87.0
+taxongroup	Dro-4d9f_152_Drosera-25	Dro-4d9f_152_plants-26	Dro-4d9f_152_Drosera-25_2065	152	Dro-4d9f_152_plants-26_4553	152	0	Drosera	plants	87.0
+taxongroup	Ven-77c9_164_Drosera-17	Ven-77c9_164_plants-6	Ven-77c9_164_Drosera-17_2065	164	Ven-77c9_164_plants-6_4553	164	0	Drosera	plants	87.0
+taxongroup	Bog-cdf9_45_Drosera-7	Bog-cdf9_45_plants-2	Bog-cdf9_45_Drosera-7_2065	45	Bog-cdf9_45_plants-2_4553	45	0	Drosera	plants	87.0
+taxongroup	Dro-4d9f_2_Drosera-1	Dro-4d9f_2_plants-19	Dro-4d9f_2_Drosera-1_2065	2	Dro-4d9f_2_plants-19_4553	2	0	Drosera	plants	87.0
+taxongroup	Bog-cdf9_45_Drosera-7	Bog-cdf9_45_plants-11	Bog-cdf9_45_Drosera-7_2065	45	Bog-cdf9_45_plants-11_4553	45	0	Drosera	plants	87.0
+taxongroup	Dro-4d9f_6_Drosera-20	Dro-4d9f_6_plants-30	Dro-4d9f_6_Drosera-20_2065	6	Dro-4d9f_6_plants-30_4553	6	0	Drosera	plants	87.0
+taxongroup	Com-f222_530_sylvatica-15	Com-f222_530_Fagus-14	Com-f222_530_sylvatica-15_2182	530	Com-f222_530_Fagus-14_929	530	0	Fagus sylvatica	Fagus	87.0
+taxongroup	Hed-8dc6_51_sylvatica-13	Hed-8dc6_51_Fagus-12	Hed-8dc6_51_sylvatica-13_2182	51	Hed-8dc6_51_Fagus-12_929	51	0	Fagus sylvatica	Fagus	87.0
+taxongroup	Dro-82dc_19_Drosera-5	Dro-82dc_19_Droseraceae-1	Dro-82dc_19_Drosera-5_2065	19	Dro-82dc_19_Droseraceae-1_572	19	0	Drosera	Droseraceae	87.0
+taxongroup	Dro-82dc_71_Nepenthes-16	Dro-82dc_71_plants-6	Dro-82dc_71_Nepenthes-16_2902	71	Dro-82dc_71_plants-6_1402	71	0	Nepenthes	Plants	87.0
+taxongroup	Ven-77c9_52_Nepenthes-18	Ven-77c9_52_plants-14	Ven-77c9_52_Nepenthes-18_2902	52	Ven-77c9_52_plants-14_1402	52	0	Nepenthes	Plants	87.0
+taxongroup	Nep-5975_202_Nepenthes-12	Nep-5975_202_plants-35	Nep-5975_202_Nepenthes-12_2902	202	Nep-5975_202_plants-35_1402	202	0	Nepenthes	Plants	87.0
+taxongroup	Nep-5975_159_Nepenthes-18	Nep-5975_159_plants-13	Nep-5975_159_Nepenthes-18_2902	159	Nep-5975_159_plants-13_1402	159	0	Nepenthes	Plants	87.0
+taxongroup	Nep-5975_70_Nepenthes-4	Nep-5975_70_plants-7	Nep-5975_70_Nepenthes-4_2902	70	Nep-5975_70_plants-7_1402	70	0	Nepenthes	Plants	87.0
+taxongroup	Dro-82dc_48_Drosera-18	Dro-82dc_48_Droseraceae-12	Dro-82dc_48_Drosera-18_2065	48	Dro-82dc_48_Droseraceae-12_572	48	0	Drosera	Droseraceae	87.0
+taxongroup	Ven-77c9_4_Drosera-18	Ven-77c9_4_Droseraceae-28	Ven-77c9_4_Drosera-18_2065	4	Ven-77c9_4_Droseraceae-28_572	4	0	Drosera	Droseraceae	87.0
+taxongroup	Hyp-feb0_24_perforatum-7	Hyp-feb0_24_Hypericum-6	Hyp-feb0_24_perforatum-7_3429	24	Hyp-feb0_24_Hypericum-6_1083	24	0	Hypericum perforatum	Hypericum	87.0
+taxongroup	Fag-86d1_91_sylvatica-82	Fag-86d1_91_Fagus-36	Fag-86d1_91_sylvatica-82_2182	91	Fag-86d1_91_Fagus-36_929	91	0	Fagus sylvatica	Fagus	87.0
+taxongroup	Fag-86d1_91_sylvatica-82	Fag-86d1_91_Fagus-22	Fag-86d1_91_sylvatica-82_2182	91	Fag-86d1_91_Fagus-22_929	91	0	Fagus sylvatica	Fagus	87.0
+taxongroup	Fag-86d1_91_sylvatica-48	Fag-86d1_91_Fagus-81	Fag-86d1_91_sylvatica-48_2182	91	Fag-86d1_91_Fagus-81_929	91	0	Fagus sylvatica	Fagus	87.0
+taxongroup	Fag-86d1_91_sylvatica-48	Fag-86d1_91_Fagus-36	Fag-86d1_91_sylvatica-48_2182	91	Fag-86d1_91_Fagus-36_929	91	0	Fagus sylvatica	Fagus	87.0
+taxongroup	Fag-86d1_91_sylvatica-48	Fag-86d1_91_Fagus-22	Fag-86d1_91_sylvatica-48_2182	91	Fag-86d1_91_Fagus-22_929	91	0	Fagus sylvatica	Fagus	87.0
+taxongroup	Fag-86d1_91_sylvatica-82	Fag-86d1_91_Fagus-81	Fag-86d1_91_sylvatica-82_2182	91	Fag-86d1_91_Fagus-81_929	91	0	Fagus sylvatica	Fagus	87.0
+taxongroup	Hyp-f6cf_63_perforatum-8	Hyp-f6cf_63_Hypericum-7	Hyp-f6cf_63_perforatum-8_3429	63	Hyp-f6cf_63_Hypericum-7_1083	63	0	Hypericum perforatum	Hypericum	87.0
+taxongroup	Hyp-f6cf_50_perforatum-8	Hyp-f6cf_50_Hypericum-7	Hyp-f6cf_50_perforatum-8_3429	50	Hyp-f6cf_50_Hypericum-7_1083	50	0	Hypericum perforatum	Hypericum	87.0
+taxongroup	Hyp-f6cf_234_perforatum-10	Hyp-f6cf_234_Hypericum-9	Hyp-f6cf_234_perforatum-10_3429	234	Hyp-f6cf_234_Hypericum-9_1083	234	0	Hypericum perforatum	Hypericum	87.0
+taxongroup	Urt-a4f1_184_dioica-2	Urt-a4f1_184_Urtica-1	Urt-a4f1_184_dioica-2_267	184	Urt-a4f1_184_Urtica-1_1171	184	0	Urtica dioica	Urtica	87.0
+taxongroup	Urt-a4f1_104_dioica-2	Urt-a4f1_104_Urtica-1	Urt-a4f1_104_dioica-2_267	104	Urt-a4f1_104_Urtica-1_1171	104	0	Urtica dioica	Urtica	87.0
+taxongroup	Ace-0af3_161_pseudoplatanus-2	Ace-0af3_161_Acer-1	Ace-0af3_161_pseudoplatanus-2_1418	161	Ace-0af3_161_Acer-1_1131	161	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_114_pseudoplatanus-13	Ace-0af3_114_Acer-12	Ace-0af3_114_pseudoplatanus-13_1418	114	Ace-0af3_114_Acer-12_1131	114	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_1_pseudoplatanus-2	Ace-0af3_1_Acer-1	Ace-0af3_1_pseudoplatanus-2_1418	1	Ace-0af3_1_Acer-1_1131	1	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_19_pseudoplatanus-2	Ace-0af3_19_Acer-1	Ace-0af3_19_pseudoplatanus-2_1418	19	Ace-0af3_19_Acer-1_1131	19	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_196_pseudoplatanus-3	Ace-0af3_196_Acer-2	Ace-0af3_196_pseudoplatanus-3_1418	196	Ace-0af3_196_Acer-2_1131	196	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_169_pseudoplatanus-2	Ace-0af3_169_Acer-1	Ace-0af3_169_pseudoplatanus-2_1418	169	Ace-0af3_169_Acer-1_1131	169	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_21_pseudoplatanus-2	Ace-0af3_21_Acer-1	Ace-0af3_21_pseudoplatanus-2_1418	21	Ace-0af3_21_Acer-1_1131	21	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_165_pseudoplatanus-17	Ace-0af3_165_Acer-16	Ace-0af3_165_pseudoplatanus-17_1418	165	Ace-0af3_165_Acer-16_1131	165	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_115_pseudoplatanus-2	Ace-0af3_115_Acer-1	Ace-0af3_115_pseudoplatanus-2_1418	115	Ace-0af3_115_Acer-1_1131	115	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_174_pseudoplatanus-2	Ace-0af3_174_Acer-1	Ace-0af3_174_pseudoplatanus-2_1418	174	Ace-0af3_174_Acer-1_1131	174	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_48_pseudoplatanus-2	Ace-0af3_48_Acer-1	Ace-0af3_48_pseudoplatanus-2_1418	48	Ace-0af3_48_Acer-1_1131	48	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_62_pseudoplatanus-2	Ace-0af3_62_Acer-1	Ace-0af3_62_pseudoplatanus-2_1418	62	Ace-0af3_62_Acer-1_1131	62	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_132_pseudoplatanus-2	Ace-0af3_132_Acer-1	Ace-0af3_132_pseudoplatanus-2_1418	132	Ace-0af3_132_Acer-1_1131	132	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Syc-34df_5_pseudoplatanus-2	Syc-34df_5_Acer-1	Syc-34df_5_pseudoplatanus-2_1418	5	Syc-34df_5_Acer-1_1131	5	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Sym-a4bb_149_Acacia-21	Sym-a4bb_149_plants-32	Sym-a4bb_149_Acacia-21_1411	149	Sym-a4bb_149_plants-32_4553	149	0	Acacia	plants	87.0
+taxongroup	Swa-32cf_21_Acacia-10	Swa-32cf_21_plant-20	Swa-32cf_21_Acacia-10_1411	21	Swa-32cf_21_plant-20_4553	21	0	Acacia	plants	87.0
+taxongroup	Bla-2fe0_156_Acacia-7	Bla-2fe0_156_plants-13	Bla-2fe0_156_Acacia-7_1411	156	Bla-2fe0_156_plants-13_4553	156	0	Acacia	plants	87.0
+taxongroup	Mat-e5e5_96_Acacia-20	Mat-e5e5_96_plants-8	Mat-e5e5_96_Acacia-20_1411	96	Mat-e5e5_96_plants-8_4553	96	0	Acacia	plants	87.0
+taxongroup	Afr-7a1b_33_Acacia-6	Afr-7a1b_33_plant-18	Afr-7a1b_33_Acacia-6_1411	33	Afr-7a1b_33_plant-18_4553	33	0	Acacia	plants	87.0
+taxongroup	Sym-a4bb_149_Acacia-21	Sym-a4bb_149_plant-11	Sym-a4bb_149_Acacia-21_1411	149	Sym-a4bb_149_plant-11_4553	149	0	Acacia	plants	87.0
+taxongroup	Aca0c5a_2_Acacia-1	Aca0c5a_2_plant-2	Aca0c5a_2_Acacia-1_1411	2	Aca0c5a_2_plant-2_4553	2	0	Acacia	plants	87.0
+taxongroup	Dar-3710_15_Viola-25	Dar-3710_15_plants-20	Dar-3710_15_Viola-25_3613	15	Dar-3710_15_plants-20_4553	15	0	Viola	plants	87.0
+taxongroup	Ace-0af3_190_pseudoplatanus-2	Ace-0af3_190_Acer-1	Ace-0af3_190_pseudoplatanus-2_1418	190	Ace-0af3_190_Acer-1_1131	190	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_2_pseudoplatanus-2	Ace-0af3_2_Acer-1	Ace-0af3_2_pseudoplatanus-2_1418	2	Ace-0af3_2_Acer-1_1131	2	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Aca-0b77_83_Acacia-10	Aca-0b77_83_plants-21	Aca-0b77_83_Acacia-10_1411	83	Aca-0b77_83_plants-21_4553	83	0	Acacia	plants	87.0
+taxongroup	Ace-0af3_85_pseudoplatanus-2	Ace-0af3_85_Acer-1	Ace-0af3_85_pseudoplatanus-2_1418	85	Ace-0af3_85_Acer-1_1131	85	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Dar-3710_15_Viola-28	Dar-3710_15_plants-20	Dar-3710_15_Viola-28_3613	15	Dar-3710_15_plants-20_4553	15	0	Viola	plants	87.0
+taxongroup	Hum-c8da_67_Viola-16	Hum-c8da_67_plants-4	Hum-c8da_67_Viola-16_3613	67	Hum-c8da_67_plants-4_4553	67	0	Viola	plants	87.0
+taxongroup	Pan-c6cc_2_Viola-5	Pan-c6cc_2_plant-18	Pan-c6cc_2_Viola-5_3613	2	Pan-c6cc_2_plant-18_4553	2	0	Viola	plants	87.0
+taxongroup	Gal-cdcd_68_Viola-11	Gal-cdcd_68_plant-23	Gal-cdcd_68_Viola-11_3613	68	Gal-cdcd_68_plant-23_4553	68	0	Viola	plants	87.0
+taxongroup	Vio-0709_9_Viola-1	Vio-0709_9_plant-6	Vio-0709_9_Viola-1_3613	9	Vio-0709_9_plant-6_4553	9	0	Viola	plants	87.0
+taxongroup	Aca-0b77_83_acacia-4	Aca-0b77_83_plants-21	Aca-0b77_83_acacia-4_4559	83	Aca-0b77_83_plants-21_1402	83	0	acacia	Plants	87.0
+taxongroup	Aca0c5a_1_acacia-17	Aca0c5a_1_plants-18	Aca0c5a_1_acacia-17_4559	1	Aca0c5a_1_plants-18_1402	1	0	acacia	Plants	87.0
+taxongroup	Sym-a4bb_149_acacia-2	Sym-a4bb_149_plants-32	Sym-a4bb_149_acacia-2_4559	149	Sym-a4bb_149_plants-32_1402	149	0	acacia	Plants	87.0
+taxongroup	Gir-427d_11_acacia-16	Gir-427d_11_plants-13	Gir-427d_11_acacia-16_4559	11	Gir-427d_11_plants-13_1402	11	0	acacia	Plants	87.0
+taxongroup	Sym-a4bb_149_acacia-2	Sym-a4bb_149_plant-11	Sym-a4bb_149_acacia-2_4559	149	Sym-a4bb_149_plant-11_1402	149	0	acacia	Plants	87.0
+taxongroup	Pan-c6cc_13_Viola-16	Pan-c6cc_13_plants-6	Pan-c6cc_13_Viola-16_3613	13	Pan-c6cc_13_plants-6_4553	13	0	Viola	plants	87.0
+taxongroup	Aes-55d6_23_hippocastanum-6	Aes-55d6_23_Aesculus-5	Aes-55d6_23_hippocastanum-6_1440	23	Aes-55d6_23_Aesculus-5_879	23	0	Aesculus hippocastanum	Aesculus	87.0
+taxongroup	Ace-0af3_182_pseudoplatanus-2	Ace-0af3_182_Acer-1	Ace-0af3_182_pseudoplatanus-2_1418	182	Ace-0af3_182_Acer-1_1131	182	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_152_pseudoplatanus-2	Ace-0af3_152_Acer-1	Ace-0af3_152_pseudoplatanus-2_1418	152	Ace-0af3_152_Acer-1_1131	152	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_192_pseudoplatanus-2	Ace-0af3_192_Acer-1	Ace-0af3_192_pseudoplatanus-2_1418	192	Ace-0af3_192_Acer-1_1131	192	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_30_pseudoplatanus-2	Ace-0af3_30_Acer-1	Ace-0af3_30_pseudoplatanus-2_1418	30	Ace-0af3_30_Acer-1_1131	30	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_154_pseudoplatanus-2	Ace-0af3_154_Acer-1	Ace-0af3_154_pseudoplatanus-2_1418	154	Ace-0af3_154_Acer-1_1131	154	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Ace-0af3_117_pseudoplatanus-2	Ace-0af3_117_Acer-1	Ace-0af3_117_pseudoplatanus-2_1418	117	Ace-0af3_117_Acer-1_1131	117	0	Acer pseudoplatanus	Acer 	87.0
+taxongroup	Aca-0b77_83_Acacia-13	Aca-0b77_83_plants-21	Aca-0b77_83_Acacia-13_1411	83	Aca-0b77_83_plants-21_4553	83	0	Acacia	plants	87.0
+taxongroup	Aca-0b77_83_Acacia-7	Aca-0b77_83_plants-21	Aca-0b77_83_Acacia-7_1411	83	Aca-0b77_83_plants-21_4553	83	0	Acacia	plants	87.0
+taxongroup	Cra-2aca_49_monogyna-2	Cra-2aca_49_Crataegus-1	Cra-2aca_49_monogyna-2_1984	49	Cra-2aca_49_Crataegus-1_993	49	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Vio-0709_138_Viola-50	Vio-0709_138_Plants-45	Vio-0709_138_Viola-50_3613	138	Vio-0709_138_Plants-45_1402	138	0	Viola	Plants	87.0
+taxongroup	Vio-0709_138_Viola-4	Vio-0709_138_Plants-45	Vio-0709_138_Viola-4_3613	138	Vio-0709_138_Plants-45_1402	138	0	Viola	Plants	87.0
+taxongroup	Vio-0709_138_Viola-11	Vio-0709_138_Plants-45	Vio-0709_138_Viola-11_3613	138	Vio-0709_138_Plants-45_1402	138	0	Viola	Plants	87.0
+taxongroup	Vio-0709_38_Viola-15	Vio-0709_38_plants-12	Vio-0709_38_Viola-15_3613	38	Vio-0709_38_plants-12_1402	38	0	Viola	Plants	87.0
+taxongroup	Urt-a4f1_157_dioica-2	Urt-a4f1_157_Urtica-1	Urt-a4f1_157_dioica-2_267	157	Urt-a4f1_157_Urtica-1_1171	157	0	Urtica dioica	Urtica	87.0
+taxongroup	Cra-2aca_1_monogyna-2	Cra-2aca_1_Crataegus-1	Cra-2aca_1_monogyna-2_1984	1	Cra-2aca_1_Crataegus-1_993	1	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Cra-2aca_23_monogyna-2	Cra-2aca_23_Crataegus-1	Cra-2aca_23_monogyna-2_1984	23	Cra-2aca_23_Crataegus-1_993	23	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Cra-2aca_88_monogyna-2	Cra-2aca_88_Crataegus-1	Cra-2aca_88_monogyna-2_1984	88	Cra-2aca_88_Crataegus-1_993	88	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Cra-2aca_55_monogyna-2	Cra-2aca_55_Crataegus-1	Cra-2aca_55_monogyna-2_1984	55	Cra-2aca_55_Crataegus-1_993	55	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Cra-2aca_28_monogyna-2	Cra-2aca_28_Crataegus-1	Cra-2aca_28_monogyna-2_1984	28	Cra-2aca_28_Crataegus-1_993	28	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Cra-2aca_33_monogyna-2	Cra-2aca_33_Crataegus-1	Cra-2aca_33_monogyna-2_1984	33	Cra-2aca_33_Crataegus-1_993	33	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Vio-0709_14_Viola-18	Vio-0709_14_plant-2	Vio-0709_14_Viola-18_3613	14	Vio-0709_14_plant-2_1402	14	0	Viola	Plants	87.0
+taxongroup	Gal-cdcd_68_Viola-8	Gal-cdcd_68_plant-23	Gal-cdcd_68_Viola-8_3613	68	Gal-cdcd_68_plant-23_1402	68	0	Viola	Plants	87.0
+taxongroup	Vio-0709_34_Viola-4	Vio-0709_34_plant-18	Vio-0709_34_Viola-4_3613	34	Vio-0709_34_plant-18_1402	34	0	Viola	Plants	87.0
+taxongroup	Cra-2aca_74_monogyna-2	Cra-2aca_74_Crataegus-1	Cra-2aca_74_monogyna-2_1984	74	Cra-2aca_74_Crataegus-1_993	74	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Cra-2aca_10_monogyna-2	Cra-2aca_10_Crataegus-1	Cra-2aca_10_monogyna-2_1984	10	Cra-2aca_10_Crataegus-1_993	10	0	Crataegus monogyna	Crataegus	87.0
+taxongroup	Vio-0709_50_Viola-4	Vio-0709_50_plant-3	Vio-0709_50_Viola-4_3613	50	Vio-0709_50_plant-3_4553	50	0	Viola	plants	87.0
+taxongroup	Vio-ae2e_147_Viola-27	Vio-ae2e_147_Violaceae-2	Vio-ae2e_147_Viola-27_3613	147	Vio-ae2e_147_Violaceae-2_865	147	0	Viola	Violaceae	87.0
+taxongroup	Ulm-8a7b_2_elm-22	Ulm-8a7b_2_Ulmus-5	Ulm-8a7b_2_elm-22_3588	2	Ulm-8a7b_2_Ulmus-5_1015	2	0	Atinian elm	Ulmus	83.0
+taxongroup	Ace-0af3_2_maple-26	Ace-0af3_2_Acer-1	Ace-0af3_2_maple-26_4564	2	Ace-0af3_2_Acer-1_1131	2	0	sycamore maple	Acer 	83.0
+taxongroup	Ace-0af3_2_maple-16	Ace-0af3_2_Acer-1	Ace-0af3_2_maple-16_4564	2	Ace-0af3_2_Acer-1_1131	2	0	sycamore maple	Acer 	83.0
+taxongroup	Ace-0af3_103_maple-24	Ace-0af3_103_Acer-26	Ace-0af3_103_maple-24_4564	103	Ace-0af3_103_Acer-26_1131	103	0	sycamore maple	Acer 	83.0
+taxongroup	Pas-a544_2_vines-11	Pas-a544_2_plants-22	Pas-a544_2_vines-11_5317	2	Pas-a544_2_plants-22_4553	2	0	passion vines	plants	83.0
+taxongroup	Ulm-8a7b_2_elm-18	Ulm-8a7b_2_Ulmus-5	Ulm-8a7b_2_elm-18_3588	2	Ulm-8a7b_2_Ulmus-5_1015	2	0	Atinian elm	Ulmus	83.0
+taxongroup	Urt-a4f1_2_nettle-32	Urt-a4f1_2_plant-41	Urt-a4f1_2_nettle-32_268	2	Urt-a4f1_2_plant-41_4553	2	0	Common nettle	plants	83.0
+taxongroup	Urt-a4f1_2_nettle-14	Urt-a4f1_2_plants-19	Urt-a4f1_2_nettle-14_268	2	Urt-a4f1_2_plants-19_1402	2	0	Common nettle	Plants	83.0
+taxongroup	Bea-3c60_101_nettle-21	Bea-3c60_101_plants-32	Bea-3c60_101_nettle-21_268	101	Bea-3c60_101_plants-32_1402	101	0	Common nettle	Plants	83.0
+taxongroup	Urt-a4f1_2_nettle-14	Urt-a4f1_2_Urtica-1	Urt-a4f1_2_nettle-14_268	2	Urt-a4f1_2_Urtica-1_1171	2	0	Common nettle	Urtica	83.0
+taxongroup	Urt-a4f1_2_nettle-8	Urt-a4f1_2_Urtica-1	Urt-a4f1_2_nettle-8_268	2	Urt-a4f1_2_Urtica-1_1171	2	0	Common nettle	Urtica	83.0
+taxongroup	Urt-a4f1_2_nettle-11	Urt-a4f1_2_Urtica-1	Urt-a4f1_2_nettle-11_268	2	Urt-a4f1_2_Urtica-1_1171	2	0	Common nettle	Urtica	83.0
+taxongroup	Urt-a4f1_2_nettle-32	Urt-a4f1_2_Urtica-1	Urt-a4f1_2_nettle-32_268	2	Urt-a4f1_2_Urtica-1_1171	2	0	Common nettle	Urtica	83.0
+taxongroup	Urt-a4f1_2_nettle-14	Urt-a4f1_2_Urticaceae-45	Urt-a4f1_2_nettle-14_268	2	Urt-a4f1_2_Urticaceae-45_858	2	0	Common nettle	Urticaceae	83.0
+taxongroup	Urt-a4f1_2_nettle-32	Urt-a4f1_2_Urticaceae-45	Urt-a4f1_2_nettle-32_268	2	Urt-a4f1_2_Urticaceae-45_858	2	0	Common nettle	Urticaceae	83.0
+taxongroup	Urt-a4f1_2_nettle-11	Urt-a4f1_2_Urticaceae-45	Urt-a4f1_2_nettle-11_268	2	Urt-a4f1_2_Urticaceae-45_858	2	0	Common nettle	Urticaceae	83.0
+taxongroup	Urt-a4f1_2_nettle-8	Urt-a4f1_2_Urticaceae-45	Urt-a4f1_2_nettle-8_268	2	Urt-a4f1_2_Urticaceae-45_858	2	0	Common nettle	Urticaceae	83.0
+taxongroup	Urt-a4f1_2_nettle-32	Urt-a4f1_2_plants-19	Urt-a4f1_2_nettle-32_268	2	Urt-a4f1_2_plants-19_4553	2	0	Common nettle	plants	83.0
+taxongroup	Urt-a4f1_2_nettle-11	Urt-a4f1_2_plant-41	Urt-a4f1_2_nettle-11_268	2	Urt-a4f1_2_plant-41_4553	2	0	Common nettle	plants	83.0
+taxongroup	Urt-a4f1_2_nettle-8	Urt-a4f1_2_plant-41	Urt-a4f1_2_nettle-8_268	2	Urt-a4f1_2_plant-41_4553	2	0	Common nettle	plants	83.0
+taxongroup	Urt-a4f1_2_nettle-8	Urt-a4f1_2_plants-19	Urt-a4f1_2_nettle-8_268	2	Urt-a4f1_2_plants-19_4553	2	0	Common nettle	plants	83.0
+taxongroup	Urt-a4f1_2_nettle-14	Urt-a4f1_2_plant-41	Urt-a4f1_2_nettle-14_268	2	Urt-a4f1_2_plant-41_4553	2	0	Common nettle	plants	83.0
+taxongroup	Urt-a4f1_2_nettle-11	Urt-a4f1_2_plants-19	Urt-a4f1_2_nettle-11_268	2	Urt-a4f1_2_plants-19_4553	2	0	Common nettle	plants	83.0
+taxongroup	Ros-0df4_145_roses-2	Ros-0df4_145_plants-5	Ros-0df4_145_roses-2_4184	145	Ros-0df4_145_plants-5_4553	145	0	roses	plants	83.0
+taxongroup	Ros-0df4_9_roses-10	Ros-0df4_9_plants-2	Ros-0df4_9_roses-10_4184	9	Ros-0df4_9_plants-2_4553	9	0	roses	plants	83.0
+taxongroup	Ade3c58_2_roses-2	Ade3c58_2_plants-6	Ade3c58_2_roses-2_4184	2	Ade3c58_2_plants-6_4553	2	0	roses	plants	83.0
+taxongroup	Ros-4632_109_roses-48	Ros-4632_109_plant-14	Ros-4632_109_roses-48_4184	109	Ros-4632_109_plant-14_1402	109	0	roses	Plants	83.0
+taxongroup	Nar-e858_506_roses-13	Nar-e858_506_plants-10	Nar-e858_506_roses-13_4184	506	Nar-e858_506_plants-10_1402	506	0	roses	Plants	83.0
+taxongroup	Ulm-8a7b_2_elm-48	Ulm-8a7b_2_Ulmus-5	Ulm-8a7b_2_elm-48_3588	2	Ulm-8a7b_2_Ulmus-5_1015	2	0	Atinian elm	Ulmus	83.0
+taxongroup	Ulm-8a7b_2_elm-3	Ulm-8a7b_2_Ulmus-5	Ulm-8a7b_2_elm-3_3588	2	Ulm-8a7b_2_Ulmus-5_1015	2	0	Atinian elm	Ulmus	83.0
+taxongroup	Ulm-8a7b_2_elm-32	Ulm-8a7b_2_Ulmus-5	Ulm-8a7b_2_elm-32_3588	2	Ulm-8a7b_2_Ulmus-5_1015	2	0	Atinian elm	Ulmus	83.0
+taxongroup	Engedc7_6_Beech-1	Engedc7_6_plants-18	Engedc7_6_Beech-1_2183	6	Engedc7_6_plants-18_1402	6	0	Beech	Plants	83.0
+taxongroup	Bee-f189_140_Beech-1	Bee-f189_140_plants-10	Bee-f189_140_Beech-1_2183	140	Bee-f189_140_plants-10_1402	140	0	Beech	Plants	83.0
+taxongroup	Fag-86d1_2_beech-6	Fag-86d1_2_family-20	Fag-86d1_2_beech-6_2181	2	Fag-86d1_2_family-20_4106	2	0	Common beech	beech family	83.0
+taxongroup	Fag-86d1_2_beech-19	Fag-86d1_2_family-20	Fag-86d1_2_beech-19_2181	2	Fag-86d1_2_family-20_4106	2	0	Common beech	beech family	83.0
+taxongroup	Fag-86d1_2_beech-9	Fag-86d1_2_family-20	Fag-86d1_2_beech-9_2181	2	Fag-86d1_2_family-20_4106	2	0	Common beech	beech family	83.0
+taxongroup	Ada-8b4f_68_baobab-3	Ada-8b4f_68_angiosperm-21	Ada-8b4f_68_baobab-3_4565	68	Ada-8b4f_68_angiosperm-21_4972	68	0	baobabs	angiosperms 	83.0
+taxongroup	Bla0b20_3_brambles-6	Bla0b20_3_plants-15	Bla0b20_3_brambles-6_4680	3	Bla0b20_3_plants-15_4553	3	0	bramble	plants	83.0
+taxongroup	Bla-30a4_131_brambles-24	Bla-30a4_131_plant-44	Bla-30a4_131_brambles-24_4680	131	Bla-30a4_131_plant-44_4553	131	0	bramble	plants	83.0
+taxongroup	Bla-30a4_131_brambles-24	Bla-30a4_131_plants-29	Bla-30a4_131_brambles-24_4680	131	Bla-30a4_131_plants-29_4553	131	0	bramble	plants	83.0
+taxongroup	Rub-3ec2_2_brambles-29	Rub-3ec2_2_plants-10	Rub-3ec2_2_brambles-29_4680	2	Rub-3ec2_2_plants-10_4553	2	0	bramble	plants	83.0
+taxongroup	Rub-3ec2_2_brambles-29	Rub-3ec2_2_Rosaceae-16	Rub-3ec2_2_brambles-29_4680	2	Rub-3ec2_2_Rosaceae-16_782	2	0	bramble	Rosaceae	83.0
+taxongroup	Ros-4632_109_blackberries-41	Ros-4632_109_roses-48	Ros-4632_109_blackberries-41_4679	109	Ros-4632_109_roses-48_4184	109	0	blackberry	roses	83.0
+taxongroup	Que-fbc5_2_family-19	Que-fbc5_2_plant-13	Que-fbc5_2_family-19_4106	2	Que-fbc5_2_plant-13_4553	2	0	beech family	plants	83.0
+taxongroup	Que-fbc5_2_beech-16	Que-fbc5_2_plant-13	Que-fbc5_2_beech-16_4930	2	Que-fbc5_2_plant-13_4553	2	0	beech	plants	83.0
+taxongroup	Fag-86d1_43_beech-2	Fag-86d1_43_plant-11	Fag-86d1_43_beech-2_4930	43	Fag-86d1_43_plant-11_4553	43	0	beech	plants	83.0
+taxongroup	Nor-c9d9_216_beech-9	Nor-c9d9_216_plant-33	Nor-c9d9_216_beech-9_4930	216	Nor-c9d9_216_plant-33_4553	216	0	beech	plants	83.0
+taxongroup	Nor-c9d9_216_beech-20	Nor-c9d9_216_plant-33	Nor-c9d9_216_beech-20_4930	216	Nor-c9d9_216_plant-33_4553	216	0	beech	plants	83.0
+taxongroup	Fag-261e_2_beeches-21	Fag-261e_2_plants-18	Fag-261e_2_beeches-21_4930	2	Fag-261e_2_plants-18_4553	2	0	beech	plants	83.0
+taxongroup	Fag-261e_2_beech-9	Fag-261e_2_plants-18	Fag-261e_2_beech-9_4930	2	Fag-261e_2_plants-18_4553	2	0	beech	plants	83.0
+taxongroup	Eng-0a3a_19_beech-12	Eng-0a3a_19_plant-8	Eng-0a3a_19_beech-12_4930	19	Eng-0a3a_19_plant-8_4553	19	0	beech	plants	83.0
+taxongroup	Fag-86d1_91_beech-20	Fag-86d1_91_Fagus-22	Fag-86d1_91_beech-20_4930	91	Fag-86d1_91_Fagus-22_929	91	0	beech	Fagus	83.0
+taxongroup	Fag-86d1_91_beech-4	Fag-86d1_91_Fagus-81	Fag-86d1_91_beech-4_4930	91	Fag-86d1_91_Fagus-81_929	91	0	beech	Fagus	83.0
+taxongroup	Tem-ae4d_13_beeches-20	Tem-ae4d_13_Fagus-22	Tem-ae4d_13_beeches-20_4930	13	Tem-ae4d_13_Fagus-22_929	13	0	beech	Fagus	83.0
+taxongroup	Fag-86d1_91_beech-20	Fag-86d1_91_Fagus-36	Fag-86d1_91_beech-20_4930	91	Fag-86d1_91_Fagus-36_929	91	0	beech	Fagus	83.0
+taxongroup	Fag-86d1_91_beech-34	Fag-86d1_91_Fagus-22	Fag-86d1_91_beech-34_4930	91	Fag-86d1_91_Fagus-22_929	91	0	beech	Fagus	83.0
+taxongroup	Fag-86d1_91_beech-20	Fag-86d1_91_Fagus-81	Fag-86d1_91_beech-20_4930	91	Fag-86d1_91_Fagus-81_929	91	0	beech	Fagus	83.0
+taxongroup	Com-f222_530_beeches-12	Com-f222_530_Fagus-14	Com-f222_530_beeches-12_4930	530	Com-f222_530_Fagus-14_929	530	0	beech	Fagus	83.0
+taxongroup	Bee-f189_5_beeches-6	Bee-f189_5_Fagus-4	Bee-f189_5_beeches-6_4930	5	Bee-f189_5_Fagus-4_929	5	0	beech	Fagus	83.0
+taxongroup	Fag-261e_21_beeches-10	Fag-261e_21_Fagus-22	Fag-261e_21_beeches-10_4930	21	Fag-261e_21_Fagus-22_929	21	0	beech	Fagus	83.0
+taxongroup	Hed-8dc6_39_beech-22	Hed-8dc6_39_Fagus-80	Hed-8dc6_39_beech-22_4930	39	Hed-8dc6_39_Fagus-80_929	39	0	beech	Fagus	83.0
+taxongroup	Fag-86d1_91_beech-79	Fag-86d1_91_Fagus-22	Fag-86d1_91_beech-79_4930	91	Fag-86d1_91_Fagus-22_929	91	0	beech	Fagus	83.0
+taxongroup	Fag-34e5_3_beeches-10	Fag-34e5_3_Fagus-8	Fag-34e5_3_beeches-10_4930	3	Fag-34e5_3_Fagus-8_929	3	0	beech	Fagus	83.0
+taxongroup	Bee-f189_36_beeches-3	Bee-f189_36_Fagales-35	Bee-f189_36_beeches-3_4930	36	Bee-f189_36_Fagales-35_3746	36	0	beech	Fagales	83.0
+taxongroup	Bee-f189_36_beeches-13	Bee-f189_36_Fagales-35	Bee-f189_36_beeches-13_4930	36	Bee-f189_36_Fagales-35_3746	36	0	beech	Fagales	83.0
+taxongroup	Fag-86d1_18_beeches-20	Fag-86d1_18_Fagales-17	Fag-86d1_18_beeches-20_4930	18	Fag-86d1_18_Fagales-17_3746	18	0	beech	Fagales	83.0
+taxongroup	Fag-261e_2_beech-9	Fag-261e_2_Fagaceae-2	Fag-261e_2_beech-9_4930	2	Fag-261e_2_Fagaceae-2_597	2	0	beech	Fagaceae	83.0
+taxongroup	Fag-261e_2_beeches-21	Fag-261e_2_Fagaceae-2	Fag-261e_2_beeches-21_4930	2	Fag-261e_2_Fagaceae-2_597	2	0	beech	Fagaceae	83.0
+taxongroup	Fag-261e_30_beeches-6	Fag-261e_30_Fagaceae-18	Fag-261e_30_beeches-6_4930	30	Fag-261e_30_Fagaceae-18_597	30	0	beech	Fagaceae	83.0
+taxongroup	Fag-86d1_91_beech-79	Fag-86d1_91_Fagus-36	Fag-86d1_91_beech-79_4930	91	Fag-86d1_91_Fagus-36_929	91	0	beech	Fagus	83.0
+taxongroup	Fag-86d1_91_beech-79	Fag-86d1_91_Fagus-81	Fag-86d1_91_beech-79_4930	91	Fag-86d1_91_Fagus-81_929	91	0	beech	Fagus	83.0
+taxongroup	Bee-f189_73_beech-9	Bee-f189_73_plants-33	Bee-f189_73_beech-9_4930	73	Bee-f189_73_plants-33_4553	73	0	beech	plants	83.0
+taxongroup	Hed-8dc6_164_beech-12	Hed-8dc6_164_plants-3	Hed-8dc6_164_beech-12_4930	164	Hed-8dc6_164_plants-3_4553	164	0	beech	plants	83.0
+taxongroup	Fag-261e_2_beeches-21	Fag-261e_2_fagus-7	Fag-261e_2_beeches-21_4930	2	Fag-261e_2_fagus-7_4256	2	0	beech	fagus	83.0
+taxongroup	Fag-261e_2_beech-9	Fag-261e_2_fagus-7	Fag-261e_2_beech-9_4930	2	Fag-261e_2_fagus-7_4256	2	0	beech	fagus	83.0
+taxongroup	Bee-f189_46_beech-23	Bee-f189_46_fagus-9	Bee-f189_46_beech-23_4930	46	Bee-f189_46_fagus-9_4256	46	0	beech	fagus	83.0
+taxongroup	Fag-86d1_91_beech-34	Fag-86d1_91_Fagus-36	Fag-86d1_91_beech-34_4930	91	Fag-86d1_91_Fagus-36_929	91	0	beech	Fagus	83.0
+taxongroup	Fag-86d1_24_beech-67	Fag-86d1_24_Fagus-69	Fag-86d1_24_beech-67_4930	24	Fag-86d1_24_Fagus-69_929	24	0	beech	Fagus	83.0
+taxongroup	Fag-86d1_91_beech-34	Fag-86d1_91_Fagus-81	Fag-86d1_91_beech-34_4930	91	Fag-86d1_91_Fagus-81_929	91	0	beech	Fagus	83.0
+taxongroup	Fag-86d1_91_beech-4	Fag-86d1_91_Fagus-36	Fag-86d1_91_beech-4_4930	91	Fag-86d1_91_Fagus-36_929	91	0	beech	Fagus	83.0
+taxongroup	Bee-f189_30_beeches-6	Bee-f189_30_Fagus-4	Bee-f189_30_beeches-6_4930	30	Bee-f189_30_Fagus-4_929	30	0	beech	Fagus	83.0
+taxongroup	Fag-86d1_91_beech-4	Fag-86d1_91_Fagus-22	Fag-86d1_91_beech-4_4930	91	Fag-86d1_91_Fagus-22_929	91	0	beech	Fagus	83.0
+taxongroup	Mag-8f64_13_Magnoliopsida-11	Mag-8f64_13_angiosperms-25	Mag-8f64_13_Magnoliopsida-11_390	13	Mag-8f64_13_angiosperms-25_4972	13	0	Magnoliopsida	angiosperms 	83.0
+taxongroup	Rho-ff03_2_azalea-40	Rho-ff03_2_plant-15	Rho-ff03_2_azalea-40_4573	2	Rho-ff03_2_plant-15_4553	2	0	mock azalea	plants	83.0
+taxongroup	Cra-2aca_9_maythorn-9	Cra-2aca_9_plant-14	Cra-2aca_9_maythorn-9_4838	9	Cra-2aca_9_plant-14_4553	9	0	maythorn	plants	83.0
+taxongroup	Cra-2aca_9_mayblossom-7	Cra-2aca_9_plant-14	Cra-2aca_9_mayblossom-7_4837	9	Cra-2aca_9_plant-14_4553	9	0	mayblossom	plants	83.0
+taxongroup	Mag-8f64_17_Magnoliopsida-2	Mag-8f64_17_angiosperms-4	Mag-8f64_17_Magnoliopsida-2_390	17	Mag-8f64_17_angiosperms-4_4972	17	0	Magnoliopsida	angiosperms 	83.0
+taxongroup	Ali-419f_24_Magnoliopsida-22	Ali-419f_24_angiosperms-25	Ali-419f_24_Magnoliopsida-22_390	24	Ali-419f_24_angiosperms-25_4972	24	0	Magnoliopsida	angiosperms 	83.0
+taxongroup	Dic-c8bf_31_Magnoliopsida-20	Dic-c8bf_31_angiosperms-8	Dic-c8bf_31_Magnoliopsida-20_390	31	Dic-c8bf_31_angiosperms-8_4972	31	0	Magnoliopsida	angiosperms 	83.0
+taxongroup	Hed-8dc6_183_Haw-15	Hed-8dc6_183_plant-12	Hed-8dc6_183_Haw-15_1986	183	Hed-8dc6_183_plant-12_1402	183	0	Haw	Plants	83.0
+taxongroup	Lil-d11f_80_Magnoliopsida-26	Lil-d11f_80_angiosperms-28	Lil-d11f_80_Magnoliopsida-26_390	80	Lil-d11f_80_angiosperms-28_4972	80	0	Magnoliopsida	angiosperms 	83.0
+taxongroup	Ada-40f7_105_baobab-3	Ada-40f7_105_angiosperm-21	Ada-40f7_105_baobab-3_4565	105	Ada-40f7_105_angiosperm-21_4972	105	0	baobabs	angiosperms 	83.0
+taxongroup	Pan-c6cc_56_Pansies-1	Pan-c6cc_56_plants-17	Pan-c6cc_56_Pansies-1_3615	56	Pan-c6cc_56_plants-17_1402	56	0	Pansy	Plants	83.0
+taxongroup	Pas-a544_2_vines-11	Pas-a544_2_Passifloraceae-30	Pas-a544_2_vines-11_3014	2	Pas-a544_2_Passifloraceae-30_737	2	0	Passion vines	Passifloraceae	83.0
+taxongroup	Oak-f2b6_135_oaks-11	Oak-f2b6_135_angiosperms-23	Oak-f2b6_135_oaks-11_4407	135	Oak-f2b6_135_angiosperms-23_4972	135	0	oaks	angiosperms 	83.0
+taxongroup	Pan-c6cc_134_pansy-8	Pan-c6cc_134_plant-25	Pan-c6cc_134_pansy-8_5598	134	Pan-c6cc_134_plant-25_1402	134	0	pansy	Plants	83.0
+taxongroup	Pan-c6cc_46_pansy-26	Pan-c6cc_46_plants-23	Pan-c6cc_46_pansy-26_5598	46	Pan-c6cc_46_plants-23_4553	46	0	pansy	plants	83.0
+taxongroup	Pan-c6cc_2_pansy-3	Pan-c6cc_2_plant-18	Pan-c6cc_2_pansy-3_5598	2	Pan-c6cc_2_plant-18_4553	2	0	pansy	plants	83.0
+taxongroup	Vio6842_3_pansies-3	Vio6842_3_plants-12	Vio6842_3_pansies-3_5598	3	Vio6842_3_plants-12_4553	3	0	pansy	plants	83.0
+taxongroup	Vio-0709_37_pansy-10	Vio-0709_37_plant-6	Vio-0709_37_pansy-10_5598	37	Vio-0709_37_plant-6_4553	37	0	pansy	plants	83.0
+taxongroup	Pan-c6cc_13_pansies-11	Pan-c6cc_13_plants-6	Pan-c6cc_13_pansies-11_5598	13	Pan-c6cc_13_plants-6_4553	13	0	pansy	plants	83.0
+taxongroup	Ver-e8b0_98_pansies-12	Ver-e8b0_98_plants-2	Ver-e8b0_98_pansies-12_5598	98	Ver-e8b0_98_plants-2_4553	98	0	pansy	plants	83.0
+taxongroup	Eas-e016_172_oak-28	Eas-e016_172_angiosperms-23	Eas-e016_172_oak-28_4407	172	Eas-e016_172_angiosperms-23_4972	172	0	oaks	angiosperms 	83.0
+taxongroup	Oak-f2b6_135_Fagaceae-2	Oak-f2b6_135_angiosperms-23	Oak-f2b6_135_Fagaceae-2_597	135	Oak-f2b6_135_angiosperms-23_4972	135	0	Fagaceae	angiosperms 	83.0
+taxongroup	Que-fbc5_2_oak-6	Que-fbc5_2_family-19	Que-fbc5_2_oak-6_4407	2	Que-fbc5_2_family-19_4106	2	0	oaks	beech family	83.0
+taxongroup	Que-fbc5_2_oak-18	Que-fbc5_2_family-19	Que-fbc5_2_oak-18_4407	2	Que-fbc5_2_family-19_4106	2	0	oaks	beech family	83.0
+taxongroup	Que-fbc5_58_oak-2	Que-fbc5_58_oak-2	Que-fbc5_58_oak-2_3155	58	Que-fbc5_58_oak-2_4407	58	0	Pedunculate oak	oaks	83.0
+taxongroup	Oak-f2b6_135_Quercus-33	Oak-f2b6_135_angiosperms-23	Oak-f2b6_135_Quercus-33_1175	135	Oak-f2b6_135_angiosperms-23_4972	135	0	Quercus	angiosperms 	83.0
+taxongroup	Que-fbc5_2_Quercus-1	Que-fbc5_2_family-19	Que-fbc5_2_Quercus-1_1175	2	Que-fbc5_2_family-19_4106	2	0	Quercus	beech family	83.0
+taxongroup	Mon-1726_135_dicots-53	Mon-1726_135_plants-30	Mon-1726_135_dicots-53_4004	135	Mon-1726_135_plants-30_1402	135	0	dicots	Plants	83.0
+taxongroup	Mon-1726_193_dicots-15	Mon-1726_193_plants-10	Mon-1726_193_dicots-15_4004	193	Mon-1726_193_plants-10_1402	193	0	dicots	Plants	83.0
+taxongroup	Pan-c6cc_134_heartsease-16	Pan-c6cc_134_plant-25	Pan-c6cc_134_heartsease-16_5597	134	Pan-c6cc_134_plant-25_4553	134	0	heartsease	plants	83.0
+taxongroup	Mon-1726_3_dicots-34	Mon-1726_3_plants-23	Mon-1726_3_dicots-34_4004	3	Mon-1726_3_plants-23_1402	3	0	dicots	Plants	83.0
+taxongroup	Mon-1726_3_dicots-34	Mon-1726_3_plants-12	Mon-1726_3_dicots-34_4004	3	Mon-1726_3_plants-12_1402	3	0	dicots	Plants	83.0
+taxongroup	Mon-1726_194_dicots-61	Mon-1726_194_plants-50	Mon-1726_194_dicots-61_4004	194	Mon-1726_194_plants-50_1402	194	0	dicots	Plants	83.0
+taxongroup	Mon-1726_135_dicots-53	Mon-1726_135_plants-13	Mon-1726_135_dicots-53_4004	135	Mon-1726_135_plants-13_1402	135	0	dicots	Plants	83.0
+taxongroup	Cra-2aca_9_haw-27	Cra-2aca_9_plant-14	Cra-2aca_9_haw-27_4836	9	Cra-2aca_9_plant-14_4553	9	0	haw	plants	83.0
+taxongroup	Mon-1726_165_dicotyledons-12	Mon-1726_165_angiosperms-33	Mon-1726_165_dicotyledons-12_4003	165	Mon-1726_165_angiosperms-33_4972	165	0	dicotyledons	angiosperms 	83.0
+taxongroup	Asp-d39c_106_dicotyledons-21	Asp-d39c_106_angiosperms-14	Asp-d39c_106_dicotyledons-21_4003	106	Asp-d39c_106_angiosperms-14_4972	106	0	dicotyledons	angiosperms 	83.0
+taxongroup	Dic-c8bf_2_dicotyledons-2	Dic-c8bf_2_angiosperms-30	Dic-c8bf_2_dicotyledons-2_4003	2	Dic-c8bf_2_angiosperms-30_4972	2	0	dicotyledons	angiosperms 	83.0
+taxongroup	Mon-1726_15_dicotyledons-13	Mon-1726_15_angiosperms-47	Mon-1726_15_dicotyledons-13_4003	15	Mon-1726_15_angiosperms-47_4972	15	0	dicotyledons	angiosperms 	83.0
+taxongroup	Mon-1726_165_dicotyledons-12	Mon-1726_165_angiosperms-5	Mon-1726_165_dicotyledons-12_4003	165	Mon-1726_165_angiosperms-5_4972	165	0	dicotyledons	angiosperms 	83.0
+taxongroup	Mag-8f64_17_dicotyledons-9	Mag-8f64_17_angiosperms-4	Mag-8f64_17_dicotyledons-9_4003	17	Mag-8f64_17_angiosperms-4_4972	17	0	dicotyledons	angiosperms 	83.0
+taxongroup	Dic-c8bf_2_dicots-7	Dic-c8bf_2_plants-28	Dic-c8bf_2_dicots-7_4004	2	Dic-c8bf_2_plants-28_4553	2	0	dicots	plants	83.0
+taxongroup	Hed-8dc6_39_beech-78	Hed-8dc6_39_Fagus-80	Hed-8dc6_39_beech-78_4930	39	Hed-8dc6_39_Fagus-80_929	39	0	beech	Fagus	83.0
+taxongroup	Flo-e790_24_Eucalyptus-5	Flo-e790_24_angiosperms-3	Flo-e790_24_Eucalyptus-5_2131	24	Flo-e790_24_angiosperms-3_4972	24	0	Eucalyptus	angiosperms 	72.21

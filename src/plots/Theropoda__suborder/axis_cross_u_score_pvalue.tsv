@@ -1,0 +1,6 @@
+rel_role	adaptation_comment	adaptation_topic	free_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	1.0	0.0	0.0	0.0	0.0	Theropoda__suborder	167
+adaptation_topic	0.0	1.0	0.0	0.0	0.076	Theropoda__suborder	188
+free_topic	0.0	0.0	1.0	0.0	0.0	Theropoda__suborder	387
+taxongroup_comment	0.0	0.0	0.0	1.0	0.0	Theropoda__suborder	407
+taxongroup_topic	0.0	0.076	0.0	0.0	1.0	Theropoda__suborder	437

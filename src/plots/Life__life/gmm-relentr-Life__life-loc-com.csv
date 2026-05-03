@@ -1,0 +1,21 @@
+,feat,cluster,pw_entr,feat_n,N,group,relrole
+0,amod> ...,0,0.313,1.0,3.0,Life__life,location_comment
+2,case> ...,0,0.313,1.0,3.0,Life__life,location_comment
+3,case> from,0,0.448,1.0,3.0,Life__life,location_comment
+8,amod> ...,1,-0.027,1.0,10.0,Life__life,location_comment
+9,amod> open,1,0.014,1.0,10.0,Life__life,location_comment
+10,case> ...,1,-0.027,1.0,10.0,Life__life,location_comment
+11,case> from,1,0.014,1.0,10.0,Life__life,location_comment
+12,case> in,1,0.014,1.0,10.0,Life__life,location_comment
+13,det> the,1,-0.027,1.0,10.0,Life__life,location_comment
+14,nsubj<obl>case> ...,1,-0.027,1.0,10.0,Life__life,location_comment
+15,obl< ...,1,0.097,3.0,10.0,Life__life,location_comment
+17,amod> open,2,0.264,1.0,4.0,Life__life,location_comment
+20,case> in,2,0.264,1.0,4.0,Life__life,location_comment
+21,det> the,2,0.163,1.0,4.0,Life__life,location_comment
+23,obl< ...,2,0.035,1.0,4.0,Life__life,location_comment
+24,amod> ...,3,0.313,1.0,3.0,Life__life,location_comment
+26,case> ...,3,0.313,1.0,3.0,Life__life,location_comment
+31,obl< ...,3,0.142,1.0,3.0,Life__life,location_comment
+37,det> the,4,0.313,1.0,3.0,Life__life,location_comment
+38,nsubj<obl>case> ...,4,1.088,2.0,3.0,Life__life,location_comment

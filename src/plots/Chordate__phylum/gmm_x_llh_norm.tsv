@@ -1,0 +1,8 @@
+source	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	32.85	0.02	18.91	0.0	15.64	16.72	15.86	Chordate__phylum	63
+adaptation_topic	0.0	25.55	18.22	0.0	5.14	25.55	25.55	Chordate__phylum	121
+free_topic	0.0	0.0	63.14	0.0	7.15	13.93	15.77	Chordate__phylum	910
+location_comment	0.0	0.0	0.27	99.46	0.17	0.06	0.04	Chordate__phylum	59
+location_topic	0.0	0.0	0.0	0.0	55.87	23.98	20.15	Chordate__phylum	199
+taxongroup_comment	0.0	0.0	0.1	0.0	5.46	52.14	42.31	Chordate__phylum	354
+taxongroup_topic	0.0	0.0	0.14	0.0	5.16	38.73	55.96	Chordate__phylum	348

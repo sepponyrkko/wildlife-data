@@ -1,0 +1,8 @@
+source	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	87.81	0.05	7.02	0.0	0.01	2.91	2.2	Snake__suborder	82
+adaptation_topic	0.0	86.41	6.56	0.0	0.01	4.77	2.25	Snake__suborder	108
+free_topic	0.0	0.19	87.34	0.0	0.0	10.06	2.41	Snake__suborder	874
+location_comment	0.0	0.69	35.43	35.43	0.0	17.28	11.16	Snake__suborder	73
+location_topic	0.0	1.41	17.75	0.0	63.71	9.87	7.25	Snake__suborder	137
+taxongroup_comment	0.0	0.0	1.54	0.0	0.0	95.06	3.4	Snake__suborder	209
+taxongroup_topic	0.0	0.0	1.84	0.0	0.0	13.89	84.27	Snake__suborder	197

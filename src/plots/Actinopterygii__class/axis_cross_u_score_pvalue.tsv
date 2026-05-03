@@ -1,0 +1,8 @@
+rel_role	adaptation_comment	adaptation_topic	free_topic	location_comment	location_topic	taxongroup_comment	taxongroup_topic	group	N
+adaptation_comment	1.0	0.001	0.0	0.009	0.001	0.076	0.001	Actinopterygii__class	105
+adaptation_topic	0.001	1.0	0.003	0.004	0.066	0.046	0.131	Actinopterygii__class	137
+free_topic	0.0	0.003	1.0	0.0	0.0	0.0	0.033	Actinopterygii__class	309
+location_comment	0.009	0.004	0.0	1.0	0.003	0.003	0.0	Actinopterygii__class	72
+location_topic	0.001	0.066	0.0	0.003	1.0	0.009	0.015	Actinopterygii__class	145
+taxongroup_comment	0.076	0.046	0.0	0.003	0.009	1.0	0.04	Actinopterygii__class	289
+taxongroup_topic	0.001	0.131	0.033	0.0	0.015	0.04	1.0	Actinopterygii__class	310
